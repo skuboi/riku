@@ -1,0 +1,1817 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Incense of Calm (XC3)</title>
+    <ns>0</ns>
+    <id>118967</id>
+    <revision>
+      <id>592800</id>
+      <parentid>592570</parentid>
+      <timestamp>2023-05-15T20:16:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592800</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1037" sha1="0l5krr5zi7ksaaxh5lscqg5s7k2ygqq" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Incense of Calm (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Incense of Calm
+|image     = XC3 Accessory Pack.png
+|caption   = Grants 60% resistance to Sleep.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Incense of Calm
+|image     = XC3 Accessory Pack.png
+|caption   = Grants 65% resistance to Sleep.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Incense of Calm
+|image     = XC3 Accessory Pack.png
+|caption   = Grants 70% resistance to Sleep.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Incense of Calm''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>0l5krr5zi7ksaaxh5lscqg5s7k2ygqq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Incense of Elegance</title>
+    <ns>0</ns>
+    <id>122630</id>
+    <revision>
+      <id>592801</id>
+      <parentid>592448</parentid>
+      <timestamp>2023-05-15T20:16:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592801</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1003" sha1="dg7v6qtevigkpsfxiuat45dj8779c55" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Incense of Elegance
+|image     = XC3 Accessory Pack.png
+|caption   = Grants 90% resistance to Sleep.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Incense of Elegance
+|image     = XC3 Accessory Pack.png
+|caption   = Grants 95% resistance to Sleep.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Incense of Elegance
+|image     = XC3 Accessory Pack.png
+|caption   = Grants 100% resistance to Sleep.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Incense of Elegance''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>dg7v6qtevigkpsfxiuat45dj8779c55</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Incomplete Siege-Lev</title>
+    <ns>0</ns>
+    <id>123832</id>
+    <revision>
+      <id>576751</id>
+      <parentid>559251</parentid>
+      <timestamp>2023-02-13T01:59:44Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576751</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1079" sha1="i95f0ud94zm4ghkhen1j0844lyqheam" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Incomplete Siege-Lev
+|image        = 
+|caption      = Incomplete Siege-Lev
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 22
+|area         = [[Ribbi Flats]] ([[Colony 30]])
+|spawntime    = During ''[[The Kind Right Hand]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Incomplete Siege-Lev''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a [[Keves]]i [[Levnis]] that is fought at level 22 in [[Colony 30]] in the [[Ribbi Flats]] during ''[[The Kind Right Hand]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>i95f0ud94zm4ghkhen1j0844lyqheam</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Incorruptible Sitre</title>
+    <ns>0</ns>
+    <id>123794</id>
+    <revision>
+      <id>596143</id>
+      <parentid>563630</parentid>
+      <timestamp>2023-06-16T20:23:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Story */cat.</comment>
+      <origin>596143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1426" sha1="cximw0js1vivuldb3er0le0jlwi3r6e" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Incorruptible Sitre
+|image        = XC3 Incorruptible Sitre.png
+|caption      = Incorruptible Sitre
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 68
+|area         = [[Keves Castle]] ([[Ascension Hall (XC3)|Ascension Hall]])
+|spawntime    = During ''[[Fate]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Incorruptible Sitre''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is part of the [[Keves Forces]] and is fought at level 68 in [[Keves Castle]] during ''[[Fate]]''.
+
+== Story ==
+She is one of the Four Divine Wings staging an armed uprising within the castle, alongside [[Mediator Adrinael]], [[Overfist Balroy]], and [[Puckish Lycconen]]. She was tortured by [[Hexen]] in the past, and has trauma as a result from it.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>cximw0js1vivuldb3er0le0jlwi3r6e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Incursor</title>
+    <ns>0</ns>
+    <id>117415</id>
+    <revision>
+      <id>599634</id>
+      <parentid>596788</parentid>
+      <timestamp>2023-07-13T11:45:28Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>599634</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7159" sha1="pyu8x146vn73rnd16m78mkmb1hm5g8x" xml:space="preserve">[[File:XC3 Incursor Weapon Icon.png|thumb|Incursor Class Icon]]
+{{quote|An elegant Attacker, whose exquisite sword grows even keener with critical hits.|Class menu description}}
+'''Incursor''' (Japanese: {{lang|ja|&#25915;&#39438;&#22763;}}, ''koukishi'', Offensive Knight) is an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref&gt;https://www.youtube.com/watch?v=hoHvpS2x8us&lt;/ref&gt; 
+
+== Overview ==
+Incursors have a higher critical hit rate to deal more damage, and with each critical hit their attack power rises higher.&lt;ref&gt;https://mobile.twitter.com/XenobladeJP/status/1544940771534462976&lt;/ref&gt; It is the class of [[Alexandria]].
+
+It is unlocked by completing the [[Hero Quest]] ''[[Her Reasons]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Inescapable Past]]''.
+
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|6,300
+|5,400
+|2,700
+|''Class Inheritor''
+|4,500
+|3,600
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 220
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 220
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 270
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 270
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 325
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 325
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 355 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 380
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Inescapable Past]]''
+|-
+| 11 
+| 325
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 325
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 435
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 435
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 540
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 540 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 650
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 650
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 705
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 810
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Incursor class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 70% || 110% || 15% || 100% || 90% || 15% || 5%
+|-
+| 10 || 72% || 115% || 17% || 102% || 95% || 17% || 7%
+|-
+| 20 || 75% || 120% || 20% || 105% || 100% || 20% || 10%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 19 || 25% || 3%
+|-
+| 10 || 40 || 26% || 3%
+|-
+| 20 || 73 || 27% || 4%
+|-
+| 30 || 114 || 28% || 4%
+|-
+| 40 || 159 || 29% || 4%
+|-
+| 50 || 212 || 30% || 5%
+|-
+| 60 || 270 || 31% || 5%
+|-
+| 70 || 335 || 32% || 5%
+|-
+| 80 || 408 || 33% || 5%
+|-
+| 90 || 491 || 34% || 6%
+|-
+| 99 || 575 || 35% || 6%
+|}
+== Arts ==
+* '''[[Supreme Sword (XC3)|Supreme Sword]]''' ([[Battle Arts (XC3)|Talent Art]]), [[Launch (XC3)|Launched]]&#8593;
+* [[Reversal Edge]], Crit.+ during enemy Art
+* [[Glitter Stream]], Side [[Break (XC3)|Break]] (Rank 10 Master Art)
+* [[Sidewinder (XC3)|Sidewinder]], AOE/Back Crit. Rate+
+* [[Aerial Slash (XC3)|Aerial Slash]], High Crit. Rate/Evade (Rank 1 Master Art)
+* [[Mystic Vision]], Crit. Rate &amp; dmg+
+
+=== Hero-Exclusive Arts ===
+* [[Etched Deep]], Side [[Break (XC3)|Break]]
+* [[Luminous Illusion]], High Crit. Rate/Evade
+* [[Mirage Divide]], AOE / Mid-Art enemy&#8593;
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 10.png]] '''Adroit Blade''':  Boosts damage dealt by 4-8% when landing a critical hit (up to a maximum of 150%).
+* [[File:XC3 Skill Icon 3.png]] '''Eye for Weak Points''':  Each successful attack boosts Critical Rate by 1-2% of inital value (up to a maximum of 100%). (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 3.png]] '''Floating Kill''':  Boosts Critical Rate by 60-100% when attacking a launched enemy.
+* [[File:XC3 Skill Icon 13.png]] '''Vigilance''':  Boosts Critial Rate of auto-attacks by 50-150%. (Rank 5 Master Skill)
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:100%;"
+!Class Rank
+!Adroit Blade
+!Floating Kill
+!Vigilance
+!Eye for Weak Points
+|-
+| 1
+| 4%
+| 60%
+| 50%
+| 1%
+|-
+| 5
+| 5%
+| 70%
+| 75%
+| 1.2%
+|-
+| 10
+| 6%
+| 80%
+| 100%
+| 1.5%
+|-
+| 15
+| 7%
+| 90%
+| 125%
+| 1.7%
+|-
+| 20
+| 8%
+| 100%
+| 150%
+| 2%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Alexandria Artwork.png|Alexandria, an Incursor
+XC3 Alexandria screenshot 01.jpg
+XC3 Alexandria screenshot 02.jpg
+XC3 Alexandria screenshot 03.jpg
+XC3 Alexandria screenshot 04.jpg
+Incursor Noah.png|Noah as a Incursor
+Incursor Mio.png|Mio as a Incursor
+Incursor Eunie.png|Eunie as a Incursor
+Incursor Taion.png|Taion as a Incursor
+Incursor Lanz.png|Lanz as a Incursor
+Incursor Sena.png|Sena as a Incursor
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>pyu8x146vn73rnd16m78mkmb1hm5g8x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Indiscreet Gombaba</title>
+    <ns>0</ns>
+    <id>117907</id>
+    <revision>
+      <id>583302</id>
+      <parentid>574452</parentid>
+      <timestamp>2023-04-17T15:46:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1437" sha1="31aoyivyvnwksendrfdezdn1rcyg88j" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Indiscreet Gombaba
+|image        = XC3 Indiscreet Gombaba.jpg
+|caption      = Indiscreet Gombaba
+|category     = [[Unique Monster (XC3)|Unique Monster]]
+|type         = [[Brog]]
+|level        = 12
+|area         = [[Millick Meadows]] ([[Millick Ravine Way]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 279
+|cp           = 445
+|sp           = 5
+|gold         = 245
+|hp           = 87,550
+|strength     = 122
+|healing      = 93
+|dexterity    = 48
+|agility      = 49
+|physdef      = 15%
+|ethdef       = 10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Indiscreet Gombaba''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Brog]] family and can be found at level 12 near [[Millick Ravine Way]] in [[Millick Meadows]]. The [[Sumo Press]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+|knockback = 80%
+|blowdown = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Indiscreet Gombaba Tombstone.jpeg|Tombstone location
+Indiscreet gombaba location.png
+Indiscreet gombaba.png
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>31aoyivyvnwksendrfdezdn1rcyg88j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Induction Bangle</title>
+    <ns>0</ns>
+    <id>122852</id>
+    <revision>
+      <id>592802</id>
+      <parentid>592311</parentid>
+      <timestamp>2023-05-15T20:16:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592802</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1081" sha1="8x6vp3zt7ws78vsodkxzlcyfif9p1mz" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Induction Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Induction Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Induction Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 29%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Induction Bangles''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>8x6vp3zt7ws78vsodkxzlcyfif9p1mz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Infiltrator Garnach</title>
+    <ns>0</ns>
+    <id>119459</id>
+    <revision>
+      <id>574739</id>
+      <parentid>574456</parentid>
+      <timestamp>2023-01-30T13:01:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1395" sha1="bjoqxgpmha5in8a5z1ip1pw626ki51x" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Infiltrator Garnach
+|image        = XC3 Infiltrator Garnach.png
+|caption      = Infiltrator Garnach
+|type         = [[Levnis]]
+|level        = 64
+|area         = [[Syra Hovering Reefs]] ([[Fourth Ixia Bridge]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 5,402
+|cp           = 850
+|sp           = 5
+|gold         = 7,781
+|hp           = 3,009,600
+|strength     = 1,465
+|healing      = 525
+|dexterity    = 221
+|agility      = 141
+|physdef      = 20%
+|ethdef       = -10%
+|critrate     = 5%
+|guardrate    = 5%
+}}
+'''Infiltrator Garnach''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 64 on the [[Fourth Ixia Bridge]] in the [[Syra Hovering Reefs]]. The [[Soulhacker#Enemy Skills|Super Explosion]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = Immune
+|etherdebuff = 80%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Infiltrator garnach location.png
+Infiltrator garnach.png
+&lt;/gallery&gt;
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bjoqxgpmha5in8a5z1ip1pw626ki51x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Inhumanity</title>
+    <ns>0</ns>
+    <id>120404</id>
+    <revision>
+      <id>579112</id>
+      <parentid>577176</parentid>
+      <timestamp>2023-03-13T17:43:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Updated details</comment>
+      <origin>579112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2001" sha1="dlsam8t3kxxte6b16g7bm8xkenlvswk" xml:space="preserve">{{Infobox quest
+|name        = Inhumanity
+|image       = Inhumanity.jpg
+|description = "A mysterious girl appeared, piloting a fearsome Levnis. Just who is this person...?"
+|giver       = 
+|location    = [[Captocorn Peak]] ([[Nocclia Mire]])
+|time        = 
+|prereqs     = ''[[The Illusion Returns]]'' completed
+|reclevel    = Lv. 56
+|rewards     = 400 [[Colony 0]] [[Affinity (XC3)|Affinity]]&lt;br/&gt; 4900 [[Experience Points (XC3)|EXP]]&lt;br/&gt;4600 [[Gold|G]]&lt;br/&gt; 10 [[Soul Tree|SP]]&lt;br/&gt;[[Segiri]] as a [[Hero]]
+}}
+'''Inhumanity''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Segiri]]. It is received immediately upon completion of ''[[The Illusion Returns]]''. The Hazard Neutralization [[Traversal Skill]] is unlocked during this quest.
+
+== Objectives ==
+# ''Talk with the specified character(s).''
+#* [[Hollis]]
+# ''Talk with the specified character(s).''
+#* Doctor's Aide
+# ''Head for the specified location(s).''
+#* Vacant room in [[Caelum Residential Quarter]]
+# ''Hold a discussion at a rest spot.''
+#* No. 7
+#** Must be discussed at the [[City Camp]].
+# ''Talk with the specified character(s).''
+#* [[Colony Lambda|Lambda]] Soldier
+# ''Make [[Onigiri|onigiri]] at [[Michiba Canteen]].''
+# ''Head for the specified location(s).''
+#* Vacant room in Caelum Residential Quarter
+# ''Talk with the specified character(s).''
+#* [[Segiri]]
+# ''Talk with the specified character(s).''
+#* Segiri
+#** Give Segiri the order
+# ''Retrieve the Ferron.''
+# ''Head for the specified location(s).''
+#* [[Nocclia Mire]]
+#** The "Hazard Neutralization" [[Traversal Skill]] is unlocked at this point.
+# ''Talk with [[Colony 0]] soldiers.''
+# ''Defeat the specified foe(s).''
+#* Colony 0 Battlegroup (5)
+#** [[Segiri#Battle|No. 7]]
+#** [[Ferron Unit]] (4)
+
+== Results ==
+''"The dark fate surrounding Colony 0 has been lifted thanks to [[Sena]] and the [[Ouroboros]]. No. 7, or Segiri, now ponders the meaning of freedom."''
+{{clr}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Aetia Region Quests]]
+[[Category:Segiri]]</text>
+      <sha1>dlsam8t3kxxte6b16g7bm8xkenlvswk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ino Unlimited</title>
+    <ns>0</ns>
+    <id>124383</id>
+    <revision>
+      <id>591888</id>
+      <parentid>581002</parentid>
+      <timestamp>2023-05-14T14:35:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Trivia */</comment>
+      <origin>591888</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="693" sha1="oaokj3krso3moxtwaqd9pe95ppawl9q" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = Ino Unlimited
+|image       = Ino Chain Attack Render.png
+|who         = [[Ino]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Increases damage ratio by 150-300 percentage points.
+|duration    = 
+|recharge    = 
+}}
+'''Ino Unlimited''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Ino]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+== Trivia ==
+*The name of this Chain Art is a reference to [[Poppi Unlimited]], [[Poppi QT&#960;]]'s Level III Blade Special in {{XC2}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>oaokj3krso3moxtwaqd9pe95ppawl9q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Insecticide</title>
+    <ns>0</ns>
+    <id>124257</id>
+    <revision>
+      <id>576277</id>
+      <parentid>561980</parentid>
+      <timestamp>2023-02-09T13:11:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1157" sha1="lykxrbt6pdkqgmv37l4uie86kw263yc" xml:space="preserve">{{Infobox quest
+|name         = Insecticide
+|image        = XC3 Challenge Battle Mode.png
+|description  = "Giant bugs appear at Llyn Nyddwr! Huge red Plambus spew unpleasant gas, so might want to prioritize..."
+|giver        = [[Nopon Archsage]]
+|location     = [[Land of Challenge (XC3)|Land of Challenge]]
+|difficultyCB3= 1
+|rewards      = 300-600 [[Noponstone]]s
+}}
+'''Insecticide''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear A outfit for [[Mio]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 3
+|-
+| Level Restriction || Lv 20
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[Baccura Caterpile]] x1 || 22
+|-
+| Baccura Caterpile x4 || 20
+|-
+| 2 || [[Illumi Skeeter (XC3)|Illumi Skeeter]] x6 || 23
+|-
+| rowspan="2" | 3 || [[Lodmoro Plambus]] x 1|| 25
+|-
+| [[Kassis Plambus]] x1 || 25
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>lykxrbt6pdkqgmv37l4uie86kw263yc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Interlink</title>
+    <ns>0</ns>
+    <id>116767</id>
+    <revision>
+      <id>598351</id>
+      <parentid>582189</parentid>
+      <timestamp>2023-07-08T04:51:37Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>link rocco's blog on aggro mechanics for a more useful interpretation of this effect</comment>
+      <origin>598351</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4299" sha1="ifr8munx2j1lqf8euzvkng959my44bd" xml:space="preserve">{{spoiler}}
+{{Infobox Mechanic
+|name        = Interlink
+|image       = Ouroborus.png
+|caption     = Interlink
+|purpose     = 
+|appearances = {{XC3}}
+|other       = 
+|related     = [[Ouroboros]]
+}}
+'''Interlink''' (Japanese: {{lang|ja|&#12452;&#12531;&#12479;&#12522;&#12531;&#12463;}}, ''intarinku'') is a mechanic in {{XC3}}.&lt;ref&gt;[https://www.businesswire.com/news/home/20220419005438/en ''Xenoblade Chronicles 3'' Launches for Nintendo Switch on July 29], Business Wire, published April 19, 2022, retrieved April 19, 2022.&lt;/ref&gt;
+
+== Overview ==
+Interlink is a system that can be utilized by various pairs of playable characters to combine them into a larger form, called [[Ouroboros]], when certain conditions are met, making them significantly more powerful with special abilities. However, if used for too long, the Ouroboros will overheat. The overheating itself is harmless, but prolonged use after overheating leads to an [[Annihilation Event]] that destroys everything within a wide area of the Interlinked pair. 
+
+[[Noah]] &amp; [[Mio]], [[Eunie]] &amp; [[Taion]], and [[Lanz]] &amp; [[Sena]] are all capable of interlinking; the Moebius also possess this ability, with the Consuls [[O]] and [[P]] being the first to demonstrate the ability as well as the Consuls [[D]] and [[Joran|J]]. 
+
+== Interlink Level ==
+By using [[Battle Arts (XC3)|Fusion Arts]], Ouroboros can be strengthened from level 0 to level 3. These levels are called '''Interlink Levels''', and the higher the level, the more powerful it becomes. Additionally, at Interlink Level 3, certain [[Battle Arts (XC3)#Ouroboros Arts by character|Arts]] gain additional effects.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1544217186348453888&lt;/ref&gt; The Interlink level cannot be increased in the Ouroboros form, and resets to 0 after an Interlink is released, meaning that in order to reach level 3 one must hold off on Interlinking until the Interlink level reaches that stage.
+
+== Benefits of Interlinking ==
+Interlinks have the following modifiers applied to them depending on the Interlink level. Note that this is an incomplete list: &lt;!-- Values interpreted from the datamine; there are two columns in the datamine, named AtkRevM and field_454E37BF, whose effects are unknown --&gt;
+{| class="xc1" style="width:100%;"
+!rowspan="2"| Effect
+!colspan="4"| Interlink Level
+|-
+!Lv 0
+!Lv 1
+!Lv 2
+!Lv 3
+|-
+| Damage Dealt
+| -20%
+| +50%
+| +150%
+| +300%
+|-
+| Damage Taken
+| +40%
+| 0%
+| -30%
+| -60%
+|-
+| Critical Rate
+| -20%
+| 0%
+| +10%
+| +25%
+|-
+| Block Rate
+| -50%
+| 0%
+| +50%
+| +100%
+|-
+| Accuracy
+| -15%
+| 0%
+| +15%
+| +35%
+|-
+| Evasion
+| -20%
+| 0%
+| +10%
+| +25%
+|-
+| Recharge Speed
+| -20%
+| 0%
+| +25%
+| +50%
+|-
+| Reaction/Combo Resistance
+| +10%
+| +25%
+| +50%
+| +75%
+|-
+| Enemy Reaction/Combo Resistance
+| 0%
+| -10%
+| -25%
+| -40%
+|}
+
+Additionally, Interlinking at level 1 or higher will confer role-specific benefits depending on the role of the Interlinked character. Note that these effects take effect every time the Ouroboros form is initiated or switched to.
+
+{| class="xc1" style="width:100%;"
+!rowspan="2"| Role
+!rowspan="2" style="width:60%;"| Effect
+!colspan="3"| Interlink Level
+|-
+!Lv 1
+!Lv 2
+!Lv 3
+|-
+![[File:XC3 Attacker Role Icon.png|25px]]&lt;br&gt;[[Attacker]]
+|Deals a percentage of user's Attack as defense-bypassing damage to all enemies.
+|1250%
+|3000%
+|5000%
+|-
+![[File:XC3 Defender Role Icon.png|25px]]&lt;br&gt;[[Defender (XC3)|Defender]]
+|Greatly increases the user's own aggro.&lt;ref&gt;https://rocco.dev/blog/xenoblade-3-aggro/&lt;/ref&gt;
+|&lt;abbr title="Aggro of the Ouroboros is multiplied by this value"&gt;2x&lt;/abbr&gt;
+|&lt;abbr title="Aggro of the Ouroboros is multiplied by this value"&gt;3.5x&lt;/abbr&gt;
+|&lt;abbr title="Aggro of the Ouroboros is multiplied by this value"&gt;6x&lt;/abbr&gt;
+|-
+![[File:XC3 Healer Role Icon.png|25px]]&lt;br&gt;[[Healer]]
+|Heals the entire party for a percentage of their maximum HP.
+|25%
+|50%
+|100%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+Ouroboros Fusion Artwork.jpg|Artwork of Noah and Mio interlinking
+Noah Mio Ouroboros fusion Screenshot.jpeg|Noah and Mio interlinking
+Lanz Sena Ouroboros fusion screenshot.jpeg|Lanz and Sena interlinking
+CI NSwitch XenobladeChronicles3 Ouroboros 02.jpg
+XC3 Interlink Level 3.jpg|The Interlink Level reaching 3
+&lt;/gallery&gt;
+
+== References ==
+&lt;references/&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Mechanics]]
+[[Category:XC3 Ouroboros]]
+[[Category:XC3 Stats]]</text>
+      <sha1>ifr8munx2j1lqf8euzvkng959my44bd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Interlink Seal</title>
+    <ns>0</ns>
+    <id>125915</id>
+    <revision>
+      <id>580520</id>
+      <timestamp>2023-03-25T17:14:21Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Spoiler}} {{Infobox XC3 Status |title = Interlink Seal |caption = Seals Interlink with Moebius's power. |image = File:XC3 Interlink Seal.png |type = Debuff | attribute = Ether | base-duration = &lt;abbr title="Removed after a scripted event during the battle"&gt;Indefinite&lt;/abbr&gt; | rng-applicable = No | effect-title-4 = Remarks | effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs. }} '''Interlink Seal''' is a [[Status Effect]] in {{XC3}}. It..."</comment>
+      <origin>580520</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="859" sha1="bnujlzdkhenhaetrnlvibg9gkp3t40f" xml:space="preserve">{{Spoiler}}
+{{Infobox XC3 Status
+|title = Interlink Seal
+|caption = Seals Interlink with Moebius's power.
+|image = File:XC3 Interlink Seal.png
+|type = Debuff
+| attribute = Ether
+| base-duration = &lt;abbr title="Removed after a scripted event during the battle"&gt;Indefinite&lt;/abbr&gt;
+| rng-applicable = No
+| effect-title-4 = Remarks
+| effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs.
+}}
+'''Interlink Seal''' is a [[Status Effect]] in {{XC3}}. It prevents the [[Ouroboros]] from [[Interlink]]ing while affected.
+
+This debuff is only inflicted by [[Z]], at the start of the fight against him. It is later removed midway through the fight, pair-by-pair, as the Ouroboros relive their memories shown to them.
+
+The debuff's effects are also replicated in the [[Demihuman Gutter]], though not explicitly shown.
+
+[[Category:XC3 Status]]</text>
+      <sha1>bnujlzdkhenhaetrnlvibg9gkp3t40f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Intrusive Neville</title>
+    <ns>0</ns>
+    <id>119485</id>
+    <revision>
+      <id>583303</id>
+      <parentid>574457</parentid>
+      <timestamp>2023-04-17T15:48:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1390" sha1="joo5m377l4tpw40wgroplpt38a6m72i" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Intrusive Neville
+|image        = XC3 Intrusive Neville.png
+|caption      = Intrusive Neville
+|type         = [[Gyaark]]
+|level        = 49
+|area         = [[Erythia Sea]] ([[Migrow's Rosary]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 1,884
+|cp           = 520
+|sp           = 5
+|gold         = 897
+|hp           = 1,359,450
+|strength     = 839
+|healing      = 327
+|dexterity    = 228
+|agility      = 123
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 38%
+|guardrate-front = 5%
+|guardrate-side  = 5%
+|guardrate-back  = 0%
+}}
+'''Intrusive Neville''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Gyaark]] family, and can be found at level 49 close&#160;to the shore of [[Migrow's Rosary]] in [[Erythia Sea]]. The [[Shark Shock]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 75%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Intrusive neville location.png
+Intrusive neville.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Gyaarks]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>joo5m377l4tpw40wgroplpt38a6m72i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Inuma Piranhax</title>
+    <ns>0</ns>
+    <id>121105</id>
+    <revision>
+      <id>594373</id>
+      <parentid>559715</parentid>
+      <timestamp>2023-05-27T15:04:06Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1581" sha1="guzqty4zp9ryp7uhwibgt5a7ravvwmg" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Inuma Piranhax
+|image        = 
+|caption      = Inuma Piranhax
+|category     = Minor Enemy
+|type         = [[Piranhax]]
+|level        = 17-18
+|area         = [[Ribbi Flats]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Inuma Piranhax''' are Minor Enemies in {{XC3}}. They are members of the [[Piranhax]] family, and can be found at level 17-18 in [[Ribbi Flats]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Inuma Piranhax
+|image        = Inuma Piranhax FR.jpg
+|caption      = Inuma Piranhax
+|category     = Normal Minor Enemy
+|type         = [[Piranhax]]
+|level        = 23
+|area         = [[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Inuma Piranhax''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Piranhax]] family, and can be found at level 23 in the waters around [[Colony 9 (XC1)|Colony 9]] in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3FR Piranhax]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3FR Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>guzqty4zp9ryp7uhwibgt5a7ravvwmg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Invaiss Vollgull</title>
+    <ns>0</ns>
+    <id>122528</id>
+    <revision>
+      <id>579774</id>
+      <parentid>559716</parentid>
+      <timestamp>2023-03-20T18:48:22Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>579774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1058" sha1="2yylhdhszza637apmikdzj5nsy9aekd" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Invaiss Vollgull
+|image        = Invaiss Vollgull.jpg
+|caption      = Invaiss Vollgull
+|category     = Quest Exclusive Enemy
+|type         = [[Vollgull]]
+|level        = 58
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 1 (XC3)|Hovering Reef 1]])
+|spawntime    = During ''[[So Much More to See]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Invaiss Vollgull''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. It is a member of the [[Vollgull]] family, and is encountered at level 58 on [[Hovering Reef 1 (XC3)|Hovering Reef 1]] in the [[Syra Hovering Reefs]] during the quest ''[[So Much More to See]]''. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Vollgulls]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>2yylhdhszza637apmikdzj5nsy9aekd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Invincible (XC3)</title>
+    <ns>0</ns>
+    <id>124986</id>
+    <revision>
+      <id>580091</id>
+      <parentid>580090</parentid>
+      <timestamp>2023-03-23T07:20:30Z</timestamp>
+      <contributor>
+        <username>Sum41Champ</username>
+        <id>50779440</id>
+      </contributor>
+      <comment>Undo revision 580090 by [[Special:Contributions/Sum41Champ|Sum41Champ]] ([[User talk:Sum41Champ|talk]]) In case this doesn't fit here</comment>
+      <origin>580091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1085" sha1="lj1dbh8u3n1kgqygzthv036cr9350su" xml:space="preserve">{{for|other uses|Invincible}}
+{{Infobox XC3 Status
+| title = Invincible
+| caption = Nullifies attacks from enemies.
+| image = XC3 Invincible.png
+| type = Buff
+| base-duration = 10.0s
+| max-duration = 20.0s
+| rng-applicable = No
+}}
+'''Invincible''' is a [[Status Effect]] in {{XC3}}. It causes characters with the effect to not take any damage and become immune to [[Combo]]s and debuffs. In [[Challenge Battle Mode]], the status will have no effect while playing on the hard [[Difficulty Levels|difficulty]], or in [[Gauntlet: Pro]] after stage 70.
+
+== Distribution ==
+=== Arts ===
+* [[Unlimited Sword]]
+* [[Power Raiser]] (Noah, Unlimited Sword in [[Defender (XC3)|Defender]] role)
+=== Skills ===
+* An unnamed skill in Noah's Unlimited Sword stance when he assumes a [[Healer]] role grants the Invincible buff to allies he revives.
+=== Enemy-only Arts ===
+*Heat Scream ([[Dreadwyrm Nizoont]])
+*Ether Protection ([[Queen of Keves (boss)|Queen of Keves]])
+*Critical Vengeance ([[Avenger (XC3)|Avenger]]; lasts indefinitely and requires [[All-Slayer]] to remove)
+
+[[Category:XC3 Status]]</text>
+      <sha1>lj1dbh8u3n1kgqygzthv036cr9350su</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ioin Horrish</title>
+    <ns>0</ns>
+    <id>121735</id>
+    <revision>
+      <id>598142</id>
+      <parentid>579951</parentid>
+      <timestamp>2023-07-04T16:05:22Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="914" sha1="mds35hnt8u039ooqt9o2s1v297sjslz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ioin Horrish
+|image        = Ioin Horrish.jpg
+|caption      = Ioin Horrish
+|category     = Normal Minor Enemy
+|type         = [[Horrish]]
+|level        = 64-65
+|area         = [[Origin Interior]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ioin Horrishes''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Horrish]] family, and can be found at level 64-65 at [[Amplifier No. 2]], the [[Amplifier Section]], and [[Ferronis Arsenal 1|Ferronis Arsenals #1]], [[Ferronis Arsenal 2|#2]], and [[Ferronis Arsenal 3|#3]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Horrishes]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mds35hnt8u039ooqt9o2s1v297sjslz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iovis Rings</title>
+    <ns>0</ns>
+    <id>122573</id>
+    <revision>
+      <id>592803</id>
+      <parentid>592266</parentid>
+      <timestamp>2023-05-15T20:16:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592803</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="466" sha1="rlw8kla994rhy6v1u47ltq9d4clsv3w" xml:space="preserve">{{Infobox item
+|name      = Iovis Rings
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts Agility by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Container#Legacy of the Seven|Legacy of the Seven]] at [[Lost Colony]]
+|sell      = N/A
+}}
+'''Iovis Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>rlw8kla994rhy6v1u47ltq9d4clsv3w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Irma</title>
+    <ns>0</ns>
+    <id>119192</id>
+    <revision>
+      <id>594225</id>
+      <parentid>585305</parentid>
+      <timestamp>2023-05-26T15:14:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5936" sha1="72zag6n486daj8j603uejgltapjsju6" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Irma
+|image         = Irma.png
+|species       = [[Agnus|Agnian]] human (formerly)&lt;br/&gt;[[Moebius]]
+|age           = 7th Term (False Identity)
+|gender        = Female
+|haircolor     = Blonde
+|eyecolor      = Yellow, Blue&#8251;
+|affiliation   = [[Consul]]s&lt;br/&gt;[[Colony Mu]]
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}
+}}
+'''Irma''' (Japanese: {{lang|ja|&#12452;&#12481;&#12459;}}, ''Ichika'') is a character in {{XC3}}.
+
+== Overview ==
+Irma is the [[Consul]] I. Her Moebius ability is to create and control illusions, such as disguising Colony Mu's Flame Clock and weaponizing [[False Volff]]s.
+
+== Story ==
+Following [[Colony 4]]'s liberation and [[K]]'s death by [[Ouroboros]], Irma reported to the [[Queen of Keves]] and the [[Queen of Agnus]], who then gave the order to all the colonies to destroy Ouroboros. She is also shown in one of [[Monica Vandham|Monica]]'s flashbacks of a [[Lost Numbers]] execution on [[Hope's Rest]].
+
+Consul I was appointed to oversee [[Colony Mu]], and devised a plan to make its soldiers grow closer shared adversity; her logic was that the wish to protect their friends would push them to grow stronger and consequently strengthen their life force and so used her role as a Consul of both [[Agnus]] and [[Keves]] to organize raids that would pose just enough of a threat to the Colony to unify them but not enough to put them at risk of destruction. When [[Fiona]] begged her to change the way the Colony fought following the death of their previous commander, she appointed Fiona as the new commander. She then used her power to create illusions to take on the false identity of "Irma", who became Fiona's lieutenant and close friend. 
+
+However, despite her role as a Consul, there was some good in her. She came to admire Fiona's selfless dedication and the way that the rest of Colony Mu came to support her and even began to aid in it herself, possibly as a form of atonement. When [[Lanz]] and his allies reveal her manipulation, she confesses her actions and shoots Fiona in the back when she sees that Fiona is unwilling to fight her, only to remind Fiona that she promised to do her best for everyone and that she was responsible for killing her friends, prompting Fiona and the party to fight her. Though she started the fight, it is implied that she prompted the party to fight her not out of bloodlust, but instead out of regret and a wish to finally die for her actions. Noah and the party defeat her in the ensuing battle, and as she lays dying, Irma asks Fiona not to weep for her and admits that despite her deceptions her friendship with Fiona was genuine. 
+
+Fiona's [[Hero Quest|Ascension Quest]] ''[[A Farewell Reset]]'' reveals that Irma kept a box full of objects from her time together with Fiona locked away in her [[Irma's Secret Base|secret hideaway]] and asked [[Googoo]] to bury the key for it; it is heavily implied that she was overwhelmed by the guilt of deceiving Fiona and wished to die as a form of atonement for her actions.
+
+During the quest ''[[Treasured Memory]]'', it is revealed that she was also good friends with [[Triton]] in the past. Though they did not know each other very well, Triton felt that it would not be right to see her as just an acquaintance. 
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius I
+|image        = Moebius I.jpg
+|caption      = Moebius I
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 47
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Transparent Dreams]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,848
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 1,484,800
+|strength     = 687
+|ether        = 303
+|dexterity    = 182
+|agility      = 141
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius I''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and can be found at level 47 in [[Colony Mu]] in [[Erythia Sea]] during ''[[Transparent Dreams]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Irma
+| npc2 = Fiona
+| affinity = pink
+| caption = Best friends
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Irma
+| npc2 = Fiona
+| affinity = white
+| caption = Wounds run deep
+| direction = left
+| was = pink
+| wasdirection = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Irma
+| npc2 = Fiona
+| affinity = green
+| caption = Friends
+| direction = both
+| was = white
+| wasdirection = left
+}}
+
+{{XC3 Affinity Link
+| npc1 = Irma
+| npc2 = Fiona
+| affinity = pink
+| caption = Unique friendship
+| direction = both
+| was = green
+| wasdirection = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Irma
+| npc2 = Triton
+| affinity = green
+| caption = Friends
+| direction = both
+}}
+
+== Trivia ==
+* &#8251;Irma's eye color is different when in her Consul outfit. She normally has yellow eyes, but they are blue when she is wearing her Consul clothes. This is true both in game, and in concept art.
+* The Moebius I model is shared with Moebius [[P]].
+* During the final battle against [[Z]], he summons many false Consuls resembling I's outfit in the [[Amphitheater]].
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Consul-I.jpg
+Consul B and I art.jpg|Consul I concept art
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Consul I in game.png
+Irma Infinity Eye.jpg
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 46-50 Enemies]]</text>
+      <sha1>72zag6n486daj8j603uejgltapjsju6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iron Headband (XC3)</title>
+    <ns>0</ns>
+    <id>118968</id>
+    <revision>
+      <id>566800</id>
+      <parentid>558459</parentid>
+      <timestamp>2022-11-23T04:41:36Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566800</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1032" sha1="5b27ub4852s3lftl5342ftj3nh004hj" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Iron Headband (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Iron Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2090 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Iron Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2090 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Iron Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2090 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Iron Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>5b27ub4852s3lftl5342ftj3nh004hj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iron Misanga</title>
+    <ns>0</ns>
+    <id>118969</id>
+    <revision>
+      <id>592804</id>
+      <parentid>592297</parentid>
+      <timestamp>2023-05-15T20:16:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592804</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1035" sha1="4kn7085dyih0bnr3gf4t8x9p0c7tv1c" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Iron Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 20% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Iron Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 21% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Iron Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 22% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Iron Misangas''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>4kn7085dyih0bnr3gf4t8x9p0c7tv1c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iron Sash</title>
+    <ns>0</ns>
+    <id>122640</id>
+    <revision>
+      <id>566802</id>
+      <parentid>551670</parentid>
+      <timestamp>2022-11-23T04:42:36Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566802</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="rgzln1w947e4w6bgi7lvj1ybnwhise0" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Iron Sash
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 35 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Iron Sash
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 40 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Iron Sash
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 45 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Iron Sashes''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>rgzln1w947e4w6bgi7lvj1ybnwhise0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iron Temple Guard</title>
+    <ns>0</ns>
+    <id>118970</id>
+    <revision>
+      <id>592805</id>
+      <parentid>592253</parentid>
+      <timestamp>2023-05-15T20:16:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592805</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1078" sha1="mie99bgoqn709wu21vs6aq5uaofdwzt" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Iron Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3370 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Iron Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3370 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Iron Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3370 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Iron Temple Guards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. A common Iron Temple Guard can be acquired from the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>mie99bgoqn709wu21vs6aq5uaofdwzt</sha1>
+    </revision>
+  </page>
+  </mediawiki>

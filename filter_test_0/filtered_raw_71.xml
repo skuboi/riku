@@ -1,0 +1,1383 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Torto</title>
+    <ns>0</ns>
+    <id>121882</id>
+    <revision>
+      <id>597877</id>
+      <parentid>596175</parentid>
+      <timestamp>2023-07-02T16:37:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1494" sha1="gz3hfhaj2im3f5mhqh13b4o2czvy2az" xml:space="preserve">{{Infobox_NPC
+|name        = Torto
+|image       = XC3 Torto Icon.png
+|personality =
+|time_active =
+|gender      = Male
+|race        = [[Keves]]i human
+|age         = 7th Term
+|location    = [[Erythia Sea]] ([[Colony 15]]) (initially)&lt;br/&gt;[[City]]
+}}
+'''Torto''' is an NPC in {{XC3}} who can be found in [[Colony 15]], and later in the [[City]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Torto
+|image        = 
+|caption      = Torto
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = During ''[[Doing It My Way]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Torto''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Keves Forces|Keves Soldier]] who is fought at level 48 at [[Colony 15]] in [[Erythia Sea]] during ''[[Doing It My Way]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>gz3hfhaj2im3f5mhqh13b4o2czvy2az</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Totorio Moramora (XC3)</title>
+    <ns>0</ns>
+    <id>121864</id>
+    <revision>
+      <id>600379</id>
+      <parentid>560310</parentid>
+      <timestamp>2023-07-21T14:10:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */Moramora</comment>
+      <origin>600379</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="865" sha1="q9np9jysfajgahnak3ur5oqbesfs6fh" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Totorio Moramora (XC2)}}
+{{Infobox Enemy
+|name         = Totorio Moramora
+|image        = 
+|caption      = Totorio Moramora
+|category     = Minor Enemy
+|type         = [[Moramora]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Totorio Moramoras''' are Minor Enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>q9np9jysfajgahnak3ur5oqbesfs6fh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Towaris Taos</title>
+    <ns>0</ns>
+    <id>123981</id>
+    <revision>
+      <id>578748</id>
+      <parentid>559330</parentid>
+      <timestamp>2023-03-07T21:48:45Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Enemy info</comment>
+      <origin>578748</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1040" sha1="tes4gc4hf1sazl7k2rrsv7o67vj7uvn" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Towaris Taos
+|image        = 
+|caption      = Towaris Taos
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Taos]]
+|level        = 31
+|area         = [[Eagus Wilderness]] ([[Nih'l Valley]])
+|spawntime    = During ''[[Jeremy's Request]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Towaris Taos''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Taos]] family, and is fought at level 31 in [[Nih'l Valley]] in the [[Eagus Wilderness]] during ''[[Jeremy's Request]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Taos]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tes4gc4hf1sazl7k2rrsv7o67vj7uvn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Toxin</title>
+    <ns>0</ns>
+    <id>125918</id>
+    <revision>
+      <id>588249</id>
+      <parentid>580546</parentid>
+      <timestamp>2023-05-03T06:39:27Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>588249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1432" sha1="mz1hzxao64f93ydcs41i9rw97ib85y9" xml:space="preserve">{{Spoiler}}
+{{Infobox XC3 Status
+|title = Toxin
+|caption = Deals damage at fixed intervals.
+|image = XC3 Toxin.png
+|type = Debuff
+|attribute = Ether
+|base-duration = 24.0s
+|max-duration = 48.0s
+|success-rate = 100%
+|rng-applicable = No
+|effect-title-1 = Base Damage (per tick)
+|effect-value-1 = 12% of Art damage
+|effect-title-2 = Tick Duration
+|effect-value-2 = 4.0s
+}}
+'''Toxin''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It causes the affected character to take damage over time.
+
+==Distribution==
+===Arts===
+*Discharging Earth Elemental after having summoned it with [[Summon Element]] ([[Royal Summoner]]).
+
+===Enemy Arts===
+*Poison Breath ([[Balgas]] and [[Moramora]] families, [[Kilocorn Grandeps]])
+*Earthball ([[Brog]] family)
+*Poison Spray ([[Caterpile]] family and [[Widdershins Radler]])
+*Hunter's Venom (ranged members of [[Tirkin]] and [[Gulkin]] families)
+*Venom Gas ([[Amoney]] family)
+*Doom Bat ([[Myoot]] family)
+*Elemental Earth ([[Queen of Keves (boss)|Queen of Keves]])
+*Beast Tail ([[Moebius Q]])
+*Rage Assault (Moebius Q)
+*Poisonous Sparkle ([[Moebius U]])
+*Lethal Mist ([[Moebius V]])
+*Sad Balloon ([[X&#8734;]])
+*Moebius Breath ([[Z&#8734;]])
+*Auto-attacks of [[Robobuddy]] and [[Armadillo]] during ''[[Inescapable Past]]''
+*Pollution Cannon (Robobuddy and Armadillo)
+*Toxic Gas ([[Skelter Medooz]] during ''[[Men! Of! The Sea! IV]]'')
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>mz1hzxao64f93ydcs41i9rw97ib85y9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Transparent Dreams</title>
+    <ns>0</ns>
+    <id>120401</id>
+    <revision>
+      <id>578849</id>
+      <parentid>577173</parentid>
+      <timestamp>2023-03-08T21:57:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>578849</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1861" sha1="q5hr5dabcllt3ffp9anyuy87usmfxxx" xml:space="preserve">{{Infobox quest
+|name        = Transparent Dreams
+|image       = XC3 Transparent Dreams.jpg
+|description = "The party find Fiona attempting to single-handedly repel a Kevesi raid on Colony Mu. Unable to stand idly by, Noah and co. offer her their assistance."
+|giver       = [[Fiona]]
+|location    = [[Erythia Sea]] ([[Migrow's Rosary]])
+|time        = 
+|prereqs     = 
+|reclevel    = Lv. 45
+|rewards     = 400 [[Colony Mu]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;3320 [[Experience Points (XC3)|EXP]]&lt;br/&gt;2020 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Fiona]] as a [[Hero]]
+}}
+'''Transparent Dreams''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Fiona]].
+
+== Objectives ==
+# ''Help Fiona save the people of [[Colony Mu]].''
+#* [[Noah]] and [[Mio]] must [[Off-seer|send off]] [[Summer]], [[Sean]], and all the other deceased Colony Mu soldiers throughout Migrow's Rosary.
+#* Head to the entrance to Colony Mu.
+# ''Defeat the specified foe(s).''
+#* Keves Strike Team (6)
+#** [[Keves Trooper Elite]]
+#** [[Keves Warrior]] (2)
+#** [[False Volff]] (3)
+# ''Head for the specified location(s).''
+#* Fiona at Colony Mu
+# ''Head for the specified location(s).''
+#* [[Colony Mu Viewing Deck]]
+# ''Gather enough "Colony Mu Investigation info fragments.'' (2)
+#* [[Nico]]
+#* [[Shu]]
+# ''Hold a discussion at a [[Rest Spot (XC3)|rest spot]].''
+#* Colony Mu Investigation
+# ''Head for the specified location(s).''
+#* Fiona at Colony Mu
+# ''Defeat the specified foe(s).''
+#* Moebius I's Irregulars (4)
+#** [[Irma#Battle|Moebius I]]
+#** [[False Volff]] (3)
+# ''Head for the specified location(s).''
+#* Fiona at Colony Mu
+
+== Results ==
+''"Through her dramatic parting with Irma, Fiona has gained much strength. Hoping to learn more about Moebius, she has joined the party."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Fiona]]
+[[Category:Cadensia Region Quests]]</text>
+      <sha1>q5hr5dabcllt3ffp9anyuy87usmfxxx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tri-Shot</title>
+    <ns>0</ns>
+    <id>125590</id>
+    <revision>
+      <id>599648</id>
+      <parentid>576586</parentid>
+      <timestamp>2023-07-14T11:46:21Z</timestamp>
+      <contributor>
+        <username>Hiromichi</username>
+        <id>1471931</id>
+      </contributor>
+      <origin>599648</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="751" sha1="ctj9au220rpdr1dyu03ypoggit6b4c5" xml:space="preserve">{{Infobox battle art
+|name        = Tri-Shot
+|image       = XC3 Art Keves phys.png
+|who         = [[Mwamba]]
+|attribute   = Ether Attack
+|target      = One Target
+|distance    = 12m
+|numhits     = 3
+|power       = 260% &lt;!-- Unused data: 200 - 340% --&gt;
+|aggro       = 5
+|knockback   = 
+|effect      = Boosts damage dealt to [[:Category:XC3 Machines|Machines]] by 100%. &lt;!-- Unused data: 70 - 150% damage boost --&gt;
+|duration    = 
+|recharge    = 23.3 seconds &lt;!-- Unused data: 26.6 - 19.3 seconds --&gt;
+}}
+'''Tri-Shot''' is a [[Battle Arts (XC3)|Battle Art]] in {{XC3}}. It is an Art of the [[Sharpshooter]] class, usable only by [[Mwamba]]. He fires three shots that against machines will do more damage.
+{{clr}}
+{{xc3 stub}}
+[[Category:Hero Class Arts]]</text>
+      <sha1>ctj9au220rpdr1dyu03ypoggit6b4c5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Trickfist Tuano</title>
+    <ns>0</ns>
+    <id>119505</id>
+    <revision>
+      <id>583283</id>
+      <parentid>574251</parentid>
+      <timestamp>2023-04-17T15:21:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1387" sha1="kg9ir739llmqhaeq69680mqc6xrm307" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Trickfist Tuano
+|image        = XC3 Armbenders.png
+|caption      = Trickfist Tuano (left)
+|type         = [[Droids]]
+|level        = 66
+|area         = [[Origin Interior]] ([[Amplifier Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,459
+|cp           = 265
+|sp           = 5
+|gold         = 783
+|hp           = 1,588,400
+|strength     = 2,052
+|healing      = 540
+|dexterity    = 276
+|agility      = 270
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Trickfist Tuano''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Droids|Droid]], and can be found at level 66 at the [[Amplifier Section]] in the [[Origin Interior]]. It forms the trio "Armbenders" with [[Cruelfist Rojou]] and [[Ghostfist R&#243;is&#237;n]]. The Mano a Mano Evasion [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Armbenders location.png
+Armbenders tuano.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Droids]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kg9ir739llmqhaeq69680mqc6xrm307</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Trilut Grebel (XC3)</title>
+    <ns>0</ns>
+    <id>123220</id>
+    <revision>
+      <id>559980</id>
+      <parentid>555147</parentid>
+      <timestamp>2022-09-30T10:59:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559980</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="828" sha1="65d4lad121v64yrd2vg8t7rrlpywg8x" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Trilut Grebel (XC2)}}
+{{Infobox Enemy
+|name         = Trilut Grebel
+|image        = 
+|caption      = Trilut Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Trilut Grebels''' are Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>65d4lad121v64yrd2vg8t7rrlpywg8x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Trish</title>
+    <ns>0</ns>
+    <id>117943</id>
+    <revision>
+      <id>597879</id>
+      <parentid>596176</parentid>
+      <timestamp>2023-07-02T16:37:33Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>597879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1836" sha1="q50smb6rkkn83qoui9ze4xo9o3yj64d" xml:space="preserve">{{Infobox NPC
+|name        = Trish
+|image       = XC3_Trish.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Keves]]i human
+|age         = 8th Term
+|location    = [[Yzana Plains]] ([[Colony 9 (XC3)|Colony 9]])
+}}
+'''Trish''' (Japanese: {{lang|ja|&#12488;&#12522;&#12483;&#12471;&#12517; }}, ''Torisshu'') is an NPC in {{XC3}} who can be found in [[Colony 9 (XC3)|Colony 9]]. She is part of [[Kite]]'s squad alongside [[Eastman]] and [[Fox]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Trish
+|image        = 
+|caption      = Trish
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Keves Forces]]
+|level        = 28
+|area         = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime    = During ''[[Forgotten Supplies]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Trish''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. She is a [[Keves Forces|Keves Soldier]] who is fought at level 28 at [[Murmur Rise]] in [[Millick Meadows]] during ''[[Forgotten Supplies]]''.
+{{clr}}
+
+
+== Gallery ==
+&lt;gallery&gt;
+Trish XC3.png|Trish
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>q50smb6rkkn83qoui9ze4xo9o3yj64d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Triton</title>
+    <ns>0</ns>
+    <id>118518</id>
+    <revision>
+      <id>600213</id>
+      <parentid>600199</parentid>
+      <timestamp>2023-07-20T17:30:50Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added JP IMDB link</comment>
+      <origin>600213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11388" sha1="872651kgbm5pj3yrnoc5wtk2vlgkfy6" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name           = Triton
+|image          = XC3 Triton portrait.png
+|species        = [[Moebius]]&lt;br&gt;Human (formerly)
+|age            = Unknown
+|gender         = Male
+|haircolor      = Gray
+|eyecolor       = Red
+|affiliation    = [[Consul]]s (formerly)&lt;br/&gt;[[Colony 15]]
+|voiceactorjp   = [https://www.imdb.com/name/nm0354490/ Takaya Hashi]
+|voiceactoreng  = [[wikipedia:Stanley Townsend|Stanley Townsend]]
+|appearances    = {{XC3}}
+}}
+'''Triton''' (Japanese: {{lang|ja|&#12488;&#12521;&#12452;&#12487;&#12531;}}, '''Triden''') is a character in {{XC3}}.
+
+== Overview ==
+Triton is the [[Consul]] of [[Colony 15]], as well as its commander. 
+
+He can be recruited as a [[Hero]] by completing the [[Hero Quest]] ''[[Doing It My Way]]''. His [[Class Rank (XC3)|Class Rank]] is increased to 20 by completing the Ascension Quest ''[[My Memories]]''.
+
+== Personality ==
+Despite being a [[Consul]], he is sympathetic to the cause of [[Noah]] and his allies. Unlike all the other Consuls, he prefers being called by his original name rather than T. Old age has caused his memory to begin failing, and he admits that he can no longer remember how to assume his [[Moebius]] form. His original reason for becoming a Consul was the fear that his life was too short to get into the fights and adventures he wanted to have, but afterwards he realized that no lifetime could ever be enough for him to express his passions- what truly mattered was what he did with it. 
+
+He is considered eccentric even by those who are fond of him, often making decisions based on peculiar leaps of logic (such as deciding that the coconut he found was more valuable than a fossil found by the party simply because it was larger). Nevertheless, he cares deeply for the people he views as friends and is willing to put himself in harm's way for their sake.
+
+== Story ==
+A sailor and a free spirit at heart, Triton came to wonder what his "crew" could accomplish if they were freed of the [[Flame Clock]]'s bondage, but found he could not do anything to dispose of it himself and was on the verge of giving up before hearing of Ouroboros' exploits. 
+
+At some point during his travels across [[Aionios]], Triton befriended an unnamed traveler and joined him in his mission to gather ingredients for the perfect miso paste, leaving behind handprints at each location they visited so he'd remember where they went. At [[Syra Hovering Reefs]], Triton attempted to save his friend from being eaten by a monster but his friend instead accepted his death, requesting that Triton take his [[Miso]] paste and use it to make the best dish ever. Triton however, due to his forgetful nature completely forgot about his friend's request and even the reason the two of them began travelling together in the first place.
+
+On one occasion he encountered Consul [[Irma|I]] carrying an empty treasure chest and offered her a Clammoth as treasure but she refused stating that treasure only has worth if you find it yourself, a sentiment Triton disagreed with.  Though the two Consuls disagreed and seemingly disliked each other, Triton would later consider her as a friend, feeling it lonely to think of her as a mere "acquaintance".
+
+[[File:Consul T.jpg|thumb|240px|Triton meeting the party]]
+After meeting Noah and his allies and coming to respect them after they clear a series of challenges to prove their worth, he allows them to destroy his Colony's Flame Clock and joins them as an ally, considering the idea of going up against his own kind to be a once-in-a-lifetime opportunity.
+
+While exploring the [[City]] with the party, he and the party are requested by [[Shiner]] to save his father, [[Playne]]. During this quest, ''[[A Young Noble's Request]]'', he runs into a couple members of Colony 15, who ran into Playne and helped him out. Colony 15&#8217;s soldiers are then brought to live in the City, with Triton only being allowed inside the City if accompanied by Ouroboros. However, after helping his soldiers with a scavenging mission during ''[[Colony 15 Soldiers Missing]]'', Triton is given permission to visit the City on his own at any time.
+
+Later, Triton meets [[Jaggar]] at [[Michiba Canteen]] and the two of them quickly become good drinking buddies. The relationship he forms with Jaggar becomes important to Triton because Jaggar was the first person in the City to truly accept Triton. After a while, Jaggar tells Triton about his desire to eat a [[Bright Fig (XC3)|Bright Fig]]. Wanting to fulfill his friend's wish, Triton and the party travel to [[Low Maktha Wildwood]] to gather a ripe Bright Fig during the quest ''[[Friendship]]''. However, by the time they return to the City, Jaggar has already passed away. Still wanting to make good on his promise, Triton leaves the Bright Fig on one of the [[Remembrance Stones]] and pays his respects to his friend. 
+
+Triton later joins Noah and his allies in their final battle against [[Z&#8734;]], where alongside all of the other Heroes they encountered on their journey, he can be summoned by [[Melia]] and [[Nia]] to help fight against [[X&#8734;]] or [[Y&#8734;]]. Since he was Moebius, Triton's fate after the defeat of Z is unknown.
+
+== Gameplay ==
+Triton's [[Class (XC3)|class]] is [[Soulhacker]], although unlike the version usable by the player, he himself has a limited set of Arts and Skills that are exclusive to him, and cannot change his [[Role]] from being an [[Attacker]]. His [[Battle Arts (XC3)|Chain Art]] is [[Barbarous Rage]], and his Heroic Chain bonus will cause his TP, whenever he reactivates, to be either increased or decreased by 50 at random. (If this causes his TP to drop below 0, then his TP will be set to 0).
+
+=== Arts ===
+* '''[[Final Countdown]]''' ([[Battle Arts (XC3)|Talent Art]])
+* [[Captain Strike]] - Blowdown / Pierce
+* [[Magnificent Fist]] - Art recharge on hit
+* [[Peril Punch]] - AOE / Side Attack Up
+* [[Pirate Lariat]] - [[Topple (XC3)|Topple]]
+* [[Ultra Boost]] - Atk up/dmg up
+
+=== Base Stats ===
+These are Triton's raw stats prior to modifications by class. They serve as a baseline for calculating his stats in the Soulhacker class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 503 || 28 || 26 || 33 || 21
+|-
+| 99 || 7,191 || 401 || 365 || 326 || 208
+|}
+
+=== General Stats ===
+These stats assume Triton is at rank 20 in his class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Triton has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+!Level!!HP!!Attack
+!Healing Power!!Dexterity!!Agility !!Critical Rate!!Block Rate!!Physical Defense!!Ether Defense
+|-
+|1||402|| 55 (+20)||9||39||23||15%||25%||20%||10%
+|-
+|99||5,752 ||1,101 (+70)||127|| 391||228||15%||25%||20%||10%
+|}
+
+Triton equips the following gems:
+* [[Empowered Combo]]
+* [[Steelcleaver]], at level 20 onwards
+* [[Analyze Weakness]], at level 40 onwards
+
+Triton equips the following accessories as his default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Dark Orb (XC3)|Dark Orb]]
+* [[Chipped White Brooch]], at level 30 onwards
+* [[Hero Vambraces (XC3)|Hero Vambraces]], at level 50 onwards
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Defiant Triton
+|image        = Defiant Triton.png
+|caption      = Defiant Triton
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Consul (enemy)|Consul]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = During ''[[Doing It My Way]]''
+|respawn      = No
+|movement     = Ground
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Defiant Triton''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Consul (enemy)|Consul]] fought at level 48 during the [[Hero Quest]] ''[[Doing It My Way]]'' in [[Colony 15]] in [[Erythia Sea]]. He fights alongside [[Orson]], [[Pergas]], and [[Torto]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Defiant Triton
+|image        = 
+|caption      = Defiant Triton
+|type         = [[Consul (enemy)|Consul]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 75
+|detection    = 
+|spawntime    = During ''[[Men! Of! The Sea! IV]]''
+|respawn      = No
+|hp           = 669,240
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+Defiant Triton is fought at level 75 during the fourth wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Men! Of! The Sea! IV]]''.
+{{clr}}
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Triton
+| npc2 = Fiona
+| affinity = green
+| caption = Buddy-buddy
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Triton
+| npc2 = Irma
+| affinity = green
+| caption = Friends
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Triton
+| npc2 = Traveler
+| affinity = pink
+| caption = Entrusted miso to
+| direction = left
+}}
+
+{{XC3 Affinity Link
+| npc1 = Triton
+| npc2 = Saoru
+| affinity = pink
+| caption = Family
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Triton
+| npc2 = Api
+| affinity = pink
+| caption = Family
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Triton
+| npc2 = Jaggar
+| affinity = pink
+| caption = Last drinking buddy
+| direction = left
+}}
+== Etymology ==
+In Greek mythology [[wikipedia:Triton (mythology)|Triton]] (Greek: &#932;&#961;&#943;&#964;&#969;&#957;) is a god of the sea, the son of [[wikipedia:Poseidon|Poseidon]] and [[wikipedia:Amphitrite|Amphitrite]]. He is often depicted as a fish-tailed merman with a conch shell that he blows like a trumpet.
+
+== Quotes ==
+* ''"Come back in about a billion years! Hahaha!"''
+
+== Trivia == 
+* Triton's English voice actor, Stanley Townsend, also voices the battle announcer in {{XC2}}.
+* Triton is the only Consul to join the party as a Hero.
+* Much of Triton's personality references the [[w:c:xenosaga:Captain|Captain of the Thames]] from ''[[w:c:xenosaga:Xenogears|Xenogears]]'', who similarly exclaims frequently that he is a ''"man of the sea"''.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Triton Artwork.png
+Triton Hero Artwork (masked).png|Artwork of Triton wearing his mask
+Triton Concept Art.png|Triton's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Triton Hero Icon.png|Hero List Icon
+Triton Chain Art Icon.png
+Triton Level Up Art.png
+Icon chara 20.png
+Icon chara battle 21.png
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Triton]]
+[[Category:City NPCs]]
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Consul Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing an infobox image]]</text>
+      <sha1>872651kgbm5pj3yrnoc5wtk2vlgkfy6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Troll Grebel</title>
+    <ns>0</ns>
+    <id>123971</id>
+    <revision>
+      <id>581325</id>
+      <parentid>559332</parentid>
+      <timestamp>2023-04-03T15:58:25Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>infobox</comment>
+      <origin>581325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1028" sha1="pkk7wf2vtnhclvsyxbt00w9krvjlqry" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Troll Grebel
+|image        = 
+|caption      = Troll Grebel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Grebel]]
+|level        = 28
+|area         = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime    = During ''[[Forgotten Supplies]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Troll Grebels''' are three [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Grebel]] family, and are fought at level 28 at [[Murmur Rise]] in [[Millick Meadows]] during ''[[Forgotten Supplies]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>pkk7wf2vtnhclvsyxbt00w9krvjlqry</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Troubadour</title>
+    <ns>0</ns>
+    <id>118549</id>
+    <revision>
+      <id>597519</id>
+      <parentid>597119</parentid>
+      <timestamp>2023-06-30T12:10:53Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>597519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6728" sha1="38lwayltmj5ll5tj23jff946wt9qp80" xml:space="preserve">{{Spoiler}}
+{{quote|A special Healer, raising allies' attack frequency and strengthening them greatly with flute-playing.|Class menu description}}
+[[File:XC3 Troubadour Weapon Icon.png|thumb|The Troubadour class icon]]
+'''Troubadour''' is an [[Agnus|Agnian]] [[Healer]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Troubadour is the class of [[Miyabi]]. It is a class that raises allies frequency and strengthening them greatly with flue playing. The class is unlocked upon completing ''[[Side Story: Mio]]'', and the [[Class Rank (XC3)|Rank]] cap can be increased from 10 to 20 upon completion of the [[Hero Quest|Ascension Quest]] ''[[Happiness]]''.
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|5,850
+|''Class Inheritor''
+|6,825
+|4,875
+|2,925
+|3,900
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 290
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 290
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 430
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 430
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 465
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 465 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 500
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Happiness]]''
+|-
+| 11 
+| 430
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 430
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 565
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 565
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 705
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 705 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 850
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 850
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 920
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 1060
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Troubadour class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 55% || 55% || 110% || 105% || 90% || 5% || 25%
+|-
+| 10 || 55% || 57% || 112% || 107% || 95% || 7% || 27%
+|-
+| 20 || 55% || 60% || 115% || 110% || 100% || 10% || 30%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 14 || 8% || 4%
+|-
+| 10 || 31 || 9% || 4%
+|-
+| 20 || 55 || 10% || 5%
+|-
+| 30 || 86 || 10% || 5%
+|-
+| 40 || 120 || 11% || 6%
+|-
+| 50 || 160 || 12% || 6%
+|-
+| 60 || 204 || 13% || 6%
+|-
+| 70 || 252 || 14% || 7%
+|-
+| 80 || 307 || 14% || 7%
+|-
+| 90 || 370 || 15% || 8%
+|-
+| 99 || 432 || 16% || 8%
+|}
+== Arts ==
+* '''[[Glittering Melody]]''' ([[Battle Arts (XC3)|Talent Art]]), Gain charge/Pause buffs
+* '''[[Autumn Rain]]''', AOE / [[Regenerate (XC3)|Regenerate]]
+* '''[[Way Home]]''', [[Burst]] (Rank 1 Master Art)
+* '''[[Ring o' Roses (XC3)|Ring o' Roses]]''', Field / Fast charge (Rank 10 Master Art)
+* '''[[Twin Moons]]''', Remove buffs
+* '''[[Shadow Parade]]''', Fast charge/Def. down
+
+=== Hero-Exclusive Arts ===
+* '''[[Empty Shell]]''', Field / Fast charge
+* '''[[Snowdrift]]''', [[Burst]]
+* '''[[Sweet Breeze]]''', AOE / Regenerate
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 9.png]] '''Swiftsong''':  Boosts all allies' accuracy and evasion by 10-20%. Does not stack. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 17.png]] '''Endsong''':  Recharges all allies' Arts by 60-100% when incapacitated.
+* [[File:XC3 Skill Icon 39.png]] '''Dance of Barrages''':  10-12% chance to keep recharge when using Art. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 17.png]] '''Dance of Life''':  Own Arts gain 60-100% recharge when an ally is incapacitated.
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+! Class Rank 
+! Endsong
+! Dance of Barrages
+! Dance of Life
+! Swiftsong
+|-
+| 1
+| 60%
+| 10%
+| 60%
+| 10%
+|-
+| 5
+| 70%
+| 10.5%
+| 70%
+| 12%
+|-
+| 10 
+| 80%
+| 11%
+| 80%
+| 15%
+|-
+| 15
+| 90%
+| 11.5%
+| 90%
+| 17%
+|-
+| 20
+| 100%
+| 12%
+| 100%
+| 20%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Miyabi Artwork.png|Miyabi, a Troubadour
+Troubador Noah.png|Noah as a Troubadour
+Troubador Mio.png|Mio as a Troubadour
+Troubador Eunie.png|Eunie as a Troubadour
+Troubador Taion.png|Taion as a Troubadour
+Troubador Lanz.png|Lanz as a Troubadour
+Troubador Sena.png|Sena as a Troubadour
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>38lwayltmj5ll5tj23jff946wt9qp80</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Troupechief Balteid</title>
+    <ns>0</ns>
+    <id>124004</id>
+    <revision>
+      <id>584831</id>
+      <parentid>582323</parentid>
+      <timestamp>2023-04-23T16:28:45Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584831</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1195" sha1="99wqpfkhc47yeln8khl3t4jcmrg5wb5" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Troupechief Balteid
+|image        = Troupechief Balteid.jpg
+|caption      = Troupechief Balteid
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 98
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Spawned by [[King Krawkin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Troupechief Balteid''' is a Minor Enemy in {{XC3}}. It is a member of the [[Igna]] family, and can be found at level 98 in the [[Demihuman Gutter]] of [[Erythia Sea]], and is summoned by [[King Krawkin]]'s Royal Orders art. When summoned, it will use an art on the party and then immediately disappear from the battle.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>99wqpfkhc47yeln8khl3t4jcmrg5wb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Troupechief Harmelon</title>
+    <ns>0</ns>
+    <id>124005</id>
+    <revision>
+      <id>584825</id>
+      <parentid>582322</parentid>
+      <timestamp>2023-04-23T16:22:21Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1205" sha1="iz3fp8z0i6rhzvea5e9z6qvr90qv2sb" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Troupechief Harmelon
+|image        = Troupechief Harmelon.jpg
+|caption      = Troupechief Harmelon
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = 98
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Spawned by [[King Krawkin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Troupechief Harmelon''' is a Minor Enemy in {{XC3}}. It is a member of the [[Tirkin]] family, and can be found at level 98 in the [[Demihuman Gutter]] in [[Erythia Sea]], and is summoned by [[King Krawkin]]'s Royal Orders art. When summoned, it will use an art on the party and then immediately disappear from the battle.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>iz3fp8z0i6rhzvea5e9z6qvr90qv2sb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Turbulent Martinez</title>
+    <ns>0</ns>
+    <id>119454</id>
+    <revision>
+      <id>574744</id>
+      <parentid>574647</parentid>
+      <timestamp>2023-01-30T13:04:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574744</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1439" sha1="18b24zlfjx1y8ym9ijmurgbmjy5i4zm" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Turbulent Martinez
+|image        = XC3 Black Triad.png
+|caption      = Turbulent Martinez (right)
+|type         = [[Levnis]]
+|level        = 43
+|area         = [[Keves Castle]] ([[Troop Reserve Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 831
+|cp           = 327
+|sp           = 5
+|gold         = 976
+|hp           = 391,500
+|strength     = 539
+|healing      = 363
+|dexterity    = 132
+|agility      = 149
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 23%
+|guardrate    = 5%
+}}
+'''Turbulent Martinez''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 43 in the [[Troop Reserve Section]] on the 3rd Floor of [[Keves Castle]]. It forms the "The Black Triad" with [[Thunderclap Dalton]] and [[Determined Vatslav]]. The Energy Efficiency [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|physdebuff = 50%
+|etherdebuff = 40%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+The black triad martinez.png
+The black triad location.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>18b24zlfjx1y8ym9ijmurgbmjy5i4zm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tussore</title>
+    <ns>0</ns>
+    <id>122347</id>
+    <revision>
+      <id>597794</id>
+      <parentid>596104</parentid>
+      <timestamp>2023-07-02T16:29:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1552" sha1="bpk3ymfn96pnt9fekdq0xns9k3rozjg" xml:space="preserve">{{Infobox_NPC
+|name        = Tussore
+|image       = XC3 Tussore Icon.png
+|personality = 
+|time_active = Anytime
+|gender      = Female
+|race        = 
+|age         = 4th Term
+|location    = [[Erythia Sea]] ([[Colony Mu]])
+}}
+'''Tussore''' is a NPC in {{XC3}}. Tussore is from [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Tussore
+|image        = Tussore battle.png
+|caption      = Tussore
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}} 
+'''Tussore''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is among the [[Agnus Forces]] and can be found at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>bpk3ymfn96pnt9fekdq0xns9k3rozjg</sha1>
+    </revision>
+  </page>
+</mediawiki>

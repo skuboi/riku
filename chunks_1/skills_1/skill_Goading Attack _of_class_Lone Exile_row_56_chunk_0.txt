@@ -1,0 +1,6 @@
+Skill Name: Goading Attack 
+
+Class: Lone Exile
+
+Skill Buff or Effect:  Boosts aggro generated from dealing damage by 60%.
+

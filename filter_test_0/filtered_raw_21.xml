@@ -1,0 +1,1102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Elegant Maelstrom</title>
+    <ns>0</ns>
+    <id>124389</id>
+    <revision>
+      <id>591885</id>
+      <parentid>580999</parentid>
+      <timestamp>2023-05-14T14:35:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="592" sha1="jag3qioajd7x4982kpwvfyku9n4athz" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = Elegant Maelstrom
+|image       = Strm order thumb016 0.png
+|who         = [[Miyabi]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = One additional character is reactivated, with 10%-30% chance for 1 more.
+|duration    = 
+|recharge    = 
+}}
+'''Elegant Maelstrom''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Miyabi]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>jag3qioajd7x4982kpwvfyku9n4athz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Elite Monster</title>
+    <ns>0</ns>
+    <id>117173</id>
+    <revision>
+      <id>581842</id>
+      <parentid>581419</parentid>
+      <timestamp>2023-04-06T18:44:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */link</comment>
+      <origin>581842</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1236" sha1="i58gjfmp162n3c6qr4nu1312uxfobxk" xml:space="preserve">[[File:XC3 Tutorial Elite Monster.jpg|thumb|An Elite Bunnit]]
+'''Elite Monsters''' are [[Enemy (XC3)|enemies]] in {{XC3}}. They are monsters that are stronger than [[Normal Monster]]s. They can be identified by having blue-colored wing decorations on either side of their level tag. Among generic enemies of the same level and species, they are the second-strongest type of enemy, only beaten by [[Unique Monster (XC3)|Unique Monsters]].
+
+Most Elite monsters are simply stronger versions of enemies of the same species, making them tougher to kill than normal monsters. However, some enemy types only appear as Elite monsters.
+
+When battling an Elite monster, the [[Xenoblade 3 Original Soundtrack|track]] [[:File:Xenoblade_Chronicles_3_%E2%80%93_A_Formidable_Enemy|"A Formidable Enemy"]] will be played over the regular battle theme, unless a Unique Monster is present in the fight.
+
+Defeating an Elite monster yields increased rewards. The following rewards are multiplied when compared to a normal monster:
+* [[Experience Points (XC3)|EXP]]: 250% of the normal amount
+* [[Class (XC3)|CP]]: 300% of the normal amount
+* [[Gold]]: 350% of the normal amount
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Enemies]]
+[[Category:XC3 Elite Monsters]]</text>
+      <sha1>i58gjfmp162n3c6qr4nu1312uxfobxk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ellook</title>
+    <ns>0</ns>
+    <id>75833</id>
+    <revision>
+      <id>601982</id>
+      <parentid>600730</parentid>
+      <timestamp>2023-07-22T12:21:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601982</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1737" sha1="ds5arb3jyj1061bvpvjnlupx77jhw3b" xml:space="preserve">[[file:Ripbik Ellook.png|thumb|150px|Ripbik Ellook]]
+'''Ellooks''' are enemies in the {{XC|serieslink}}. They resemble elks, with gold or silver adornments, similar to [[Cervus]]es in {{XCX}}. They come in white and gold varieties.
+
+== {{XC2|-}} ==
+In {{XC2}}, Ellooks appear exclusively in the Kingdoms of [[Kingdom of Uraya|Uraya]] and [[Kingdom of Tantal|Tantal]].
+=== Normal Minor Enemies ===
+* [[Dormic Ellook]]
+* [[Graze Ellook]]
+* [[Ripbik Ellook]]
+
+=== Unique Monsters ===
+* [[Deep-Green Oscar]]
+* [[Soothsayer Gerald]]
+
+== {{TTGC|-}} ==
+In {{TTGC}}, Ellooks can be found exclusively in the [[Loftin Nature Preserve]] of the [[Kingdom of Torna]].
+=== Normal Minor Enemy ===
+* [[Astle Ellook]]
+
+=== Unique Monster ===
+* [[Beatific Ophelia]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Ellooks appear exclusively in [[Erythia Sea]] and on [[Captocorn Peak]]. 
+=== Normal Minor Enemies ===
+* [[Olkort Ellook]]
+* [[Scape Ellook]]
+
+=== Unique Monsters ===
+* [[Galloping Ghuldan]]
+* [[Timbercorn Cthinos]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Mona Ellook]]
+* [[Olkort Ellook]]
+
+=== Unique Monster ===
+* [[Treehugger Gerald]]
+
+== Gallery ==
+&lt;gallery&gt;
+Dormic Ellook.png|Dormic Ellook
+BeatificOpheliaDay.jpg|Beatific Ophelia
+Scape Ellook XC3.jpeg|Scape Ellook
+XC3 Timbercorn Cthinos.jpeg|Timbercorn Cthinos
+XC3 Galloping Ghuldan.png|Galloping Ghuldan
+&lt;/gallery&gt;
+[[Category:XC2 Ellooks]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Ellooks]]
+[[Category:XC3 Ellooks]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Ellooks]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Ellooks]]
+[[Category:Species by Type]]</text>
+      <sha1>ds5arb3jyj1061bvpvjnlupx77jhw3b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Elsayer Ansel</title>
+    <ns>0</ns>
+    <id>123972</id>
+    <revision>
+      <id>578813</id>
+      <parentid>559221</parentid>
+      <timestamp>2023-03-08T12:44:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>details</comment>
+      <origin>578813</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1027" sha1="gtumh704uypyg245m3gl30xeoq3dnyy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Elsayer Ansel
+|image        = 
+|caption      = Elsayer Ansel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Ansel]]
+|level        = 42
+|area         = [[Rae-Bel Tableland]] ([[Elsayer Cape]])
+|spawntime    = During ''[[Securing Supplies]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Elsayer Ansels''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Ansel]] family, and are fought at level 42 at [[Elsayer Cape]] on [[Rae-Bel Tableland]] during ''[[Securing Supplies]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gtumh704uypyg245m3gl30xeoq3dnyy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eluca</title>
+    <ns>0</ns>
+    <id>9975</id>
+    <revision>
+      <id>601983</id>
+      <parentid>600731</parentid>
+      <timestamp>2023-07-22T12:21:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601983</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1930" sha1="nxb62i5vkz6fcps9alwfinvqb3awj1b" xml:space="preserve">[[File:Makna_Eluca.jpg|thumb|An Eluca]]
+'''Elucas''' (Japanese: {{lang|ja|&#12456;&#12523;&#12540;&#12459;}}, ''Er&#363;ka'') a family of enemies in the {{XC|serieslink}}. They are are pink, worm-like creatures resembling [[Caterpile]]s, although they tend to be larger. All Elucas look identical.
+
+== {{XC|-}} ==
+In {{XC}}, Elucas are found exclusively in [[Makna Forest]] and [[Eryth Sea]]. The [[Unique Monster (XC1)|Unique Monster]] Lazy Bluco, at level 34, is the most powerful Eluca. They are all [[Quest Enemy (XC1)|quest enemies]], as they drop needed items or must be defeated in certain quests but are not exclusive.
+
+=== Normal Minor Enemies ===
+* [[Makna Eluca]]
+* [[Perna Eluca]]
+
+=== Unique Monster ===
+* [[Lazy Bluco]]
+
+== {{XCFC|sub}} ==
+in {{XCFC|sublink}}, Elucas are found on the [[Bionis' Shoulder]].
+
+=== Normal Minor Enemy ===
+* [[Perna Eluca]]
+
+=== Quest Exclusive Enemy ===
+* [[Dozy Eluca]] (during ''[[Shoulder Survey Snaps]]'')
+
+=== Unique Monster ===
+* [[Buoyant Rostein]]
+
+== {{XC2|-}} ==
+In {{XC2}}, Elucas are found in the [[Leftherian Archipelago]].
+
+=== Normal Minor Enemy ===
+* [[Mayn Eluca]]
+
+=== Quest Exclusive Enemy ===
+* [[Moks Eluca]] (during ''[[Maiden Voyage]]'')
+
+=== Challenge Battle Mode Enemy ===
+* [[Baythe Eluca]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Elucas are found in the [[Cadensia Region]].
+
+=== Normal Minor Enemies ===
+* [[Baccura Eluca]]
+* [[Parasite Eluca]]
+
+=== Unique Monster ===
+* [[Widdershins Radler]]
+
+== Gallery ==
+&lt;gallery&gt;
+Perna Eluca.png|Perna Eluca in {{XC|-}}
+MoksEluca.jpg|Moks Eluca in {{XC2|-}}
+&lt;/gallery&gt;
+
+[[Category:Bionis Life]]
+[[Category:XC Species]]
+[[Category:XC Elucas]]
+[[Category:XCFC Species]]
+[[Category:XCFC Elucas]]
+[[Category:Insect Enemies]]
+[[Category:Sight Category]]
+[[Category:XC2 Species]]
+[[Category:XC2 Elucas]]
+[[Category:XC2 Insects]]
+[[Category:XC3 Species]]
+[[Category:XC3 Elucas]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:Elucas]]
+[[Category:Species by Type]]</text>
+      <sha1>nxb62i5vkz6fcps9alwfinvqb3awj1b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Emergency Bandana</title>
+    <ns>0</ns>
+    <id>122719</id>
+    <revision>
+      <id>592756</id>
+      <parentid>592426</parentid>
+      <timestamp>2023-05-15T20:13:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592756</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="541" sha1="12u04ycllzyvxfcbyqniouvjpss1dsi" xml:space="preserve">{{Infobox item
+|name      = Emergency Bandana
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Ally revival speed for each incapacitated ally.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Emergency Bandanas''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 40 [[Nopon Coin (Silver)|Silver Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>12u04ycllzyvxfcbyqniouvjpss1dsi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Empowered Combo</title>
+    <ns>0</ns>
+    <id>118901</id>
+    <revision>
+      <id>595275</id>
+      <parentid>592018</parentid>
+      <timestamp>2023-06-11T16:40:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6430" sha1="0kgv4p9k48wn670pp9h6ozvv9lsd4u8" xml:space="preserve">{{Infobox Gem
+| name     = Empowered Combo
+| image    = Gem-speciality.png
+| effect   = [Passive] When canceling, boosts damage dealt by ''(value)%''.
+| category = Speciality
+| max      = 75%
+}}
+'''Empowered Combo''' is a Speciality [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Damage Boost
+|-
+!I
+|25%
+|-
+!II
+|30%
+|-
+!III
+|35%
+|-
+!IV
+|40%
+|-
+!V
+|45%
+|-
+!VI
+|50%
+|-
+!VII
+|55%
+|-
+!VIII
+|60%
+|-
+!IX
+|65%
+|-
+!X
+|75%
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Empowered Combo I
+|[[Gemstone]]&lt;br /&gt;[[Volff Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Empowered Combo II
+|Gemstone&lt;br /&gt;[[Taos Wingtip]]&lt;br /&gt;[[Dextrous Bunnit Tail]]&lt;br /&gt;[[Dark Fish Fossil]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Empowered Combo III
+|Gemstone&lt;br /&gt;[[Krammit Device Fragment]]&lt;br /&gt;[[Brog Energy Booster]]&lt;br /&gt;[[Garaffa Electrical Organ]]&lt;br /&gt;[[Fleet Shimeji]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Empowered Combo IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Tirkin Service Medal]]&lt;br /&gt;[[Magnificent Upa Lure|Magnificent Upa Lura]]&lt;br /&gt;[[Anlood Antler]]&lt;br /&gt;[[Aldae Evridae]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Empowered Combo V
+|Pure Gemstone&lt;br /&gt;[[Ekidno Jawbone]] x 2&lt;br /&gt;[[Sagittarius Frame]] x 2&lt;br /&gt;[[Spiky Pagul Shell]] x 2&lt;br /&gt;[[Thick Flange]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Empowered Combo VI
+|Pure Gemstone&lt;br /&gt;[[Glistening Krodlax Scale]] x 2&lt;br /&gt;[[Sagittarius Machine Rifle]] x 2&lt;br /&gt;[[Round Skwaror Crystal]] x 2&lt;br /&gt;[[Strong Dandelion (XC3)|Strong Dandelion]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Empowered Combo VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Ageshu Needleclaw]] x 2&lt;br /&gt;[[Ulula Metal Fist]] x 2&lt;br /&gt;[[Moramora Bezoar]] x 3&lt;br /&gt;[[Steel Urchon Scale]] x 3&lt;br /&gt;[[Bronze Wood (XC3)|Bronze Wood]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Empowered Combo VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Withered Kapiba Branch]] x 15&lt;br /&gt;Sagittarius Frame x 15&lt;br /&gt;[[Marrin Bone]] x 15&lt;br /&gt;[[Scorpox Exoskeleton]] x 15&lt;br /&gt;[[Bezoarite]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Empowered Combo IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Circular Speculatos Blade]] x 20&lt;br /&gt;[[Scorpox Exoskeleton]] x 20&lt;br /&gt;[[Flak Simple Eye]] x 20&lt;br /&gt;[[Serrated Aligo Fang]] x 20&lt;br /&gt;[[Puzzletree Wood (XC3)|Puzzletree Wood]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Empowered Combo X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Mineral Darbus Bone]] x 30&lt;br /&gt;[[Eluca Silk]] x 30&lt;br /&gt;[[Ropl Rock Fragment]] x 30&lt;br /&gt;[[Kananus Razor Horn]] x 30&lt;br /&gt;[[Lightweight Velites Base]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Empowered Combo I
+| [[Gemstone]]&lt;br /&gt;[[Bunnit Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Empowered Combo II
+| Gemstone&lt;br /&gt;[[Vang Membrane]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Empowered Combo III
+| [[Pure Gemstone]]&lt;br /&gt;[[Rich Quarmu Sea Milk]] x2&lt;br /&gt;[[Flier Nectar Jelly]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Empowered Combo IV
+| Pure Gemstone&lt;br /&gt;[[Round Amoney Tentacle]] x2&lt;br /&gt;[[Fattened Krodlax Sashimi]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Empowered Combo V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Luminescent Laia Fin]]&lt;br&gt;[[Equites Tank Wheel]] x2&lt;br&gt;[[Arachno Pincer]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>0kgv4p9k48wn670pp9h6ozvv9lsd4u8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enemies and Allies</title>
+    <ns>0</ns>
+    <id>119712</id>
+    <revision>
+      <id>595093</id>
+      <parentid>595092</parentid>
+      <timestamp>2023-06-09T23:16:08Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1499" sha1="ltv2olz8f57aqb76f24m80cz870xf53" xml:space="preserve">{{Infobox quest
+|name        = Enemies and Allies
+|image       = XC3 Enemies and Allies.jpg
+|description = ''Go to Colony Iota's Storehouse. It seems that Alexandria wants to open up about colony affairs in the hope of gaining the party's trust''
+|giver       = [[Alexandria]]
+|location    = [[Elaice Highway]] ([[Colony Iota Canteen]])
+|prereqs     = Chapter 4 started&lt;br/&gt;''[[Her Reasons]]'' completed&lt;br/&gt;[[Alexandria]] in the party&lt;br/&gt;''Colony Iota Goods'' discussed
+|reclevel    = Lv. 41
+|rewards     = 400 [[Colony Iota]] [[Affinity (XC3)|Affinity]]&lt;br/&gt; 1760 [[Experience Points (XC3)|EXP]]&lt;br/&gt; 1940 [[Gold|G]]&lt;br/&gt; 3 [[Soul Points|SP]]&lt;br/&gt; 15 [[Colony Iota Goods]] 
+}}
+'''Enemies and Allies''' is a [[Quest (XC3)|Standard Quest]] in {{XC3}}.
+
+== Objectives ==
+# ''Talk with the specified character(s).''
+#* [[Rhyza]]
+#** Rhyza is found at the [[Great Liente Shelf]].
+# ''Head for the specified location(s).''
+#* [[Hidden Stash]]
+# ''Use the [[Collectopaedia (XC3)|Collectopaedia Card]] to send over supplies to [[Colony 4]].''
+# ''Talk with the specified character(s).''
+#* [[Chelle]]
+
+== Results ==
+''"Collectopaedia Cards can now be used to send supplies to other colonies. Alexandria and the others consider it a worthwhile investment."''
+
+== Trivia ==
+* If ''[[Rousing Bolearis]]'' has completed, instead of [[Ethel]], [[Bolearis]] will be the one to receive the Colony Iota Goods for Colony 4. 
+
+{{clr}}
+{{xc3 stub}}
+[[Category:XC3 Standard Quests]]
+[[Category:Fornis Region Quests]]</text>
+      <sha1>ltv2olz8f57aqb76f24m80cz870xf53</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enemy (XC3)</title>
+    <ns>0</ns>
+    <id>116816</id>
+    <revision>
+      <id>583900</id>
+      <parentid>565928</parentid>
+      <timestamp>2023-04-19T14:36:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>583900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2316" sha1="siiwyaw6bj1tfpkxxbpjqw1z2gzea90" xml:space="preserve">{{for|other uses|Enemy}}
+{{spoiler}}
+'''Enemies''' are the AI-controlled opponents faced by the party in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+Enemies can be found throughout the world of [[Aionios]], alone or in groups, and can be fought by the party to gain experience or progress in the story. When enemies are defeated, the party gains [[Experience Points (XC3)|EXP]] and two other skill points.
+
+There are four types of monsters: [[Normal Monster]]s, [[Elite Monster]]s, [[Unique Monster (XC3)|Unique Monsters]], and [[Lucky Monster]]s.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1524277610389602304?s=20&amp;t=b55NHDvmkr7quHfA5znvYQ&lt;/ref&gt;
+
+* Normal monsters are usually members of a species, reflected in the second part of their names (for example, [[Heavy Brog (XC3)|Heavy Brog]] are members of the [[Brog]] family).
+* Elite monsters are monsters that are stronger than normal monsters. They can be identified by a blue icon on the sides of its nameplate.
+* Lucky monsters are as powerful as normal monsters, but defeating them rewards better items. They are identified by a shine on its nameplate.
+* Unique monsters are powerful monsters with names that consist of an adjective and a name. They can be identified by a red icon on the sides of its nameplate.
+
+Enemies, like playable characters, have levels and use [[Battle Arts (XC3)|arts]] in battle.
+
+A complete list of enemies in {{XC3|-}} and {{XC3FR|sub}} can be found at [[List of Enemies in Xenoblade Chronicles 3]].
+
+== Skirmishes ==
+{{main|Skirmish}}
+Occasionally, the party will encounter groups of soldiers or monsters fighting one another in the field. They can choose to join either side of the battle, with each offering different rewards, such as [[Gold]], [[Experience Points (XC3)|Bonus Experience]], [[Affinity (XC3)|Affinity]] with a local colony, or [[Nopon Coin (XC3)|Nopon Coins]]. However, when the party is helping one group as part of a [[Quest (XC3)|quest]], it is not possible to join the other group.
+{{clr}}
+
+== Gallery ==
+=== In-Game Renders ===
+&lt;gallery&gt;
+Icon enemy type 0.png|Enemy Type Icons
+&lt;/gallery&gt;
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Types of Monsters.jpeg
+XC3 Lucky Enemy.jpeg|A Lucky Monster
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Enemies]]
+[[Category:XC3FR Enemies]]</text>
+      <sha1>siiwyaw6bj1tfpkxxbpjqw1z2gzea90</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enforcer Merigna</title>
+    <ns>0</ns>
+    <id>121821</id>
+    <revision>
+      <id>559643</id>
+      <parentid>546935</parentid>
+      <timestamp>2022-09-30T10:46:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559643</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="808" sha1="rxw5sembmt7dxf1mh7bkcmvqpy3a1mp" xml:space="preserve">{{Infobox Enemy
+|name         = Enforcer Merigna
+|image        = 
+|caption      = Enforcer Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Enforcer Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>rxw5sembmt7dxf1mh7bkcmvqpy3a1mp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Engineer Belt (XC3)</title>
+    <ns>0</ns>
+    <id>125646</id>
+    <revision>
+      <id>577143</id>
+      <timestamp>2023-02-16T14:36:58Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{for|the armour in {{XC|-}}|Engineer Belt (XC1)}} {{Infobox item |name      = Engineer Belt |image     =  |caption   = Boosts damage dealt to Machines by 110%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Engineer Belts''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000..."</comment>
+      <origin>577143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="623" sha1="pt4ftj3w1kg13zkexv616cbx9wcqben" xml:space="preserve">{{for|the armour in {{XC|-}}|Engineer Belt (XC1)}}
+{{Infobox item
+|name      = Engineer Belt
+|image     = 
+|caption   = Boosts damage dealt to Machines by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Engineer Belts''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>pt4ftj3w1kg13zkexv616cbx9wcqben</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Engineer Gloves</title>
+    <ns>0</ns>
+    <id>118940</id>
+    <revision>
+      <id>592757</id>
+      <parentid>592306</parentid>
+      <timestamp>2023-05-15T20:14:02Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592757</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" sha1="t94a8rw1on4unx3jyo2dbwe7jq24wi6" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Engineer Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 15% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Engineer Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 16% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Engineer Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 17% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Engineer Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>t94a8rw1on4unx3jyo2dbwe7jq24wi6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enigmatter</title>
+    <ns>0</ns>
+    <id>125573</id>
+    <revision>
+      <id>581088</id>
+      <parentid>577337</parentid>
+      <timestamp>2023-03-31T16:28:42Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="605" sha1="189q3o98yo7savf44mad3qe68nzu6gk" xml:space="preserve">{{Infobox item
+|name      = Enigmatter
+|image     = XC3 key item.png
+|caption   = "A novel mineral, found only in the aftermath of an annihilation event."
+|type      = Key Item
+|xc3rarity = Legendary
+|source    = [[Land of Challenge (XC3)|Land of Challenge]]
+|sell      = N/A
+}}
+'''Enigmatters''' are DLC [[Key Item]]s in {{XC3}}. They can be obtained for 300 [[Noponstone]]s in the [[Land of Challenge (XC3)|Land of Challenge]]. They are used to [[Craft Accessories]] with [[Masha]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Key Items]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing sources]]</text>
+      <sha1>189q3o98yo7savf44mad3qe68nzu6gk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enkrees Feris</title>
+    <ns>0</ns>
+    <id>121896</id>
+    <revision>
+      <id>580334</id>
+      <parentid>559644</parentid>
+      <timestamp>2023-03-24T20:29:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Level and infobox</comment>
+      <origin>580334</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1060" sha1="8yj5s0ondax5yqnuekfkiah6czdt2rt" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Enkrees Feris
+|image        = 
+|caption      = Enkrees Feris
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Feris]]
+|level        = 56
+|area         = [[Li Garte Prison Camp]] ([[Perimeter Woodland]])
+|spawntime    = During ''[[Prison Spring Clean]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Enkrees Feris''' are nine [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Feris]] family, and can be found at level 56 in the [[Perimeter Woodland]] in [[Li Garte Prison Camp]] during ''[[Prison Spring Clean]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8yj5s0ondax5yqnuekfkiah6czdt2rt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enpedia</title>
+    <ns>0</ns>
+    <id>120498</id>
+    <revision>
+      <id>601984</id>
+      <parentid>600732</parentid>
+      <timestamp>2023-07-22T12:21:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Unique Monster */</comment>
+      <origin>601984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="405" sha1="5iobt7hllru8ggii80x014o6cnegzcs" xml:space="preserve">[[File:XC3 Pressing Rafeel.png|thumb|Pressing Rafeel]]
+'''Enpedias''' are a family of enemies in {{XC3}}. They are only found in [[Origin]].
+
+== Normal Minor Enemies ==
+* [[Faroos Enpedia]]
+* [[Hyadet Enpedia]]
+
+== Unique Monster ==
+* [[Pressing Rafeel]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Enpedias]]
+[[Category:XC3 Machines]]
+[[Category:Enpedias]]
+[[Category:Species by Type]]</text>
+      <sha1>5iobt7hllru8ggii80x014o6cnegzcs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Enraged</title>
+    <ns>0</ns>
+    <id>63209</id>
+    <revision>
+      <id>600602</id>
+      <parentid>560512</parentid>
+      <timestamp>2023-07-21T20:16:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* {{XC2|-}} and {{TTGC|-}} */Standard</comment>
+      <origin>600602</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3759" sha1="kyotabfv1j3ef07wrwasgx34zhoildg" xml:space="preserve">'''Enraged''' (Japanese: {{lang|ja|&#24594;&#12426;}}, ''ikari'', anger or hatred) is a recurrent enemy-exclusive [[buff]] in {{XC|serieslink}}.
+
+== {{XC|-}} ==
+It is comparable to the [[Crazed]] status from {{XC}}.
+
+== {{XCX|-}} ==
+The Enraged status in {{XCX}} increases the stats of the [[Enemy (XCX)|enemy]] under its effects, and may have bonus effects for certain species. The majority of enemy species can gain this buff when their [[Hit Points (XCX)|Hit Points]] have been reduced to a low amount or an appendage has been destroyed. A few enemy species cannot become Enraged. The buff can wear off after enough time has passed.
+
+When Enraged becomes active, the enemy will play a special animation before resuming its attacks. Enraged is marked by a unique particle effect on the enemy consisting of black ashes and red bolts of lightning rising around the enemy.
+
+Enraged will not activate whilst the enemy is suffering from [[Launch (XCX)|Launch]], [[Knockback (XCX)|Knockback]], [[Flinch]], [[Stun]], [[Stagger]], [[Topple (XCX)|Topple]], [[Sleep (XCX)|Sleep]], or [[Control]].
+
+== {{XC2|-}} and {{TTGC|-}} ==
+In {{XC2}} and {{TTGC}}, the Enraged status enhances the ability of the [[Enemy (XC2)|enemy]]&#160;under its effects (such as gaining boosts to stats, dealing more damage, gaining a [[Spike (XC2)|counterspike]], and more),&#160;and allows certain enemies to unleash stronger [[Battle Arts (XC2)|arts]]. The majority of enemy species can gain this buff when their [[Hit Points (XC2)|Hit Points]] have been reduced to less than half, or after using a specific art. Kindred enemies might also enrage in response to others getting the status. Many enemies' [[Blade (XC2)#Elements|element]] will change after becoming enraged.
+
+A few stationary enemy species cannot become Enraged, such as [[Nest]]s, [[Pod]]s, [[Parisax|Parisax Eggs]] and [[Standard]]s. With the exception of special encounters such as [[Boss (XC2)|bosses]], some [[Quest Exclusive Enemy (XC2)|quest exclusive enemies]] and some [[Unique Monster (XC2)|Unique Monsters]], most enemies below level 25 cannot become Enraged.
+
+When the Enraged aura becomes active, a unique particle effect briefly surrounds the enemy consisting of red flames circling around the enemy. From version 1.5.0 onwards, a red pulsating icon will appear next to the enemy's name once it has become Enraged.
+
+It can be dispelled by [[Corvin]]'s Level 2 [[Blade Special]] [[Lacerna Noctis]].
+
+=== Rage Strikes ===
+Exclusively on Bringer of Chaos [[Difficulty Levels|difficulty]], Enraged enemies may unleash a '''Rage Strike'''. This status effect powers up the first art used by the enemy after enraging, multiplying its damage by 300%.
+
+Every time this powerful art connects with a party member, it will also drain the [[Party Gauge (XC2)|Party Gauge]] by half a bar segment (50 points). If an enemy is capable of enraging multiple times, then it can also use Rage Strikes multiple times per battle.
+
+== {{XC3|-}} ==
+[[File:XC3 Enraged 01.jpg|thumb|180px|The Enraged icon on an enemy's HP gauge]]
+Powerful [[Enemy (XC3)|enemies]] in {{XC3}}, such as [[Unique Monster (XC3)|Unique Monster]]s and [[Boss (XC3)|Boss]]es, have an Enraged mark on their [[Hit Points (XC3)|HP]] gauge, usually at half. When its HP goes below that mark, the enemy becomes Enraged. An Enraged enemy has increased attack power, and depending on the species, may gain access to new Arts or have additional effects. [[Smash (XC3)|Smash]] has the negative side effect of moving the mark up, allowing the enemy to become Enraged earlier. [[Burst]] deactivates Enraged for a certain amount of time.
+{{clr}}
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XCX Status]]
+[[Category:XC2 Status]]
+[[Category:TTGC Status]]
+[[Category:XC3 Status]]</text>
+      <sha1>kyotabfv1j3ef07wrwasgx34zhoildg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Envy Gogol (XC3)</title>
+    <ns>0</ns>
+    <id>122470</id>
+    <revision>
+      <id>580258</id>
+      <parentid>559645</parentid>
+      <timestamp>2023-03-24T20:06:08Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>580258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="840" sha1="7q0y03e3hml9lvm3hdpdfphw6sdjskj" xml:space="preserve">{{for|the enemy in {{XC|-}}|Envy Gogol (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Envy Gogol
+|image        = Envy Gogol XC3.jpg
+|caption      = Envy Gogol
+|category     = Minor Enemy
+|type         = [[Gogol]]
+|level        = 44-45
+|area         = [[High Maktha Wildwood]] ([[Gogols' Tree]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 48
+|cp           = 
+|sp           = 
+}}
+'''Envy Gogols''' are Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level 44 - 45 around [[Gogols' Tree]] in [[High Maktha Wildwood]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7q0y03e3hml9lvm3hdpdfphw6sdjskj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Equites</title>
+    <ns>0</ns>
+    <id>116781</id>
+    <revision>
+      <id>595649</id>
+      <parentid>595187</parentid>
+      <timestamp>2023-06-16T10:15:05Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2853" sha1="sv5b089oo2e67eoexftp5ck23x1e1vs" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Equites
+|image        = XC3 - Equites.png
+|caption      = Equites
+|category     = Normal Enemy
+|type         = [[Levnis]]
+|level        = 15 - 47
+|area         = [[Eagus Wilderness]]&lt;br/&gt;[[Caitlin Drum]]&lt;br/&gt;[[Yzana Plains]]&lt;br/&gt;[[Captocorn Peak]]&lt;br /&gt;[[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 113
+}}
+'''Equites''' are enemies in {{XC3}} and ''[[Xenoblade Chronicles 3: Future Redeemed|Future Redeemed]]''. They are [[Keves]]i [[Levnis]]es, and can be found at level 15 in [[Eagus Wilderness]] and [[Bennel Cave]], level 19 - 21 in [[Caitlin Drum]], 30 - 47 in [[Yzana Plains]] and [[Captocorn Peak]] in the [[Aetia Region]], and in [[Keves Castle]]. One is seen accompanying [[Valdi]] alongside a [[Velites]] during his Hero Quest, 2 more aid [[Garvel]], [[Layla]], and [[Hoope]] during their boss fight during [[Lanz]]'s [[Hero Quest]], and [[Joran]] was run over by one's wheel in one of his past lives prior to becoming a [[Moebius]]. They drop [[Equites Tank Wheel]]s and [[Equites Loading Core|Loading Cores]] when defeated. One Equites aids some Kevesi Troops in hunting down 3 citizens from the City.
+
+== Stats ==
+{{Enemy stats}}
+
+=== Arts ===
+{{Enemy arts|art1=[[Spit Beam]]|art2=Flip Wheel|art3=Rampage Drive}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Equites
+|image        = Equites FR.jpg
+|caption      = Equites
+|category     = Normal Minor Enemy
+|type         = [[Levnis]]
+|level        = 38
+|area         = [[Vermilion Woods]] ([[Colony 5 Wreckage]])
+|spawntime    = After reaching the [[Black Mountains]]
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Equites''' are Normal Minor Enemies in {{XC3FR}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 38 near the [[Colony 5 Wreckage]] in [[Vermilion Woods]] after reaching the [[Black Mountains]].
+{{clr}}
+
+== Etymology ==
+The name Equites is named after the Roman societal class of the [https://en.wikipedia.org/wiki/Equites same name].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3FR Levnises]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>sv5b089oo2e67eoexftp5ck23x1e1vs</sha1>
+    </revision>
+  </page>
+</mediawiki>

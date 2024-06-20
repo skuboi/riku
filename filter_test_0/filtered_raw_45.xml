@@ -1,0 +1,1490 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Monado</title>
+    <ns>0</ns>
+    <id>2086</id>
+    <revision>
+      <id>598427</id>
+      <parentid>597096</parentid>
+      <timestamp>2023-07-08T16:55:13Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>598427</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30903" sha1="lzj6lg8l1z1iebiuklhxi35t3aqb61u" xml:space="preserve">{{spoiler}}
+{{Infobox Equipment
+|name       = Monado
+|image      = Monado.png
+|imagewidth = 50px
+|caption    = A weapon of many abilities, and the only one that can match the Mechon
+|type       = [[Weapons (XC1)/Monados|Shulk's Monado]]
+|attack     = (11.2 &#8211; 15) &#215; Lvl ([[Shulk]])&lt;br /&gt;200 &#8211; 280 ([[Dunban]])
+|physical   = 0
+|ether      = 0
+|critical   = +10%
+|block      = 0%
+|slots      = 2
+|sell       = N/A
+}}
+{{Quote|The Monado... I hope I can figure out the secret of its power one day.|Shulk}}
+The '''Monado''' (Japanese: {{lang|ja|&#12514;&#12490;&#12489;}}) ([[English dub pronunciations|English dub]]: {{IPA|/mo&#712;n&#593;&#720;do&#650;/}}) is a mythical sword in {{XC}}. The reasons of its existence and powers are the core of the story. It is said to be the weapon used by [[Bionis]] in its war with [[Mechonis]].
+
+== Characteristics ==
+The Monado is a powerful energy blade that can manipulate the [[ether]] around it, and by doing so, change the material and immaterial shape of the world. One's ability to control the Monado depends on the strength of will of its user; most [[Homs]] who try to use the sword cannot control it. At the beginning of the game, the Monado cannot harm any of the sentient beings (Homs, [[High Entia]], and [[Nopon]]) of Bionis.
+
+The Monado grants its elected wielder the power of foresight. It is said that this is possible because all of the ether in the world is calculable in its changes. This allows the user to see where every ether particle is, was, and will be.
+
+According to Alvis, the Monado emits a particular ether wavelength in its ground state that attracts [[Telethia (XC1)|Telethia]]. Also, the Monado can be counteracted by opposing particles to that of the Monado.
+
+All of the [[Alvis|seers]] must touch the Monado to receive their divination powers.
+
+== Story ==
+=== {{XC|-}} ===
+==== Creation ====
+When [[Klaus]] split the original world with the [[Conduit]], [[Ontos]], one of the three [[Core Crystal|cores]] of the [[Trinity Processor]], was sucked into another dimension alongside half of Klaus's body, which became [[Zanza]], and [[Galea]], who became [[Meyneth]]. At some point, Ontos awakened as [[Alvis]] and created the Monado, eventually bestowing Zanza with its power. Another [[Meyneth Monado|Monado]] was bestowed to Meyneth.
+
+==== The Sword of Bionis ====
+[[File:Bionis vs Mechonis DE Intro.jpeg|thumb|270px|Bionis wields the Monado against Mechonis]]
+At some point, Zanza's soul became housed inside the Monado, which ended up at what would eventually become the [[Companions' Forum]] on the [[Bionis' Shoulder]]. The Monado ended up being discovered by the [[Giant]] [[Arglas]], who ended up being possessed by Zanza to wage war against Mechonis. After the battle, Zanza's body was imprisoned on [[Prison Island]] and the Monado, with Zanza's soul within, was sealed in Ose Tower, which would become the [[Sealed Tower]].
+
+==== The Monado's Discovery ====
+14 years before the events of {{XC|-}}, a group of Homs explorers left [[Colony 9 (XC1)|Colony 9]] in search of the Monado, said to have been wielded as a blade of light by the Bionis itself. Their travels took them to [[Valak Mountain]], where they supposedly disappeared. In truth, when the explorers found the Monado, Zanza's soul inside the sword awakened. In order to replenish his life force, Zanza sucked their life forces, before possessing the body of a young boy who was among the Homs, reviving the boy. Later arrived [[Dickson]], who found the bodies of the research team in the Sealed Tower, next to the Monado. He took the weapon along with the only survivor, who would grow up to be [[Shulk]].
+
+13 years later, the first known Homs wielder of the Monado, [[Dunban]], was able to exercise limited control of the sword and use it as a weapon against the [[Mechon]] at the [[Battle of Sword Valley]]. In doing so, he was able to thwart an attack against Colony 9. Due to sheer discipline and strength, he could wield the blade, even though he could not fully control it. Dunban unwittingly sacrificed the use of his right arm for victory in the battle against the Mechon.
+
+==== The Heir to the Monado ====
+[[File:Shulk with Monado 1.jpeg|thumb|left|Shulk wields the Monado for the first time]]
+Shulk dedicated his entire life to solving the secrets of the Monado and thus is not only able to wield the blade without problems, but also able to unlock its great power. Shulk experiences this great power for the first time when he sees the future while holding the Monado in his [[Weapon Development Lab|laboratory]]. However, he learns that he has no control over what he sees, so he does not know he was granted foresight at the beginning.
+
+When the Mechon attack Colony 9, Dunban joins Shulk and [[Reyn]] wielding the Monado as the latter two are struggling against them in the [[Central Plaza (Colony 9)|Central Plaza]]. As the three of them head to the [[Residential District (XC1)|Residential District]], Dunban, not yet recovered from his injuries, tries to use again the Monado. When the Monado flies out of Dunban's hand, Shulk picks up the Monado. At this point, he unintentionally gains the ability to predict the future. Thanks to the Monado's foresight, Shulk avoids getting killed. However, he is unable to damage [[Metal Face]] in any way with the Monado, which leaves him helpless against the [[Mechon#Faced Mechon|Faced Mechon]] when he kills [[Fiora]].
+
+==== Unlocking the Monado's Powers ====
+[[File:Shield Symbol 2.jpg|thumb|150px|Monado Shield]]
+Shulk and Reyn decide to avenge Fiora and set out for [[Colony 6]]. While in [[Tephra Cave]], Shulk has a vision of the [[Arachno Queen]] killing Reyn. The prediction proves true when Shulk and Reyn fall into the [[Arachno Queen's Nest]]. Shulk unlocks a new power of the Monado, [[Monado Shield (XC1)|Monado Shield]], allowing him to change the future that the Monado had predicted.
+
+[[File:Shulk learning Monado Purge.jpeg|thumb|left|Shulk activates Monado Purge]]
+While looking for [[Ether Crystal (XC1)|ether crystals]] alone in [[Makna Forest]], Shulk is attacked by [[Telethia (XC1)|Telethia]]. When he tries to confront them, however, he is unable to face them, as they can read his thoughts. However, a mysterious Homs by the name of Alvis takes the Monado and unlocks another of its powers. He explains to Shulk that the Monado does not control its power, but its user does.
+{{clr}}
+
+==== Release the Shackles ====
+[[File:Monado II Unlocked DE.jpg|thumb|The Monado's shackles are unleashed]]
+After arriving in [[Alcamoth]], the High Entia capital, the party learns that the Monado was sealed away by the High Entia forefathers.
+
+When the party follows Emperor [[Sorean]] to [[Prison Island]], they meet a Giant by the name of Zanza, who was also locked away by the same forefathers. He claims to be the creator of the Monado, and offers to remove the restriction that prevent the Monado from harming the sentient beings of Bionis if he is released. Shulk agrees, and even though Zanza is apparently killed by Metal Face, the Monado is released, transforming into the [[Monado II]] in the process, and Shulk can finally harm Faced Mechon like Metal Face. However, he also hears the voice of Zanza through the blade for the first time.
+
+==== Affected by the Apocrypha ====
+The leader of Mechonis, the [[Machina]] [[Egil]], uses the [[Apocrypha Generator]], that is located in the [[Central Factory]] from [[Galahad Fortress]], to revert the Monado to its inert state. Even after the battle ends, Shulk still cannot use the Monado. He finally forces it to awaken when protecting a weakened Fiora on the [[Fallen Arm]], but the use of the Monado takes a physical toll on his health.
+
+He learns from the goddess of Mechonis, [[Meyneth]], in [[Agniratha]] that the Monado was used against Mechonis and the Machina by Zanza.
+
+==== Zanza's Return ====
+[[file:Zanza Monado DE.png|thumb|left|Zanza with his Monado]]
+After the party defeats Egil's Faced Mechon [[Yaldabaoth]], Egil explains that Zanza inhabits the beings of Bionis in order to live, and his soul dwells in the Monado. After Egil tells the story about Zanza, Dickson appears and shoots Shulk with his rifle, revealing himself to be a disciple of Zanza's and a traitor. Zanza leaves Shulk's body while also revealing that the Monado is the weapon of destruction as well as the holder of Zanza's soul. After this revelation, Meyneth comes out from Fiora's body and uses her own Monado to battle Zanza. When Zanza defeats Meyneth, he takes her Monado. With it, Zanza no longer needs to inhabit a living being to survive. However, he did not realise that there was another Monado, [[Monado III|Shulk's Monado]]. 
+
+After losing the Monado, Shulk is given a [[Replica Monado|replica]] of the sword from [[Miqol]].
+
+==== The True Monado ====
+[[File:True Monado Finisher.jpg|thumb|right|Shulk uses the True Monado to finish off Zanza]]
+During the party's final battle against Zanza, Shulk unlocks the power of the [[Monado III|True Monado]]. Upon overcoming Zanza, a light connects the three Monados (Zanza's, Meyneth's, and Shulk's). After this, Alvis explains that he is Monado, the fabric of reality. He tells Shulk that he can decide the fate of the universe now that he possesses the sword's full power. Shulk decides to create a world with no need for gods, refusing to become a god and giving up both his Monado and his power to see the future in the process.
+
+=== {{XCFC|sub}} ===
+==== Shulk's Personal Monado ====
+At some point after the world's recreation, Shulk constructed his own replica of the Monado, the [[Monado Replica EX]], based on the prototypes built by Miqol, which is able to use most of the same abilities as the Monado. He uses this new weapon while on the Bionis' Shoulder. Later on, Shulk, with help from [[Radzam]], upgrades it into the [[Monado Replica EX+]] in order to defeat the [[Fog King]].
+
+=== {{XC3FR|-}} ===
+==== Alpha and A's Monados ====
+The Monado in its original form reappears in {{XC3FR}}, wielded by [[Alpha]]. When Alpha transforms into his final form during the final battle, the Monado transforms as well. Another version of the Monado, this one with a more slender appearance, also appears as [[A]]'s [[Blade (XC3)|Blade]]. Additionally, Shulk wields his Monado REX+ as his Blade. A's Monado and Shulk's Monado REX+ are among the few weapons capable of destroying [[Ferronis]] [[Flame Clock]]s.
+{{clr}}
+
+== Arts ==
+Shulk can select Monado Arts by activating his [[Battle_Arts_(XC1)#Talent_Arts|Talent Art]], Activate Monado, granting access to the weapon's most powerful abilities. Buster and Enchant are available upon obtaining the Monado; additional Arts are unlocked through story progression or side quest completion. Monado Arts can be upgraded like typical Battle Arts, but are initially capped at level 4. After the events on Prison Island, all Monado Arts can be upgraded to level 10. In {{XCDE|sub}}, Monado Arts are the only Arts with upgrades that can not reach level 12, as they do not have corresponding [[Levelling_Battle_Arts#Art_Books|Master Books]]. Shulk's Monado Arts include the following:  
+
+* '''{{lang|ja|&#26028;}}''' [[Monado Buster|Buster]]: Powerful attack with a larger blade in a straight line ahead. Deals double damage to Mechon and [[Machina]].
+* '''{{lang|ja|&#24375;}}''' [[Monado Enchant|Enchant]]: Strengthens the weapons of the party. Allows normal weapons to damage Mechon. (Unavailable in {{XCFC|sublink}})
+* '''{{lang|ja|&#30462;}}''' [[Monado Shield (XC1)|Shield]]: Generates a barrier that protects the party from enemy Talent Arts of the same level or lower.
+* '''{{lang|ja|&#30142;}}''' [[Monado Speed|Speed]]: Gives the targeted party member a greater chance to dodge physical attacks.
+* '''{{lang|ja|&#30772;}}''' [[Monado Purge|Purge]]: Ranged ether blast that inflicts [[Aura Seal]] and nullifies [[Spike (status)|Spike]] effects.
+* '''{{lang|ja|&#37799;}}''' [[Monado Armour|Armour]]: Reduces physical and ether damage taken. Percentage (30%-75%) depends on this Art's level.
+* '''{{lang|ja|&#36703;}}''' [[Monado Cyclone|Cyclone]]: Damages all enemies around the user and inflicts topple on enemies suffering from break.
+* '''{{lang|ja|&#21936;}}''' [[Monado Eater|Eater]]: Strips away enemy buffs and causes bleed damage in a frontal cone.
+
+The following Arts are only seen in the [[Zanza (boss)|final battle]] and can not be obtained by Shulk during normal gameplay, being exclusively used by the final boss and their [[Zanza Guardian|guardians]].
+* Shooter: 8 hit combo, large damage with each shot.
+* Brave: strength up and ether up buffs.
+* Fear: inflicts strength down and ether down debuffs to the party
+* Recover: heals a fairly large amount of health.
+
+== In {{XC2|-}} ==
+=== As a Blade Weapon ===
+The Monado is Shulk's [[Weapons (XC2)|weapon]] as a [[Blade (XC2)|Blade]] in {{XC2}}. The Monado is a clone of the Shield Hammer weapon, but has faster attacks and is a ATK weapon instead of a TNK weapon. It can be used by [[Rex]], [[Nia]], [[M&#242;rag]] and [[Zeke]], each one of them with their own arts, including a variation of [[Monado Shield (XC2)|Monado Shield]] for Rex and Zeke. Shulk himself can use Purge, Cyclone, Buster, and the unique [[Monado Unbound]] as his [[Blade Special|Specials]], and Enchant and Speed as his Battle Skills.
+
+==== Monado Driver Arts ====
+&lt;tabber&gt;
+|-|Rex=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Monado Shield (XC2)|Monado Shield]]
+| Defense
+|-
+| [[Monado Storm]]
+| AOE / Aggro Down
+|-
+| [[Monado Burst]]
+| Back attack &#8593;
+|-
+| [[Monado Beat]]
+| AOE / Toppled &#8593;
+|}
+
+|-|Nia=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Lightning Smash]]
+| Machines &#8593;
+|-
+| [[Monado Striker]]
+| AOE / Aggro Down
+|-
+| [[Lucent Glance]]
+| AOE / Toppled &#8593;
+|-
+| [[Beam Thrust]]
+| Back attack &#8593; / Knockback
+|}
+
+|-|M&#242;rag=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Sudden Smite]]
+| Machines &#8593;
+|-
+| [[Blade Masquerade]]
+| AOE / Aggro Down
+|-
+| [[Echo Edge]]
+| Toppled &#8593;
+|-
+| [[Steel Brand]]
+| Topple
+|}
+
+|-|Zeke=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Monado Shield (XC2)|Monado Shield]]
+| Defense
+|-
+| [[Helios Circle]]
+| AOE / Aggro Down
+|-
+| [[Ragnarok Slash]]
+| Launch
+|-
+| [[Nemesis Beat]]
+| Machines &#8593;
+|}
+&lt;/tabber&gt;
+
+=== Aegis Sword ===
+[[File:Malos's Monado Armor.png|thumb|120px|Malos's Monado]]
+The [[Aegis|Aegis Swords]] in {{XC2|-}} bear many similarities to the Monado. When [[Malos]] uses his powers as an Aegis during the two boss fights at the [[Cliffs of Morytha]] and the two boss fights in {{TTGC}}, he wields a purple Monado and is able to use the following arts:
+* Armor: creates a barrier that surrounds himself and his allies which reduces the time for [[Blade Combo]]s and increases defensive capabilities.
+* Buster: causes damage to the enemies in front of him and inflicts [[Blowdown (XC2)|Blowdown]].
+* Cyclone: causes damage to all enemies and inflicts Blowdown.
+* Eater: causes damage to the enemies in front of him and [[Affinity Down|reduces Blade affinity]].
+* Jail: inflicts [[Shackle Blade]] on the entire party.
+
+== In {{XC3|-}} ==
+=== As a Weapon Attachment ===
+[[File:XC3 Monado Amiibo Screenshot.jpg|thumb|180px|The Monado in {{XC3|-}}]]
+In {{XC3}}, scanning the [[Shulk]] [[amiibo]] will unlock a Monado weapon [[Clothing|attachment]] for the [[Swordfighter]] [[Class (XC3)|class]]'s [[Blade (XC3)|Veiled Sword]]. It can also be unlocked by completing the game for the first time on any difficulty. 
+
+=== Monado REX+ Arts ===
+In {{XC3|-}} and {{XC3FR|sublink}}, Shulk, as a [[Grand Marshal]], is able to use multiple Monado arts with his Monado REX+. He can use [[Monado Purge#In Xenoblade Chronicles 3: Future Redeemed|Monado Purge]], [[Monado Armour#In Xenoblade Chronicles 3: Future Redeemed|Monado Armor]], and the new [[Monado Rage]] as [[Battle Arts (XC3)|arts]], Buster as his Talent Art, and Cyclone during [[Unity Combo]]s.
+{{clr}}
+
+== In the ''Super Smash Bros.'' series ==
+[[File:Shulk-Smash Bros Ultimate.jpg|thumb|180px|Shulk wielding the Monado (with the Smash Art activated) in {{SSBU|-}}]]
+Shulk is a playable character in {{SSB4}} and {{SSBU}}. He uses the Monado (in its first form) in battle, and when it is activated in battle, Shulk's features and abilities change. These games include two Monado Arts that are not in {{XC|-}}; Jump (&#32724;, lit. "soar"), which gives Shulk higher jumps, a higher-height [[Air Slash (XC1)|Air Slash]] and lower defense, and Smash (&#25731;, lit. "attack/strike"), which gives Shulk stronger knockback/launching power but at the cost of lower damage output and launching resistance. Shulk can also use Speed, which gives Shulk higher movement but at the cost of shorter jumps and a little less damage output, Shield, which increases Shulk's defense and makes him heavier but at the cost of greatly reduced speed, damage output, and jump height, and Buster, which gives Shulk stronger damage outputs but at the cost of lower defense and reduced knockback/launching power.
+
+By copying Shulk, Kirby gets a his own Monado that he can use to utilise the same Monado Arts Shulk is able to use.
+
+== In ''Super Mario Maker'' ==
+In ''[[w:c:mario:Super Mario Maker|Super Mario Maker]]'', when Mario uses Shulk's Mystery Mushroom costume, pressing up on the controller will make Shulk hold up the Monado. 
+
+== Notes ==
+* When Dunban wields the Monado, it has an [[Attack]] of 200 - 280. In addition, during the [[Battle of Sword Valley]] it has [[Physical Defence]] 80, [[Ether Defence]] 90, and an [[Unbeatable]] 100% gem. Dunban also uses Monado Buster in a perpendicular manner as opposed to a straight line when Shulk uses it.
+* When Shulk reaches [[Level (XC1)|level]] 90, the Monado's minimum and maximum Attack values both reach the maximum of 999. At this point [[Attack Stability]] gems will have no effect unless paired with an [[Attack Plus]] gem.
+
+== Etymology == 
+* The name Monado is likely derived from [[wikipedia:Gnosticism|Gnosticism]], in which the [[wikipedia:Monad (Gnosticism)|Monad]] is the Supreme Being, the highest god that created lesser gods or divine entities. Gnostic references have been a recurring theme throughout [[Tetsuya Takahashi]]'s works, including ''Xenogears'' and ''Xenosaga''.
+* The Gnostic concept in turn was inspired by Greek philosophy. Pythagoreans called the first thing that came into existence "[[wikipedia:Monad (philosophy)|monad]]", which begat the dyad, which begat numbers, points, lines, etc. It meant the first being or the totality of all beings.
+
+== Trivia == 
+* ''Xenoblade'' was originally advertised as ''Monado: Beginning of the World''. The game was given its final name in January, 2010.
+* Despite the game's lore saying the Monado cannot harm anything born of Bionis, in gameplay it has no difficulty harming any of the monsters that inhabit Bionis, including humanoids like [[Chilkin]]s, [[Hode]]s, [[Igna]]s, [[Kromar]]s, and [[Tirkin]]s. However, when Shulk's party is attacked by the Metal Face in Colony 9 and Xord in the Ether Mine, the High Entia assassins in Alcamoth and Tyrea in the High Entia Tomb, Shulk's attacks will bounce off their bodies. This restriction will be latter removed by Zanza which allows the Monado II to harm anything born in Bionis and Face Mechon.
+* In various cutscenes throughout the game, the Monado displays the Japanese kanji that corresponds to what it is capable of destroying. The initial Monado displays the kanji for "Machine." The Monado II displays the kanji for "Person." The Monado III displays the kanji for "God."
+* Each art of the Monado shows a different colour of the blade of light when used. This trait is also present with the [[Monado Replica EX+|Monado REX+]].
+** Buster: Blue
+** Enchant: Violet
+** Shield: Yellow
+** Speed: Light blue
+** Purge: Green
+** Armor: Orange
+** Cyclone: White
+** Eater: Black
+** Rage: Red
+* The powers of the Monado are similar to those of the [[w:c:Xenosaga:Zohar|Zohar]], an object that was present in both ''[[w:c:Xenosaga:Xenogears|Xenogears]]'' and ''[[w:c:Xenosaga:Xenosaga|Xenosaga]]''. The explanation Alvis gives about the origin of the Monado suggest that he has similar capabilities to the Zohar.
+* The Monado's shift from red to white/teal is also seen in the evolution of Weltall in ''Xenogears'' and the Aegis sword in {{XC2|-}}.
+* In {{XCDE|sub}}, the saturation and brightness changes on the models cause the Replica Dogma and Replica Rudra's colours to closely match the colour schemes of [[Elma]] and Malos, respectively.
+* In {{XC2|-}}, every Monado Art symbol from {{XC|-}} can be seen during gameplay (except Enchant). The symbols for Purge, Cyclone, and Buster appear when Shulk uses them as his Blade Specials, the symbol for Speed appears during Shulk's Level IV Special, Monado Unbound, the symbol for Shield appears when Rex or Zeke use their [[Battle Arts (XC2)|Driver Art]] of the same name, and the symbols for Armor, Buster, Cyclone, and Eater appear on Malos's Aegis Sword when he uses them, but are slightly different. Additionally, every Monado Symbol seen in {{XC|-}}, plus the symbol for [[Monado Rage|Rage]], is present within {{XC2|-}}'s files, including the original versions of the symbols displayed on Malos's [[Aegis|Aegis Sword]].
+{{clr}}
+
+== Gallery ==
+=== Official Artwork ===
+&lt;gallery&gt;
+Monadoboi.png|Official Artwork of Shulk holding the Monado in {{XC|-}}
+XCDE-Shulk.png|Official Artwork of Shulk holding the Monado in {{XCDE|sub}}
+Shulk XC2 Art.png|Official Artwork of Shulk holding the Monado in {{XC2|-}}
+XC3FR A.png|Official Artwork of A wielding the Monado in {{XC3FR|-}}
+Shulk (SSB4).png|Artwork of Shulk holding the Monado in {{SSB4|-}}
+Shulk-Smash Bros Ultimate Artwork.png|Artwork of Shulk holding the Monado in {{SSBU|-}}
+XC3FR Alpha Artwork.png|Official Artwork of Alpha wielding the Monado in {{XC3FR|-}}
+Shulk3.png
+Xenoblade-10th-Anniversary-artwork-only.jpg|Artwork commemorating the 10th anniversary of the {{XC|serieslink}}, with Shulk holding the Monado
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Xenoblade-sword-artwork-1.jpg|The sword as it appears on the official website page.
+Dunban with the Monado.png|Dunban, the original wielder of the Monado.
+Monado in Lab.jpg|Monado in the Lab
+XC1DE-Shulk-Battle-Mode-3D-Model.jpg|The Monado in {{XCDE|sub}}
+XC1DE-Shulk-Battle-Mode-2-3D-Model.jpg|The Monado in {{XCDE|sub}}
+Reyn can't touch the Monado..png|Reyn trying the hold the Monado, despite his lack of experience with it.
+Shulk Wields the Monado II.jpg|Shulk wields the Monado II in {{XCDE|sub}}
+Monado II.jpg|Shulk with the Monado II
+Bionis 1 DE.jpg|The Bionis with its Monado in {{XCDE|sub}}
+Bionis' Monado.jpg|Bionis' Monado in {{XC|-}}
+Shulk using the Monado.png|While using the Monado, Shulk realises it has no effect on [[Metal Face]].
+Purge .jpg|Shulk learns Monado Purge in {{XC|-}}
+Immagine.png|The triad of Monados
+Zanza Boss.png|Zanza with his and Meyneth's Monados
+Malos Eater.jpg|Malos activating his Aegis Sword to use Monado Eater in {{XC2|-}}
+Malos Destruction.png|Malos's Monado Eater {{XC2|-}}
+Noah Monado.jpg|Noah using the Monado in {{XC3|-}}
+Shulk Rex Fighting Alvis.jpg|Alpha using the Monado against Shulk and Rex in {{XC3FR|-}}
+A's Monado.jpg|A's Monado
+Alpha Monado.jpg|Alpha's Monado in its final form
+Monado Kirby.jpg|Kirby using the Monado in {{SSBU|-}}
+&lt;/gallery&gt;
+
+=== Models &amp; Renders ===
+&lt;gallery&gt;
+Shulk Weapons.jpg|All of Shulk's Monados
+FioraMeynethMonado1.jpg|Fiora with Meyneth's Monados
+Zanza 1.jpg|Zanza using his Monado
+Zanza 2.jpg|Zanza (alternate 2nd form) wielding an altered version of Meyneth's Monado
+monado.jpg|Monado
+monado 2.jpg|Monado II
+Monado III.jpg|Monado III
+Replica Monado.jpg|Replica Monado
+Monado Rudra.jpg|(Replica) Monado Rudra
+Monado Agni.jpg|(Replica) Monado Agni
+Monado Abyss.jpg|(Replica) Monado Abyss
+Monado Dogma.jpg|(Replica) Monado Dogma
+Monado Saga.jpg|(Replica) Monado Saga
+Monado-0.png|Zanza's Monado
+Meyneth Monado.jpg|Meyneth's Monado (altered to Fiora's double-blade attack style)
+Meyneth True Monado.png|Meyneth's Monado in its single sword form
+MonadoREX.png|Monado Replica EX
+MonadoREX+.png|Monado Replica EX+
+Model Monado.png|Monado in {{XC2|-}}
+XC2 Monado icon.png|The Monado's weapon icon in {{XC2|-}}
+Monado Fencer Class Icon.png|The Monado's weapon icon in {{XC3FR|-}}
+Grand Marshal Class Icon.png|The Monado REX+'s weapon icon in {{XC3FR|-}}
+&lt;/gallery&gt;
+
+=== Monado Blades ===
+==== {{XC|-}} ====
+&lt;gallery&gt;
+Armour Blade.jpg|Monado Armour's blade in {{XCDE|sub}}
+Buster Blade.jpg|Monado Buster's blade in {{XCDE|sub}}
+Cyclone Blade.jpg|Monado Cyclone's blade in {{XCDE|sub}}
+Eater Blade.jpg|Monado Eater's blade in {{XCDE|sub}}
+Enchant Blade.jpg|Monado Enchant's blade in {{XCDE|sub}}
+Purge Blade.jpg|Monado Purge's blade in {{XCDE|sub}}
+Shield Blade.jpg|Monado Shield's blade in {{XCDE|sub}}
+Speed Blade.jpg|Monado Speed's blade in {{XCDE|sub}}
+&lt;/gallery&gt;
+
+==== {{XC2|-}} ====
+&lt;gallery&gt;
+Buster Blade XC2.jpg|Monado Buster's blade in {{XC2|-}}
+Cyclone Blade XC2.jpg|Monado Cyclone's blade in {{XC2|-}}
+Purge Blade XC2.jpg|Monado Purge's blade in {{XC2|-}}
+Unbound Blade.jpg|Monado Unbound's blade in {{XC2|-}}
+&lt;/gallery&gt;
+
+==== {{XC3FR|-}} ====
+&lt;gallery&gt;
+Armor Blade FR.jpg|Monado Armor's blade in {{XC3FR|sub}}
+Buster Blade FR.jpg|Monado Buster Blade in {{XC3FR|sub}}
+Cyclone Blade FR.jpg|Monado Cyclone's blade in {{XC3FR|sub}}
+Purge Blade FR.jpg|Monado Purge's blade in {{XC3FR|sub}}
+Rage Blade.jpg|Monado Rage's blade in {{XC3FR|sub}}
+Alpha Cyclone Blade.jpg|The blade of Alpha's Monado Cyclone in {{XC3FR|sub}}
+Alpha 2 Cyclone Blade.jpg|The blade of the Alpha's Monado Cyclone after transforming in {{XC3FR|sub}}
+Alpha Eater Blade.jpg|The blade of Alpha's Monado Eater in {{XC3FR|sub}}
+Alpha Purge Blade.jpg|The blade of Alpha's Monado Purge in {{XC3FR|sub}}
+&lt;/gallery&gt;
+
+=== Monado Combat ===
+==== {{XC|-}} ====
+&lt;gallery&gt;
+Armour Combat.jpg|Monado Armour used in {{XCDE|sub}}
+Buster Combat.jpg|Monado Buster used in {{XCDE|sub}}
+Cyclone Combat.jpg|Monado Cyclone used in {{XCDE|sub}}
+Eater Combat.jpg|Monado Eater used in {{XCDE|sub}}
+Enchant Combat.jpg|Monado Enchant used in {{XCDE|sub}}
+Enchant.jpg|Dunban using Monado Enchant in {{XC|-}}
+Purge Combat.jpg|Monado Purge used in {{XCDE|sub}}
+Shield Combat.jpg|Monado Shield used in {{XCDE|sub}}
+Speed Combat.jpg|Monado Speed used in {{XCDE|sub}}
+Speed.jpg|Monado Speed in the original cinematic
+&lt;/gallery&gt;
+
+==== {{XC2|-}} ====
+&lt;gallery&gt;
+Buster Combat XC2.jpg|Monado Buster used in {{XC2|-}}
+Cyclone Combat XC2.jpg|Monado Cyclone used in {{XC2|-}}
+Purge Combat XC2.jpg|Monado Purge used in {{XC2|-}}
+Shield Combat (Rex).jpg|Monado Shield used by Rex in {{XC2|-}}
+Shield Combat (Zeke).jpg|Monado Shield used by Zeke in {{XC2|-}}
+ShulkMonadoUnbound.jpg|Monado Unbound used in {{XC2|-}}
+&lt;/gallery&gt;
+
+==== {{XC3FR|-}} ====
+&lt;gallery&gt;
+Armor Combat FR.jpg|Monado Armor used in {{XC3FR|sub}}
+Buster Combat FR.jpg|Monado Buster used in {{XC3FR|sub}}
+Cyclone Combat FR.jpg|Monado Cyclone used in {{XC3FR|sub}}
+Monado Purge FR.jpg|Monado Purge used in {{XC3FR|sub}}
+Rage Combat.jpg|Monado Rage used in {{XC3FR|sub}}
+Alpha Cyclone.jpg|Alpha using Monado Cyclone
+Alpha Cyclone 2.jpg|Alpha using Monado Cyclone after transforming
+Alpha Eater.jpg|Alpha using Monado Eater
+Alpha Purge.jpg|Alpha using Monado Purge
+Alpha Speed.jpg|Alpha using Monado Speed
+&lt;/gallery&gt;
+
+=== Monado Symbols ===
+==== {{XC|-}} ====
+&lt;gallery&gt;
+The Monado's symbol when Shulk first wields it in Definitive Edition.jpg|The Monado's first displayed symbol with Shulk wielding it in {{XCDE|sub}}
+Monado II Unshackled Person Symbol.jpg|The Monado II's first displayed symbol, meaning "Person," in {{XCDE|sub}}
+Monado III Symbol DE.jpg|The symbol displayed on the Monado III, meaning "God", that appears when Shulk is about to finish Zanza in {{XCDE|sub}}
+Armour Symbol 2.jpg|Monado Armour symbol in {{XCDE|sub}}
+Buster Symbol 3.jpg|Monado Buster symbol in {{XCDE|sub}}
+Cyclone Symbol.jpg|Monado Cyclone symbol in {{XCDE|sub}}
+Eater Symbol 3.jpg|Monado Eater symbol in {{XCDE|sub}}
+Enchant Symbol 2.jpg|Monado Enchant symbol in {{XCDE|sub}}
+Purge Symbol.jpg|Monado Purge symbol in {{XCDE|sub}}
+Shield Symbol 2.jpg|Monado Shield symbol in {{XCDE|sub}}
+Speed Symbol 2.jpg|Monado Speed symbol in {{XCDE|sub}}
+&lt;/gallery&gt;
+
+==== {{XC2|-}} ====
+&lt;gallery&gt;
+Monado Buster Symbol XC2.jpg|Monado Buster symbol in {{XC2|-}}
+Cyclone Symbol XC2.jpg|Monado Cyclone symbol in {{XC2|-}}
+Purge Symbol XC2.jpg|Monado Purge symbol in {{XC2|-}}
+Shield Symbol XC2.jpg|Monado Shield symbol in {{XC2|-}}
+MonadoSpeedXC2.jpg|Monado Speed symbol during Monado Unbound in {{XC2|-}}
+Malos Monado Armor Symbol.png|Monado Armour symbol in {{XC2|-}}
+Malos Monado Buster Symbol.png|Monado Buster symbol on Malos' Aegis Sword in {{XC2|-}}
+Malos Monado Cyclone Symbol.png|Monado Cyclone symbol on Malos' Aegis Sword in {{XC2|-}}
+Malos Monado Eater Symbol.png|Monado Eater symbol in {{XC2|-}}
+Monado Jail Symbol.png|Monado Jail symbol in {{XC2|-}}
+XC2 Monado Symbols.jpg|Every Monado Symbol present within the files of {{XC2|-}}. The symbols at the top are Malos's versions of them, and the others are the versions used by Shulk.
+&lt;/gallery&gt;
+
+==== {{XC3|-}} ====
+&lt;gallery&gt;
+Monado Buster Symbol XC3.jpg|Monado Buster symbol in {{XC3|-}}
+Monado Cyclone Symbol XC3.jpg|Monado Cyclone symbol in {{XC3|-}}
+Monado Eater Symbol XC3.jpg|Monado Eater symbol in {{XC3|-}}
+Monado Purge Symbol XC3.jpg|Monado Purge symbol in {{XC3|-}}
+Monado Rage Symbol XC3.jpg|Monado Rage symbol in {{XC3|-}}
+Monado Speed Symbol XC3.jpg|Monado Speed symbol in {{XC3|-}}
+&lt;/gallery&gt;
+
+==== {{XC3FR|sub}} ====
+&lt;gallery&gt;
+Armor Symbol FR.jpg|Monado Armor symbol in {{XC3FR|sub}}
+Monado Buster Symbol FR.jpg|Monado Buster symbol in {{XC3FR|sub}}
+Cyclone Symbol FR.jpg|Monado Cyclone symbol in {{XC3FR|sub}}
+Rage Symbol.jpg|Monado Rage symbol in {{XC3FR|sub}}
+A Monado Buster Symbol.jpg|Monado Buster symbol on A's Monado in {{XC3FR|sub}}
+Alpha Cyclone Symbol.jpg|Monado Cyclone symbol on Alpha's Monado in {{XC3FR|sub}}
+&lt;/gallery&gt;
+
+==== ''Super Smash Bros.'' ====
+&lt;gallery&gt;
+Monado Buster.jpg|Buster in ''Super Smash Bros.''
+Monado Jump.jpg|Jump in ''Super Smash Bros.''
+Monado Shield.jpg|Shield in ''Super Smash Bros.''
+Monado Smash.jpg|Smash in ''Super Smash Bros.''
+Monado Speed.jpg|Speed in ''Super Smash Bros.''
+&lt;/gallery&gt;
+
+[[de:Monado]]
+[[es:Monado]]
+[[tr:Monado]]
+[[Category:Monados]]
+[[Category:XC Plot]]
+[[Category:XC Weapons]]
+[[Category:XCFC Weapons]]
+[[Category:XCFC Plot]]
+[[Category:XC2 Weapons]]
+[[Category:XC3 Weapons]]
+[[Category:XC3FR Weapons]]</text>
+      <sha1>lzj6lg8l1z1iebiuklhxi35t3aqb61u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Monastic Necklace</title>
+    <ns>0</ns>
+    <id>122603</id>
+    <revision>
+      <id>566835</id>
+      <parentid>551681</parentid>
+      <timestamp>2022-11-23T06:24:15Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566835</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="401" sha1="m25wunlm1dtsk6sd71en3cha1thb10p" xml:space="preserve">&lt;div style="float: right;"&gt;
+{{Infobox item
+|name      = Monastic Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Class aptitude.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 14,930 [[Gold|G]]
+}}
+&lt;/div&gt;
+'''Monastic Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>m25wunlm1dtsk6sd71en3cha1thb10p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Monica Vandham</title>
+    <ns>0</ns>
+    <id>118517</id>
+    <revision>
+      <id>603053</id>
+      <parentid>601274</parentid>
+      <timestamp>2023-07-22T19:33:30Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added both Wikipedia links</comment>
+      <origin>603053</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6648" sha1="9djm1cdd9l6xuie7ntgsz7osao00oy6" xml:space="preserve">{{for|the characters sharing the same name|Monica|Vandham}}
+{{spoiler}}
+{{Infobox Character
+|name           = Monica Vandham
+|image          = Monica Vandham portrait artwork.png
+|species        = [[City|Citizen]]
+|age            = 33
+|gender         = Female
+|haircolor      = Brown
+|eyecolor       = Red
+|affiliation    = [[Lost Numbers]]
+|voiceactorjp   = [[Wikipedia:Akeno Watanabe|Akeno Watanabe]] 
+|voiceactoreng  = [[Wikipedia:Pippa Bennett-Warner|Pippa Bennett-Warner]]
+|appearances    = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+'''Monica Vandham''' is a character in {{XC3}}. She is simply named '''Monica''' as a [[Hero]] or an NPC.
+
+== Overview ==
+Monica can be recruited as a Hero after completing [[Hero Quest]] ''[[Vandham's Heir]]''. She is the daughter of [[Guernica Vandham]] and the leader of the [[Lost Numbers]].
+
+To get Monica to [[Class Rank (XC3)|Rank]] 20, a member of the party must reach rank 10 with the Lost Vanguard class and the quest ''[[Promise to the Future]]'' will be available in The City.
+
+== Story ==
+The daughter of Guernica Vandham and mother of [[Ghondor]], Monica is an Elder of the [[City]].
+
+== Gameplay ==
+Monica's class is a [[Defender (XC3)|Defender]] [[Class (XC3)|class]] named [[Lost Vanguard]]. Her [[Battle Arts (XC3)|Chain Art]] is [[Lost Advent]], and her Heroic Chain bonus will reactivate the character with the most [[Tactical Points|TP]] and give them 15 TP on top of that if she completes a Chain Order.
+
+=== Base Stats ===
+These are Monica's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Lost Vanguard class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 548 || 27 || 24 || 31 || 20
+|-
+| 99 || 7,833 || 382 || 341 || 307 || 200
+|}
+=== General Stats ===
+These stats assume Monica is at rank 20 in her class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Monica has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||685 (+100)||38||8||37||18||10%||30%||50%||35%
+|-
+| 99, base||9,791 (+1,500)||824||119||368||180||20%||40%||50%||35%
+|-
+| 99, with default accessories||12,238 (+1,500)||824||119||368||180||20%||40%||65%||35%
+|}
+
+Monica equips the following gems:
+* [[Ironclad]]
+* [[Ultimate Counter]], at level 20 onwards
+* [[Perilous Presence]], at level 40 onwards
+
+Monica equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Soldier's Headband]]
+* [[Iron Temple Guard]], at level 30 onwards
+* [[Berserker's Armor Vest]], at level 50 onwards
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Ghondor
+| affinity = yellow
+| caption = Has to rescue
+| direction = right
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Ghondor
+| affinity = orange
+| caption = Bitchqueen
+| direction = left
+| was = yellow
+| wasdirection = right
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Ghondor
+| affinity = green
+| caption = Relief
+| direction = right
+| was = orange
+| wasdirection = left
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Ghondor
+| affinity = green
+| caption = House Vandham
+| direction = both
+| was = green
+| wasdirection = right
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Ghondor
+| affinity = pink
+| caption = Family
+| direction = both
+| was = green
+| wasdirection = both
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Guernica Vandham
+| affinity = yellow
+| caption = Daughter
+| direction = left
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Guernica Vandham
+| affinity = green
+| caption = Inherited dying wish
+| direction = right
+| was = yellow
+| wasdirection = left
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Travis
+| affinity = yellow
+| caption = Dependable lieutenant
+| direction = right
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Gray
+| affinity = yellow
+| caption = Cooperating
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Garrett
+| affinity = green
+| caption = Recognize their authority
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Monica Vandham
+| npc2 = Jansen
+| affinity = green
+| caption = Affection
+| direction = left
+}}
+
+== Challenge Battle ==
+{{Infobox XC3 Enemy
+|name         = City's Bulwark Monica
+|image        = 
+|caption      = City's Bulwark Monica
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 115
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 5,124,240
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''City's Bulwark Monica''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] fought at level 115 during the second wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+{{clr}}
+
+== Trivia ==
+* Monica's Japanese voice actress, Akeno Watanabe, also voices [[Sharla]] in {{XC}}, [[Ga Buidhe]] in {{XCX}}, and [[Panacea]] in {{XC3FR|sublink}}.
+* She and Ghondor are the only heroes who cannot directly join the party in the trek through Origin.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Monica Artwork.png|Official Artwork of Monica
+XC3 Monica (eyepatch) Artwork.png|Official Artwork of Monica wearing her eyepatch
+Monica Concept Art.png|Monica's Concept art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Monica Hero Icon.png|Hero List Icon
+Strm order thumb018 0.png
+Strm order thumb045 0.png
+Monica Level Up Art.png
+Strm ch body044 0.png
+Icon chara 11.png
+Icon chara 34.png
+Icon chara battle 11.png
+Icon chara battle 35.png
+&lt;/gallery&gt;
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:XC3 Monica]]
+[[Category:Lost Numbers]]
+[[Category:City NPCs]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>9djm1cdd9l6xuie7ntgsz7osao00oy6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moon Anklets</title>
+    <ns>0</ns>
+    <id>118982</id>
+    <revision>
+      <id>566836</id>
+      <parentid>551205</parentid>
+      <timestamp>2022-11-23T06:24:53Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566836</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1011" sha1="95dykegknb6u8otkk9pid9ljopa1h5p" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Moon Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 11,600 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Moon Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 11,600 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Moon Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 85%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 11,600 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Moon Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>95dykegknb6u8otkk9pid9ljopa1h5p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moon Necklace</title>
+    <ns>0</ns>
+    <id>122629</id>
+    <revision>
+      <id>566837</id>
+      <parentid>551682</parentid>
+      <timestamp>2022-11-23T06:25:26Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566837</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="957" sha1="36qfo94tczr5m37imfv5u4i06zvvcyc" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Moon Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 90% resistance to Shackle Arts.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Moon Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 95% resistance to Shackle Arts.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Moon Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 100% resistance to Shackle Arts.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Moon Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>36qfo94tczr5m37imfv5u4i06zvvcyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moramora</title>
+    <ns>0</ns>
+    <id>128640</id>
+    <revision>
+      <id>602057</id>
+      <parentid>600780</parentid>
+      <timestamp>2023-07-22T12:25:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1988" sha1="t8ui0npz5ejyxaogjdg7uiudkmd5ckv" xml:space="preserve">'''Moramoras''' (Japanese: {{lang|ja|&#12514;&#12521;&#12514;&#12521;}}, ''Moramora'') are a family of flying enemies in the {{XC|serieslink}}. This species is close to the [[Laia]].
+
+== {{XC|-}} ==
+Moramora are found at [[Eryth Sea]], on [[Prison Island]], and on [[Valak Mountain]].
+
+=== Normal Minor Enemies ===
+* [[Lophos Moramora (XC1)|Lophos Moramora]]
+* [[Monta Moramora]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Monta Moramora]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Fleet Moramora (XC2)|Fleet Moramora]]
+* [[Manda Moramora]]
+* [[Totorio Moramora (XC2)|Totorio Moramora]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Bombeh Moramora]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Regus Moramora]]
+
+=== Unique Monster ===
+* [[Flying Fortress Desmor]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Aeing Moramora]]
+* [[Deepa Moramora]]
+* [[Devilflyer Moramora]]
+* [[Diver Moramora]]
+* [[Fleet Moramora (XC3)|Fleet Moramora]]
+* [[Highwind Moramora]]
+* [[Lophos Moramora (XC3)|Lophos Moramora]]
+* [[Morbile Moramora]]
+* [[Totorio Moramora (XC3)|Totorio Moramora]]
+
+=== Quest Exclusive Enemy ===
+* [[Assassin Moramora]]
+
+=== Unique Monsters ===
+* [[Diabolical Rindolph]]
+* [[Oceanic Lucera]]
+{{clr}}
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Lophos Moramora (laia).jpg
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+RegusMoramora.jpg|Black variety
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Aeing Moramora.jpg|Aeing Moramora
+XC3 Diabolical Rindolph.png|Diabolical Rindolph
+XC3 Oceanic Lucera.png|Oceanic Lucera
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:XC Moramoras]]
+[[Category:Bionis Life]]
+[[Category:Flying Enemies]]
+[[Category:XCFC Species]]
+[[Category:XCFC Moramoras]]
+[[Category:XC2 Species]]
+[[Category:XC2 Moramoras]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Species]]
+[[Category:TTGC Moramoras]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Aerial Life]]
+[[Category:Moramoras]]
+[[Category:Species by Type]]</text>
+      <sha1>t8ui0npz5ejyxaogjdg7uiudkmd5ckv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Morbile Moramora</title>
+    <ns>0</ns>
+    <id>123172</id>
+    <revision>
+      <id>600375</id>
+      <parentid>559825</parentid>
+      <timestamp>2023-07-21T14:10:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */Moramora</comment>
+      <origin>600375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="8j2vzwnj0j0qn7ez8l3mj3nb3v7ys69" xml:space="preserve">{{Infobox Enemy
+|name         = Morbile Moramora
+|image        = 
+|caption      = Morbile Moramora
+|category     = Minor Enemy
+|type         = [[Moramora]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Morbile Moramoras''' are Minor Enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>8j2vzwnj0j0qn7ez8l3mj3nb3v7ys69</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mordow Blant (XC3)</title>
+    <ns>0</ns>
+    <id>116822</id>
+    <revision>
+      <id>582241</id>
+      <parentid>582232</parentid>
+      <timestamp>2023-04-09T17:17:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582241</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1106" sha1="k3zhmrcz54m5g81orptpyspy058rhy2" xml:space="preserve">{{for|the enemy from {{XC2}}|Mordow Blant (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Mordow Blant
+|image        = Mordow Blant XC3.jpg
+|caption      = Mordow Blant
+|category     = Normal Enemy
+|type         = [[Blant]]
+|level        = 14, 23
+|area         = [[Millick Meadows]] ([[Viliera Hill (XC3)|Viliera Hill]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mordow Blants''' are Normal Minor enemies in {{XC3}}. They are members of the [[Blant]] family, and can be found at level 14 and 23 on [[Viliera Hill (XC3)|Viliera Hill]] south of [[Luca's Eyot]] in [[Millick Meadows]].
+
+== Drops ==
+* [[Exploding Blant Seed]]
+* [[Fleshy Blant Petal]]
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Mordow Blant XC3 (Underground).jpg|Underground
+&lt;/gallery&gt;
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Blants]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>k3zhmrcz54m5g81orptpyspy058rhy2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>More Challenge Battles!</title>
+    <ns>0</ns>
+    <id>125611</id>
+    <revision>
+      <id>583072</id>
+      <parentid>579741</parentid>
+      <timestamp>2023-04-15T08:19:17Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add standard quest category</comment>
+      <origin>583072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1497" sha1="d3rj4d5z5yllw8373lut6dux42e3d6o" xml:space="preserve">{{Infobox quest
+|name        = More Challenge Battles!
+|image       = More Challenge Battles!.png
+|description = "It seems that the Archsage occasionally comes up with something new... (You must complete "Challenge Battles!" first.)"
+|giver       = 
+|location    = [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]]
+|time        = 
+|prereqs     = Expansion Pass purchased
+|reclevel    = Lv. 20
+|rewards     = 180 [[Experience Points (XC3)|EXP]]&lt;br/&gt;230 [[Gold|G]]&lt;br/&gt;3 [[Soul Tree|SP]]&lt;br/&gt;1 [[Nopon Coin (Gold)]] 
+}}
+'''More Challenge Battles!''' is a DLC [[Quest (XC3)|Quest]] in {{XC3}}. It is part of [[Xenoblade Chronicles 3#New Hero &amp; More Tough Challenges|New Hero &amp; More Tough Challenges]] of the Expansion Pass. Upon completion of this quest, the [[Archsage's Gauntlet]] becomes available in the [[Land of Challenge (XC3)|Land of Challenge]].
+
+== Objectives ==
+# ''Progress the main story.''
+#* Progress the story until the party departs from [[Colony 4]] in Chapter 3.
+# ''Complete "[[Challenge Battles!]]".''
+# ''Complete any one [[Challenge Battle Mode#Time Attack|Time Attack]] challenge.''
+# ''Talk with the specified character(s).''
+#* [[Nopon Archsage]]
+
+== Results ==
+''"The Nopon Archsage has more trials up his sleeve yet! Be prepared to tackle the new Archsage's Gauntlet he came up with to keep him smiling wide and bright!"''
+{{clr}}
+
+[[Category:XC3 Standard Quests]]
+[[Category:XC3 DLC Quests]]
+[[Category:Fornis Region Quests]]
+[[Category:XC3 Challenge Battle Mode]]</text>
+      <sha1>d3rj4d5z5yllw8373lut6dux42e3d6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Morg Krabble (XC3)</title>
+    <ns>0</ns>
+    <id>122991</id>
+    <revision>
+      <id>595153</id>
+      <parentid>581757</parentid>
+      <timestamp>2023-06-11T14:48:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1655" sha1="1srbdng57kd8jhn45ucofp4kut5w0fl" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Morg Krabble (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Morg Krabble
+|image        = Morg Krable XC3.png 
+|caption      = Morg Krabble
+|category     = Minor Enemy
+|type         = [[Krabble]]
+|movement     = Ground
+|level        = 2-3
+|area         = [[Yzana Plains]] ([[Flamii Watering Hole]])
+|spawntime    = Anytime
+|respawn      = Yes
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Morg Krabbles''' are Minor Enemies in {{XC3}}. They are members of the [[Krabble]] family, and can be found at level 2-3 near [[Flamii Watering Hole]] in [[Yzana Plains]].
+
+== Drops ==
+* [[Krabble Viscera]]
+* [[Krabble Shield Pincer]]
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Morg Krabble
+|image        = Morg Krabble FR.jpg
+|caption      = Morg Krabble
+|category     = Normal Enemy
+|type         = [[Krabble]]
+|level        = 5
+|area         = [[Vermilion Woods]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Morg Krabbles''' are normal enemies in {{XC3FR}}. They are members of the [[Krabble]] family, and can be found at level 5 in [[Vermilion Woods]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Krabbles]]
+[[Category:XC3FR Krabbles]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3FR Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1srbdng57kd8jhn45ucofp4kut5w0fl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Morsula Flier</title>
+    <ns>0</ns>
+    <id>121844</id>
+    <revision>
+      <id>581338</id>
+      <parentid>559828</parentid>
+      <timestamp>2023-04-03T16:23:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>levels</comment>
+      <origin>581338</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="800" sha1="6ad33ubaag34hs2pywbowa3l4out699" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Morsula Flier
+|image        = 
+|caption      = Morsula Flier
+|category     = Minor Enemy
+|type         = [[Flier]]
+|level        = 53-55
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Morsula Fliers''' are Minor Enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 53-55 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6ad33ubaag34hs2pywbowa3l4out699</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Morsula Skeeter</title>
+    <ns>0</ns>
+    <id>121016</id>
+    <revision>
+      <id>559829</id>
+      <parentid>545325</parentid>
+      <timestamp>2022-09-30T10:53:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559829</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="876" sha1="kcb3njjr500830065i3srgs9bwe32e8" xml:space="preserve">{{Infobox Enemy
+|name         = Morsula Skeeter
+|image        = 
+|caption      = Morsula Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Morsula Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level ? at [[Melnath's Shoulder (XC3)|Melnath's Shoulder]], [[Everblight Plain]] or [[Captocorn Peak]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>kcb3njjr500830065i3srgs9bwe32e8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mudtalon Ansel</title>
+    <ns>0</ns>
+    <id>122998</id>
+    <revision>
+      <id>559830</id>
+      <parentid>552321</parentid>
+      <timestamp>2022-09-30T10:53:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="90k03ja9i9k0yd52vix1qrx7qqapre8" xml:space="preserve">{{Infobox Enemy
+|name         = Mudtalon Ansel
+|image        = 
+|caption      = Mudtalon Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Rae-Bel Tableland]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Mudtalon Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>90k03ja9i9k0yd52vix1qrx7qqapre8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mukiri Ottil</title>
+    <ns>0</ns>
+    <id>121845</id>
+    <revision>
+      <id>583208</id>
+      <parentid>570073</parentid>
+      <timestamp>2023-04-16T13:55:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2307" sha1="hylg6nbx80jbksai7zmo4hz12gggbhk" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Mukiri Ottil
+|image        = XC3 Mukiri Ottil.jpg
+|caption      = Mukiri Ottil
+|category     = Minor Enemy
+|type         = [[Ottil]]
+|level        = 44-45
+|area         = [[Erythia Sea]] ([[Anu Shoals]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Swimming
+|detection    = 
+|exp          = 227
+|cp           = 88
+|sp           = 0
+|gold         = 62
+|hp           = 36,315
+|strength     = 326
+|healing      = 227
+|dexterity    = 169
+|agility      = 169
+|physdef      = -15%
+|ethdef       = 10%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+'''Mukiri Ottils''' are Minor Enemies in {{XC3}}. They are members of the [[Ottil]] family, and can be found at level 44-45 at [[Anu Shoals]] in the [[Erythia Sea]].
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 0%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 0%
+|knockback   = 0%
+|physdebuff  = 0%
+|etherdebuff = 0%
+}}
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Mukiri Ottil
+|image        = 
+|caption      = Mukiri Ottil
+|category     = Minor Enemy
+|type         = [[Ottil]]
+|level        = 55
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Pretty Fierce]]''
+|respawn      = No
+|movement     = Swimming
+|detection    = 
+|exp          = 320
+|cp           = 0
+|sp           = 0
+|gold         = 82
+|hp           = 509,085
+|strength     = 859
+|healing      = 281
+|dexterity    = 216
+|agility      = 212
+|physdef      = -15%
+|ethdef       = 10%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+A '''Mukiri Ottil''' is fought at level 55 on the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Pretty Fierce]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+
+{{clr}}
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Ottils]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hylg6nbx80jbksai7zmo4hz12gggbhk</sha1>
+    </revision>
+  </page>
+  </mediawiki>

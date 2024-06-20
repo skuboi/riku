@@ -1,0 +1,6 @@
+Art Name: Flare Aria
+
+Class: Glimmer
+
+Effect: Field/Atk up
+

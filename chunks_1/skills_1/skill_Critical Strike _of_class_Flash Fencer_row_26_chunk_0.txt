@@ -1,0 +1,6 @@
+Skill Name: Critical Strike 
+
+Class: Flash Fencer
+
+Skill Buff or Effect:  Increases critical hit damage bonus by 50 percentage points. [Rank 5 Master Skill]
+

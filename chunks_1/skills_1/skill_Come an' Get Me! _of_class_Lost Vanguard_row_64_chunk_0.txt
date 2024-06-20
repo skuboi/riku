@@ -1,0 +1,6 @@
+Skill Name: Come an' Get Me! 
+
+Class: Lost Vanguard
+
+Skill Buff or Effect:  When blocking, deal 200% of Attack damage to enemy, drawing aggro. [Rank 15 Master Skill]
+

@@ -1,0 +1,6 @@
+Art Name: Glow Ring
+
+Class: Zephyr
+
+Effect: Target Lock
+

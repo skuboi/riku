@@ -1,0 +1,6 @@
+Skill Name: Stay Right There! 
+
+Class: Lost Vanguard
+
+Skill Buff or Effect:  When taking damage, 20% chance to inflict Knockback on assailant.
+

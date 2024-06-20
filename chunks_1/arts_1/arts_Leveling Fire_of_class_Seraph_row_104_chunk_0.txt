@@ -1,0 +1,6 @@
+Art Name: Leveling Fire
+
+Class: Seraph
+
+Effect: Atk boost/Dmg to self
+

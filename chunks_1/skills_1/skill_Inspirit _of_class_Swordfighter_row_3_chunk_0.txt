@@ -1,0 +1,6 @@
+Skill Name: Inspirit 
+
+Class: Swordfighter
+
+Skill Buff or Effect:  Boosts Damage dealt by 150% when fighting a unique or boss monster.
+

@@ -1,0 +1,2383 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Unicorn Scarf (XC3)</title>
+    <ns>0</ns>
+    <id>119021</id>
+    <revision>
+      <id>592892</id>
+      <parentid>592573</parentid>
+      <timestamp>2023-05-15T20:20:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592892</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1190" sha1="jc3ow9yks1n6xtzm2exwkini4o7ztee" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Unicorn Scarf (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Unicorn Scarf
+|image     = XC3 Accessory Choker.png
+|caption   = Extends Break duration by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3070 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Unicorn Scarf
+|image     = XC3 Accessory Choker.png
+|caption   = Extends Break duration by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3070 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Unicorn Scarf
+|image     = XC3 Accessory Choker.png
+|caption   = Extends Break duration by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3070 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Unicorn Scarves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be purchased at the [[Colony 30 Commissary]], they are one of the items that can be used to complete the mission ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>jc3ow9yks1n6xtzm2exwkini4o7ztee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unique Monster (XC3)</title>
+    <ns>0</ns>
+    <id>117158</id>
+    <revision>
+      <id>600425</id>
+      <parentid>594337</parentid>
+      <timestamp>2023-07-21T15:53:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* List of Unique Monsters */Moramora</comment>
+      <origin>600425</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25951" sha1="12ieevmmto2sn4ytz7tbkaa2yodpnw5" xml:space="preserve">{{for|similar enemies in the {{XC|serieslink}}|Unique Monster}}
+{{spoiler}}
+'''Unique Monsters''' (Japanese: {{lang|ja|&#12518;&#12491;&#12540;&#12463;&#12514;&#12531;&#12473;&#12479;&#12540;}}, ''Yun&#299;ku monsut&#257;'') are [[Enemy (XC3)|enemies]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+Like in previous games, Unique Monsters have higher stats and potentially unique skills and arts. The [[Soulhacker]] class is able to learn these should anyone with the Soul Hack skill equipped be in the party when a Unique Monster with the corresponding skill or art is defeated. Unique Monsters have unique names and there is only one of each of these monsters in the world. They can be identified by a red icon on the sides of its nameplate.
+
+Similar to [[Unique Monster (XC2)|Unique Monsters]] in {{XC2}}, a timer will appear during a battle against a Unique Monster that records the party's fastest time and highest difficulty level when defeating it. Additionally, once defeated, a [[Named Grave]] will be erected where the Unique Monster was previously located. If the player interacts with the Named Grave, they will be given the option to resurrect and rebattle the Unique Monster if they so choose. The player can also [[Skip Travel]] to any Named Grave. Some Unique Monsters are fought as groups of up to four and will share a Named Grave when defeated.
+The [[Superboss]]es are special Unique Monsters that have special Named Graves marked by red auras that allow their levels to be raised upon rematches, up to a maximum level that varies for each Superboss. There are five Superbosses that can be found across [[Aionios]].
+
+The [[Xenoblade 3 Original Soundtrack|track]] [[:File:You Will Know Our Names &#8211; Finale &#8211; Xenoblade Chronicles 3|"You Will Know Our Names &#8211; Finale"]] (Japanese: {{lang|ja|&#21517;&#12434;&#20896;&#12377;&#12427;&#32773;&#12383;&#12385;&#65374;Finale}}, ''Na o kansuru mono-tachi ~ fin&#257;re'') is played when fighting Unique Monsters.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1544218638055800832&lt;/ref&gt; The exceptions to this are [[Seraphic Ceratinia]], which has its own track "Ultimate Enemy" as well as an introductory cutscene, and [[Fogdweller Abaasy]], which uses "New Battle!" when fought. Additionally, if [[Melia]], [[Nia]], [[Shulk]] or [[Rex]] is in the party and the "Special Hero BGM" option is turned on in the Options menu, then "Brilliant Wings", "[[Drifting Soul|Kaleidoscopic Core]]", "[[Time to Fight!]]" or "[[Battle!!]]" will play instead, like with all other battles in the game, with Seraphic Ceratinia once again being the only exception.
+
+== {{XC3|-}} ==
+=== List of Unique Monsters ===
+{| class="xc1 sortable col-2-center" width="100%"
+! Name
+! data-sort-type="number" | Level
+! Species
+! Area
+! Location
+! Spawntime
+! Soulhacker
+|-
+| [[Abysmal Rakshmi]]
+| 64
+| [[Arachno]] (Arachno Queen)
+| [[Erythia Sea]]
+| [[Lavi Sandbar]]
+| Anytime
+| Queen of Mercy ([[Skill (XC3)|Skill]])
+|-
+| [[Altruistic Maribel]]
+| 29
+| [[Skeeter]]
+| [[Millick Meadows]]
+| [[Murmur Rise]]
+| Anytime
+| Air Body (Skill)
+|-
+| [[Ambusher Tirion]]
+| 39
+| [[Levnis]] (Speculatos)
+| [[Syra Hovering Reefs]]
+| [[Ether Mine (XC3)|Ether Mine]]
+| Anytime
+| Damage Share (Skill)
+|-
+| [[Artificial Optho]]
+| 69
+| [[Droids]]
+| [[Origin Interior]]
+| [[Hangar, Upper Level (Origin)|Hangar, Upper Level]]
+| Anytime, among the [[Hollow Ones]] quartet
+| Magic Transmutation (Skill)
+|-
+| [[Barbed Merod]]
+| 51
+| [[Urchon]]
+| [[Erythia Sea]]
+| [[Anu Shoals]]
+| Anytime
+| Needle Shell (Skill)
+|-
+| [[Besieger Sheritt]]
+| 48
+| [[Levnis]] (Centuris)
+| [[Urayan Trail]]
+| [[Mountain Front: Keves]]
+| Anytime
+| [[Piercing Laser]] ([[Battle Arts (XC3)|Art]])
+|-
+| [[Blazing Karlos]]
+| 40
+| [[Ekidno]]
+| [[Syra Hovering Reefs]]
+| [[Hovering Reef 4 (XC3)|Hovering Reef 4]]
+| Anytime
+| [[Dino Storm]] (Art)
+|-
+| [[Bloodsucking Elvis]]
+| 53
+| [[Vang]]
+| [[Urayan Trail]]
+| [[Loska's Cavern]]
+| Anytime 
+| [[Double Strike]] (Art)
+|-
+| [[Budding Francis]]
+| 32
+| [[Amoney]]
+| [[Great Cotte Falls]]
+| [[Titan Rock]]
+| Anytime
+| Spiritual Absorber (Skill)
+|-
+| [[Bushwhacker Farritt]]
+| 48
+| [[Levnis]] (Ulula)
+| [[Urayan Trail]]
+| [[Mountain Front: Agnus]]
+| Anytime
+| Reserve Life (Skill)
+|-
+| [[Clinging Azreel]]
+| 69
+| [[Flak]]
+| [[Origin Interior]]
+| [[Central Defense]]
+| Anytime
+| [[Elimination Beam]] (Art)
+|-
+| [[Conqueror Deepwan]]
+| 102
+| [[Igna]]
+| [[Erythia Sea]]
+| [[Demihuman Gutter]]
+| Anytime, among [[The King-Kings]] duo
+| [[King's Bash]] (Art)
+|-
+| [[Covetous Gerondon]]
+| 60
+| [[Brog|Rhana]]
+| [[Erythia Sea]]
+| [[Cape Arcaphor]]
+| Anytime
+| [[Aquaball]] (Art)
+|-
+| [[Crafty Anskey]]
+| 54
+| [[Wisp]]
+| [[Elaice Highway]]
+| [[Yunnae's Rise]]
+| Anytime
+| Revenge Impetus (Skill)
+|-
+| [[Craven Piggard]]
+| 38
+| [[Kapiba]]
+| [[Syra Hovering Reefs]]
+| [[Hovering Reef 3 (XC3)|Hovering Reef 3]]
+| Anytime
+| Nimbleness Itself (Skill)
+|-
+| [[Creeping Hameel]]
+| 67
+| [[Flak]]
+| [[Origin Interior]]
+| [[Amplifier No. 2]]
+| Anytime
+| Attack Mastery (Skill)
+|-
+| [[Cruelfist Rojou]]
+| 66
+| [[Droids]]
+| [[Origin Interior]]
+| [[Amplifier Control Room]]
+| Anytime, among the [[Armbenders]] trio
+| Recharge Cheer (Skill)
+|-
+| [[Crystalline DuGarre]]
+| 27
+| [[Ropl]]
+| [[Dannagh Desert (XC3)|Dannagh Desert]]
+| [[Alefa Skysphere]]
+| Anytime
+| [[Cursed Cuisine]] (Art)
+|-
+| [[Dapper Sepiar]]
+| 22
+| [[Urchon]]
+| [[Rae-Bel Tableland]]
+| [[The Lace Subterranean]]
+| Anytime
+| Natural Guard (Skill)
+|-
+| [[Darkening Asha]]
+| 65
+| [[Agnus Forces]]
+| [[Erythia Sea]]
+| [[Colony 15]]
+| Among the [[4 Blades in the Dark]] after completing ''[[A Young Noble's Request]]''
+| Debuff Counter (Skill)
+|-
+| [[Defiled Ishtar]]
+| 65
+| [[Myoot]]
+| [[Origin Interior]]
+| [[Ferronis Arsenal 3|Ferronis Arsenal #3]]
+| Anytime
+| [[Vampire Bat]] (Art)
+|-
+| [[Demonic Krenolur]]
+| 75
+| [[Plambus]]
+| [[Erythia Sea]]
+| [[Daedal Isle]]
+| Anytime
+| [[Hydra Gas]] (Art)
+|-
+| [[Desired Oruria]]
+| 86
+| [[Vokooku]]
+| [[Origin Interior]]
+| [[Hangar, Lower: Main Gate]]
+| Anytime
+| Wild Tendencies (Skill)
+|-
+| [[Determined Vatslav]]
+| 43
+| [[Levnis]] (Speculatos)
+| [[Keves Castle]]
+| [[Troop Reserve Section]]
+| Anytime, among [[The Black Triad]]
+| Supercharged (Skill)
+|-
+| [[Diabolical Rindolph]]
+| 49
+| [[Moramora]]
+| [[Syra Hovering Reefs]]
+| [[Hovering Reef 7 (XC3)|Hovering Reef 7]]
+| Anytime
+| [[Spinning Bolt]] (Art)
+|-
+| [[Dimwitted Tirkin]]
+| 45
+| [[Tirkin]]
+| [[High Maktha Wildwood]]
+| [[The Tirkinhold]]
+| Anytime
+| Royal Aide (Skill)
+|-
+| [[Dishonest Karom]]
+| 69
+| [[Droids]]
+| [[Origin Interior]]
+| [[Hangar, Upper Level (Origin)|Hangar, Upper Level]]
+| Anytime, among the [[Hollow Ones]] quartet
+| [[Evasive Posture]] (Art)
+|-
+| [[Doomfang Caum]]
+| 50
+| [[Feris]]
+| [[Rae-Bel Tableland]]
+| [[Pinasa Highland]]
+| Anytime
+| Megashout (Skill)
+|-
+| [[Dreadwyrm Nizoont]]
+| 105-170
+| [[Drague]]
+| [[Low Maktha Wildwood]]
+| [[Forgotten Trick Gate]]
+| Anytime
+| Hot Soul (Skill)
+|-
+| [[Dunesea Marcellus]]
+| 87
+| [[Marrin]]
+| [[Dannagh Desert (XC3)|Dannagh Desert]]
+| [[Devil's Skillet]]
+| Anytime
+| Strike Shirker (Skill)
+|-
+| [[Fairscale Marina]]
+| 66
+| [[Merigna]]
+| [[Erythia Sea]]
+| [[Oshia's Reef Ravine]]
+| Anytime, among the [[Whirlpool Triumvirate]] trio
+| Breath of an Era (Skill)
+|-
+| [[Fang-King Clavein]]
+| 80
+| [[Darbus]]
+| [[Millick Meadows]]
+| [[Elgares Depths]]
+| Anytime
+| Counter Puncher (Skill)
+|-
+| [[Farseer Pirtett]]
+| 40
+| [[Hox]]
+| [[Eagus Wilderness]]
+| [[Zem's Crossway]]
+| Anytime
+| Sacrificial Heal (Skill)
+|-
+| [[Fineblade Faltaar]]
+| 47 
+| [[Taos]]
+| [[Great Sword's Hilt]]
+| [[Material Storage Warehouse]]
+| Anytime
+| [[Dino Flash]] (Art)
+|-
+| [[Fleeting Shikino]]
+| 65
+| [[Agnus Forces]]
+| [[Erythia Sea]]
+| [[Colony 15]]
+| Among the [[4 Blades in the Dark]] after completing ''[[A Young Noble's Request]]''
+| Battle Fever (Skill)
+|-
+| [[Flyswatter Kamado]]
+| 77
+| [[Antol]]
+| [[Erythia Sea]]
+| [[Daedal Isle]]
+| Anytime
+| [[Spider Web]] (Art)
+|-
+| [[Foolhardy Saide]]
+| 58
+| [[Rhinon]]
+| [[Great Sword's Base]]
+| [[Pedesto Valley Floor]]
+| Anytime
+| [[Rhino Storm]] (Art)
+|-
+| [[Forsaken Arbiter]]
+| 42
+| [[Levnis]] (Velites)
+| [[Keves Castle]]
+| [[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]]
+| Anytime, among [[The Executioners]] duo
+| [[Neck Slice]] (Art)
+|-
+| [[Frolicking Parker]]
+| 31
+| [[Ottil]]
+| [[Great Cotte Falls]]
+| [[Cotte Trick Ruins]]
+| Anytime
+| [[Aquatic Missile]] (Art)
+|-
+| [[Gallivanter Buckley]]
+| 30
+| [[Hox]]
+| [[Great Cotte Falls]]
+| [[Titan Rock]]
+| Anytime
+| Sandsmoke (Skill)
+|-
+| [[Galloping Ghuldan]]
+| 56
+| [[Ellook]]
+| [[Erythia Sea]]
+| [[Farlaine Underpass]]
+| Anytime
+| Apothecary's Wisdom (Skill)
+|-
+| [[Ghostfist R&#243;is&#237;n]]
+| 66
+| [[Droids]]
+| [[Origin Interior]]
+| [[Amplifier Control Room]]
+| Anytime, among the [[Armbenders]] trio
+| [[Murder Knuckle]] (Art)
+|-
+| [[Ghosting Lulika]]
+| 65
+| [[Agnus Forces]]
+| [[Erythia Sea]]
+| [[Colony 15]]
+| Among the [[4 Blades in the Dark]] after completing ''[[A Young Noble's Request]]''
+| Terran Warrior (Skill)
+|-
+| [[Godlike Krastor]]
+| 82
+| [[Agnus Forces]]
+| [[Urayan Tunnels]]
+| [[Ruins of Seebu]]
+| Anytime, among the [[Agnian Assassins]] duo
+| Large-Scale Shock (Skill)
+|-
+| [[Gorgeous Mandora]]
+| 96
+| [[Blant]]
+| [[Low Maktha Wildwood]]
+| [[Cavern of Oblivion]]
+| Anytime
+| [[Life Plant]] (Art)
+|-
+| [[Gracious Titania]]
+| 50
+| [[Arachno]] (Arachno Queen)
+| [[Urayan Tunnels]]
+| [[Roaring Spring]]
+| Anytime
+| [[Battle Pheromone]] (Art)
+|-
+| [[Gushing Masquin]]
+| 24
+| [[Piranhax]]
+| [[Yzana Plains]]
+| [[Colony 9 (XC3)|Colony 9]]
+| Anytime
+| Dodge Acceleration (Skill)
+|-
+| [[Hardscale Gouran]]
+| 66
+| [[Merigna]]
+| [[Erythia Sea]]
+| [[Oshia's Reef Ravine]]
+| Anytime, among the [[Whirlpool Triumvirate]] trio
+| [[Dragon Decree]] (Art)
+|-
+| [[Hardshelled Admory]]
+| 57
+| [[Krammit]]
+| [[Erythia Sea]]
+| [[Krezen Cliffs]]
+| Anytime
+| [[Shell Guard]] (Art)
+|-
+| [[Hazardous Jarrahed]]
+| 16
+| [[Aspar]]
+| [[Eagus Wilderness]]
+| [[Racine's Platter]]
+| Anytime
+| [[Snake Eyes]] (Art)
+|-
+| [[Heavenrazor Egreet]]
+| 90
+| [[Rhogul]]
+| [[The Cavity]]
+| [[Shattered Pathway]]
+| Anytime
+| [[Gatling Peck]] (Art)
+|-
+| [[Hedonist Tirkin]]
+| 23
+| [[Tirkin]]
+| [[Ribbi Flats]]
+| [[Tirkin Headquarters (XC3)|Tirkin Headquarters]]
+| Anytime
+| Tactical Eye (Skill)
+|-
+| [[Heretical Saurow]]
+| 25
+| [[Upa]]
+| [[Rae-Bel Tableland]]
+| [[Old Kana Battlefield]]
+| Anytime
+| [[Hypno-Light]] (Art)
+|-
+| [[Heroic Gulkin]]
+| 76
+| [[Gulkin]]
+| [[Erythia Sea]]
+| [[Place of Heroes Past]]
+| Anytime
+| Royal Charisma (Skill)
+|-
+| [[Hornbow Dante]]
+| 55
+| [[Balgas]]
+| [[Syra Hovering Reefs]]
+| [[Ekdaso Verge]]
+| Anytime
+| Dual-Horn Pressure (Skill)
+|-
+| [[Househunter Carly]]
+| 21
+| [[Krabble]]
+| [[Alfeto Valley]]
+| [[Berje Belt]]
+| Anytime
+| [[Bubble Cloud]] (Art)
+|-
+| [[Immovable Gonzalez (XC3)|Immovable Gonzalez]]
+| 88
+| [[Gogol]]
+| [[High Maktha Wildwood]]
+| [[Gogols' Tree]]
+| Anytime
+| [[Wild Wave]] (Art)
+|-
+| [[Impish Langobard]]
+| 74
+| [[Gogol]]
+| [[Elaice Highway]]
+| [[Purus Palecolumn]]
+| Anytime
+| Non-Stop Barrage (Skill)
+|-
+| [[Impregnable Sandhu]]
+| 82
+| [[Agnus Forces]]
+| [[Urayan Tunnels]]
+| [[Ruins of Seebu]]
+| Anytime, among the [[Agnian Assassins]] duo
+| Fiery Morale (Skill)
+|-
+| [[Indiscreet Gombaba]]
+| 12
+| [[Brog]]
+| [[Millick Meadows]]
+| [[Millick Ravine Way]]
+| Anytime
+| [[Sumo Press]] (Art)
+|-
+| [[Infiltrator Garnach]]
+| 64
+| [[Levnis]] (Gastrates)
+| [[Syra Hovering Reefs]]
+| [[Fourth Ixia Bridge]]
+| Anytime
+| Super Explosion (Skill)
+|-
+| [[Intrusive Neville]]
+| 49
+| [[Gyaark]]
+| [[Erythia Sea]]
+| [[Migrow's Rosary]]
+| Anytime
+| [[Shark Shock]] (Art)
+|-
+| [[Jealous Mizraile]]
+| 72
+| [[Aspar]]
+| [[Erythia Sea]]
+| [[Lavi Sandbar]]
+| Anytime
+| Creeping Predator (Skill)
+|-
+| [[Jingoistic Gigantus]]
+| 80
+| [[Gogol]]
+| [[Millick Meadows]]
+| [[Viliera Hill (XC3)|Viliera Hill]]
+| Anytime
+| Blasting Stomp (Skill)
+|-
+| [[Joyful Nimroog]]
+| 68
+| [[Anlood]]
+| [[Rae-Bel Tableland]]
+| [[Valley of Anguish]]
+| Anytime
+| Instant Charge (Skill)
+|-
+| [[Keen Chicky-Chicky]]
+| 59
+| [[Grebel]]
+| [[Captocorn Peak]]
+| [[Nocclia Mire]]
+| After completing ''[[In Search of a Home]]''
+| [[Burrowing Rocket]] (Art)
+|-
+| [[Killhappy Brijaidor]]
+| 79
+| [[Merfrey]]
+| [[Erythia Sea]]
+| [[Vinisog Holm]]
+| Anytime
+| Strength Support (Skill)
+|-
+| [[Kilocorn Grandeps]]
+| 95-150
+| [[Ardun]]
+| [[Rae-Bel Tableland]]
+| [[Dumas' Jaw]]
+| Anytime
+| Monarch's Heart (Skill)
+|-
+| [[King Krawkin]]
+| 102
+| [[Tirkin]]
+| [[Erythia Sea]]
+| [[Demihuman Gutter]]
+| Anytime, among [[The King-Kings]] duo
+| [[Desperate Charge]] (Art)
+|-
+| [[Lapdog Veece]]
+| 9
+| [[Volff]]
+| [[Alfeto Valley]]
+| [[Volff Lair (XC3)|Volff Lair]]
+| Anytime
+| [[Beast Howl]] (Art)
+|-
+| [[Levialord Empireo]]
+| 110-180
+| [[Ravoon]]
+| [[Erythia Sea]]
+| [[The Aegis Sea]]
+| Anytime
+| Power Pick-Me Up (Skill)
+|-
+| [[Littlefort Morley]]
+| 46
+| [[Pagul]]
+| [[Erythia Sea]]
+| [[Needle Reef Beach]]
+| Anytime
+| [[Cavalry]] (Art)
+|-
+| [[Massive Georges]]
+| 37
+| [[Aligo]]
+| [[Great Cotte Falls]]
+| [[Hidden Freshwater Inlet]]
+| Anytime
+| [[Fin of Fear]] (Art)
+|-
+| [[Migratory Circe]]
+| 14
+| [[Flamii]]
+| [[Millick Meadows]]
+| [[Millick Ravine Way]]
+| Anytime
+| Just A Moment (Skill)
+|-
+| [[Miraging Yuri]]
+| 65
+| [[Agnus Forces]]
+| [[Erythia Sea]]
+| [[Colony 15]]
+| Among the [[4 Blades in the Dark]] after completing ''[[A Young Noble's Request]]''
+| One with the Land (Skill)
+|-
+| [[Mobile Vespa]]
+| 41
+| [[Levnis]] (Equites)
+| [[Keves Castle]]
+| [[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]]
+| Anytime
+| [[Spit Beam]] (Art)
+|-
+| [[Naval Gyrus]]
+| 75
+| [[Krodlax]]
+| [[Erythia Sea]]
+| [[Irma's Secret Base]]
+| Anytime
+| [[Trout Hop]] (Art)
+|-
+| [[Navigator Helios]]
+| 48
+| [[Levnis]] (Testudo)
+| [[Erythia Sea]]
+| [[Erythia Relay Base]]
+| Anytime
+| Reckless Attack (Skill)
+|-
+| [[Night-Stalker Volodya]]
+| 43
+| [[Vang]]
+| [[Elaice Highway]]
+| [[Torus Hollow]]
+| Anytime
+| Accelerator Organ (Skill)
+|-
+| [[Obliterator Centaurio]]
+| 91
+| [[Levnis]] (Gyrinus)
+| [[Agnus Castle Barbican]]
+| [[Levnis Workyard]]
+| Anytime
+| [[Psychowave]] (Art)
+|-
+| [[Oceanic Lucera]]
+| 73
+| [[Moramora]]
+| [[Erythia Sea]]
+| [[Anu Shoals]]
+| Anytime
+| [[Bomberhead]] (Art)
+|-
+| [[Otherworldly Rodsin]]
+| 60
+| [[Serprond]]
+| [[Erythia Sea]]
+| [[Welkin Falls]]
+| Anytime
+| [[Jet Stream]] (Art)
+|-
+| [[Perilwing Ryuho]]
+| 100-160
+| [[Vollgull]]
+| [[Melnath's Shoulder (XC3)|Melnath's Shoulder]]
+| [[Coolley Lake (XC3)|Coolley Lake]]
+| Anytime
+| Eagle Rush (Skill)
+|- 
+| [[Perspicacious Oldar]]
+| 20
+| [[Ardun]]
+| [[Ribbi Flats]]
+| [[Sparres Barr]]
+| Anytime
+| [[Horn Dance]] (Art)
+|-
+| [[Perturbed Bilkin]]
+| 13
+| [[Flier]]
+| [[Millick Meadows]]
+| [[Viliera Hill (XC3)|Viliera Hill]]
+| Anytime
+| [[Butterfly Dust]] (Art)
+|-
+| [[Petrivore Judomar]]
+| 31
+| [[Ropl]]
+| [[Melnath's Shoulder (XC3)|Melnath's Shoulder]]
+| [[Melnath's Pass, Upper]]
+| Anytime after Chapter 3
+| Accelerating Attacks (Skill)
+|-
+| [[Phantasmagorical Rist]]
+| 35
+| [[Medooz]]
+| [[Great Cotte Falls]]
+| [[Cotte Trick Ruins]]
+| Anytime
+| Physical Absorber (Skill)
+|-
+| [[Phantom Streya]]
+| 51
+| [[Amoney]]
+| [[Millick Meadows]]
+| [[Elgares Depths Entrance]]
+| Anytime
+| Mimic Technique (Skill)
+|-
+| [[Phony Temnos]]
+| 69
+| [[Droids]]
+| [[Origin Interior]]
+| [[Hangar, Upper Level (Origin)|Hangar, Upper Level]]
+| Anytime, among the [[Hollow Ones]] quartet
+| Exoshell (Skill)
+|-
+| [[Pressing Rafeel]]
+| 69
+| [[Enpedia]]
+| [[Origin Interior]]
+| [[Hangar, Lower: Main Gate]]
+| Anytime
+| Defense Mastery (Skill)
+|-
+| [[Profound Hodzuki]]
+| 44
+| [[Quadwing]]
+| [[Elaice Highway]]
+| [[Visura Parkland]]
+| Anytime
+| [[Hypnotism]] (Art)
+|-
+| [[Protector Revelta]]
+| 64
+| [[Levnis]] (Sagittarius)
+| [[Syra Hovering Reefs]]
+| [[Hovering Reef 1 (XC3)|Hovering Reef 1]]
+| Anytime
+| Heavy Armor (Skill)
+|-
+| [[Puzzled Raquinu]]
+| 45
+| [[Bunnit]]
+| [[Rae-Bel Tableland]]
+| [[Elsayer Cape]]
+| Anytime
+| [[Raid Strike]] (Art)
+|-
+| [[Ragemaw Tempeldo]]
+| 78
+| [[Taos]]
+| [[Erythia Sea]]
+| [[Daedal Isle]]
+| Anytime
+| Celestial Conqueror (Skill)
+|-
+| [[Rambler Curalie]]
+| 17
+| [[Caterpile]]
+| [[Eagus Wilderness]]
+| [[Bennel Cave]]
+| Anytime
+| [[Poison Spray]] (Art)
+|-
+| [[Raucous Ron]]
+| 27
+| [[Skeeter]]
+| [[Urayan Tunnels]]
+| [[Roaring Spring]]
+| Anytime
+| [[Last Fencer]] (Art)
+|-
+| [[Ravenous Babayaga]]
+| 84
+| [[Moglum]]
+| [[Erythia Sea]]
+| [[Patulia Bay]]
+| Anytime
+| Attack Heal (Skill)
+|-
+| [[Reaping Anteel]]
+| 72
+| [[Horrish]]
+| [[Origin Interior]]
+| [[Ferronis Arsenal 2|Ferronis Arsenal #2]]
+| Anytime
+| Healing Mastery (Skill)
+|-
+| [[Repulsive Deepus]]
+| 24
+| [[Piranhax]]
+| [[Yzana Plains]]
+| [[Sonata Saddleback]]
+| Anytime
+| Emergency Turbo (Skill)
+|-
+| [[Ruthless Grokken]]
+| 81
+| [[Brog]]
+| [[Ribbi Flats]]
+| [[Killy Fors]]
+| Anytime
+| [[Predation]] (Art)
+|-
+| [[Saberly Doramp&#233;]]
+| 65
+| [[Quardun]]
+| [[Great Cotte Falls]]
+| [[Cotte Fountainhead]]
+| Anytime, among the [[Aquatic Beasts]] duo
+| [[Double Slap]] (Art)
+|-
+| [[Scornful Daria]]
+| 22
+| [[Skwaror]]
+| [[Dannagh Desert (XC3)|Dannagh Desert]]
+| [[Great Idalla Ravine]]
+| Anytime
+| [[Tail Slap]] (Art)
+|-
+| [[Seadragoon Melchior]]
+| 85
+| [[Merigna]]
+| [[Erythia Sea]]
+| [[Twinpalm Isle]]
+| Anytime
+| [[Dual Attack]] (Art)
+|-
+| [[Seatiger Tridence]]
+| 77
+| [[Shoox]]
+| [[Erythia Sea]]
+| [[Patulia Bay]]
+| At night
+| [[Ether Sphere (art)|Ether Sphere]] (Art)
+|-
+| [[Sensitive Catullus]]
+| 26
+| [[Levnis]] (Avis)
+| [[Alfeto Valley]]
+| [[Sepulchral Cliffpath]]
+| Anytime after Chapter 1
+| Systematic Defense (Skill)
+|-
+| [[Seraphic Ceratinia]]
+| 120-200
+| ???
+| [[The Cavity]]
+| [[Shattered Pathway]]
+| After all other [[Superboss]]es are defeated and the topic "Aionios' Strongest" has been discussed at camp
+| [[Transient Bond]] (Art)
+|-
+| [[Sharkblade Nedd]]
+| 67
+| [[Gyaark]]
+| [[Erythia Sea]]
+| [[Doublecrag Gate]]
+| At Daytime
+| Positional Attacker (Skill)
+|-
+| [[Sharpscale Ragoon]]
+| 66
+| [[Merigna]]
+| [[Erythia Sea]]
+| [[Oshia's Reef Ravine]]
+| Anytime, among the [[Whirlpool Triumvirate]] trio
+| Aquatic Warrior (Skill)
+|-
+| [[Sharpwitted Tracy]]
+| 15
+| [[Camill]]
+| [[Eagus Wilderness]]
+| [[Reith Valley]]
+| Anytime
+| Surprise Attack (Skill)
+|-
+| [[Shimmering Marcko]]
+| 28
+| [[Pippito]]
+| [[Urayan Tunnels]]
+| [[Kachurichu Cavern]]
+| Anytime
+| [[Radiant Arts]] (Art)
+|-
+| [[Slack-Jawed Zephal]]
+| 80
+| [[Darbus]]
+| [[Erythia Sea]]
+| [[Daedal Isle]]
+| During a Storm
+| Emperor of Violence (Skill)
+|-
+| [[Soaring Virion]]
+| 36
+| [[Rhogul]]
+| [[Great Cotte Falls]]
+| [[Amoney's Hallows]]
+| Anytime
+| Dangerous Claws (Skill)
+|-
+| [[Spartan Fennick]]
+| 78
+| [[Ageshu]]
+| [[Low Maktha Wildwood]]
+| [[Gingin's Treehouse]]
+| Anytime
+| [[Ministorm]] (Art)
+|-
+| [[Spectral R&#233;my]]
+| 42
+| [[Medooz]]
+| [[Great Sword's Base]]
+| [[Bannis Path]]
+| Anytime
+| [[Toxic Gas]] (Art)
+|-
+| [[Spiky Aurelia]]
+| 63
+| [[Antol]] (Antol Queen)
+| [[Erythia Sea]]
+| [[Antol Pit]]
+| Anytime
+| Queenly Pride (Skill)
+|-
+| [[Spiralhorn Baccro]]
+| 56
+| [[Ories]]
+| [[Captocorn Peak]]
+| [[Tsang Road]]
+| Anytime
+| Grace of the Land (Skill)
+|-
+| [[Stately Doramma]]
+| 64
+| [[Quarmu]]
+| [[Great Cotte Falls]]
+| [[Cotte Fountainhead]]
+| Anytime, among the [[Aquatic Beasts]] duo
+| Scattered Healing (Skill)
+|-
+| [[Stoneclipper Gorse]]
+| 25
+| [[Scorpox]]
+| [[Dannagh Desert (XC3)|Dannagh Desert]]
+| [[Bulik Brae]]
+| Anytime
+| Drain Guard (Skill)
+|-
+| [[Stonehoof Torphan]]
+| 57
+| [[Aries]]
+| [[Captocorn Peak]]
+| [[Piula Path]]
+| Anytime
+| Sense of Danger (Skill)
+|-
+| [[Sundappled Floria]]
+| 71
+| [[Garaffa]]
+| [[Great Sword's Base]]
+| [[N'ohm Wetlands]]
+| Anytime
+| [[Electric Skin]] (Art)
+|-
+| [[Sycophantic Lilith]]
+| 5
+| [[Bunnit]]
+| [[Yzana Plains]]
+| [[Colony 9 Front Gate]]
+| Anytime
+| [[Hard Dig]] (Art)
+|-
+| [[Talkative Dirakha]]
+| 63
+| [[Moglum]]
+| [[Erythia Sea]]
+| [[Cape Arcaphor]]
+| Anytime
+| Deeply Tactical (Skill)
+|-
+| [[Taskmaster Imperion]]
+| 49
+| [[Levnis]] (Ulula)
+| [[Erythia Sea]]
+| [[Erythia Relay Base]]
+| Anytime
+| Excessive Armor (Skill)
+|-
+| [[Tenderling Rumi]]
+| 23
+| [[Armu]]
+| [[Rae-Bel Tableland]]
+| [[Lisza Garden]]
+| Anytime
+| Amazing Growth (Skill)
+|-
+| [[Terrorbird Zieger]]
+| 37
+| [[Ansel]]
+| [[Dannagh Desert (XC3)|Dannagh Desert]]
+| [[Glam Rock]]
+| Anytime
+| [[Hawk Shot]] (Art)
+|-
+| [[Thaumawolf Bajeek]]
+| 71
+| [[Kananus]]
+| [[Origin Interior]]
+| [[Central Defense]]
+| Anytime
+| Wolf Spirit (Skill)
+|-
+| [[Thunderclap Dalton]]
+| 43
+| [[Levnis]] (Speculatos)
+| [[Keves Castle]]
+| [[Troop Reserve Section]]
+| Anytime, among [[The Black Triad]]
+| Deflector Plate (Skill)
+|-
+| [[Timbercorn Cthinos]]
+| 61
+| [[Ellook]]
+| [[Captocorn Peak]]
+| [[Ladras Way]]
+| Anytime
+| [[Healing Rest]] (Art)
+|-
+| [[Trickfist Tuano]]
+| 66
+| [[Droids]]
+| [[Origin Interior]]
+| [[Amplifier Control Room]]
+| Anytime, among the [[Armbenders]] trio
+| Mano a Mano Evasion (Skill)
+|-
+| [[Turbulent Martinez]]
+| 43
+| [[Levnis]] (Speculatos)
+| [[Keves Castle]]
+| [[Troop Reserve Section]]
+| Anytime, among [[The Black Triad]]
+| Energy Efficiency (Skill)
+|-
+| [[Unobtrusive Liggy]]
+| 43
+| [[Arachno]]
+| [[Elaice Highway]]
+| [[Three Heroes Peak]]
+| Anytime after completing the Hero quest, ''[[Her Reasons]]''
+| Underworld Rage (Skill)
+|-
+| [[Unruffled Narrah]]
+| 19
+| [[Armu]]
+| [[Ribbi Flats]]
+| [[Laprel Knoll]]
+| Anytime
+| Defense Time (Skill)
+|-
+| [[Vapid Roger]]
+| 70
+| [[Droids]]
+| [[Origin Interior]]
+| [[Hangar, Upper Level (Origin)|Hangar, Upper Level]]
+| Anytime, among the [[Hollow Ones]] quartet
+| Berserker Mindset (Skill)
+|-
+| [[Vengeful Dominator]]
+| 42
+| [[Levnis]] (Velites)
+| [[Keves Castle]]
+| [[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]]
+| Anytime, among [[The Executioners]] duo
+| Action Reaction (Skill)
+|-
+| [[Villainous Igna]]
+| 46
+| [[Igna]]
+| [[Elaice Highway]]
+| [[Igna Conglomerate]]
+| Anytime
+| [[Dragon Gas]] (Art)
+|-
+| [[Virtuous Gulkin]]
+| 52
+| [[Gulkin]]
+| [[Erythia Sea]]
+| [[Tengate Ruins]]
+| Anytime
+| [[Pointy Stick]] (Art)
+|-
+| [[Well-Plated Zelinka]]
+| 53
+| [[Crustip]]
+| [[Yzana Plains]]
+| [[Svinne Cavity]]
+| Anytime
+| Ultranull Shield (Skill)
+|-
+| [[Wicked Wolf Aranqui]]
+| 70
+| [[Vvarga]]
+| [[Millick Meadows]]
+| [[Fuschian Fields]]
+| Anytime
+| [[Thunderclap (XC3)|Thunderclap]] (Art)
+|-
+| [[Widdershins Radler]]
+| 48
+| [[Eluca]]
+| [[Erythia Sea]]
+| [[Anu Shoals]]
+| Anytime
+| Awakilling (Skill)
+|-
+| [[Witchwind Kujjat]]
+| 59
+| [[Ansel]]
+| [[Everblight Plain]]
+| [[Rottswoe Battlescar]]
+| Anytime after Chapter 3
+| [[Trick Dart]] (Art)
+|-
+| [[Wraithfin Segna]]
+| 24
+| [[Piranhax]]
+| [[Rae-Bel Tableland]]
+| [[Riez Tarn]]
+| Anytime
+| [[Water Jet]] (Art)
+|}
+
+== {{XC3FR|sub}} ==
+=== List of Unique Monsters ===
+{| class="xc1 sortable col-2-center" width="100%"
+! Name
+! data-sort-type="number" | Level
+! Species
+! Area
+! Location
+! Spawntime
+|-
+| [[Advent Wolf Marduk]]
+| 9
+| [[Volff]]
+| [[Vermilion Woods]]
+| [[Colony Gamma Wreckage]]
+| Anytime
+|-
+| [[Bioluminescent Bob]]
+| 70
+| [[Egel]]
+| [[Yesterdale]]
+| [[Gotrock Oracle Ruins]]
+| After reaching the [[Black Mountains]]
+|-
+| [[Bombastic Rotbart Jr.]]
+| 10
+| [[Gogol]]
+| [[Vermilion Woods]]
+| [[Leaf-Strewn Clearing]]
+| Anytime
+|-
+| [[Cavalier MacBright]]
+| 23
+| [[Igna]]
+| [[Aurora Shelf]]
+| [[Agni's Tomb Ruins]]
+| Anytime
+|-
+| [[Cryoconite Laurel]]
+| 26
+| [[Moglum]]
+| [[Yesterdale]]
+| [[Lakeside Grotto]]
+| Anytime
+|-
+| [[Dragon God Alcar]]
+| 46
+| [[Draigul]]
+| [[Black Mountains]]
+| [[Raxeal Lavaflow]]
+| Anytime
+|-
+| [[Fogdweller Abaasy]]
+| 100
+| [[Fogbeast]] [[Draigul]]
+| [[Black Mountains]]
+| [[Valak Mountain]]
+| During Chapter 5
+|-
+| [[Foghewn Augustus]]
+| 48
+| [[Fogbeast]] [[Egel]]
+| [[Black Mountains]]
+| [[Travalga Bridge]]
+| Anytime
+|-
+| [[Fograptor D'nari]]
+| 37
+| [[Fogbeast]] [[Vollgull]]
+| [[Aurora Shelf]]
+| [[Declessa Altar]]
+| Anytime
+|-
+| [[Fogstalker Naiara]]
+| 45
+| [[Fogbeast]] [[Feris]]
+| [[Vermilion Woods]]
+| [[Rhogett Causeway]]
+| After reaching the [[Black Mountains]]
+|-
+| [[Fogtrawler Tallstuff]]
+| 55
+| [[Fogbeast]] [[Garaffa]]
+| [[Aurora Shelf]]
+| [[Sullied Temple of Abitalia]]
+| Anytime
+|-
+| [[Gotthard, the Ethereal]]
+| 60
+| [[Darbus]]
+| [[Aurora Shelf]]
+| [[Sullied Temple of Abitalia]]
+| During Chapter 5
+|-
+| [[Hallowcanter Hazerune]]
+| 42
+| [[Aries]]
+| [[Black Mountains]]
+| [[Belgazas' Drifts]]
+| Anytime
+|-
+| [[Hilltop Chegwin]]
+| 13
+| [[Tirkin]]
+| [[Aurora Shelf]]
+| [[Zalmor's Falls]]
+| Anytime
+|-
+| [[Many-Lived Derrick]]
+| 42
+| [[Taos]]
+| [[The Ragmos Desolation]]
+| [[Gelgemos Garrison]]
+| Anytime
+|-
+| [[Naberius Invictus]]
+| 40
+| [[Levnis]]
+| [[The Ragmos Desolation]]
+| [[Magwall Road]]
+| Anytime
+|-
+| [[Peacebringer Divalo]]
+| 90
+| [[Levnis]]
+| [[Vermilion Woods]]
+| [[Colony Gamma Wreckage]]
+| During Chapter 5, among The Slow 'n' Steadies duo
+|-
+| [[Perambulator Moritz]]
+| 28
+| [[Levnis]]
+| [[The Ragmos Desolation]]
+| [[Lumos Garrison]]
+| Anytime
+|-
+| [[Prohibitor Giuseppe]]
+| 23
+| [[Brog]]
+| [[Vermilion Woods]]
+| [[Inconspicuous Cave]]
+| Anytime
+|-
+| [[Radicalized Godwin]]
+| 43
+| [[Igna]]
+| [[Aurora Shelf]]
+| [[Exile Fortress Ruins]]
+| Anytime
+|-
+| [[Sensational Gigapur]]
+| 47
+| [[Fogbeast]] [[Laia]]
+| [[Black Mountains]]
+| [[Gravina Bridge]]
+| During Red Lightning
+|-
+| [[Smackdown Brannigan]]
+| 24
+| [[Aligo]]
+| [[Yesterdale]]
+| [[Tephra Hill]]
+| Anytime
+|-
+| [[Smothering Andante]]
+| 11
+| [[Ardun]]
+| [[Aurora Shelf]]
+| [[Gaur Viaduct]]
+| Anytime
+|-
+| [[Stronghammer Dorga]]
+| 90
+| [[Levnis]]
+| [[Vermilion Woods]]
+| [[Colony 5 Wreckage]]
+| During Chapter 5, among The Slow 'n' Steadies duo
+|-
+| [[Surrogate Fitzpatrick]]
+| 41
+| [[Vollgull]]
+| [[The Ragmos Desolation]]
+| [[Raguel Bridge]]
+| Anytime
+|-
+| [[Sworn Protector Hector]]
+| 32
+| [[Gogol]]
+| [[The Ragmos Desolation]]
+| [[Waterlogged Daksha Shrine]]
+| Anytime
+|-
+| [[Tenebrous Muramasa]]
+| 39
+| [[Taos]]
+| [[Yesterdale]]
+| [[Ruined Anti-Air Battery 3]]
+| Nighttime
+|-
+| [[Thunderfish Duna-Roa]]
+| 80
+| [[Ravoon]]
+| [[The Ragmos Desolation]]
+| [[Raguel Lake]]
+| Thunderstorms During Chapter 5
+|-
+| [[Treehugger Gerald]]
+| 14
+| [[Ellook]]
+| [[Aurora Shelf]]
+| [[Waypoint Sapling]]
+| Anytime
+|-
+| [[Troglodyte Umir]]
+| 22
+| [[Caterpile]]
+| [[Yesterdale]]
+| [[Tephra Hill]]
+| Anytime
+|-
+| [[Watchful Valencia]]
+| 10
+| [[Rhogul]]
+| [[Aurora Shelf]]
+| [[Ragrinar Passage]]
+| Anytime
+|}
+
+== References ==
+&lt;references /&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemies]]
+[[Category:XC3FR Unique Monsters]]
+[[Category:XC3FR Enemies]]</text>
+      <sha1>12ieevmmto2sn4ytz7tbkaa2yodpnw5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unobtrusive Liggy</title>
+    <ns>0</ns>
+    <id>118694</id>
+    <revision>
+      <id>574714</id>
+      <parentid>559487</parentid>
+      <timestamp>2023-01-30T10:42:35Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1402" sha1="cjoyktlig6rm407kk2g2dsets6rpfrn" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Unobtrusive Liggy
+|image        = XC3 Unobtrusive Liggy.png
+|caption      = Unobtrusive Liggy
+|type         = [[Arachno]]
+|level        = 43
+|area         = [[Elaice Highway]] ([[Three Heroes Peak]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 770
+|cp           = 59
+|sp           = 5
+|gold         = 610
+|hp           = 861,300
+|strength     = 997
+|healing      = 253
+|dexterity    = 141
+|agility      = 175
+|physdef      = -10%
+|ethdef       = 10%
+|critrate     = 12%
+|guardrate-front = 10%
+|guardrate-side  = 0%
+|guardrate-back  = 10%
+}}
+'''Unobtrusive Liggy''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Arachno]] family, and can be found at level 43 at [[Three Heroes Peak]] in [[Elaice Highway]]. The [[Soulhacker#Enemy Skills|Underworld Rage]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] upon its defeat.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 30%
+|etherdebuff = 70%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Unobtrusive liggy location.png
+Unobtrusive liggy.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>cjoyktlig6rm407kk2g2dsets6rpfrn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unruffled Narrah</title>
+    <ns>0</ns>
+    <id>119419</id>
+    <revision>
+      <id>574715</id>
+      <parentid>559488</parentid>
+      <timestamp>2023-01-30T10:46:50Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1412" sha1="rjpiu4uh0ci2hg0qegul23zrj55s9es" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Unruffled Narrah
+|image        = Unruffled Narrah.png
+|caption      = Unruffled Narrah
+|type         = [[Armu]]
+|level        = 19
+|area         = [[Ribbi Flats]] ([[Laprel Knoll]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 386
+|cp           = 92
+|sp           = 5
+|gold         = 310
+|hp           = 166,500
+|strength     = 213
+|healing      = 133
+|dexterity    = 70
+|agility      = 52
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 8%
+|guardrate-front = 5%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Unruffled Narrah''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Armu]] family, and can be found at level 19 in the [[Fornis Region]], at [[Laprel Knoll]] near [[Shikashaka Mesa]] in [[Ribbi Flats]]. The [[Soulhacker#Enemy Skills|Defense Time]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] upon its defeat.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Unruffled narrah location.png
+Unruffled narrah.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Armus]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rjpiu4uh0ci2hg0qegul23zrj55s9es</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unwavering Resolve</title>
+    <ns>0</ns>
+    <id>120396</id>
+    <revision>
+      <id>581300</id>
+      <parentid>578567</parentid>
+      <timestamp>2023-04-03T12:37:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1433" sha1="1cyth1of6nyq1306xjuiug5ho9tjhlu" xml:space="preserve">{{Infobox quest
+|name        = Unwavering Resolve
+|image       = Unwavering Resolve.jpg 
+|description = "Lambda uses the Urayan Tunnels to mine ether. Unfortunately, there's been a cave-in. Go check it out."
+|giver       = [[Isurd]]
+|location    = [[Great Cotte Falls]] ([[Clearwater Shelf]])
+|time        = 
+|prereqs     = Chapter 4 started
+|reclevel    = Lv. 27
+|rewards     = 400 [[Colony Lambda]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;1760 [[Experience Points (XC3)|EXP]]&lt;br/&gt; 1940 [[Gold|G]]&lt;br/&gt; 10 [[Soul Tree|SP]]&lt;br/&gt; [[Isurd]] as a [[Hero]]
+}}
+'''Unwavering Resolve''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Isurd]].
+
+== Objectives ==
+# ''Head for the specified location(s).''
+#* [[Mine No. 3]] Area
+# ''Work together to remove the boulder blocking the way.''
+#* Go down [[Elevator No. 2]]
+# ''Head for the specified location(s).''
+#* [[Mine No. 2]]
+# ''Defeat the specified foe(s).''
+#* [[Drifter Scorpox]] (6)
+# ''Head for the specified location(s).''
+#* [[Isurd]] in the [[Clearwater Shelf|Commander's Office]]
+# ''Head for the specified location(s).''
+#* [[Cave at Pira Bluffs]]
+# ''Defeat the specified foe(s).''
+#* [[Armadillo]] (2)
+
+== Results ==
+''"First a cave-in, then Auto-Levs gone beserk... As thanks for resolving both issues and protecting Lambda, Isurd accepts Taion's request to join the party."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Isurd]]
+[[Category:Pentelas Region Quests]]</text>
+      <sha1>1cyth1of6nyq1306xjuiug5ho9tjhlu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Uor Scorpox</title>
+    <ns>0</ns>
+    <id>123010</id>
+    <revision>
+      <id>595097</id>
+      <parentid>595095</parentid>
+      <timestamp>2023-06-10T15:09:13Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595097</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="896" sha1="8h90f25kpxdpt9b1t2go2fnf2tsjxwm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Uor Scorpox
+|image        = 
+|caption      = Uor Scorpox
+|category     = Normal Minor Enemy
+|type         = [[Scorpox]]
+|level        = 38-39
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 5 (XC3)|Hovering Reef 5]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Uor Scorpoxes''' are Normal Enemies in {{XC3}}. They are members of the [[Scorpox]] family, and can be found at level 38-39 on [[Hovering Reef 5 (XC3)|Hovering Reef 5]] of the [[Syra Hovering Reefs]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8h90f25kpxdpt9b1t2go2fnf2tsjxwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Upa</title>
+    <ns>0</ns>
+    <id>5329</id>
+    <revision>
+      <id>602143</id>
+      <parentid>600832</parentid>
+      <timestamp>2023-07-22T12:29:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{TTGC|-}} */</comment>
+      <origin>602143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2676" sha1="4m80ae0eadf4vybsglcut9oxyhr35xb" xml:space="preserve">[[File:Vengeful Daulton.png|thumb|Vengeful Daulton in {{XC|-}}]]
+'''Upas''' (Japanese: {{lang|ja|&#12454;&#12540;&#12497;&#12540;}}, ''&#362;p&#257;'') are a species of enemy in the {{XC|serieslink}}. They have an appearance somewhat similar to [[Lizard]]s, but with a large antenna on their heads which lights up at night.
+
+Upas undergo no appearance change between games.
+
+== {{XC|-}} ==
+Upas are first encountered near the [[Ether Mine (XC1)|Ether Mine]]. They are later seen outside [[Colony 6]], in [[Satorl Marsh]], and on the [[Fallen Arm]], residing in wetter areas. There are several types of Upas.
+
+=== Normal Minor Enemies ===
+* [[Acid Upa]]
+* [[Colony Upa]]
+* [[Mad Upa (XC1)|Mad Upa]]
+* [[Prado Upa]]
+* [[Itmos Upa]]
+* [[Water Upa]]
+
+=== Quest Exclusive Enemy ===
+''Note: Although these Upas only spawn upon starting the quest, they do not despawn upon its completion.''
+* [[Woeful Upa]] (during ''[[A Final Sweet Favour]]'')
+
+=== Unique Monsters ===
+* [[Affluent Beleth]]
+* [[Vengeful Daulton]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Acid Upa]]
+* [[Prado Upa]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Bland Upa]]
+* [[Jadas Upa]]
+* [[Moist Upa (XC2)|Moist Upa]]
+* [[Nuruba Upa]]
+* [[Wacon Upa (XC2)|Wacon Upa]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Livid Upa]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Bebth Upa]] (Lizard model)
+* [[Whisp Upa]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Mad Upa (XC3)|Mad Upa]]
+* [[Moist Upa (XC2)|Moist Upa]]
+* [[Wacon Upa (XC3)|Wacon Upa]]
+* [[Wett Upa]]
+
+=== Unique Monster ===
+* [[Heretical Saurow]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Moist Upa (XC2)|Moist Upa]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Upa.jpg
+Prado Upa.jpg
+Acid Upa.png
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Bland Upa.png|Bland Upa
+XC2 Moist Upa.jpg|Moist Upa
+LividUpa.jpg|Livid Upa
+WaconUpa.jpg|Wacon Upa
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Whispupa.jpg|Whisp Upa
+Bebth.jpg|Bebth Upa (Lizard model)
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:XC Upas]]
+[[Category:Bionis Life]]
+[[Category:Mechonis Life]]
+[[Category:Amphibious Enemies]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XCFC Species]]
+[[Category:XCFC Upas]]
+[[Category:XC2 Species]]
+[[Category:XC2 Upas]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Upas]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Species]]
+[[Category:XC3 Upas]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Upas]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Upas]]
+[[Category:Species by Type]]</text>
+      <sha1>4m80ae0eadf4vybsglcut9oxyhr35xb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Urchon</title>
+    <ns>0</ns>
+    <id>74270</id>
+    <revision>
+      <id>602144</id>
+      <parentid>600833</parentid>
+      <timestamp>2023-07-22T12:29:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3341" sha1="rg5actdsur80g7ovtmlhrb9ss2pugzp" xml:space="preserve">[[file:DrothUrchon.jpg|thumb|Droth Urchon]]
+'''Urchons''' are a family of enemies in the {{XC|serieslink}}, first appearing in {{XC2}}. They look like [[wikipedia:Sea urchin|sea urchins]] and come in red and blue varieties. They are often encountered after [[Salvaging]] or near water. In {{TTGC}}, one of the four [[Unique Monster (XC2)#Golden Monsters|Golden Monsters]] in the [[Kingdom of Torna]] is an Urchon.
+
+Urchons have multiple defining traits. Firstly, they have a relatively high Guard Rate and can block attacks from any side. And secondly, they cannot normally be inflicted with [[Break (XC2)|Break]]. However, during their "Bouncy Hammer" and "Spiky Hammer" arts, a fleshy stem in their middle is revealed, and they are treated as being inflicted with Break for the art's duration. If one uses an Art that inflicts [[Topple (XC2)|Topple]], they can then be Driver-comboed.
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Dobri Urchon]] (after [[salvaging]])
+* [[Gast Urchon (XC2)|Gast Urchon]]
+* [[Ledro Urchon]] (after salvaging)
+* [[Mabas Urchon]] (after salvaging)
+* [[Mees Urchon (XC2)|Mees Urchon]]
+* [[Pain Urchon]]
+* [[Shezl Urchon]] (after salvaging)
+* [[Spike Urchon (XC2)|Spike Urchon]]
+* [[Spinel Urchon]]
+* [[Stonic Urchon]]
+* [[Zamban Urchon]]
+
+=== Quest Exclusive Enemy ===
+* [[Invading Spike Urchon]] (During ''[[Sniff out the Spy]]'')
+
+=== Unique Monsters ===
+* [[Climactic Honnold]]
+* [[Hard-Bitten Xavier]] ([[Driver (enemy)|Driver]] and [[Blade (enemy)|Blade]])
+
+=== Challenge Battle Mode Enemies ===
+* [[Beachhead Urchon]]
+* [[Spektr Urchon]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Droth Urchon]]
+* [[Spillit Urchon]] (Summoned by [[Sentinel Carpathia]])
+
+=== Quest Exclusive Enemies ===
+* [[Tacitus Urchon]] (During ''[[Salvage the Salvager]]'')
+* [[Wandering Urchon]] (During ''[[The Travails of War]]'')
+
+=== Golden Monster ===
+* [[Sentinel Carpathia]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Urchons can be found in [[Rae-Bel Tableland]] and in [[Erythia Sea]].
+=== Normal Minor Enemies ===
+* [[Gast Urchon (XC3)|Gast Urchon]]
+* [[Mees Urchon (XC3)|Mees Urchon]]
+* [[Spike Urchon (XC3)|Spike Urchon]]
+
+=== Unique Monsters ===
+* [[Barbed Merod]]
+* [[Dapper Sepiar]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Spike Urchon (XC3)|Spike Urchon]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Climactic Honnold.jpg|Climactic Honnold
+Hard-BittenXavier.jpg|Hard-Bitten Xavier
+InvadingSpikeUrchon.jpg|Invading Spike Urchon
+LedroUrchon.jpg|Ledro Urchon
+Mabas Urchon.png|Mabas Urchon
+ShezlUrchon.jpg|Shelz Urchon
+XC2 Stonic Urchon.jpg|Stonic Urchon
+ZambanUrchon.jpg|Zamban Urchon
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Carpathia.jpg|Sentinel Carpathia
+SpillitUrchon.jpg|Spillit Urchon
+TacitusUrchon.jpg|Tacitus Urchon
+WanderingUrchon.jpg|Wandering Urchon
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Barbed Merod.png|Barbed Meridian
+XC3 Dapper Sepiar.png|Dapper Sepiar
+Mees Urchon (XC3).jpg|Mees Urchon
+&lt;/gallery&gt;
+
+[[Category:XC2 Species]]
+[[Category:XC2 Urchons]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Urchons]]
+[[Category:XC3 Species]]
+[[Category:XC3 Urchons]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Urchons]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Urchons]]
+[[Category:Species by Type]]</text>
+      <sha1>rg5actdsur80g7ovtmlhrb9ss2pugzp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Uzraif Ropl</title>
+    <ns>0</ns>
+    <id>121866</id>
+    <revision>
+      <id>581341</id>
+      <parentid>559984</parentid>
+      <timestamp>2023-04-03T16:32:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581341</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="788" sha1="q288waeyndqaoqq675xhnncjjcye6k9" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Uzraif Ropl
+|image        = 
+|caption      = Uzraif Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = 53-54
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Uzraif Ropl''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 53-54 at [[Farlaine Underpass]] in [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>q288waeyndqaoqq675xhnncjjcye6k9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>V</title>
+    <ns>0</ns>
+    <id>118613</id>
+    <revision>
+      <id>575432</id>
+      <parentid>569437</parentid>
+      <timestamp>2023-02-04T21:09:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>575432</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3964" sha1="1cxek4zks3u861iieaojqp5slp6w8r8" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = V
+|image         = Consul V.jpeg
+|species       = [[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = 
+|eyecolor      = Red
+|affiliation   = [[Consul]]s
+|appearances   = {{XC3}}
+|voiceactorjp  = Yohei Tadano
+|voiceactoreng = Charles Dale
+}}
+{{Quote|What?! You think I&#8217;m some lowly errand boy? Stuff your messages. I&#8217;m all about the screaming! And I will enjoy yours before the day is through! That&#8217;s why I am Moebius!|V}}
+'''V''' is a character in {{XC3}}.
+
+== Overview ==
+V is a [[Consul]] who commands [[V's Colony]], his own [[colony]] made up entirely of autonomous [[Levnis]]es. He is callous and greedy, and has a vain and pompous personality without the intelligence to back it up, often making poor decisions.
+
+== Story ==
+It is possible that he is one of the oldest Consuls, as V is seen in flashbacks from at least 1000 years ago. At that time he often used his Blade to execute soldiers who had reached the ends of their tenth terms. One such victim was [[Ashera]]. Another time, the execution was stopped by [[M]], allowing [[Crys]] to send off the soldier in the very first [[Homecoming Ceremony]].
+
+Shortly after [[Colony Lambda]]'s [[Flame Clock]] is broken, he is seen watching the results of a battle with [[R]], with both of them placing bets on the battle. The battle ends in in his favor and he claims his reward as [[N]] looks on in disgust.
+
+During ''[[Side Story: Taion]]'', he detects a signal from the Flame Clock of the abandoned [[Ferronis]] of the [[Lost Colony]]. He attempts to assault the colony using his own colony of Levnises. However, the [[Ouroboros]], led by [[Taion]], outsmart him by repairing the abandoned Ferronis and using it as a distraction in order to circle around the back and attack him by himself. Too shortsighted to recognize the trap, and too hubristic to attempt to retreat, despite being given the option to flee back to Z by Ouroboros, he fights and is killed by the Ouroboros. 
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius V
+|image        = Moebius_V.jpg
+|caption      = Moebius V
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 56
+|area         = [[Erythia Sea]] ([[Farlaine Underpass]])
+|spawntime    = During ''[[Side Story: Taion]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 3,712
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 3,255,000
+|strength     = 1,208
+|healing      = 257
+|dexterity    = 230
+|agility      = 128
+|physdef      = -20%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius V''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a Moebius fought at level 56 in [[Farlaine Underpass]] in [[Erythia Sea]] during ''[[Side Story: Taion]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 75%
+|etherdebuff = 80%
+}}
+{{clr}}
+== Trivia ==
+* Consul V appears to be a homage to [[wikipedia:Vaudeville|vaudeville]] villain stereotypes from the 19th and early 20th centuries; the tubes on his helmet appear similar to a handlebar mustache, the helmet itself is shaped like a top hat, and in the English dub he speaks with an exaggerated accent exemplified by cartoon characters such as [[wikipedia:Dick Dastardly|Dick Dastardly]] and [[wikipedia:Snidely Whiplash|Snidely Whiplash]].
+
+== Gallery ==
+&lt;gallery&gt;
+File:Consul V Concept Art.png|Official Art of V
+Consul E and V.jpg|Consul V artwork
+&lt;/gallery&gt;
+{{clr}}
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 56-60 Enemies]]</text>
+      <sha1>1cxek4zks3u861iieaojqp5slp6w8r8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vaids Serprond (XC3)</title>
+    <ns>0</ns>
+    <id>121867</id>
+    <revision>
+      <id>560309</id>
+      <parentid>559985</parentid>
+      <timestamp>2022-10-03T16:02:31Z</timestamp>
+      <contributor>
+        <username>Xolimpha</username>
+        <id>30499430</id>
+      </contributor>
+      <minor/>
+      <comment>for</comment>
+      <origin>560309</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="857" sha1="7nmhbx00s5vmfi8ml7b8z3hox2c6twl" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Vaids Serprond (XC2)}}
+{{Infobox Enemy
+|name         = Vaids Serprond
+|image        = 
+|caption      = Vaids Serprond
+|category     = Minor Enemy
+|type         = [[Serprond]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Vaids Serpronds''' are Minor Enemies in {{XC3}}. They are members of the [[Serprond]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Serpronds]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>7nmhbx00s5vmfi8ml7b8z3hox2c6twl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Valdi</title>
+    <ns>0</ns>
+    <id>116768</id>
+    <revision>
+      <id>603151</id>
+      <parentid>600146</parentid>
+      <timestamp>2023-07-23T18:58:40Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added ENG IMDB link</comment>
+      <origin>603151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9770" sha1="laqov3yjz11hag25v63ncfwat27diwf" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Valdi
+|image        = XC3 Valdi Portrait Art.png
+|species      = [[Keves]]i human
+|age          = 6th Term
+|gender       = Male
+|haircolor    = White
+|eyecolor     = Orange
+|affiliation  = [[Colony 30]]
+|voiceactorjp = [[wikipedia:Y&#363; Kobayashi|Y&#363; Kobayashi]]
+|appearances  = {{XC3}}
+|voiceactoreng= [https://www.imdb.com/name/nm9276252/ Mack Keith-Roach]
+}}
+'''Valdi''' (Japanese: {{lang|ja|&#12523;&#12487;&#12451;}}, ''Rudi'') is a character in {{XC3}}. 
+
+== Overview ==
+He is a [[Keves]]i soldier who is recruitable as a [[Hero]]. Valdi is a mechanic and is the commander of [[Colony 30]].&lt;ref&gt;https://twitter.com/XenobladeJP/status/1534069329415008257&lt;/ref&gt; He excels at developing and repairing weapons. Valdi loves machines more than anyone else, and has given each weapon he has made a name. While eccentric and better able to get along with [[Levnis]]es than with people, he tries to follow what his "masterpon" taught him: "be a friend to all and an enemy of none".
+
+Valdi is recruited by completing the [[Hero Quest]] ''[[The Kind Right Hand]]''. His [[Class Rank (XC3)|Class Rank]] can be increased to 20 by completing the Ascension Quest ''[[I'm a Mechanic]]''.
+
+== Story ==
+Valdi initially meets the party in [[Ribbi Flats]] and challenges them to a battle with a pair of his Levnises to see their power for himself. After defeating him, he formally introduces himself as commander of Colony 30 and the party helps him collect parts to rebuild the Levnises. When they return to the wreckage, Valdi admits how he had hoped that building and fixing Levnises would help him protect his friends from harm but now feels personally responsible for the deaths that his creations inflict. [[Lanz]] inspires him to create something he wants to make rather than something he is obliged to make, and builds a small Levnis he names "[[Mechafriend]]" with the directive to take care of him. 
+
+It is at this time that [[Consul]] [[Q]] arrives demanding that Valdi return to building his "ultimate Levnis". He is reluctant at first but acquiesces when the Consul begins to threaten the lives of his friends; however, the party realizes that Valdi plans to destroy the Levnis rather than allow it to be used as a weapon. Mechafriend begins following Valdi back to Colony 30 under its directive to protect him, prompting the party to go with it.
+
+Valdi tells the incomplete Levnis that he will not let it harm anyone and hopes that he can rebuild it into something better, but is attacked by Q before he can destroy it. Q then possesses the Levnis to kill Valdi, but is stopped by Mechafriend generating a shield around him. The party arrives shortly afterwards but are unable to stop Q from destroying Mechafriend. Valdi is angered when Q dismisses it as "trash", saying that Levnises have taught him that even if he is small and pathetic, he is still worth something. 
+
+The incomplete Levnis is disabled and Q is seemingly killed in the subsequent explosion. Valdi promises to rebuild Mechafriend with a tougher body and resolves to find a way to protect his colony in the way that would allow both his Levnises and his people to prosper. He also volunteers to help the party to repay them for their help.
+
+Later on, Valdi finds that his lieutenant [[Yuzet]] has collapsed from overwork. Yuzet insists that he is fine when he wakes up and that he has to keep working to ensure the colony can keep running, but Valdi and the party volunteer to handle one of his jobs so he can recover. 
+
+The job in question is a Levnis delivery to [[Colony Lambda]] for surveying purposes. After delivering them to [[Isurd]], he mentions that a flock of [[Ansel]]s from the [[Uraya]]n Mountains have been draining their water supplies and eating the plants the colony uses to make medicine. Valdi notices that Isurd has also been overworking himself, and the party offers to fight the Ansels off. Upon their success, [[Taion]] notes the presence of flowers that don't normally grow in the region, causing the others to speculate that perhaps the Ansels carried their seeds in their feathers. Valdi is inspired by the flowers' persistence and adaptability, and requests that Isurd keep an eye on their growth when they return to the colony. Isurd admits that he had at first believed Valdi to be a ruthless commander willing to do anything for victory, and Valdi himself acknowledges his regret over having sent so many Levnises to their destruction. However, Isurd and the party remind him that what he did then was just one aspect of his work, one which he no longer has to follow now that Colony 30 is free. 
+
+By the time the party returns to the colony, Yuzet has received a report that the colony's stocks of [[Levnite]] are depleted and that [[Colony 4]] isn't able to resupply them. The party immediately departs for Colony 4; when they arrive, [[Solon]] explains that the soldiers sent to mine the Levnite from the [[Dannagh Desert (XC3)|Dannagh Desert]] had stopped responding to communications and might be in danger. The party discovers that they have been attacked by [[Forin Skeeter|Skeeters]] that had been driven away from their normal habitat in the [[Great Cotte Falls]] by the [[Forin Ansel|Ansels]]. Upon returning, Valdi is pleasantly surprised to learn that Colony 30 has forged alliances with Colony Lambda and Colony 4 thanks to his actions and renews his commitment to "fixing" the world so it can have a better future. Yuzet is irritated by the prospect of Valdi making more work for him, but the party believes that their friction is simply part of how they interact with each other.
+
+Valdi later joins Noah and his allies in their final battle against [[Z&#8734;]], where alongside all of the other [[Hero]]es they encountered on their journey, he can be summoned by [[Melia]] and [[Nia]] to help fight against [[X&#8734;]] or [[Y&#8734;]].
+
+== Gameplay ==
+His [[Class (XC3)|Class]] is [[War Medic]], a [[Healer]] class.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1534069323538792449&lt;/ref&gt; His [[Battle Arts (XC3)|Talent Art]] can heal all of his allies. He provides valuable combat support on the battlefield, healing allies and boosting their abilities.&lt;ref&gt;https://twitter.com/NintendoEurope/status/1534097846919651330&lt;/ref&gt;
+
+Valdi's [[Chain Attack (XC3)|Chain Art]] is [[Bullet Hail]], and his Heroic Chain bonus increases his TP by 50 when he is used against a Machine Type enemy.
+
+=== Base Stats ===
+These are Valdi's raw stats prior to modifications by class. They serve as a baseline for calculating his stats in the War Medic class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 338 || 18 || 20 || 31 || 20
+|-
+| 99 || 6,763 || 363 || 404 || 311 || 201
+|}
+
+=== General Stats ===
+These stats assume Valdi is at rank 20 in his class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Valdi has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1||202||24||25 (+25)||37||15||3%||4%||15%||25%
+|-  
+| 99||4,057||647||505 (+60)||373||150||6%||8%||15%||25%
+|}
+
+Valdi equips the following gems:
+* [[Disperse Bloodlust]]
+* [[Lifebearer]], at level 20 onwards
+* [[Lifesaving Expertise]], at level 40 onwards
+
+Valdi equips the following accessories as his default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Friendship Badge]]
+* [[Affection Ring (XC3)|Affection Ring]], at level 30 onwards
+* [[Immaculate Necklace]], at level 50 onwards
+
+== Battles ==
+* [[Strange Keves Soldier]]
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Artificer Valdi
+|image        = 
+|caption      = Artificer Valdi
+|type         = [[Keves Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 115
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 3,338,520
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Artificer Valdi''' is fought at level 115 during the second wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+
+{{clr}}
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Valdi as a War Medic.jpg|Valdi as a War Medic
+XC3 Valdi War Medic Artwork.jpg
+XC3 Valdi Artwork.png
+Miyabi Valdi Concept.png|Valdi's Concept Art
+Valdi Concept Art.png|Valdi's Concept Art
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruiting artwork
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Valdi Hero Icon.png|Hero List Icon
+Strm order thumb022 0.png
+Valdi Level Up Art.png
+Icon chara 14.png
+Icon chara battle 15.png
+XC3 Valdi Icon.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Valdi screenshot 01.jpg
+XC3 Valdi screenshot 02.jpg
+XC3 Valdi screenshot 03.jpg
+XC3 Valdi screenshot 04.jpg
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+File:&#12523;&#12487;&#12451;|Valdi
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Valdi]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>laqov3yjz11hag25v63ncfwat27diwf</sha1>
+    </revision>
+  </page>
+  </mediawiki>

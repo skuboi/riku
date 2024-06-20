@@ -1,0 +1,6 @@
+Art Name: Mighty Beat
+
+Class: Lost Vanguard
+
+Effect: AOE/High Aggro/Smash
+

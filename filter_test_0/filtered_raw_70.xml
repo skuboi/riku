@@ -1,0 +1,996 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Thunderclap Dalton</title>
+    <ns>0</ns>
+    <id>119453</id>
+    <revision>
+      <id>574745</id>
+      <parentid>574646</parentid>
+      <timestamp>2023-01-30T13:04:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1437" sha1="hxf98tzixz6akh4ay9t0esiwdv3dopz" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Thunderclap Dalton
+|image        = XC3 Black Triad.png
+|caption      = Thunderclap Dalton (middle)
+|type         = [[Levnis]]
+|level        = 43
+|area         = [[Keves Castle]] ([[Troop Reserve Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 831
+|cp           = 327
+|sp           = 5
+|gold         = 976
+|hp           = 391,500
+|strength     = 539
+|healing      = 363
+|dexterity    = 132
+|agility      = 149
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 23%
+|guardrate    = 5%
+}}
+'''Thunderclap Dalton''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 43 in the [[Troop Reserve Section]], on the 3rd Floor of [[Keves Castle]]. It forms the "The Black Triad" with [[Turbulent Martinez]] and [[Determined Vatslav]]. The Deflector Plate [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|physdebuff = 50%
+|etherdebuff = 40%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+The black triad location.png
+The black triad dalton.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hxf98tzixz6akh4ay9t0esiwdv3dopz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tiiko Shoox</title>
+    <ns>0</ns>
+    <id>121862</id>
+    <revision>
+      <id>595995</id>
+      <parentid>564957</parentid>
+      <timestamp>2023-06-16T19:39:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1103" sha1="f6ix75xb139js3x6vtj6xpy5o31rflg" xml:space="preserve">{{Infobox Enemy
+|name         = Tiiko Shoox
+|image        = 
+|caption      = Tiiko Shoox
+|category     = Minor Enemy
+|type         = [[Shoox]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Tiiko Shooxes''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Shoox]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Shooxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3FR Shooxes]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>f6ix75xb139js3x6vtj6xpy5o31rflg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tikhta Ottil</title>
+    <ns>0</ns>
+    <id>121863</id>
+    <revision>
+      <id>569991</id>
+      <parentid>569982</parentid>
+      <timestamp>2022-12-26T00:05:39Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <origin>569991</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1212" sha1="r4rgq90rb3a1wyl453xjssi2br5k455" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Tikhta Ottil
+|image        = XC3 Tikhta Ottil.jpg
+|caption      = Tikhta Ottil
+|category     = Minor Enemy
+|type         = [[Ottil]]
+|level        = 60-61
+|area         = [[Erythia Sea]] ([[Cape Arcaphor]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Swimming
+|detection    = 
+|exp          = 369
+|cp           = 88
+|sp           = 0
+|gold         = 92
+|hp           = 64,845
+|strength     = 474
+|healing      = 305
+|dexterity    = 237
+|agility      = 231
+|physdef      = -15%
+|ethdef       = 10%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+'''Tikhta Ottils''' are Minor Enemies in {{XC3}}. They are members of the [[Ottil]] family, and can be found at level 60-61 at [[Cape Arcaphor]] in the [[Erythia Sea]]. 
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 0%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 0%
+|knockback   = 0%
+|physdebuff  = 0%
+|etherdebuff = 0%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ottils]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]</text>
+      <sha1>r4rgq90rb3a1wyl453xjssi2br5k455</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Timbercorn Cthinos</title>
+    <ns>0</ns>
+    <id>117464</id>
+    <revision>
+      <id>574733</id>
+      <parentid>574712</parentid>
+      <timestamp>2023-01-30T12:56:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1324" sha1="kimlq4fqnqa67nskz84qt6j4oc2kk62" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Timbercorn Cthinos
+|image        = XC3 Timbercorn Cthinos.jpeg
+|caption      = Timbercorn Cthinos
+|category     = Unique Monster
+|type         = [[Ellook]]
+|level        = 61
+|area         = [[Captocorn Peak]] ([[Ladras Way]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,677
+|cp           = 92
+|sp           = 5
+|gold         = 944
+|hp           = 2,437,050
+|strength     = 1,359
+|healing      = 2,887
+|dexterity    = 241
+|agility      = 210
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 50%
+|guardrate    = 5%
+}}
+'''Timbercorn Cthinos''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ellook]] family and can be found at level 61 at [[Ladras Way]] on [[Captocorn Peak]]. The [[Healing Rest]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 65%
+|knockback = 75%
+|blowdown = 75%
+|physdebuff = 25%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Timbercorn cthinos location.png
+Timbercorn cthinos.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ellooks]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kimlq4fqnqa67nskz84qt6j4oc2kk62</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tirkin</title>
+    <ns>0</ns>
+    <id>8466</id>
+    <revision>
+      <id>603403</id>
+      <parentid>603401</parentid>
+      <timestamp>2023-07-26T12:49:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>cat.</comment>
+      <origin>603403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10292" sha1="4d5jjk7zhfibl73o7n4eh2dxwxgxoj8" xml:space="preserve">{{Infobox_Race
+|name            = Tirkin
+|image           = Tirkin.png
+|caption         = A Tirkin
+|habitat         = [[Bionis' Leg]]&lt;br&gt;[[Gormott Province]]&lt;br&gt;[[Kingdom of Torna]] (formerly)&lt;br/&gt;[[High Maktha Wildwood]]
+|characteristics = Bird-like humanoids
+|members         = [[Omulette]]&lt;br /&gt;[[Tirkin King]]&lt;br /&gt;[[Head Fire Dragon]]&lt;br /&gt;[[Fire Dragons Member]]&lt;br /&gt;[[Jumbo Tirkin]]&lt;br /&gt;[[Mini Tirkin]]&lt;br /&gt;[[Micro Tirkin]]
+|appearances     = {{XC}}&lt;br/&gt;{{XCFC|sublink}}&lt;br/&gt;{{XC2}}&lt;br/&gt;{{TTGC}}&lt;br/&gt;{{XC3}}&lt;br/&gt;{{XC3FR|sublink}}
+}}
+'''Tirkins''' (Japanese: {{lang|ja|&#12479;&#12540;&#12461;&#12531;}}, ''T&#257;kin'', alternate plural form '''Tirkin''') are a recurring species of sentient bird-like humanoids in the {{XC|serieslink}}. They are a type of enemy in {{XC}}, {{TTGC}}, and {{XC3FR|sublink}}, and are both a race and an enemy family in {{XC2}} and {{XC3}}. Tirkins are similar in appearance to, and may be related to, [[Chilkin]]s, which look like white Tirkins, and [[Gulkin]]s, which look like blue Tirkins. In {{XC2|-}}, white Tirkins appear in cold regions and Chilkins do not.
+
+Aside from equipment and color, all Tirkins have the same appearance. [[Totem]]s can buff some Tirkin enemies in a similar manner to [[Standard]]s.
+
+== {{XC|-}} ==
+Tirkins are humanoid enemies only found on the [[Bionis' Leg]]. They have the appearance of birds quite similar to parrots; however, they wear [[armour]] and carry [[Weapons (XC1)|weapons]] about with them. Many of them are sight monsters. There are many classes of Tirkins. A group of [[Kindred Enemy|kindred]] Tirkins can use [[Chain Attack (XC1)|Chain Attacks]].
+
+The behaviour, adornments and social structure of Tirkins strongly suggest they are an intelligent race, but they can still be harmed by the [[Monado]] unlike the [[Homs]], [[Nopon]] and [[High Entia]].
+
+=== Normal Minor Enemies ===
+* [[Archer Tirkin (XC1)|Archer Tirkin]]
+* [[Brave Tirkin (XC1)|Brave Tirkin]]
+* [[Guard Tirkin (XC1)|Guard Tirkin]]
+* [[Javelin Tirkin (XC1)|Javelin Tirkin]]
+* [[Lancer Tirkin (XC1)|Lancer Tirkin]]
+* [[Ranger Tirkin]]
+* [[Sniper Tirkin]]
+* [[Spear Tirkin (XC1)|Spear Tirkin]]
+* [[Trainer Tirkin (XC1)|Trainer Tirkin]]
+
+=== Quest Exclusive Enemy ===
+* [[Arrogant Tirkin]] (during ''[[Earnest's Solitude]]'')
+
+=== Unique Monsters ===
+* [[Field Altrich]]
+* [[Sniper Paramecia]]
+* [[Trainer Harmelon]]
+* [[Vagrant Alfead]]
+
+== {{XCFC|sub}} ==
+Tirkins appear on the [[Bionis' Shoulder]].
+
+=== Normal Minor Enemies ===
+* [[Archer Tirkin (XC1)|Archer Tirkin]]
+* [[Brave Tirkin (XC1)|Brave Tirkin]]
+* [[Spear Tirkin (XC1)|Spear Tirkin]]
+
+=== Quest Exclusive Enemy ===
+* [[Ramrod Tirkin]] (during ''[[Hekasa's Labour at Stake]]'')
+
+== {{XC2|-}} ==
+Tirkin are found primarily in [[Gormott Province]]; they are quite similar to the Tirkin from {{XC|-}}. Tirkin are shown to be a civilized bird-like humanoid race, even being able to communicate with other races of [[Alrest]]. However, the majority of them appear to make their home in smaller settlements rather than living in villages or cities and also appear to be much more primitive compared to the other races of Alrest. Despite this, some Tirkin such as the [[Fire Dragons Member|Fire Dragons]] are shown to have integrated with the rest of Alrest society in positions such as chefs or guards.
+
+Tirkin NPCs speak in a pidgin dialect of Alrest's language, similar that spoken by [[Nopon]], with similar incomplete sentences. Furthermore, the spelling of certain words is highly simplified (e.g. "mek" for "make") and the hard "c" sound is always represented as a "k" (e.g. "kannot"). In the English dub, Tirkin are depicted speaking with Cockney accents.
+
+Tirkin have a small settlement named [[Tirkinlandia]] in the [[Kingdom of Tantal]].
+
+=== NPCs ===
+* [[Head Fire Dragon]] (DLC)
+* [[Fire Dragons Member]] (DLC)
+* [[Omulette]]
+* [[Tirkin King]]
+
+=== List of Enemies ===
+A few named '''runners''' or '''scouts''' are used as scouts but this term can be used for other species. 
+
+==== Normal Minor Enemies ====
+* [[Brave Tirkin (XC2)|Brave Tirkin]]
+* [[Cardorl Tirkin]]
+* [[Drux Tirkin]]
+* [[Gaoid Tirkin]]
+* [[Haldood Tirkin]]
+* [[Hazan Scout]]
+* [[High Arrow Tirkin]]
+* [[High Shield Tirkin]]
+* [[Javelin Tirkin (XC2)|Javelin Tirkin]]
+* [[Lance Tirkin]]
+* [[Madoline Tirkin]]
+* [[Messenger Runner]]
+* [[Parady Tirkin]]
+* [[Reeg Tirkin]]
+* [[Revl Scout]]
+* [[Shadow Scout]]
+* [[Shield Tirkin]]
+* [[Shimmun Tirkin]]
+* [[Supporter Tirkin]]
+* [[Trainer Tirkin (XC2)|Trainer Tirkin]]
+* [[Trock Tirkin]]
+* [[Velvan Tirkin]]
+* [[Watcher Tirkin]]
+* [[Zigul Tirkin]]
+
+==== Story Exclusive Enemies ====
+* [[Carbis Scout]]
+* [[Deej Tirkin]]
+* [[Engineer Tirkin]]
+* [[Gattle Tirkin]]
+* [[Mailer Runner]]
+* [[Ratchet Tirkin]]
+* [[Security Tirkin]]
+* [[Vaugel Tirkin]]
+
+==== Quest Exclusive Enemies ====
+* [[Ankl Tirkin]] (during ''[[Birds of a Feather]]'')
+* [[Grambl Tirkin]] (during ''[[Star-Crossed Lovers]]'')
+* [[Hermit Tirkin]] (DLC) (during ''[[Passion of the Artisan]]'')
+* [[Infallible Tirkin]] (during ''[[Crane Criminals]]'')
+* [[Matchul Tirkin]] (during ''[[Our Daily Bread]]'')
+* [[Pilum Tirkin]] (during ''Birds of a Feather'')
+* [[Raine Tirkin]] (DLC) (during ''Passion of the Artisan'')
+* [[Resourceful Tirkin]] (during ''Crane Criminals'')
+* [[Revenge Tirkin]] (during ''[[Tirkin Suppression]]'')
+* [[Skom Tirkin]] (during ''Our Daily Bread'')
+
+==== Unique Monsters ====
+* [[Acute Melvyn]]
+* [[Dedicated Conroy]]
+
+==== Bosses ====
+* [[Jailer Tirkin]]
+* [[Tirkin (boss)|Tirkin]]
+
+==== Quest Exclusive Bosses ====
+* [[Brius Tirkin]] (during ''Our Daily Bread'')
+* [[Nongl Tirkin]] (during ''Our Daily Bread'')
+* [[Tirkin King]] (during ''Birds of a Feather'')
+
+==== Challenge Battle Mode Enemies ====
+* [[Gerbo Tirkin]]
+* [[Highbow Tirkin]]
+* [[Highpipe Tirkin]]
+* [[Highshield Tirkin]]
+* [[Highspear Tirkin]]
+* [[Marching Tirkin]]
+* [[Mob Tirkin]]
+* [[Pavisse Tirkin]]
+* [[Undying Burwell]]
+
+== {{TTGC|-}} ==
+Tirkins appear both in the [[Kingdom of Torna]] and [[Gormott (TTGC)|Gormott]].
+
+=== List of Enemies ===
+==== Normal Minor Enemies ====
+* [[Avero Tirkin]]
+* [[Cardine Tirkin]]
+* [[Dakhim Tirkin]]
+* [[Derrah Tirkin]]
+* [[Episto Tirkin]]
+* [[Grads Tirkin]]
+* [[Grat Tirkin]]
+* [[Keat Tirkin]]
+* [[Pallov Tirkin]]
+* [[Parole Tirkin]]
+* [[Tsorrid Tirkin]]
+* [[Typhon Tirkin]]
+* [[Vabra Tirkin]]
+
+=== Quest Exclusive Enemies ===
+* [[Sorgus Tirkin]] (during ''[[Armus Gone Astray]]'')
+* [[Vanadium Tirkin]] (during ''Armus Gone Astray'')
+
+=== Unique Monster ===
+* [[Scowling Quincy]]
+
+== {{XC3|-}} ==
+Tirkins appear throughout the world of [[Aionios]]. As a race, they are identical to Tirkins from Alrest. This is the first game with named Tirkin NPCs appearing permanently outside sidequests.
+
+=== NPCs ===
+* [[Jumbo Tirkin]]
+* [[Micro Tirkin]]
+* [[Mini Tirkin]]
+* [[Mlle. du Tirque]]
+* [[The Tirking]]
+* [[Tirkin Groom]]
+
+=== Enemies ===
+==== Normal Minor Enemies ====
+* [[Archbard Tirkin]]
+* [[Archbow Tirkin]]
+* [[Archer Tirkin (XC3)|Archer Tirkin]]
+* [[Archknight Tirkin]]
+* [[Archpike Tirkin]]
+* [[Arrow Tirkin (XC3)|Arrow Tirkin]]
+* [[Bardlord Tirkin]]
+* [[Bowlord Tirkin]]
+* [[Guardchief Paramecia]] (Summoned by [[King Krawkin]])
+* [[Knightlord Tirkin]]
+* [[Lancer Tirkin (XC3)|Lancer Tirkin]]
+* [[Musical Tirkin]]
+* [[Pikelord Tirkin]]
+* [[Shielder Tirkin]]
+* [[Spear Tirkin (XC3)|Spear Tirkin]]
+* [[Squire Tirkin]]
+* [[Strikechief Alfead]] (Summoned by King Krawkin)
+* [[Troupechief Harmelon]] (Summoned by King Krawkin)
+
+=== Quest Exclusive Bosses ===
+* [[Mlle. du Tirque#Battle|Mlle. du Tirque]] (During ''[[Tau-Tirkin Alliance]]'')
+* [[Rogue Tirkin]] (During ''[[Rousing Bolearis]]'')
+* [[The Tirking#Battle|The Tirking]] (During ''[[The Hunt of Plenty]]'')
+* [[Tirkin Groom#Battle|Tirkin Groom]] (During ''Tau-Tirkin Alliance'')
+
+=== Unique Monsters ===
+* [[Dimwitted Tirkin]]
+* [[Hedonist Tirkin]]
+* [[King Krawkin]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Arrow Tirkin (XC3)|Arrow Tirkin]]
+* [[Bard Tirkin]]
+* [[Dragoon Tirkin]]
+* [[Guard Tirkin (FR)|Guard Tirkin]]
+* [[Highpike Tirkin]]
+* [[Minstrel Tirkin]]
+* [[Ranged Tirkin]]
+* [[Shielder Tirkin]]
+* [[Spear Tirkin (XC3)|Spear Tirkin]]
+
+=== Unique Monster ===
+* [[Hilltop Chegwin]]
+
+=== Quest Exclusive Bosses ===
+* [[Emboscada Tirkin]] (During ''[[Bobobi's Bad, Bad Day]]'')
+* [[Naljot Tirkin]] (During ''Bobobi's Bad, Bad Day'')
+* [[&#220;berfall Tirkin]] (During ''Bobobi's Bad, Bad Day'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Spear Tirkin.jpg|A Spear Tirkin in {{XC|-}}
+Javelin Tirkin.jpg|A Javelin Tirkin in {{XC|-}}
+Archer Tirkin.jpg|An Archer Tirkin in {{XC|-}}
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Omulette.png|Omulette
+High Shield Tirkin.png|A High Shield Tirkin in {{XC2|-}}
+Fire Dragons.jpg |The Fire Dragons in {{XC2|-}}
+SkomTirkin.jpg
+Tirkin Concept Art.PNG|Tirkin concept art from {{XC2|-}}
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+CardineTirkin.png
+DakhimTirkin.png
+TyphonTirkin.jpg
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Jumbo Tirkin Icon.png|Jumbo Tirkin
+XC3 Micro Tirkin Icon.png|Micro Tirkin
+XC3 Mini Tirkin Icon.png|Mini Tirkin
+XC3 Mlle. du Tirque Icon.png|Mlle. du Tirque
+XC3 The Tirking Icon.png|The Tirking
+XC3 Tirkin Groom.png|Tirkin Groom
+XC3 Dimwitted Tirkin.png|Dimwitted Tirkin
+XC3 Hedonist Tirkin.png|Hedonist Tirkin
+XC3 King Krawkin.png|King Krawkin
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Arrow Tirkin FR.jpg|Arrow Tirkin
+Bard Tirkin FR.jpg|Bard Tirkin
+Shielder Tirkin FR.jpg|Shielder Tirkin
+Spear Tirkin FR.jpg|Spear Tirkin
+&lt;/gallery&gt;
+
+{{clr}}
+
+[[Category:XC Tirkins]]
+[[Category:XC Species]]
+[[Category:XCFC Tirkins]]
+[[Category:XCFC Species]]
+[[Category:Species Category]]
+[[Category:Sight Category]]
+[[Category:Bipedal Enemies]]
+[[Category:XC Humanoids]]
+[[Category:XC2 Tirkins]]
+[[Category:XC2 Races]]
+[[Category:XC2 Tirkin Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Humanoids]]
+[[Category:TTGC Tirkins]]
+[[Category:TTGC Species]]
+[[Category:TTGC Humanoids]]
+[[Category:XC3 Tirkins]]
+[[Category:XC3 Races]]
+[[Category:XC3 Species]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Tirkins]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:XC3FR Humanoids]]
+[[Category:Races by Type]]
+[[Category:Species by Type]]
+[[Category:Tirkins]]
+[[Category:Tirkin Enemies]]</text>
+      <sha1>4d5jjk7zhfibl73o7n4eh2dxwxgxoj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tirkin Groom</title>
+    <ns>0</ns>
+    <id>123771</id>
+    <revision>
+      <id>578386</id>
+      <parentid>577017</parentid>
+      <timestamp>2023-03-02T01:33:14Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>fix broken file link</comment>
+      <origin>578386</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1521" sha1="3kp4gxwkftqjecozb6ywhoh5v8ufxc4" xml:space="preserve">{{Infobox NPC
+|name        = Tirkin Groom
+|image       = XC3 Tirkin Groom Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Tirkin]]
+|age         = 14
+|location    = [[High Maktha Wildwood]] ([[The Tirkinhold]])
+}}
+The '''Tirkin Groom''' is an NPC in {{XC3}} who can be found in [[The Tirkinhold]] at [[High Maktha Wildwood]]. 
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Tirkin Groom
+|image        = 
+|caption      = Tirkin Groom
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Tirkin]]
+|level        = 40
+|area         = [[High Maktha Wildwood]] ([[The Tirkinhold]])
+|spawntime    = During ''[[Tau-Tirkin Alliance]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Tirkin Groom''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. He is a member of the [[Tirkin]] family, and is fought at level 40 at [[The Tirkinhold]] in [[High Maktha Wildwood]] during ''[[Tau-Tirkin Alliance]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Tirkins]]
+[[Category:Pentelas Region NPCs]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>3kp4gxwkftqjecozb6ywhoh5v8ufxc4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Titanium Support</title>
+    <ns>0</ns>
+    <id>122591</id>
+    <revision>
+      <id>592886</id>
+      <parentid>592267</parentid>
+      <timestamp>2023-05-15T20:20:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1193" sha1="5qzqowbtt3egdgfwr360pnwta5hp1a7" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Titanium Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Titanium Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 31%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Titanium Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Titanium Supports''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. It boosts the user's agility by a set amount when worn. It is used to complete [[Seeker]]'s [[Collectopaedia (XC3)|Collectopaedia Card]]. It can be bought from [[Prize X-change Red]], along with from [[Battlescar Caravan]].  
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>5qzqowbtt3egdgfwr360pnwta5hp1a7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Titanium Temple Guard</title>
+    <ns>0</ns>
+    <id>119041</id>
+    <revision>
+      <id>592887</id>
+      <parentid>592252</parentid>
+      <timestamp>2023-05-15T20:20:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="984" sha1="laifxbq8m3xknaect50mz7bk9a98wml" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Titanium Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Titanium Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 31%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Titanium Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Titanium Temple Guards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>laifxbq8m3xknaect50mz7bk9a98wml</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tohma</title>
+    <ns>0</ns>
+    <id>122260</id>
+    <revision>
+      <id>597790</id>
+      <parentid>596103</parentid>
+      <timestamp>2023-07-02T16:29:33Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597790</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1555" sha1="44p24m9urbrblk8fagaz0xtjpcu6c5u" xml:space="preserve">{{Infobox NPC
+|name        = Tohma
+|image       = Strm npc 221 0.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Agnus|Agnian]] human
+|age         = 10th Term
+|location    = [[Agnus Castle Region]]
+}}
+'''Tohma''' is an NPC in {{XC3}} who can be found in the [[Agnus Castle Region]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Tohma
+|image        = 
+|caption      = Tohma
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 57
+|area         = [[Agnus Castle Region]] ([[Ascension Grounds]])
+|spawntime    = During ''[[The Three Fiends]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Tohma''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is an [[Agnus Forces|Agnus Soldier]] who is fought alongside [[Xera]] and [[Jhodor]] at level 57 on the [[Ascension Grounds]] in the [[Agnus Castle Region]] if the party chooses to fight them during ''[[The Three Fiends]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Agnus Castle Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:Agnus Castle Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>44p24m9urbrblk8fagaz0xtjpcu6c5u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tool Belt</title>
+    <ns>0</ns>
+    <id>119019</id>
+    <revision>
+      <id>592888</id>
+      <parentid>592340</parentid>
+      <timestamp>2023-05-15T20:20:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592888</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="978" sha1="rerk1rgs4si2ewaw8i51dj19mepu016" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Tool Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Tool Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Tool Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Tool Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>rerk1rgs4si2ewaw8i51dj19mepu016</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Topple (XC3)</title>
+    <ns>0</ns>
+    <id>117056</id>
+    <revision>
+      <id>594423</id>
+      <parentid>584067</parentid>
+      <timestamp>2023-05-28T15:39:44Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <origin>594423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2325" sha1="c1ud342wei2euad9e1u05o4ri1rpgr9" xml:space="preserve">{{for|mechanics from other games|Topple}}
+{{Spoiler}}
+[[File:XC3 Topple Icon.png|thumb|Topple Icon]]
+'''Topple''' is a status in {{XC3}} and {{XC3FR|sublink}}. It causes a [[Break (XC3)|broken]] target to be knocked to the ground. A Toppled enemy or character cannot move, attack, or evade for a set amount of time. A toppled target can then be either [[Launch (XC3)|launched]] or [[Daze (XC3)|dazed]].
+
+Flying enemies may relieve themselves of Topple if they are toppled over a cliff, unlike previous games in the series. This often prevents them from being instantly killed if the cliff overlooks a bottomless pit or an otherwise fatal plunge.
+
+Certain accessories and skills have various effects related to Topple:
+* The [[Beast-Hide Vest (XC3)|Beast-Hide Vest]], [[Muscle Belt (XC3)|Muscle Belt]] and [[Champion Belt (XC3)|Champion Belt]] accessories, and the Insult to Injury and Universal Annihilation skills from the [[Ogre]] and [[Seraph]] classes respectively, increase the user's damage output against toppled enemies;
+* The [[Graphite Kneeguard]], [[Lead Kneeguard]] and [[Metallic Kneeguard]] increase the wearer's resistance to Topple;
+* The [[White Belt (XC3)|White Belt]], [[Black Belt (XC3)|Black Belt]] and [[Platinum Belt (XC3)|Platinum Belt]] increase the duration of topples inflicted by the wearer.
+
+== Topple-inflicting Arts ==
+* [[Bull Rush]] ([[Heavy Guard]])
+* [[Shield Bash (XC3)|Shield Bash]] ([[Guardian Commander]]; Master Art)
+* [[Crimson Lance]] ([[Seraph]]); Only inflicts Topple when attacking from the side.
+* [[Pirate Lariat]] ([[Triton]])
+* [[Starfall (XC3)|Starfall]] ([[Royal Summoner]])
+* [[Starlight Kick (XC1)|Starlight Kick]] ([[Melia]])
+* [[Sudden Impact]] ([[Lanz]], [[Ouroboros]]); Only inflicts Topple when Interlink is at level 3.
+* [[Grand Priest]] ([[Taion]], Ouroboros); Only inflicts Topple when Interlink is at level 3.
+* [[Aquatic Missile]] ([[Soulhacker]])
+* [[Winning Rush]] (Lanz, Ouroboros); inflicts Topple as part of a [[Launch (XC3)|Launch]] combo.
+* [[Final Lucky Seven]] ([[Noah]]); inflicts Topple as part of a [[Smash (XC3)|Smash]] combo.
+
+=== In {{XC3FR|sub}} ===
+* [[Shaker Edge (FR)|Shaker Edge]] ([[A]])
+* [[Anchor Shot]] ([[Rex]]); Only inflicts Topple when attacking from the front.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>c1ud342wei2euad9e1u05o4ri1rpgr9</sha1>
+    </revision>
+  </page>
+  </mediawiki>

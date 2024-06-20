@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Lifesage
+
+Overview:  
+Lifesage is the class of [[Nia]]. The [[Blade (XC3)|Blade]] of the Lifesage class is the Anima Sword, which is Nia's [[Weapons (XC2)|Catalyst Scimitar]] from {{XC2}}, along with watery versions of [[Pyra]] and [[Mythra]]'s [[Aegis|Aegis Swords]] floating by the user.
+
+It is unlocked by going to the [[Hall of the Serene]] in the [[Cloudkeep]] after completing the main story, or in [[New Game + (XC3)|New Game +]]. Completing the [[Hero Quest|Ascension Quest]] ''[[Grasping My Future]]'' will increase this class's [[Class Rank (XC3)|rank]] limit from 10 to 20.
+
+Arts: {'Divine Sword': 'Ignores enemy defense. Also heals all allies to a maximum of 150% of Healing Power.', 'Saber Slash': 'Heals nearby allies when Art hits, to max of 100% of Healing Power.', 'Redemption': 'Heals allies around the user.', 'Waterlily': 'Places a Regenerate |Regeneration field on the ground.', 'Hydro Blast': '30-50% chance to ignore defense and inflicts Blowdown. (Rank 1 Master Art)', 'Aqua Mind': "Continuously heals nearby allies' HP, boosts recharge speed by 25%. (Rank 10 Master Art)"}
+
+Class Skills: {'Steadfast Feelings': "Restores nearby allies' HP on Art execution. Amount healed is equal to 30-50% of user's Healing.", 'Instant Regen+': '25% chance to heal using 60-100% of Healing Power upon taking damage.', 'Enhanced Cellular Stimulus': '30-50% chance on hit to deal 100%-200% of Healing Power as defense-bypassing damage. (Rank 5 Master Skill)', 'Abundant Oceans': 'Reduces damage to allies by 10-15%, and boosts HP recovery by 10-15% (does not stack). (Rank 15 Master Skill)'}
+
+Hero Exclusive Arts: {'Last Hope': '40-50% chance to ignore defense and inflicts Blowdown.', 'Merciful Heart': 'An Ether attack that causes Knockback to enemies in front of Nia.', 'Redeeming Bloom': 'Places a Regeneration field on the ground.'}
+

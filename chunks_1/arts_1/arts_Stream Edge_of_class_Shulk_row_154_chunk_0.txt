@@ -1,0 +1,6 @@
+Art Name: Stream Edge
+
+Class: Shulk
+
+Effect: Break
+

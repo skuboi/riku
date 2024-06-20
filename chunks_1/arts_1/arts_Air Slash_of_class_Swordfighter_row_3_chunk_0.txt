@@ -1,0 +1,6 @@
+Art Name: Air Slash
+
+Class: Swordfighter
+
+Effect: Cancel Attack Up
+

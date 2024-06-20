@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Incursor
+
+Overview:  
+Incursors have a higher critical hit rate to deal more damage, and with each critical hit their attack power rises higher. It is the class of [[Alexandria]].
+
+It is unlocked by completing the [[Hero Quest]] ''[[Her Reasons]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Inescapable Past]]''.
+
+Arts: {'Supreme Sword': 'Launch |Launched↑ * Reversal Edge, Crit.+ during enemy Art * Glitter Stream, Side Break |Break (Rank 10 Master Art) * Sidewinder |Sidewinder, AOE/Back Crit. Rate+ * Aerial Slash |Aerial Slash, High Crit. Rate/Evade (Rank 1 Master Art) * Mystic Vision, Crit. Rate & dmg+'}
+
+Class Skills: {'Adroit Blade': 'Boosts damage dealt by 4-8% when landing a critical hit (up to a maximum of 150%).', 'Eye for Weak Points': 'Each successful attack boosts Critical Rate by 1-2% of inital value (up to a maximum of 100%). (Rank 15 Master Skill)', 'Floating Kill': 'Boosts Critical Rate by 60-100% when attacking a launched enemy.', 'Vigilance': 'Boosts Critial Rate of auto-attacks by 50-150%. (Rank 5 Master Skill)'}
+
+Hero Exclusive Arts: {'Etched Deep': 'Side [[Break (XC3)|Break]]', 'Luminous Illusion': 'High Crit. Rate/Evade', 'Mirage Divide': 'AOE / Mid-Art enemy↑'}
+

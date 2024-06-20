@@ -1,0 +1,6 @@
+Art Name: Double Spinning Edge
+
+Class: Rex
+
+Effect: Gain charge on crit.
+

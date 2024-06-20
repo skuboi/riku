@@ -1,0 +1,6 @@
+Art Name: Smart Bomb
+
+Class: Nikol
+
+Effect: AOE
+

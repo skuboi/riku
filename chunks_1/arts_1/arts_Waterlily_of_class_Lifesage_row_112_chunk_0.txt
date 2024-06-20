@@ -1,0 +1,6 @@
+Art Name: Waterlily
+
+Class: Lifesage
+
+Effect: Field / Regenerate
+

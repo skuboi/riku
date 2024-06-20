@@ -1,0 +1,6 @@
+Art Name: Daybreak Hymn
+
+Class: Glimmer
+
+Effect: AOE/Heal
+

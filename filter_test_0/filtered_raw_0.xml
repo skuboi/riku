@@ -1,0 +1,2945 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>A Gray Matter</title>
+    <ns>0</ns>
+    <id>120395</id>
+    <revision>
+      <id>577163</id>
+      <parentid>575902</parentid>
+      <timestamp>2023-02-16T15:03:52Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1336" sha1="fu2xojl6urkh9dxdzojj2hqfdeekmvp" xml:space="preserve">{{Infobox quest
+|name        = A Gray Matter
+|image       = XC3 A Gray Matter.jpg
+|description = "The party make an unusual find in Millick Meadows, bringing them into conflict with an unidentified man, who was searching for the same thing."
+|giver       = [[Gray]]
+|location    = [[Millick Meadows]] ([[Murmur Rise]])
+|time        = 
+|prereqs     = Chapter 3 started
+|reclevel    = Lv. 26
+|rewards     = 100 [[City]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;940 [[Experience Points (XC3)|EXP]]&lt;br/&gt;1210 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Trigonal Origin Shard]]&lt;br/&gt;[[Gray]] as a [[Hero]]
+}}
+'''A Gray Matter''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Gray]].
+
+== Objectives ==
+# ''Defeat the specified foe(s).''
+#* [[Gray#Battle|Mystery Man]]
+# ''Defeat the specified foe(s).''
+#* Colony 23 Patrol (5)
+#** [[Keves Sniper Elite]]
+#** [[Keves Trooper]] (2)
+#** [[Keves Warrior]] (2)
+# ''Follow the trail.''
+#* Mystery Man's Trail
+# ''Defeat the specified foe(s).''
+#* Colony 23 Patrol (5)
+#** [[Keves Sniper Elite]]
+#** [[Keves Trooper]]
+#** [[Keves Warrior]]
+#** [[Sagittarius]] (2)
+
+== Results ==
+''"The mysterious man gave you his name: Gray. He also seemed to know that Noah and co. were Ouroboros, and ultimately offered them his help."''
+{{clr}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Gray]]
+[[Category:Aetia Region Quests]]</text>
+      <sha1>fu2xojl6urkh9dxdzojj2hqfdeekmvp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>A Nopon's Counsel</title>
+    <ns>0</ns>
+    <id>120393</id>
+    <revision>
+      <id>578837</id>
+      <parentid>577161</parentid>
+      <timestamp>2023-03-08T21:50:21Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>578837</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1659" sha1="nhcap9fxyua1obhsf1rgonu1012rpf0" xml:space="preserve">{{Infobox quest
+|name        = A Nopon's Counsel
+|image       = XC3 A Nopon's Counsel.jpg
+|description = "Go and find a gemstone that Riku will like as you make your way through the Urayan Tunnels."
+|giver       = [[Riku]] &amp; [[Manana]]
+|location    = [[Urayan Tunnels]] ([[Garf Mine Track]])
+|time        = Story
+|prereqs     = 
+|reclevel    = Lv. 24
+|rewards     = 500 [[Nopon Caravans]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;1440 [[Experience Points (XC3)|EXP]]&lt;br/&gt; 1650 [[Gold|G]]&lt;br/&gt; 10 [[Soul Tree|SP]]&lt;br/&gt; [[Ultra Pure Gemstone]]&lt;br/&gt; [[Riku &amp; Manana]] as a [[Hero]]
+}}
+'''A Nopon's Counsel''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Riku &amp; Manana]]. Completing this quest is required to progress the story.
+
+== Objectives ==
+# ''Head for the specified location(s).''
+#* [[Elevator No. 1]]
+# ''Perform the specified action(s).''
+#* Start up Elevator No. 1
+# ''Head for the specified location(s).''
+#* Elevator No. 1
+# ''Head for the specified location(s).''
+#* [[Mine No. 1]]
+# ''Investigate the specified object(s).''
+#* Mineral deposit
+#* Mineral deposit
+#* Mineral deposit
+# ''Head for the specified location(s).''
+#* [[Ruins of Seebu]] Area
+# ''[[Rest Spot (XC3)|Rest]] up at the [[Ruins of Seebu Camp]].''
+# ''Head for the specified location(s).''
+#* South of Ruins of Seebu
+# ''Defeat the specified foe(s).''
+#* Gem-Crazy Spiders (6)
+#** [[Princess Arachno]]
+#** [[Savant Arachno]] (5)
+
+== Results ==
+''"During your gemstone hunt, Riku and Manana found a way to fight together as a pair, making them even handier than before."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Riku &amp; Manana]]
+[[Category:Pentelas Region Quests]]</text>
+      <sha1>nhcap9fxyua1obhsf1rgonu1012rpf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>A Twist of Fate</title>
+    <ns>0</ns>
+    <id>120403</id>
+    <revision>
+      <id>580629</id>
+      <parentid>578838</parentid>
+      <timestamp>2023-03-28T10:36:08Z</timestamp>
+      <contributor>
+        <username>Mario123007</username>
+        <id>25075338</id>
+      </contributor>
+      <origin>580629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1330" sha1="0g2oywl74ft470jd1n2f5zkneznxgbw" xml:space="preserve">{{spoiler}}
+{{Infobox quest
+|name        = A Twist of Fate
+|image       = A Twist of Fate.jpg 
+|description = "Suddenly reunited with the party, the party invite Cammuravi to live on his own terms. Safety can be guaranteed in the City, for the time being."
+|giver       = [[Cammuravi]]
+|location    = [[Captocorn Peak]] ([[Colony Omega]])
+|time        = 
+|prereqs     = ''[[Side Story: Mio]]'' completed
+|reclevel    = Lv. 52
+|rewards     = 400 [[City]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;3920 [[Experience Points (XC3)|EXP]]&lt;br/&gt; 3680 [[Gold|G]]&lt;br/&gt; 10 [[Soul Tree|SP]]&lt;br/&gt;[[Cammuravi]] is a [[Hero]]
+}}
+'''A Twist of Fate''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Cammuravi]].
+
+== Objectives ==
+# ''Talk with the specified character(s).''
+#* Armory Pilot
+# ''Head for the specified location(s).''
+#* [[Module Warehouse]]
+# ''Follow the trail.''
+#* Somebody's Tracks
+# ''Search for [[Ethel]] around [[Centrilo Parade]].''
+# ''Talk with the specified character(s).''
+#* [[Travis]]
+
+== Results ==
+''"After so many twists and turns, Ethel and Cammuravi decided to live on and survive together. Perhaps this is fate at work?"''
+
+== Trvia ==
+* This quest is Ethel's only quest appearance outside of her own hero quest.
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Cammuravi]]
+[[Category:Aetia Region Quests]]</text>
+      <sha1>0g2oywl74ft470jd1n2f5zkneznxgbw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Abgran Anlood</title>
+    <ns>0</ns>
+    <id>123000</id>
+    <revision>
+      <id>596661</id>
+      <parentid>596658</parentid>
+      <timestamp>2023-06-18T21:35:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Undo revision 596658 by [[Special:Contributions/Jacob Proper|Jacob Proper]] ([[User talk:Jacob Proper|talk]])</comment>
+      <origin>596661</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="865" sha1="9o2rifvi4rp94l4a2pxwbqk0k2z0mfe" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Abgran Anlood
+|image        = Abgran Anlood.jpg
+|caption      = Abgran Anlood
+|category     = Normal Enemy
+|type         = [[Anlood]]
+|level        = 61
+|area         = [[Great Cotte Falls]]&lt;br/&gt;[[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Abgran Anloods''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Anlood]] family, and can be found at level 61 at [[Great Cotte Falls]] and in [[High Maktha Wildwood]], on the path leading to the [[Cotte Fountainhead]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9o2rifvi4rp94l4a2pxwbqk0k2z0mfe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Abiddea Serprond</title>
+    <ns>0</ns>
+    <id>121115</id>
+    <revision>
+      <id>583436</id>
+      <parentid>559499</parentid>
+      <timestamp>2023-04-18T18:16:17Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583436</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="1wuel58nwyi1zk9ob9azp7yo95koarx" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Abiddea Serprond
+|image        = 
+|caption      = Abiddea Serprond
+|category     = Normal Enemy
+|type         = [[Serprond]]
+|level        = 55
+|area         = [[Rae-Bel Tableland]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Abiddea Serpronds''' are Minor Enemies in {{XC3}}. They are members of the [[Serprond]] family, and can be found at level 55 in [[Rae-Bel Tableland]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Serpronds]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1wuel58nwyi1zk9ob9azp7yo95koarx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Abysmal Rakshmi</title>
+    <ns>0</ns>
+    <id>119482</id>
+    <revision>
+      <id>581063</id>
+      <parentid>581052</parentid>
+      <timestamp>2023-03-31T12:54:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <origin>581063</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1522" sha1="kjqvmc1haaszpwcdm7ji57vofqhzkci" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Abysmal Rakshmi
+|image        = XC3 Abysmal Rakshmi.png
+|caption      = Abysmal Rakshmi
+|type         = [[Arachno]]
+|level        = 64
+|area         = [[Erythia Sea]] ([[Lavi Sandbar]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,650
+|cp           = 679
+|sp           = 5
+|gold         = 3,012
+|hp           = 2,059,200
+|strength     = 1,019
+|healing      = 473
+|dexterity    = 230
+|agility      = 232
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 15%
+|guardrate-front   = 15%
+|guardrate-side    = 10%
+|guardrate-back    = 0%
+}}
+'''Abysmal Rakshmi''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Arachno]] family, and can be found at level 64 beneath the [[Sandbar Ferronis Hulk]] on [[Lavi Sandbar]] in [[Erythia Sea]]. The "Queen of Mercy" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 60%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = 80%
+}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Abysmal rakshmi location.png
+Abysmal rakshmi.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Arachnos]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kjqvmc1haaszpwcdm7ji57vofqhzkci</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Abyssal Medooz</title>
+    <ns>0</ns>
+    <id>123999</id>
+    <revision>
+      <id>592997</id>
+      <parentid>582458</parentid>
+      <timestamp>2023-05-16T13:51:36Z</timestamp>
+      <contributor>
+        <username>Xolimpha</username>
+        <id>30499430</id>
+      </contributor>
+      <minor/>
+      <comment>removed duplicate arguments</comment>
+      <origin>592997</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1110" sha1="dg5clomaa45cjpf4onukb4d4gf1lvoa" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Abyssal Medooz
+|image        = 
+|caption      = Abyssal Medooz
+|category     = Normal Minor Enemy
+|type         = [[Medooz]]
+|level        = 58
+|area         = [[Erythia Sea]] ([[Welkin Falls]])
+|spawntime    = Summoned by [[Otherworldly Rodsin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Abyssal Medoozes''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Medooz]] family, and can be found at level 58 at [[Welkin Falls]] in [[Erythia Sea]] when summoned by the [[Unique Monster (XC3)|Unique Monster]] [[Otherworldly Rodsin]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Medoozes]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dg5clomaa45cjpf4onukb4d4gf1lvoa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accessory (XC3)</title>
+    <ns>0</ns>
+    <id>117561</id>
+    <revision>
+      <id>599216</id>
+      <parentid>598539</parentid>
+      <timestamp>2023-07-09T16:19:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>599216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="126240" sha1="slqwowxl6ycwzsmoe19bduste9fp4km" xml:space="preserve">{{for|the type of equpiment in {{XC2}}|Accessory (XC2)}}
+'''Accessories''' (Japanese: {{lang|ja|&#12450;&#12463;&#12475;&#12469;&#12522;&#12540;}}, ''Akusesar&#299;'') are a type of equipment in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+They are items worn by the six main characters and heroes that strengthen them in various ways, from increasing maximum [[Hit Points (XC3)|HP]], to healing on criticals, or increasing resistance to debuffs. They can be purchased from Accessory [[Shop (XC3)|Shops]], received as enemy drops, [[Craft Accessories|crafted]], or received as rewards from [[Quest (XC3)|Quests]] and [[Challenge Battle Mode]]. They are similar to [[Accessory (XC2)|Accessories]] in {{XC2}}, and compared to {{XC}} and {{XCX}}, the Accessory mechanic somewhat works like a mix of both [[armour]]/[[armor]] and [[Gem]]s/[[Augment]]s mechanics. 
+
+All heroes are equipped with specific Accessories when first acquired, but these accessories cannot be altered until beating the game, or starting [[New Game + (XC3)|New Game +]]. Each character has three slots to equip accessories, though only one slot is available initially; the second and third slots are unlocked upon [[Level (XC3)|leveling up]] to levels 30 and 50 respectively.
+
+Many accessories have a suggested role associated to them, which recommends them being equipped by characters assuming that role; sorting the accessories by "Recommended" will list all such accessories corresponding to the character's role first. However, there are no role restrictions on equipping accessories.
+
+=== In {{XC3FR|sub}} ===
+In {{XC3FR|sub}}, Accessory slots are unlocked through the use of [[Accessory Unlock Kit]]s, instead of automatically being unlocked after reaching a certain level.
+
+Additionally, once [[W (FR)|Moebius W]] is defeated, all party members will obtain an additional accessory slot. This slot can only be used to equip Manuals, a type of accessory exclusive to {{XC3FR|sub}} that changes a character's Heroic Chain and/or Completion Bonus during a [[Chain Attack (XC3)|Chain Attack]]. Manuals cannot be equipped to the standard accessory slots.
+
+== Types of Accessories ==
+&lt;!-- The discussion on accessory names did not go very far, so for now I'll use the names for XC2 accessories, since they share the same sprite. Additionally, I don't seem to see any instance of cube accessories anywhere, so that sprite might end up unused - MagmaHound --&gt;
+{| align="center" style="text-align:center;"
+| [[File:XC3 Accessory Cap.png|96px]]
+| [[File:XC3 Accessory Gauntlet.png|96px]]
+| [[File:XC3 Accessory Shirt.png|96px]]
+| [[File:XC3 Accessory Boot.png|96px]]
+| [[File:XC3 Accessory Belt.png|96px]]
+|-
+| Hats
+| Gloves
+| Vests
+| Shoes
+| Belts
+|}
+{| align="center" style="text-align:center;"
+|-
+| [[File:XC3 Accessory Choker.png|96px]]
+| [[File:XC3 Accessory Ring.png|96px]]
+| [[File:XC3 Accessory Medal.png|96px]]
+| [[File:XC3 Accessory Pack.png|96px]]
+| [[File:XC3FR Accessory Manual.png|96px]]
+|-
+| Chokers
+| Jewelry
+| Medals
+| Other
+| Manuals &lt;small&gt;(''FR'' only)&lt;/small&gt;
+|}
+
+== List of Accessories ==
+&lt;!-- Additional confirmation needed on the type of the DLC accessories, particularly the Accomplished series - MagmaHound --&gt;
+&lt;tabber&gt;
+|-|Hats=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Bronze Temple Guard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts maximum HP by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts maximum HP by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts maximum HP by 22%.
+|-
+|rowspan="3"| [[Iron Temple Guard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts maximum HP by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts maximum HP by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts maximum HP by 27%.
+|-
+|rowspan="3"| [[Titanium Temple Guard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts maximum HP by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts maximum HP by 31%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts maximum HP by 32%.
+|-
+| [[Carbide Temple Guard]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts maximum HP by 35%.
+|-
+| [[Accomplished Crown]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts maximum HP by 40%.
+|-
+|rowspan="3"| [[Circlet of Intellect]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Healing by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Healing by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Healing by 22%.
+|-
+|rowspan="3"| [[Circlet of Wisdom]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Healing by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Healing by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Healing by 27%.
+|-
+|rowspan="3"| [[Circlet of Enlightenment]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Healing by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Healing by 31%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Healing by 32%.
+|-
+| [[Circlet of All-Knowing]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Healing by 35%.
+|-
+|rowspan="3"| [[Ice Headband (XC3)|Ice Headband]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Critical Rate by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Critical Rate by 22%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Critical Rate by 25%.
+|-
+|rowspan="3"| [[Optical Headband (XC3)|Optical Headband]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Critical Rate by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Critical Rate by 32%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Critical Rate by 35%.
+|-
+|rowspan="3"| [[Crimson Headband (XC3)|Crimson Headband]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Critical Rate by 40%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Critical Rate by 42%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Critical Rate by 45%.
+|-
+| [[Soulgaze Headband]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Critical Rate by 50%.
+|-
+|rowspan="3"| [[Search Headgear]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Critical Rate by 5 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Critical Rate by 6 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Critical Rate by 7 percentage points.
+|-
+|rowspan="3"| [[Detector Headgear]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Critical Rate by 10 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Critical Rate by 11 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Critical Rate by 12 percentage points.
+|-
+|rowspan="3"| [[Thermo Headgear]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Critical Rate by 15 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Critical Rate by 16 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Critical Rate by 17 percentage points.
+|-
+|rowspan="3"| [[Soldier's Headband]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Physical Defense by 5 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Physical Defense by 6 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Physical Defense by 7 percentage points.
+|-
+|rowspan="3"| [[Sergeant's Headband]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Physical Defense by 10 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Physical Defense by 11 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Physical Defense by 12 percentage points.
+|-
+| [[Fighting Headband]]
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Adds 10% chance to grant Power Charge when evading.
+|-
+|rowspan="3"| [[Beast Mask]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from behind by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from behind by 17%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from behind by 19%.
+|-
+|rowspan="3"| [[Ghillie Mask]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from behind by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from behind by 22%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from behind by 24%.
+|-
+|rowspan="3"| [[Scale Mask]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from behind by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from behind by 27%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from behind by 29%.
+|-
+| [[Mask of Banishing]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from behind by 30%.
+|-
+|rowspan="3"| [[Black Mask]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Terrestial Life by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Terrestial Life by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Terrestial Life by 60%.
+|-
+|rowspan="3"| [[Shadow Mask]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Terrestial Life by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Terrestial Life by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Terrestial Life by 80%.
+|-
+|rowspan="3"| [[Hermit Mask]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Terrestial Life by 90%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Terrestial Life by 95%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Terrestial Life by 100%.
+|-
+|rowspan="3"| [[Feather Band]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Aerial Life by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Aerial Life by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Aerial Life by 60%.
+|-
+|rowspan="3"| [[Black Feather Band]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Aerial Life by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Aerial Life by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Aerial Life by 80%.
+|-
+|rowspan="3"| [[Rainbow Feather Band]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Aerial Life by 90%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Aerial Life by 95%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Aerial Life by 100%.
+|-
+|rowspan="3"| [[Aural Enhance Sensor]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy during the night by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy during the night by 25%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy during the night by 30%.
+|-
+|rowspan="3"| [[Ultra Aural Sensor]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy during the night by 35%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy during the night by 40%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy during the night by 45%.
+|-
+|rowspan="3"| [[Sonic Sensor]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy during the night by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy during the night by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy during the night by 60%.
+|-
+|rowspan="3"| [[Long-Range Memory]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="3 units, as seen in character build"&gt;Extends range of ranged attacks.&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="4 units, as seen in character build"&gt;Extends range of ranged attacks.&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="5 units, as seen in character build"&gt;Extends range of ranged attacks.&lt;/abbr&gt;
+|-
+| [[Chaotic Memory]]
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Arts which are canceled into cannot be blocked or evaded.
+|-
+| [[Glass Memory]]
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Reduce aggro toward self by 5% when auto-attack hits.
+|-
+| [[Emergency Bandana]]
+| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts ally revival speed for each incapacitated ally.
+|-
+| [[Analyzer Scope]]
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || At start of Chain Attack, increases TP by 10.
+|-
+| [[Brute Memory]]
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || 100% chance to survive a KO with 1 HP and five seconds of invincibility (once per battle, does not stack).
+|-
+|rowspan="3"| [[Iron Headband (XC3)|Iron Headband]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Daze resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Daze resistance by 25 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Daze resistance by 30 percentage points.
+|-
+|rowspan="3"| [[Lazure Headband (XC3)|Lazure Headband]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Daze resistance by 35 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Daze resistance by 40 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Daze resistance by 45 percentage points.
+|-
+|rowspan="3"| [[Golden Headband (XC3)|Golden Headband]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Daze resistance by 50 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Daze resistance by 55 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Daze resistance by 60 percentage points.
+|-
+|rowspan="3"| [[Pale Memory]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Expands the window of opportunity for canceling by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Expands the window of opportunity for canceling by 25%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Expands the window of opportunity for canceling by 30%.
+|-
+|rowspan="3"| [[Light Memory]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Expands the window of opportunity for canceling by 35%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Expands the window of opportunity for canceling by 40%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Expands the window of opportunity for canceling by 45%.
+|-
+|rowspan="3"| [[Boost Memory]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Expands the window of opportunity for canceling by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Expands the window of opportunity for canceling by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Expands the window of opportunity for canceling by 60%.
+|-
+|rowspan="3"| [[Luminous Memory]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends stance duration by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends stance duration by 30%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends stance duration by 35%.
+|-
+|rowspan="3"| [[Expanding Memory]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends stance duration by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends stance duration by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends stance duration by 60%.
+|-
+| [[Divining Hairgrip]]
+| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || 90% chance to avoid waking enemy from Sleep when auto-attack hits.
+|-
+| [[Four Sea Hairgrip]]
+| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || 90% chance to avoid waking enemy from Sleep when Art hits.
+|-
+| [[Accomplished Hairpiece]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When landing a hit, deals damage as though enemy's ether defense was 35% lower.
+|}
+|-|Gloves=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Rainbow Gloves (XC3)|Rainbow Gloves]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Dexterity by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Dexterity by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Dexterity by 22%.
+|-
+|rowspan="3"| [[Hero Gloves (XC3)|Hero Gloves]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Dexterity by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Dexterity by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Dexterity by 27%.
+|-
+|rowspan="3"| [[Rainbow Gloves (XC3)|Carbon Gloves]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Dexterity by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Dexterity by 31%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Dexterity by 32%.
+|-
+| [[Nanotech Gloves]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Dexterity by 35%.
+|-
+|rowspan="3"| [[Misanga]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 15% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 16% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 17% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Iron Misanga]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 20% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 21% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 22% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Feather Misanga]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 25% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 26% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 27% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Work Gloves]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 15% while Art is active.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 16% while Art is active.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 17% while Art is active.
+|-
+|rowspan="3"| [[Engineer Gloves]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 20% while Art is active.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 21% while Art is active.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 22% while Art is active.
+|-
+|rowspan="3"| [[Tactical Gloves]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 25% while Art is active.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 26% while Art is active.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 27% while Art is active.
+|-
+|rowspan="3"| [[Power Bangle]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from the front by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from the front by 17%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the front by 19%.
+|-
+|rowspan="3"| [[Strike Bangle]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from the front by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from the front by 22%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the front by 24%.
+|-
+|rowspan="3"| [[Induction Bangle]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from the front by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from the front by 27%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the front by 29%.
+|-
+| [[Mighty Bangle]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the front by 30%.
+|-
+|rowspan="3"| [[Bronze Gauntlet]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from the side by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from the side by 17%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the side by 19%.
+|-
+|rowspan="3"| [[Adamantine Gauntlet]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from the side by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from the side by 22%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the side by 24%.
+|-
+|rowspan="3"| [[Jewel Beetle Gauntlet]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking from the side by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking from the side by 27%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the side by 29%.
+|-
+| [[Silver Gauntlet]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking from the side by 30%.
+|-
+|rowspan="3"| [[White Wraps]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking launched enemies by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking launched enemies by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking launched enemies by 60%.
+|-
+|rowspan="3"| [[Leather Wraps]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking launched enemies by 75%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking launched enemies by 80%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking launched enemies by 85%.
+|-
+|rowspan="3"| [[Fiber Wraps]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking launched enemies by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking launched enemies by 105%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking launched enemies by 110%.
+|-
+|rowspan="3"| [[Apprentice Vambraces (XC3)|Apprentice Vambraces]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 25%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 30%.
+|-
+|rowspan="3"| [[Warrior's Armlet]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 35%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 40%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 45%.
+|-
+|rowspan="3"| [[Hero Vambraces (XC3)|Hero Vambraces]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking higher-leveled enemies by 60%.
+|-
+|rowspan="3"| [[Leather Gloves (XC3)|Leather Gloves]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy by 2% each time an enemy evades an attack (up to a maximum of 50%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy by 2.5% each time an enemy evades an attack (up to a maximum of 50%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy by 3% each time an enemy evades an attack (up to a maximum of 50%).
+|-
+|rowspan="3"| [[Smithy Gloves (XC3)|Smithy Gloves]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy by 4% each time an enemy evades an attack (up to a maximum of 50%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy by 4.5% each time an enemy evades an attack (up to a maximum of 50%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy by 5% each time an enemy evades an attack (up to a maximum of 50%).
+|-
+|rowspan="3"| [[Fire Bangle]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Blaze by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Blaze by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Blaze by 60%.
+|-
+|rowspan="3"| [[Flame Bangle]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Blaze by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Blaze by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Blaze by 80%.
+|-
+|rowspan="3"| [[Challenger Gauntlet]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Deal 25% more damage but take 10% more damage.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Deal 30% more damage but take 10% more damage.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Deal 35% more damage but take 10% more damage.
+|-
+|rowspan="3"| [[Victor Gauntlet]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Deal 50% more damage but take 20% more damage.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Deal 55% more damage but take 20% more damage.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Deal 60% more damage but take 20% more damage.
+|-
+|rowspan="3"| [[Black Steel Band]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts aggro generated from auto-attacks by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts aggro generated from auto-attacks by 20%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts aggro generated from auto-attacks by 25%.
+|-
+|rowspan="3"| [[Lazure Vambraces (XC3)|Lazure Vambraces]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts aggro generated from auto-attacks by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts aggro generated from auto-attacks by 35%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts aggro generated from auto-attacks by 40%.
+|-
+|rowspan="3"| [[Wind Bracelet]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="Base game"&gt;Master Arts&lt;/abbr&gt;/&lt;abbr title="Future Redeemed"&gt;Ouroboros Powers&lt;/abbr&gt; will be 40% charged when starting a battle.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="Base game"&gt;Master Arts&lt;/abbr&gt;/&lt;abbr title="Future Redeemed"&gt;Ouroboros Powers&lt;/abbr&gt; will be 45% charged when starting a battle.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="Base game"&gt;Master Arts&lt;/abbr&gt;/&lt;abbr title="Future Redeemed"&gt;Ouroboros Powers&lt;/abbr&gt; will be 50% charged when starting a battle.
+|-
+|rowspan="3"| [[Gust Bracelet]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="Base game"&gt;Master Arts&lt;/abbr&gt;/&lt;abbr title="Future Redeemed"&gt;Ouroboros Powers&lt;/abbr&gt; will be 90% charged when starting a battle.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="Base game"&gt;Master Arts&lt;/abbr&gt;/&lt;abbr title="Future Redeemed"&gt;Ouroboros Powers&lt;/abbr&gt; will be 95% charged when starting a battle.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="Base game"&gt;Master Arts&lt;/abbr&gt;/&lt;abbr title="Future Redeemed"&gt;Ouroboros Powers&lt;/abbr&gt; will be 100% charged when starting a battle.
+|-
+|rowspan="3"| [[Charm Bangle (XC3)|Charm Bangle]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 60% resistance to Shackle Healing.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 65% resistance to Shackle Healing.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 70% resistance to Shackle Healing.
+|-
+|rowspan="3"| [[Belemnite Bangle (XC3)|Belemnite Bangle]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 90% resistance to Shackle Healing.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 95% resistance to Shackle Healing.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 100% resistance to Shackle Healing.
+|-
+| [[Accomplished Vambraces]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Lowers attack target's Break resistance by 30 percentage points.
+|}
+|-|Vests=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Gear Support]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Agility by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Agility by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Agility by 22%.
+|-
+|rowspan="3"| [[Jade Support]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Agility by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Agility by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Agility by 27%.
+|-
+|rowspan="3"| [[Titanium Support]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Agility by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Agility by 31%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Agility by 32%.
+|-
+| [[Carbide Support]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Agility by 35%.
+|-
+|rowspan="3"| [[Warrior's Armor Vest]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Physical Defense by 10%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Physical Defense by 11%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Physical Defense by 12%.
+|-
+|rowspan="3"| [[Fierce Armor Vest]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Physical Defense by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Physical Defense by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Physical Defense by 17%.
+|-
+|rowspan="3"| [[Berserker's Armor Vest]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Physical Defense by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Physical Defense by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Physical Defense by 22%.
+|-
+|rowspan="3"| [[Armored Lining]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Ether Defense by 10%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Ether Defense by 11%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Ether Defense by 12%.
+|-
+|rowspan="3"| [[Shell Lining]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Ether Defense by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Ether Defense by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Ether Defense by 17%.
+|-
+|rowspan="3"| [[Asylum Lining]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Ether Defense by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Ether Defense by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Ether Defense by 22%.
+|-
+|rowspan="3"| [[Swimmer's Chemise]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Ether Defense by 5 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Ether Defense by 6 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Ether Defense by 7 percentage points.
+|-
+|rowspan="3"| [[Crystalline Chemise]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Ether Defense by 10 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Ether Defense by 11 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Ether Defense by 12 percentage points.
+|-
+|rowspan="3"| [[Spiked Pauldrons (XC3)|Spiked Pauldrons]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Smash damage by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Smash damage by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Smash damage by 60%.
+|-
+|rowspan="3"| [[Jet Pauldrons (XC3)|Jet Pauldrons]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Smash damage by 75%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Smash damage by 80%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Smash damage by 85%.
+|-
+|rowspan="3"| [[Hero Pauldrons (XC3)|Hero Pauldrons]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Smash damage by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Smash damage by 105%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Smash damage by 110%.
+|-
+| [[Expansion Holder]]
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends area of effect of attack Arts which have one by 50%.
+|-
+| [[Rigid Support]]
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || On blocking, boosts recharge of one Art at random by 10%.
+|-
+|rowspan="3"| [[Fiber Underguard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 60% resistance to Shackle Blocking.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 65% resistance to Shackle Blocking.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 70% resistance to Shackle Blocking.
+|-
+|rowspan="3"| [[Ceramic Underguard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 90% resistance to Shackle Blocking.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 95% resistance to Shackle Blocking.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 100% resistance to Shackle Blocking.
+|}
+|-|Shoes=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Light Weak Guard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Block Rate by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Block Rate by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 22%.
+|-
+|rowspan="3"| [[Heavy Weak Guard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Block Rate by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Block Rate by 31%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 32%.
+|-
+|rowspan="3"| [[Solid Weak Guard]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Block Rate by 40%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Block Rate by 41%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 42%.
+|-
+| [[Full Weak Guard]] &lt;small&gt;(DLC)&lt;/small&gt; 
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 50%.
+|-
+|rowspan="3"| [[Shell Protector]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Block Rate by 20% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Block Rate by 21% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 22% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Smart Protector]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Block Rate by 30% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Block Rate by 31% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 32% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Hyper Protector]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Block Rate by 40% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Block Rate by 41% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 42% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Herald's Kneeguard]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 10% while moving.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 11% while moving.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 12% while moving.
+|-
+|rowspan="3"| [[Scout's Kneeguard]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 15% while moving.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 16% while moving.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 17% while moving.
+|-
+|rowspan="3"| [[Survivor Kneeguard]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 20% while moving.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 21% while moving.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 22% while moving.
+|-
+|rowspan="3"| [[Foot Protector]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 10% while stationary or auto-attacking.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 11% while stationary or auto-attacking.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 12% while stationary or auto-attacking.
+|-
+|rowspan="3"| [[Heavy Foot Protector]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 15% while stationary or auto-attacking.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 16% while stationary or auto-attacking.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 17% while stationary or auto-attacking.
+|-
+|rowspan="3"| [[Metal Foot Protector]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts evasion by 20% while stationary or auto-attacking.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts evasion by 21% while stationary or auto-attacking.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts evasion by 22% while stationary or auto-attacking.
+|-
+|rowspan="3"| [[Sturdy Anklets]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Reduces damage taken by 10% while performing Art.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Reduces damage taken by 12% while performing Art.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Reduces damage taken by 15% while performing Art.
+|-
+|rowspan="3"| [[Vigorous Anklets]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Reduces damage taken by 20% while performing Art.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Reduces damage taken by 22% while performing Art.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Reduces damage taken by 25% while performing Art.
+|-
+|rowspan="3"| [[Star Anklets]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends duration when quelling enemy rage with Burst by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends duration when quelling enemy rage with Burst by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends duration when quelling enemy rage with Burst by 60%.
+|-
+|rowspan="3"| [[Moon Anklets]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends duration when quelling enemy rage with Burst by 75%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends duration when quelling enemy rage with Burst by 80%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends duration when quelling enemy rage with Burst by 85%.
+|-
+|rowspan="3"| [[Cosmos Anklets]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends duration when quelling enemy rage with Burst by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends duration when quelling enemy rage with Burst by 105%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends duration when quelling enemy rage with Burst by 110%.
+|-
+|rowspan="3"| [[Wind Leg Frame]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 20% for the first 30 seconds of battle.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 25% for the first 30 seconds of battle.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 30% for the first 30 seconds of battle.
+|-
+|rowspan="3"| [[Gale Leg Frame]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 35% for the first 30 seconds of battle.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 40% for the first 30 seconds of battle.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 45% for the first 30 seconds of battle.
+|-
+|rowspan="3"| [[Cyrus Leg Frame]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 50% for the first 30 seconds of battle.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 55% for the first 30 seconds of battle.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 60% for the first 30 seconds of battle.
+|-
+|rowspan="3"| [[Soft Foot Wraps]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt indoors by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt indoors by 22%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt indoors by 25%.
+|-
+|rowspan="3"| [[Strong Foot Wraps]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt indoors by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt indoors by 32%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt indoors by 35%.
+|-
+|rowspan="3"| [[Special Foot Wraps]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt indoors by 40%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt indoors by 42%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt indoors by 45%.
+|-
+|rowspan="3"| [[Graphite Kneeguard]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Topple resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Topple resistance by 25 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Topple resistance by 30 percentage points.
+|-
+|rowspan="3"| [[Lead Kneeguard]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Topple resistance by 35 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Topple resistance by 40 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Topple resistance by 45 percentage points.
+|-
+|rowspan="3"| [[Metallic Kneeguard]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Topple resistance by 50 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Topple resistance by 55 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Topple resistance by 60 percentage points.
+|-
+|rowspan="3"| [[Silver Anklets]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Blowdown resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Blowdown resistance by 25 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Blowdown resistance by 30 percentage points.
+|-
+|rowspan="3"| [[Golden Anklets]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Blowdown resistance by 35 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Blowdown resistance by 40 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Blowdown resistance by 45 percentage points.
+|-
+|rowspan="3"| [[Platinum Anklets]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Blowdown resistance by 50 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Blowdown resistance by 55 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Blowdown resistance by 60 percentage points.
+|-
+|rowspan="3"| [[Fur Socks]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Knockback resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Knockback resistance by 25 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Knockback resistance by 30 percentage points.
+|-
+|rowspan="3"| [[Solid Socks]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Knockback resistance by 35 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Knockback resistance by 40 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Knockback resistance by 45 percentage points.
+|-
+|rowspan="3"| [[Flood Socks]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Knockback resistance by 50 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Knockback resistance by 55 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Knockback resistance by 60 percentage points.
+|-
+| [[Crystal Anklets]]
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Ignore Blowdown and Launch by somersaulting.
+|}
+|-|Belts=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Steam Belt (XC3)|Steam Belt]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Attack by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Attack by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Attack by 22%.
+|-
+|rowspan="3"| [[Silver Belt (XC3)|Silver Belt]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Attack by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Attack by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Attack by 27%.
+|-
+|rowspan="3"| [[Ceramic Belt (XC3)|Ceramic Belt]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts Attack by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts Attack by 31%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Attack by 32%.
+|-
+| [[Sapphire Belt]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Attack by 35%.
+|-
+|rowspan="3"| [[Plate Belt]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Deal 30% less damage but take 15% less damage.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Deal 30% less damage but take 17% less damage.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Deal 30% less damage but take 20% less damage.
+|-
+|rowspan="3"| [[Shield Belt]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Deal 50% less damage but take 25% less damage.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Deal 50% less damage but take 27% less damage.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Deal 50% less damage but take 30% less damage.
+|-
+|rowspan="3"| [[Beast-Hide Vest (XC3)|Beast-Hide Vest]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking toppled enemies by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking toppled enemies by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking toppled enemies by 60%.
+|-
+|rowspan="3"| [[Muscle Belt (XC3)|Muscle Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking toppled enemies by 75%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking toppled enemies by 80%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking toppled enemies by 85%.
+|-
+|rowspan="3"| [[Champion Belt (XC3)|Champion Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking toppled enemies by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking toppled enemies by 105%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking toppled enemies by 110%.
+|-
+|rowspan="3"| [[Strung Amber]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking dazed enemies by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking dazed enemies by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking dazed enemies by 60%.
+|-
+|rowspan="3"| [[Strung Jade]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking dazed enemies by 75%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking dazed enemies by 80%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking dazed enemies by 85%.
+|-
+|rowspan="3"| [[Strung Lapis Lazuli]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking dazed enemies by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt when attacking dazed enemies by 105%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking dazed enemies by 110%.
+|-
+|rowspan="3"| [[Slashing Weapon Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Aquatic Life by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Aquatic Life by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Aquatic Life by 60%.
+|-
+|rowspan="3"| [[Firearm Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Aquatic Life by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Aquatic Life by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Aquatic Life by 80%.
+|-
+|rowspan="3"| [[Crushing Weapon Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Aquatic Life by 90%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Aquatic Life by 95%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Aquatic Life by 100%.
+|-
+|rowspan="3"| [[Tool Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Machines by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Machines by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Machines by 60%.
+|-
+|rowspan="3"| [[Work Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Machines by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Machines by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Machines by 80%.
+|-
+|rowspan="3"| [[Fiber Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Machines by 90%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Machines by 95%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Machines by 100%.
+|-
+|rowspan="3"| [[Braided Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Bleed by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage Boosts damage dealt when attacking an enemy suffering from Bleed by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Boosts damage dealt when attacking an enemy suffering from Bleed by 60%.
+|-
+|rowspan="3"| [[Silver Braided Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt when attacking an enemy suffering from Bleed by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage Boosts damage dealt when attacking an enemy suffering from Bleed by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Boosts damage dealt when attacking an enemy suffering from Bleed by 80%.
+|-
+|rowspan="3"| [[Assist Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Break resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Break resistance by 25 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Break resistance by 30 percentage points.
+|-
+|rowspan="3"| [[Harness Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Break resistance by 35 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Break resistance by 40 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Break resistance by 45 percentage points.
+|-
+|rowspan="3"| [[Survival Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Break resistance by 50 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Break resistance by 55 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Break resistance by 60 percentage points.
+|-
+|rowspan="3"| [[Stone Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Launch resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Launch resistance by 25 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Launch resistance by 30 percentage points.
+|-
+|rowspan="3"| [[Iron Sash]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Launch resistance by 35 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Launch resistance by 40 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Launch resistance by 45 percentage points.
+|-
+|rowspan="3"| [[Power Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Launch resistance by 50 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Launch resistance by 55 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Launch resistance by 60 percentage points.
+|-
+|rowspan="3"| [[White Belt (XC3)|White Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Topple duration by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Topple duration by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Topple duration by 17%.
+|-
+|rowspan="3"| [[Black Belt (XC3)|Black Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Topple duration by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Topple duration by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Topple duration by 22%.
+|-
+|rowspan="3"| [[Platinum Belt (XC3)|Platinum Belt]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Topple duration by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Topple duration by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Topple duration by 27%.
+|-
+| [[Accomplished Sash]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || On blocking, boosts recharge of one Art at random by 15%.
+|}
+|-|Chokers=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Whirlwind Necklace]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 10% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 12% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 15% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Buffeting Necklace]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 20% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 22% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 25% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Storm Necklace]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 30% when HP is at 30% or lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 32% when HP is at 30% or lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 35% when HP is at 30% or lower.
+|-
+|rowspan="3"| [[Beastfang Necklace]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage when attacking enemies targeting you by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage when attacking enemies targeting you by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage when attacking enemies targeting you by 17%.
+|-
+|rowspan="3"| [[Sharpfang Necklace]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage when attacking enemies targeting you by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage when attacking enemies targeting you by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage when attacking enemies targeting you by 22%.
+|-
+|rowspan="3"| [[Dragonfang Necklace]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage when attacking enemies targeting you by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage when attacking enemies targeting you by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage when attacking enemies targeting you by 27%.
+|-
+|rowspan="3"| [[Nacre Choker (XC3)|Nacre Choker]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt outdoors by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt outdoors by 22%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt outdoors by 25%.
+|-
+|rowspan="3"| [[Comet Choker (XC3)|Comet Choker]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt outdoors by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt outdoors by 32%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt outdoors by 35%.
+|-
+|rowspan="3"| [[Sunlight Choker (XC3)|Sunlight Choker]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt outdoors by 40%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt outdoors by 42%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt outdoors by 45%.
+|-
+|rowspan="3"| [[Silver Necklace]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Reduces aggro generated from auto-attacks by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Reduces aggro generated from auto-attacks by 25%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Reduces aggro generated from auto-attacks by 30%.
+|-
+|rowspan="3"| [[Gold Necklace]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Reduces aggro generated from auto-attacks by 40%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Reduces aggro generated from auto-attacks by 45%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Reduces aggro generated from auto-attacks by 50%.
+|-
+|rowspan="3"| [[Bunnit Choker (XC3)|Bunnit Choker]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts aggro reduction over time by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts aggro reduction over time by 65%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts aggro reduction over time by 80%.
+|-
+|rowspan="3"| [[Gold Gear Choker (XC3)|Gold Gear Choker]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts aggro reduction over time by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts aggro reduction over time by 115%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts aggro reduction over time by 130%.
+|-
+|rowspan="3"| [[Harvest Necklace (XC3)|Harvest Necklace]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts amount of HP healed from using healing Arts by 10%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts amount of HP healed from using healing Arts by 11%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts amount of HP healed from using healing Arts by 12%.
+|-
+|rowspan="3"| [[Affection Necklace (XC3)|Affection Necklace]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts amount of HP healed from using healing Arts by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts amount of HP healed from using healing Arts by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts amount of HP healed from using healing Arts by 17%.
+|-
+|rowspan="3"| [[Immaculate Necklace]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts amount of HP healed from using healing Arts by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts amount of HP healed from using healing Arts by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts amount of HP healed from using healing Arts by 22%.
+|-
+| [[Memory Locket (XC3)|Memory Locket]]
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Allows reviving allies even when not in a Healer role.
+|-
+| [[Prayer Necklace]]
+| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants Armor Veil to revived allies.
+|-
+| [[Shell Necklace]]
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts recharge speed by 25% when in the water.
+|-
+|rowspan="3"| [[Wing Necklace]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Recovers 40% of recharge for own Arts upon reviving an ally.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Recovers 45% of recharge for own Arts upon reviving an ally.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Recovers 50% of recharge for own Arts upon reviving an ally.
+|-
+|rowspan="3"| [[Devotional Necklace]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Recovers 90% of recharge for own Arts upon reviving an ally.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Recovers 95% of recharge for own Arts upon reviving an ally.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Recovers 100% of recharge for own Arts upon reviving an ally.
+|-
+|rowspan="3"| [[Bronze Choker]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Smash resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Smash resistance by 25 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Smash resistance by 30 percentage points.
+|-
+|rowspan="3"| [[Silver Choker]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Smash resistance by 35 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Smash resistance by 40 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Smash resistance by 45 percentage points.
+|-
+|rowspan="3"| [[Gold Choker]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Increases Smash resistance by 50 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Increases Smash resistance by 55 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Increases Smash resistance by 60 percentage points.
+|-
+|rowspan="3"| [[Star Necklace]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 60% resistance to Shackle Arts.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 65% resistance to Shackle Arts.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 70% resistance to Shackle Arts.
+|-
+|rowspan="3"| [[Moon Necklace]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 90% resistance to Shackle Arts.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 95% resistance to Shackle Arts.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 100% resistance to Shackle Arts.
+|-
+|rowspan="3"| [[Learned Amulet]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 60% resistance to Bind.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 65% resistance to Bind.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 70% resistance to Bind.
+|-
+|rowspan="3"| [[Sage's Auspices (XC3)|Sage's Auspices]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 90% resistance to Bind.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 95% resistance to Bind.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 100% resistance to Bind.
+|-
+|rowspan="3"| [[Chrome Scarf (XC3)|Chrome Scarf]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Break duration by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Break duration by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Break duration by 17%.
+|-
+|rowspan="3"| [[Unicorn Scarf (XC3)|Unicorn Scarf]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Break duration by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Break duration by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Break duration by 22%.
+|-
+|rowspan="3"| [[Quantum Scarf (XC3)|Quantum Scarf]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Break duration by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Break duration by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Break duration by 27%.
+|-
+| [[Scholar Necklace]]
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="Wearer gains CP as if their class aptitude was 1 rank higher than usual (max. S rank)"&gt;Increases Class aptitude.&lt;/abbr&gt;
+|-
+| [[Mastery Necklace]]
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="Wearer gains CP as if their class aptitude was 2 ranks higher than usual (max. S rank)"&gt;Increases Class aptitude.&lt;/abbr&gt;
+|-
+| [[Monastic Necklace]]
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="Wearer gains CP as if their class aptitude was 3 ranks higher than usual (max. S rank)"&gt;Increases Class aptitude.&lt;/abbr&gt;
+|-
+| [[Accomplished Necklace]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage by 30% for every enemy in battle (max. 200%).
+|}
+|-|Jewelry=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Dark Orb (XC3)|Dark Orb]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt while an ally is incapacitated by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt while an ally is incapacitated by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt while an ally is incapacitated by 60%.
+|-
+|rowspan="3"| [[Eraser Orb (XC3)|Eraser Orb]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt while an ally is incapacitated by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt while an ally is incapacitated by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt while an ally is incapacitated by 80%.
+|-
+|rowspan="3"| [[Bloody Orb (XC3)|Bloody Orb]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt while an ally is incapacitated by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt while an ally is incapacitated by 105%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt while an ally is incapacitated by 110%.
+|-
+|rowspan="3"| [[Attack Stone (XC3)|Attack Stone]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts auto-attack damage by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts auto-attack damage by 58%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts auto-attack damage by 66%.
+|-
+|rowspan="3"| [[Assault Stone (XC3)|Assault Stone]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts auto-attack damage by 75%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts auto-attack damage by 83%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts auto-attack damage by 91%.
+|-
+|rowspan="3"| [[Violent Stone (XC3)|Violent Stone]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts auto-attack damage by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts auto-attack damage by 108%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts auto-attack damage by 116%.
+|-
+|rowspan="3"| [[Garnet (XC3)|Garnet]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage by 10% for every enemy in battle (max. 200%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage by 11% for every enemy in battle (max. 200%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage by 12% for every enemy in battle (max. 200%).
+|-
+|rowspan="3"| [[Sapphire (XC3)|Sapphire]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage by 15% for every enemy in battle (max. 200%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage by 16% for every enemy in battle (max. 200%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage by 17% for every enemy in battle (max. 200%).
+|-
+|rowspan="3"| [[Diamond (XC3)|Diamond]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage by 20% for every enemy in battle (max. 200%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage by 21% for every enemy in battle (max. 200%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage by 22% for every enemy in battle (max. 200%).
+|-
+|rowspan="3"| [[Tear Amulet]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage from Bleed by 150%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage from Bleed by 175%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage from Bleed by 200%.
+|-
+|rowspan="3"| [[Rage Amulet]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage from Bleed by 250%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage from Bleed by 275%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage from Bleed by 300%.
+|-
+|rowspan="3"| [[Flame Amulet]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage from Blaze by 150%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage from Blaze by 175%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage from Blaze by 200%.
+|-
+|rowspan="3"| [[Hellfire Amulet]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage from Blaze by 250%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage from Blaze by 275%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage from Blaze by 300%.
+|-
+|rowspan="3"| [[Gold Cube]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by Fusion Arts by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by Fusion Arts by 30%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by Fusion Arts by 35%.
+|-
+|rowspan="3"| [[Platinum Cube]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by Fusion Arts by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by Fusion Arts by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by Fusion Arts by 60%.
+|-
+|rowspan="3"| [[Defense Cuffs]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts aggro reduction by 25% when targeted by an enemy.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts aggro reduction by 30% when targeted by an enemy.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts aggro reduction by 35% when targeted by an enemy.
+|-
+|rowspan="3"| [[Repulsor Cuffs]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts aggro reduction by 50% when targeted by an enemy.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts aggro reduction by 55% when targeted by an enemy.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts aggro reduction by 60% when targeted by an enemy.
+|-
+|rowspan="3"| [[Signet Ring]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="2.5 units, as seen in character build"&gt;When attack is evaded, increases attacker's aggro towards user.&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="3 units, as seen in character build"&gt;When attack is evaded, increases attacker's aggro towards user.&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="3.5 units, as seen in character build"&gt;When attack is evaded, increases attacker's aggro towards user.&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Champion Ring]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="5 units, as seen in character build"&gt;When attack is evaded, increases attacker's aggro towards user.&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="5.5 units, as seen in character build"&gt;When attack is evaded, increases attacker's aggro towards user.&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="6 units, as seen in character build"&gt;When attack is evaded, increases attacker's aggro towards user.&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Friendship Ring (XC3)|Friendship Ring]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Reduces aggro generated from healing Arts by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Reduces aggro generated from healing Arts by 20%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Reduces aggro generated from healing Arts by 25%.
+|-
+|rowspan="3"| [[Affection Ring (XC3)|Affection Ring]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Reduces aggro generated from healing Arts by 30%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Reduces aggro generated from healing Arts by 35%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Reduces aggro generated from healing Arts by 40%.
+|-
+|rowspan="3"| [[Activity Amulet (XC3)|Activity Amulet]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Restores 2.5% of HP when a buff is applied.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Restores 3% of HP when a buff is applied.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Restores 3.5% of HP when a buff is applied.
+|-
+|rowspan="3"| [[Healing Amulet (XC3)|Healing Amulet]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Restores 5% of HP when a buff is applied.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Restores 5.5% of HP when a buff is applied.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Restores 6% of HP when a buff is applied.
+|-
+| [[Mercy Earring]]
+| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts healing Arts recharge speed by 25% when an ally is at low HP.
+|-
+|rowspan="3"| [[Silver Earrings (XC3)|Silver Earrings]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="3 units, as seen in character build"&gt;Fills Chain Attack gauge slightly on critical hit.&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="3.5 units, as seen in character build"&gt;Fills Chain Attack gauge slightly on critical hit.&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="4 units, as seen in character build"&gt;Fills Chain Attack gauge slightly on critical hit.&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Crystal Earrings (XC3)|Crystal Earrings]]
+|rowspan="3"| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="3 units, as seen in character build"&gt;Fills Chain Attack gauge slightly on Art execution.&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="4 units, as seen in character build"&gt;Fills Chain Attack gauge slightly on Art execution.&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="5 units, as seen in character build"&gt;Fills Chain Attack gauge slightly on Art execution.&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Soldier Ring (XC3)|Soldier Ring]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Launch duration by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Launch duration by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Launch duration by 17%.
+|-
+|rowspan="3"| [[Berserk Ring (XC3)|Berserk Ring]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Launch duration by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Launch duration by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Launch duration by 22%.
+|-
+|rowspan="3"| [[Tyrant Ring (XC3)|Tyrant Ring]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Launch duration by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Launch duration by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Launch duration by 27%.
+|-
+|rowspan="3"| [[Chain Ring]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="Stacks up to 3 times, as seen in character build"&gt;Boosts effect of Arts with each different Art used within a set time.&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="Stacks up to 4 times, as seen in character build"&gt;Boosts effect of Arts with each different Art used within a set time.&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="Stacks up to 5 times, as seen in character build"&gt;Boosts effect of Arts with each different Art used within a set time.&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Shackle Ring]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="Stacks up to 6 times, as seen in character build"&gt;Boosts effect of Arts with each different Art used within a set time.&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="Stacks up to 7 times, as seen in character build"&gt;Boosts effect of Arts with each different Art used within a set time.&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="Stacks up to 8 times, as seen in character build"&gt;Boosts effect of Arts with each different Art used within a set time.&lt;/abbr&gt;
+|-
+| [[Saturni Rings]]&lt;br&gt;&lt;small&gt;(Legacy of the Seven)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Attack by 40%.
+|-
+| [[Solis Rings]]&lt;br&gt;&lt;small&gt;(Legacy of the Seven)&lt;/small&gt;
+| [[File:XC3 Healer Role Icon.png|20px|Healer]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Healing by 40%.
+|-
+| [[Iovis Rings]]&lt;br&gt;&lt;small&gt;(Legacy of the Seven)&lt;/small&gt;
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Agility by 40%.
+|-
+| [[Mercurii Rings]]&lt;br&gt;&lt;small&gt;(Legacy of the Seven)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Critical Rate by 60%.
+|-
+| [[Martis Rings]]&lt;br&gt;&lt;small&gt;(Legacy of the Seven)&lt;/small&gt;
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts Block Rate by 60%.
+|-
+| [[Lunae Rings]]&lt;br&gt;&lt;small&gt;(Legacy of the Seven)&lt;/small&gt;
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by Fusion Arts by 100%.
+|-
+| [[Veneris Rings]]&lt;br&gt;&lt;small&gt;(Legacy of the Seven)&lt;/small&gt;
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || At start of Chain Attack, increases TP by 20.
+|-
+| [[Accomplished Ring]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt when attacking higher-level enemies by 80%.
+|-
+| [[Accomplished Earring]] &lt;small&gt;(DLC)&lt;/small&gt;
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When landing a hit, deals damage as though enemy's physical defense was 35% lower.
+|-
+|rowspan="3"| [[Emberlight Ring]] &lt;small&gt;(FR only)&lt;/small&gt;
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Fogbeasts by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Fogbeasts by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Fogbeasts by 60%.
+|-
+|rowspan="3"| [[Torchlight Ring]] &lt;small&gt;(FR only)&lt;/small&gt;
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Fogbeasts by 70%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Fogbeasts by 75%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Fogbeasts by 80%.
+|-
+|rowspan="3"| [[Sunlight Ring]] &lt;small&gt;(FR only)&lt;/small&gt;
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt to Fogbeasts by 90%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt to Fogbeasts by 95%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt to Fogbeasts by 100%.
+|-
+|rowspan="3"| [[Silver Jewel]] &lt;small&gt;(FR only)&lt;/small&gt;
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by Unity Combos by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by Unity Combos by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by Unity Combos by 60%.
+|-
+|rowspan="3"| [[Gold Jewel]] &lt;small&gt;(FR only)&lt;/small&gt;
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by Unity Combos by 75%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by Unity Combos by 80%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by Unity Combos by 85%.
+|-
+|rowspan="3"| [[Platinum Jewel]] &lt;small&gt;(FR only)&lt;/small&gt;
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by Unity Combos by 100%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by Unity Combos by 105%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by Unity Combos by 110%.
+|}
+|-|Medals=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Cracked Crystal]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 20% per enemy defeated (to a maximum of 250%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 25% per enemy defeated (to a maximum of 250%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 30% per enemy defeated (to a maximum of 250%).
+|-
+|rowspan="3"| [[Warped Crystal]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 35% per enemy defeated (to a maximum of 250%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 40% per enemy defeated (to a maximum of 250%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 45% per enemy defeated (to a maximum of 250%).
+|-
+|rowspan="3"| [[Beautiful Crystal]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 50% per enemy defeated (to a maximum of 250%).
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 55% per enemy defeated (to a maximum of 250%).
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 60% per enemy defeated (to a maximum of 250%).
+|-
+|rowspan="3"| [[Silver Brooch]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy during the day by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy during the day by 25%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy during the day by 30%.
+|-
+|rowspan="3"| [[Gold Brooch]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy during the day by 35%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy during the day by 40%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy during the day by 45%.
+|-
+|rowspan="3"| [[Platinum Brooch]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts accuracy during the day by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts accuracy during the day by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts accuracy during the day by 60%.
+|-
+|rowspan="3"| [[Colorful Feather (XC3)|Colorful Feather]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="10 units, as seen in character build"&gt;Accrues aggro every second (Minor effect.)&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="11 units, as seen in character build"&gt;Accrues aggro every second (Minor effect.)&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="12 units, as seen in character build"&gt;Accrues aggro every second (Minor effect.)&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Silver Feather (XC3)|Silver Feather]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="15 units, as seen in character build"&gt;Accrues aggro every second (Medium effect.)&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="16 units, as seen in character build"&gt;Accrues aggro every second (Medium effect.)&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="17 units, as seen in character build"&gt;Accrues aggro every second (Medium effect.)&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Phantom Feather (XC3)|Phantom Feather]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || &lt;abbr title="20 units, as seen in character build"&gt;Accrues aggro every second (Major effect.)&lt;/abbr&gt;
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || &lt;abbr title="21 units, as seen in character build"&gt;Accrues aggro every second (Major effect.)&lt;/abbr&gt;
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="22 units, as seen in character build"&gt;Accrues aggro every second (Major effect.)&lt;/abbr&gt;
+|-
+|rowspan="3"| [[Shell Cameo (XC3)|Shell Cameo]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts amount of HP restored to self by 10%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts amount of HP restored to self by 11%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts amount of HP restored to self by 12%.
+|-
+|rowspan="3"| [[Friendship Badge]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts recharge speed by 20% when non-Defenders are targeted.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts recharge speed by 25% when non-Defenders are targeted.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts recharge speed by 30% when non-Defenders are targeted.
+|-
+|rowspan="3"| [[Fraternal Badge]]
+|rowspan="3"| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts recharge speed by 40% when non-Defenders are targeted.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts recharge speed by 45% when non-Defenders are targeted.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts recharge speed by 50% when non-Defenders are targeted.
+|-
+|rowspan="3"| [[Glowing Medal]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Daze duration by 15%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Daze duration by 16%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Daze duration by 17%.
+|-
+|rowspan="3"| [[Gleaming Medal]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Daze duration by 20%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Daze duration by 21%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Daze duration by 22%.
+|-
+|rowspan="3"| [[Glistening Medal]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Extends Daze duration by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Extends Daze duration by 26%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Extends Daze duration by 27%.
+|-
+|rowspan="3"| [[Break Brooch]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Lower attack target's Break resistance by 20 percentage points.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Lower attack target's Break resistance by 22 percentage points.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Lower attack target's Break resistance by 25 percentage points.
+|}
+|-|Other=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | &lt;abbr title="Recommended role"&gt;Rec. Role&lt;/abbr&gt;
+! width="50px" | Rarity
+! Effect
+|-
+|rowspan="3"| [[Vibrant Armring]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 10% when HP is at 90% or higher.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 12% when HP is at 90% or higher.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 15% when HP is at 90% or higher.
+|-
+|rowspan="3"| [[Florid Armring]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 20% when HP is at 90% or higher.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 22% when HP is at 90% or higher.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 25% when HP is at 90% or higher.
+|-
+|rowspan="3"| [[Lustrous Armring]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Boosts damage dealt by 30% when HP is at 90% or higher.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Boosts damage dealt by 32% when HP is at 90% or higher.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts damage dealt by 35% when HP is at 90% or higher.
+|-
+| [[Auto-Balancer (XC3)|Auto-Balancer]]
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When your attacks are blocked, you are not thrown off-balance.
+|-
+|rowspan="3"| [[Chipped White Brooch]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || When landing a hit, deals damage as though enemy's physical defense was 15% lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || When landing a hit, deals damage as though enemy's physical defense was 17% lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When landing a hit, deals damage as though enemy's physical defense was 20% lower.
+|-
+|rowspan="3"| [[Warped White Brooch]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || When landing a hit, deals damage as though enemy's physical defense was 25% lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || When landing a hit, deals damage as though enemy's physical defense was 27% lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When landing a hit, deals damage as though enemy's physical defense was 30% lower.
+|-
+|rowspan="3"| [[Chipped Black Brooch]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || When landing a hit, deals damage as though enemy's ether defense was 15% lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || When landing a hit, deals damage as though enemy's ether defense was 17% lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When landing a hit, deals damage as though enemy's ether defense was 20% lower.
+|-
+|rowspan="3"| [[Warped Black Brooch]]
+|rowspan="3"| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="1" | [[File:Rarity Common.png|40px]] || When landing a hit, deals damage as though enemy's ether defense was 25% lower.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || When landing a hit, deals damage as though enemy's ether defense was 27% lower.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When landing a hit, deals damage as though enemy's ether defense was 30% lower.
+|-
+| [[Nopon Doll (XC3)|Nopon Doll]]
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || When incapacitated, aggro does not reset, but remains at 60%.
+|-
+| [[Legendary Biter]]
+| [[File:XC3 Defender Role Icon.png|20px|Defender]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || &lt;abbr title="25 units, as seen in character build"&gt;Accrues Aggro every second. (Extra-major effect.)&lt;/abbr&gt;
+|-
+| [[Nopon Strap]]
+| [[File:XC3 Attacker Role Icon.png|20px|Attacker]] || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || 10% chance to keep recharge when using Art.
+|-
+|rowspan="3"| [[Incense of Calm (XC3)|Incense of Calm]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 60% resistance to Sleep.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 65% resistance to Sleep.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 70% resistance to Sleep.
+|-
+|rowspan="3"| [[Incense of Elegance]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 90% resistance to Sleep.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 95% resistance to Sleep.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 100% resistance to Sleep.
+|-
+|rowspan="3"| [[Mint Potpourri (XC3)|Mint Potpourri]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 60% resistance to Target Lock.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 65% resistance to Target Lock.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 70% resistance to Target Lock.
+|-
+|rowspan="3"| [[Lavender Potpourri (XC3)|Lavender Potpourri]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Grants 90% resistance to Target Lock.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Grants 95% resistance to Target Lock.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Grants 100% resistance to Target Lock.
+|-
+|rowspan="3"| [[Bond Fragment]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Speeds up Interlink Level buildup by 25%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Speeds up Interlink Level buildup by 30%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Speeds up Interlink Level buildup by 35%.
+|-
+|rowspan="3"| [[Bond Crystal]]
+|rowspan="3"| || data-sort-value="1" | [[File:Rarity Common.png|40px]] || Speeds up Interlink Level buildup by 50%.
+|-
+| data-sort-value="2" | [[File:Rarity Rare.png|40px]] || Speeds up Interlink Level buildup by 55%.
+|-
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Speeds up Interlink Level buildup by 60%.
+|-
+| [[Archsage's Flower Fan]] &lt;small&gt;(DLC)&lt;/small&gt;
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || Boosts maximum HP, Attack and Healing Power by 30% and scatters flower petals on using quick move.
+|-
+| [[Humongous Nopon Doll]] &lt;small&gt;(DLC)&lt;/small&gt;
+| || data-sort-value="3" | [[File:Rarity Legendary.png|40px]] || The whole party deals 10% less damage and takes 10% more damage.
+|}
+|-|Manuals=
+{| class="xc1 centered sortable" width="100%"
+! width="200px" | Name
+! width="50px" | Rarity
+! width="35%" | Heroic Chain
+! width="35%" | Completion Bonus
+|-
+| [[Battle Manual, vol. 1]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multplies TP by 150% when first in line to attack.
+| ''None''
+|-
+| [[Battle Manual, vol. 2]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, multiplies TP from next character to act by 125%. (Valid only for this order.)
+| ''None''
+|-
+| [[Battle Manual, vol. 3]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Guarantees a "Bravo" rating when character completes an order.
+| ''None''
+|-
+| [[Battle Manual, vol. 4]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multiplies TP by 200% when first in line to attack, but TP returns to pre-action state upon reactivation.
+| ''None''
+|-
+| [[Battle Manual, vol. 5]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When character completes an order, adds 15 to TP of the character with the most TP, and reactivates them.
+| ''None''
+|-
+| [[Battle Manual, vol. 6]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Reactivates all characters except self when character completes an order.
+| ''None''
+|-
+| [[Battle Manual, vol. 7]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Prevents order from completing if it reaches 100% through character's action, letting you select another.
+| ''None''
+|-
+| [[Battle Manual, vol. 8]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, increases TP by 50 if the enemy is a machine-type.
+| ''None''
+|-
+| [[Battle Manual, vol. 9]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Adds 15 TP upon own reactivation.
+| ''None''
+|-
+| [[Battle Manual, vol. 10]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, grants 10 TP to all active characters except self.
+| ''None''
+|-
+| [[Battle Manual, vol. 11]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multiplies TP by 125% when first in line to attack, and makes all attacks critical.
+| ''None''
+|-
+| [[Battle Manual, vol. 12]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, increases damage ratio by 50 percentage points.
+| ''None''
+|-
+| [[Battle Manual, vol. 13]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Guarantees an "Amazing" rating when character finishes an order, but they won't reactivate in this Chain Attack.
+| ''None''
+|-
+| [[Battle Manual, vol. 14]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Either adds 50 or removes 50 TP upon own reactivation.
+| ''None''
+|-
+| [[Battle Manual, vol. 15]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, multiplies the TP of all active characters except self by 120%.
+| ''None''
+|-
+| [[Battle Manual, vol. 16]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multiplies TP by 150% when character completes an order.
+| ''None''
+|-
+| [[Battle Manual, vol. 17]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, assures self-reactivation in addition to the standard no. of reactivations.
+| ''None''
+|-
+| [[Battle Manual, vol. 18]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multiplies damage ratio increase by 1.5x upon completing an order that character participates in.
+| ''None''
+|-
+| [[Battle Manual, vol. 19]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When character completes an order, adds 30 to TP of the character with the least TP, and reactivates them.
+| ''None''
+|-
+| [[Battle Manual, vol. 20]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, adds 15 to TP of all active characters, and removes 10 from own TP.
+| ''None''
+|-
+| [[Tactics Manual, vol. 1]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Attacks during Chain Attack gain 100% chance to bypass defense.
+|-
+| [[Tactics Manual, vol. 2]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Reduces Attacker and Healer aggro by 100%.
+|-
+| [[Tactics Manual, vol. 3]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Reduces enemy physical defense by 75 percentage points during Chain Attack.
+|-
+| [[Tactics Manual, vol. 4]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Reduces enemy ether defense by 50 percentage points during Chain Attack.
+|-
+| [[Tactics Manual, vol. 5]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Attacks during Chain Attack gain 100% chance to be unblockable.
+|-
+| [[Tactics Manual, vol. 6]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| One additional character is reactivated, with 30% chance for 1 more.
+|-
+| [[Tactics Manual, vol. 7]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| 100% chance to revive all downed party members, allowing them to participate in the Chain Attack.
+|-
+| [[Tactics Manual, vol. 8]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Heals all allies for 50% HP and grants them Regenerate.
+|-
+| [[Tactics Manual, vol. 9]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Increases Defender aggro by 50% and grants Attack Up to all allies.
+|-
+| [[Tactics Manual, vol. 10]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Increases Defender aggro by 50% and grants Armor Veil to all allies.
+|-
+| [[Tactics Manual, vol. 11]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| During Chain Attack, heals 10% of damage dealt as HP, up to 200% of Healing Power.
+|-
+| [[Tactics Manual, vol. 12]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| During Chain Attack, increases Critical Rate by 30 percentage points.
+|-
+| [[Tactics Manual, vol. 13]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| During Chain Attack, boosts damage dealt to low HP enemies by 100%.
+|-
+| [[Tactics Manual, vol. 14]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Charges Chain Attack gauge and grants Power Charge to all allies.
+|-
+| [[Tactics Manual, vol. 15]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| During Chain Attack, increases critical hit damage bonus by 150 percentage points.
+|-
+| [[Tactics Manual, vol. 16]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Increases damage ratio by 100 percentage points and grants Critical Rate Up to all allies.
+|-
+| [[Tactics Manual, vol. 17]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Increases damage ratio by 100 percentage points and grants Attack Up to all allies.
+|-
+| [[Tactics Manual, vol. 18]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Increases damage ratio by 100 percentage points and grants Power Charge to all allies.
+|-
+| [[Tactics Manual, vol. 19]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Increases everyone's TP by 10.
+|-
+| [[Tactics Manual, vol. 20]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| ''None''
+| Randomly increases all characters' TP by between 6 and 18.
+|-
+| [[Strategy Manual, vol. 1]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Guarantees a "Bravo" rating when character completes an order.
+| Increases Defender aggro by 50% and grants Armor Veil to all allies.
+|-
+| [[Strategy Manual, vol. 2]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Guarantees a "Bravo" rating when character completes an order.
+| Increases Defender aggro by 50% and grants Attack Up to all allies.
+|-
+| [[Strategy Manual, vol. 3]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Guarantees an "Amazing" rating when character finishes an order, but they won't reactivate in this Chain Attack.
+| Randomly increases all characters' TP by between 6 and 18.
+|-
+| [[Strategy Manual, vol. 4]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multplies TP by 150% when character completes an order.
+| Increases everyone's TP by 10.
+|-
+| [[Strategy Manual, vol. 5]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multplies TP by 150% when first in line to attack.
+| During Chain Attack, boosts damage dealt to low HP enemies by 100%.
+|-
+| [[Strategy Manual, vol. 6]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Prevents order from completing if it reaches 100% through character's action, letting you select another.
+| Increases damage ratio by 100 percentage points and grants Critical Rate Up to all allies.
+|-
+| [[Strategy Manual, vol. 7]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, assures self-reactivation in addition to the standard no. of reactivations.
+| Increases damage ratio by 100 percentage points and grants Critical Rate Up to all allies.
+|-
+| [[Strategy Manual, vol. 8]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When character completes an order, adds 15 to TP of the character with the most TP, and reactivates them.
+| Increases damage ratio by 100 percentage points and grants Attack Up to all allies.
+|-
+| [[Strategy Manual, vol. 9]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multiplies TP by 125% when first in line to attack, and makes all attacks critical.
+| Increases damage ratio by 100 percentage points and grants Power Charge to all allies.
+|-
+| [[Strategy Manual, vol. 10]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multiplies damage ratio increase by 1.5x upon completing an order that character participates in.
+| During Chain Attack, increases Critical Rate by 30 percentage points.
+|-
+| [[Strategy Manual, vol. 11]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, grants 10 TP to all active characters except self.
+| During Chain Attack, heals 10% of damage dealt as HP, up to 200% of Healing Power.
+|-
+| [[Strategy Manual, vol. 12]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, multiplies the TP of all active characters except self by 120%.
+| Reduces Attacker and Healer aggro by 100%.
+|-
+| [[Strategy Manual, vol. 13]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, adds 15 to TP of all active characters, and removes 10 from own TP.
+| Attacks during Chain Attack gain 100% chance to be unblockable.
+|-
+| [[Strategy Manual, vol. 14]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, increases damage ratio by 50 percentage points.
+| One additional character is reactivated, with 30% chance for 1 more.
+|-
+| [[Strategy Manual, vol. 15]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, increases TP by 50 if the enemy is a machine-type.
+| Heals all allies for 50% HP and grants them Regenerate.
+|-
+| [[Strategy Manual, vol. 16]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When character completes an order, adds 30 to TP of the character with the least TP, and reactivates them.
+| Reduces enemy ether defense by 50 percentage points during Chain Attack.
+|-
+| [[Strategy Manual, vol. 17]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Either adds 50 or removes 50 TP upon own reactivation.
+| Reduces enemy physical defense by 75 percentage points during Chain Attack.
+|-
+| [[Strategy Manual, vol. 18]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Adds 15 TP upon own reactivation.
+| Attacks during Chain Attack gain 100% chance to bypass defense.
+|-
+| [[Strategy Manual, vol. 19]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| When chosen, multiplies TP from next character to act by 125%. (Valid only for this order.)
+| Attacks during Chain Attack gain 100% chance to bypass defense.
+|-
+| [[Strategy Manual, vol. 20]]
+| data-sort-value="3" | [[File:Rarity Legendary.png|40px]]
+| Multiplies TP by 200% when first in line to attack, but TP returns to pre-action state upon reactivation.
+| 100% chance to revive all downed party members, allowing them to participate in the Chain Attack.
+|}
+&lt;/tabber&gt;
+{{clr}}
+
+{{Fr stub}}
+[[Category:XC3 Items]]
+[[Category:XC3 Accessories]]
+[[Category:XC3 Mechanics]]
+[[Category:XC3FR Items]]
+[[Category:XC3FR Accessories]]
+[[Category:XC3FR Mechanics]]
+[[Category:Equipment]]</text>
+      <sha1>slqwowxl6ycwzsmoe19bduste9fp4km</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accomplished Crown</title>
+    <ns>0</ns>
+    <id>124520</id>
+    <revision>
+      <id>577007</id>
+      <parentid>577002</parentid>
+      <timestamp>2023-02-15T21:32:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577007</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="537" sha1="86xsqwhbi24tsn46dsuhrlvdrld4ill" xml:space="preserve">{{Infobox item
+|name      = Accomplished Crown
+|image     = 
+|caption   = Boosts maximum HP by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = ''[[Primate Triumvirate]]''
+|sell      = N/A
+}}
+The '''Accomplished Crown''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''[[Primate Triumvirate]]'' with at least an A rank for the first time.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>86xsqwhbi24tsn46dsuhrlvdrld4ill</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accomplished Earring</title>
+    <ns>0</ns>
+    <id>127429</id>
+    <revision>
+      <id>590438</id>
+      <timestamp>2023-05-08T23:08:20Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Accomplished Earring |image     = XC3 Accessory Ring.png |caption   = When landing a hit, deals damage as though enemy's physical defense was 35% lower. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = ''[[The Two Saviors]]'' |sell      = N/A }} The '''Accomplished Earring''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''The T..."</comment>
+      <origin>590438</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="612" sha1="rzuojolfgqt7ra8d4xuoj86jyb34ns7" xml:space="preserve">{{Infobox item
+|name      = Accomplished Earring
+|image     = XC3 Accessory Ring.png
+|caption   = When landing a hit, deals damage as though enemy's physical defense was 35% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = ''[[The Two Saviors]]''
+|sell      = N/A
+}}
+The '''Accomplished Earring''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]'' with at least an A rank for the first time.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>rzuojolfgqt7ra8d4xuoj86jyb34ns7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accomplished Hairpiece</title>
+    <ns>0</ns>
+    <id>124530</id>
+    <revision>
+      <id>577006</id>
+      <parentid>577003</parentid>
+      <timestamp>2023-02-15T21:32:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577006</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="1b43141pxuxrv5fa4vdykb3o0slitwn" xml:space="preserve">{{Infobox item
+|name      = Accomplished Hairpiece
+|image     = 
+|caption   = When landing a hit, deals damage as though enemy's ether defense was 35% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = ''[[Stage of Destiny]]''
+|sell      = N/A
+}}
+The '''Accomplished Hairpiece''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]'' with at least an A rank for the first time.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>1b43141pxuxrv5fa4vdykb3o0slitwn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accomplished Necklace</title>
+    <ns>0</ns>
+    <id>124519</id>
+    <revision>
+      <id>577009</id>
+      <parentid>576998</parentid>
+      <timestamp>2023-02-15T21:34:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577009</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="571" sha1="flqkpkg25f9z1ac234uhdl034soo2z1" xml:space="preserve">{{Infobox item
+|name      = Accomplished Necklace
+|image     = 
+|caption   = Boosts damage by 30% for every enemy in battle (max. 200%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = ''[[Heroes Frontline]]''
+|sell      = N/A
+}}
+The '''Accomplished Necklace''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]'' with at least an A rank for the first time.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>flqkpkg25f9z1ac234uhdl034soo2z1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accomplished Ring</title>
+    <ns>0</ns>
+    <id>124518</id>
+    <revision>
+      <id>577005</id>
+      <parentid>577004</parentid>
+      <timestamp>2023-02-15T21:32:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577005</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" sha1="b2a9fnnx0to8opl656twhzg4bi9dfjv" xml:space="preserve">{{Infobox item
+|name      = Accomplished Ring
+|image     = 
+|caption   = Boosts damage dealt when attacking higher-level enemies by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = ''[[The Four Devas]]''
+|sell      = N/A
+}}
+The '''Accomplished Ring''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Four Devas]]'' with at least an A rank for the first time.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>b2a9fnnx0to8opl656twhzg4bi9dfjv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accomplished Sash</title>
+    <ns>0</ns>
+    <id>124529</id>
+    <revision>
+      <id>577010</id>
+      <parentid>576997</parentid>
+      <timestamp>2023-02-15T21:34:37Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577010</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" sha1="f8esd5cp7c3o4av58slhakbpds951kw" xml:space="preserve">{{Infobox item
+|name      = Accomplished Sash
+|image     = 
+|caption   = On blocking, boosts recharge of one Art at random by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = ''[[Men! Of! The Sea! IV]]''
+|sell      = N/A
+}}
+The '''Accomplished Sash''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''[[Men! Of! The Sea! IV]]'' with at least an A rank for the first time.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>f8esd5cp7c3o4av58slhakbpds951kw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accomplished Vambraces</title>
+    <ns>0</ns>
+    <id>124527</id>
+    <revision>
+      <id>577013</id>
+      <parentid>576996</parentid>
+      <timestamp>2023-02-15T22:01:20Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577013</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="561" sha1="ep338wk8h7nl3k1l76xplzsrh3r6z2w" xml:space="preserve">{{Infobox item
+|name      = Accomplished Vambraces
+|image     = 
+|caption   = Lowers attack target's Break resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = ''[[N and M]]''
+|sell      = N/A
+}}
+The '''Accomplished Vambraces''' are a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be acquired from clearing the [[Challenge Battle Mode|Challenge Battle]] ''[[N and M]]'' with at least an A rank for the first time.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>ep338wk8h7nl3k1l76xplzsrh3r6z2w</sha1>
+    </revision>
+  </page>
+  </mediawiki>

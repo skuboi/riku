@@ -1,0 +1,2091 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Muscle Belt (XC3)</title>
+    <ns>0</ns>
+    <id>118983</id>
+    <revision>
+      <id>592820</id>
+      <parentid>592534</parentid>
+      <timestamp>2023-05-15T20:17:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1099" sha1="62oft6iv5hn8frplxwljswg1owaxccb" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Muscle Belt (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Muscle Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking toppled enemies by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8600 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Muscle Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking toppled enemies by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8600 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Muscle Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking toppled enemies by 85%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8600 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Muscle Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>62oft6iv5hn8frplxwljswg1owaxccb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Musical Tirkin</title>
+    <ns>0</ns>
+    <id>121124</id>
+    <revision>
+      <id>559832</id>
+      <parentid>557269</parentid>
+      <timestamp>2022-09-30T10:53:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="972" sha1="4w4x9wx5exkexidno32p36b6i6ijtpq" xml:space="preserve">{{Infobox Enemy
+|name         = Musical Tirkin
+|image        = 
+|caption      = Musical Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Fornis Region]]&lt;br /&gt;[[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Musical Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]] or at [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>4w4x9wx5exkexidno32p36b6i6ijtpq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Musketeer Gulkin</title>
+    <ns>0</ns>
+    <id>121846</id>
+    <revision>
+      <id>559833</id>
+      <parentid>546967</parentid>
+      <timestamp>2022-09-30T10:53:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559833</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="805" sha1="9m3uvvv97yieurdoa4oqoqdsc9dhbgl" xml:space="preserve">{{Infobox Enemy
+|name         = Musketeer Gulkin
+|image        = 
+|caption      = Musketeer Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Musketeer Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>9m3uvvv97yieurdoa4oqoqdsc9dhbgl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Musketeer Igna</title>
+    <ns>0</ns>
+    <id>121702</id>
+    <revision>
+      <id>594283</id>
+      <parentid>559834</parentid>
+      <timestamp>2023-05-27T13:20:17Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1626" sha1="pzyhciuzlktt4v3btdh0hxetlpysepa" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Musketeer Igna
+|image        = 
+|caption      = Musketeer Igna
+|category     = Minor Enemy
+|type         = [[Igna]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Musketeer Ignas''' are Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level ? at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Musketeer Igna
+|image        = Musketeer Igna FR.jpg
+|caption      = Musketeer Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 44
+|area         = [[Black Mountains]] ([[Raxeal Lavaflow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Musketeer Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 44 at [[Raxeal Lavaflow]] on the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>pzyhciuzlktt4v3btdh0hxetlpysepa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Muskul Gogol</title>
+    <ns>0</ns>
+    <id>121926</id>
+    <revision>
+      <id>572445</id>
+      <parentid>559835</parentid>
+      <timestamp>2023-01-16T21:36:30Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <comment>img. Since I don't have switch, I also can't finish inoswap</comment>
+      <origin>572445</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="gw9dhv6fx317lqhh822dme72y5xe65q" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Muskul Gogol
+|image        = XC3 Muskul Gogol.jpg
+|caption      = Muskul Gogol
+|category     = Minor Enemy
+|type         = [[Gogol]]
+|level        = 56-57
+|area         = [[Erythia Sea]] ([[Cape Arcaphor]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Muskul Gogols''' are Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level 56-57 at [[Cape Arcaphor]] in the [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Level 56-60 Enemies]]</text>
+      <sha1>gw9dhv6fx317lqhh822dme72y5xe65q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mwamba</title>
+    <ns>0</ns>
+    <id>117913</id>
+    <revision>
+      <id>598003</id>
+      <parentid>597852</parentid>
+      <timestamp>2023-07-02T22:04:12Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>598003</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4962" sha1="4ka4orcjn9yvoveytb7mazi90cgaujp" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Mwamba
+|image        = Mwamba.png
+|species      = [[Keves]]i human
+|gender       = Male
+|age          = 10th Term
+|haircolor    = Brown
+|eyecolor     = 
+|affiliation  = [[Colony 9 (XC3)|Colony 9]] (formerly)&lt;br/&gt;[[Colony Omega]] (formerly)&lt;br/&gt;[[Lost Numbers]]
+|voiceactorjp = Yuichi Iguchi 
+|voiceactoreng= Jason Forbes
+|appearances  = {{XC3}}
+}}
+'''Mwamba''' is a character in {{XC3}}.
+
+== Overview ==
+Mwamba is a [[Keves]]i soldier from [[Colony 9 (XC3)|Colony 9]], who is on his tenth term. He is a temporary [[Hero]] who is in the party from the tutorial up until the party defeats the [[Drifter Ropl]]. The [[Moebius D &amp; J|Mysterious Giant]] kills him along with [[Hackt]].
+
+Later on, Mwamba is revived in [[Colony Omega]] close to his [[Homecoming Ceremony]] due to its special [[Flame Clock]] as part of [[Y]]'s experiments. He is forced to fight the party alongside Hackt, [[Cammuravi]] and [[Miyabi]]. After being freed from the control of Colony Omega's Flame Clock, he takes up residence in the [[City]] and joins the [[Lost Numbers]] in their missions alongside Hackt, with whom he becomes good friends.
+
+== Gameplay ==
+His [[Class (XC3)|class]] is [[Sharpshooter]], an [[Attacker]] class.
+
+=== General Stats ===
+These stats assume Mwamba is at rank 10 in his class. Stat increases from gems are shown separately from the base stat, and will not apply outside of [[New Game + (XC3)|New Game+]].
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity&#8224; !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|1||209||30||7||35 (+20)||19||5%||5%||12%||12%
+|-
+|99||5,229||844||199||355 (+45)||191||10%||10%||12%||12%
+|}
+&lt;small&gt;&#8224; Does not factor in the 20% Dexterity boost given by the ''Sniper'' skill innate to his Sharpshooter class.&lt;/small&gt;
+
+=== Arts ===
+*'''[[Bullet Rush]]''' (Talent Art), AOE/Unblockable (%)
+*'''[[Aero Burst]]''', Damage to [[Agnus]]&#8593;
+*'''[[Rising Blast]]''', Side Attack&#8593;
+*'''[[Hair Trigger (XC3)|Hair Trigger]]''', Crit. Rate Up
+*'''[[Driving Bullet]]''', AOE/Accuracy Up
+*'''[[Tri-Shot]]''', Damage to Machines&#8593;
+
+=== Class Skills ===
+*'''Sniper''': Boosts Dexterity by 20%.
+*'''Clinical Mentality''': Reduces aggro generated when using Arts by 50%.
+*'''I'll Survive''': Boosts Evasion by 25% when HP is at 30% or lower.
+*'''Power Bullet''': Boosts damage dealt by 20% when HP is at 90% or higher.
+
+Mwamba equips the following gems ''in [[New Game + (XC3)|New Game+]] only'':
+* [[Disperse Bloodlust]]
+* [[Accurate Grace]], at level 20 onwards
+* [[Refined Blessing]], at level 40 onwards
+
+Mwamba equips the following accessories as his default accessories, which can be changed in New Game+. All equipped accessories assume their Common variant.
+* [[Feather Band]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Mwamba
+|image        = Evil Mwamba.jpg 
+|caption      = Mwamba
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 53
+|area         = [[Captocorn Peak]] ([[Colony Omega]])
+|spawntime    = During ''[[Side Story: Mio]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Mwamba''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Keves Forces|Keves Soldier]] who is fought at level 53 in [[Colony Omega]] on [[Captocorn Peak]] during ''[[Side Story: Mio]]''.
+{{clr}}
+
+== Etymology ==
+Mwamba in Swahili means "rock". It is notably the surname of [[wikipedia:Trevor Mwamba|Trevor Mwamba]], the former Bishop of Botswana. 
+
+== Trivia ==
+* Mwamba is the only temporary party member in {{XC3|-}} and the only party member to not be either [[Ouroboros]] or a Hero. Even after the Flame Clock at Colony Gamma is destroyed, he will not rejoin the party.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Mwamba Bolearis Concept Art.png|Mwamba's Concept Art
+&lt;/gallery&gt;
+
+=== In-game renders ===
+&lt;gallery&gt;
+Mwamba Level Up Art.png|Mwamba's Level Up Art
+Mwamba Chain Art Icon.png|Mwamba's unused Chain Attack render
+Mwamba Affinity Icon.png|Mwamba's Affinity Chart Icon
+Icon chara 25.png|Mwamba's guest portrait
+Icon chara battle 27.png
+&lt;/gallery&gt;
+
+==References==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:XC3 Guest Characters]]
+[[Category:Mwamba]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:Lost Numbers]]
+[[Category:City NPCs]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>4ka4orcjn9yvoveytb7mazi90cgaujp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Myoot</title>
+    <ns>0</ns>
+    <id>120496</id>
+    <revision>
+      <id>602060</id>
+      <parentid>600781</parentid>
+      <timestamp>2023-07-22T12:25:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Unique Monster */</comment>
+      <origin>602060</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="420" sha1="db68dju3uaiit31oryeoq82nv8hvji8" xml:space="preserve">{{Spoiler}}
+[[File:XC3 Defiled Ishtar.png|thumb|Defiled Ishtar]]
+'''Myoots''' are a family of enemies in {{XC3}}. They are bat-like creatures found in [[Origin]] that resemble [[Vang]]s.
+
+== Normal Minor Enemy ==
+* [[Eruno Myoot]]
+
+== Unique Monster ==
+* [[Defiled Ishtar]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Myoots]]
+[[Category:XC3 Machines]]
+[[Category:Myoots]]
+[[Category:Species by Type]]</text>
+      <sha1>db68dju3uaiit31oryeoq82nv8hvji8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mysterious Enemy</title>
+    <ns>0</ns>
+    <id>117994</id>
+    <revision>
+      <id>595830</id>
+      <parentid>595827</parentid>
+      <timestamp>2023-06-16T14:54:31Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <origin>595830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5047" sha1="rimp863gm4uxdljn3274u6obfxnz8nr" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Mysterious Enemy
+|image        = XC3 Mysterious Giant 1.jpg
+|aliases      = [[Moebius (boss)]], [[Moebius D &amp; J]]
+|species      = [[Moebius]]
+|age          = 
+|gender       = 
+|haircolor    = 
+|eyecolor     = 
+|appearances  = {{XC3}}
+|voiceactorjp =  
+}}
+The '''Mysterious Enemy''' (Japanese: {{lang|ja|&#35598;&#12398;&#24040;&#20154;}}, ''Nazo no Kyojin'', Mysterious Giant) is an enemy in {{XC3}}. He is the first [[Moebius]] encountered by the party.&lt;ref&gt;[https://www.nintendo.co.jp/switch/az3ha/ Official Japanese website]&lt;/ref&gt;
+
+== Story==
+While the six protagonists are at odds with each other on the battlefield, the Mysterious Enemy suddenly attacks them from afar, piercing [[Guernica Vandham]] through the chest with a projectile. The Mysterious Enemy then reveals himself, with [[Mwamba]] and [[Hackt]] in his hands, taunting the party to keep killing each other for its own benefit, promptly killing his two captives afterwards, enraging the parties of both nations, who now are working together to defeat this new foe. After beating his first phase, Guernica pilots one of the [[City]] machines to attempt to fight the Mysterious Enemy, but the machine is quickly destroyed without ever dealing any damage to the foe. With his life draining out from him, Guernica gambles everything on activating the [[Ouroboros Stone]] in order to turn the protagonists into [[Ouroboros]], which is successful, resulting in [[Noah]] and [[Mio]] Interlinking. The Mysterious Enemy reveals himself to be a [[Moebius]], and fights the party in his second phase. The new Ouroboros form is enough to fend off the Moebius, who then retreats from battle, but not before giving out a signal that declares the party as the "enemy of the world". Guernica then tells Noah and Mio with his dying breaths that this ''"real enemy"'' with overwhelming power does not belong either to [[Keves]] or [[Agnus]]. He thus advises them to reach [[Swordmarch]]. The Moebius can later be seen in the [[Amphitheater]], being chastised by other [[Consuls]] for fleeing from battle.
+{{clr}}
+
+== Battle ==
+{{Infobox Enemy
+|name         = Mysterious Enemy
+|image        = Mysterious_Enemy.jpg 
+|caption      = Mysterious Enemy
+|category     = Boss
+|type         = [[Moebius]]
+|level        = 10
+|area         = [[Alfeto Valley]] ([[Gura Flava Lowlands]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 448
+|cp           = 55
+|sp           = 0
+|gold         = 0
+|hp           = 26,550
+|strength     = 83
+|healing      = 82
+|dexterity    = 47
+|agility      = 30
+|physdef      = 0%
+|ethdef       = 15%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+The '''Mysterious Enemy''' is a [[Boss (XC3)|Boss]] in {{XC3}}. He is fought at level 10 in the [[Gura Flava Lowlands]] in [[Alfeto Valley]]. He is later fought named as [[Moebius (boss)|Moebius]], then it is fought and revealed as [[Moebius D &amp; J]]. It is the first Moebius fought by the party.
+{{clr}}
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = 0%
+}}
+
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{Clr}}
+
+=== Arts ===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack 1 --&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|2
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Auto-attack 2 --&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Unstoppable Spear'''
+|Ether
+|One Target
+|1
+|300%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Chaos Arch'''
+|Physical
+|AOE on Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 75% HP
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Grim Rush'''
+|Physical
+|One Target
+|6
+|450%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Doom Rain'''
+|Ether
+|AOE on Target
+|1
+|140%
+|Blaze
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 50% HP
+|}
+
+=== Other battles ===
+* [[Moebius (boss)]]
+* [[Moebius D &amp; J]]
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Mysterious Giant 2.jpg
+XC3 Mysterious Giant 3.jpg
+XC3 Mysterious Giant 4.jpg
+XC3 Mysterious Giant 5.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Characters]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rimp863gm4uxdljn3274u6obfxnz8nr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mysterious Raider</title>
+    <ns>0</ns>
+    <id>117488</id>
+    <revision>
+      <id>590034</id>
+      <parentid>563590</parentid>
+      <timestamp>2023-05-07T18:34:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>590034</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4975" sha1="avme9dcoskmofhedl74f0868p81emx3" xml:space="preserve">{{Spoiler}}
+'''Mysterious Raiders''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are [[Levnis]]es from [[Colony 0]] known as Ferrons. They are fought on multiple occasions throughout the game.
+
+== Imminent Illusion == 
+{{Infobox XC3 Enemy
+|name         = Mysterious Raider
+|image        = 
+|caption      = Mysterious Raider
+|type         = [[Levnis]]
+|category     = Quest Exclusive [[Boss (XC3)|Boss]]
+|level        = 34
+|area         = [[High Maktha Wildwood]] ([[Tree Hollow Opening]])
+|spawntime    = During ''[[Imminent Illusion]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 513,000
+|strength     = 691
+|ether        = 
+|dexterity    = 139
+|agility      = 90
+|physdef      = 25
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The Mysterious Raiders are first encountered at the [[Tree Hollow Opening]] in [[High Maktha Wildwood]] during ''[[Imminent Illusion]]'', where four of them ambush the party. They are fought at level 34.
+{{clr}}
+
+== Severed Connection ==
+{{Infobox XC3 Enemy
+|name         = Mysterious Raider
+|image        = 
+|caption      = Mysterious Raider
+|type         = [[Levnis]]
+|category     = Quest Exclusive [[Boss (XC3)|Boss]]
+|level        = 37
+|area         = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime    = During ''[[Severed Connection]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|expq         = 
+|cp1          = 
+|sp           =  
+|gold         = 
+|hp           = 154,080
+|strength     = 291
+|ether        = 
+|dexterity    = 138
+|agility      = 96
+|physdef      = 25
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+{{Infobox XC3 Enemy
+|name         = Mysterious Raider
+|image        = 
+|caption      = Mysterious Raider
+|type         = [[Levnis]]
+|category     = Quest Exclusive [[Boss (XC3)|Boss]]
+|level        = 38
+|area         = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime    = During ''[[Severed Connection]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 332,500
+|strength     = 370
+|ether        = 
+|dexterity    = 141
+|agility      = 99
+|physdef      = 50
+|ethdef       = 
+|critrate     = 
+|guardrate    =
+}}
+The Mysterious Raiders are fought again at [[Murmur Rise]] in [[Millick Meadows]] during ''[[Severed Connection]]''. First, three are fought at level 37, and then a stronger one is fought right after at level 38.
+{{clr}}
+
+== Writer's Block ==
+{{Infobox XC3 Enemy
+|name         = Mysterious Raider
+|image        = 
+|caption      = Mysterious Raider
+|type         = [[Levnis]]
+|category     = Quest Exclusive [[Boss (XC3)|Boss]]
+|level        = 48
+|area         = [[Elaice Highway]] ([[Distant Fingertip#Xenoblade Chronicles 3|Distant Fingertip]])&lt;br/&gt;[[Erythia Sea]] ([[Eternal Canopy]])&lt;br/&gt;[[Old Cliffside Way]] ([[Spring of Rhonnar]])
+|spawntime    = During ''[[Writer's Block]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =  
+|hp           = 232,080
+|strength     = 432
+|ether        = 
+|dexterity    = 194
+|agility      = 123
+|physdef      = 25
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+More Mysterious Raiders are fought at level 48 on the [[Distant Fingertip#Xenoblade Chronicles 3|Distant Fingertip]] in [[Elaice Highway]], [[Eternal Canopy]] in [[Erythia Sea]], and at the [[Spring of Rhonnar]] in [[Old Cliffside Way]] during ''[[Writer's Block]]''.
+{{clr}}
+
+== The Illusion Returns ==
+{{Infobox XC3 Enemy
+|name         = Mysterious Raider
+|image        = 
+|caption      = Mysterious Raider
+|type         = [[Levnis]]
+|category     = Quest Exclusive [[Boss (XC3)|Boss]]
+|level        = 52
+|area         = [[Captocorn Peak]] ([[Gava Junction]])
+|spawntime    = During ''[[The Illusion Returns]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 339,000
+|strength     = 526
+|ether        = 
+|dexterity    = 195
+|agility      = 133
+|physdef      = 25
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The Mysterious Raiders are fought for the final time during ''[[The Illusion Returns]]'', where three of them are fought at level 52 at [[Gava Junction]] on [[Captocorn Peak]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>avme9dcoskmofhedl74f0868p81emx3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>N</title>
+    <ns>0</ns>
+    <id>117682</id>
+    <revision>
+      <id>603161</id>
+      <parentid>599897</parentid>
+      <timestamp>2023-07-23T23:09:19Z</timestamp>
+      <contributor>
+        <username>LifeMushroom</username>
+        <id>33125960</id>
+      </contributor>
+      <comment>/* Quotes */</comment>
+      <origin>603161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23941" sha1="99oycpjz7n4wlvmip4qluwjlkp1g7k2" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = N
+|image         = XC3 N Portrait Art.png
+|species       = [[Keves]]i human (formerly)&lt;br/&gt;[[Moebius]]
+|aliases       = [[Noah]] (originally)
+|age           = 
+|gender        = Male
+|haircolor     = Black
+|eyecolor      = Blue
+|affiliation   = [[Lost Numbers]] (formerly)&lt;br/&gt;[[Consul]]s
+|voiceactorjp  = [[wikipedia:Ry%C5%8Dhei Arai|Ry&#333;hei Arai]]
+|voiceactoreng = [[wikipedia:Harry McEntire|Harry McEntire]]
+|appearances   = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}}
+}}
+{{quote|Feelings, you say? You dare... My feelings... My feelings have never changed, they're the same as they've always been! They're for you, Mio! The time I had with you meant everything to me! But now... it's all gone... If she truly is gone, I'll have to redo it all! Watch me! Rewind our clocks, back to the start! Noah... My long shadow... You have stolen her away from me... I will extinguish you, and take her back! Mio is MINE! She's not yours, she's mine! You are nothing. She belongs only to '''ME!'''|N}}
+'''N''' (Japanese: {{Lang|jp|&#12456;&#12492;}}, ''Enu'') is a character and an antagonist in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+N is the "Golden Consul", who oversees the [[Consul]]s of [[Keves]]. Believing there is no way to escape fate, he pursues [[Noah]] and his allies on their mission to break the cycle of violence that binds their homelands.&lt;ref&gt;https://twitter.com/NintendoEurope/status/1541333310449795073&lt;/ref&gt;
+
+== Appearance ==
+N has a similar appearance to Noah, with blue eyes and long black hair. He wears gold Consul armor with red lines, and an "X" symbol on his chest. Unlike the other Consuls, his mask is one that covers his eyes, as opposed to being a full helmet.
+
+== Story ==
+=== Becoming Moebius ===
+N is in fact a previous incarnation of Noah, who once fought against the Consuls himself a long time ago. After repeated failures to strike back against them, he abandoned all hope of ending the war and had a son named [[Ghondor (FR)|Ghondor]] with [[Mio]], who he would outlive. Following his natural death, [[Z]] approached him and showed him that that in each of their previous lives he and Mio would meet, fall in love, join the [[Lost Numbers]], and die; as a result, he saw himself as being trapped in an inescapable cycle and despaired of ever being able to end it. Noah accepted Z's offer to make him and Mio into [[Moebius]] so he could be with her for eternity. Z tasked N with destroying the City to deprive [[Alpha]] of the lives he needed to create a new world, stating that he would resurrect Mio as [[M]], allowing the two to live for eternity as Moebius.
+
+=== Destroying the First City ===
+[[File:N Ghondor.jpg|thumb|180px|N and Ghondor]]
+N arrives at the City and proceeds to raze the city, and confronts Alpha inhabiting the body of [[Na'el]], N's great-granddaughter, to round up all the Citizens to create his new world. N and Alpha then duel, with Alpha being surprised by N's willpower (stemming from his desire for an eternity with Mio), and N eventually gaining the upper hand. As N is about to land a killing blow on Na'el, Ghondor intervenes and is impaled by N's [[Lucky Seven|Sword of the End]]. Ghondor asks his father why he was doing this and if this is what his mother wanted, to which N quietly claims the burden is solely on his shoulders, showing some regret for his actions. Ghondor claims that this is not the path that Mio would have wanted Noah to take. As [[Matthew (FR)|Matthew]], Ghondor's grandson, arrives on the scene, Ghondor leaves the future in his hands and used the last of his [[Ouroboros]] power to attempt to free Na'el from Alpha's control, which saves the Citizens but leaves the City physically destroyed.
+
+Through N and Ghondor's actions, Alpha's plan to create a new world is temporarily halted. When M later arrives at the ruins of the City, she questions how N could commit such an act. Rather than discussing the details of the encounter, N simply claims he carried out Z's orders since he didn't want to lose her again. N explains they will continue to live together forever now, but M is unhappy with his choice and how he destroyed everything they once loved. 
+
+=== N and Matthew ===
+N later appears before them as the party faces Na'el/Alpha at [[Raguel Lake]]. N duels Alpha once again, with Alpha claiming N's emotions to be stronger than their own. Alpha attempts to invoke Na'el's name to dissuade N from fighting, but N reiterates that he has divorced himself from his past as Noah. N is able to damage Alpha's [[Core Crystal]] and proceeds to try to finish them off, only to be stopped by Matthew, who experiences a spike in his Ouroboros power. As Matthew tries to attack N as revenge for destroying the City and killing Ghondor, [[A]] stops him, informing him that Matthew and N are blood-related, prompting N to reveal himself as Ghondor's father and Matthew's great-grandfather. Matthew is able to piece together N's motivation for becoming Moebius, but the confrontation is cut short by the appearance of [[Origin]] above the [[Cent-Omnia Region]], prompting N to leave. Before departing, N claims he will destroy Alpha before Matthew can attempt to save Na'el.
+
+N later confronts the party at the [[Prison Terrace]] on [[Prison Island]], intending to prevent them from reaching Alpha. A fierce battle ensues between the N and the party. As Matthew clashes with N during the fight, a memory from within Origin is shown to the party, allowing the party to witness the true events that led to the City's destruction. Afterward, N claims that through his sacrifice, Ghondor consented to N's actions, while Matthew quickly refutes that his grandfather would never support slaughtering the City. N subconsciously knows this, as he stops arguing with Matthew and does not retaliate when Matthew punches him across the face. N then falls to the ground and admits defeat, and Matthew promises to strike him down again if he attempts to fight. Alpha then appears from above and hits N with a large beam of energy before engaging the party. 
+
+=== Fighting alongside Ouroboros === 
+[[File:Matthew N Face Off.jpg|thumb|left|180px|N and Matthew cease hostilities]]
+During the fight against Alpha, N reappears and strikes Alpha by surprise, which frees Na'el from Alpha's clutches and helps Matthew avoid being controlled by Alpha. N and Matthew then agree on a temporary truce to take on Alpha's true form. In a final effort to defeat Alpha, he grants Matthew the powers of his [[Lucky Seven|Sword of The End]] and instructs him to combine it with his Ouroboros Knuckles. This grants the party the true power of Ouroboros, which results in Alpha's demise.
+
+City records tell that N was driven off by Founder Vandham. In reality, N and Matthew came to an agreement to briefly suspend hostilities after the battle. N states that he, as a member of Moebius, will continue to uphold the endless now, to which Matthew responds that the City will continue to fight against them. When N questions whether Matthew could actually take down Moebius in his lifetime, Matthew reassures him that their descendants will continue where they left off. Having seen some of N's buried guilt in their battle on Prison Island, Matthew suspects that one day, N himself might even switch sides and abandon Moebius.
+
+=== Return of Ouroboros ===
+Through his success in halting Alpha, N is able to rise the ranks of Moebius and becomes Z's right hand man. N becomes the leader of the Kevesi Consuls, while M becomes the leader of the Agnian Consuls. N holds himself above the other Moebius and views the other Moebius who view their soldiers as pawns in a game as primitive and vulgar, though Z claims that N is not so different from the rest. Many years after the battle against Alpha, N is informed by [[Moebius D &amp; J]] of the return of a new group of individuals with Ouroboros powers. N then begins ordering the Consuls to intercept the new Ouroboros. He continues to watch the party from the Amphitheater alongside Z, and they discover that the leaders of the new Ouroboros group are none other than Noah and Mio. N begins observing Noah and Mio on their journey, waiting for Mio's eventual death to break Noah's spirit. 
+
+N then gets directly involved in halting the party. He brings both [[Ethel]] and [[Cammuravi]] to [[Keves Castle]] and blackmails them into fighting against Ouroboros, and he sends [[Moebius O &amp; P]] to overlook the battle and step in if needed. Nevertheless, the party still defeats O and P, and they make their way to Keves Castle to confront the [[Queen of Keves|Queen]], but N arrives on the scene. The Queen is revealed to be a fake, and N prepares to take down Noah and Mio himself, claiming that nobody can escape the flow. However, the [[Lost Numbers]] suddenly attack the Castle, allowing for the Ouroboros to make an escape. M later arrives at Keves Castle, and N claims he will meet the party again and do what is necessary to preserve their eternity together.
+
+=== Defeating Ouroboros ===
+The Ouroboros eventually sneak into [[Li Garte Prison Camp]] to rescue [[Ghondor]] and others of the Lost Numbers, but [[Shania]] betrays the Lost Numbers, allowing N, M, and [[X]] to stop their escape. M briefly engages the party and uses her ability to control the bodies of others to moderate success, but she eventually wears herself out. N then steps in and uses his knowledge of the Ouroboros' weaknesses to overwhelm the party. He prepares to kill Noah, but he stops short once he sees Noah rush to Mio's side. [[Lanz]] and [[Sena]] attempt to kill N and sacrifice themselves by exceeding their Ouroboros time limit, thereby causing an annihilation event, but they are stopped short by X. With X sealing their powers away, N instead decides to take the Ouroboros as prisoners and transports them to [[Agnus Castle]]. 
+
+When visiting the group in prison, he explains his plans to have the group wait one month for Mio's Homecoming, forcing them to watch her die. As Noah attempts to fight back in vain, N berates his naive hopes and dreams, insisting the endless now to be the only reality in their world. In doing so, N seeks to force Noah to abandon his ideals and give into despair as he did, vindicating his choice to become Moebius. On the day of Mio's Homecoming, N tortures Noah once again by forcing him to send Mio off, but Noah cannot bring himself to do it as Mio passes on. N then prepares to execute Noah and the rest of the party. 
+
+=== The Truth Revealed ===
+In reality, Mio survives being executed by swapping bodies with M back in the initial confrontation outside Li Garte Prison Camp. Mio uses her new powers to show Noah the turn of events that led a past incarnation of himself to join Moebius and become N. She then saves him from being executed, and N realizes that M was the one who died, not Mio. Mio reveals that M couldn't continue living as Moebius, so she merged with Mio. Noah attempts to question how N could become Moebius after having a son of his own. N is crazed with grief and bitterness, lashing out at Noah out of envy over how Noah's version of Mio was able to stay with him when M did not, and he challenges the party once more. 
+
+During their battle, Noah claims he will end the world if it attempts to hold their lives back, but N claims that it is impossible to change this world. Mio states that M felt imprisoned by N, as N's love for M decayed into an insane, toxic possessiveness once they became Moebius. N was simply content to live alongside M forever, but he was unaware that M never wanted to live forever and that becoming a Consul robbed him of the very traits that made her love him in the first place. M knew his reasons for becoming Moebius, but she hoped by swapping bodies with Mio, she would be able to end N's suffering. Ultimately, Noah and Mio are unable to get through to N, and X uses the fake [[Queen of Agnus]] to allow them to escape. 
+
+=== Showdown with Noah ===
+Upon Mio's death, a dejected N returns to the Amphitheater. As the party breaches Origin, Z goads N to continue fighting to preserve [[Aionios]], claiming that the endless now is what he always desired. He challenges the party one final time before they can rescue [[Melia]], continuing to reiterate his falsehoods that they cannot change the nature of Aionios as he never could. Noah states that they just want to carry out M's wish and to save N from his misery, though N insists that none of that matters, once again masking his true feelings of regret.
+
+During the battle, Noah once again asks how N could resort to killing the City's people, to which N continues to spout numerous excuses. He claims their lives were meaningless to Moebius, and that as their ancestor, he held the right to do with the City as he pleased. N wonders again why M could've left him, and Noah finally understands that N has become a prisoner to his feelings of regret and guilt. By failing to stop Moebius and by failing to save Mio in multiple lifetimes, N made the drastic choice to become Moebius. In order to cope with his decision to become Moebius, he clings to his past failures as a form of self-punishment. He once again lashes out against the group but is finally defeated. As he kneels in defeat, he wonders what allows for Noah and Mio to be the ones who lived together and not him and M. Noah explains that everyone he has met shaped him into a different person and that he might have made the same choice as N if he were in his shoes. Mio forgives N for his decision, claiming that a desire to protect the "now" is a very human desire. N finally forgives himself and merges with Noah.
+
+N reappears alongside M in spirit form at the conclusion of the final battle with [[Z&#8734;]], explaining that their existence from a desire for eternity together only serves to strengthen Moebius. N and M sacrifice themselves to destroy Z for good, and in doing so, entrust Noah and his allies with the future they couldn't protect. 
+{{clr}}
+
+== Battles ==
+&lt;div style="float: right;"&gt;&lt;tabber&gt;
+|-|Agnus Castle Barbican =
+{{Infobox XC3 Enemy
+|name         = Moebius N
+|image        = sane_N.jpg
+|caption      = Moebius N
+|category     = Boss
+|type         = [[Consul (enemy)|Consul]]
+|level        = 50
+|area         = [[Agnus Castle Barbican]] ([[West Perimeter Gate]])
+|spawntime    = Story
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+
+|-|Agnus Castle Region =
+{{Infobox XC3 Enemy
+|name         = Moebius N
+|image        = insane_N.jpg
+|caption      = Moebius N
+|category     = Boss
+|type         = [[Consul (enemy)|Consul]]
+|level        = 50
+|area         = [[Agnus Castle Region]] ([[Ascension Grounds]])
+|spawntime    = Story
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+
+|-|Origin =
+{{Infobox XC3 Enemy
+|name         = N
+|image        = broken_N.jpg
+|caption      = N
+|category     = Boss
+|type         = [[Consul (enemy)|Consul]]
+|level        = 68
+|area         = [[Origin Interior]] ([[Eternal Prison]])
+|spawntime    = Story
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Moebius N''' or '''N''' is fought four times as a [[Boss (XC3)|Boss]]. He is first fought at level 50 at the [[West Perimeter Gate]] in the [[Agnus Castle Barbican]]. He is fought again at level 50 on the [[Ascension Grounds]] in the [[Agnus Castle Region]]. He is later fought twice in succession at level 68 in the [[Eternal Prison]] in the [[Origin Interior]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius N
+|image        = XC3 Moebius N DLC Battle.jpg
+|caption      = Moebius N
+|type         = [[Consul (enemy)|Consul]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 100
+|detection    = 
+|spawntime    = During ''[[N and M]]''
+|respawn      = No
+|hp           = 12,224,600
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+Moebius N is fought at level 100 alongside [[M]] during the [[Challenge Battle Mode|Challenge Battle]] ''[[N and M]]''.
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+&lt;div style="float: right;"&gt;&lt;tabber&gt;
+|-|Raguel Lake =
+{{Infobox XC3 Enemy
+|name         = Moebius N
+|image        = N Raguel Lake.jpg
+|caption      = Moebius N
+|category     = Boss
+|type         = [[Consul (enemy)|Consul]]
+|level        = 33
+|area         = [[The Ragmos Desolation]] ([[Raguel Lake]])
+|spawntime    = Story
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+
+|-|Prison Island =
+{{Infobox XC3 Enemy
+|name         = Moebius N
+|image        = Prison Island N.jpg
+|caption      = Moebius N
+|category     = Boss
+|type         = [[Consul (enemy)|Consul]]
+|level        = 49
+|area         = [[Black Mountains]] ([[Prison Terrace]])
+|spawntime    = Story
+|respawn      = No
+|exp          = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+
+|-|City =
+{{Infobox XC3 Enemy
+|name         = Moebius N
+|image        = N City.jpg
+|caption      = Moebius N
+|category     = Boss
+|type         = [[Consul (enemy)|Consul]]
+|level        = 49
+|area         = [[City]]
+|spawntime    = Story
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Moebius N''' is fought three times as a [[Boss (XC3)|Boss]] in {{XC3FR|sub}}. He is first fought at level 33 at [[Raguel Lake]] at [[The Ragmos Desolation]]. This battle, fought with Matthew alone, cannot be won. He is fought again at level 49 on the [[Prison Terrace]] of [[Prison Island]] on the [[Black Mountains]]. He is fought for a final time at level 49 by [[Na'el]] during the memory of the [[City]]'s destruction.
+{{clr}}
+
+== Quotes ==
+* ''"Was that your doing, Queen? You haven't given up your false hope. Very well. By all means, look on. Witness how hollow your hope rings... as I slice it all to ribbons!"''
+* ''"Need you ask? I will give us equilibrium. A time unchanging... Our eternity."''
+* ''"Very well. I will demonstrate beyond all doubt. There is no possible future for you in this world."''
+* ''"Pick it up. You're an off-seer. So send her. What's wrong? Go on, send her. Isn't that your role? Isn't she your Mio?"''
+*''"Wh-what...! Impossible... You're...! Ouroboros?! ...Does that mean...? Back then, the two of you...?! So... the one who died is...? Why, Mio...?! Why would you do this to me?! You said you'd be by my side! Mio! All I did, I did for you...!"''
+*''"I didn't...want to lose any more."''
+*''"Heh. Got my just deserts? Well don't you look smug, with my woman on your arm, Noah..."''
+*''"To rescue me...? What meaning does that tripe hold for me? Now that all is past, why should it matter? If you don't know, then let me teach you. I'll drag you with me... Deep into the void! To the depths of despair!"''
+*''"Mio...! Mio! Mio! Mio!!! You're the one who couldn't protect her! In the end you were powerless! And now she's gone...! How could you?! Answer me!!!"''
+*''"This "Hope" of yours... How can there be anything like it?! In this world, there is nothing but the void! Peer now into it, and watch your precious hope crumble to nothing!"''
+*''"Believe in yourselves. All of you will certainly reach heights that we were unable to. You guys can surely...make it."''
+* ''"There can only be one me! And I am it!"''
+* ''"If raw emotion is what affords him strength, it must be disrupted with emotion stronger still. You fail to reach such a zenith."''
+* ''"Eternity...My due. In return for protecting this world...Z promised me eternity...An eternal present in which to abide."''
+* ''"You would never understand. This is...my choice!"''
+* ''"You don't need to know. The burden is...mine alone to bear."''
+*''"Drive it in! Release the power of Ouroboros!"''
+*''"Moebius will never change. In any way. Forever transfixed...they will guard the "endless now" to the last."''
+*''"You don't even know how powerless you are...but I will show you!"'' (Battle Start, Prison Camp)
+*''"You could have made it easier on yourself...had you decided not to struggle."'' (defeats party member, Prison Camp)
+*''"So you're Ouroboros? So what?"'' (party member transforms into Ouroboros)
+*''"I will give you a taste of the despair I felt...of the deepest void!"'' (Battle Start, Origin Phase 1)
+*''"You offend me...I'LL CUT YOU DOWN!"''
+*''"Know your impotence!"''
+*''"I will face you down again and again...YOU'LL NEVER MEASURE UP!"'' (defeats party member, Origin)
+*''"There is no future that lies before you."'' (defeats party member, Origin)
+*''"There is no room for hope in this world...only despair!"'' (Battle Start, Origin Phase 2)
+* ''"Come then! This is where your journey ends!"'' (Battle Start, Prison Island)
+*''"Your fists were powerless against me."'' (defeats Matthew, Prison Island)
+*''"I have kept my side of the deal."'' (party wiped out, Prison Island)
+*''"You shall not get past me!"'' (defeated, Prison Island)
+* ''"Alpha! You will not seize this moment from me!"'' (Battle Start, flashback fight, City)
+
+== Trivia ==
+* N's backstory, appearance, and role in the plot are reminiscent of [[Jin]] from {{XC2}}, [[w:c:xenosaga:Kevin Winnicot|Kevin Winnicot]] from ''[[w:c:xenosaga:Xenosaga|Xenosaga]]'', and [[w:c:xenosaga:Grahf|Grahf]] from ''[[w:c:xenosaga:Xenogears|Xenogears]]''.
+* It is implied that N's Sword of the End contains [[Logos]]' Core Crystal. As [[Rex]] and [[Shulk]] give their life force to [[Glimmer]] and [[Nikol]] respectively, Rex claims to [[A]] that "they" ([[Pneuma]] and Logos) would not have objected to their actions. During this line, the camera pans to N's Sword first, then Matthew's Ouroboros Knuckes (which contains Pneuma's core).
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Consul N Art.png|Official Art of N
+XC3 N Concept Art.png|N's Concept Art
+Weapon Concept 4.png|Concept art for N's Blade and his Sword of the End
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Consul N 01.jpg
+XC3 Consul Eye Symbol02.jpg
+XC3 Consul N No Mask.jpg|N without his mask
+Rex Glimmer N.jpg|N fighting Rex and Glimmer
+Drive It In.jpg|N grants Matthew the power of his sword
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+{{XC3FRCharNav}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3FR Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Agnus Castle Region Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Consul Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3FR Bosses]]
+[[Category:XC3FR Quest Exclusive Enemies]]
+[[Category:XC3FR Quest Enemies]]
+[[Category:XC3FR Consul Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3FR Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>99oycpjz7n4wlvmip4qluwjlkp1g7k2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>N and M</title>
+    <ns>0</ns>
+    <id>124283</id>
+    <revision>
+      <id>576286</id>
+      <parentid>562918</parentid>
+      <timestamp>2023-02-09T13:14:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1183" sha1="4tgz7fw94g38tq2f83g39g95cok5x49" xml:space="preserve">{{Infobox quest
+|name          = N and M
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Complex feelings for friends, yes, but this is fight that Archsage simply had to see, so please to indulge!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main Story completed
+|difficultyCB3 = 5
+|rewards       = 1050-1500 [[Noponstone]]s (Easy)&lt;br/&gt;2100-3000 [[Noponstone]]s (Normal)&lt;br/&gt;3150-4500 [[Noponstone]]s (Hard)
+}}
+'''N and M''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from the [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will reward the party with [[Accomplished Vambraces]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 1
+|-
+| Level Restriction || Lv 99
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[N#Challenge Battle Mode|Moebius N]] || 100
+|-
+| [[M#Challenge Battle Mode|Moebius M]] || 100
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>4tgz7fw94g38tq2f83g39g95cok5x49</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Naberius Bunnit</title>
+    <ns>0</ns>
+    <id>121017</id>
+    <revision>
+      <id>573730</id>
+      <parentid>559836</parentid>
+      <timestamp>2023-01-24T03:01:21Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="847" sha1="ir66b3g3qcnecxb1z0nljp6c1vyak1j" xml:space="preserve">{{Infobox Enemy
+|name         = Naberius Bunnit
+|image        = 
+|caption      = Naberius Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = 42-43
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Naberius Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 42-43 at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ir66b3g3qcnecxb1z0nljp6c1vyak1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nacre Choker (XC3)</title>
+    <ns>0</ns>
+    <id>118984</id>
+    <revision>
+      <id>592821</id>
+      <parentid>592546</parentid>
+      <timestamp>2023-05-15T20:17:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592821</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1044" sha1="53h3o4nil4j0o70vaqzwqv2t4fglsj3" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Nacre Choker (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Nacre Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Nacre Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Nacre Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Nacre Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>53h3o4nil4j0o70vaqzwqv2t4fglsj3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nagumo</title>
+    <ns>0</ns>
+    <id>121027</id>
+    <revision>
+      <id>597760</id>
+      <parentid>596094</parentid>
+      <timestamp>2023-07-02T16:28:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1596" sha1="rlf91x88kdk48isoobktqn7ofl0co6c" xml:space="preserve">{{Infobox NPC
+|name        = Nagumo
+|image       = XC3_Nagumo.png
+|personality = 
+|time_active = Night
+|gender      = Male
+|race        = [[Agnus|Agnian]] human
+|age         = 5th Term
+|location    = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Colony Gamma]])
+}}
+'''Nagumo''' is an NPC in {{XC3}} who can be found in [[Colony Gamma]].
+
+== Overview ==
+Nagumo is part of Team [[Foots]] alongside [[Ysorra]]. He is the defender of the squad, and is very hyperactive about combat. He treasures his squad mates dearly.
+
+== Affinity ==
+* [[Foots]]
+* [[Ysorra]]
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Nagumo
+|image        = 
+|caption      = Nagumo
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Everblight Plain]]
+|spawntime    = During ''[[Shadow of Enmity]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Nagumo''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. He is an [[Agnus Forces|Agnus Soldier]] who is fought at level ? at [[Everblight Plain]] during ''[[Shadow of Enmity]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>rlf91x88kdk48isoobktqn7ofl0co6c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nahtei Quadwing</title>
+    <ns>0</ns>
+    <id>121893</id>
+    <revision>
+      <id>584157</id>
+      <parentid>559838</parentid>
+      <timestamp>2023-04-20T14:27:44Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="8lmodx1zpy3olextqbsajlv7qbd8q61" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Nahtei Quadwing
+|image        = Nahtei Quadwing.jpg
+|caption      = Nahtei Quadwing
+|category     = Minor Enemy
+|type         = [[Quadwing]]
+|level        = 46-48
+|area         = [[Li Garte Prison Camp]] ([[Perimeter Woodland]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Nahtei Quadwings''' are Minor Enemies in {{XC3}}. They are members of the [[Quadwing]] family, and can be found at level 46-48 in the [[Perimeter Woodland]] of [[Li Garte Prison Camp]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8lmodx1zpy3olextqbsajlv7qbd8q61</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nairoo Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>121202</id>
+    <revision>
+      <id>595169</id>
+      <parentid>559839</parentid>
+      <timestamp>2023-06-11T15:09:12Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1619" sha1="mgoczkdbxhw1bwbcsbwkhiy1pxlj64m" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Nairoo Bunnit (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Nairoo Bunnit
+|image        = 
+|caption      = Nairoo Bunnit
+|category     = Normal Minor Enemy
+|type         = [[Bunnit]]
+|level        = 46-47
+|area         = [[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Nairoo Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 46-47 on the [[Urayan Trail]] in the [[Pentelas Region]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Nairoo Bunnit
+|image        = Nairoo Bunnit FR.jpg
+|caption      = Nairoo Bunnit
+|category     = Normal Minor Enemy
+|type         = [[Bunnit]]
+|level        = 7
+|area         = [[Vermilion Woods]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Nairoo Bunnits''' are normal enemies in {{XC3FR}}. They are members of the [[Bunnit]] family, and can be found at level 7 in [[Vermilion Woods]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3FR Bunnits]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>mgoczkdbxhw1bwbcsbwkhiy1pxlj64m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nairoo Hox</title>
+    <ns>0</ns>
+    <id>121847</id>
+    <revision>
+      <id>559840</id>
+      <parentid>547028</parentid>
+      <timestamp>2022-09-30T10:54:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="809" sha1="rr148guljnfndyz879wmrehnqovfj2s" xml:space="preserve">{{Infobox Enemy
+|name         = Nairoo Hox
+|image        = 
+|caption      = Nairoo Hox
+|category     = Minor Enemy
+|type         = [[Hox]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Nairoo Hoxes''' are Minor Enemies in {{XC3}}. They are members of the [[Hox]] family, and can be found at level ? at [[Erythia Sea]] or [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>rr148guljnfndyz879wmrehnqovfj2s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nanotech Gloves</title>
+    <ns>0</ns>
+    <id>124391</id>
+    <revision>
+      <id>562069</id>
+      <timestamp>2022-10-20T15:03:06Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Nanotech Gloves |image     =  |caption   = Boosts Dexterity by 35%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Red]] |sell      = [[Gold|G]] }} '''Nanotech Gloves''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3 stub}}  Category:XC3 Accessories..."</comment>
+      <origin>562069</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="557" sha1="hw7e57fxsez21tksteokscwh9h41mp1" xml:space="preserve">{{Infobox item
+|name      = Nanotech Gloves
+|image     = 
+|caption   = Boosts Dexterity by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Nanotech Gloves''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>hw7e57fxsez21tksteokscwh9h41mp1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Naola Crustip (XC3)</title>
+    <ns>0</ns>
+    <id>121848</id>
+    <revision>
+      <id>595229</id>
+      <parentid>584181</parentid>
+      <timestamp>2023-06-11T16:02:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1720" sha1="qyjku1dpyuubv8usrywof844v98ynj4" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Naola Crustip (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Naola Crustip
+|image        = XC3 Naola Crustip.jpg
+|caption      = Naola Crustip
+|category     = Normal Minor Enemy
+|type         = [[Crustip]]
+|level        = 45-47
+|area         = [[Erythia Sea]]&lt;br/&gt;[[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Naola Crustips''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level 45-47 in [[Erythia Sea]] and at the [[Great Sword's Base]], between [[Morrack Inlet]] and [[Knife's Edge Pass]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Naola Crustip
+|image        = Naola Crustip FR.jpg
+|caption      = Naola Crustip
+|category     = Normal Minor Enemy
+|type         = [[Crustip]]
+|level        = 10
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Naola Crustips''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Crustip]] family, and can be found at level 10 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3FR Crustips]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>qyjku1dpyuubv8usrywof844v98ynj4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Natural Selection</title>
+    <ns>0</ns>
+    <id>120397</id>
+    <revision>
+      <id>578566</id>
+      <parentid>577166</parentid>
+      <timestamp>2023-03-06T14:29:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>578566</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1447" sha1="oy5khxarfwwsjk2kys3u4n8352s3mqc" xml:space="preserve">{{Infobox quest
+|name        = Natural Selection
+|image       = XC3 Natural Selection.jpg
+|description = "As the party move through Maktha Wildwood, they are ambushed by Agnian Soldiers, defeating them."
+|giver       = 
+|location    = [[High Maktha Wildwood]] ([[Vista of Rhonnar]])
+|time        = Story
+|prereqs     = 
+|reclevel    = Lv. 31
+|rewards     = 400 [[Colony Tau]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;2080 [[Experience Points (XC3)|EXP]]&lt;br/&gt;2240 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[The Art of Flow]]&lt;br/&gt;[[Juniper]] as a [[Hero]]&lt;br/&gt;Rope Sliding as a [[Traversal Skill]]
+}}
+'''Natural Selection''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Juniper]]. Completing this quest is required to progress the story.
+
+== Objectives ==
+# ''Defeat the specified foe(s).''
+#* Mystery Agnus Ninjas (5)
+#** [[Agnus Fighter A]]
+#** [[Agnus Fighter B]]
+#** [[Agnus Fighter C]]
+#** [[Agnus Fighter D]]
+#** [[Agnus Fighter E]]
+# ''Follow the trail.''
+#* Mystery Agnian Trail
+# ''Head for the specified location(s).''
+#* Where the mysterious Agnians fled
+# ''Explore [[Colony Tau]].''
+# ''Head for the specified location(s).''
+#* [[Colony Tau Entrance]]
+# ''Defeat the specified foe(s).''
+#* [[Annon Rhinon]] (3)
+
+== Results ==
+''"Colony Tau's [[Flame Clock]] is no more. To help Tau evolve and grow, Juniper decided to join the party."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Juniper]]
+[[Category:Pentelas Region Quests]]</text>
+      <sha1>oy5khxarfwwsjk2kys3u4n8352s3mqc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Naval Gyrus</title>
+    <ns>0</ns>
+    <id>119484</id>
+    <revision>
+      <id>574531</id>
+      <parentid>562245</parentid>
+      <timestamp>2023-01-29T07:00:37Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1297" sha1="8q4h6wg5jw87dfovr1tmtvof5i8dxsg" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Naval Gyrus
+|image        = XC3 Naval Gyrus.png
+|caption      = Naval Gyrus
+|type         = [[Krodlax]]
+|level        = 75
+|area         = [[Erythia Sea]] ([[Irma's Secret Base]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 2,128
+|cp           = 85
+|sp           = 5
+|gold         = 1,230
+|hp           = 3,650,400
+|strength     = 1,955
+|healing      = 426
+|dexterity    = 332
+|agility      = 283
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+'''Naval Gyrus''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Krodlax]] family, and can be found at level 75 near [[Irma's Secret Base]] in [[Erythia Sea]]. The [[Trout Hop]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 50%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Naval gyrus location.png
+Naval gyrus.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Krodlax]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8q4h6wg5jw87dfovr1tmtvof5i8dxsg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Navigator Helios</title>
+    <ns>0</ns>
+    <id>119480</id>
+    <revision>
+      <id>574738</id>
+      <parentid>574533</parentid>
+      <timestamp>2023-01-30T12:59:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1355" sha1="n7cnx6lkaxhz0f6wwhjatz9v44byrq7" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Navigator Helios
+|image        = XC3 Navigator Helios.png 
+|caption      = Navigator Helios
+|type         = [[Levnis]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Erythia Relay Base]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,748
+|cp           = 142
+|sp           = 5
+|gold         = 2,712
+|hp           = 1,257,100
+|strength     = 1,046
+|healing      = 400
+|dexterity    = 186
+|agility      = 120
+|physdef      = -5%
+|ethdef       = 15%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Navigator Helios''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is an [[Agnus|Agnian]] [[Levnis]], and can be found at level 48 at the&#160;[[Erythia Relay Base]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Reckless Attack]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Navigator helios location.png
+Navigator helios.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>n7cnx6lkaxhz0f6wwhjatz9v44byrq7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nelva Pippito (XC3)</title>
+    <ns>0</ns>
+    <id>121038</id>
+    <revision>
+      <id>559842</id>
+      <parentid>556520</parentid>
+      <timestamp>2022-09-30T10:54:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559842</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="849" sha1="c35oaepuw6xk1h0h2ckk4al9d7fdfmc" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Nelva Pippito (XC2)}}
+{{Infobox Enemy
+|name         = Nelva Pippito
+|image        = 
+|caption      = Nelva Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Nelva Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level ? at [[Millick Meadows]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>c35oaepuw6xk1h0h2ckk4al9d7fdfmc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Neml Pippito (XC3)</title>
+    <ns>0</ns>
+    <id>123187</id>
+    <revision>
+      <id>582515</id>
+      <parentid>560341</parentid>
+      <timestamp>2023-04-11T22:02:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582515</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="0lib476mu24mkcuuu9slozt47ic27v3" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Neml Pippito (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Neml Pippito
+|image        = 
+|caption      = Neml Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = ?
+|area         = [[Rae-Bel Tableland]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Neml Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level ? in [[Rae-Bel Tableland]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0lib476mu24mkcuuu9slozt47ic27v3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nestrand Crustip</title>
+    <ns>0</ns>
+    <id>117909</id>
+    <revision>
+      <id>583421</id>
+      <parentid>559844</parentid>
+      <timestamp>2023-04-18T15:08:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583421</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="6tzm4i4fjt5fanm4agies6hlz4mxyhg" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Nestrand Crustip
+|image        = 
+|caption      = Nestrand Crustip
+|category     = Normal Minor Enemy
+|type         = [[Crustip]]
+|level        = 11
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Nestrand Crustips''' are normal minor enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level 11 in the [[Millick Meadows]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6tzm4i4fjt5fanm4agies6hlz4mxyhg</sha1>
+    </revision>
+  </page>
+  </mediawiki>

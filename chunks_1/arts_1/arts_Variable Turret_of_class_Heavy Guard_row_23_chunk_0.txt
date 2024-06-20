@@ -1,0 +1,6 @@
+Art Name: Variable Turret
+
+Class: Heavy Guard
+
+Effect: Block attacks
+

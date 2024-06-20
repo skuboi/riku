@@ -1,0 +1,6 @@
+Art Name: Illusory Bloom
+
+Class: Glimmer
+
+Effect: Phys. Def. down/Blaze
+

@@ -1,0 +1,6 @@
+Art Name: Bull Rush
+
+Class: Heavy Guard
+
+Effect: Topple
+

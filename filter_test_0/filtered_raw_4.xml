@@ -1,0 +1,2031 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ardun</title>
+    <ns>0</ns>
+    <id>5933</id>
+    <revision>
+      <id>601926</id>
+      <parentid>600695</parentid>
+      <timestamp>2023-07-22T12:17:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{TTGC|-}} */</comment>
+      <origin>601926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3138" sha1="io8gf6nqcwpvqimgenf3u2i3opzujf4" xml:space="preserve">[[File:Berserk_Ardun.jpg|thumb|Ardun model]]
+'''Arduns''' (Japanese: {{lang|ja|&#12450;&#12523;&#12489;&#12531;}}, ''Arudon'') are enemies in the {{XC|serieslink}}. They are somewhat similar in appearance to a rhino crossed with a triceratops, and highly similar to [[Armu]]s: there are very few differences between an Ardun and an Armu; according to the Traditional Chinese localization of {{XC2}}, and the English localization of {{XC3}}, Arduns and Armus are, respectively, the male and female versions of the same species.
+
+With the exception of [[Herculean Gibson]] (a [[Unique Monster (XC2)|Golden Monster]]), [[Relentless Arduran]] (resembles a [[Balgas]]), and [[Kilocorn Grandeps]] (a [[Superboss]] with a unique appearance), all Arduns share one model.
+
+== {{XC|-}} ==
+Arduns can only be found on the [[Bionis' Leg]].
+
+=== Normal Minor Enemies ===
+* [[Leg Ardun]]
+* [[Berserk Ardun (normal)|Berserk Ardun]]
+* [[Magnis Ardun]]
+
+=== Story Exclusive Enemy ===
+* [[Berserk Ardun (story)|Berserk Ardun]]
+
+=== Unique Monster ===
+* [[Violent Andante]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Leg Ardun]] ([[Fogbeast]])
+
+== {{XC2|-}} ==
+Arduns can be found in [[Gormott Province]], primarily on the [[Upper Level - Right]] area.
+
+=== Normal Minor Enemies ===
+* [[Field Ardun]]
+* [[Massido Ardun (XC2)|Massido Ardun]]
+
+=== Quest Exclusive Enemies ===
+* [[Adult Ardun]] (during ''[[Ardun Rearing]]'')
+* [[Infant Ardun]] (during ''Ardun Rearing'')
+* [[Ominous Ardun]] (during ''Ardun Rearing'')
+* [[Young Ardun]] (during ''Ardun Rearing'')
+* [[Youthful Ardun]] (during ''Ardun Rearing'')
+
+=== Quest Exclusive Boss and Unique Monster ===
+* [[Relentless Arduran]] (during ''Ardun Rearing'')
+
+=== Boss ===
+* [[Rampaging Ardun (XC2)|Rampaging Ardun]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Grassland Ardun]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Aurea Ardun]]
+
+=== Unique Monster ===
+* [[Herculean Gibson]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Ankle Ardun]]
+* [[Dampl Ardun]]
+* [[Massido Ardun (XC3)|Massido Ardun]]
+* [[Rampaging Ardun (XC3)|Rampaging Ardun]]
+
+=== Unique Monsters ===
+* [[Kilocorn Grandeps]] ([[Superboss]])
+* [[Perspicacious Oldar]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Massido Ardun (XC3)|Massido Ardun]]
+
+=== Unique Monster ===
+* [[Smothering Andante]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+RampagingArdun.png|Rampaging Ardun
+Adult Ardun.png|Adult Ardun
+Relentless Arduran.png|Relentless Arduran
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+AureaArdun.jpg|Area Ardun
+Gibson.jpg|Herculean Gibson
+&lt;/gallery&gt;
+
+[[Category:Species Category]]
+[[Category:XC Species]]
+[[Category:XCFC Species]]
+[[Category:Bionis Life]]
+[[Category:XC Arduns]]
+[[Category:XCFC Arduns]]
+[[Category:Quadrupedal Enemies]]
+[[Category:Sight Category]]
+[[Category:XC2 Arduns]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Arduns]]
+[[Category:TTGC Beasts]]
+[[Category:XC3 Arduns]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Arduns]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Arduns]]
+[[Category:Species by Type]]</text>
+      <sha1>io8gf6nqcwpvqimgenf3u2i3opzujf4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Argencium</title>
+    <ns>0</ns>
+    <id>125619</id>
+    <revision>
+      <id>595678</id>
+      <parentid>577270</parentid>
+      <timestamp>2023-06-16T11:26:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595678</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" sha1="6h8g89uz6qns5ft4zbt7iazzos1uhbt" xml:space="preserve">{{Infobox item
+|name      = Argencium
+|image     = XC3 key item.png
+|caption   = "A unique silverish mineral that grows on backs of a rare species of Ropl."
+|type      = Key Item
+|xc3rarity = Common
+|source    = [[Argent Ropl]], during ''[[For the Sake of Keepsakes]]''
+|sell      = N/A
+}}
+'''Argencium''' is a DLC [[Key Item]] in {{XC3}}. It can be obtained by defeating the [[Argent Ropl]] during the [[Quest (XC3)|Quest]] ''[[For the Sake of Keepsakes]]''.
+{{clr}}
+
+== Trivia ==
+* The name of Argencium is likely a reference to [[Argentum]] from {{XC2}}.
+{{xc3 stub}}
+
+[[Category:XC3 Key Items]]
+[[Category:XC3 Quest Items]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>6h8g89uz6qns5ft4zbt7iazzos1uhbt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Argent Ropl</title>
+    <ns>0</ns>
+    <id>125618</id>
+    <revision>
+      <id>577058</id>
+      <timestamp>2023-02-16T03:40:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Enemy |name         = Argent Ropl |image        =   |caption      = Argent Ropl |category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] |type         = [[Ropl]] |level        = 51 |area         = [[Urayan Tunnels]] |spawntime    = During ''[[For the Sake of Keepsakes]]'' |respawn      = No |movement     =  |detection    =  |exp          =  |cp           =  |sp           =  |gold         =  |hp           =  |strength     =  |dexte..."</comment>
+      <origin>577058</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1196" sha1="6k7v8av5589qurs15vjoqp2r6uovd4o" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Argent Ropl
+|image        =  
+|caption      = Argent Ropl
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Ropl]]
+|level        = 51
+|area         = [[Urayan Tunnels]]
+|spawntime    = During ''[[For the Sake of Keepsakes]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Argent Ropl''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Ropl]] family, and is fought at level 51 in the [[Urayan Tunnels]] during ''[[For the Sake of Keepsakes]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 DLC Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6k7v8av5589qurs15vjoqp2r6uovd4o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aries</title>
+    <ns>0</ns>
+    <id>7983</id>
+    <revision>
+      <id>601928</id>
+      <parentid>600696</parentid>
+      <timestamp>2023-07-22T12:17:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601928</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2078" sha1="iur0l781y6qsh6isye6wbekdlco0p85" xml:space="preserve">[[File:Costa Aries.jpg|thumb|Aries model]]
+'''Aries''' (Japanese: {{lang|ja|&#12450;&#12522;&#12456;&#12473;}}, ''Ariesu'') are a family of enemies in the {{XC|serieslink}}. They are relatively rare heavyset deer-like enemies found exclusively in cold regions.
+
+'''[[Ories]]''': There are very few differences between an Aries and an Ories. It is assumed that Ories are male and Aries are female, and that this is the only reason for their name differences.
+
+== {{XC|-}} ==
+In {{XC}}, a couple of different types of these enemies are found south of the [[Lava Cave]] and northwest of the [[Nofol Tower]] in [[Valak Mountain]]. There are all normal minor enemies.
+
+=== Normal Minor Enemies ===
+* [[Costa Aries (XC1)|Costa Aries]]
+* [[Hista Aries]]
+
+== {{XC2|-}} ==
+In {{XC2}}, Aries can be found in the [[Kingdom of Tantal]].
+=== Normal Minor Enemies ===
+* [[Abrachi Aries]]
+* [[Mant Aries (XC2)|Mant Aries]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Aries can be found on [[Captocorn Peak]] and in [[The Cavity]].
+=== Normal Minor Enemies ===
+* [[Costa Aries (XC3)|Costa Aries]]
+* [[Kallow Aries]]
+* [[Little Aries]]
+* [[Mant Aries (XC3)|Mant Aries]]
+
+=== Unique Monster ===
+* [[Stonehoof Torphan]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Mant Aries (XC3)|Mant Aries]]
+
+=== Unique Monster ===
+* [[Hallowcanter Hazerune]]
+
+== Etymology ==
+* [[wiktionary:aries|Aries]] is the Latin word for ram, it gives its name to the [[wikipedia:Aries (constellation)|Zodiac constellation]] and the [[wikipedia:Aries (astrology)|Astrological sign]] of the ram.
+
+== Gallery ==
+&lt;gallery&gt;
+AbrachiAries.jpg|Abrachi Aries
+Mant Aries.png|Mant Aries
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:XC Aries]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XC Minor Enemies]]
+[[Category:Bionis Life]]
+[[Category:Valak Mountain Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aries]]
+[[Category:XC2 Beasts]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aries]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Aries]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Aries]]
+[[Category:Species by Type]]</text>
+      <sha1>iur0l781y6qsh6isye6wbekdlco0p85</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arm Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>123147</id>
+    <revision>
+      <id>560311</id>
+      <parentid>559540</parentid>
+      <timestamp>2022-10-03T16:05:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>for link</comment>
+      <origin>560311</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="800" sha1="o0or7hxfoo2w6mum33w6ce91jqhljhp" xml:space="preserve">{{for|the enemy in {{XC|-}}|Arm Bunnit (XC1)}}
+{{Infobox Enemy
+|name         = Arm Bunnit
+|image        = 
+|caption      = 
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Arm Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>o0or7hxfoo2w6mum33w6ce91jqhljhp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Armadillo</title>
+    <ns>0</ns>
+    <id>121804</id>
+    <revision>
+      <id>575924</id>
+      <parentid>559191</parentid>
+      <timestamp>2023-02-07T01:01:08Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>575924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1294" sha1="lpq6k4wexlbobcjhjtdnrbxqdap51lo" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Armadillo
+|image        = 
+|caption      = Armadillo
+|category     = Minor Enemy&lt;br /&gt;[[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 29
+|area         = [[Erythia Sea]]&lt;br /&gt;[[Great Cotte Falls]]
+|spawntime    = Anytime&lt;br /&gt;During ''[[Unwavering Resolve]]''
+|respawn      = Yes&lt;br /&gt;No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Armadillos''' are enemies in {{XC3}}. They are [[Agnus|Agnian]] [[Levnis]]es. Minor enemies can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]]. Two [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] can be found at level 29 at [[Great Cotte Falls]] in the [[Pentelas Region]] during ''[[Unwavering Resolve]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lpq6k4wexlbobcjhjtdnrbxqdap51lo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Armeh Taos</title>
+    <ns>0</ns>
+    <id>123182</id>
+    <revision>
+      <id>598249</id>
+      <parentid>575147</parentid>
+      <timestamp>2023-07-04T17:48:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="725" sha1="sfcz2z2yprcczylul6htpujs72864p8" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Armeh Taos
+|image        = Armeh Taos.jpg
+|caption      = Armeh Taos
+|category     = Minor Enemy
+|type         = [[Taos]]
+|level        = 17
+|area         = [[Eagus Wilderness]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Armeh Taos''' are Minor Enemies in {{XC3}}. They are members of the [[Taos]] family, and can be found at level 17 in the [[Eagus Wilderness]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Taos]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>sfcz2z2yprcczylul6htpujs72864p8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Armor Veil</title>
+    <ns>0</ns>
+    <id>125744</id>
+    <revision>
+      <id>593768</id>
+      <parentid>587585</parentid>
+      <timestamp>2023-05-23T00:03:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>593768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1289" sha1="incamos2omt2q400mrbcnmo93rpbeto" xml:space="preserve">{{Infobox XC3 Status
+|title          = Armor Veil
+|image          = XC3 Armor Veil.png
+|type           = Buff
+|base-duration  = &lt;abbr title="Lasts while still able to absorb damage"&gt;Indefinite&lt;/abbr&gt;
+|rng-applicable = Yes (player's party)&lt;br&gt;No (enemies)
+|effect-title-1 = Base Damage Absorbed
+|effect-value-1 = 20% of character's max HP (player's party)&lt;br&gt;10% of character's max HP (enemies)
+}}
+'''Armor Veil''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It nullifies a certain amount of damage dealt to a character, similar to the [[Damage Immunity]] status effect in {{XC}}.
+
+While a player character has the Armor Veil buff, their health bar (regardless of the HP they have) will be tinted dark blue. This does not apply if the character merely stands in a field granting the buff.
+
+== Distribution ==
+=== Arts ===
+* [[Divine Protection]] ([[Thaumaturge]]; field effect)
+* [[Electro Field]] ([[Lost Vanguard]]; field effect)
+* [[Bolt Flinger]] ([[Monica Vandham|Monica]] only; field effect)
+* [[Deflector Form]] ([[Zeon]]'s [[Chain Attack (XC3)|Chain Order]])
+* [[Monado Armour|Monado Armor]] ([[Shulk]]; field effect)
+
+=== Accessories ===
+* [[Prayer Necklace]] (grants buff to revived allies)
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>incamos2omt2q400mrbcnmo93rpbeto</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Armored Lining</title>
+    <ns>0</ns>
+    <id>118910</id>
+    <revision>
+      <id>592703</id>
+      <parentid>592284</parentid>
+      <timestamp>2023-05-15T20:11:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592703</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="iidmu5nm1xeoggjo0858ia732rbtwlk" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Armored Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 10%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3710 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Armored Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 11%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3710 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Armored Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 12%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3710 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Armored Linings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>iidmu5nm1xeoggjo0858ia732rbtwlk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Armored Rhinon</title>
+    <ns>0</ns>
+    <id>121805</id>
+    <revision>
+      <id>584183</id>
+      <parentid>559542</parentid>
+      <timestamp>2023-04-20T15:07:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>image and levels</comment>
+      <origin>584183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="838" sha1="b3m2curfrzcn5u1d4b3ijcb5qlves97" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Armored Rhinon
+|image        = Armored Rhinon.jpg
+|caption      = Armored Rhinon
+|category     = Minor Enemy
+|type         = [[Rhinon]]
+|level        = 46-48
+|area         = [[Great Sword's Base]]&lt;br/&gt;[[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Armored Rhinons''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Rhinon]] family, and can be found at level 46-48 at the [[Great Sword's Base]] and in [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Rhinons]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>b3m2curfrzcn5u1d4b3ijcb5qlves97</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Armu</title>
+    <ns>0</ns>
+    <id>5835</id>
+    <revision>
+      <id>601929</id>
+      <parentid>600697</parentid>
+      <timestamp>2023-07-22T12:17:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601929</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2708" sha1="nz9dd01h172n3j2zknhn1ldrg4cp8so" xml:space="preserve">[[File:Armu.jpg|thumb|right|Armu model]]
+'''Armus''' (Japanese: {{lang|ja|&#12450;&#12523;&#12510;}}, ''Aruma'') are enemies in the {{XC|serieslink}}. They look somewhat similar to a rhino, and live in grasslands. All Armu use the same model.
+
+'''[[Ardun]]''': There are very few differences between an Ardun and an Armu; according to the Traditional Chinese localization of {{XC2}} as well as the English localization of {{XC3}}, Arduns and Armus are, respectively, the male and female versions of the same species.
+
+== {{XC|-}} ==
+In {{XC}}, Armus can be found in [[Colony 9 (XC1)|Colony 9]] and the [[Bionis' Leg]]. There are several types of Armu:
+
+=== Normal Minor Enemies ===
+* [[Baby Armu (Agora Shore)|Baby Armu]] ([[Agora Shore]])
+* [[Baby Armu (Anti-Air Battery 1)|Baby Armu]] ([[Anti-Air Battery 1]])
+* [[Daughter Armu]]
+* [[Leg Armu]]
+* [[Plain Armu (XC1)|Plain Armu]]
+
+=== Unique Monster ===
+* [[Gentle Mother Armu]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Baby Armu]]
+* [[Leg Armu]]
+
+=== Story Exclusive Enemy ===
+* [[Leg Armu (story)|Leg Armu]] ([[Fogbeast]])
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Baroon Armu (XC2)|Baroon Armu]]
+* [[Dalya Armu (XC2)|Dalya Armu]]
+* [[Field Armu]]
+* [[Young Armu]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Grassland Armu]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Sorolle Armu]]
+* [[Urbs Armu]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Baroon Armu (XC3)|Baroon Armu]]
+* [[Dalya Armu (XC3)|Dalya Armu]]
+* [[Gularth Armu]]
+* [[Heavy Armu]]
+* [[Kinder Armu]]
+* [[Little Armu]]
+* [[Plain Armu (XC3)|Plain Armu]]
+
+=== Unique Monsters ===
+* [[Tenderling Rumi]]
+* [[Unruffled Narrah]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Little Armu]]
+* [[Plain Armu (XC3)|Plain Armu]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+BaroonArmu.jpg|Baroon Armu
+YoungArmu.jpg|Young Armu
+FieldArmu.jpg|Field Armu
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+UrbsArmu.jpg|Urbs Armu
+SorolleArmu.jpg|Sorolle Armu
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Little Armu.jpg|Little Armu
+Plain Armu (XC3).jpg|Plain Armu
+Unruffled Narrah.png|Unruffled Narrah
+XC3 Tenderling Rumi.png|Tenderling Rumi
+&lt;/gallery&gt;
+
+[[Category:Species Category]]
+[[Category:XC Species]]
+[[Category:XC Armus]]
+[[Category:Bionis Life]]
+[[Category:XCFC Species]]
+[[Category:XCFC Armus]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Armus]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Armus]]
+[[Category:TTGC Beasts]]
+[[Category:XC3 Species]]
+[[Category:XC3 Armus]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Armus]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Armus]]
+[[Category:Species by Type]]</text>
+      <sha1>nz9dd01h172n3j2zknhn1ldrg4cp8so</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Armuvore Aligo</title>
+    <ns>0</ns>
+    <id>121870</id>
+    <revision>
+      <id>579823</id>
+      <parentid>559543</parentid>
+      <timestamp>2023-03-21T00:01:54Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Infobox and categories</comment>
+      <origin>579823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="980" sha1="3g0dhba5bpwjwkxuh68zy8b33c01qxp" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Armuvore Aligo
+|image        = Armuvore Aligo.png
+|caption      = Armuvore Aligo
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Aligo]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[To Face Forward]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Armuvore Aligos''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Aligo]] family, and can be found at level 48 at [[Colony Mu]] in the [[Erythia Sea]] during ''[[To Face Forward]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Aligos]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3g0dhba5bpwjwkxuh68zy8b33c01qxp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Army Arachno</title>
+    <ns>0</ns>
+    <id>117503</id>
+    <revision>
+      <id>596001</id>
+      <parentid>582203</parentid>
+      <timestamp>2023-06-16T19:44:33Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>596001</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2686" sha1="nz0i6qdnvhkpyh9gd6w3da3bppixiv2" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Army Arachno
+|image        = Army Arachno.jpg
+|caption      = Army Arachno
+|category     = Normal Enemy
+|type         = [[Arachno]]
+|level        = 23
+|area         = [[Urayan Tunnels]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Army Arachnos''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Arachno]] family, and can be found at level 23 in the [[Urayan Tunnels]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Army Arachno
+|image        = 
+|caption      = Army Arachno
+|type         = [[Arachno]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 35
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Beginner]]''
+|respawn      = No
+|hp           = 46,020
+|strength     = 88
+|healing      = 263
+|dexterity    = 111
+|agility      = 145
+|physdef      = -10%
+|ethdef       = 10%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+Three '''Army Arachnos''' are [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Bosses]] that are fought at level 35 at Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Beginner]]''.
+==== Skills ====
+Each Army Arachno has the following skills:
+*Deals 10% less damage but takes 30% less damage.
+*Boosts Art recharge speed by 50%.
+==== Resistances ====
+{{XC3 Resistances
+|break = 0%
+|topple = 0%
+|daze = 0%
+|burst = 0%
+|launch = 0%
+|smash = 0%
+|knockback = 0%
+|blowdown = 0%
+|physdebuff = 35%
+|etherdebuff = 35%
+}}
+{{clr}}
+====Arts====
+{|class="xc1 centered" style="width:100%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|- &lt;!-- Arts Slot 2 (no art is assigned to slots 0 or 1) --&gt;
+|'''Back Web'''
+|Ether
+|One Target
+|1
+|80%
+|[[Daze (XC3)|Daze]] / [[Bind (XC3)|Bind]]
+|}
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Arachnos]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>nz0i6qdnvhkpyh9gd6w3da3bppixiv2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arogan Ansel</title>
+    <ns>0</ns>
+    <id>123186</id>
+    <revision>
+      <id>582348</id>
+      <parentid>581625</parentid>
+      <timestamp>2023-04-10T18:08:40Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>582348</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" sha1="7nho1rtwy8pkzdwgjl5yszzu65qv7uu" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Arogan Ansel
+|image        = Arogan Ansel.jpg
+|caption      = Arogan Ansel
+|category     = Normal Minor Enemy
+|type         = [[Ansel]]
+|level        = 21-22&lt;br/&gt;55
+|area         = [[Ribbi Flats]] ([[Sparres Barr]], [[Isla Passerat]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Arogan Ansels''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level 21-22 near [[Sparres Barr]] and at level 55 on [[Isla Passerat]] in [[Ribbi Flats]]. 
+
+== Drops ==
+* [[Compressed Ansel Meat]] 
+* [[Elegant Ansel Feather]]
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7nho1rtwy8pkzdwgjl5yszzu65qv7uu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arogan Rhogul (XC3)</title>
+    <ns>0</ns>
+    <id>117900</id>
+    <revision>
+      <id>584675</id>
+      <parentid>583425</parentid>
+      <timestamp>2023-04-22T15:56:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>584675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="834" sha1="cd45y38il13yjg84qpacvuriw8mpzmy" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Arogan Rhogul (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Arogan Rhogul
+|image        = 
+|caption      = Arogan Rhogul
+|category     = Normal Enemy
+|type         = [[Rhogul]]
+|level        = 13-14
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Arogan Rhoguls''' are normal enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level 13-14 in [[Millick Meadows]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing an infobox image]]</text>
+      <sha1>cd45y38il13yjg84qpacvuriw8mpzmy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arpat Anlood</title>
+    <ns>0</ns>
+    <id>121717</id>
+    <revision>
+      <id>583268</id>
+      <parentid>561153</parentid>
+      <timestamp>2023-04-17T13:39:28Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583268</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="788" sha1="qy3qikotxibyl5633apiyqbtbh8ndju" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Arpat Anlood
+|image        = 
+|caption      = Arpat Anlood
+|category     = Minor Enemy
+|type         = [[Anlood]]
+|level        = 87 - 88
+|area         = [[The Cavity]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Arpat Anloods''' are Minor Enemies in {{XC3}}. They are members of the [[Anlood]] family, and can be found at level 87 - 88 in [[The Cavity]] of [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qy3qikotxibyl5633apiyqbtbh8ndju</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arrow Igna</title>
+    <ns>0</ns>
+    <id>121080</id>
+    <revision>
+      <id>595201</id>
+      <parentid>559548</parentid>
+      <timestamp>2023-06-11T15:39:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1824" sha1="8om1gq1hklhpqrph5xwiitvpfuhkde5" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Arrow Igna
+|image        = 
+|caption      = Arrow Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 18&lt;br/&gt;43&lt;br/&gt;98
+|area         = [[Ribbi Flats]]&lt;br/&gt;[[Elaice Highway]]&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Arrow Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 18 on [[Ribbi Flats]], level 43 on [[Elaice Highway]], and at level 98 in [[Rebellion Cave]] at [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Arrow Igna
+|image        = Arrow Igna FR.jpg
+|caption      = Arrow Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 20
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Arrow Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 20 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>8om1gq1hklhpqrph5xwiitvpfuhkde5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arrow Tirkin (XC3)</title>
+    <ns>0</ns>
+    <id>121101</id>
+    <revision>
+      <id>595498</id>
+      <parentid>595255</parentid>
+      <timestamp>2023-06-15T14:37:43Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1922" sha1="bixyuhe9jqqo70jy2hvcbwm11k5mc8f" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Arrow Tirkin (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Arrow Tirkin
+|image        = 
+|caption      = Arrow Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 18-19&lt;br/&gt;96
+|area         = [[Ribbi Flats]] ([[Tirkin Headquarters (XC3)|Tirkin Headquarters]])&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Arrow Tirkins''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level 18-19 at the [[Tirkin Headquarters (XC3)|Tirkin Headquarters]] on [[Ribbi Flats]] and level 96 in [[Rebellion Cave]] of [[Erythia Sea]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Arrow Tirkin
+|image        = Arrow Tirkin FR.jpg
+|caption      = Arrow Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 9-12
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Arrow Tirkins''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Tirkin]] family, and can be found at level 9-12 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Tirkins]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>bixyuhe9jqqo70jy2hvcbwm11k5mc8f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Art Follow-Up</title>
+    <ns>0</ns>
+    <id>125969</id>
+    <revision>
+      <id>598407</id>
+      <parentid>598392</parentid>
+      <timestamp>2023-07-08T15:56:28Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <origin>598407</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="626" sha1="8b37zg9urxvryp164enj17x2stjt35o" xml:space="preserve">{{Infobox XC3 Status
+| title = Art Follow-Up
+| image = XC3 DOT Field.png
+| type = Buff
+| base-duration = &lt;abbr title="Lasts while still able to absorb damage"&gt;Indefinite&lt;/abbr&gt;
+| rng-applicable = (player's party)&lt;br&gt;(enemies)
+| effect-title-1 = 
+| effect-value-1 = (player's party)&lt;br&gt;(enemies)
+}}
+'''Art Follow-Up''' is a [[Status Effect]] in {{XC3}}. It deals damage equal to 2 times the attack stat of the person who set the Field, when someone in the field uses an art.
+
+==Distribution==
+===Arts===
+* [[Staying Power]]
+* [[Force of Nature]]
+
+[[Category:XC3 Status]]
+[[Category:XC3 Status pages with an incomplete infobox]]</text>
+      <sha1>8b37zg9urxvryp164enj17x2stjt35o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Art of Subjugation</title>
+    <ns>0</ns>
+    <id>118180</id>
+    <revision>
+      <id>597688</id>
+      <parentid>591872</parentid>
+      <timestamp>2023-07-01T22:11:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>597688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="st9ipcbvf2mvck099g7u5ph56a0q7uq" xml:space="preserve">{{Infobox battle art
+|name        = Art of Subjugation
+|image       = Taion Chain Art Icon.png 
+|who         = [[Taion]]
+|class       = 
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Reduces enemy physical defense by 30-50 percentage points during Chain Attack.
+|duration    = 
+|recharge    = 
+}}
+'''Art of Subjugation''' is [[Taion]]'s [[Battle Arts (XC3)|Chain Art]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>st9ipcbvf2mvck099g7u5ph56a0q7uq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Artificial Optho</title>
+    <ns>0</ns>
+    <id>119510</id>
+    <revision>
+      <id>581059</id>
+      <parentid>581048</parentid>
+      <timestamp>2023-03-31T12:53:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <origin>581059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1603" sha1="1q4rrcbwa4fh7qbhfhdovv5ffmtmomd" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Artificial Optho
+|image        = XC3 Hollow Ones.png
+|caption      = Artificial Optho (Far Left)
+|type         = [[Droids]]
+|level        = 69
+|area         = [[Origin Interior]] ([[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,135
+|cp           = 206
+|sp           = 5
+|gold         = 552
+|hp           = 1,152,850
+|strength     = 1,289
+|healing      = 564
+|dexterity    = 249
+|agility      = 238
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+'''Artificial Optho''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Droids]] family, and can be found at level 69 in the [[Origin Interior]], in the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]]. It forms the quatuor "Hollow Ones" with [[Vapid Roger]], [[Dishonest Karom]] and [[Phony Temnos]]. The "Magic Transmutation" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 45%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 25%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hollow ones location.png
+Hollow ones optho.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Droids]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1q4rrcbwa4fh7qbhfhdovv5ffmtmomd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arts and Crafts</title>
+    <ns>0</ns>
+    <id>124339</id>
+    <revision>
+      <id>576279</id>
+      <parentid>564654</parentid>
+      <timestamp>2023-02-09T13:12:17Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576279</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1718" sha1="8teh86huca4y9x1ccv28l5w66mjc99n" xml:space="preserve">{{Infobox quest
+|name          = Arts and Crafts
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Here, can use Arts one after other! Special event of Archsage festival! But enemy also use, just for kicks."
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main story completed
+|difficultyCB3 = 3
+|rewards       = 
+}}
+'''Arts and Crafts''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear B outfit for [[Sena]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 5
+|-
+| Level Restriction || Lv 70
+|-
+|Other Rules||In this challenge, the recharge speed after using [[Battle Arts (XC3)|Arts]] is greatly increased.
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="4" | 1 || [[Etrekt Ageshu]] || 72
+|-
+| [[Limdo Flamii (XC3)|Limdo Flamii]] || 70
+|-
+| [[Opulent Flamii (XC3)|Opulent Flamii]] || 70
+|-
+| [[Marsh Flamii (XC3)|Marsh Flamii]] || 70
+|-
+| rowspan="2" | 2 || [[Shelp Taos]] || 72
+|-
+| [[Smart Rhogul]] x2 || 70
+|-
+| rowspan="3" | 3 || [[Gast Urchon (XC3)|Gast Urchon]] || 73
+|-
+| [[Spike Urchon (XC3)|Spike Urchon]] || 73
+|-
+| [[Mees Urchon (XC3)|Mees Urchon]] || 73
+|-
+| rowspan="2" | 4 || [[Lophos Moramora (XC3)|Lophos Moramora]] || 73
+|-
+| [[Ruga Quadwing (XC3)|Ruga Quadwing]] x2 || 73
+|-
+| rowspan="2" | 5 || [[Varran Bunnit]] || 75
+|-
+| [[Wacon Upa (XC3)|Wacon Upa]] x2 || 72
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>8teh86huca4y9x1ccv28l5w66mjc99n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ashera</title>
+    <ns>0</ns>
+    <id>117385</id>
+    <revision>
+      <id>600215</id>
+      <parentid>600166</parentid>
+      <timestamp>2023-07-20T17:36:49Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added ENG IMDB link</comment>
+      <origin>600215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7851" sha1="0t5xarej8y5o8864zrz4teg0672ncs1" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Ashera
+|image         = XC3 Ashera Portrait Art.png
+|species       = [[Keves]]i human
+|age           = 9th Term
+|gender        = Female
+|haircolor     = Black
+|eyecolor      = Red
+|affiliation   = [[Colony 11]]
+|voiceactorjp  = [[wikipedia:Mao Ichimichi|M&#183;A&#183;O (Mao Ichimichi)]]
+|voiceactoreng = [https://www.imdb.com/name/nm6478319/ Cassie Layton]
+|appearances   = {{XC3}}
+}}
+'''Ashera''' (Japanese: {{lang|ja|&#12450;&#12471;&#12455;&#12521; }}) is a character in {{XC3}}.
+
+== Overview ==
+She is known as Undying Blade Ashera (Japanese: {{Lang|jp|&#20940;&#21091;&#12398;&#12450;&#12471;&#12455;&#12521;}}), as well as "That Suicidal Maniac". She is the commander of the [[Keves]] [[Colony 11]], and is very strong and sturdy on the battlefield.&lt;ref&gt;https://www.nintendo.co.jp/switch/az3ha/story/index.html&lt;/ref&gt; According to [[Lanz]], she is one of the most famous Defenders in Keves. 
+
+For unknown reasons, she can remember the circumstances of her first Homecoming, which in the distant past was an execution performed by [[Consul]] [[V]]. Regardless of how many times she is reborn, as she grows older a scar from where her head was cut off begins to form and her memories of that day return, along with the pain of the execution. This pain inevitably grows worse as she approaches her Homecoming until she kills herself to make it stop, which has left her with the desire to die a glorious death on her own terms. It is implied that she has fought against [[Teach]] before, when he was known as All Slayer Oleg. 
+
+She can be recruited as a [[Hero]] by completing the [[Hero Quest]] ''[[The Wrath of Ashera]]''. Her [[Class Rank (XC3)|Class Rank]] is increased to 20 after completing the Ascension Quest ''[[A Deep-Seated Scar]]''.
+
+== Gameplay ==
+Her class is [[Lone Exile]], a [[Defender (XC3)|Defender]] [[Class (XC3)|Class]]. She is an aggressive defender who fights with a double-edged sword that deal massive damage. She attacks enemies with a swift and powerful slash, gaining Aggro and allowing her allies to counterattack.
+
+Ashera's [[Chain Attack (XC3)|Chain Art]] is [[Saber Siege]], and her Heroic Chain bonus guarantees an Amazing! (200% TP)  when she completes a Chain Order, but at the cost of being unable to be reactivated for the rest of the Chain Attack, not even for an Ouroboros Order.
+
+=== Base Stats ===
+These are Ashera's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Lone Exile class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 429 || 24 || 20 || 31 || 22
+|-
+| 99 || 7,158 || 404 || 325 || 307 || 219
+|}
+
+=== General Stats ===
+These stats assume Ashera is at rank 20 in her class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Ashera has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||471||39 (+20)||3||34||27 (+10)||12%||20%||35%||50%
+|-
+| 99, base||7,873||917 (+70)||48||337||273 (+35)||24%||30%||35%||50%
+|-
+| 99, with default accessories||7,873||917 (+70)||48||337||327 (+35)||24%||30%||35%||50%
+|}
+
+Ashera equips the following gems:
+* [[Doublestrike]]
+* [[Steelcleaver]], at level 20 onwards
+* [[Tailwind]], at level 40 onwards
+
+Ashera equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Power Bangle]]
+* [[Gear Support]], at level 30 onwards
+* [[Champion Ring]], at level 50 onwards
+
+== Affinity == 
+* [[Teach]]
+* [[Easel]]
+* [[Zoren]]
+* [[Clad]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Undying Blade Ashera
+|image        = Ashera Festival of War.jpg
+|caption      = Undying Blade Ashera
+|type         = [[Keves Forces]]
+
+|tab1         = A Deep-Seated Scar
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level        = 64
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 0]])
+|spawntime    = During ''[[A Deep-Seated Scar]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+
+|tab2         = Festival of War
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 67
+|area2        = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime2   = During ''[[Festival of War]]''
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|exp2         =
+|cp2          = 
+|sp2          = 
+|gold2        = 
+|hp2          = 
+|strength2    = 
+|dexterity2   = 
+|physdef2     = 
+|ethdef2      = 
+|critrate2    = 
+|guardrate2   = 
+}}
+'''Undying Blade Ashera''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Keves Forces|Keves Soldier]] fought at level 64 on [[Hovering Reef 0]] in [[Syra Hovering Reefs]] during ''[[A Deep-Seated Scar]],'' and at level 67 at the [[Colony 11, Training Pit]] during ''[[Festival of War]]''. The first battle ends after Ashera reaches 50% health.
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Undying Blade Ashera
+|image        = 
+|caption      = Undying Blade Ashera
+|type         = [[Keves Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 5,033,160
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Undying Blade Ashera''' is fought at level 120 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+
+{{clr}}
+
+== Etymology ==
+Ashera's name may be derived from the ancient West Semitic goddess [[wikipedia:Asherah|Asherah]] (Hebrew: &#1488;&#1458;&#1513;&#1461;&#1473;&#1512;&#1464;&#1492;), the consort of [[wikipedia:El (deity)|El]].
+
+== Trivia ==
+* Ashera's Japanese voice actress, M&#183;A&#183;O (Mao Ichimichi), also voices [[Nim]] in {{XC2}}.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Ashera Artwork.png|Official artwork of Ashera
+XC3 Ashera as a Lone Exile.jpg|Ashera as a Lone Exile
+Ashera Concept Art.png|Ashera's Concept Art
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruitment artwork
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Ashera Hero Icon.png|Hero List Icon
+Strm order thumb027 0.png
+Ashera Level Up Art.png
+Icon chara 19.png
+Icon chara battle 20.png
+Ashera Icon.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Ashera screenshot 01.jpeg
+XC3 Ashera screenshot 02.jpeg
+XC3 Ashera screenshot 03.jpeg|Ashera with the party
+XC3 Ashera screenshot 04.jpeg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+[[Category:XC3 Heroes]]
+[[Category:Ashera]]
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>0t5xarej8y5o8864zrz4teg0672ncs1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aspar</title>
+    <ns>0</ns>
+    <id>74354</id>
+    <revision>
+      <id>601931</id>
+      <parentid>600699</parentid>
+      <timestamp>2023-07-22T12:18:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>601931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2627" sha1="akfa5pr3mbrbeztzlh94o4v36h2bsfx" xml:space="preserve">[[file:GlaringAspar.jpg|thumb|Glaring Aspar]]
+'''Aspars''' are a family of enemies in the {{XC|serieslink}}, first appearing in {{XC2}}. They resemble large snake-like creatures, and come in white, brown, and purple varieties.
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Brish Aspar (XC2)|Brish Aspar]]
+* [[Gabnun Aspar]]
+* [[Growsa Aspar (XC2)|Growsa Aspar]]
+* [[Mabluk Aspar (XC2)|Mabluk Aspar]]
+* [[Stark Aspar (XC2)|Stark Aspar]]
+
+=== Quest Exclusive Enemy ===
+* [[Glaring Aspar]] (during ''[[Search for Tekuteku]]'')
+
+=== Quest Exclusive Boss ===
+* [[Voracious Aspar]] (during ''[[The Ties That Bind (XC2)|The Ties That Bind]]'')
+
+=== Unique Monster ===
+* [[Evileye Mambor]] ([[Driver (enemy)|Driver]] with [[Blade (enemy)|Blade]])
+
+=== Challenge Battle Mode Enemies ===
+* [[Dett Aspar]]
+* [[Yackle Aspar]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Noble Aspar]]
+* [[Trets Aspar]]
+
+=== Quest Exclusive Enemy ===
+* [[Gloomy Aspar]] (during ''[[My First Adventure]]'')
+
+=== Unique Monster ===
+* [[Gourmand Galgan]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Boahad Aspar]]
+* [[Brish Aspar (XC3)|Brish Aspar]]
+* [[Foala Aspar]]
+* [[Growsa Aspar (XC3)|Growsa Aspar]]
+* [[Hugya Aspar]]
+* [[Mabluk Aspar (XC3)|Mabluk Aspar]]
+* [[Menaas Aspar]]
+* [[Rattle Aspar]]
+* [[Stark Aspar (XC3)|Stark Aspar]]
+* [[Yaghini Aspar]]
+
+=== Quest Exclusive Boss ===
+* [[Gyanna Aspar]] (During ''[[Riku and Manana]]'')
+
+=== Unique Monsters ===
+* [[Hazardous Jarrahed]]
+* [[Jealous Mizraile]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Baby Aspar]]
+* [[Boahad Aspar]]
+* [[Growsa Aspar (XC3)|Growsa Aspar]]
+* [[Menaas Aspar]]
+* [[Rattle Aspar]]
+
+=== Quest Exclusive Boss ===
+* [[Alif Aspar]] (During ''[[Abandoned Supplies]]'')
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+GrowsaAspar.jpg|Growsa Aspar
+XC2 VoraciousAspar.jpg|Voracious Aspar
+EvileyeMambor.jpg|Evileye Mambor
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+NobleAspar.jpg|Noble Aspar
+TretsAspar.jpg|Trets Aspar
+Galgan.jpg|Gourmand Galgan
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Rattle Aspar Screenshot.jpeg|Rattle Aspar
+Hazardous Jarrahed.png|Hazardous Jarrahed
+XC3 Jealous Mizraile.png|Jealous Mizraile
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Baby Aspar.jpg|Baby Aspar
+&lt;/gallery&gt;
+
+[[Category:XC2 Beasts]]
+[[Category:XC2 Aspars]]
+[[Category:XC2 Species]]
+[[Category:TTGC Aspars]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Aspars]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Aspars]]
+[[Category:Species by Type]]</text>
+      <sha1>akfa5pr3mbrbeztzlh94o4v36h2bsfx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Assassin Antol</title>
+    <ns>0</ns>
+    <id>121806</id>
+    <revision>
+      <id>559550</id>
+      <parentid>546913</parentid>
+      <timestamp>2022-09-30T10:43:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559550</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="lt39hx1m3wi1jek58rv9l8jx89nqzan" xml:space="preserve">{{Infobox Enemy
+|name         = Assassin Antol
+|image        = 
+|caption      = Assassin Antol
+|category     = Minor Enemy
+|type         = [[Antol]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Assassin Antols''' are Minor Enemies in {{XC3}}. They are members of the [[Antol]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Antols]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>lt39hx1m3wi1jek58rv9l8jx89nqzan</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Assassin Moramora</title>
+    <ns>0</ns>
+    <id>123977</id>
+    <revision>
+      <id>600362</id>
+      <parentid>579873</parentid>
+      <timestamp>2023-07-21T14:08:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>600362</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1123" sha1="48zus8xwv7bm9vwybl0ch7dch13ztgz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Assassin Moramora
+|image        = XC3 Assassin Moramora.jpg
+|caption      = Assassin Moramora
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moramora]]
+|level        = 59
+|area         = [[Erythia Sea]] ([[Colony Mu, Respite Ranch]])
+|spawntime    = During the informal Ardun ranch quest
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Assassin Moramora''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Moramora]] family, and is fought at level 59 at the [[Colony Mu, Respite Ranch]] in [[Erythia Sea]] after [[Nandun]] is born during the informal Ardun ranch quest.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>48zus8xwv7bm9vwybl0ch7dch13ztgz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Assault Stone (XC3)</title>
+    <ns>0</ns>
+    <id>122874</id>
+    <revision>
+      <id>592704</id>
+      <parentid>592542</parentid>
+      <timestamp>2023-05-15T20:11:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592704</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="ckeau8mo992gwjovutzgagi4oi31u2b" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Assault Stone (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Assault Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boost auto-attack damage by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Assault Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boost auto-attack damage by 83%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Assault Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boost auto-attack damage by 91%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Assault Stones''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ckeau8mo992gwjovutzgagi4oi31u2b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Assist Belt</title>
+    <ns>0</ns>
+    <id>118911</id>
+    <revision>
+      <id>566293</id>
+      <parentid>551130</parentid>
+      <timestamp>2022-11-19T06:29:44Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="975" sha1="mng4dqinq8moyl4vwlikmx4t8jxrus7" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Assist Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Assist Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Assist Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Assist Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>mng4dqinq8moyl4vwlikmx4t8jxrus7</sha1>
+    </revision>
+  </page>
+  </mediawiki>

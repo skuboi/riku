@@ -1,0 +1,6 @@
+Skill Name: Bulley Symphony 
+
+Class: Full Metal Jaguar
+
+Skill Buff or Effect:  Each attack that hits boosts damage dealt by 20% (max. 255%). Missing cancels the boost.
+

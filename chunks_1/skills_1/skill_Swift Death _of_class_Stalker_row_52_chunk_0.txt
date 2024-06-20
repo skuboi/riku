@@ -1,0 +1,6 @@
+Skill Name: Swift Death 
+
+Class: Stalker
+
+Skill Buff or Effect:  Deals 70% more damage against enemies who are at 30% HP or less. [Rank 15 Master Skill]
+

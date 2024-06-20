@@ -1,0 +1,1172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Salvation's Ripple</title>
+    <ns>0</ns>
+    <id>121252</id>
+    <revision>
+      <id>591901</id>
+      <parentid>581010</parentid>
+      <timestamp>2023-05-14T14:36:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="609" sha1="rr57t512zb0nrqhdr3md0j9fbvf64dh" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = Salvation's Ripple
+|image       = Nia Chain Art Icon.png
+|who         = [[Nia]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = 90% chance to revive all downed party members, allowing them to participate in the Chain Attack.
+|duration    = 
+|recharge    = 
+}}
+'''Salvation's Ripple''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Nia]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>rr57t512zb0nrqhdr3md0j9fbvf64dh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Samide Anlood</title>
+    <ns>0</ns>
+    <id>121182</id>
+    <revision>
+      <id>584284</id>
+      <parentid>584270</parentid>
+      <timestamp>2023-04-20T18:56:28Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>584284</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="757" sha1="fn1742y2p7nnqe2bps5l714fmwwiodw" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Samide Anlood
+|image        = Samide Anlood.jpg
+|caption      = Samide Anlood
+|category     = Minor Enemy
+|type         = [[Anlood]]
+|level        = 31-34
+|area         = [[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Samide Anloods''' are Minor Enemies in {{XC3}}. They are members of the [[Anlood]] family, and can be found at level 31-32 in [[High Maktha Wildwood]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>fn1742y2p7nnqe2bps5l714fmwwiodw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sandbar Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>119300</id>
+    <revision>
+      <id>583062</id>
+      <parentid>569109</parentid>
+      <timestamp>2023-04-15T00:42:12Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>583062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="788" sha1="oonfwzsxqqp31due9422c5kqp84ka7x" xml:space="preserve">{{Infobox location
+|name        = Sandbar Ferronis Hulk
+|image       = Sandbar Ferronis Hulk.jpg
+|caption     = Sandbar Ferronis Hulk
+|type        = [[Rest Spot (XC3)|Rest Spot]]
+|located     = [[Erythia Sea]] ([[Lavi Sandbar]])
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Sandbar Ferronis Hulk''' (Japanese: {{lang|ja|&#30722;&#19992;&#23798;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Saky&#363;t&#333; no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}. It is located on [[Lavi Sandbar]] in [[Erythia Sea]]. To activate this [[Ferronis Hulk]], the party must complete the [[Quest (XC3)|quest]] ''[[The Sandbar Hulk]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+File:Sandbar Ferronis Hulk map.jpg
+&lt;/gallery&gt;{{xc3 stub}}
+
+[[Category:Cadensia Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>oonfwzsxqqp31due9422c5kqp84ka7x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sapphire (XC3)</title>
+    <ns>0</ns>
+    <id>118993</id>
+    <revision>
+      <id>592841</id>
+      <parentid>592548</parentid>
+      <timestamp>2023-05-15T20:18:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592841</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1084" sha1="rae9w2ha8t3idat3d1su9o2ezhpix4o" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Sapphire (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Sapphire
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 15% for every enemy in battle (max. 200%)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Sapphire
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 16% for every enemy in battle (max. 200%)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Sapphire
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 17% for every enemy in battle (max. 200%)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Sapphires''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>rae9w2ha8t3idat3d1su9o2ezhpix4o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sapphire Belt</title>
+    <ns>0</ns>
+    <id>124219</id>
+    <revision>
+      <id>561862</id>
+      <parentid>561593</parentid>
+      <timestamp>2022-10-18T19:11:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>561862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="551" sha1="qx5vqi172x6lwiumale19cic8cf9isd" xml:space="preserve">{{Infobox item
+|name      = Sapphire Belt
+|image     = 
+|caption   = Boosts Attack by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Sapphire Belts''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>qx5vqi172x6lwiumale19cic8cf9isd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sarabashi Ropl (XC3)</title>
+    <ns>0</ns>
+    <id>121075</id>
+    <revision>
+      <id>598220</id>
+      <parentid>559919</parentid>
+      <timestamp>2023-07-04T17:33:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>598220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="849" sha1="gtooh9nh2okda1hweg3jergp79qw56v" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Sarabashi Ropl (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Sarabashi Ropl
+|image        = Sarabashi Ropl XC3.jpg
+|caption      = Sarabashi Ropl
+|category     = Normal Minor Enemy
+|type         = [[Ropl]]
+|level        = 27
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sarabashi Ropl''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 27 in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gtooh9nh2okda1hweg3jergp79qw56v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Saturni Rings</title>
+    <ns>0</ns>
+    <id>122568</id>
+    <revision>
+      <id>592842</id>
+      <parentid>592521</parentid>
+      <timestamp>2023-05-15T20:18:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592842</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="469" sha1="grgclot9r912eh7rt3l159aajjhcoaq" xml:space="preserve">{{Infobox item
+|name      = Saturni Rings
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts Attack by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Container#Legacy of the Seven|Legacy of the Seven]] on [[Daedal Isle]]
+|sell      = N/A
+}}
+'''Saturni Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>grgclot9r912eh7rt3l159aajjhcoaq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Savant Arachno</title>
+    <ns>0</ns>
+    <id>123830</id>
+    <revision>
+      <id>581322</id>
+      <parentid>559920</parentid>
+      <timestamp>2023-04-03T15:49:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>infobox</comment>
+      <origin>581322</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1045" sha1="sb79ssu8nogvsio0txe2pe04xzvsoib" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Savant Arachno
+|image        = 
+|caption      = Savant Arachno
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Arachno]]
+|level        = 26
+|area         = [[Urayan Tunnels]]
+|spawntime    = During ''[[A Nopon's Counsel]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Savant Arachnos''' are four [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Arachno]] family, and can be found at level 26 in the [[Urayan Tunnels]] during ''[[A Nopon's Counsel]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>sb79ssu8nogvsio0txe2pe04xzvsoib</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scale Mask</title>
+    <ns>0</ns>
+    <id>122581</id>
+    <revision>
+      <id>592843</id>
+      <parentid>592317</parentid>
+      <timestamp>2023-05-15T20:18:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592843</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1033" sha1="4ktsyoox8jpw9drae5ivuu6tn060axs" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Scale Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Scale Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Scale Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 29%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Scale Masks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>4ktsyoox8jpw9drae5ivuu6tn060axs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scape Anlood</title>
+    <ns>0</ns>
+    <id>118166</id>
+    <revision>
+      <id>599306</id>
+      <parentid>596028</parentid>
+      <timestamp>2023-07-09T17:13:50Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>599306</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1493" sha1="exlkz5txofgwl63htmo99nbente0ou9" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Scape Anlood
+|image        = Scape Anlood XC3.jpeg
+|caption      = Scape Anlood
+|category     = Normal Minor Enemy
+|type         = [[Anlood]]
+|level        = 54
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Scape Anloods''' are normal minor enemies in {{XC3}}. They are members of the [[Anlood]] family, and can be found at level 54 on [[Captocorn Peak]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Scape Anlood
+|image        = Scape Anlood FR.jpg
+|caption      = Scape Anlood
+|category     = Normal Enemy
+|type         = [[Anlood]]
+|level        = 41
+|area         = [[Black Mountains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Scape Anloods''' are normal enemies in {{XC3FR}}. They are members of the [[Anlood]] family, and can be found at level 41 on the [[Black Mountains]].
+{{clr}}
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3FR Anloods]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>exlkz5txofgwl63htmo99nbente0ou9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scape Ellook</title>
+    <ns>0</ns>
+    <id>118167</id>
+    <revision>
+      <id>583215</id>
+      <parentid>559922</parentid>
+      <timestamp>2023-04-16T17:22:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="776" sha1="bepbdvyk1dpc8d2hsttgio742tnhlru" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Scape Ellook
+|image        = Scape Ellook XC3.jpeg
+|caption      = Scape Ellook
+|category     = Normal Enemy
+|type         = [[Ellook]]
+|level        = 54
+|area         = [[Captocorn Peak]] ([[Ladras Way]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 128
+|cp           = 
+|sp           = 
+}}
+'''Scape Ellooks''' are normalenemies in {{XC3}}. They are members of the [[Ellook]] family, and can be found at level 54 at [[Ladras Way]] on [[Captocorn Peak]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ellooks]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bepbdvyk1dpc8d2hsttgio742tnhlru</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scarred Ansel</title>
+    <ns>0</ns>
+    <id>121020</id>
+    <revision>
+      <id>559923</id>
+      <parentid>545329</parentid>
+      <timestamp>2022-09-30T10:57:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="815" sha1="j6l5yuerk1p7zt76munc57nb0afry0r" xml:space="preserve">{{Infobox Enemy
+|name         = Scarred Ansel
+|image        = 
+|caption      = Scarred Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Scarred Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? at [[Everblight Plain]] or [[Captocorn Peak]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>j6l5yuerk1p7zt76munc57nb0afry0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scary Vang</title>
+    <ns>0</ns>
+    <id>121094</id>
+    <revision>
+      <id>559924</id>
+      <parentid>545421</parentid>
+      <timestamp>2022-09-30T10:57:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="782" sha1="jzmmrvky3j7bk4qqz1nbzm6j29f0c86" xml:space="preserve">{{Infobox Enemy
+|name         = Scary Vang
+|image        = 
+|caption      = Scary Vang
+|category     = Minor Enemy
+|type         = [[Vang]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Scary Vangs''' are Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>jzmmrvky3j7bk4qqz1nbzm6j29f0c86</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scholar Necklace</title>
+    <ns>0</ns>
+    <id>118994</id>
+    <revision>
+      <id>566867</id>
+      <parentid>551219</parentid>
+      <timestamp>2022-11-23T10:18:31Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="397" sha1="q9j618wlts0l5zfsln1shoe6yioskof" xml:space="preserve">&lt;div style="float: right;"&gt;
+{{Infobox item
+|name      = Scholar Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Class aptitude.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1520 [[Gold|G]]
+}}
+&lt;/div&gt;
+'''Scholar Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>q9j618wlts0l5zfsln1shoe6yioskof</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schoon</title>
+    <ns>0</ns>
+    <id>118337</id>
+    <revision>
+      <id>597775</id>
+      <parentid>596098</parentid>
+      <timestamp>2023-07-02T16:28:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597775</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1625" sha1="i9m5jo8h489hlwu6ci7xrqm2oqxjcra" xml:space="preserve">{{Infobox_NPC
+|name        = Schoon
+|image       = XC3_Schoon.png
+|personality = 
+|time_active = Night
+|gender      = Female
+|race        = [[Agnus|Agnian]] human
+|age         = 5th Term
+|location    = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Colony Gamma]])
+}}
+'''Schoon''' is a NPC in {{XC3}} who can be found in [[Colony Gamma]].
+
+== Overview ==
+Schoon is an [[Off-seer|off-seer]] of [[Colony Gamma]]. [[Miclan]] was her off-seer partner and mentor. She is part of Team [[Zakir]] alongside [[Mina]], and she is close friends with [[Zuno]].
+
+== Affinity ==
+* [[Zuno]]
+* [[Miclan]]
+* [[Mina]]
+
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Schoon
+|image        = 
+|caption      = Schoon
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Everblight Plain]]
+|spawntime    = Anytime
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Schoon''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. He is an [[Agnus Forces|Agnus Soldier]] who is fought at level ? at [[Everblight Plain]] during ''[[Shadow of Enmity]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>i9m5jo8h489hlwu6ci7xrqm2oqxjcra</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scornful Daria</title>
+    <ns>0</ns>
+    <id>119415</id>
+    <revision>
+      <id>583316</id>
+      <parentid>574673</parentid>
+      <timestamp>2023-04-17T16:06:32Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1363" sha1="sw5mooqdno5zxzcj3ogvify4k2g1zsm" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Scornful Daria
+|image        = Scornful Daria.png
+|caption      = Scornful Daria
+|type         = [[Skwaror]]
+|level        = 22
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Great Idalla Ravine]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 375
+|cp           = 69
+|sp           = 5
+|gold         = 288
+|hp           = 217,500
+|strength     = 306
+|healing      = 161
+|dexterity    = 98
+|agility      = 115
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Scornful Daria''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Skwaror]] family, and can be found at level 22 near the [[Great Idalla Ravine]] in the [[Dannagh Desert (XC3)|Dannagh Desert]]. The [[Tail Slap]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Scornful daria location.png
+Scornful daria.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>sw5mooqdno5zxzcj3ogvify4k2g1zsm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scorpox</title>
+    <ns>0</ns>
+    <id>78658</id>
+    <revision>
+      <id>602108</id>
+      <parentid>600811</parentid>
+      <timestamp>2023-07-22T12:27:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1926" sha1="m7orq4en4tppd3f0p1227pcijca6rfc" xml:space="preserve">[[file:HarbringerCavill.jpg|thumb|Harbringer Cavill]]
+'''Scorpoxes''' are a family of enemies in the {{XC|serieslink}}, first appearing in {{XC2}}. They are scorpion-like creatures very similar to [[Crustip]]s, and are mostly yellow, although one gray variety can be found in [[Spirit Crucible Elpys]].
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Armor Scorpox]]
+* [[Lun Scorpox (XC2)|Lun Scorpox]]
+* [[Sinon Scorpox]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Scheele Scorpox]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Awarth Scorpox]]
+* [[Caliber Scorpox]]
+
+=== Unique Monster ===
+* [[Harbinger Cavill]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Lun Scorpox (XC3)|Lun Scorpox]]
+* [[Randakk Scorpox]]
+* [[Uor Scorpox]]
+
+=== Quest Exclusive Enemies ===
+* [[Dannagh Scorpox]] (During ''[[Scant Supplies]]'')
+* [[Drifter Scorpox]] (During ''[[Unwavering Resolve]]'')
+* [[Hedred Scorpox]] (During ''[[Beyond Mercy and Revenge]]'')
+* [[Ribeega Scorpox]] (During ''Beyond Mercy and Revenge'')
+
+=== Unique Monster ===
+* [[Stoneclipper Gorse]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Lun Scorpox (XC3)|Lun Scorpox]]
+
+{{clr}}
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+LunScorpox.jpg|Lun Scorpox
+1ScheeleScorpox.png|Scheele Scorpox
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+AwarthScorpox.jpg|Awarth Scorpox
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Dannagh Scorpox.png|Dannagh Scorpox
+LunScorpexXC3.jpg|Lun Scorpox
+XC3 Ribeega Scorpox.png|Ribeega Scorpox
+XC3 Stoneclipper Gorse.png|Stoneclipper Gorse
+&lt;/gallery&gt;
+
+[[Category:XC2 Scorpoxes]]
+[[Category:XC2 Species]]
+[[Category:XC2 Insects]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Scorpoxes]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Scorpoxes]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Scorpoxes]]
+[[Category:Species by Type]]</text>
+      <sha1>m7orq4en4tppd3f0p1227pcijca6rfc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scourwind Necklace</title>
+    <ns>0</ns>
+    <id>125649</id>
+    <revision>
+      <id>577146</id>
+      <timestamp>2023-02-16T14:39:53Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Scourwind Necklace |image     =  |caption   = Boosts damage dealt by 40% when HP is at 30% or lower. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Scourwind Necklaces''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {..."</comment>
+      <origin>577146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="596" sha1="c8vzoa7q2fvc3o3epv4bta59a1bv98g" xml:space="preserve">{{Infobox item
+|name      = Scourwind Necklace
+|image     = 
+|caption   = Boosts damage dealt by 40% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Scourwind Necklaces''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>c8vzoa7q2fvc3o3epv4bta59a1bv98g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scout's Kneeguard</title>
+    <ns>0</ns>
+    <id>122592</id>
+    <revision>
+      <id>592844</id>
+      <parentid>592300</parentid>
+      <timestamp>2023-05-15T20:18:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592844</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1001" sha1="kk7b8bi9hbcpewpv20m0kqujxiz6ev5" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Scout's Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 15% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Scout's Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 16% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Scout's Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 17% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Scout's Kneeguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>kk7b8bi9hbcpewpv20m0kqujxiz6ev5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Seadragoon Melchior</title>
+    <ns>0</ns>
+    <id>119487</id>
+    <revision>
+      <id>574689</id>
+      <parentid>574675</parentid>
+      <timestamp>2023-01-30T04:38:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1343" sha1="aoyp4voerri509sm6fpwcdga4gfxbq7" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Seadragoon Melchior
+|image        = XC3 Seadragoon Melchior.png 
+|caption      = Seadragoon Melchior
+|type         = [[Merigna]]
+|level        = 85
+|area         = [[Erythia Sea]] ([[Twinpalm Isle]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 6,124
+|cp           = 254
+|sp           = 5
+|gold         = 3,625
+|hp           = 6,448,000
+|strength     = 2,365
+|healing      = 550
+|dexterity    = 377
+|agility      = 284
+|physdef      = 25%
+|ethdef       = 0%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Seadragoon Melchior''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Merigna]] family, and can be found at level 85 near [[Twinpalm Isle]] in [[Erythia Sea]]. The [[Dual Attack]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 90%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Seadragoon melchior location.png
+Seadragoon melchior.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Merignas]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>aoyp4voerri509sm6fpwcdga4gfxbq7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Search Headgear</title>
+    <ns>0</ns>
+    <id>118995</id>
+    <revision>
+      <id>592845</id>
+      <parentid>592276</parentid>
+      <timestamp>2023-05-15T20:18:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1026" sha1="ot4df3djz0d842w8nhewcevvwg62448" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Search Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 5 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Search Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 6 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Search Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 7 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Search Headgears''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ot4df3djz0d842w8nhewcevvwg62448</sha1>
+    </revision>
+  </page>
+  </mediawiki>

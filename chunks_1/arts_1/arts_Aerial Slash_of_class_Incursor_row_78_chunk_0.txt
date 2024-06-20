@@ -1,0 +1,6 @@
+Art Name: Aerial Slash
+
+Class: Incursor
+
+Effect: High Crit. Rate/Evade
+

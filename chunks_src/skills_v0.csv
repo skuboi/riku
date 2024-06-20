@@ -1,0 +1,97 @@
+Class,Skill Name,Skill Buff or Effect
+Swordfighter,Sharp Eye , Boosts Dexterity by 50%.
+Swordfighter,Covert Attack , Reduces aggro generated from attacks by 65%. [Rank 15 Master Skill]
+Swordfighter,Cypher Edge , Boosts Critical Rate by 50%. [Rank 5 Master Skill]
+Swordfighter,Inspirit , Boosts Damage dealt by 150% when fighting a unique or boss monster.
+Zephyr,Stormy Gale , Boosts Agility by 30%. [Rank 15 Master Skill]
+Zephyr,I'll Defend You , 16% to prevent attacks on allies within a fixed radius.
+Zephyr,Split-Second Counter , Deals 200% of Attack damage when you evade an attack. [Rank 5 Master Skill]
+Zephyr,Ether's Sanctuary , Boosts Ether Defense by 30%.
+Medic Gunner,Medical Mind , Boosts amount of HP healer from using healing Arts by 30%.
+Medic Gunner,Speedy Recovery , Boosts speed of ally revival by 40% and raises Healing by 15.
+Medic Gunner,Ninja Healer , Reduces aggro generated from healing Arts by 50%. [Rank 5 Master Skill]
+Medic Gunner,Eternal Formation , Increases field effect duration by 50%. [Rank 15 Master Skill]
+Tactician,Ethereal Ability , Boosts damage dealt by ether Arts by 50%. [Rank 5 Master Skill]
+Tactician,Shieldrender , Adds 100% chance for attack to be unblockable.
+Tactician,Eternal Curse , Extends duration timers of debuffs applied to enemies by 50%.
+Tactician,Inevitable Evitability , 10% chance to evade enemy attack. [Rank 15 Master Skill]
+Heavy Guard,Defensive Soul , Boosts Physical Defense by 20%. [Rank 5 Master Skill]
+Heavy Guard,I'll Protect You , Reduces damage taken by allies in a fixed radius by 30%.
+Heavy Guard,Aggravator , Accrues Aggro every second.
+Heavy Guard,Tenacious Blocker , Boosts Block Rate by 50% when HP is at 30% or lower. [Rank 15 Master Skill]
+Ogre,Insult to Injury , Boosts damage dealt when attacking toppled enemies by 150%.
+Ogre,Fury Smash , Increases reaction success rate by 45 percentage points.
+Ogre,Fighting Prowess , Boosts damage dealt by physical Arts by 50%. [Rank 5 Master Skill]
+Ogre,Dynamite Spirit , Boosts damage dealt by 60% when HP is at 90% or higher. [Rank 15 Master Skill]
+Flash Fencer,First Move Wins , Boosts damage dealt by 50% for the first 30 seconds of battle.
+Flash Fencer,Fighting Instinct , Boosts damage dealt by 50% when using a Talent Art (up to a maximum of 200%)
+Flash Fencer,Critical Strike , Increases critical hit damage bonus by 50 percentage points. [Rank 5 Master Skill]
+Flash Fencer,Capable Hands , Fills Talent Art recharge gauge by 100% at the start of battle. [Rank 15 Master Skill]
+War Medic,Recovery Engine , Removing debuffs boosts own Healing Power by 50% (up to a maximum of 150%).
+War Medic,Rescue License , Increases HP restored when reviving an ally by 40%.
+War Medic,Healing License , Boosts amount of HP healed from using healing Arts by 30%. [Rank 5 Master Skill]
+War Medic,Antibody System , Shortens duration of debuffs on self by 50%. [Rank 15 Master Skill]
+Guardian Commander,I'll Help , Take attacks for nearby allies with low HP. Damage is reduced by 20%.
+Guardian Commander,Soldier's Potential ," When HP is at 30% or lower, restore 1.4% HP each second."
+Guardian Commander,Protector's Pride , Boosts recharge speed by 50% when non-Defenders are targeted. [Rank 5 Master Skill]
+Guardian Commander,Mind for Guarding , Increases damage reduction rate when blocking by 20 percentage points. [Rank 15 Master Skill]
+Thaumaturge,Wheel of Rebirth , Heals all allies using 900% of Healing Power when executing a Burst.
+Thaumaturge,Qinggong , Boosts evasion by 35% while moving.
+Thaumaturge,Ultimate Qigong , Ignores 50% of enemy's physical defense when landing a hit. [Rank 5 Master Skill]
+Thaumaturge,Life-Saving Fists," Heals self when auto-attack hits, to a maximum of 100% of Healing Power. [Rank 15 Master Skill]"
+Yumsmith,Bangsplosion! , Boosts field dissolution damage by 300%.
+Yumsmith,Sappy-Sappy Drain!, Increases success rate of debuff effects by 25 percentage points. [Rank 5 Master Skill]
+Yumsmith,Slicey-Dicey!, Boosts field damage dealt by 200%. [Rank 15 Master Skill]
+Yumsmith,Preppy-Preppy Link!,Fills Chain Attack gauge slightly on Art execution.
+Full Metal Jaguar,Sixth Sense , Boosts accuracy against enemies performing Arts by 100%. 
+Full Metal Jaguar,Positioning Pro , Increases the no. of positional Arts that can be set to the Arts Palette by 1. [Rank 5 Master Skill]
+Full Metal Jaguar,Shock Shot , Boosts damage against enemies performing Arts by 100%. [Rank 15 Master Skill]
+Full Metal Jaguar,Bulley Symphony , Each attack that hits boosts damage dealt by 20% (max. 255%). Missing cancels the boost.
+Strategos,Prowess Gambit , Buffing an ally boosts damage health by 30%.
+Strategos,Sapping Gambit , Extends duration timers of debuffs applied to enemies by 50%.
+Strategos,Strengthening Gambit , Extends durations of buff effects issued by delf by 50%. [Rank 5 Master Skill]
+Strategos,Preemption Gambit , 100% chance to grant all allies Attack Up on a preemptive attack. [Rank 15 Master Skill]
+Stalker,Swift Death , Deals 70% more damage against enemies who are at 30% HP or less. [Rank 15 Master Skill]
+Stalker,In Cold Blood , Boosts damage dealt by 150% when attacking an enemy suffering from Bleed.
+Stalker,Evasion Expertise , 50% to evade ranged attacks. [Rank 5 Master Skill]
+Stalker,Serene Heart , Reduces aggro generated from attacks by 50%.
+Lone Exile,Goading Attack , Boosts aggro generated from dealing damage by 60%.
+Lone Exile,Maniac , Boost damage dealt when attacking higher-level enemies by 50%. [Rank 15 Master Skill]
+Lone Exile,Returning the Favor ," When nearby ally is attacked, deal 250% of attack in damage to enemy."
+Lone Exile,Natural Selection , Reduces damage taken by 30% when HP is at 30% or lower. [Rank 5 Master Skill]
+Incursor,Adroit Blade , Boosts damage dealt by 8% when landing a critical hit (up to a maximum of 150%).
+Incursor,Floating Kill , Boosts Critical Rate by 100% when attacking a launched enemy.
+Incursor,Vigilance , Boosts Critical Rate of auto-attacks by 150%. [Rank 5 Master Skill]
+Incursor,Eye for Weak Points , Each successful attack boosts Critical Rate by 2% of initial value (up to a maximum of 100%). [Rank 15 Master Skill]
+Lost Vanguard,Come an' Get Me! ," When blocking, deal 200% of Attack damage to enemy, drawing aggro. [Rank 15 Master Skill]"
+Lost Vanguard,Now That's Tactics! ," At start of Chain Attack, increases TP by 10. [Rank 5 Master Skill]"
+Lost Vanguard,Never again! , Grants 20% chance to absorb attacks dealt to allies within range.
+Lost Vanguard,Stay Right There! ," When taking damage, 20% chance to inflict Knockback on assailant."
+Signifier,"Cheer Up, Everyone ", Restores nearby allies' HP on Art execution. Amount healed is equal to 50% of user's Healing.
+Signifier,I've Got Your Backs , Extends duration of buff effects issued by self by 50%.
+Signifier,All About Support , Increases the no. of Field Arts that can be set to the Arts Palette by 1. [Rank 5 Master Skill]
+Signifier,We Can Do Better , Restores 5% of HP when a buff is applied. [Rank 15 Master Skill]
+Martial Artist,Storm and Stress ," Each time you perform a cancel, boosts damage dealt by 20% (to a maximum of 150%)."
+Martial Artist,Flashing Punch , Chained auto-attacks increase attack speed. Auto-attack interval is also shortened.
+Martial Artist,Feline Righting Reflex , Ignores Blowdown and Launch by somersaulting. Also has 100% chance to grant Attack Up. [Rank 5 Master Skill]
+Martial Artist,Frenzied Combo ," On critical hit, recharge Art used by 30%. [Rank 15 Master Skill]"
+Troubador,Endsong , Recharges all allies' Arts by 100% when incapacitated.
+Troubador,Dance of Barrages , 12% to keep recharge when using Art. [Rank 5 Master Skill]
+Troubador,Dance of Life , Own Arts gain is 100% recharge when an ally is incapacitated.
+Troubador,Swiftsong , Boosts all allies' accuracy and evasion by 20%. Does not stack. [Rank 15 Master Skill]
+Seraph,Beast Mode , Grants Awakening when damage taken exceeds 25% of max HP.
+Seraph,Got the Guts , Boosts damage dealt by 100% when HP is at 85% or lower.
+Seraph,Greatest Warrior , Boosts damage by 35% for every enemy in battle (max. 200%). [Rank 5 Master Skill]
+Seraph,Universal Annihilation , Boosts damage dealt to toppled and launched targets by 150%. [Rank 15 Master Skill]
+Machine Assassin,Chaos Chain , Debuffing an enemy boosts damage dealt by 30% (up to a maximum of 150%).
+Machine Assassin,Phantom Strike , Adds 100% chance for attack to be unblockable.
+Machine Assassin,Cursed Edge , Boosts damage dealt by 70% when attacking a debuffed enemy. [Rank 5 Master Skill]
+Machine Assassin,Anti-Erosion System, Grants 50% resistance to all debuffs. [Rank 15 Master Skill]
+Lifesage,Steadfast Feelings , Restores nearby allies' HP on Art execution. AMount healed is equal to 50% of user's Healing.
+Lifesage,Instant Regen+ , 25% chance to heal using 100% of Healing Power upon taking damage.
+Lifesage,Enhanced Cellular Stimulus , 50% chance on hit to deal 200% of Healing Power as defense-bypassing damage. [Rank 5 Master Skill]
+Lifesage,Abundant Oceans ," Reduces damage to allies by 15%, and boosts HP recovery by 15% (does not stack). [Rank 15 Master Skill]"
+Royal Summoner,Elemental Boost , Each elemental discharge boosts damage by 40% (up to a maximum of 400%).
+Royal Summoner,Essence of Ether , Boosts allies' damage by 30% and reduces enemy Block Rate by 15% (does not stack). [Rank 15 Master Skill]
+Royal Summoner,Fortified Ether Guard , Boosts Ether Defense by 20%.  [Rank 5 Master Skill]
+Royal Summoner,Here I Shall Stand , Boosts elemental damage by 100% and elemental buff effects by 50%.

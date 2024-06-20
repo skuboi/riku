@@ -1,0 +1,3525 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Baccura Caterpile</title>
+    <ns>0</ns>
+    <id>121081</id>
+    <revision>
+      <id>594371</id>
+      <parentid>584167</parentid>
+      <timestamp>2023-05-27T14:56:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594371</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1910" sha1="2w6yuxe5xxk2cvkq8u4kc0xcfmz9wue" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Baccura Caterpile
+|image        = XC3 Baccura Caterpile.png
+|caption      = Baccura Caterpile
+|category     = Minor Enemy
+|type         = [[Caterpile]]
+|level        = 41-42&lt;br/&gt;45-46
+|area         = [[Elaice Highway]] ([[Torus Hollow]])&lt;br/&gt;[[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    =  
+}}
+'''Baccura Caterpiles''' are Minor Enemies in {{XC3}}. They are members of the [[Caterpile]] family, and can be found at level 41-42 in [[Torus Hollow]] in [[Elaice Highway]] and at level 45-46 at the [[Great Sword's Base]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Baccura Caterpile
+|image        = Baccura Caterpile FR.jpg
+|caption      = Baccura Caterpile
+|category     = Normal Minor Enemy
+|type         = [[Caterpile]]
+|level        = 19
+|area         = [[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Baccura Caterpiles''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Caterpile]] family, and can be found at level 19 in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Caterpiles]]
+[[Category:XC3FR Caterpiles]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>2w6yuxe5xxk2cvkq8u4kc0xcfmz9wue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baccura Eluca</title>
+    <ns>0</ns>
+    <id>121778</id>
+    <revision>
+      <id>559559</id>
+      <parentid>546873</parentid>
+      <timestamp>2022-09-30T10:43:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559559</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="807" sha1="3m0utmdfpeawffqkc5sv6garbrhgkqb" xml:space="preserve">{{Infobox Enemy
+|name         = Baccura Eluca
+|image        = 
+|caption      = Baccura Eluca
+|category     = Minor Enemy
+|type         = [[Eluca]]
+|level        = ?
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Baccura Elucas''' are Minor Enemies in {{XC3}}. They are members of the [[Eluca]] family, and can be found at level ? at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Elucas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>3m0utmdfpeawffqkc5sv6garbrhgkqb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baelfael Gogol (XC3)</title>
+    <ns>0</ns>
+    <id>121186</id>
+    <revision>
+      <id>569007</id>
+      <parentid>569006</parentid>
+      <timestamp>2022-12-15T05:16:12Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <origin>569007</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1889" sha1="n0z9ihlk4gxz9bs7t2r4ghcuc4s10h9" xml:space="preserve">{{for|the enemy in {{XC|-}}|Baelfael Gogol (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Baelfael Gogol
+|image        = XC3 Baelfael Gogol.jpg
+|caption      = Baelfael Gogol
+|category     = Minor Enemy
+|type         = [[Gogol]]
+
+|tab1         = 74
+|level        = 74
+|area         = [[Low Maktha Wildwood]]&lt;br&gt;[[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 833
+|cp           = 140
+|sp           = 0
+|gold         = 241
+|hp           = 208,740
+|strength     = 868
+|healing      = 486
+|dexterity    = 258
+|agility      = 233
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 5%
+|guardrate-front   = 5%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+ 
+|tab2          = 75
+|level2        = 75 
+|area2         = [[Low Maktha Wildwood]]&lt;br&gt;[[High Maktha Wildwood]]
+|spawntime2    = Anytime
+|respawn2      = Yes
+|movement2     = Ground
+|detection2    = 
+|exp2          = 
+|cp2           = 
+|sp2           = 
+|gold2         = 
+|hp2           = 
+|strength2     = 
+|healing2      = 
+|dexterity2    = 
+|agility2      = 
+|physdef2      = 
+|ethdef2       = 
+|critrate2     = 
+|guardrate-front2   = 
+|guardrate-side2    = 
+|guardrate-back2    = 
+}}
+'''Baelfael Gogols''' are Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level 74-75 at [[High Maktha Wildwood]] and [[Low Maktha Wildwood]] in the [[Pentelas Region]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 20%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 0%
+|etherdebuff = 0%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>n0z9ihlk4gxz9bs7t2r4ghcuc4s10h9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Balgas</title>
+    <ns>0</ns>
+    <id>12220</id>
+    <revision>
+      <id>601938</id>
+      <parentid>600702</parentid>
+      <timestamp>2023-07-22T12:18:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601938</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1734" sha1="sfwfzkxdv816jkiiqpxozm2dgywlnec" xml:space="preserve">[[File:Caura_Balgas.jpg|thumb|Balgas model]]
+'''Balgas''' (Japanese: {{lang|ja|&#12496;&#12523;&#12459;&#12473;}}, ''Barukasu'') are a family of rare horned quadrupedal enemies in the {{XC|serieslink}}. Balgas are similar in appearance to [[Ories]]. Like Ories, they resemble bulls or yaks, although there is no equivalent to [[Aries]].
+
+There is a minor appearance change between games; in {{XC}} they have glowing blue and purple lines, whereas in {{XC2}} and {{XC3}} they do not.
+
+== {{XC|-}} ==
+In {{XC}}, Balgas are found only on [[Prison Island]]. Only two types of Balgas exist.
+
+=== Normal Minor Enemy ===
+* [[Caura Balgas]]
+
+=== Unique Monster ===
+* [[Fiendish Auburn]]
+
+== {{XC2|-}} ==
+In {{XC2}}, Balgas can only be found in [[Temperantia]].
+
+=== Normal Minor Enemy ===
+* [[Amman Balgas]]
+
+=== Note ===
+Despite all of the [[Ardun]] forms leading up to [[Relentless Arduran]], it has the model of a Balgas and looks like Amman Balgas. This may imply that Balgas are the same species as Armus and Arduns, and probably a dominant male (Ardun) in this game.
+
+== {{XC3|-}} ==
+In {{XC3}}, Balgas can be found on the [[Syra Hovering Reefs]].
+
+=== Normal Minor Enemy ===
+* [[Costa Balgas]]
+
+=== Unique Monster ===
+* [[Hornbow Dante]]
+
+== Gallery ==
+&lt;gallery&gt;
+Fiendish Auburn 1.png|Balgas in {{XC|-}}
+Amman Balgas.png|Balgas in {{XC2|-}}
+XC3 Hornbow Dante.png|Hornbow Dante
+&lt;/gallery&gt;
+[[Category:XC Species]]
+[[Category:XC Balgas]]
+[[Category:Bionis Life]]
+[[Category:Quadrupedal Enemies]]
+[[Category:Species Category]]
+[[Category:Sight Category]]
+[[Category:XC2 Species]]
+[[Category:XC2 Balgas]]
+[[Category:XC2 Beasts]]
+[[Category:XC3 Species]]
+[[Category:XC3 Balgas]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:Balgas]]
+[[Category:Species by Type]]</text>
+      <sha1>sfwfzkxdv816jkiiqpxozm2dgywlnec</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Barbarous Rage</title>
+    <ns>0</ns>
+    <id>124385</id>
+    <revision>
+      <id>591874</id>
+      <parentid>580995</parentid>
+      <timestamp>2023-05-14T14:35:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="577" sha1="lw0c9amgr0dazpmjyjz5nmi102vfsoy" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = Barbarous Rage
+|image       = Strm order thumb028 0.png
+|who         = [[Triton]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Randomly increases all characters' TP by between 2-6 and 10-18.
+|duration    = 
+|recharge    = 
+}}
+'''Barbarous Rage''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Triton]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>lw0c9amgr0dazpmjyjz5nmi102vfsoy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Barbed Merod</title>
+    <ns>0</ns>
+    <id>119477</id>
+    <revision>
+      <id>583275</id>
+      <parentid>581061</parentid>
+      <timestamp>2023-04-17T15:14:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1403" sha1="nbzwxkg2pqjyqxp777nxd9decebmmjg" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Barbed Merod
+|image        = XC3 Barbed Merod.png
+|caption      = Barbed Merod
+|type         = [[Urchon]]
+|level        = 51
+|area         = [[Erythia Sea]] ([[Anu Shoals]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,003
+|cp           = 520
+|sp           = 5
+|gold         = 1,131
+|hp           = 1,388,475
+|strength     = 758
+|healing      = 383
+|dexterity    = 149
+|agility      = 96
+|physdef      = 40%
+|ethdef       = 10%
+|critrate     = 18%
+|guardrate    = 30%
+}}
+'''Barbed Merod''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Urchon]] family, and can be found at level 51 at [[Anu Shoals]] in&#160;[[Erythia Sea]]. The "Needle Shell" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Barbed merod location.png
+Barbed merod.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Urchons]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>nbzwxkg2pqjyqxp777nxd9decebmmjg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bard Igna</title>
+    <ns>0</ns>
+    <id>121082</id>
+    <revision>
+      <id>595977</id>
+      <parentid>559561</parentid>
+      <timestamp>2023-06-16T18:50:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595977</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1093" sha1="jzw81ci666zeg1wwae0eg39pb8f1fu3" xml:space="preserve">{{Infobox Enemy
+|name         = Bard Igna
+|image        = 
+|caption      = Bard Igna
+|category     = Minor Enemy
+|type         = [[Igna]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Bard Ignas''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Igna]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>jzw81ci666zeg1wwae0eg39pb8f1fu3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bard Merigna</title>
+    <ns>0</ns>
+    <id>121807</id>
+    <revision>
+      <id>559562</id>
+      <parentid>546915</parentid>
+      <timestamp>2022-09-30T10:43:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559562</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="fubmtoaivilkmkc20fpf2wpmhjv7eqa" xml:space="preserve">{{Infobox Enemy
+|name         = Bard Merigna
+|image        = 
+|caption      = Bard Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Bard Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>fubmtoaivilkmkc20fpf2wpmhjv7eqa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bard Tirkin</title>
+    <ns>0</ns>
+    <id>121102</id>
+    <revision>
+      <id>595257</id>
+      <parentid>559563</parentid>
+      <timestamp>2023-06-11T16:18:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1730" sha1="0ab9xyn2arrw5k8ed2pgyo6rv2gso7j" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bard Tirkin
+|image        = 
+|caption      = Bard Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 18-20
+|area         = [[Ribbi Flats]] ([[Tirkin Headquarters (XC3)|Tirkin Headquarters]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Bard Tirkins''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level 18-20 at the [[Tirkin Headquarters (XC3)|Tirkin Headquarters]] on [[Ribbi Flats]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Bard Tirkin
+|image        = Bard Tirkin FR.jpg
+|caption      = Bard Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 9-12
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Bard Tirkins''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Tirkin]] family, and can be found at level 9-12 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3FR Tirkins]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>0ab9xyn2arrw5k8ed2pgyo6rv2gso7j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bardlord Tirkin</title>
+    <ns>0</ns>
+    <id>121103</id>
+    <revision>
+      <id>582268</id>
+      <parentid>559564</parentid>
+      <timestamp>2023-04-09T19:01:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582268</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="854" sha1="m4kshtwts2gqvdwag8xqfy0z751vehh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bardlord Tirkin
+|image        = 
+|caption      = Bardlord Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Ribbi Flats]]&lt;br/ &gt;[[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Bardlord Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? in [[Ribbi Flats]] in the [[Fornis Region]] and on the [[Urayan Trail]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>m4kshtwts2gqvdwag8xqfy0z751vehh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baroon Armu (XC3)</title>
+    <ns>0</ns>
+    <id>121779</id>
+    <revision>
+      <id>579787</id>
+      <parentid>560078</parentid>
+      <timestamp>2023-03-20T21:12:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Infobox</comment>
+      <origin>579787</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="0xcr4iylhc6eofjybayeezbzm0yc36d" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Baroon Armu (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Baroon Armu
+|image        = 
+|caption      = Baroon Armu
+|category     = Minor Enemy
+|type         = [[Armu]]
+|level        = ?
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Baroon Armus''' are Minor Enemies in {{XC3}}. They are members of the [[Armu]] family, and can be found at level ? at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Armus]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0xcr4iylhc6eofjybayeezbzm0yc36d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baruka Flier</title>
+    <ns>0</ns>
+    <id>121180</id>
+    <revision>
+      <id>595232</id>
+      <parentid>584286</parentid>
+      <timestamp>2023-06-11T16:04:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1555" sha1="9s83w6c78fcezolxk2yb7ecove56sjm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Baruka Flier
+|image        = 
+|caption      = Baruka Flier
+|category     = Minor Enemy
+|type         = [[Flier]]
+|level        = 31-35
+|area         = [[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Baruka Fliers''' are Minor Enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 31-35 in [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Baruka Flier
+|image        = Baruka Flier FR.jpg
+|caption      = Baruka Flier
+|category     = Normal Minor Enemy
+|type         = [[Flier]]
+|level        = 8
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Baruka Fliers''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Flier]] family, and can be found at level 8 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3FR Fliers]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>9s83w6c78fcezolxk2yb7ecove56sjm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baruka Skeeter</title>
+    <ns>0</ns>
+    <id>123150</id>
+    <revision>
+      <id>559567</id>
+      <parentid>553437</parentid>
+      <timestamp>2022-09-30T10:43:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="778" sha1="ei4lq7p2ixravtlgtsy3w0ygp14g6js" xml:space="preserve">{{Infobox Enemy
+|name         = Baruka Skeeter
+|image        = 
+|caption      = Baruka Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Baruka Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ei4lq7p2ixravtlgtsy3w0ygp14g6js</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baruka Wisp</title>
+    <ns>0</ns>
+    <id>123183</id>
+    <revision>
+      <id>598229</id>
+      <parentid>559568</parentid>
+      <timestamp>2023-07-04T17:35:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="786" sha1="ftu80b2yf9a86rx7z6cxwxa6jjtidrp" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Baruka Wisp
+|image        = Baruka Wisp.jpg
+|caption      = Baruka Wisp
+|category     = Minor Enemy
+|type         = [[Wisp]]
+|level        = 23-24
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Nighttime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Baruka Wisps''' are Minor Enemies in {{XC3}}. They are members of the [[Wisp]] family, and can be found at level 23-24 in the [[Dannagh Desert (XC3)|Dannagh Desert]] at night.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Wisps]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ftu80b2yf9a86rx7z6cxwxa6jjtidrp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Basreek Feris</title>
+    <ns>0</ns>
+    <id>121906</id>
+    <revision>
+      <id>579879</id>
+      <parentid>559198</parentid>
+      <timestamp>2023-03-21T16:41:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>info</comment>
+      <origin>579879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1080" sha1="s5iglyq8zduol2b4zgzf5t0sppbsk54" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Basreek Feris
+|image        = 
+|caption      = Basreek Feris
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Feris]]
+|level        = 47
+|area         = [[Li Garte Prison Camp]] ([[Perimeter Woodland]])
+|spawntime    = During ''[[Second Day of Prison]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Basreek Feris''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Feris]] family, and two are fought at level 47 in the [[Perimeter Woodland]] of [[Li Garte Prison Camp]] during ''[[Second Day of Prison]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>s5iglyq8zduol2b4zgzf5t0sppbsk54</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Battle Arts (XC3)</title>
+    <ns>0</ns>
+    <id>116799</id>
+    <revision>
+      <id>595602</id>
+      <parentid>593591</parentid>
+      <timestamp>2023-06-15T17:32:55Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595602</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48973" sha1="1ore56imyyfecmrbstrqm1dpzdpqmve" xml:space="preserve">{{for|other uses|Battle Arts}}
+{{spoiler}}
+[[File:XC3 Noah's Talent Arts.jpg|thumb|240px|Noah using the Swordfighter Talent Art, Overclock Buster]]
+'''Battle Arts''', or simply '''Arts''' (Japanese: {{lang|ja|&#12450;&#12540;&#12484;}}, ''&#256;tsu''), are a battle mechanic in {{XC3}} and {{FR|sublink}}.&lt;ref&gt;[https://topics.nintendo.co.jp/article/a4c0a78d-e993-4fae-8c8e-62c5927040fa Xenoblade Notebook vol. 4: A thorough explanation of the Arts in ''Xenoblade 3''].&lt;/ref&gt;
+
+== Overview ==
+They are attacks that can do more damage than a regular attack. They can also heal or buff an ally, and afflict foes with debuffs. All characters and enemies have Battle Arts. Usage of Battle Arts is restricted by a cooldown mechanic that changes depending on the character's [[Class (XC3)|Class]]. For [[Keves]]i classes, once a Battle Art has been used, it normally recharges over time. For [[Agnus|Agnian]] classes, once a Battle Art has been used, it normally recharges by striking an enemy with a certain number of [[Auto-Attack (XC3)|Auto-Attacks]].
+
+== {{XC3|-}} ==
+Arts are assigned to each of the three buttons (BXY buttons) and can be easily used by simply pressing a button. Each character has a variety of standing arts depending on their [[Role]] and Class, and each class has its own unique arts.
+{{clr}}
+
+=== Talent Arts ===
+[[File:XC3 Talent Arts.jpg|thumb|180px|Icon of an available Talent Art]]
+Special Arts that can attack more powerfully than normal Arts are called '''Talent Arts''' (Japanese: {{lang|ja|&#12479;&#12524;&#12531;&#12488;&#12450;&#12540;&#12484;}}, ''Tarento &#257;tsu''). Talent Arts are accumulated when performing actions that match the character's Role. For example, [[Attacker]]s can easily accumulate Talent Arts by attacking the flanks and backs of enemies with their Arts. 
+
+==== Talent Arts by Class ====
+{| class="xc1 sortable" width=100%
+! Art
+! Class
+! Role
+! Effect
+|-
+| [[Overclock Buster]]
+| [[Swordfighter]]
+| [[Attacker]]
+| [[Daze (XC3)|Dazed]] &#8593;
+|-
+| [[Gemini Strike]]
+| [[Zephyr]]
+| [[Defender (XC3)|Defender]]
+| High aggro / Evade
+|-
+| [[Healing Ring]]
+| [[Medic Gunner]]
+| [[Healer]]
+| Field / Regenerate
+|-
+| [[Tidal Wave]]
+| [[Tactician]]
+| [[Healer]]
+| AOE / Heal all on hit
+|-
+| [[Mad Taunt (XC3)|Mad Taunt]]
+| [[Heavy Guard]]
+| [[Defender (XC3)|Defender]]
+| AOE / Taunt
+|-
+| [[Pressure Drop]]
+| [[Ogre]]
+| [[Attacker]]
+| [[Launch (XC3)|Launch]]
+|-
+| [[Saber Strike]]
+| [[Flash Fencer]]
+| [[Attacker]]
+| [[Smash (XC3)|Smash]]
+|-
+| [[Deflector Field]]
+| [[Guardian Commander]]
+| [[Defender (XC3)|Defender]]
+| Absorb damage/[[Awakening (XC3)|Awaken]]
+|-
+| [[Technical Heal]]
+| [[War Medic]]
+| [[Healer]]
+| Heal party
+|-
+| [[Demise Thrust]]
+| [[Thaumaturge]]
+| [[Healer]]
+| [[Burst]]
+|-
+| [[Sword of Valor]]
+| [[Yumsmith]]
+| [[Attacker]]
+| Damage Link
+|-
+| Sharpest Tool
+| Yumsmith ([[Riku &amp; Manana]] only)
+| [[Attacker]]
+| Damage Link
+|-
+| [[Refreshing Rain]]
+| [[Stalker]]
+| [[Attacker]]
+| AOE/Wounded enemy&#8593;
+|-
+| [[Violent Streak (XC3)|Violent Streak]]
+| [[Full Metal Jaguar (XC3)|Full Metal Jaguar]]
+| [[Attacker]]
+| AOE/Evade/Pierce
+|-
+| [[Soulfire (XC3)|Soulfire]]
+| [[Strategos]]
+| [[Healer]]
+| Heal all on hit/Atk down
+|-
+| [[Blossom Dance (XC3)|Blossom Dance]]
+| [[Lone Exile]]
+| [[Defender (XC3)|Defender]]
+| High aggro/Pierce
+|-
+| [[Supreme Sword (XC3)|Supreme Sword]]
+| [[Incursor]]
+| [[Attacker]]
+| Launched&#8593;
+|-
+| [[Thunder Steel]]
+| [[Lost Vanguard]]
+| [[Defender (XC3)|Defender]]
+| AOE/Bind/Machines&#8593;
+|-
+| [[Cry of Faith]]
+| [[Signifer]]
+| [[Healer]]
+| 2 random buffs (party)
+|-
+| [[Final Countdown]]
+| [[Soulhacker]]
+| N/A
+| Dmg+ per Soul Hack
+|-
+| [[Raging Force]]
+| [[Martial Artist]]
+| [[Attacker]]
+| Deplete Arts: Boost dmg
+|-
+| [[Glittering Melody]]
+| [[Troubadour]]
+| [[Healer]]
+| Gain charge/Pause buffs
+|-
+| [[Empyrean Salvo (XC3)|Empyrean Salvo]]
+| [[Seraph]]
+| [[Attacker]]
+| AOE/[[Blaze (XC3)|Blaze]]/Awakened+
+|-
+| [[Viral Vector]]
+| [[Machine Assassin]]
+| [[Attacker]]
+| AOE/2 random debuffs
+|-
+| [[Divine Sword (XC3)|Divine Sword]]
+| [[Lifesage]]
+| [[Healer]]
+| Heal all on hit/Pierce
+|-
+| [[Element Genesis]]
+| [[Royal Summoner]]
+| [[Attacker]]
+| AOE/Elem. Discharge dmg+
+|-
+| [[Shining Refrain]]
+| [[Noponic Champion]]
+| [[Defender (XC3)|Defender]]
+| Evade / Self KO&#8593;
+|-
+| [[Pride of Place]]
+| [[Lapidarist]]
+| [[Healer]]
+| Field / [[Blaze (XC3)|Blaze]] &amp; Regen
+|-
+| [[Monado Buster]]
+| [[Grand Marshal]] ([[Shulk]] Only)
+| [[Defender (XC3)|Defender]]
+| AOE/Awakened+/Pierce
+|-
+| [[Infinity Blade (XC2)|Infinity Blade]]
+| [[Master Driver]] ([[Rex]] Only)
+| [[Attacker]]
+| AOE/Pierce/Unblockable
+|-
+| [[Infinity Blade (XC3)|Infinity Blade]]
+| All Classes ([[Noah]] Only)
+| N/A
+| AOE / Pierce
+|-
+| [[Unlimited Sword]]
+| All Classes (Noah Only)
+| N/A
+| Draw [[Lucky Seven]]
+|-
+| [[Final Lucky Seven]]
+| All Classes (Noah Only, after using Unlimited Sword)
+| N/A
+| AOE/Smash cmb./Pierce
+|-
+| [[Dominion Flower]]
+| All Classes ([[Mio]] Only)
+| N/A
+| AOE/Burst/Pierce
+|}
+{{clr}}
+
+==== Ouroboros Talent Arts ====
+{| class="xc1 sortable" width=100%
+! Characters
+! Art
+! Effect
+|-
+| rowspan="2" | [[Noah]]
+| [[Mega Spinning Edge]]
+| AOE / Pierce
+|-
+| [[Origin Blade]] (unlocked after defeating Queen of Agnus, usable if at Interlink Level 3 or if Unlimited Sword was active on Interlink activation)
+| Weaken all enemies
+|-
+| [[Mio]]
+| [[Resonant Edge]]
+| Party evade/KO wounded
+|-
+| [[Eunie]]
+| [[Sacred Cannon]]
+| AOE/[[Moebius]] Up/Unblockable
+|-
+| [[Taion]]
+| [[Eightfold Divide]]
+| AOE/Blowdown/0 charge
+|-
+| [[Lanz]]
+| [[Winning Rush]]
+| Pierce/Launch combo
+|-
+| [[Sena]]
+| [[Hammer Revolution]]
+| AOE/Pierce/Blowdown
+|}
+
+=== Combos ===
+{{main|Combo}}
+By linking up the controlled character with companions and connecting their Arts well, Combos can be created, allowing to [[Break (XC3)|Break]] and [[Topple (XC3)|Topple]] enemies. A Toppled enemy can be subjected to either [[Launch (XC3)|Launch]] and [[Smash (XC3)|Smash]] to deal heavy damage or [[Daze (XC3)|Daze]] and [[Burst]] to remove their Enraged buffs and provide bonus item drops.
+
+=== List of Arts by Class ===
+==== Main Character Classes ====
+&lt;tabber&gt;
+|-|Swordfighter=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Ground Beat]]
+| AOE
+|-
+| [[Sword Strike (XC3)|Sword Strike]]
+| Side Break
+|-
+| [[Edge Thrust]]
+| Back Attack Up
+|-
+| [[Air Slash (XC3)|Air Slash]]
+| Cancel Attack Up
+|-
+| [[Shadow Eye (XC3)|Shadow Eye]]
+| Aggro halved / Atk up
+|}
+
+|-|Zephyr=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Butterfly Blade (XC3)|Butterfly Blade]]
+| High aggro
+|-
+| [[Air Fang (XC3)|Air Fang]]
+| Aggroed Up
+|-
+| [[Wide Slash (XC3)|Wide Slash]]
+| Evade
+|-
+| [[Glow Ring]]
+| Target Lock
+|-
+| [[Speed Demon (XC3)|Speed Demon]]
+| Eva. up / Atk down
+|}
+
+|-|Medic Gunner=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Myopic Screen (XC3)|Myopic Screen]]
+| [[Daze (XC3)|Daze]]
+|-
+| [[Group Heal]]
+| AOE / Heal
+|-
+| [[Power Ring]]
+| Field / Atk up
+|-
+| [[Ether Cannon (XC3)|Ether Cannon]]
+| Accuracy down
+|-
+| [[Vortex (XC3)|Vortex]]
+| AOE/Area heal on hit
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Tactician=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Overfall (XC3)|Overfall]]
+| Ether Def. down
+|-
+| [[Stormy Skies (XC3)|Stormy Skies]]
+| AOE / Heal
+|-
+| [[Hazy Figure]]
+| Field / Eva. up
+|-
+| [[Avenging Eagle]]
+| AOE / Eva. down
+|-
+| [[Dark Banner]]
+| AOE / Sleep
+|}
+
+|-|Heavy Guard=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Bull Rush]]
+| [[Topple (XC3)|Topple]]
+|-
+| [[Crash Out]]
+| AOE / High Aggro
+|-
+| [[Uppercut Slash]]
+| High aggro
+|-
+| [[Variable Turret]]
+| Block attacks
+|-
+| [[Solid Stance]]
+| Def. up / Atk down
+|}
+
+|-|Ogre=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Big Impact (XC3)|Big Impact]]
+| Front Blowdown
+|-
+| [[Hammerhead (XC3)|Hammerhead]]
+| Side Attack Up
+|-
+| [[Giant Swing]]
+| Knockback
+|-
+| [[Cannonball]]
+| [[Daze (XC3)|Dazed]]&#8593;
+|- 
+| [[Maximum Voltage (XC3)|Maximum Voltage]]
+| Unblockable/Atk Up
+|}
+&lt;/tabber&gt;
+
+==== Hero Classes ====
+The Arts shown below for the [[Soulhacker]] class are the ones initially unlocked for it; further Arts can be acquired by defeating specific [[Unique Monster (XC3)|Unique Monsters]]. A full list of Arts obtained from enemies can be found in [[Soulhacker#Enemy Arts]].
+
+&lt;tabber&gt;
+|-|Flash Fencer=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Cross Impact (XC3)|Cross Impact]]
+| Power Charge on hit
+|-
+| [[Null Slash]]
+| AOE/Side Crit. Rate+
+|-
+| [[Hidden Thorn (XC3)|Hidden Thorn]]
+| [[Bleed (XC3)|Bleed]]
+|-
+| [[Revolution Edge]]
+| Back Attack Up
+|-
+| [[Acceleration]]
+| Auto-Atk spd. up/dmg up
+|}
+
+|-|War Medic=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Heal Bullet (XC3)|Heal Bullet]]
+| AOE / Heal
+|-
+| [[Multi Blast]]
+| Area heal on hit
+|-
+| [[Advanced Cooldown]]
+| Field / Def. up
+|-
+| [[Cure Bullet (XC3)|Cure Bullet]]
+| AOE/Clear debuffs/Debf. barrier
+|-
+| [[Vital Bullet]]
+| AOE / Delayed healing
+|}
+
+|-|Guardian Commander=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Noble Taunt]]
+| Taunt
+|-
+| [[Shield Bash (XC3)|Shield Bash]]
+| [[Topple (XC3)|Topple]]
+|-
+| [[Falcon Swoop]]
+| AOE / Awakened Boost
+|-
+| [[Grand Protection]]
+| Block Rate+/Atk Down
+|-
+| [[Imperial Sword (XC3)|Imperial Sword]]
+| Awakened Boost
+|}
+
+|-|Thaumaturge=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Rank Splitter]]
+| AOE heal on hit
+|-
+| [[Violent Flurry]]
+| Chance to pierce
+|-
+| [[Divine Protection]]
+| Field / Armor Veil
+|-
+| [[Leaping Current]]
+| AOE / Attack up
+|-
+| [[Spearpoint Thrust]]
+| Bind
+|}
+
+|-|Yumsmith=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Extended Slash]]
+| Shackle block/Front atk&#8593;
+|-
+| [[Flashback]]
+| Side [[Break (XC3)|Break]]
+|-
+| [[Energy Grenade]]
+| Continuous dmg field
+|-
+| [[Recharge (XC3)|Recharge]]
+| Field / Crit. Rate up
+|-
+| [[Determination]]
+| Power+ within fields
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Full Metal Jaguar=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Quickdraw]]
+| Evade / Front atk &#8593;
+|-
+| [[Dead Set]]
+| Removes aggro
+|-
+| [[Fatal Barrage]]
+| AOE / Back attack &#8593;
+|-
+| [[Superstorm]]
+| High acc. / Eva. down
+|-
+| [[Demolition]]
+| AOE/Pierce(%)
+|}
+
+|-|Strategos=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[No Love Lost (XC3)|No Love Lost]]
+| Physical Def. down
+|-
+| [[Hornet]]
+| Area heal on hit
+|-
+| [[Moondog]]
+| Field / Regenerate
+|-
+| [[Earth Bind]]
+| Bind
+|-
+| [[Mirror Trap]]
+| Counter Heal
+|}
+
+|-|Stalker=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Landslide]]
+| Launched&#8593; / Evade
+|-
+| [[Staying Power]]
+| Field / Art Follow-up
+|-
+| [[Driving Arrow]]
+| Back Bleed
+|-
+| [[Rapid Shot]]
+| Side attack&#8593;
+|-
+| [[Night Hunt]]
+| Slower aggro/Back atk+
+|}
+
+|-|Lone Exile=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Demon Slayer (XC3)|Demon Slayer]]
+| High aggro
+|-
+| [[Eye of the Storm]]
+| Block / Spike
+|-
+| [[Gale Slash (XC3)|Gale Slash]]
+| AOE / Aggroed&#8593;
+|-
+| [[Soaring Tempest (XC3)|Soaring Tempest]]
+| [[Launch (XC3)|Launch]]
+|-
+| [[Jaws of Death (XC3)|Jaws of Death]]
+| Atk up / Faster aggro
+|}
+
+|-|Incursor=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Reversal Edge]]
+| Crit.+ during enemy Art
+|-
+| [[Glitter Stream]]
+| Side [[Break (XC3)|Break]]
+|-
+| [[Sidewinder (XC3)|Sidewinder]]
+| AOE/Back Crit. Rate+
+|-
+| [[Aerial Slash (XC3)|Aerial Slash]]
+| High Crit. Rate/Evade
+|-
+| [[Mystic Vision]]
+| Crit. Rate &amp; dmg+
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Lost Vanguard=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Shockwave]]
+| Knockback mid-Art enemy
+|-
+| [[Mighty Beat (XC3)|Mighty Beat]]
+| AOE/High Aggro/[[Smash (XC3)|Smash]]
+|-
+| [[Shield Wall (XC3)|Shield Wall]]
+| Block/Heal/Ether anchor
+|-
+| [[Electro Field]]
+| Field / Armor Veil
+|-
+| [[Taunt Pulse]]
+| Cont. dmg/Fast aggro
+|}
+
+|-|Signifer=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Resonant Flag]]
+| Share own buffs
+|-
+| [[Aureole (XC3)|Aureole]]
+| 1 random buff
+|-
+| [[Heal Harmony]]
+| Field / Regenerate
+|-
+| [[Illuminate]]
+| AOE / Dmg+ per buff
+|-
+| [[Spirited Charge]]
+| Dmg up per buff
+|}
+
+|-|Soulhacker=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Draining Vacuum]]
+| Area heal on hit
+|-
+| [[Dig]]
+| Side Attack Up
+|-
+| [[Double Bite]]
+| Cancel Attack Up
+|}
+
+|-|Martial Artist=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Jackal Claw (XC3)|Jackal Claw]]
+| High Crit. Rate/Evade
+|-
+| [[Detonating Hit]]
+| Side [[Daze (XC3)|Daze]]
+|-
+| [[Impulse Wave]]
+| AOE / Dmg+ per enemy
+|-
+| [[Destructive Charge]]
+| Front atk &#8593; / Blowdown
+|-
+| [[Focus]]
+| Fast charge/Auto-atk spd+
+|}
+
+|-|Troubadour=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Autumn Rain]]
+| AOE / Regenerate
+|-
+| [[Way Home]]
+| [[Burst]]
+|-
+| [[Ring o' Roses (XC3)|Ring o' Roses]]
+| Field / Fast charge
+|-
+| [[Twin Moons]]
+| Remove buffs
+|-
+| [[Shadow Parade]]
+| Fast charge/Def. down
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Seraph=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Dragon's Snarl]]
+| High Crit. Rate/Dmg self
+|-
+| [[Crimson Lance]]
+| Side [[Topple (XC3)|Topple]]
+|-
+| [[Inferno Dance]]
+| AOE/Dmg to self/[[Blaze (XC3)|Blaze]]
+|-
+| [[Flamelord]]
+| Front attack &#8593;
+|-
+| [[Leveling Fire]]
+| Atk boost/Dmg to self
+|}
+
+|-|Machine Assassin=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Tyrant Cross]]
+| 1 random debuff
+|-
+| [[Fatal Bite]]
+| Side attack &#8593;
+|-
+| [[Terror Onslaught]]
+| Back resistance down
+|-
+| [[Havoc Slayer]]
+| AOE / Spread debuffs
+|-
+| [[Mega Crescent]]
+| Extend debuff time
+|}
+
+|-|Lifesage=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Saber Slash (XC3)|Saber Slash]]
+| AOE/Area heal on hit
+|-
+| [[Redemption (XC3)|Redemption]]
+| AOE / Heal
+|-
+| [[Waterlily]]
+| Field / Regenerate
+|-
+| [[Hydro Blast (XC3)|Hydro Blast]]
+| Pierce (%)/Blowdown
+|-
+| [[Aqua Mind]]
+| Regen allies / Fast charge
+|}
+
+|-|Royal Summoner=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Summon Element]]
+| AOE/Summon Elementals
+|-
+| [[Elemental Discharge (XC3)|Elemental Discharge]]
+| Release Elementals
+|-
+| [[Shadow Stitch (XC3)|Shadow Stitch]]
+| Back Bind
+|-
+| [[Starfall (XC3)|Starfall]]
+| AOE / [[Topple (XC3)|Topple]]
+|-
+| [[Power Effect (XC3)|Power Effect]]
+| Atk up / Def. down
+|}
+&lt;/tabber&gt;
+
+==== DLC Hero Classes ====
+The following classes and Arts are only available via the Expansion Pass.
+&lt;tabber&gt;
+|-|Noponic Champion=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Dual Flash]]
+| High Aggro
+|-
+| [[Refractive Edge]]
+| Evade / High aggro
+|-
+| [[Tri-Slash]]
+| [[Break (XC3)|Break]]
+|-
+| [[Lustrous Spike]]
+| Self KO&#8593;
+|-
+| [[Dazzling Illusion]]
+| Eva. up / Faster aggro
+|}
+
+|-|Lapidarist=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Blessed Edge]]
+| Area heal on hit
+|-
+| [[Rigid Slicer]]
+| AOE / Slow charge
+|-
+| [[Prismatic Ring]]
+| Field / Arts heal
+|-
+| [[Golden Heart]]
+| AOE / Fast charge
+|-
+| [[Vivid Carve]]
+| Remove buffs
+|}
+&lt;/tabber&gt;
+
+=== List of Arts by Character ===
+==== Hero Arts by Character ====
+Most of each [[Hero]]'s arts are shared with the main party when using the corresponding class. However, there are also several arts exclusive to Heroes that either have similar but enhanced effects to another art of that class or have completely different effects.
+&lt;tabber&gt;
+|-|Ethel=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Cross Impact (XC3)|Cross Impact]]
+| Power Charge on hit
+|-
+| [[Swallowtail (XC3)|Swallowtail]]
+| Back Attack &#8593;
+|-
+| [[Silver Cyclone]]
+| Side Crit. Rate+
+|-
+| [[Acceleration]]
+| Auto-Atk spd. up/dmg up
+|-
+| [[Million Flash]]
+| [[Bleed (XC3)|Bleed]]
+|}
+
+|-|Valdi=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Heal Bullet (XC3)|Heal Bullet]]
+| AOE / Heal
+|-
+| [[Trickshot (XC3)|Trickshot]]
+| Area heal on hit
+|-
+| [[Hyper Reload]]
+| Field / Def. up
+|-
+| [[Cure Bullet (XC3)|Cure Bullet]]
+| AOE/Clear debuffs/Debf. barrier
+|-
+| [[Suprise Beat]]
+| Machines&#8593;
+|}
+
+|-|Zeon=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Shield Bash (XC3)|Shield Bash]]
+| [[Topple (XC3)|Topple]]
+|-
+| [[Proud Edge]]
+| AOE / Awakened Boost
+|-
+| [[Celestial Strike]]
+| Knockback
+|-
+| [[Noble Taunt]]
+| Taunt
+|-
+| [[Victory Shift]]
+| Block Rate+/Atk Down
+|-
+|}
+
+|-|Teach=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Divine Protection]]
+| Field / Armor Veil
+|-
+| [[Rank Splitter]]
+| AOE heal on hit
+|-
+| [[Furious Flash]]
+| Bind
+|-
+| [[Profound Strength]]
+| AOE/Clear Debuffs/Atk Up
+|-
+| [[All-Slayer]]
+| Chance to pierce
+|}
+
+|-|Riku &amp; Manana=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Wok-a-Block]]
+| Side [[Break (XC3)|Break]]
+|-
+| [[Final Say]]
+| Shackle block/Front atk&#8593;
+|-
+| [[Roasty-Toasty]]
+| Continuous dmg field/[[Blaze (XC3)|Blaze]]
+|-
+| [[Ready-Steady]]
+| Power+ within fields
+|-
+| [[Hot Cuisine]]
+| Accuracy Down
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Gray=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Demolition]]
+| AOE/Pierce(%)
+|-
+| [[Dead Set]]
+| Removes aggro
+|-
+| [[Vengeance]]
+| Evade / Front atk &#8593;
+|-
+| [[Showdown]]
+| High acc. / Eva. down
+|-
+| [[Executioner (XC3)|Executioner]]
+| AOE / Back attack &#8593;
+|}
+
+|-|Isurd=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Gyreflow]]
+| Field / Regenerate
+|-
+| [[Razor Wind]]
+| Area heal on hit
+|-
+| [[No Love Lost (XC3)|No Love Lost]]
+| Physical Def. down
+|-
+| [[Mirror Trap]]
+| Counter Heal
+|-
+| [[Moonshadow]]
+| Bind
+|}
+
+|-|Juniper=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Downdraft]]
+| Back [[Bleed (XC3)|Bleed]]
+|-
+| [[Force of Nature]]
+| Field / Art Follow-up
+|-
+| [[Liberation Arrow]]
+| Side attack&#8593;
+|-
+| [[Night Hunt]]
+| Slower aggro/Back atk+
+|-
+| [[Landslide]]
+| Launched&#8593; / Evade
+|}
+
+|-|Ashera=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Demon Slayer (XC3)|Demon Slayer]]
+| High aggro
+|-
+| [[Inferno Wheel (XC3)|Inferno Wheel]]
+| Aggroed&#8593;
+|-
+| [[Ascension Blade (XC3)|Ascension Blade]]
+| [[Launch (XC3)|Launch]]
+|-
+| [[Eye of the Storm]]
+| Block / Spike
+|-
+| [[Wind Sickle]]
+| Low HP&#8593;
+|}
+
+|-|Alexandria=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Sidewinder (XC3)|Sidewinder]]
+| AOE/Back Crit. Rate+
+|-
+| [[Etched Deep]]
+| Side [[Break (XC3)|Break]]
+|-
+| [[Luminous Illusion]]
+| High Crit. Rate/Evade
+|-
+| [[Reversal Edge]]
+| Crit.+ during enemy Art
+|-
+| [[Mirage Divide]]
+| Dmg+ during enemy Art
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Monica=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Shockwave]]
+| Knockback mid-Art enemy
+|-
+| [[Geo Breaker]]
+| AOE/High Aggro/[[Smash (XC3)|Smash]]
+|-
+| [[Taunt Pulse]]
+| Cont. dmg/Fast aggro
+|-
+| [[Bolt Flinger]]
+| Field / Armor Veil
+|-
+| [[Lightning Strike (XC3)|Lightning Strike]]
+| Blowdown/High Aggro
+|}
+
+|-|Fiona=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Resonant Flag]]
+| Share own buffs
+|-
+| [[Max Effort]]
+| 1 random buff
+|-
+| [[Unbreakable Heart]]
+| Field / Regenerate
+|-
+| [[Lightning Passion]]
+| Dmg up per buff
+|-
+| [[Illuminate]]
+| AOE / Dmg+ per buff
+|}
+
+|-|Triton=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Captain Strike]]
+| Blowdown / Pierce
+|-
+| [[Magnificent Fist]]
+| Art recharge on hit
+|-
+| [[Peril Punch]]
+| AOE / Side Attack &#8593;
+|-
+| [[Pirate Lariat]]
+| [[Topple (XC3)|Topple]]
+|-
+| [[Ultra Boost]]
+| Atk up/dmg up
+|}
+
+|-|Ghondor=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Detonating Hit]]
+| Side [[Daze (XC3)|Daze]]
+|-
+| [[Hyper Dropkick]]
+| Front atk &#8593; / Blowdown
+|-
+| [[Comet Punch (XC3)|Comet Punch]]
+| AOE/High Crit. Rate/Evade
+|-
+| [[Focus]]
+| Fast charge/Auto-atk spd+
+|-
+| [[Rampaging Fists]]
+| Dmg+ per enemy
+|}
+
+|-|Miyabi=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Empty Shell]]
+| Field / Fast charge
+|-
+| [[Snowdrift]]
+| [[Burst]]
+|-
+| [[Sweet Breeze]]
+| AOE / Regenerate
+|-
+| [[Twin Moons]]
+| Remove buffs
+|-
+| [[Shadow Parade]]
+| Fast charge/Def. down
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Cammuravi=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Crimson Lance]]
+| Side [[Topple (XC3)|Topple]]
+|-
+| [[Sturm und Drang]]
+| High Crit. Rate/Dmg self
+|-
+| [[Heavenly Spear]]
+| AOE/Dmg to self/[[Blaze (XC3)|Blaze]]
+|-
+| [[Leveling Fire]]
+| Atk boost/Dmg to self
+|-
+| [[Searing Fury]]
+| Fast charge
+|}
+
+|-|Segiri=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Fatal Bite]]
+| Side attack &#8593;
+|-
+| [[Tyrant Cross]]
+| 1 random debuff
+|-
+| [[Fury Reaper]]
+| AOE / Spread debuffs
+|-
+| [[Seventh Edge (XC3)|Seventh Edge]]
+| Back resistance down
+|-
+| [[Hundred Shells (XC3)|Hundred Shells]]
+| Extend debuff time
+|}
+
+|-|Nia=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Saber Slash (XC3)|Saber Slash]]
+| AOE/Area heal on hit
+|-
+| [[Redemption (XC3)|Redemption]]
+| AOE / Heal
+|-
+| [[Redeeming Bloom]]
+| Field / Regenerate
+|-
+| [[Last Hope]]
+| Pierce (%)/Blowdown
+|-
+| [[Merciful Heart]]
+| AOE / Knockback
+|}
+
+|-|Melia=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Summon Element]]
+| AOE/Summon Elementals
+|-
+| [[Elemental Discharge (XC3)|Elemental Discharge]]
+| Release Elementals
+|-
+| [[Shadow Stitch (XC3)|Shadow Stitch]]
+| Back Bind
+|-
+| [[Starlight Kick (XC1)|Starlight Kick]]
+| [[Topple (XC3)|Topple]]
+|-
+| [[Power Effect (XC3)|Power Effect]]
+| Atk up / Def. down
+|}
+&lt;/tabber&gt;
+
+==== DLC Hero Arts by Character ====
+The following Heroes are only available via the Expansion Pass.
+&lt;tabber&gt;
+|-|Ino=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Starry Beat]]
+| [[Break (XC3)|Break]]
+|-
+| [[Afterglow]]
+| Self KO&#8593;
+|-
+| [[Photon Storm]]
+| Evade / High aggro
+|-
+| [[Dual Flash]]
+| High Aggro
+|-
+| [[Dazzling Illusion]]
+| Eva. up / Faster aggro
+|}
+
+|-|Masha=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Blessed Edge]]
+| Area heal on hit
+|-
+| [[Solid Silver]]
+| AOE / Slow charge
+|-
+| [[Majestic Zone]]
+| Field / Arts heal
+|-
+| [[Platinum Shards]]
+| Remove buffs
+|-
+| [[Golden Heart]]
+| AOE / Fast charge
+|}
+
+|-|Shulk=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Stream Edge (XC1)|Stream Edge]]
+| [[Break (XC3)|Break]]
+|-
+| [[Heavy Rush]]
+| Awakened Boost
+|-
+| [[Slit Edge (XC1)|Slit Edge]]
+| AOE/[[Bleed (XC3)|Bleed]]
+|-
+| [[Monado Rage]]
+| [[Target Lock]]
+|-
+| [[Monado Armor]]
+| Field/[[Armor Veil]]
+|}
+
+|-|Rex=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Anchor Shot]]
+| Front [[Topple (XC3)|Topple]]
+|-
+| [[Double Spinning Edge]]
+| Gain charge on crit.
+|-
+| [[Dual Blast]]
+| AOE/Side [[Launch (XC3)|Launch]]
+|-
+| [[Cross Blaze]]
+| Crit.+ during enemy Art
+|-
+| [[Rolling Smash (XC2)|Rolling Smash]]
+| AOE
+|}
+&lt;/tabber&gt;
+
+==== Ouroboros Arts by character ====
+&lt;tabber&gt;
+|-|Noah=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Phantom Slash]]
+| Interlink Lv. 3: [[Break (XC3)|Break]] all
+|-
+| [[Dragon Tail]]
+| AOE / Attack down
+|-
+| [[Unison Strike]]
+| High Crit. Rate
+|-
+| [[Rolling Smash (XC3)|Rolling Smash]]
+| Interlink Lv. 3: [[Smash (XC3)|Smash]] all
+|-
+| [[Bounding End]]
+| AOE/Annul guard (%)
+|-
+| [[Glorious Wing]]
+| Power Charge for all
+|}
+
+|-|Mio=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Deadly Twister (XC3)|Deadly Twister]]
+| Evade
+|-
+| [[Shining Halo]]
+| Interlink Lv.3: [[Daze (XC3)|Daze]] all
+|-
+| [[Jaguar Slash (XC3)|Jaguar Slash]]
+| Bleed / Blowdown
+|-
+| [[Radiant Ring]]
+| AOE / Target Lock
+|-
+| [[Dual Fang (XC3)|Dual Fang]]
+| AOE/Extend combo time
+|-
+| [[Full Moon Drop]]
+| Interlink Lv. 3: [[Break (XC3)|Break]] all
+|}
+
+|-|Eunie=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Lightning Arrow]]
+| Unblockable (%)/Knockback
+|-
+| [[Typhoon Field]]
+| AOE/Area heal on hit
+|-
+| [[Raptor Raid (XC3)|Raptor Raid]]
+| AOE/Acc. down/Evade
+|-
+| [[Feather Sanctuary]]
+| 1 random buff (party)
+|-
+| [[Ether Collider]]
+| Interlink Lv. 3: [[Daze (XC3)|Daze]] all
+|-
+| [[Liberty Wing]]
+| Revive incapacitated
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Taion=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Spirit Raven]]
+| AOE/Area heal on hit
+|-
+| [[Lurking Spider]]
+| Interlink Lv3: [[Burst]] all
+|-
+| [[Atomize]]
+| AOE/Blowdown/[[Blaze (XC3)|Blaze]]/Evade
+|-
+| [[Grand Priest]]
+| Interlink Lv3: [[Topple (XC3)|Topple]] all
+|-
+| [[Body Double]]
+| AOE / 1 random debuff
+|-
+| [[Fleeting Form]]
+| Regenerate all
+|}
+
+|-|Lanz=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Ray of Punishment (XC3)|Ray of Punishment]]
+| AOE / Aggroed &#8593;
+|-
+| [[Sudden Impact]]
+| Interlink Lv.3: [[Topple (XC3)|Topple]] all
+|-
+| [[Burning Rain]]
+| AOE / High aggro
+|-
+| [[Volcano Cannon]]
+| Interlink Lv3: [[Launch (XC3)|Launch]] all
+|-
+| [[Titan Fists]]
+| Blowdown/Shackle block
+|-
+| [[Incredible Guard]]
+| Defend allies/Counter
+|}
+
+|-|Sena=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Earth Crusher]]
+| Interlink Lv3: [[Launch (XC3)|Launch]] all
+|-
+| [[Mortal Bullet]]
+| Knockbk/Annul reaction
+|-
+| [[Dino Upper]]
+| Blowdown
+|-
+| [[Flame Nova (XC3)|Flame Nova]]
+| Evade / [[Blaze (XC3)|Blaze]]
+|-
+| [[Wing Smash (XC3)|Wing Smash]]
+| Interlink Lv3: [[Smash (XC3)|Smash]] all
+|-
+| [[Hellbound (XC3)|Hellbound]]
+| AOE/Blowdown/P-Def. down
+|}
+&lt;/tabber&gt;
+
+==== Lucky Seven Arts ====
+When [[Noah]] uses his [[Unlimited Sword]] Talent Art, he gains access to unique arts that are usable for 90 seconds until Noah sheaths [[Lucky Seven]] as well as the ability to use [[Final Lucky Seven]]. Four of his arts have different effects depending on the role of Noah's current class.
+
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Attacker Effect
+! scope="col" style="width: 250px;" |Defender Effect
+! scope="col" style="width: 250px;" |Healer Effect
+|-
+| [[Gravity Blow]]
+| AOE/[[Launch (XC3)|Launch]]/[[Smash (XC3)|Smash]]
+| AOE/[[Launch (XC3)|Launch]]/[[Smash (XC3)|Smash]]
+| AOE/[[Launch (XC3)|Launch]]/[[Smash (XC3)|Smash]]
+|-
+| [[Dimension Ripper]]
+| AOE / KO wounded
+| AOE / KO wounded
+| AOE / KO wounded
+|-
+| [[Tachyon Slash]]
+| AOE / Front attack &#8593;
+| AOE / High aggro
+| AOE / Area heal on hit
+|-
+| [[Power Raiser]]
+| AOE/1 random buff
+| AOE/Temp. invincibility
+| Field / Regenerate
+|-
+| [[Night Breaker (XC3)|Night Breaker]]
+| AOE/1 random debuff
+| AOE/Trg. Lock/Atk down
+| AOE/Acc. down/Atk down
+|-
+| [[Harmonic Wave]]
+| AOE/Pierce/Wounded&#8593;
+| AOE/Pierce/High aggro
+| AOE/Pierce/Area heal on hit
+|}
+
+=== Master Arts ===
+Once a Character has ranked up a Class, the controlled characters can use certain Arts from that class even if they change to another Class. This is called a '''Master Art''' (Japanese: {{lang|ja|&#12510;&#12473;&#12479;&#12540;&#12450;&#12540;&#12484;}}, ''Masut&#257; &#257;tsu''). For example, if [[Noah]] uses the Tactician class, he will be able to use some of that class' Arts even if he changes back to [[Swordfighter]]. However, the class of the Master Art cannot be from the same nation as the character's current class. For example, if Noah's current class is Swordfighter, he can only fuse his Swordfighter arts with a Master Art from an [[Agnus]] class.
+
+A Master Art will be automatically unlocked upon unlocking a class and a second Master Art is unlocked upon reaching Rank 10. Upon reaching the maximum rank for a class, that class's Talent Art is unlocked as a Master Art. 
+
+While executing a Master Art, the character will temporarily equip the weapon of the original class and assume the class's stats.  
+
+The [[Soulhacker]] class cannot use Master Arts, and the only Master Art from the class is its Talent Art.
+
+==== List of Master Arts ====
+{| class="xc1 sortable" width=50%
+! Class
+! Rank 1
+! Rank 10
+|-
+| [[Swordfighter]]
+| [[Ground Beat]]
+| [[Shadow Eye (XC3)|Shadow Eye]]
+|-
+| [[Zephyr]]
+| [[Wide Slash (XC3)|Wide Slash]] 
+| [[Glow Ring]]
+|-
+| [[Medic Gunner]]
+| [[Myopic Screen (XC3)|Myopic Screen]]
+| [[Ether Cannon (XC3)|Ether Cannon]]
+|-
+| [[Tactician]]
+| [[Dark Banner]]
+| [[Overfall (XC3)|Overfall]]
+|-
+| [[Heavy Guard]]
+| [[Crash Out]]
+| [[Solid Stance]]
+|-
+| [[Ogre]]
+| [[Giant Swing]]
+| [[Maximum Voltage (XC3)|Maximum Voltage]]
+|-
+| [[Flash Fencer]]
+| [[Hidden Thorn (XC3)|Hidden Thorn]]
+| [[Cross Impact (XC3)|Cross Impact]]
+|-
+| [[War Medic]]
+| [[Multi Blast]]
+| [[Advanced Cooldown]]
+|-
+| [[Guardian Commander]]
+| [[Noble Taunt]]
+| [[Shield Bash (XC3)|Shield Bash]]
+|-
+| [[Thaumaturge]]
+| [[Violent Flurry]]
+| [[Spearpoint Thrust]]
+|-
+| [[Yumsmith]]
+| [[Energy Grenade]]
+| [[Flashback]]
+|-
+| [[Full Metal Jaguar (XC3)|Full Metal Jaguar]]
+| [[Demolition]]
+| [[Quickdraw]]
+|-
+| [[Strategos]]
+| [[No Love Lost (XC3)|No Love Lost]]
+| [[Hornet]]
+|-
+| [[Stalker]]
+| [[Staying Power]]
+| [[Night Hunt]]
+|-
+| [[Lone Exile]]
+| [[Gale Slash (XC3)|Gale Slash]]
+| [[Soaring Tempest (XC3)|Soaring Tempest]]
+|-
+| [[Incursor]]
+| [[Aerial Slash (XC3)|Aerial Slash]]
+| [[Glitter Stream]]
+|-
+| [[Lost Vanguard]]
+| [[Shield Wall (XC3)|Shield Wall]]
+| [[Mighty Beat (XC3)|Mighty Beat]]
+|-
+| [[Signifer]]
+| [[Aureole (XC3)|Aureole]]
+| [[Resonant Flag]]
+|-
+| [[Martial Artist]]
+| [[Impulse Wave]]
+| [[Jackal Claw (XC3)|Jackal Claw]]
+|-
+| [[Troubadour]]
+| [[Way Home]]
+| [[Ring o' Roses (XC3)|Ring o' Roses]]
+|-
+| [[Seraph]]
+| [[Flamelord]]
+| [[Crimson Lance]]
+|-
+| [[Machine Assassin]]
+| [[Tyrant Cross]]
+| [[Fatal Bite]]
+|-
+| [[Lifesage]]
+| [[Hydro Blast (XC3)|Hydro Blast]]
+| [[Aqua Mind]]
+|-
+| [[Royal Summoner]]
+| [[Summon Element]]
+| [[Elemental Discharge (XC3)|Elemental Discharge]]
+|-
+| [[Noponic Champion]]
+| [[Lustrous Spike]]
+| [[Tri-Slash]]
+|-
+| [[Lapidarist]]
+| [[Rigid Slicer]]
+| [[Vivid Carve]]
+|}
+
+=== Fusion Arts ===
+By fusing a Master Art with an Art of the current Class, the player can unleash one Art with the effects of both at the same time with greater power at the expense of activating both of their cooldowns at once. These arts are called '''Fusion Arts''' (Japanese: {{lang|ja|&#34701;&#21512;&#12450;&#12540;&#12484;}}, ''Y&#363;g&#333; &#257;tsu''). By using various Classes for a longer period of time, the amount of attacks one can use this way will be expanded. Fusion Arts will increase the Interlink level if used frequently, enhancing the power of the Ouroboros form. 
+
+== {{XC3FR|sub}} ==
+=== Talent Arts by Character ===
+{| class="xc1 sortable" width=100%
+! Character
+! Art
+! Class
+! Role
+! Effect
+|-
+| [[Matthew (FR)|Matthew]]
+| [[Gigantic Beat]]
+| [[Martial Artist]]
+| [[Attacker]]
+| AOE/Charge all Arts on hit
+|-
+| rowspan="2" | [[A]]
+| [[Vision (FR)|Vision]]
+| rowspan="2" | [[Monado Fencer]]
+| rowspan="2" | [[Healer]]
+| Grant Vision
+|-
+| [[Vanishing End]]
+| Pierce all
+|-
+| [[Nikol]]
+| [[Total Destruction]]
+| [[Machinist]]
+| [[Defender (XC3)|Defender]]
+| AOE/Reduce dmg mid-Art/Pierce
+|-
+| [[Glimmer]]
+| [[Elysian Anthem]]
+| [[Kitharode]]
+| [[Healer]]
+| AOE/Heal all on hit
+|-
+| [[Shulk]]
+| [[Monado Buster]]
+| [[Grand Marshal]]
+| [[Defender (XC3)|Defender]]
+| AOE/[[Awakening (XC3)|Awakened]]+/Pierce
+|-
+| [[Rex]]
+| [[Infinity Blade (XC2)|Infinity Blade]]
+| [[Master Driver]]
+| [[Attacker]]
+| AOE/Pierce/Unblockable
+|-
+| [[Na'el]]
+| [[Divine Blaster]]
+| [[War Mage]]
+| [[Attacker]]
+| AOE/2 random debuffs
+|}
+
+=== Arts by Character ===
+&lt;tabber&gt;
+|-|Matthew=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Backspin Punch]]
+| [[Break (XC3)|Break]]
+|-
+| [[Mighty Strike]]
+| Front atk &#8593; /Knockback
+|-
+| [[Revolt Uppercut]]
+| Evade/Cancel attack &#8593;
+|-
+| [[Energy Boost]]
+| [[Power Charge]]
+|-
+| [[Raging Force]]
+| Chance to pierce
+|-
+| [[Detonating Hit]]
+| AOE
+|}
+
+|-|A=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Cross Ray]]
+| Area heal on hit
+|-
+| [[Shaker Edge (FR)|Shaker Edge]]
+| [[Topple (XC3)|Topple]]
+|-
+| [[Light Field]]
+| Field/[[Regenerate (XC3)|Regenerate]]
+|-
+| [[Skyfoil]]
+| Attack down
+|-
+| [[Lost Ray]]
+| AOE/Acc. down
+|-
+| [[Sword Mirage]]
+| AOE/Evade up
+|}
+
+|-|Nikol=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Whirlwind (FR)|Whirlwind]]
+| AOE/High aggro
+|-
+| [[Steady Assault]]
+| Reduce mid-Art damage
+|-
+| [[Motor Lifter]]
+| [[Launch (XC3)|Launch]]
+|-
+| [[Machine Clap]]
+| Defense up
+|-
+| [[Smart Bomb]]
+| AOE
+|-
+| [[Blitz Punch]]
+| High aggro
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Glimmer=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Illusory Bloom (FR)|Illusory Bloom]]
+| Phys. Def. down/[[Blaze (XC3)|Blaze]]
+|-
+| [[Great Garland (FR)|Great Garland]]
+| AOE/Area heal on hit
+|-
+| [[Flare Aria]]
+| Field/Atk up
+|-
+| [[Meteor Flame]]
+| Ether Def. down
+|-
+| [[Burning Ballad]]
+| AOE/Crit. Rate up
+|-
+| [[Daybreak Hymn]]
+| AOE/Heal
+|}
+
+|-|Shulk=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Stream Edge (XC1)|Stream Edge]]
+| [[Break (XC3)|Break]]
+|-
+| [[Heavy Rush]]
+| Awakened Boost
+|-
+| [[Slit Edge (XC1)|Slit Edge]]
+| AOE/[[Bleed (XC3)|Bleed]]
+|-
+| [[Monado Purge]]
+| AOE/Aggroed &#8593;
+|-
+| [[Monado Armor]]
+| Field/[[Armor Veil]]
+|-
+| [[Monado Rage]]
+| [[Target Lock]]
+|}
+
+|-|Rex=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Anchor Shot]]
+| Front [[Topple (XC3)|Topple]]
+|-
+| [[Double Spinning Edge]]
+| Gain charge on crit.
+|-
+| [[Dual Blast]]
+| AOE/Side [[Launch (XC3)|Launch]]
+|-
+| [[Sword Bash]]
+| Resistance down
+|-
+| [[Rolling Smash (XC2)|Rolling Smash]]
+| AOE
+|-
+| [[Cross Blaze]]
+| Crit.+ during enemy Art
+|}
+
+|-|Na'el=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Detonating Wave]]
+| Side attack &#8593;
+|-
+| [[Lightning Bash]]
+| AOE/[[Sleep (XC3)|Sleep]]
+|-
+| [[Demolition Bullet]]
+| [[Bind (XC3)|Bind]]
+|-
+| [[Compound Force]]
+| AOE
+|-
+| [[Bounding Ray]]
+| AOE/Chance to pierce
+|-
+| [[Double Impulse]]
+| High HP: Dmg up
+|}
+&lt;/tabber&gt;
+
+=== Ouroboros Power ===
+The Ouroboros Power consist of attacks more powerful than normal Arts. They are similar to Master Arts in the base game, but cannot be transferred to other classes, each class has a unique set of Ouroboros powers. Like Master Arts in the base game, they can be fused with other arts, but various additional effects apply that depend on the combination of Ouroboros Power and Arts.
+
+=== Fusion Arts ===
+Fusion Arts combine the effects of the regular Art and the corresponding Ouroboros power. For each possible pairing, there is a unique Fusion Art with additional effects.
+
+==== List of Fusion Arts ====
+&lt;tabber&gt;
+|-|Matthew=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Art
+! scope="col" style="width: 250px;" |Ouroboros Power
+! scope="col" style="width: 250px;" |Fusion Art
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Backspin Punch]]
+| [[Energy Boost]]
+| Energy Punch
+| Power Charge/Crit. Rate up
+|-
+| [[Backspin Punch]]
+| [[Raging Force]]
+| Raging Punch
+| Pierce/Flying &#8593;
+|-
+| [[Backspin Punch]]
+| [[Detonating Hit]]
+| Detonating Punch
+| AOE/Terrestrial &#8593;
+|-
+| [[Mighty Strike]]
+| [[Energy Boost]]
+| Mighty Boost
+| Power Charge/Fast charge
+|-
+| [[Mighty Strike]]
+| [[Raging Force]]
+| Mighty Force
+| Pierce/Aquatic &#8593;
+|-
+| [[Mighty Strike]]
+| [[Detonating Hit]]
+| Mighty Hit
+| AOE/Machines &#8593;
+|-
+| [[Revolt Uppercut]]
+| [[Energy Boost]]
+| Energy Revolt
+| Power Charge/AOE
+|-
+| [[Revolt Uppercut]]
+| [[Raging Force]]
+| Raging Revolt
+| Pierce (%)/Launch
+|-
+| [[Revolt Uppercut]]
+| [[Detonating Hit]]
+| Detonating Revolt
+| AOE/Launched &#8593;
+|}
+
+|-|A=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Art
+! scope="col" style="width: 250px;" |Ouroboros Power
+! scope="col" style="width: 250px;" |Fusion Art
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Cross Ray]]
+| [[Skyfoil]]
+| Sky Ray
+| Bind
+|-
+| [[Cross Ray]]
+| [[Lost Ray]]
+| Lost Cross
+| AOE/Shackle block
+|-
+| [[Cross Ray]]
+| [[Sword Mirage]]
+| Cross Mirage
+| AOE/Eva. up/Regen
+|-
+| [[Shaker Edge (FR)|Shaker Edge]]
+| [[Skyfoil]]
+| Shaker Foil
+| Atk down/Eva. down
+|-
+| [[Shaker Edge (FR)|Shaker Edge]]
+| [[Lost Ray]]
+| Lost Edge
+| AOE/Acc. down/Slow charge
+|-
+| [[Shaker Edge (FR)|Shaker Edge]]
+| [[Sword Mirage]]
+| Mirage Edge
+| AOE/Eva. up/Atk up
+|-
+| [[Light Field]]
+| [[Skyfoil]]
+| Sky Field
+| AOE/Atk down
+|-
+| [[Light Field]]
+| [[Lost Ray]]
+| Lost Field
+| AOE/Acc. down/Toppled &#8593;
+|-
+| [[Light Field]]
+| [[Sword Mirage]]
+| Mirage Field
+| Eva. up for all
+|}
+
+|-|Nikol=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Art
+! scope="col" style="width: 250px;" |Ouroboros Power
+! scope="col" style="width: 250px;" |Fusion Art
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Whirlwind (FR)|Whirlwind]]
+| [[Machine Clap]]
+| Wind Clap
+| AOE/Def. up
+|-
+| [[Whirlwind (FR)|Whirlwind]]
+| [[Smart Bomb]]
+| Bomb Wind
+| Wide AOE
+|-
+| [[Whirlwind (FR)|Whirlwind]]
+| [[Blitz Punch]]
+| Blitz Wind
+| AOE/High aggro
+|-
+| [[Steady Assault]]
+| [[Machine Clap]]
+| Steady Machine
+| Def. up/Ether anchor
+|-
+| [[Steady Assault]]
+| [[Smart Bomb]]
+| Smart Assault
+| AOE/Pierce
+|-
+| [[Steady Assault]]
+| [[Blitz Punch]]
+| Blitz Assault
+| High aggro/Pierce
+|-
+| [[Motor Lifter]]
+| [[Machine Clap]]
+| Machine Lifter
+| Def. up/Debuff barrier
+|-
+| [[Motor Lifter]]
+| [[Smart Bomb]]
+| Motor Bomb
+| AOE/Knockback
+|-
+| [[Motor Lifter]]
+| [[Blitz Punch]]
+| Motor Punch
+| High aggro/Blowdown
+|}
+
+|-|Glimmer=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Art
+! scope="col" style="width: 250px;" |Ouroboros Power
+! scope="col" style="width: 250px;" |Fusion Art
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Illusory Bloom (FR)|Illusory Bloom]]
+| [[Meteor Flame]]
+| Meteor Bloom
+| Ether Def. down/Eva. down
+|-
+| [[Illusory Bloom (FR)|Illusory Bloom]]
+| [[Burning Ballad]]
+| Burning Bloom
+| AOE/Crit. Rate up/Atk up
+|-
+| [[Illusory Bloom (FR)|Illusory Bloom]]
+| [[Daybreak Hymn]]
+| Bloom Hymn
+| AOE/Heal/Acc. up
+|-
+| [[Great Garland (FR)|Great Garland]]
+| [[Meteor Flame]]
+| Great Flame
+| Damage link
+|-
+| [[Great Garland (FR)|Great Garland]]
+| [[Burning Ballad]]
+| Burning Garland
+| AOE/Crit. Rate up &amp; dmg up
+|-
+| [[Great Garland (FR)|Great Garland]]
+| [[Daybreak Hymn]]
+| Garland Hymn
+| AOE/Heal/Eva. up
+|-
+| [[Flare Aria]]
+| [[Meteor Flame]]
+| Meteor Aria
+| AOE/Ether Def. down
+|-
+| [[Flare Aria]]
+| [[Burning Ballad]]
+| Flare Ballad
+| Crit. Rate up for all
+|-
+| [[Flare Aria]]
+| [[Daybreak Hymn]]
+| Flare Hymn
+| Heal all
+|}
+
+|-|Shulk=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Art
+! scope="col" style="width: 250px;" |Ouroboros Power
+! scope="col" style="width: 250px;" |Fusion Art
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Stream Edge (XC1)|Stream Edge]]
+| [[Monado Purge]]
+| Purge Stream
+| AOE/Purge buffs/Atk down
+|-
+| [[Stream Edge (XC1)|Stream Edge]]
+| [[Monado Armor]]
+| Armor Stream
+| Armor Veil/Eva. up
+|-
+| [[Stream Edge (XC1)|Stream Edge]]
+| [[Monado Rage]]
+| Stream Rage
+| Target Lock/Blowdown
+|-
+| [[Heavy Rush]]
+| [[Monado Purge]]
+| Heavy Purge
+| AOE/Purge buffs/Acc. down
+|-
+| [[Heavy Rush]]
+| [[Monado Armor]]
+| Armor Rush
+| Armor Veil/Power Charge
+|-
+| [[Heavy Rush]]
+| [[Monado Rage]]
+| Heavy Rage
+| Target Lock/Awakened Boost
+|-
+| [[Slit Edge (XC1)|Slit Edge]]
+| [[Monado Purge]]
+| Purge Edge
+| Purge buffs for all
+|-
+| [[Slit Edge (XC1)|Slit Edge]]
+| [[Monado Armor]]
+| Edge Armor
+| AOE/Armor Veil
+|-
+| [[Slit Edge (XC1)|Slit Edge]]
+| [[Monado Rage]]
+| Rage Edge
+| AOE/Target Lock
+|}
+
+|-|Rex=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Art
+! scope="col" style="width: 250px;" |Ouroboros Power
+! scope="col" style="width: 250px;" |Fusion Art
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Anchor Shot]]
+| [[Sword Bash]]
+| Anchor Bash
+| Resistance down/Toppled &#8593;
+|-
+| [[Anchor Shot]]
+| [[Rolling Smash (XC2)|Rolling Smash]]
+| Rolling Shot
+| AOE/Break
+|-
+| [[Anchor Shot]]
+| [[Cross Blaze]]
+| Blaze Shot
+| High Crit. Rate/Wounded &#8593;
+|-
+| [[Double Spinning Edge]]
+| [[Sword Bash]]
+| Double Spinning Bash
+| Res. down/Gain charge on hit
+|-
+| [[Double Spinning Edge]]
+| [[Rolling Smash (XC2)|Rolling Smash]]
+| Double Spinning Smash
+| AOE/Gain charge on hit
+|-
+| [[Double Spinning Edge]]
+| [[Cross Blaze]]
+| Double Spinning Blaze
+| High Crit. Rate/Charge on hit
+|-
+| [[Dual Blast]]
+| [[Sword Bash]]
+| Blast Sword
+| AOE/Resistance down
+|-
+| [[Dual Blast]]
+| [[Rolling Smash (XC2)|Rolling Smash]]
+| Rolling Blast
+| AOE/High HP: Dmg up
+|-
+| [[Dual Blast]]
+| [[Cross Blaze]]
+| Dual Blaze
+| High Crit. Rate/Launched &#8593;
+|}
+
+|-|Na'el=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Art
+! scope="col" style="width: 250px;" |Ouroboros Power
+! scope="col" style="width: 250px;" |Fusion Art
+! scope="col" style="width: 250px;" |Effect
+|-
+| [[Detonating Wave]]
+| [[Compound Force]]
+| Detonating Force
+| AOE/High HP: Dmg up
+|-
+| [[Detonating Wave]]
+| [[Bounding Ray]]
+| Bounding Wave
+| AOE/Pierce/High Crit. Rate
+|-
+| [[Detonating Wave]]
+| [[Double Impulse]]
+| Detonating Impulse
+| High HP: Dmg up/High Crit. Rate
+|-
+| [[Lightning Bash]]
+| [[Compound Force]]
+| Compound Lightning
+| Resistance down for all
+|-
+| [[Lightning Bash]]
+| [[Bounding Ray]]
+| Lightning Ray
+| Pierce all
+|-
+| [[Lightning Bash]]
+| [[Double Impulse]]
+| Double Lightning
+| AOE/High HP: Dmg up
+|-
+| [[Demolition Bullet]]
+| [[Compound Force]]
+| Compound Bullet
+| AOE/1 random debuff
+|-
+| [[Demolition Bullet]]
+| [[Bounding Ray]]
+| Bounding Bullet
+| AOE/Pierce/Shackle block
+|-
+| [[Demolition Bullet]]
+| [[Double Impulse]]
+| Demolition Impulse
+| High HP: Dmg up/Shackle block
+|}
+&lt;/tabber&gt;
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Noah Art Selection Screen.jpg|Battle Art Selection Menu
+XC3 Chain Attack 04.jpg|Noah activating a Chain Art
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+File:Arts &#8211; Xenoblade Chronicles 3|Arts
+File:Xenoblade Chronicles 3 - Release Date Revealed &#8211; Nintendo Switch|Release Date Revealed trailer presenting some battles with Battle Arts in action
+File:&#12477;&#12540;&#12489;&#12501;&#12449;&#12452;&#12479;&#12540; &#12450;&#12540;&#12484;|Swordfighter's Arts
+File:&#12477;&#12540;&#12489;&#12501;&#12449;&#12452;&#12479;&#12540; &#12479;&#12524;&#12531;&#12488;&#12450;&#12540;&#12484;|Swordfighter's Talent Arts
+File:&#30142;&#39080;&#22763; &#12450;&#12540;&#12484;|Zephyr's Arts
+File:&#30142;&#39080;&#22763; &#12479;&#12524;&#12531;&#12488;&#12450;&#12540;&#12484;|Zephyr's Talent Arts
+File:&#12466;&#12540;&#12472;&#12398;&#28316;&#12414;&#12426;&#26041;|How the Arts Gauges accumulate
+File:&#12450;&#12540;&#12484;&#34701;&#21512;|Fusion Arts
+File:&#12479;&#12540;&#12466;&#12483;&#12488;&#20999;&#12426;&#26367;&#12360;|Target switching
+File:&#12467;&#12531;&#12508;|Combos
+File:&#12461;&#12515;&#12531;&#12475;&#12523;&#25915;&#25731;|Cancel attack
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+[[Category:XC3 Arts]]
+[[Category:XC3 Battle Flow]]
+[[Category:XC3FR Arts]]
+[[Category:XC3FR Battle Flow]]</text>
+      <sha1>1ore56imyyfecmrbstrqm1dpzdpqmve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Battlescar Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>119097</id>
+    <revision>
+      <id>581490</id>
+      <parentid>569102</parentid>
+      <timestamp>2023-04-04T20:43:02Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>581490</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="496tof7omfqf0um3f6on64ywjn9a4ph" xml:space="preserve">{{Infobox location
+|name        = Battlescar Ferronis Hulk
+|image       = Battlescar Ferronis Hulk.jpg
+|caption     = Battlescar Ferronis Hulk
+|type        = [[Rest Spot (XC3)|Rest Spot]]
+|located     = [[Everblight Plain]]
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Battlescar Ferronis Hulk''' (Japanese: {{lang|ja|&#21476;&#25126;&#22580;&#36321;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Kosenj&#333;-ato no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}. It is located in [[Everblight Plain]] of the [[Aetia Region]]. In order to use this [[Ferronis Hulk]], the [[Quest (XC3)|Quest]] ''[[The Battlescar Hulk]]'' must be completed. 
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Battlescar Ferronis Hulk map.jpg
+&lt;/gallery&gt;
+{{xc3 stub}}
+
+[[Category:Aetia Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>496tof7omfqf0um3f6on64ywjn9a4ph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baythe Vang</title>
+    <ns>0</ns>
+    <id>121060</id>
+    <revision>
+      <id>598259</id>
+      <parentid>594376</parentid>
+      <timestamp>2023-07-04T17:52:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1729" sha1="ais8ybjpup3hc4fmchpsrv6g378haiz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Baythe Vang
+|image        = Baythe Vang XC3.jpg
+|caption      = Baythe Vang
+|category     = Normal Minor Enemy
+|type         = [[Vang]]
+|level        = 14-17
+|area         = [[Eagus Wilderness]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Baythe Vangs''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level 14-17 in the [[Eagus Wilderness]] in the [[Fornis Region]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Baythe Vang
+|image        = Baythe Vang FR.jpg
+|caption      = Baythe Vang
+|category     = Normal Minor Enemy
+|type         = [[Vang]]
+|level        = 9-14&lt;br/&gt;20
+|area         = [[Aurora Shelf]]&lt;br/&gt;[[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Baythe Vangs''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Vang]] family, and can be found at level 9-14 on the [[Aurora Shelf]] and at level 20 in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3FR Vangs]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>ais8ybjpup3hc4fmchpsrv6g378haiz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Beast-Hide Vest (XC3)</title>
+    <ns>0</ns>
+    <id>118916</id>
+    <revision>
+      <id>592711</id>
+      <parentid>592535</parentid>
+      <timestamp>2023-05-15T20:11:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1119" sha1="65fc7xuq057apqrqs39zx7sd04azqhz" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Beast-Hide Vest (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Beast-Hide Vest
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking toppled enemies by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Beast-Hide Vest
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking toppled enemies by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Beast-Hide Vest
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking toppled enemies by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Beast-Hide Vests''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>65fc7xuq057apqrqs39zx7sd04azqhz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Beast Mask</title>
+    <ns>0</ns>
+    <id>118914</id>
+    <revision>
+      <id>592710</id>
+      <parentid>592319</parentid>
+      <timestamp>2023-05-15T20:11:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592710</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1027" sha1="p1jlwlv1xcnforfkdxey3ex1q7k8puf" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Beast Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9460 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Beast Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9460 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Beast Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9460 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Beast Masks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>p1jlwlv1xcnforfkdxey3ex1q7k8puf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Beastfang Necklace</title>
+    <ns>0</ns>
+    <id>118915</id>
+    <revision>
+      <id>592712</id>
+      <parentid>592364</parentid>
+      <timestamp>2023-05-15T20:11:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592712</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1098" sha1="43tvy781cgiinmaqw892hmehp1q7w1y" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Beastfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targeting you by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2110 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Beastfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targeting you by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2110 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Beastfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targeting you by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2110 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Beastfang Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>43tvy781cgiinmaqw892hmehp1q7w1y</sha1>
+    </revision>
+  </page>
+  </mediawiki>

@@ -1,0 +1,6 @@
+Art Name: Redemption
+
+Class: Lifesage
+
+Effect: AOE / Heal
+

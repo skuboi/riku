@@ -1,0 +1,6 @@
+Skill Name: Defensive Soul 
+
+Class: Heavy Guard
+
+Skill Buff or Effect:  Boosts Physical Defense by 20%. [Rank 5 Master Skill]
+

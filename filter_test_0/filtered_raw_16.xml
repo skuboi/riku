@@ -1,0 +1,1985 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Craven Piggard</title>
+    <ns>0</ns>
+    <id>118675</id>
+    <revision>
+      <id>583279</id>
+      <parentid>581062</parentid>
+      <timestamp>2023-04-17T15:17:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583279</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1482" sha1="a2g5u7yy4x0gk19gazq2ydo5mh6tqxb" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Craven Piggard
+|image        = XC3 Craven Piggard.png
+|caption      = Craven Piggard
+|type         = [[Kapiba]]
+|level        = 38
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 3 (XC3)|Hovering Reef 3]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 694
+|cp           = 250
+|sp           = 5
+|gold         = 528
+|hp           = 864,500
+|strength     = 651
+|healing      = 291
+|dexterity    = 155
+|agility      = 157
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Craven Piggard''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Kapiba]] family, and can be found at level 38 at [[Hovering Reef 3 (XC3)|Hovering Reef 3]] in [[Syra Hovering Reefs]]. The "Nimbleness Itself" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 25%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Craven piggard location.png
+Craven piggard.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Kapibas]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>a2g5u7yy4x0gk19gazq2ydo5mh6tqxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crawler Caterpile (XC3)</title>
+    <ns>0</ns>
+    <id>121067</id>
+    <revision>
+      <id>598216</id>
+      <parentid>596011</parentid>
+      <timestamp>2023-07-04T17:32:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1192" sha1="6tm9imqaj0tcme3w28rzk1r8o5evu9f" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Crawler Caterpile (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Crawler Caterpile
+|image        = Crawler Caterpile XC3.jpg
+|caption      = Crawler Caterpile
+|category     = Normal Minor Enemy
+|type         = [[Caterpile]]
+|level        = 24
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Crawler Caterpiles''' are Normal Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Caterpile]] family, and can be found at level 24 in the [[Dannagh Desert (XC3)|Dannagh Desert]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3 Caterpiles]]
+[[Category:XC3FR Caterpiles]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>6tm9imqaj0tcme3w28rzk1r8o5evu9f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crazed Igna</title>
+    <ns>0</ns>
+    <id>121086</id>
+    <revision>
+      <id>595199</id>
+      <parentid>559612</parentid>
+      <timestamp>2023-06-11T15:34:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1821" sha1="hkdtvozb6zciozf0rigt7qrbkx7yrzr" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Crazed Igna
+|image        = 
+|caption      = Crazed Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 45&lt;br/&gt;96-99
+|area         = [[Elaice Highway]] ([[Igna Conglomerate]])&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Crazed Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 45 at the [[Igna Conglomerate]] on [[Elaice Highway]], and level 96-99 in [[Rebellion Cave]] at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Crazed Igna
+|image        = Crazed Igna FR.jpg
+|caption      = Crazed Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 20
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Crazed Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 20 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>hkdtvozb6zciozf0rigt7qrbkx7yrzr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Creeping Hameel</title>
+    <ns>0</ns>
+    <id>119507</id>
+    <revision>
+      <id>583280</id>
+      <parentid>574248</parentid>
+      <timestamp>2023-04-17T15:18:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1303" sha1="dqrrthf230tyqv9jnenq41wj690192b" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Creeping Hameel
+|image        = XC3 Creeping Hameel.png
+|caption      = Creeping Hameel
+|type         = [[Flak]]
+|level        = 67
+|area         = [[Origin Interior]] ([[Amplifier No. 2]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 3,096
+|cp           = 415
+|sp           = 5
+|gold         = 1,330
+|hp           = 2,908,700
+|strength     = 1,884
+|healing      = 384
+|dexterity    = 281
+|agility      = 222
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Creeping Hameel''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Flak]] family, and can be found at level 67 at [[Amplifier No. 2]] in the [[Origin Interior]]. The Attack Mastery [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = 50%
+|etherdebuff = 85%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Creeping hameel location.png
+Creeping hameel.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Flaks]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dqrrthf230tyqv9jnenq41wj690192b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crimson Headband (XC3)</title>
+    <ns>0</ns>
+    <id>122577</id>
+    <revision>
+      <id>592744</id>
+      <parentid>592530</parentid>
+      <timestamp>2023-05-15T20:13:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592744</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1037" sha1="aen3i2lmjurxqrzjtd07wu6z3nt4vum" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Crimson Headband (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Crimson Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Crimson Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 42%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Crimson Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 45%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Crimson Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>aen3i2lmjurxqrzjtd07wu6z3nt4vum</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Critical Hit Plus</title>
+    <ns>0</ns>
+    <id>125796</id>
+    <revision>
+      <id>587582</id>
+      <parentid>587116</parentid>
+      <timestamp>2023-05-02T12:32:46Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587582</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="778" sha1="4946n60kc4ig4z6zw5i8o3hqifqq55c" xml:space="preserve">{{Infobox XC3 Status
+|title          = Critical Hit Plus
+|image          = XC3 Critical Hit Plus.png
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base Critical Damage Boost
+|effect-value-1 = 50%
+}}
+'''Critical Hit Plus''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It increases the damage dealt by a character whenever they land a critical hit. The effect works additively, so for example the base 50% boost together with the normal critical damage boost of 25% results in critical hits dealing 75% extra damage.
+
+==Distribution==
+===Arts===
+*[[Desperate Charge]] ([[Soulhacker]], requires Soul Hacking [[King Krawkin]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}} 
+{{fr stub}}</text>
+      <sha1>4946n60kc4ig4z6zw5i8o3hqifqq55c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Critical Rate Up</title>
+    <ns>0</ns>
+    <id>125739</id>
+    <revision>
+      <id>587588</id>
+      <parentid>587110</parentid>
+      <timestamp>2023-05-02T12:38:12Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1435" sha1="6sdyj91c1fmd57bxhpcf0x165ok1utn" xml:space="preserve">{{Infobox XC3 Status
+|title = Critical Rate Up
+|image = XC3 Crit rate up.png
+|type = Buff
+|base-duration = 20.0s
+|max-duration = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base Critical Rate Boost
+|effect-value-1 = 25%
+}}
+'''Critical Rate Up''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It improves the user's Critical Rate multiplicatively (for example, a character with a Critical Rate of 20% will have their Critical Rate boosted to 25% with the base version of the buff).
+
+==Distribution==
+
+===Arts===
+*[[Recharge (XC3)|Recharge]] ([[Yumsmith]], field effect with effect value of 40%)
+*[[Battle Pheromone]] ([[Soulhacker]], requires Soul Hacking [[Gracious Titania]])
+*[[Hair Trigger (XC3)|Hair Trigger]] ([[Sharpshooter]])
+*[[Wintry End]] ([[Ethel]]'s [[Chain Attack (XC3)|Chain Order]])
+
+===Skills===
+*[[Soulhacker#Enemy Skills|Battle Fever]] (Soulhacker, requires Soul Hacking [[Fleeting Shikino]]; chance-based trigger on enemy defeat)
+
+===Enemy-only Arts===
+*Beast Howl ([[Vvarga]] and [[Kananus]] families)
+*Abyssal Scream ([[Merigna]] and [[Merfrey]] families)
+*Heat Scream ([[Drague]] family)
+*Technical Upgrade (certain [[Keves Forces]])
+*Round Boost (certain [[Agnus Forces]])
+*Gear Shift (Kio, Wira and Graaf [[Droids]])
+*Ancestral War Cry ([[Seraphic Ceratinia]], below Lv 200)
+*Quick Tune-Up ([[Consul Crys]])
+*Sensation ([[Moebius R]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>6sdyj91c1fmd57bxhpcf0x165ok1utn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cruelfist Rojou</title>
+    <ns>0</ns>
+    <id>119504</id>
+    <revision>
+      <id>583281</id>
+      <parentid>574249</parentid>
+      <timestamp>2023-04-17T15:19:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1422" sha1="nojf5zrre3cw6c8hwll3en0j8kbe21k" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Cruelfist Rojou
+|image        = XC3 Armbenders.png
+|caption      = Cruelfist Rojou (right)
+|type         = [[Droids]]
+|level        = 66
+|area         = [[Origin Interior]] ([[Amplifier Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,459
+|cp           = 265
+|sp           = 5
+|gold         = 783
+|hp           = 1,588,400
+|strength     = 2,052
+|healing      = 540
+|dexterity    = 276
+|agility      = 270
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Cruelfist Rojou''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Droids|Droid]], and can be found at level 66 at the [[Amplifier Section]] in the [[Origin Interior]], nearby the [[Amplifier Control Room]]. It forms the trio "Armbenders" with [[Ghostfist R&#243;is&#237;n]] and [[Trickfist Tuano]]. The Recharge Cheer [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Armbenders location.png
+Armbenders rojou.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Droids]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>nojf5zrre3cw6c8hwll3en0j8kbe21k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crushing Weapon Belt</title>
+    <ns>0</ns>
+    <id>122627</id>
+    <revision>
+      <id>592745</id>
+      <parentid>592335</parentid>
+      <timestamp>2023-05-15T20:13:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1038" sha1="2udatt2tzi4wfpkl3bffv7awv5ry6lt" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Crushing Weapon Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Aquatic Life by 90%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Crushing Weapon Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Aquatic Life by 95%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Crushing Weapon Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Aquatic Life by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Crushing Weapon Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>2udatt2tzi4wfpkl3bffv7awv5ry6lt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crustip</title>
+    <ns>0</ns>
+    <id>73428</id>
+    <revision>
+      <id>601966</id>
+      <parentid>600718</parentid>
+      <timestamp>2023-07-22T12:20:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2581" sha1="b48nk6k6xa3uas5u7f700u3y8gkwp7j" xml:space="preserve">[[file:KingCrustipBoss.png|thumb|King Crustip]]
+'''Crustips''' are a family of aquatic enemies in the {{XC|serieslink}}, first appearing in {{XC2}}. They resemble large lobster-like creatures, and come in red and blue varieties.
+
+== {{XC2|-}} ==
+Crustips are often encountered after [[Salvaging]].
+=== Normal Minor Enemies ===
+* [[Bafoo Crustip]]
+* [[Climber Crustip]]
+* [[Damodan Crustip]]
+* [[King Crustip (normal)|King Crustip]]
+* [[Kran Crustip (XC2)|Kran Crustip]]
+* [[Krim Crustip]]
+* [[Nowaak Crustip]] (after salvaging)
+* [[Pidor Crustip (XC2)|Pidor Crustip]] (after salvaging)
+* [[Piros Crustip (XC2)|Piros Crustip]] (after salvaging)
+* [[Redom Crustip]]
+* [[Sabri Crustip]] (after salvaging)
+
+=== Quest Exclusive Enemies ===
+* [[Naola Crustip (XC2)|Naola Crustip]] (during ''[[Would-Be Mercs]]'')
+* [[Petra Crustip]] (during ''[[Cargo Escort]]'')
+
+=== Unique Monsters ===
+* [[Demon-Shell Jacob]]
+* [[Peerless Beaufort]]
+
+=== Boss ===
+* [[King Crustip (boss)|King Crustip]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Spektr Crustip]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Myrrhes Crustip]]
+* [[Zafirah Crustip]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Andaris Crustip]]
+* [[Grandclaw Crustip]]
+* [[Grauw Crustip]]
+* [[Hybro Crustip]]
+* [[Kran Crustip (XC3)|Kran Crustip]]
+* [[Naola Crustip (XC3)|Naola Crustip]]
+* [[Nestrand Crustip]]
+* [[Pidor Crustip (XC3)|Pidor Crustip]]
+* [[Piros Crustip (XC3)|Piros Crustip]]
+* [[Purumii Crustip]]
+* [[Vastclaw Crustip]]
+
+=== Quest Exclusive Enemy ===
+* [[Daedal Crustip]] (During ''[[Culinary Repertoire]]'')
+
+=== Unique Monster ===
+* [[Well-Plated Zelinka]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Naola Crustip (XC3)|Naola Crustip]]
+* [[Pidor Crustip (XC3)|Pidor Crustip]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+ClimberCrustip.jpg|Climber Crustip
+Demon-ShellJacob.jpg|Demon-Shell Jacob
+PetraCrustip.jpg|Petra Crustip
+XC2 Bafoo Crustip.jpg|Bafoo Crustip
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+ZafirahCrustip.jpg|Zafirah Crustip
+MyrrhesCrustip.jpg|Myrrhes Crustip
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Kran Crustip.jpg|Kran Crustip
+XC3 Well-Plated Zelinka.png|Well-Plated Zelinka
+&lt;/gallery&gt;
+
+[[Category:XC2 Species]]
+[[Category:XC2 Crustips]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Crustips]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Species]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Crustips]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Crustips]]
+[[Category:Species by Type]]</text>
+      <sha1>b48nk6k6xa3uas5u7f700u3y8gkwp7j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crys</title>
+    <ns>0</ns>
+    <id>118654</id>
+    <revision>
+      <id>594223</id>
+      <parentid>586612</parentid>
+      <timestamp>2023-05-26T15:13:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10770" sha1="34te0y7smozb56u7e45zebfrmn8e2bw" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name           = Crys
+|image          = XC3_Crys.jpg
+|species        = [[Keves]]i human (formerly)&lt;br&gt;[[Moebius]]
+|age            = 
+|gender         = Male
+|haircolor      = Blonde
+|eyecolor       = Silver
+|affiliation    = [[Consul]]s
+|appearances    = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+|voiceactorjp   = [[wikipedia:Daisuke Kishio|Daisuke Kishio]]
+|voiceactoreng  = Joe Pitts
+}}
+'''Crys''' is a character in {{XC3}}.
+
+== Overview ==
+Crys was the personal [[Off-seer]] instructor of [[Noah]], who was in their tenth term who died and was later brought back as a [[Consul]]. 1000 years ago, a previous incarnation of Crys conceived the role of the Off-Seer and the Homecoming Ceremony with the aid of [[M]].
+
+During ''[[Side Story: Noah]]'', Noah senses Crys' presence at [[Keves Castle]] and enters to retrieve the last shard of [[Origin Metal]] necessary to upgrade the [[Bravery]]. The party enters the [[Throne Room (XC3)|Throne Room]], encountering Crys (now Consul C) accompanied by the now known to be false [[Queen of Keves]]. Crys pretends to ally with the fake Queen, only to catch her unawares and destroy her for a final time before confronting the party himself, easily accomplishing a feat that the Ouroboros had previously struggled with. In battle, Crys first fights the party on foot, then hijacks the Queen's own [[Ferronis]] throne and pilots it in an identical manner to her [[Queen of Agnus (boss)|Agnian counterpart]]. After his defeat, Crys shows his respect for Noah and reveals that he had no ill intentions, and Noah successfully retrieves the final piece of Origin metal.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Consul Crys
+|image        = Consul_C-Crys.jpg
+|caption      = Consul Crys
+|type         = [[Consul (enemy)|Consul]]
+
+|tab1         = Part 1
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level        = 60
+|area         = [[Keves Castle]] ([[Throne Room (XC3)|Throne Room]])
+|spawntime    = During ''[[Side Story: Noah]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 3,640
+|cp           = 108
+|sp           = 0
+|gold         = 0
+|hp           = 2,593,800
+|strength     = 1,274
+|healing      = 381
+|dexterity    = 278
+|agility      = 205
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate-front   = 15%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+
+|tab2         = Part 2
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 61
+|area2        = [[Keves Castle]] ([[Throne Room (XC3)|Throne Room]])
+|spawntime2   = During ''[[Side Story: Noah]]''
+|respawn2     = No
+|movement2    = Air
+|detection2   = 
+|exp2         = 4,824
+|cp2          = 144
+|sp2          = 0
+|gold2        = 0
+|hp2          = 3,544,800
+|strength2    = 1,961
+|healing2     = 385
+|dexterity2   = 262
+|agility2     = 156
+|physdef2     = 30%
+|ethdef2      = 0%
+|critrate2    = 0%
+|guardrate-front2  = 10%
+|guardrate-side2   = 10%
+|guardrate-back2   = 0%
+}}
+'''Consul Crys''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Consul (enemy)|Consul]] and is fought at level 60 in the [[Throne Room (XC3)|Throne Room]] of [[Keves Castle]] during ''[[Side Story: Noah]]''. He is then fought again afterwards while piloting a [[Ferronis]] at level 61.
+
+=== Resistances ===
+==== Part 1 ====
+{{XC3 Resistances
+|break       = 80%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+==== Part 2 ====
+{{XC3 Resistances
+|break       = 85%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = 90%
+}}
+=== Enraged ===
+==== Part 1 ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+==== Part 2 ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 25%.&lt;br&gt;Boosts Art recharge speed by 25%.
+|}
+{{clr}}
+=== Arts ===
+==== Part 1 ====
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|150%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Crescendo Edge'''
+|Physical
+|One Target
+|1
+|360%
+|
+|style="text-align:left;"|
+*Critical Rate is boosted by 30%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Lightning Resonance'''
+|Ether
+|Frontward AOE
+|1
+|220%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 2 &amp; 4 --&gt;
+|rowspan="2"| '''Staccato Stock'''
+|rowspan="2"| Physical
+|rowspan="2"| AOE around User
+|rowspan="2"| 1
+|120%
+|Knockback / [[Evasion Down]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 80% HP
+|-
+|160%
+|[[Topple (XC3)|Topple]] / Evasion Down
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to all combos and reactions during Art.
+*Art is telegraphed 3.0s before execution.
+|When enraged
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Finale'''
+|Physical
+|One Target
+|4
+|160%
+|[[Launch (XC3)|Launch]] on first hit, [[Smash (XC3)|Smash]] on fourth hit
+|style="text-align:left;"|
+*Immune to all combos and reactions during Art.
+*Each stage of the combo requires the corresponding earlier stage to be inflicted on the target.
+|When enraged, typically following up Staccato Shock
+|}
+==== Part 2 ====
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Ether
+|One Target
+|2
+|250%
+|
+|style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Nocturne Sword'''
+|Ether
+|One Target
+|1
+|450%
+|[[Daze (XC3)|Daze]]
+|style="text-align:left;"|
+*Accuracy and Critical Rate are both boosted by 50%.
+*Daze duration is extended by 50%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|Anytime
+|- &lt;!-- Arts Slot 2 (slot 1 is vacant) --&gt;
+|'''Phantasia Rush'''
+|Ether
+|Frontward AOE
+|&lt;abbr title="Two waves of six bullets each"&gt;12&lt;/abbr&gt;
+|960%
+|
+|style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+*Each hit can only damage a single target in range.
+|Anytime
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Quick Tune-Up'''
+|Buff
+|Self
+| -
+| -
+|[[Critical Rate Up]] / [[Critical Hit Plus]]
+|style="text-align:left;"|
+*Buff durations are extended by 200%.
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 75% HP
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Rhapsodic Blast'''
+|Ether
+|Frontward AOE
+|4
+|220%
+|
+|style="text-align:left;"|
+*Accuracy and Critical Rate are both boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Requiem Rain'''
+|Ether
+|Frontward AOE
+|2
+|270%
+|Knockback on first hit / [[Ether Defense Down (XC3)|Ether Defense Down]]
+|style="text-align:left;"|
+*Accuracy and Critical Rate are both boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 50% HP
+|}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Consul Crys
+|image        = Consul Crys Archsage's Gauntlet.jpg
+|caption      = Consul Crys
+|type         = [[Consul (enemy)|Consul]]
+
+|tab1         = Stage 50
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 90
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 14,512,230
+|strength     = 4,995
+|healing      = 4,119
+|dexterity    = 546
+|agility      = 391
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 10%
+|guardrate-front = 15%
+|guardrate-side = 0%
+|guardrate-back = 0%
+
+|tab2         = Stage 120
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 130
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|hp2          = 89,515,800
+|strength2    = 14,389
+|healing2     = 22,055
+|dexterity2   = 774
+|agility2     = 555
+|physdef2      = 0%
+|ethdef2       = 0%
+|critrate2     = 10%
+|guardrate-front2 = 15%
+|guardrate-side2 = 0%
+|guardrate-back2 = 0%
+}}
+Consul Crys is fought twice during the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''. He is first fought at Stage 50 at level 90, and later fought alongside [[Queen of Keves (boss)|Queen of Keves]] at Stage 120 at level 130. 
+=== Skills ===
+Consul Crys has the following skills:
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+{{XC3 Resistances
+|break = 90%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 90%
+|etherdebuff = 100%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+=== Arts ===
+Consul Crys's Arts set is identical to that of his first phase of his boss fight in ''Side Story: Noah'', with the exception of Staccato Shock, whose effects are described here:
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Arts Slot 2 &amp; 4 --&gt;
+|rowspan="2"| '''Staccato Stock'''
+|rowspan="2"| Physical
+|rowspan="2"| AOE around User
+|rowspan="2"| 1
+|115%
+|rowspan="2"| [[Evasion Down]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Removes all buffs from target upon landing a hit.
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 80% HP
+|-
+|140%
+|style="text-align:left;"|
+*Accuracy is boosted by 100%.
+*Removes all buffs from target upon landing a hit.
+*Immune to all combos and reactions during Art.
+|When enraged
+|}
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Garvel Crys Concept Art.png|Crys' Concept Art
+Consuls J S and C.jpg|Consul C Concept Art
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Consul C.jpg|Crys with mask
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:Keves]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Consul Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>34te0y7smozb56u7e45zebfrmn8e2bw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crystal Anklets</title>
+    <ns>0</ns>
+    <id>122636</id>
+    <revision>
+      <id>566680</id>
+      <parentid>564988</parentid>
+      <timestamp>2022-11-22T10:58:48Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="408" sha1="h9x75wl07mefsmqfql2sb7vrum0v8lz" xml:space="preserve">&lt;div style="float: right;"&gt;
+{{Infobox item
+|name      = Crystal Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Ignore Blowdown and Launch by somersaulting.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7740 [[Gold|G]]
+}}
+&lt;/div&gt;
+'''Crystal Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>h9x75wl07mefsmqfql2sb7vrum0v8lz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crystal Earrings (XC3)</title>
+    <ns>0</ns>
+    <id>122624</id>
+    <revision>
+      <id>592746</id>
+      <parentid>592569</parentid>
+      <timestamp>2023-05-15T20:13:33Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1108" sha1="bs2o8mcem82i11y9lbsw1qrxes9qkzd" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Crystal Earrings (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Crystal Earrings
+|image     = XC3 Accessory Ring.png
+|caption   = Fills Chain Attack gauge slightly on Art execution.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Crystal Earrings
+|image     = XC3 Accessory Ring.png
+|caption   = Fills Chain Attack gauge slightly on Art execution.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Crystal Earrings
+|image     = XC3 Accessory Ring.png
+|caption   = Fills Chain Attack gauge slightly on Art execution.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Crystal Earrings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>bs2o8mcem82i11y9lbsw1qrxes9qkzd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crystalline Chemise</title>
+    <ns>0</ns>
+    <id>118934</id>
+    <revision>
+      <id>592747</id>
+      <parentid>592285</parentid>
+      <timestamp>2023-05-15T20:13:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592747</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1051" sha1="rawzg1nhteow7sx837wi6hj95mahmf6" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Crystalline Chemise
+|image     = XC3 Accessory Shirt.png
+|caption   = Increases Ether Defense by 10 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Crystalline Chemise
+|image     = XC3 Accessory Shirt.png
+|caption   = Increases Ether Defense by 11 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Crystalline Chemise
+|image     = XC3 Accessory Shirt.png
+|caption   = Increases Ether Defense by 12 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Crystalline Chemises''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>rawzg1nhteow7sx837wi6hj95mahmf6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crystalline DuGarre</title>
+    <ns>0</ns>
+    <id>119412</id>
+    <revision>
+      <id>574252</id>
+      <parentid>566424</parentid>
+      <timestamp>2023-01-26T16:52:30Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add stats</comment>
+      <origin>574252</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1374" sha1="mdtbhzd0d95qm424irsfwxm06t4o3bh" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Crystalline DuGarre
+|image        = XC3 Crystalline DuGarre.png
+|caption      = Crystalline DuGarre
+|type         = [[Ropl]]
+|level        = 27
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Alefa Skysphere]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 793
+|cp           = 520
+|sp           = 5
+|gold         = 447
+|hp           = 517,500
+|strength     = 500
+|healing      = 179
+|dexterity    = 77
+|agility      = 77
+|physdef      = 25%
+|ethdef       = -10%
+|critrate     = 8%
+|guardrate    = 10%
+}}
+'''Crystalline DuGarre''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ropl]] family, and can be found at level 27 at the [[Alefa Skysphere]] in the [[Dannagh Desert (XC3)|Dannagh Desert]]. The [[Cursed Cuisine]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+|knockback = 100%
+|blowdown = 100%}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Crystalline dugarre location.png
+Crystalline dugarre.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ropl]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mdtbhzd0d95qm424irsfwxm06t4o3bh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Curran Feris</title>
+    <ns>0</ns>
+    <id>121781</id>
+    <revision>
+      <id>559613</id>
+      <parentid>546876</parentid>
+      <timestamp>2022-09-30T10:45:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559613</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="owz8dv9s1xm6g13eeqx44eapkb9kh4v" xml:space="preserve">{{Infobox Enemy
+|name         = Curran Feris
+|image        = 
+|caption      = Curran Feris
+|category     = Minor Enemy
+|type         = [[Feris]]
+|level        = ?
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Curran Feris''' are Minor Enemies in {{XC3}}. They are members of the [[Feris]] family, and can be found at level ? at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>owz8dv9s1xm6g13eeqx44eapkb9kh4v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Curran Volff</title>
+    <ns>0</ns>
+    <id>123195</id>
+    <revision>
+      <id>559614</id>
+      <parentid>553521</parentid>
+      <timestamp>2022-09-30T10:45:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559614</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="3haxhlsmhdcmrny4uo56472ui9swxas" xml:space="preserve">{{Infobox Enemy
+|name         = Curran Volff
+|image        = 
+|caption      = Curran Volff
+|category     = Minor Enemy
+|type         = [[Volff]]
+|level        = ?
+|area         = [[Keves Castle Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Curran Volffs''' are Minor Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level ? in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>3haxhlsmhdcmrny4uo56472ui9swxas</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cuyask Garaffa</title>
+    <ns>0</ns>
+    <id>121087</id>
+    <revision>
+      <id>596012</id>
+      <parentid>580401</parentid>
+      <timestamp>2023-06-16T19:46:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>596012</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1872" sha1="ptwk4p9bbu26n7rtoy1w08qcxvkl478" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Cuyask Garaffa
+|image        = 
+|caption      = Cuyask Garaffa
+|category     = Minor Enemy
+|type         = [[Garaffa]]
+|level        = ?
+|area         = [[Elaice Highway]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Cuyask Garaffas''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Garaffa]] family, and can be found at level ? at [[Elaice Highway]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Cuyask Garaffa
+|image        = 
+|caption      = Cuyask Garaffa
+|type         = [[Garaffa]]
+|movement     = 
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 105
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+A Cuyask Garaffa is fought at level 105 alongside a [[Lodmoro Plambus]] and a [[Segaro Garaffa]] at Stage 80 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Garaffas]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Garaffas]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>ptwk4p9bbu26n7rtoy1w08qcxvkl478</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cyrus Leg Frame</title>
+    <ns>0</ns>
+    <id>122868</id>
+    <revision>
+      <id>592748</id>
+      <parentid>592341</parentid>
+      <timestamp>2023-05-15T20:13:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592748</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1080" sha1="mrsdq985q8dsvlhwrgl6gspa37p993w" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Cyrus Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt by 50% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Cyrus Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt by 55% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Cyrus Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt by 60% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Cyrus Leg Frames''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>mrsdq985q8dsvlhwrgl6gspa37p993w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>D</title>
+    <ns>0</ns>
+    <id>117465</id>
+    <revision>
+      <id>595849</id>
+      <parentid>592926</parentid>
+      <timestamp>2023-06-16T15:09:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */</comment>
+      <origin>595849</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12448" sha1="gfekcz6w3u2fhpo6bcuhiexhb6696eg" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = D
+|image        = XC3 Consul D Portrait Art.png
+|species      = [[Agnus|Agnian]] human (formerly)&lt;br /&gt;[[Moebius]]
+|aliases      = Dirk (originally)
+|age          = 
+|gender       = Male
+|haircolor    = Blond
+|eyecolor     = Red
+|affiliation  = [[Agnus]] (formerly)&lt;br/&gt;[[Consul]]s
+|appearances  = {{XC3}}
+|voiceactorjp = 
+|voiceactoreng= [[wikipedia:Jonathan Slinger|Jonathan Slinger]]
+}}
+{{quote|It's a wild ride, this "passage of fate". We got ourselves a nice little awakening.|D}}
+'''D''' (Japanese: {{Lang|jp|&#12487;&#12451;&#12540;}}, ''D&#299;'') is a character in {{XC3}}.
+
+== Overview ==
+He is a [[Consul]]. He transforms into the [[Mysterious Enemy]] [[Moebius]] that attacks the party and [[Guernica Vandham]].&lt;ref&gt;https://www.nintendo.co.jp/switch/az3ha/story/index.html&lt;/ref&gt; Prior to becoming a Consul, D was known as '''Blackblaze Dirk''', an insane soldier of [[Agnus]] infamous for keeping the heads of his victims as trophies and killing his own men for sport - a hobby which he is eager to continue as a Consul.
+{{clr}}
+
+== Story ==
+[[File:Blackblaze Dirk.jpg|thumb|210px|left|Dirk prior to becoming Moebius]]
+As an Agnian soldier, Dirk fought with steel claws and took joy in killing not only his [[Keves]]i adversaries but also his own fellow Agnian troops. He kept a collection of the heads of his victims as trophies which earned him the name Blackblaze Dirk and made him an infamous and feared figure among the Agnian [[Colony|Colonies]]. He's even appeared in a textbook, [[Taion]] read it and found out about him. At some point during the war with Keves, Dirk died and chose to become [[Moebius]] in order to continue his sadistic hobby forever, reveling in the "transcendence" that came with being able to remember all of his past kills.
+
+As Consul D he was responsible for destroying [[Colony 18]] after it reached Gold rank, killing a past incarnation of [[Eunie]].
+
+[[File:XC3 Mysterious Giant 4.jpg|thumb|210px|D confronts the party as Moebius D &amp; J]]
+At [[Gura Flava Lowlands]] in [[Alfeto Valley]], D, who has [[Interlink]]ed with Consul [[Joran|J]], impales [[Guernica Vandham]] through the chest before revealing himself to [[Noah]], [[Mio]], and their allies. In an attempt to goad the two squads into fighting him for the [[Ouroboros Stone]], he kills both [[Mwamba]] and [[Hackt]] but before he can face them he is attacked by an injured Guernica piloting his [[Levnis]]. D rips Guernica out of his Levnis and is about to kill him when Noah charges at him and releases Vandham from his grip. As Noah and Mio's squads try their best to fight off D, Guernica activates the Ouroboros Stone, causing Noah and Mio to become [[Ouroboros]] and interlink for the first time. In their new Ouroboros form, Noah and Mio gain the upper hand over D who decides to flee the scene, but not before sending a message to his fellow [[Consul]]s alerting them of the reemergence and allowing them to turn the other humans against them.
+
+Upon his return to [[Origin]], D is berated by [[P]] for his failure to defeat Ouroboros but he claims that he did precisely what he was meant to do. After [[K]] is defeated by the party, D criticizes him for putting too much stock in his Irises but is ridiculed by P, [[O]] and [[H]] for retreating during his previous battle. Their argument is interrupted by J who requests to go out alone, to which D agrees.
+
+[[File:D Unmasked.jpg|thumb|210px|left|D reveals himself to the party at Keves Castle]]
+Picking up a reading near [[Keves Castle]], D (interlinked with J) intercepts the party at the [[Annihilator Foundations]]. He cancels his interlink from his Moebius form to reveal that Joran is with him and removes his mask to reveal his face to the party. As D and J battle Eunie and Taion in their Ouroboros form, D notices Eunie's fear and recognizes her as the Colony 18 sharpshooter he killed in a previous incarnation by touching her eye with his claw and turning her to stone. Whilst taunting Eunie, D fails to sense Taion's illusion and is pinned to the ground by Eunie as the [[Annihilator]] is destroyed by Taion's Mondo. With the Annihilator about to explode, D manages to crawl away and cancel his interlink with J, allowing them both to teleport to safety.
+
+[[File:D &amp; J Cloudkeep.png|thumb|210px|D and J at the Cloudkeep]]
+D and J later follow the party into the [[Cloudkeep]], being able to track Mio's movements due to her being half Moebius as a result of merging with [[M]]. As Queen [[Nia]] awakens from her sleep, D in his Moebius form impales her through the chest, seemingly killing her. As the party battle D and J in their Moebius forms, Noah, [[Lanz]] and Eunie attempt to convince Joran to join them. Before Joran can make his choice however, D takes him over by forcing him into an interlink and makes his true thoughts known, calling him a loser. As one final act of defiance, Joran overpowers D and steps backwards over the edge of the Cloudkeep, killing both himself and D in an [[Annihilation Event]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius D
+|image        = Moebius D Cloudkeep.png
+|caption      = Moebius D
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 54
+|area         = [[Captocorn Peak]] ([[Cloudkeep]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,420
+|cp           = 90
+|sp           = 0
+|gold         = 0
+|hp           = 1,942,400
+|strength     = 708
+|healing      = 688
+|dexterity    = 184
+|agility      = 169
+|physdef      = 20%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius D''' is a [[Boss (XC3)|Boss]] who is a [[Moebius]] and is fought alongside [[Moebius J]] at level 54 at the [[Cloudkeep]] on [[Captocorn Peak]].
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 65%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Deals 50% more damage but takes 25% more damage.
+|}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack 1 --&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|2
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Auto-attack 2 --&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Unstoppable Spear'''
+|Ether
+|One Target
+|1
+|300%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Damage from Blaze is boosted by 200%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|Anytime after either using Sanguine Fire or if [[Moebius J]] is still active
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Chaos Arch'''
+|Physical
+|AOE on Target
+|1
+|225%
+|Knockback
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime after either using Sanguine Fire or if Moebius J is still active
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Grim Rush'''
+|Physical
+|One Target
+|6
+|550%
+|[[Launch (XC3)|Launch]] on final hit
+|style="text-align:left;"|
+*Accuracy and Critical Rate are both boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime after either using Sanguine Fire or if Moebius J is still active
+|- &lt;!-- Arts Slot 4 / 6 (Slot 3 is vacant) --&gt;
+|rowspan="2"|'''Dread Edge'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|&lt;abbr title="One volley of six bullets"&gt;6&lt;/abbr&gt;
+|720%
+|rowspan="2"|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Each hit can only damage a single target in range.
+|While not enraged, after either using Sanguine Fire or if Moebius J is still active
+|-
+|&lt;abbr title="Two volleys of six bullets each"&gt;12&lt;/abbr&gt;
+|1200%
+|style="text-align:left;"| Above notes, plus:
+*Art is telegraphed 3.0s before execution.
+|When enraged, after either using Sanguine Fire or if Moebius J is still active
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Sanguine Fire'''
+|Stance
+|Self
+| -
+| -
+|
+|style="text-align:left;"|
+*During stance, regenerate 1% of HP every 3.0s.
+*Immune to all reactions and combos during Art.
+|Once per battle, if Moebius J is defeated
+|}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius D
+|image        = 
+|caption      = Moebius D
+|type         = [[Moebius]]
+
+|tab1         = Stage 60
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 95
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 14,101,500
+|strength     = 5,793
+|healing      = 11,587
+|dexterity    = 431
+|agility      = 380
+|physdef      = 20%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+
+|tab2         = Stage 130
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 140
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|hp2          = 79,860,720
+|strength2    = 17,074
+|healing2     = 58,095
+|dexterity2   = 602
+|agility2     = 534
+|physdef2     = 20%
+|ethdef2      = 0%
+|critrate2    = 0%
+|guardrate2   = 0%
+}}
+Moebius D is fought twice alongside [[Joran#Challenge Battle Mode|Moebius J]] in the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]'', first at level 95 at Stage 60, and later at level 140 at Stage 130.
+=== Skills ===
+Moebius D has the following skill:
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+{{XC3 Resistances
+|break       = 90%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 70%
+|etherdebuff = 100%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+=== Arts ===
+Moebius D's Arts set is identical to that of his boss fight in the main story, with the exception of Dread Edge, whose effects are described here:
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Arts Slot 4 / 6 (Slot 3 is vacant) --&gt;
+|rowspan="2"|'''Dread Edge'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|&lt;abbr title="One volley of six bullets"&gt;6&lt;/abbr&gt;
+|540%
+|rowspan="2"|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Removes all buffs from target upon landing a hit.
+*Each hit can only damage a single target in range.
+|While not enraged, after either using Sanguine Fire or if Moebius J is still active
+|-
+|&lt;abbr title="Two volleys of six bullets each"&gt;12&lt;/abbr&gt;
+|900%
+|style="text-align:left;"| Above notes, plus:
+*Art is telegraphed 1.5s before execution.
+|When enraged, after either using Sanguine Fire or if Moebius J is still active
+|}
+==Etymology== 
+The name Dirk is of Dutch origin, deriving from Diederik. The name can be read as &#8220;the people&#8217;s ruler&#8221;, or &#8220;gifted ruler&#8221;. Additionally, a dirk is a type of dagger.
+== See also ==
+* [[Moebius D &amp; J]]
+
+== Trivia ==
+* D's appearance is almost identical to [[w:c:xenosaga:Grahf|Grahf]] from ''[[w:c:xenosaga:Xenogears|Xenogears]]''. However, his backstory, weapon of choice while he was human, and his role as an initial antagonist are reminiscent of [[Mumkhar]].
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Consul D Art.png|Official art of D
+D unmasked art.png|Unmasked
+D concept art.jpg|Concept artwork
+Weapon Concept 3.png|Concept artwork of Dirk's claws
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Moebius D.jpg|D in his Moebius form
+XC3 Mysterious Giant 5.jpg|D Interlinked with J
+XC3 Consul D 01.jpg|Consul D, with J standing behind him 
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>gfekcz6w3u2fhpo6bcuhiexhb6696eg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Daedal Crustip</title>
+    <ns>0</ns>
+    <id>123848</id>
+    <revision>
+      <id>576862</id>
+      <parentid>559212</parentid>
+      <timestamp>2023-02-14T16:21:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1033" sha1="3jclinh9baewuizzcd6mzlgcsvlvfia" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Daedal Crustip
+|image        = 
+|caption      = Daedal Crustip
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Crustip]]
+|level        = 52
+|area         = [[Erythia Sea]] ([[Daedal Isle]])
+|spawntime    = During ''[[Culinary Repertoire]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Daedal Crustips''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Crustip]] family, and four are fought at level 52 on [[Daedal Isle]] in [[Erythia Sea]] during ''[[Culinary Repertoire]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3jclinh9baewuizzcd6mzlgcsvlvfia</sha1>
+    </revision>
+  </page>
+  </mediawiki>

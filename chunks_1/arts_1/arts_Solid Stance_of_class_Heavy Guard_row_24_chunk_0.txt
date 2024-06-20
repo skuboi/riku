@@ -1,0 +1,6 @@
+Art Name: Solid Stance
+
+Class: Heavy Guard
+
+Effect: Def. up / Atk down
+

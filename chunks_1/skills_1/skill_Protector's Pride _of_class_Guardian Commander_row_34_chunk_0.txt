@@ -1,0 +1,6 @@
+Skill Name: Protector's Pride 
+
+Class: Guardian Commander
+
+Skill Buff or Effect:  Boosts recharge speed by 50% when non-Defenders are targeted. [Rank 5 Master Skill]
+

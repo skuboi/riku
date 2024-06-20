@@ -1,0 +1,6 @@
+Art Name: Rigid Slicer
+
+Class: Lapidarist
+
+Effect: AOE / Slow charge
+

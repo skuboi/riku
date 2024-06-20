@@ -1,0 +1,6 @@
+Skill Name: Instant Regen+ 
+
+Class: Lifesage
+
+Skill Buff or Effect:  25% chance to heal using 100% of Healing Power upon taking damage.
+

@@ -1,0 +1,6 @@
+Art Name: Tyrant Cross
+
+Class: Machine Assassin
+
+Effect: 1 random debuff
+

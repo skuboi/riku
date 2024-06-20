@@ -1,0 +1,6 @@
+Skill Name: Swiftsong 
+
+Class: Troubador
+
+Skill Buff or Effect:  Boosts all allies' accuracy and evasion by 20%. Does not stack. [Rank 15 Master Skill]
+

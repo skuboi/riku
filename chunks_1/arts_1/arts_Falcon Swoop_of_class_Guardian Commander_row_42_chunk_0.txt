@@ -1,0 +1,6 @@
+Art Name: Falcon Swoop
+
+Class: Guardian Commander
+
+Effect: AOE / Awakened Boost
+

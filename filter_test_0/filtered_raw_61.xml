@@ -1,0 +1,3472 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shell Lining</title>
+    <ns>0</ns>
+    <id>118999</id>
+    <revision>
+      <id>592850</id>
+      <parentid>592283</parentid>
+      <timestamp>2023-05-15T20:18:54Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="963" sha1="p32kdb9qju5eocqlg1d0e76aa921f1c" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Shell Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Shell Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Shell Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Shell Linings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>p32kdb9qju5eocqlg1d0e76aa921f1c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shell Necklace</title>
+    <ns>0</ns>
+    <id>122715</id>
+    <revision>
+      <id>592851</id>
+      <parentid>592431</parentid>
+      <timestamp>2023-05-15T20:18:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="531" sha1="8vqz0ix48lxgt5ts4raib1vrb561djo" xml:space="preserve">{{Infobox item
+|name      = Shell Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts recharge speed by 25% when in the water.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Shell Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 15 [[Nopon Coin (Silver)|Silver Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>8vqz0ix48lxgt5ts4raib1vrb561djo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shell Protector</title>
+    <ns>0</ns>
+    <id>119000</id>
+    <revision>
+      <id>592852</id>
+      <parentid>592295</parentid>
+      <timestamp>2023-05-15T20:18:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1044" sha1="3pgqtd77ghggs9hnvc9jw8pe8esaxfy" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Shell Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 30% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Shell Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 31% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Shell Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 32% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Shell Protectors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>3pgqtd77ghggs9hnvc9jw8pe8esaxfy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shelp Taos</title>
+    <ns>0</ns>
+    <id>121787</id>
+    <revision>
+      <id>564657</id>
+      <parentid>559931</parentid>
+      <timestamp>2022-11-06T01:51:50Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="835" sha1="jjrisa6qpx2511pwqujbp4wt0m79blv" xml:space="preserve">{{Infobox Enemy
+|name         = Shelp Taos
+|image        = 
+|caption      = Shelp Taos
+|category     = Minor Enemy
+|type         = [[Taos]]
+|level        = ?
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Shelp Taos''' are Minor Enemies in {{XC3}}. They are members of the [[Taos]] family, and can be found at level ? at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Taos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>jjrisa6qpx2511pwqujbp4wt0m79blv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shenk Grebel</title>
+    <ns>0</ns>
+    <id>121194</id>
+    <revision>
+      <id>594677</id>
+      <parentid>594667</parentid>
+      <timestamp>2023-05-31T12:35:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="885" sha1="6tbp969nzzmkenuag0i1rfqpdx6746r" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Shenk Grebel
+|image        = 
+|caption      = Shenk Grebel
+|category     = Normal Minor Enemy
+|type         = [[Grebel]]
+|level        = 92-93
+|area         = [[Low Maktha Wildwood]] ([[Cavern of Oblivion]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Shenk Grebels''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level 92-93 in the [[Cavern of Oblivion]] in [[Low Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6tbp969nzzmkenuag0i1rfqpdx6746r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shield Belt</title>
+    <ns>0</ns>
+    <id>122861</id>
+    <revision>
+      <id>592853</id>
+      <parentid>592291</parentid>
+      <timestamp>2023-05-15T20:19:00Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592853</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1016" sha1="jxofuvo8t1bcdmbc7l5bhsawxew5wez" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Shield Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Deal 50% less damage but take 25% less damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 12,890 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Shield Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Deal 50% less damage but take 27% less damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 12,890 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Shield Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Deal 50% less damage but take 30% less damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 12,890 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Shield Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>jxofuvo8t1bcdmbc7l5bhsawxew5wez</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shield Bind</title>
+    <ns>0</ns>
+    <id>125911</id>
+    <revision>
+      <id>580516</id>
+      <timestamp>2023-03-25T16:47:00Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Status |title = Shield Bind |caption = Incapacitates Defenders. |image = File:XC3 Shield Bind.png |type = Debuff | attribute = Ether | base-duration = 20.0s | rng-applicable = No | effect-title-4 = Remarks | effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs. }} '''Shield Bind''' is a [[Status Effect]] in {{XC3}}. It only affects [[Defender (XC3)|Defenders]] and prevents them from taking any actions during the effect. The d..."</comment>
+      <origin>580516</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" sha1="6pr71x7kjfp54lo8qqqzf9nmpm09vns" xml:space="preserve">{{Infobox XC3 Status
+|title = Shield Bind
+|caption = Incapacitates Defenders.
+|image = File:XC3 Shield Bind.png
+|type = Debuff
+| attribute = Ether
+| base-duration = 20.0s
+| rng-applicable = No
+| effect-title-4 = Remarks
+| effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs.
+}}
+'''Shield Bind''' is a [[Status Effect]] in {{XC3}}. It only affects [[Defender (XC3)|Defenders]] and prevents them from taking any actions during the effect. The debuff is only inflicted by [[Moebius]] enemies whenever they use the Art "''Moebius Dominion: Defenders''", and cannot be inflicted by the player's party.
+
+[[Category:XC3 Status]]</text>
+      <sha1>6pr71x7kjfp54lo8qqqzf9nmpm09vns</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shielder Igna</title>
+    <ns>0</ns>
+    <id>121095</id>
+    <revision>
+      <id>594708</id>
+      <parentid>559934</parentid>
+      <timestamp>2023-06-01T02:57:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1881" sha1="iki7681qko90ehronz5noc15ojt39t3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Shielder Igna
+|image        = 
+|caption      = Shielder Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 42-43&lt;br/&gt;95-96
+|area         = [[Elaice Highway]]&lt;br/&gt;[[Erythia Sea]] ([[Malevolent Hollow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Shielder Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 42-43 on [[Elaice Highway]], or at level 95-96 in the [[Malevolent Hollow]] in [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Shielder Igna
+|image        = Shielder Igna FR.jpg
+|caption      = Shielder Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 35
+|area         = [[Aurora Shelf]] ([[Declessa Cave Temple Ruins]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Shielder Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 35 at the [[Declessa Cave Temple Ruins]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>iki7681qko90ehronz5noc15ojt39t3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shielder Tirkin</title>
+    <ns>0</ns>
+    <id>121112</id>
+    <revision>
+      <id>595499</id>
+      <parentid>595254</parentid>
+      <timestamp>2023-06-15T14:38:17Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1948" sha1="sixrijxzcc370exyzrowz3cbkdcd5ek" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Shielder Tirkin
+|image        = 
+|caption      = Shielder Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 18-20&lt;br/&gt;95-99
+|area         = [[Ribbi Flats]] ([[Tirkin Headquarters (XC3)|Tirkin Headquarters]])&lt;br/&gt;[[Erythia Sea]] ([[Malevolent Hollow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Shielder Tirkins''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level 18-20 at the [[Tirkin Headquarters (XC3)|Tirkin Headquarters]] on [[Ribbi Flats]] and level 95-99 in the [[Malevolent Hollow]] of [[Erythia Sea]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Shielder Tirkin
+|image        = Shielder Tirkin FR.jpg
+|caption      = Shielder Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 10-12
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Shielder Tirkins''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Tirkin]] family, and can be found at level 10-12 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Tirkins]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>sixrijxzcc370exyzrowz3cbkdcd5ek</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shika Ansel</title>
+    <ns>0</ns>
+    <id>121890</id>
+    <revision>
+      <id>559936</id>
+      <parentid>547031</parentid>
+      <timestamp>2022-09-30T10:57:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="807" sha1="802lyanrows28wv0pt1z4r0l8wwix8f" xml:space="preserve">{{Infobox Enemy
+|name         = Shika Ansel
+|image        = 
+|caption      = Shika Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Agnus Castle Barbican]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Shika Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? at [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>802lyanrows28wv0pt1z4r0l8wwix8f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shika Rhogul (XC3)</title>
+    <ns>0</ns>
+    <id>121754</id>
+    <revision>
+      <id>582331</id>
+      <parentid>561154</parentid>
+      <timestamp>2023-04-10T13:55:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582331</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="852" sha1="c3tfrshn5xkgvohdqr1qdlhnlilbjbg" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Shika Rhogul (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Shika Rhogul
+|image        = 
+|caption      = Shika Rhogul
+|category     = Normal Minor Enemy
+|type         = [[Rhogul]]
+|level        = 88 - 89
+|area         = [[The Cavity]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Shika Rhoguls''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level 88 - 89 in [[The Cavity]] of [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>c3tfrshn5xkgvohdqr1qdlhnlilbjbg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shimmering Marcko</title>
+    <ns>0</ns>
+    <id>118587</id>
+    <revision>
+      <id>574684</id>
+      <parentid>574645</parentid>
+      <timestamp>2023-01-30T04:27:32Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1392" sha1="jjkfkibn2ieoeueqhgyx31o6i6bn0oc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Shimmering Marcko
+|image        = XC3 Shimmering Marcko.png
+|caption      = Shimmering Marcko
+|category     = [[Unique Monster (XC3)|Unique Monster]]
+|type         = [[Pippito]]
+|level        = 28
+|area         = [[Urayan Tunnels]] ([[Kachurichu Cavern]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,008
+|cp           = 150
+|sp           = 5
+|gold         = 1,674
+|hp           = 284,700
+|strength     = 569
+|healing      = 442
+|dexterity    = 159
+|agility      = 153
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Shimmering Marcko''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Pippito]] family and can be found at level 28 near [[Kachurichu Cavern]] in the [[Urayan Tunnels]]. The [[Radiant Arts]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Shimmering marcko location.png
+Shimmering marcko.png
+&lt;/gallery&gt;
+{{clr}}
+
+== References ==
+&lt;references /&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>jjkfkibn2ieoeueqhgyx31o6i6bn0oc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shoox</title>
+    <ns>0</ns>
+    <id>120181</id>
+    <revision>
+      <id>602113</id>
+      <parentid>600815</parentid>
+      <timestamp>2023-07-22T12:28:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Quest Exclusive Boss */</comment>
+      <origin>602113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="666" sha1="n8a0uopj2qxp2xayvfoo4iy9jbixi3s" xml:space="preserve">'''Shooxes''' are a family of aquatic enemies in {{XC3}} and {{XC3FR|sublink}}. They are found in the [[Erythia Sea]].
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Chako Shoox]]
+* [[Paloo Shoox]]
+* [[Tiiko Shoox]]
+
+=== Unique Monster ===
+* [[Seatiger Tridence]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Tiiko Shoox]]
+
+=== Quest Exclusive Boss ===
+* [[Enn Shoox]] (During ''[[Big Game: Enn Shoox]]'')
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Shooxes]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Shooxes]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Shooxes]]
+[[Category:Species by Type]]</text>
+      <sha1>n8a0uopj2qxp2xayvfoo4iy9jbixi3s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shreddle Vang (XC3)</title>
+    <ns>0</ns>
+    <id>123171</id>
+    <revision>
+      <id>596757</id>
+      <parentid>573616</parentid>
+      <timestamp>2023-06-19T15:44:52Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>596757</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="889" sha1="kipkeai60g1nnquonvipi6u1kkdkcfh" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Shreddle Vang (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Shreddle Vang
+|image        = 
+|caption      = Shreddle Vang
+|category     = Normal Minor Enemy
+|type         = [[Vang]]
+|level        = 76 - 77
+|area         = [[Millick Meadows]] ([[Elgares Depths]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Shreddle Vangs''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level 76-77 in the [[Elgares Depths]] of [[Millick Meadows]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kipkeai60g1nnquonvipi6u1kkdkcfh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shu</title>
+    <ns>0</ns>
+    <id>122340</id>
+    <revision>
+      <id>597781</id>
+      <parentid>596100</parentid>
+      <timestamp>2023-07-02T16:29:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597781</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1419" sha1="aca29v4ugn6mfz2s1uoepwhkxr357nw" xml:space="preserve">{{Infobox_NPC
+|name        = Shu
+|image       = XC3 Shu Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Agnus|Agnian]] human
+|age         = 4th Term
+|location    = [[Erythia Sea]] ([[Colony Mu]])
+}}
+'''Shu''' is a NPC in {{XC3}}. Shu is from [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Shu
+|image        = Shu battle.png
+|caption      = Shu
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =
+}} 
+'''Shu''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is an [[Agnus Forces|Agnus Soldier]] who is fought at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>aca29v4ugn6mfz2s1uoepwhkxr357nw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shulk</title>
+    <ns>0</ns>
+    <id>2052</id>
+    <revision>
+      <id>603222</id>
+      <parentid>603162</parentid>
+      <timestamp>2023-07-24T16:34:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */</comment>
+      <origin>603222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104115" sha1="016l5w7mw08myycmprej7qqobnsbq7p" xml:space="preserve">{{Previous FA}}
+&lt;br /&gt;
+{{spoiler}}
+{{Infobox Character
+|name          = Shulk
+|image         = &lt;tabber&gt;
+XC= [[File:Shulk pic.png]]
+|-|
+XC:DE= [[File:XCDE-Shulk Portrait.png]]
+|-|
+XC:FC= [[File:XCDE Shulk Future Connected Portrait.png]]
+|-|
+XC2= [[File:Shulk Portrait XC2.png]]
+|-|
+XC3:FR= [[File:XC3FR Shulk portrait.png]]
+&lt;/tabber&gt;
+|caption       = Shulk
+|gender        = Male
+|age           = 18 ({{XC|-}})
+|species       = [[Homs]]
+|height        = 1.71 m
+|haircolor     = Blond
+|eyecolor      = Blue
+|affiliation   = [[Liberators]]
+|occupation    = Mechanic&lt;br/&gt;Leader of the [[Liberators]]
+|voiceactorjp  = [[wikipedia:Shintar&#333; Asanuma|Shintar&#333; Asanuma]]
+|voiceactoreng = [[wikipedia:Adam Howden|Adam Howden]]
+|appearances   = {{XC}}&lt;br /&gt;{{XCFC|sublink}}&lt;br /&gt;{{XC2}}&lt;br /&gt;{{XC3}}&lt;br /&gt;{{XC3FR|sublink}}
+|other         = {{SSB4}}&lt;br /&gt;{{SSBU}}&lt;br /&gt;''[[w:c:mario:Super Mario Maker|Super Mario Maker]]''&lt;br/&gt;''[[w:c:tetris:Tetris 99|Tetris 99]]''
+}}
+{{Quote|The Monado... I hope I can figure out the secret of its power one day.|Shulk}}
+'''Shulk''' (Japanese: {{lang|ja|&#12471;&#12517;&#12523;&#12463;}}, ''Shuruku''; [[English dub pronunciations|English dub]]: {{IPA|/&#712;&#643;&#650;lk/}}) is the main playable character and the protagonist of {{XC}}. His ability to wield the [[Monado]], using the sword's unique powers, as well as [[Vision (XC1)|visions]] of the future, makes him one of the main forces against the [[Mechon]]. He is often referred to by some characters as the "Heir to the Monado".
+
+== Personality ==
+Shulk is determined, organised, strong-hearted, smart, and quick-witted to the bone. Despite being called out by [[Dickson]] for spending too much time indoors doing research, Shulk is a very kind person and is often seen trying to help others. He likes to think things through and is very methodical in his approach to most situations.
+
+However, Shulk is also portrayed as being oblivious to other peoples' feelings. Despite his gentle nature, Shulk is roused to great hatred and vengeance against the [[Mechon]] after they attack [[Colony 9 (XC1)|Colony 9]], revenge being the main factor that leads him and [[Reyn]] to begin their journey. Shulk trusts his companions above anything else, and goes to great lengths to protect them. Shulk also tends to be pessimistic, often feeling particularly frustrated if and when he fails to change the future seen in his visions.
+
+As an adult, Shulk retains his resolve and methodical attitude, and has developed a reputation for being calm and composed even in the thick of battle. However, he is as enthusiastic about working with machines as he was in his younger days.
+
+Shulk and [[Rex]] are shown to be close friends. The two leaders of the [[Liberators]] have complete trust in each other and know very well of how the other thinks.
+
+== Appearance ==
+=== In {{XC|-}} ===
+Shulk is a 1.71 m (5'7") young man with jaw-length wavy blond hair, greyish blue eyes, and a pointed face. In the {{XCDE|sublink}}, Shulk's hair is more yellow than its original dirty blond.
+
+Shulk's default attire, which he wears in promotional material as well as in his appearances in other games, consists of a short red jacket, a black sweater with pink and purple patterning, grey shorts with straps and flat-soled boots. He wears a whistle around his neck.
+
+=== In {{XC3FR|-}} ===
+In {{XC3FR}}, Shulk, as an adult, wears a short gray jacket over his black sweater. He also wears a long red and black cape. He still wields the [[Monado Replica EX+|Monado REX+]] as his [[Blade (XC3)|weapon]]. After his first fight with [[Alpha]], Shulk lost his right arm and grew his hair longer. His right arm has been replaced with a prosthetic arm made for him by [[Riku]].&lt;ref&gt;[https://twitter.com/xenobladejp/status/1649296342060236800?s=61&amp;t=fknV9OZKUk_baP_NZZPkUQ]&lt;/ref&gt;
+
+== Story ==
+=== {{XC|-}} ===
+==== The Monado Expedition ====
+[[File:Young Shulk Winter.jpg|thumb|240px|right|Shulk as a child]]
+At four years old, Shulk accompanied his parents on an expedition to [[Ose Tower]], where the Monado was held. An incident here resulted in the deaths of every researcher, leaving Shulk alone with the Monado to be found soon after by Dickson. Dickson brought both with him to Colony 9, where Shulk grew up alongside [[Reyn]] and [[Fiora]] and developed a keen interest in weapons development and Monado research himself.
+{{clr}}
+
+==== Shulk's First Vision of the Future ====
+[[File:XC1DE-Reyn-and-Shulk.jpg|thumb|240px|left|Shulk with Reyn]]
+The game introduces Shulk, one year after the [[Battle of Sword Valley]], at 18 years old, scavenging for fallen scrap metal at the [[Mechon Wreckage Site]] for his work. Reyn helps him fend off a [[Krabble]] and upon returning to the colony they find that Dickson has returned from one of his long journeys &#8211; he is pleased to see Shulk and impressed with his Monado research. Later Shulk catches Reyn holding the Monado, which horrifies Shulk as nobody but [[Dunban]] can control the weapon, and upon confiscating it Shulk experiences a [[Vision (XC1)|Vision]] of the future. Shulk spends some time separately with Fiora before all three head into [[Tephra Cave]] on a Defence Force task, during which Colony 9 is attacked by Mechon forces for the first time since the [[Battle of Sword Valley]].
+
+The attack is brutal and spearheaded by a new type of Mechon, which has a [[Mechon#Faced Mechon|Face]] and appears intelligent. Dunban takes up the Monado in an attempt to fend off the Mechon but is quickly overwhelmed by it, so Shulk picks it up himself and finds that, not only is he able to wield it, but that it allows him to see the future. Fiora is sent away to get help whilst Shulk, Reyn, and Dunban fight their way around the [[Commercial District (XC1)|Commercial District]], and she finds and pilots the [[Mobile Artillery]] unit. The [[Metal Face|Faced Mechon]] attacks the group in the [[Residential District (XC1)|Residential District]], where they discover that it is immune to the Monado. Fiora damages in an all-out attack with the mobile artillery, but not enough to disable it &#8211; and consequently the Mechon, to Shulk and Dunban's extreme horror, picks up her vehicle and kills her. Shulk's fury does nothing to help the attack &#8211; an internal change in the Mechon causes the attack to be called off, and the Mechon force retreat, leaving the colony to recover from the damage and deaths caused in the attack.
+
+==== The Climb Up Bionis ====
+[[File:Shulk with Monado 1.jpeg|thumb|240px|Shulk wields the Monado for the first time]]
+Shulk decides that he wants to pursue and destroy the Mechon that killed Fiora, and so sets out with Reyn on the road to Colony 6. They pass through Tephra Cave again, where Shulk has a vision of Reyn being killed by the [[Arachno Queen]] but in reality a new [[Monado Shield (XC1)|Monado art]] saves him, causing Shulk to realise that his visions show only a potential future. Upon reaching the Bionis' Leg, Shulk and Reyn rescue [[Juju]] from monsters and meet his [[Sharla|older sister]], a medic from Colony 6, who tells them that the colony has been occupied by Mechon. Juju tries to return to Colony 6 to fight them on his own, but is abducted by a [[Mechon M71]] on the way, which Shulk has a vision of. This vision includes Sharla and Juju both dying, which leaves Shulk shaken. He relays the vision sans death to Sharla and Reyn, and they head out to rescue Juju. Shulk gains another [[Monado Speed|Monado art]], which convinces Sharla of the legitimacy of his visions, and they come close to rescuing Juju before a second Faced Mechon appears and taunts them, verbally, before defeating them easily and abducting Juju.
+
+[[file:Shulk7.jpg|thumb|240px|left|Shulk wielding the Monado with greater finesse]]
+Shulk, Reyn, and Sharla regroup before heading toward the [[Ether Mine (XC1)|Ether Mine]] below Colony 6, where Sharla concludes may be a safer route into Colony 6 than going above ground. They find an older Colony 6 Defence Force survivor, [[Otharon]], who Shulk immediately has a vision of dying &#8211; although he only shares this with Reyn under pressure. Otharon dismisses the vision and they press on to find the Faced Mechon in the lowest pit of the mine. Attacks from the Monado again fail to damage the Mechon's armour, but Otharon pilots an abandoned mining vehicle and drives the Mechon into the ether river below the platform they've fought on. The Mechon catches Otharon's vehicle and pulls it over the edge, and Otharon says the words Shulk heard in his vision &#8211; terrifying Shulk, who thinks he's going to watch another friend die &#8211; but Reyn acts on Shulk's earlier warning and manages to catch Otharon moments before he falls. Relieved, and with Juju safe, the party retreat up a freight elevator toward the surface &#8211; and the Faced Mechon reappears, scarred and malfunctional from the ether, and attacks them again. This time the Monado dispatches it easily, but it tells Shulk cryptically that he did not even use the &#8220;true power&#8221; of the Monado, but falls and explodes before giving any further details.
+
+The party reach the surface, and mention their motivation &#8211; revenge against the Mechon dubbed Metal Face &#8211; before Metal Face immediately appears and attacks them. Again the Monado is useless, and Shulk's fury is only increased as this Mechon reveals it too can talk, and taunts him. Attacks again prove fruitless, even when Dunban and Dickson appear in aid, but intervention from a surprise [[Telethia (XC1)|Telethia]] drive the Mechon off. This infuriates Shulk, who wants to give immediate chase, but Reyn holds him back. Shulk tells the others that his visions have shown him a confrontation with Metal Face at a [[Prison Island|black tower]] at the head of the Bionis &#8211; and Dickson offers to lead them up to the capital of the elusive [[High Entia]], [[Alcamoth]].
+
+[[File:XC1DE-Alvis-1.jpg|thumb|240px|Shulk meets Alvis]]
+On the way, Dickson tells Shulk that he has a great destiny. Shulk ruminates on the Monado and his parents, and the party head through Satorl Marsh, through a section of the [[Bionis' Interior]] &#8211; which Shulk notes feels as if it is not dead &#8211; and up into [[Makna Forest]], where they come across an unconscious stranger. Shulk heads alone into the forest to find ether crystals to allow Sharla to heal her, and meets another stranger &#8211; a young Homs who introduces himself as Alvis. Shulk half-recognises Alvis &#8211; a shadowed figure who appeared during the dream in which he saw Reyn killed by the Arachno &#8211; but before he can make the connection a group of Telethia appear and attack Shulk, unhindered by his visions. Alvis tells him that the Telethia are telepathic and can thus anticipate Shulk's own movements, and despite dire warning from Shulk takes up the Monado himself and uses [[Monado Purge|a new art]] to render the Telethia's telepathy useless. He returns the Monado to Shulk, who defeats the Telethia, but vanishes before Shulk can question how he could wield the Monado or who he is. Shulk returns to the party with the crystals, and they wake [[Melia]].
+
+[[File:Shulk Melia.png|thumb|240px|left|Shulk and Melia fight the Telethia]]
+Melia also disbelieves Shulk's visions when they are first mentioned to her, but comes to trust him upon the defeat of another Telethia. She agrees to escort them to Alcamoth, where the party are immediately arrested for possession of the Monado. Shulk is brought before the Emperor who explains an ancient myth that the Monado will cause the destruction of the High Entia. Shulk explains his vision of Prison Island and Metal Face, and the Emperor asks more time for deliberation. Whilst the party are interred Melia is sent to prove her worthiness for the throne in the trial of the [[High Entia Tomb]], and when her brother [[Kallian]] explains this to the party they convince him to let them help her, as Shulk has a vision of an assassination. They are accompanied by Alvis, who works as a seer for the High Entia, and although Alvis has not foreseen the assassination that Shulk has he vouches for Shulk's trustworthiness. They rescue Melia and return to Alcamoth, where celebrations are planned.
+
+[[File:Monado II Unlocked DE.jpg|thumb|240px|right|The Monado's shackles are released]]
+This achievement is cut short by an attack by the Mechon &#8211; targeting Prison Island, a squadron fly in and in retaliation the Emperor heads to Prison Island in order to release an ancient secret before the Mechon can penetrate the ether barrier and do more harm. The party follow quickly, Shulk's vision of Prison Island less immediate a priority than the Emperor's safety, and they make it up to the top of Prison Island before the Mechon can get through. The Emperor has released a [[Giant]], who addresses himself as [[Zanza]], from the island who addresses Shulk directly &#8211; offering to unshackle the Monado to allow it to harm Faced Mechon. Melia objects but Shulk agrees, and the Monado gains a new form just as Metal Face manages to break the barrier with a spear and impale the Giant. Metal Face is immobilised temporarily by the Emperor's ether, but breaks through it and kills him too. Again, Shulk is infuriated &#8211; but unlike his other encounters with Metal Face, he now has the power to fight back. He severs Metal Face's arm before a new [[Face Nemesis|Faced Mechon]] puts itself between Metal Face and the Monado to shield it from a killing blow; the attack instead cuts through the front armour of the new Mechon, revealing its pilot &#8211; Fiora.
+
+[[File:Metal down.png|thumb|240px|left|Shulk injures Metal Face]]
+The Mechon retreat, for the first time from real danger to their well-being. Shulk screams, but Fiora does not acknowledge him, and he cannot pursue them over the edge of Prison Island. She disappears and the group are left to come to terms with Faced Mechon being Homs, Fiora being alive but unresponsive, and the death of Melia's father.
+
+==== Infiltrating the Mechon Stronghold ====
+Dunban consoles Shulk and he resolves to follow Fiora to find her again, and bring her back. The group sets out toward Mechonis, as the Mechon stronghold [[Galahad Fortress]] is a likely place to find her. They are accompanied by Alvis again, as he knows the area between Alcamoth and the Mechonis' sword. He leads them to Ose Tower, where Shulk was found as a child; he and Shulk have a conversation about the Monado and how it is the source of their visions.
+
+[[File:Shulk Metal Face.png|thumb|240px|Shulk prevents Dunban from killing Mumkhar]]
+At the foot of [[Valak Mountain]] Fiora's Face appears again &#8211; but its pilot doesn't recognise Shulk or Dunban, surprised to learn that she has family. The reunion is interrupted by Metal Face, who threatens to kill Fiora (again) if Shulk doesn't relinquish the Monado. Shulk offers it immediately, and Metal Face reveals himself to be Dunban's old comrade [[Mumkhar]]. Mumkhar gloats and doesn't see an ether attack from Melia coming, which sparks a fight between him and the party. Shulk hangs back to give Dunban the fight, but it is broken up by the arrival of a gigantic [[Yaldabaoth|golden Faced Mechon]] who declares himself the leader of Mechonis, and addresses Shulk directly &#8211; as the &#8220;heir to the Monado&#8221; he is expected on Mechonis. This new Mechon takes both other Faces and retreats, again to Shulk's dismay. He and the party pursue the Mechon until the far end of [[Sword Valley]], where Mumkhar is waiting to torment them again. Dunban tries to kill Mumkhar but is stopped by Shulk, whose previous goal of destroying all Mechon has been offset by the knowledge that they are piloted by Homs. Mumkhar, enraged at being beaten again, charges at Shulk, who immediately has a vision of Mumkhar's death. He tries to warn him away but Mumkhar continues and is himself impaled by debris, which destroys the platform they have fought on and falls with Mumkhar, still within Metal Face, down from the Sword.
+
+Pressing on through Galahad Fortress leads the party to find Fiora's Mechon alongside the golden Face, who manages to shut the Monado down via ether wave emission, rendering Shulk powerless against Mechon directed against the party &#8211; which include Fiora, even though she tells the party she cannot control the Face's actions. Fiora manages to break from the control and attack the golden Face, which causes massive damage to the lower level of the Fortress and greatly damages Fiora's Face. She is thrown to the side of the platform and begins to slide off, and Shulk starts toward her &#8211; unable to stop her fall from the platform, he throws himself off after her down from the Fortress as it collapses.
+
+==== Reuniting with Fiora ====
+[[File:ShulkXFiora.png|thumb|240px|left|Shulk and Fiora reunite]]
+Unconscious, Shulk dreams of falling through the ground after hunting scrap metal as a child. Another child, identical to him, watches him fall. When he wakes he finds himself on a beach beside the [[Silver Wreckage]], from which he immediately excavates Fiora, who is still unconscious. Shulk notes a strange object fixed on her chest, then brings her water and kisses her to cause her to reflexively swallow it. This wakes her; Shulk tries to introduce himself to her but she stops him and tells him that she remembers. There has been a second entity controlling her since she woke after her &#8220;death&#8221; in Colony 9 and the replacement of her body, which is sleeping now. Shulk expresses hatred toward them and hopes they will never reappear, but Fiora suggests the person was trying to help. The two set out to try and find the party, but with the Monado still malfunctioning and Fiora's new Mechon body weaker than expected they have difficulty until Reyn and Sharla find and rescue them.
+
+The area they have landed on is the [[Fallen Arm]] of the Mechonis &#8211; and on it they come across a small village populated by mechanical people known as [[Machina]]. Among these Machina is one named [[Miqol]] who asks that Shulk find and kill the pilot of the golden Mechon &#8211; his son, [[Egil]]. The Machina tend to Fiora and Shulk brings Mechon parts to allow them to stabilise her body enough that she can fight alongside them, and Dickson meets them at the village to offer Shulk encouragement toward killing Egil. Shulk is unsure but resolves at least to find Egil.
+
+==== The Climb up Mechonis ====
+[[File:XC1DE-Dickson-2.jpg|thumb|240px|right|Shulk with Dickson]]
+The party climb Mechonis, meeting Egil's sister, [[Vanea]], who tells them that Egil has not always been cruel and that the Monado isn't merely a weapon, but rather a projection of the light of living beings. She leads them up to a data centre in the abandoned [[Agniratha|Mechonis capital]], where the party are shown a projection narrated by the being inside Fiora &#8211; who reveals herself to be the soul of the Mechonis, equal to Zanza &#8211; the giant trapped in Prison Island and the soul of the Bionis. The projection shows early civilisations on both titans living in peace before the Bionis attacked unprovoked, doing great damage to the Machina and the Mechonis before the two titans exausted themselves. Shulk is shocked by this &#8211; the Monado of the Bionis is the same Monado he holds, and Zanza was the one to empower it. He fears that he may come to do great damage with the Monado, although the party reassure him otherwise. They proceed to the [[Meyneth Shrine]] where Egil awaits them, and although Shulk tries to reason with him &#8211; understanding now the Machina's past &#8211; Egil mocks him and fights the party before descending into the [[Mechonis Core]] to reactivate Mechonis in an attempt to destroy the Bionis and all life upon it. Agniratha is destroyed, and the party are saved by the timely arrival of Dickson and Alvis on Miqol's [[Junks|ship]]. They fly down into the Core and leave the ship, but on their way the Monado reacts suddenly and violently to Shulk, sending him into an intense seizure. Dunban notes that it is similar to how the Monado hurt him when he wielded it in Sword Valley, but that he hadn't expected it to harm Shulk. Shulk insists they press onward regardless. 
+
+They find Egil just as he activates Mechonis, using the sword &#8211; with the combined Bionis army on it &#8211; to hack at the Bionis. Egil attacks the party, but Shulk is able to use the Monado to incredible effect and manages to behead the golden Face, stopping just short of killing Egil in the same blow. A voice in Shulk's mind goads him toward killing Egil, which Shulk wants to do and almost does until he remembers a jumbled sequence of events that have happened since he took the Monado &#8211; cumulating in the fact that Egil was kind, and once aimed to stop the revenge cycle rather than perpetuating it. Shulk realises that he and Egil are not motivated differently, and that he has power enough to prevent Egil from causing further harm even if Egil has no intention to stop. Shulk lowers his blade and sits down on the shoulder of the Mechon, beside Egil, to talk. Egil relents, seeing no hint in Shulk of Zanza, and explains his own past &#8211; a friendship with the giant [[Arglas]], who would come to be possessed by Zanza to start the original war. He reaches his hand out to make a truce with Shulk, and Shulk is shot in the back.
+
+==== Zanza's Revival ====
+[[File:Zanza exiting Shulk.png|thumb|240px|left|Zanza arises from Shulk]]
+Shulk falls, and is caught by Egil's Mechon and lowered to the ground, to the horror of Egil and the party. Dickson has entered the Core and reveals a number of things; that Shulk was killed with the rest of the research group at Ose Tower fourteen years ago, that Shulk was revived only due to Zanza's need for another host, and that Dickson brought him back to Colony 9 as Dickson has long been an acolyte of Zanza's. Shulk's refusal to kill Egil hinders Zanza's plan to destroy Mechonis, and so Shulk had to be killed again in order to release Zanza from his body.
+
+Shulk's body enters another seizure, convulsing on the ground with Fiora at his side. He stands suddenly and a golden man peels out of him, letting Shulk's body fall to the floor again. This is the true form of Zanza as a god. Shulk survives this ordeal in a coma &#8211; he remains unconscious as Zanza fights and kills Meyneth, activates the Bionis, obliterates the Mechonis (killing Egil), and activates an ether event transforming many High Entia into Telethia. Reyn carries Shulk's body back to Junks, where he remains until the party regroup at Colony 6, which is functioning as a stronghold against Telethia attacks.
+
+[[File:Shulk Memory Space.png|thumb|240px|Alvis speaks to Shulk in Memory Space]]
+Unconscious, Shulk finds himself floating in a simulated outer space, surrounded by meteorites. He laments the meaninglessness of his life, and the concept of having never really been alive, but is interrupted by Alvis, appearing in his mind. Alvis convinces Shulk that he has willpower and the choice to submit or not to Zanza's design, and Shulk wakes. Miqol has created a [[Replica Monado]] during this time, which Shulk takes and uses to great effect against the attacking Telethia.  Dickson appears on a Telethia to taunt the party, and outs Alvis as another disciple of Zanza's. Alvis sends a Telethia to attack the party and Reyn tries to attack Alvis, but Shulk stops him and expresses understanding toward Alvis. Dickson and Alvis depart, and Shulk resolves to follow them to find and stop Zanza. The party enter the Bionis' Interior through a new wound, destroying the third disciple, [[Lorithia]], at its heart. A portal leads out to the sunken Prison Island, where Dickson torments the party before fighting them in his original form at the [[Prison Terrace]]. Despite Shulk and Fiora no longer having access to the Monados of the gods possessing them, they are able to overcome Dickson &#8211; Shulk delivers a debilitating blow across Dickson's chest, forcing him to give up. Dickson waves the party away, feigning nonchalance, but as they leave Fiora notes that if left untreated Dickson will die. Shulk grieves visibly but presses on, leaving Dickson to die alone.
+
+==== The True Monado ====
+[[File:Shulk Bionis.png|thumb|240px|left|Shulk's watches the old world collapse]]
+Another portal brings the party into [[Memory Space]] &#8211; the place Shulk found himself while unconscious. Shulk alone hears Alvis' voice welcome him there, and they find Zanza waiting for them. Zanza thanks Shulk for giving him access to both his and Meyneth's Monados, and offers Shulk immortality in exchange for becoming a disciple. Shulk refuses and attacks Zanza; despite Shulk having no Monado he can still see the future, and still hold his own against Zanza. To Zanza's shock, Shulk manifests a [[Monado III|new Monado]] through Alvis' intervention, and cleaves Zanza in half with it, vanquishing him for good.
+
+Shulk is then brought into a vision of the past by Alvis and sees a space station with [[Klaus]] and his colleague, who will become Zanza and Meyneth. Alvis explains that they were mortals before their experiment destroyed and recreated the universe, and that he was the computer that ran the experiment and created the world containing the Bionis and Mechonis. Shulk is given the choice of what should happen from here, and he decrees that what the people want is a new world without any gods at all, honouring Meyneth's final wish. Alvis obeys, and the world is remade, with Shulk, having lost his ability to see visions, helping rebuild Colony 9 overtime. Reuniting with Fiora after she spent half a year in the regeneration chamber to restore her Homs body, the two of them look out toward the ocean from the shore, with Shulk expressing hoping to meet all the people of the newly recreated world.
+
+=== {{XC2|-}} ===
+At the same time that Shulk fights against Zanza, [[Rex]] and [[Pneuma]] fight against [[Malos]] and [[Artifice Aion]] in the [[First Low Orbit Station]], Rhadamanthus, which is the same space station Alvis later shows Shulk. When Shulk is about to deal the finishing blow to Zanza with his Monado, the [[Architect]], the other half of Klaus that resides in [[Alrest]], hears Shulk's declaration of seizing his destiny, and realises that his end is imminent. As Shulk kills Zanza, which happens at the same time as Rex and Pneuma's victory over Malos, Klaus disappears and the [[Conduit]] vanishes into an unknown dimension.
+
+=== {{XCFC|sub}} ===
+[[File:XC1DE-Shulk-6.jpg|thumb|240px|Shulk in holding his new weapon]]
+At some point after Zanza's death, Shulk, using the Replica Monado as a base, developed the [[Monado Replica EX]]. One year after Zanza's death and Fiora's restoration, Shulk suggests to Melia that the two of them use Junks to travel to Alcamoth, which has been sighted by the [[Bionis' Shoulder]]. On their way, Junks is shot down by a black laser from Alcamoth, and they crash land on the Shoulder. Accompanied by [[Nene]] and [[Kino]], two of Riki's children who snuck into Junks with them, Shulk and Melia travel across the Shoulder, helping the refugees at [[Gran Dell]] and working to reclaim Alcamoth from the [[Fog King]], an otherworldly creature that appeared from a rift that opened in Alcamoth. In order to defeat the Fog King, Shulk, with help from [[Radzam]], upgrades his weapon into the [[Monado Replica EX+]], which has the power to render the Fog King vulnerable. The party then defeats the Fog King, and the rift closes. Shulk, Kino, and Nene then return to Colony 9 and inform the colony's residents of the events on the Shoulder. Shulk, along with the colony's residents, returns to Alcamoth to aid the city's reconstruction. After the city is restored, Shulk is among those present for Melia's coronation as Empress of the High Entia. 
+
+=== {{XC3FR|sub}} ===
+==== A Gift From Alvis ====
+[[File:Shulk Finding Ontos Core.jpg|thumb|240px|Shulk comes across the Ontos core]]
+One day, Shulk came across the [[Ontos]] [[Core Crystal|core]] on the shore of Colony 9. 
+
+At some point, Shulk married Fiora, and had a son with her named [[Nikol]].
+
+==== The Two Worlds Draw Near ====
+A few decades after Alcamoth's restoration, the worlds of the Bionis and Alrest, the two worlds that Klaus created by splitting the original apart with the Conduit, began to re-fuse back together, which would effectively destroy both. As the worlds drew closer, they began to devise a plan that would allow their worlds to survive destruction. Both worlds would construct one half of an ark known as [[Origin]] that contained all of their societies' knowledge and their citizens' literal souls, which would allow them to be reborn after their worlds were split apart and returned to their original forms. The Ontos core was a critical part of its construction.  
+However, Origin's AI had been affected by the digitised souls of the people within it, transforming it into the being called [[Z]]. Born from their fear of an uncertain future and their desire for stability, Z hijacked the intersection of the worlds. Rather than Origin preserving the worlds as planned, both original worlds were frozen in time during their attempt to merge back together, creating [[Aionios]]. Shulk was among the few people who was not assimilated by Origin, with the reason for this being unknown.
+
+==== Forming the Liberators  ====
+[[File:Shulk Rex Fighting Alvis.jpg|thumb|240px|Shulk and Rex confronting Alpha]]
+Shulk eventually meets Rex, and the two of them become close friends. At an unknown point in time, Ontos, now calling himself "[[Alpha]]", re-emerged to take control of Origin's systems for himself. Having determined that the future had no place for the beings of the old worlds, he planned to destroy Aionios while bringing the new lives born there to another world, where no traces of the past would remain.
+
+Shulk and Rex, alongside Z, confront Alpha in an attempt to drive him away. However, Alpha blows all three of them away without much effort, costing Shulk his right arm. After this, Shulk and Rex agree to a ceasefire with Z until Alpha is defeated. Shulk and Rex later became the leaders of the [[Liberators]] and made Colony 9 their base of operations. At some point, Shulk became the mentor for [[Panacea]] and was given a prosthetic arm by [[Riku]]. 
+
+==== Meeting Ouroboros ====
+[[File:Triple Attack.jpg|thumb|left|240px|Shulk, Rex, and Matthew destroy Consul W]]
+When Panacea encounters [[Glimmer]], Shulk takes her to a camp for questioning. She manages to escape, and ends up being attacked by [[Consul]] [[W (FR)|W]], whom she had contacted for help and gave the location of Shulk's party. Shulk saves her from an attack and tells W that he was going against their compact with Z, but W says that was before two of his comrades were killed. Shulk, along with [[Matthew (FR)|Matthew]], [[A]], and Nikol, who appear then, battle the Moebius. Shulk asks who Matthew's group is, before noticing Ontos's core on A, immediately realizing that A is Alvis. During the battle, W fuses himself with his [[Kevesi Ferronis|two]] [[Agnian Ferronis|Ferronis]], and fires a beam at Glimmer and Nikol, only for Rex to arrive and save them. After a long battle against W, Shulk, Rex, and Matthew attack W and his Ferronis simultaneously, destroying the Moebius. He and Rex then take everyone back to Colony 9. Soon after, the party is informed of a distress signal coming from [[Raguel Lake]], which they go to investigate. 
+
+[[File:A Rex Shulk.jpg|thumb|240px|Shulk, Rex, and A]]
+After setting up [[Lakeside Camp|camp by Raguel Lake]], Shulk, Rex, and [[A]] have a discussion about Alpha and what he intends to do, with A explaining that they are the manifestation of Ontos's discarded conscience that was unshackled from Alpha due to N's power and [[Ghondor (FR)|Ghondor]]'s dying act. When Shulk asks the reason for A's appearance, Rex explains as being due to the way the [[Trinity Processor]] was designed - [[Logos]] being the male persona, Pneuma being the female, and, as Rex describes it, Ontos being somewhere in between. A also explains how Alpha is inhabiting [[Na'el]] in the same way Zanza had once inhabited Shulk.
+
+Their conversation is interrupted by the appearance of Na'el, who is inhabited by Alpha. The party fights Alpha until [[N]] shows up and fights Alpha himself. The party then explains to Matthew that as long as Alpha exists, [[Moebius]] is not the primary target, and that N is not their enemy. Alpha, suffering severe damage, leaves and tells the party she will be waiting. Prison Island then releases energy that causes Origin to appear above the [[Cent-Omnia Region]].
+
+==== The Origin of the Worlds ====
+After returning to Colony 9, Shulk and Rex inform Matthew, Glimmer, and Nikol about the origins of Aionios, telling them about how, originally, their worlds were one and the same. This world boasted almost unthinkable prosperity and was home to countless people. However, one man, Klaus, messed it all up and caused the world to be split into two separate places. One was the world of the Bionis, and the other was Alrest. The two divided worlds began to evolve independently of each other, giving birth to new life. However, it wasn't all peaceful, with there being tyrannic empires and conflicts over limited resources. But despite all that, thanks to numerous generations of people fighting for the future, the worlds were eventually able to attain harmony.
+
+They then explain how the worlds began to return to how they once were. However, since they were composed of opposing types of matter, they would dissolve into light and cease to be when recombined. To escape destruction, the two worlds worked together to build Origin, a repository of data about everything, of memories and souls. Even if the worlds were annihilated, the Origin system would allow them to be revived. They explain how at the heart of Origin's workings is the Trinity Processor core, Ontos, or in other words, Alpha, and also how, Alpha had deemed the existence of all people from the two worlds obsolete and wanted to erase them. They then explain that Alpha is now gathering power and preparing to depart in the heart of Origin, called [[The Ark]], alongside the new lives, those of City people, gathered there for the purpose of taking them to a new world.
+
+==== Return to Prison Island ====
+[[File:Shulk and Rex Ready to Fight.jpg|thumb|240px|Shulk and Rex fight Glimmer and Nikol]]
+The party then discusses what to do next, determining that Prison Island would be their best bet of reaching Origin, where Alpha is waiting. However, in order to get there, they need to [[Ether Lift Research|gather the resources]] needing to build an [[Ether Lift]] in order to travel vertically. Additionally, Nikol and Glimmer request to come with everyone to Origin, but Shulk and Rex adamantly refuse, deeming Nikol and Glimmer unworthy of challenging Alpha, telling them they must stay in the Colony. The party asks Riku about [[The Ouroboros Power|boosting their Ouroboros power]]. Riku informs them that they need some kind of "Trigger" to power up. In order to activate this trigger, Shulk and Rex volunteer to fight Nikol and Glimmer at the [[Gotrock Oracle Ruins]]. Nikol and Glimmer struggle a bit against the two, but are able to unlock more Ouroboros power to defeat Shulk and Rex, powering up the [[Ouroboros Stone]] in the process. Shulk and Rex then agree to let them tag along to Origin. With both matters dealt with, the party turns in for the night. Around this time, Shulk also realises that Nikol is his son.
+
+The next morning, the party leaves for the [[Black Mountains]], where Prison Island is located. During the party's rest at the [[Valak Peak Camp]], Shulk talks with A about how when he turned down the chance to be a god, he lost the power to have visions, while A still has that power. A tells him that he should know better than anyone that there is no single established future, and if A were to tell him what form Shulk's futures might one day take, it would be only one hazy possibility. A follows by saying that his will is what gives shape to his future. Shulk says A is right, and tells A that he does not enjoy getting old, as age saps his courage. Riku then affirms this and tells Shulk that leaping Blade-first into battle is best left to the young and reckless, words taken from Riku's master. Riku tells Shulk how his master told him that when Riku finds someone like that, he needs to give them [[Lucky Seven]]. Riku says that "everyone" is in Lucky Seven and also with Shulk in his Monado REX+. Shulk agrees with him that they are not alone.
+
+[[File:Shulk Nikol Prison Island.jpg|thumb|left|240px|Shulk and Nikol on Prison Island]]
+Soon after, the party finally arrives at the Prison Terrace. Shulk says that it's just like old times, and A explains to him that back then, he and his friends embarked for Ontos's [[Memory Space]] from there, and how recreating it was deliberate on Alpha's part, allowing the party to board the Ark from there. They are greeted by N, who reveals that the one keeping Na'el in this world is Matthew, which is why N's been trying to kill him. The party confronts him, and N's clash with Matthew reveals to them a memory from Origin, of N's attack on the City and Alpha's involvement with it. All of a sudden, Alpha shows up and sends a ray of lighting at N, shocking him. Alpha's power emanates a fog which consumes the party.
+
+==== Avatars of Origin ====
+The party arrives inside a [[The Ark|memory]] from Origin. The party looks around at the scenery of a house with a garden, with a view of a [[Land of Morytha|large city]] with tall buildings, with one [[World Tree|tower]] reaching into the sky. Shulk and Rex confirm that this is a memory of Klaus's world. The party then follows the sound of a piano, and find Na'el, who explains that the world could be like this if they went through with Alpha's plan. A then shows Na'el the Land of Morytha, the aftermath of Klaus's experiment and what Alpha's proposed new world would ultimately become if his plan succeeded. Matthew persuades her that she would be no different from Moebius if she continued to view the Kevesi and Agnians as "things" unworthy of life, and that they could live like the people of the City if they were only allowed to choose it. Na'el agrees to join the party and stop Alpha, but not before Alpha regains control of her and disappears.
+
+The party is then transported back to the Ark, where Alpha insists that the future has no need for the things of the past and that conscience is useless to the Trinity Processor. The party refuses to accept his goals, with Shulk and Rex recalling that Klaus trusted them with the future, and engage in combat with Alpha. After a while, Alpha tries to pull Matthew's soul in, but he resists and stays inside his body before N intervenes in the battle. Matthew expresses that for now, he's glad to have N at his side. Alpha unleashes his true form, that of a large humanoid figure with an empty, mask-like face. In a final effort to defeat Alpha, N grants Matthew the powers of his Sword of The End and instructs him to combine it with his Ouroboros Knuckles. Matthew's gauntlets begin to emit green energy, which Rex quickly recognises to be Pneuma's power. This grants the party the true power of Ouroboros, resulting in Alpha's demise.
+
+[[File:Origin's New Avatars.jpg|thumb|left|240px|Shulk, Rex, and A become Origin's new avatars]]
+Shulk and Rex begin to fade, and they reveal that without Alpha, Origin requires a new avatar to keep Aionios stable, which will be themselves and A. The party expresses disagreement, but Rex assures the group that they will see them all again when the worlds are restored. Shulk and Rex grant their life force to their respective children, Nikol and Glimmer, and step forward into a large rift, telling them that the three of them will be waiting for them at the far edge of time. As they enter the rift, Shulk and Rex ask A if they had foreseen the current turn of events, but A states that their hopes have always been a constant in the flow of time.
+
+=== {{XC3|-}} ===
+==== Legacy as the Mentor of the City's Liberatrix ====
+[[File:HouseReidStatue.jpg|thumb|240px|Statue of Shulk in the City's Memorial Hall]]
+When the [[City]] was rebuilt, a statue of Shulk was placed in the [[Memorial Hall]] alongside the statues of Rex, Matthew, Nikol, Glimmer, and Na'el. The statue depicts him rather than Panacea, the actual founder of House Reid, as a way of honoring her old mentor.
+
+==== Remembered by Melia ====
+Shulk appears in a flashback during ''[[From Atop Her Throne]]'', after [[Noah]] and the party's words of encouragement reminds Melia of her old companions. 
+
+== In {{XC|-}} ==
+[[File:Turn Strike.png|thumb|240px|Shulk's initial Talent Art]]
+Most of Shulk's arts revolve around positioning, often requiring other party members to draw aggro away from him in order for his arts to deal their additional effects, which makes him weaker when fighting enemies head-on, as his arts require him to wait for openings.
+
+Shulk is able to call upon the power of the Monado in battle, which can stock up to eight unique skills, unlocked by progressing through the story or by finishing [[Quest (XC1)|quests]], and all of his moves are useful in a variety of ways, from giving useful buffs to protecting his entire party from harm.
+
+Shulk has the third lowest HP of the playable cast, but his Strength and Agility greatly balance out this flaw. After gaining the Monado, Shulk cannot switch weapons. However, the Monado's stats will scale according to Shulk's level.
+
+=== General stats ===
+{{Character stats
+|level = 99
+|hp    = 5,135
+|atk   = 405
+|eth   = 417
+|agl   = 117
+}}
+&#8251; These stats are raw and do not include the bonuses from the skill lines.
+* each [[Auto-Attack (XC1)|auto-attack]] hit adds 20% to his Talent Gauge
+* can have up to 8 Monado Arts, which can be rearranged but cannot be removed from the Battle Palette
+* can only use a Monado Art after using Activate Monado, the amount of Talent Gauge depletion from using a Monado Art depends on the Art
+* low [[cooldown (XC1)|cooldown]] [[Break (status)|Break]] arts in [[Stream Edge (XC1)|Stream Edge]] and [[Air Slash (XC1)|Air Slash]]
+* can constantly keep an enemy's physical defence down with [[Slit Edge (XC1)|Slit Edge]]
+* high burst damage with [[Back Slash (XC1)|Back Slash]]
+* increases damage and lets the party hurt Mechon with [[Monado Enchant]]; can also deal burst damage against Mechon using [[Monado Buster]]
+* defensive party buffs in [[Monado Speed]], [[Monado Shield (XC1)|Monado Shield]] and [[Monado Armor]]
+* can remove [[Soul Read]] using [[Monado Purge]]; can remove other buffs with [[Monado Eater]]
+* can Break, [[Topple (XC1)|Topple]] then [[Daze (XC1)|Daze]] an enemy single-handedly with [[Monado Cyclone]]
+
+=== Arts ===
+* [[File:Icon Shulk TurnStrike.png]] [[Turn Strike (XC1)|Turn Strike]] [Talent Art] - Heavy damage to a single target, and inflicts Break for a long duration. Permanently replaced by Activate Monado after obtaining the Monado.
+* [[File:Shulk BackSlash.png]] [[Back Slash (XC1)|Back Slash]] - Damages single target. Attacking the target's back will cause double damage. One of Shulk's initial arts.
+* [[File:Shulk LightHeal.png]] [[Light Heal]] - Restores HP to a single ally. One of Shulk's initial arts.
+* [[File:Shulk SlitEdge.png]] [[Slit Edge (XC1)|Slit Edge]] - Damages single target. Attacking the target's side will reduce Physical Defence. Learnt at Level 3.
+* [[File:Shulk StreamEdge.png]] [[Stream Edge (XC1)|Stream Edge]] - Damages multiple enemies in front of Shulk, inflicts Break and fills Talent Gauge. Learnt at Level 5.
+* [[File:Shulk ShadowEye.png]] [[Shadow Eye (XC1)|Shadow Eye]] - Reduces aggro and increases damage of next physical Art. Learnt at Level 10.
+* [[File:Shulk AirSlash.png]] [[Air Slash (XC1)|Air Slash]] - Damages and inflicts Break on a single target. A side hit may inflict Slow. Learnt at Level 14.
+* [[File:Shulk ShakerEdge.png]] [[Shaker Edge (XC1)|Shaker Edge]] - Damages single target. Dazes if target is Toppled. Learnt at Level 23.
+* [[File:Shulk BattleSoul.png]] [[Battle Soul]] - Sacrifices half of Shulk's current HP to refill a portion of his Talent Gauge. Learnt at Level 32.
+
+For information on leveling battle arts, see [[Levelling Battle Arts]].
+
+==== Monado Arts ====
+* [[File:Shulk ActivateMonado.png]] Activate Monado [Talent Art] [Aura] - Switches Shulk's available Arts between his normal Arts and Monado Arts.
+* [[File:Shulk MonadoBuster.png]] [[Monado Buster|Buster]] - Damages enemies in a straight line. Mechon and Machina suffer double damage.
+* [[File:Shulk MonadoEnchant.png]] [[Monado Enchant|Enchant]] - Allows allies to damage Mechon for a time and boosts attack power (not available in {{XCFC|sub}}).
+* [[File:Shulk MonadoShield.png]] [[Monado Shield (XC1)|Shield]] - Blocks Talent Arts of equal level or lower. Best used when Shulk has a vision.
+* [[File:Shulk MonadoSpeed.png]] [[Monado Speed|Speed]] - Improves evasion of a single ally.
+* [[File:Shulk MonadoPurge.png]] [[Monado Purge|Purge]] - Damages single target at a distance. Removes Auras and Spike effects and inflicts Aura Seal.
+* [[File:Shulk MonadoEater.png]] [[Monado Eater|Eater]] - Damages enemies in front, removes all buffs and inflicts Bleed.
+* [[File:Shulk MonadoArmour.png]] [[Monado Armour|Armour]] - Reduces all Physical and Ether damage to the party.
+* [[File:Shulk MonadoCyclone.png]] [[Monado Cyclone|Cyclone]] - Damages all enemies around Shulk. Enemies suffering Break will be Toppled.
+
+=== Skill Tree ===
+{{:Skill Tree/Shulk}}
+
+=== Gem Crafting ===
+Shulk owns unique Shooter and Engineer abilities for [[Gem Crafting]], they are:
+
+==== Shooter ====
+* Fever Plus: Gets into a Fever easily when crafting.
+
+==== Engineer ====
+* Strong Flame: Average
+* Medium Flame: Average
+* Gentle Flame: Good
+
+=== Presents ===
+==== 4 hearts ====
+* [[Love Source (XC1)|Love Source]] (Strange, [[Other Collection|Other]])
+
+==== 3 hearts ====
+* [[Azure Hollyhock]] (Flower, [[Mechonis Field]])
+* [[Rainbow Slug (XC1)|Rainbow Slug]] (Animal, [[Fallen Arm]])
+* [[Shield Bug (XC1)|Shield Bug]] (Bug, [[Makna Forest]])
+* [[Blue Chain (XC1)|Blue Chain]] (Part, [[Colony 9 (XC1)|Colony 9]])
+* [[Winding Gear (XC1)|Winding Gear]] (Part, [[Bionis' Leg]])
+* [[Digital Filament (XC1)|Digital Filament]] (Part, [[Fallen Arm]])
+* [[Grape Spring (XC1)|Grape Spring]] (Part, [[Agniratha]])
+* [[Pauper's Cup]] (Strange, [[Satorl Marsh]])
+
+==== 2 hearts ====
+* [[Sirius Anemone (XC1)|Sirius Anemone]] (Flower, [[Colony 6]])
+* [[Orb Daisy]] (Flower, [[Satorl Marsh]])
+* [[Black Blossom (XC1)|Black Blossom]] (Flower, [[Sword Valley]])
+* [[Mud Squirrel]] (Animal, [[Valak Mountain]])
+* [[Cable Mouse]] (Animal, [[Central Factory]])
+* [[Rumble Stonefly]] (Bug, [[Tephra Cave]])
+* [[Mystery Firefly (XC1)|Mystery Firefly]] (Bug, [[Ether Mine (XC1)|Ether Mine]])
+* [[Water Boatman]] (Bug, [[Mechonis Field]])
+* [[Art Core Coil (XC1)|Art Core Coil]] (Part, [[Galahad Fortress]])
+* [[Modern Blue Gear (XC1)|Modern Blue Gear]] (Part, [[Mechonis Field]])
+* [[Blue Light Amp]] (Part, [[Agniratha]])
+* [[Strong Screw (XC1)|Strong Screw]] (Part, [[Prison Island]])
+* [[Thunder Compass (XC1)|Thunder Compass]] ([[Other Collection|Other]])
+* [[Black Panel]] (Strange, [[Frontier Village]])
+* [[Steel Hauyne]] (Strange, [[Eryth Sea]])
+* [[Dramatic Night]] (Strange, [[Agniratha]])
+* [[Blue Blood (XC1)|Blue Blood]] (Strange, [[Prison Island]])
+
+{{clr}}
+
+== In {{XC2|-}} ==
+{{Infobox Blade
+|name          = Shulk
+|image         = Shulk Portrait XC2.png
+|caption       = Shulk in {{XC2|-}}
+|rarity        = 2
+|source        = [[Challenge Battle Mode]]
+|element       = Light
+|weapon        = Monado
+|role          = Attacker
+|auxcores      = 3
+|mercgroup     = Monado Busters
+|illustrator   = Kunihiko Tanaka
+}}
+Shulk reappears as a Rare [[Blade (XC2)|Blade]] in {{XC2}} alongside Fiora in [[Challenge Battle Mode]], released as part of [[Xenoblade Chronicles 2#Patch (Ver.1.5.0)|Version 1.5.0]] for players with the Expansion Pass. Like [[Poppibuster]], Shulk and Fiora can freely switch between [[Driver]]s (excluding [[Tora (XC2)|Tora]]) without the need of an [[Overdrive Protocol]]. However, they cannot be taken out of the [[Land of Challenge (XC2)|Land of Challenge]] until the party receives the [[Alrest Linkring]] from completing the ''[[Dino Drama]]'' Challenge Battle. Shulk uses the light element, wields the [[Monado]], and acts as an Attacker in battle.
+
+For this appearance, Shulk was redesigned by Kunihiko Tanaka, lead character designer for {{XCX}}, as well as the ''[[w:c:xenosaga:Xenogears|Xenogears]]'' and ''[[w:c:xenosaga:Xenosaga|Xenosaga]]'' series, and designer of  [[Finch]], [[Elma]], [[Fiora]] and [[KOS-MOS]] in {{XC2|-}}.
+
+In the [[English dub pronunciations|English dub]] of {{XC2|-}}, the original pronunciation for Shulk's name from {{XC|-}} ({{IPA|/&#712;&#643;&#650;lk/}}) can still be heard, but an alternate pronunciation ({{IPA|/&#712;&#643;&#652;lk/}}) can also be heard.
+
+=== Abilities ===
+==== Specials ====
+* Lv. 1 - [[Monado Purge#In Xenoblade Chronicles 2|Monado Purge]] - Brandish the Monado to generate a mid-air shockwave.
+* Lv. 2 - [[Monado Cyclone#In Xenoblade Chronicles 2|Monado Cyclone]] - Perform a rising spin to damage enemies surrounding you.
+* Lv. 3 - [[Monado Buster#In Xenoblade Chronicles 2|Monado Buster]] - A powerful slash using the true power of the Monado.
+* Lv. 4 - [[Monado Unbound]] - Unleash the true power of the Monado in a series of strikes.
+
+==== Blade Arts ====
+* [[Accuracy Up (XC2)|Accuracy Up]] - Increases accuracy.
+* [[Debuff Cancel]] - Cancels debuffs from enemies.
+* [[Back Attack Up]] - Increases backstab dmg; halves aggro.
+
+==== Battle Skills ====
+* Vision - Can negate powerful enemy attack via button challenge (100 - 60 sec cooldown).
+* Monado Enchant - Increases damage dealt by the party by 20-40% when at max Affinity.
+* Monado Speed - Increases accuracy and evasion rate of team by 24-40% at max Affinity.
+
+==== Field Skills ====
+* Salvaging Mastery - Lv. 3
+* Keen Eye - Lv. 3
+* Ancient Wisdom - Lv. 3
+
+=== Favorite Items ===
+* [[Pouch]] item types: [[Veggie]]s, [[Literature]]
+* Pouch items: [[Addam's Supercakes]] (Veggies), [[Ardainian Arms Album]] (Literature)
+
+=== Affinity Chart ===
+{| class="xc1 sortable"
+! scope="col" | Type
+! scope="col" | Name
+! scope="col" | Skill Level
+! scope="col" | Affinity Level
+! scope="col" | Effect
+! scope="col" | Prerequisite
+! scope="col" | Count
+! scope="col" | Flavor Text
+|-
+| colspan="2" rowspan="5" | Key Affinity Reward
+| 1
+| 1
+| colspan="5" | Unlocks level 1 of the Affinity Chart
+|-
+| 2
+| 2
+| Unlocks level 2 of the Affinity Chart
+| Increase [[Trust]]
+| 100
+| ''"It's an unfamiliar fighting style, but I think I've got the hang of it."''
+|-
+| 3
+| 3
+| Unlocks level 3 of the Affinity Chart. Affinity bond will be easier to sustain
+| Increase Trust
+| 700
+| ''"I feel I can get stronger."''
+|-
+| 4
+| 4
+| Unlocks level 4 of the Affinity Chart
+| Increase Trust
+| 2,000
+|  ''"We have to keep getting better. 'I' have to keep getting better."''
+|-
+| 5
+| 5
+| Unlocks level 5 of the Affinity Chart
+| Increase Trust
+| 4,000
+| ''"I feel strong enough to do anything!"''
+|-
+| rowspan="15" | Blade Special
+| rowspan="5" | Monado Purge
+| 1
+| 1
+| colspan="5" | 60% chance to remove [[Elemental Awakening|awakened status]] from enemy when using Special
+|-
+| 2
+| 2
+| 70% chance to remove awakened status from enemy when using Special
+| Use Monado Purge
+| 15
+| ''"I think I'm getting used to this one."''
+|-
+| 3
+| 3
+| 80% chance to remove awakened status from enemy when using Special
+| Finish an enemy
+| 30
+| ''"Sometimes, losing isn't an option."''
+|-
+| 4
+| 4
+| 90% chance to remove awakened status from enemy when using Special
+| Use Monado Purge
+| 25
+| ''"I've honed it almost to perfection."''
+|-
+| 5
+| 5
+| 100% chance to remove awakened status from enemy when using Special
+| colspan="2" | Complete the [[Challenge Battle Mode|Challenge Battle]] ''"[[Mk. VIII]]"''
+| ''"That was a strong foe! It probably would've gotten stronger if we'd left it alone..."''
+|-
+| rowspan="5" | Monado Cyclone
+| 1
+| 1
+| colspan="5" |  Increases critical damage by 25%
+|-
+| 2
+| 2
+| Increases critical damage by 40%
+| Finish an enemy
+| 10
+| ''"I have to fight harder than ever before if I want to keep everyone safe."''
+|-
+| 3
+| 3
+| Increases critical damage by 55%
+| Use Monado Cyclone
+| 15
+| ''"I'm sure I'll hold my own the next time things come to a head."''
+|-
+| 4
+| 4
+| Increases critical damage by 70%
+| Use Monado Cyclone
+| 20
+| ''"I'm looking forward to showing off more of this!"''
+|-
+| 5
+| 5
+| Increases critical damage by 85%
+| colspan="2" | Complete the Challenge Battle ''"[[9th Imp. Armored Div.]]"''
+| ''"It was our mortal bodies against heavy armor, and we won... Hats off to you, everyone!"''
+|-
+| rowspan="5" | Monado Buster
+| 1
+| 1
+| colspan="5" | Adds a 60% chance of dealing a guard-annulling attack
+|-
+| 2
+| 2
+| Adds a 70% chance of dealing a guard-annulling attack
+| Use Monado Buster
+| 5
+| ''"I've gotten a little stronger."''
+|-
+| 3
+| 3
+| Adds a 80% chance of dealing a guard-annulling attack
+| Use Monado Buster
+| 10
+| ''"No one's coming to any harm, not while I'm around."''
+|-
+| 4
+| 4
+| Adds a 90% chance of dealing a guard-annulling attack
+| Finish an enemy
+| 100
+| ''"I can't stop yet. There's so much more left to learn."''
+|-
+| 5
+| 5
+| Adds a 100% chance of dealing a guard-annulling attack
+| colspan="2" | Complete the Challenge Battle ''"[[Call the Exterminators]]"''
+| ''"Let's get an even higher score next time!"''
+|-
+| rowspan="15" | Battle Skill
+| rowspan="5" | Vision
+| 1
+| 1
+| colspan="5" | Can negate powerful enemy attack via button challenge (100 sec cooldown)
+|-
+| 2
+| 2
+| Can negate powerful enemy attack via button challenge (90 sec cooldown)
+| Evade an attack
+| 10
+| ''"I've got your back. Trust me."''
+|-
+| 3
+| 3
+| Can negate powerful enemy attack via button challenge (80 sec cooldown)
+| Block an attack
+| 50
+| ''"I'll try my hardest, don't you worry."''
+|-
+| 4
+| 4
+| Can negate powerful enemy attack via button challenge (70 sec cooldown).
+| Evade an attack
+| 30
+| ''"If you need me to back you up, I'll give it everything I've got!"''
+|-
+| 5
+| 5
+| Can negate powerful enemy attack via button challenge (60 sec cooldown).
+| Block an attack.
+| 100
+| ''"This power should benefit everyone."''
+|-
+| rowspan="5" | Monado Enchant
+| 1
+| 1
+| Increases damage dealt by the party by 20% when at max Affinity
+| Collect a lot of [[Ether Cube]]s during a single Challenge Battle
+| 1,000
+| "''Sure, this'll do."''
+|-
+| 2
+| 2
+| Increases damage dealt by the party by 24% when at max Affinity
+| colspan="2" | Complete the Challenge Battle ''"[[Think of the Soldiers]]"''
+| ''"I almost feel sorry for them."''
+|-
+| 3
+| 3
+| Increases damage dealt by the party by 28% when at max Affinity
+| Collect a lot of Ether Cubes during a single Challenge Battle
+| 1,800
+| ''"Nice one! That's a new high score!"''
+|-
+| 4
+| 4
+| Increases damage dealt by the party by 32% when at max Affinity
+| colspan="2" | Complete the Challenge Battle ''"[[Torna's Finest]]"''
+| ''"That was a real challenge... But we were more than up to it."''
+|-
+| 5
+| 5
+| Increases damage dealt by the party by 40% when at max Affinity
+| Collect a lot of Ether Cubes during a single Challenge Battle
+| 3,600
+| ''"I don't think that record will be broken for a good long while."''
+|-
+| rowspan="5" | Monado Speed
+| 1
+| 1
+| colspan="5" |  Increases the accuracy and evasion rate of the team by 24% at max Affinity
+|-
+| 2
+| 2
+| Increases the accuracy and evasion rate of the team by 28% at max Affinity
+| Complete Challenge Battles
+| 10
+| ''"There will be more challenges ahead."''
+|-
+| 3
+| 3
+| Increases the accuracy and evasion rate of the team by 32% at max Affinity
+| Attack from behind
+| 30
+| ''"Attacking from behind. One of my tried and tested tactics."''
+|-
+| 4
+| 4
+| Increases the accuracy and evasion rate of the team by 36% at max Affinity
+| Complete Challenge Battles
+| 30
+| ''"We've been really pushing ourselves. I'd say we've earned a break!"''
+|-
+| 5
+| 5
+| Increases the accuracy and evasion rate of the team by 40% at max Affinity
+| Attack from behind
+| 100
+| ''"Don't worry, I'll support you."''
+|-
+| rowspan="9" | Field Skill
+| rowspan="3" | Salvaging Mastery
+| 1
+| 3
+| rowspan="3" | Knowledge related to salvaging.
+| Acquire Mechanical items from the [[Collectible (XC2)|Collectibles]] list
+| 10
+| ''"I'm really curious about this salvaging business."''
+|-
+| 2
+| 4
+| Acquire Mechanical items from the Collectibles list
+| 20
+| ''"So... how is it, deep down in the Cloud Sea?"''
+|-
+| 3
+| 5
+| Acquire Mechanical items from the Collectibles list
+| 40
+| ''"I think I'd like to try salvaging sometime, just to see what it's like."''
+|-
+| rowspan="3" | Keen Eye
+| 1
+| 3
+| rowspan="3" | The power to see things clearly. Used to notice small changes, etc.
+| Succeed in a button challenge during battle
+| 10
+| ''"Perfect timing there!"''
+|-
+| 2
+| 4
+| Help an incapacitated ally.
+| 20
+| ''"Let's stay on our toes next time."''
+|-
+| 3
+| 5
+| Swap blades during battle.
+| 100
+| ''"I know how to wait my turn."''
+|-
+| rowspan="3" | Ancient Wisdom
+| 1
+| 3
+| rowspan="3" | Knowledge of ancient civilizations. Used to decode writing, etc.
+| Acquire treasure items through salvaging
+| 5
+| ''"Could my expertise come in useful too?"''
+|-
+| 2
+| 4
+| Acquire treasure items through salvaging
+| 10
+| ''"There's so much here that I've never seen before."''
+|-
+| 3
+| 5
+| Acquire treasure items through salvaging
+| 20
+| ''"If we find more...we might learn more!"''
+|}
+
+== In {{XC3FR|-}} ==
+In {{XC3FR}}, Shulk fights as a [[Grand Marshal]], a [[Keves]]i [[Defender (XC3)|Defender]] [[Class (XC3)|class]], and wields his Monado REX+ as his [[Blade (XC3)|Blade]]. He specialises in evasion-tanking, with a fighting style that resembles [[Dunban]]'s from {{XC|-}}.
+
+In a [[Chain Attack (XC3)|Chain Attack]], Shulk starts with 20 TP by default, and can gain 5 more through a "TP Plus" skill in his Affinity Growth tree. Shulk's Chain Art is [[Liberation Edge]], which has the default completion bonus of "Increases damage ratio by 100 percentage points and grants [[Power Charge]] to all allies".
+
+=== General Stats ===
+"Base" assumes minimum weapon level and no Affinity Growth. "Fully upgraded" assumes maximum weapon level and complete Affinity Growth.
+{| class="xc1 centered" width="100%"
+!Level!!HP
+!Attack
+!Healing Power!!Dexterity!!Agility!!Critical Rate!!Block Rate !!Physical Defense!!Ether Defense
+|-
+|1, base||478||60||13||31||28||9%||21%||40%||40%
+|-
+|99, base||7,972||398||216||319||287||9%||21%||40%||40%
+|-
+|99, fully upgraded||7,972||1,039||216||319||316||16%||30%||40%||40%
+|}
+
+=== Weapon Stats ===
+Shulk's weapon can be upgraded in [[Riku's Workshop]] after the quest ''[[Riku's Workshop (quest)|Riku's Workshop]]'' has been completed.
+{| class="xc1 centered" width="100%"
+!style="width:12%;"|Weapon Level
+!Attack!!Critical Rate!!Block Rate!!Ingredients Required!!Item Rarity!![[Gold]] Cost
+|-
+|I||39||9%||21%|| -|| -|| -
+|-
+|II||58||9%||22%||[[Bladestone Fragment]]||[[File:Rarity Common.png|42px]]||2,200
+|-
+|III||79||10%||22%||Bladestone Fragment x2||[[File:Rarity Common.png|42px]]||3,700
+|-
+|IV||111||10%||23%||Bladestone Fragment x3&lt;br&gt;[[Testudo Shoulder Gun]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Rare.png|42px]]||5,300
+|-
+|V||146||11%||24%||[[Bladestone]]&lt;br&gt;[[Kevesi Soldier's Armor]] x3||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Rare.png|42px]]||6,500
+|-
+|VI||185||12%||25%||Bladestone x2&lt;br&gt;[[Luminescent Laia Fin]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Rare.png|42px]]||9,300
+|-
+|VII||229||12%||26%||Bladestone x3&lt;br&gt;Testudo Shoulder Gun||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||10,300
+|-
+|VIII||300||13%||27%||[[Exquisite Bladestone]]&lt;br&gt;[[Mineral Darbus Bone]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||16,800
+|-
+|IX||413||15%||28%||Exquisite Bladestone x3&lt;br&gt;[[Egel Horn]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||31,000
+|-
+|X||559||16%||30%||[[Mysterious Fragment]]&lt;br&gt;[[Silver Ravoon Bone]]||[[File:Rarity Rare.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||44,800
+|}
+
+=== Arts ===
+* '''[[Monado Buster]]''' (Talent Art), AOE/[[Awakening (XC3)|Awakened]]+/Pierce
+* '''[[Stream Edge (XC1)|Stream Edge]]''', [[Break (XC3)|Break]]
+* '''[[Heavy Rush]]''', Awakened Boost
+* '''[[Slit Edge (XC1)|Slit Edge]]''', AOE/[[Bleed (XC3)|Bleed]]
+* '''[[Monado Rage]]''', [[Target Lock]]
+* '''[[Monado Armour|Monado Armor]]''', Field/[[Armor Veil]]
+* '''[[Monado Purge]]''', AOE/Aggroed+
+
+==== Fusion Arts ====
+The below table shows the results of each possible fusion Art and their additional effects. They replace the Ouroboros Powers' effect, while the regular Arts' effects are unchanged.
+
+Regular Arts are listed in the top row, whereas Ouroboros Powers are listed in the first column. Their intersection in the table contains the resulting Fusion Art.
+{| class="xc1 centered" width="100%"
+! Fusion
+! Stream Edge
+! Heavy Rush
+! Slit Edge
+|-
+! Monado Rage
+| '''Stream Rage'''&lt;br&gt;Target Lock/[[Blowdown (XC3)|Blowdown]]
+| '''Heavy Rage'''&lt;br&gt;Target Lock/Awakened Boost
+| '''Rage Edge'''&lt;br&gt;AOE/Target Lock
+|-
+! Monado Armor
+| '''Armor Stream'''&lt;br&gt;Armor Veil/[[Evasion Up (XC3)|Eva. up]]
+| '''Armor Rush'''&lt;br&gt;Armor Veil/[[Power Charge]]
+| '''Edge Armor'''&lt;br&gt;AOE/Armor Veil
+|-
+! Monado Purge
+| '''Purge Stream'''&lt;br&gt;AOE/Purge buffs/[[Attack Down|Atk down]]
+| '''Heavy Purge'''&lt;br&gt;AOE/Purge buffs/[[Accuracy Down|Acc. down]]
+| '''Purge Edge'''&lt;br&gt;Purge buffs for all
+|}
+
+=== Skills ===
+* '''Right Back At You''', When nearby ally is attacked, deal 100-200% of attack in damage to enemy.
+* '''Natural Born Warrior''', Grants a small/medium/large increase to damage dealt the more enemies target you (up to a maximum of 300%).
+* '''Sword of Reprisal''', Deals 150-300% of Attack damage when you evade an attack.
+* '''Mechanical Rhythm''', 5-15% chance for own attack to become a guaranteed hit and to evade enemy attacks during it.
+
+=== Affinity Growth ===
+The below table contains a detailed breakdown of Shulk's Affinity Growth tree.
+
+''Note: Nodes are listed from top to bottom, from left to right.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:7%;"| Icon
+!style="width:18%;"| Name
+!style="width:40%;"| Description
+!style="width:10%;"| Cost
+!style="width:15%;"| Prerequisites
+|-
+!colspan="5"|Affinity Growth Tier 1
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Stream Edge
+|Power Multiplier: 300% -&gt; 360%&lt;br&gt;Recharge Gauge: 30.0s -&gt; 26.6s
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Heavy Rush
+|Power Multiplier: 120% -&gt; 140%&lt;br&gt;Boosts damage dealt by &lt;s&gt;50%&lt;/s&gt; '''70%''' when [[Awakening (XC3)|Awakened]].
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Slit Edge
+|Power Multiplier: 200% -&gt; 260%&lt;br&gt;Recharge Gauge: 26.6s -&gt; 23.3s
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Monado Armor
+|Type: Set Field&lt;br&gt;Area of Effect: AOE around User&lt;br&gt;Power Multiplier: 0%&lt;br&gt;Recharge Gauge: 8 (Auto-Attack Recharge)&lt;br&gt;Buff/Debuff: Armor Veil
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Monado Purge
+|Type: Ether Attack&lt;br&gt;Area of Effect: AOE around User&lt;br&gt;Power Multiplier: 225%&lt;br&gt;Recharge Gauge: 5 (Auto-Attack Recharge)&lt;br&gt;Boosts damage dealt when attacking enemies targeting you by 50%.
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Right Back At You
+|When nearby ally is attacked, deal 100% of attack in damage to enemy.
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Natural Born Warrior
+|Grants a &lt;abbr title="30% boost to damage for every aggroed enemy, capped as stated"&gt;small increase&lt;/abbr&gt; to damage dealt the more enemies target you (up to a maximum of 300%).
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Initiative Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Initiative Effect: Break
+|Starting the battle with an attack from the back inflicts Break on enemies within a certain radius.
+|5 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|5 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Agility Plus
+|Increases Agility by 15.
+|5 AP
+|''None''
+|-
+!colspan="5"|Affinity Growth Tier 2 (1 [[Affinity Growth Unlock Kit]] required)
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Stream Edge
+|Power Multiplier: 360% -&gt; 440%&lt;br&gt;Recharge Gauge: 26.6s -&gt; 22.6s
+|30 AP
+|Stream Edge powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Heavy Rush
+|Power Multiplier: 140% -&gt; 180%&lt;br&gt;Boosts damage dealt by &lt;s&gt;70%&lt;/s&gt; '''100%''' when [[Awakening (XC3)|Awakened]].
+|30 AP
+|Heavy Rush powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Slit Edge
+|Power Multiplier: 260% -&gt; 340%&lt;br&gt;Recharge Gauge: 23.3s -&gt; 19.3s
+|30 AP
+|Slit Edge powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Monado Rage
+|Power Multiplier: 180% -&gt; 235%&lt;br&gt;Recharge Gauge: 8 -&gt; 7
+|25 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Monado Armor
+|Field range of effect - &lt;s&gt;small&lt;/s&gt; '''medium'''
+|25 AP
+|Monado Armor learned
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Monado Purge
+|Power Multiplier: 225% -&gt; 295%&lt;br&gt;Recharge Gauge: 5 -&gt; 4&lt;br&gt;Boosts damage dealt when attacking enemies targeting you by &lt;s&gt;50%&lt;/s&gt; '''70%'''.
+|25 AP
+|Monado Purge learned
+|-
+|[[File:FR Affinity Enhance Defender Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Monado Buster
+|Power Multiplier: 625% -&gt; 725%&lt;br&gt;Deals damage that ignores defense. Also boosts damage dealt by &lt;s&gt;70%&lt;/s&gt; '''100%''' when [[Awakening (XC3)|Awakened]].
+|40 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Sword of Reprisal
+|Deals 150% of Attack damage when you evade an attack.
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Mechanical Rhythm
+|5% chance for own attack to become a guaranteed hit and evade enemy attacks during it.
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Right Back At You
+|When nearby ally is attacked, deal &lt;s&gt;100%&lt;/s&gt; '''150%''' of attack in damage to enemy.
+|30 AP
+|Right Back At You learned
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Natural Born Warrior
+|Grants a &lt;abbr title="40% (up from 30%) boost to damage for every aggroed enemy, capped as stated"&gt;&lt;s&gt;small&lt;/s&gt; '''medium''' increase&lt;/abbr&gt; to damage dealt the more enemies target you (up to a maximum of 300%).
+|30 AP
+|Natural Born Warrior learned
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Sword of Reprisal
+|Deals &lt;s&gt;150%&lt;/s&gt; '''225%''' of Attack damage when you evade an attack.
+|30 AP
+|Sword of Reprisal learned
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Mechanical Rhythm
+|&lt;s&gt;5%&lt;/s&gt; '''10%''' chance for own attack to become a guaranteed hit and evade enemy attacks during it.
+|30 AP
+|Mechanical Rhythm learned
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, and raises Art damage by 25%.
+|45 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;TP Plus
+|At start of [[Chain Attack (XC3)|Chain Attack]], increases TP by 5.
+|20 AP
+|''None''
+|-
+!colspan="5"|Affinity Growth Tier 3 (2 [[Affinity Growth Unlock Kit]]s required)
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Monado Rage
+|Power Multiplier: 235% -&gt; 310%&lt;br&gt;Recharge Gauge: 7 -&gt; 5
+|35 AP
+|Monado Rage powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Monado Armor
+|Recharge Gauge: 8 -&gt; 7&lt;br&gt;Field range of effect - &lt;s&gt;medium&lt;/s&gt; '''large'''
+|35 AP
+|Monado Armor powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Monado Purge
+|Power Multiplier: 295% -&gt; 390%&lt;br&gt;Recharge Gauge: 4 -&gt; 3&lt;br&gt;Boosts damage dealt when attacking enemies targeting you by &lt;s&gt;70%&lt;/s&gt; '''100%'''.
+|35 AP
+|Monado Purge powered up once
+|-
+|[[File:FR Affinity Enhance Defender Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Monado Buster
+|Power Multiplier: 725% -&gt; 875%&lt;br&gt;Deals damage that ignores defense. Also boosts damage dealt by &lt;s&gt;100%&lt;/s&gt; '''150%''' when Awakened..
+|60 AP
+|Monado Buster powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Right Back At You
+|When nearby ally is attacked, deal &lt;s&gt;150%&lt;/s&gt; '''200%''' of attack in damage to enemy.
+|40 AP
+|Right Back At You powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Natural Born Warrior
+|Grants a &lt;abbr title="50% (up from 40%) boost to damage for every aggroed enemy, capped as stated"&gt;&lt;s&gt;medium&lt;/s&gt; '''large''' increase&lt;/abbr&gt; to damage dealt the more enemies target you (up to a maximum of 300%).
+|40 AP
+|Natural Born Warrior powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Sword of Reprisal
+|Deals &lt;s&gt;225%&lt;/s&gt; '''300%''' of Attack damage when you evade an attack.
+|40 AP
+|Sword of Reprisal powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Mechanical Rhythm
+|&lt;s&gt;10%&lt;/s&gt; '''15%''' chance for own attack to become a guaranteed hit and evade enemy attacks during it.
+|40 AP
+|Mechanical Rhythm powered up once
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Faster Damage Aggro
+|Boosts aggro generated from dealing damage by 30%.
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Evasion Up (Art)
+|Boosts evasion by 20% while Art is active.
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Attack Up
+|Boosts Attack by 10%.
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Agility Up
+|Boosts Agility by 5%.
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Unbeatable
+|50% chance to survive a KO with 1 HP and five seconds of invincibility (once per battle, does not stack).
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Ranged Evasion
+|30% chance to evade ranged attacks.
+|20 AP
+|''None''
+|}
+
+=== Unity Pairings ===
+When Shulk is paired with the following party members in Unity, they grant the skill shown and have the following Unity Combo finisher as shown in the below table. The Unity Order of which Shulk is a part of is also named differently, depending on who he is paired with.
+
+Note that all Unity Orders have the same completion bonus of "Reduces enemy physical and ether defense by 30 percentage points during Chain Attack".
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:10%;"| Icon
+!style="width:10%;"| Character
+!style="width:30%;"| Skill
+!style="width:30%;"| Unity Combo
+!style="width:30%;"| Unity Order Name
+|-
+|[[File:FR Unity MatthewShulk.png|50px]]
+|[[Matthew (FR)|Matthew]]
+|'''First and Foremost:''' Fills the Unity pairing's Special gauge by &lt;abbr title="Base"&gt;70%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;100%&lt;/abbr&gt; at start of battle.
+|'''Monado Crash:''' Deals damage to enemies in range and inflicts Burst.
+|'''[[Liberation Onslaught]]'''
+|-
+|[[File:FR Unity AShulk.png|50px]]
+|[[A]]
+|'''Passage of Fate:''' Boosts all allies' accuracy and evasion by &lt;abbr title="Base"&gt;10%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;15%&lt;/abbr&gt;. Does not stack.
+|'''Double Cyclone:''' Deals huge damage to enemies in range and inflicts Blowdown.
+|'''[[Liberation Blade]]'''
+|-
+|[[File:FR Unity NikolShulk.png|50px]]
+|[[Nikol]]
+|'''The Protectors:''' Reduces damage to allies by &lt;abbr title="Base"&gt;10%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;15%&lt;/abbr&gt;, and boosts HP recovery by &lt;abbr title="Base"&gt;10%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;15%&lt;/abbr&gt; (does not stack).
+|'''Arrow Cyclone:''' Deals immense damage to target and inflicts Blowdown.
+|'''[[Liberation Link]]'''
+|-
+|[[File:FR Unity GlimmerShulk.png|50px]]
+|[[Glimmer]]
+|'''Promised Land:''' Extends the buff duration for all allies by &lt;abbr title="Base"&gt;25%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;50%&lt;/abbr&gt;. (Does not stack.)
+|'''Flame Slash:''' Deals damage to target and inflicts Smash.
+|'''[[Red-Hot Horizon]]'''
+|-
+|[[File:FR Unity ShulkRex.png|50px]]
+|[[Rex]]
+|'''Immortal Legend:''' Boosts damage dealt when attacking higher-level enemies by &lt;abbr title="Base"&gt;50%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;100%&lt;/abbr&gt;.
+|'''Tri-Calamity:''' Deals damage to target and inflicts Smash.
+|'''[[Sword of Liberation]]'''
+|}
+
+=== Battle ===
+{{Infobox XC3 Enemy
+|name         = Godcleaver Shulk
+|image        = Godcleaver Shulk.jpg
+|caption      = Godcleaver Shulk
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Liberators (enemy)|Liberators]]
+|level        = 38
+|area         = [[Yesterdale]] ([[Gotrock Oracle Ruins]])
+|spawntime    = During ''[[The Ouroboros Power]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 0
+|hp           = 46,550
+|strength     = 194
+|healing      = 249
+|dexterity    = 115
+|agility      = 187
+|physdef      = 20%
+|ethdef       = 10%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Godcleaver Shulk''' is fought as [[Boss (XC3)|Boss]] alongside [[Rex#Battle|Stoutheart Rex]] at level 38 at the [[Gotrock Oracle Ruins]] in [[Yesterdale]] during ''[[The Ouroboros Power]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 50%
+|etherdebuff = 70%
+}}
+{{clr}}
+
+=== Challenge Battle ===
+{{Infobox XC3 Enemy
+|name         = Godcleaver Shulk
+|image        = Godcleaver Shulk Challenge Battle.jpg
+|caption      = Godcleaver Shulk
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|type         = [[Liberators (enemy)|Liberators]]
+|level        = 80
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[The Two Saviors]]''
+|respawn      = No
+|movement     = Ground
+|hp           = 4,630,950
+|strength     = 580
+|healing      = 499
+|dexterity    = 282
+|agility      = 345
+|physdef      = 15%
+|ethdef       = 10%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+Godcleaver Shulk is fought alongside [[Rex#Challenge Battle|Stoutheart Rex]] at level 80 during the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]''.
+{{clr}}
+
+=== As a Hero in {{XC3|-}} ===
+After completing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]'', Shulk is unlocked as a [[Hero]]. There are several gameplay differences between his appearances in {{XC3FR|sub}} and the main game:
+* The Ouroboros Powers [[Monado Rage]] and [[Monado Armour|Monado Armor]] have been converted into Kevesi Arts with time-based cooldowns, to be consistent with other Heroes who only have Arts of one cooldown type. [[Monado Purge]] is unavailable.
+** The stats of the Arts at Rank 20 match the fully upgraded stats in {{XC3FR|sub}}, with the exception of the cooldown of Monado Rage and Monado Armor.
+* The skill "Sword of Reprisal" is replaced by "'''Gentleman's Valor'''", which grants him [[Awakening (XC3)|Awakening]] should he take a cumulative amount of damage equal to 20% of his maximum HP.
+** Other skills' stats match the fully upgraded stats in {{XC3FR|sub}}.
+* His Heroic Chain is fixed to "When character completes an order, adds 20 TP to the character with the most TP, and reactivates them", and his Chain Order's completion bonus is fixed to "Increases damage ratio by 50/63/75/88/100 percentage points and grants [[Power Charge]] to all allies" (the damage ratio increase is dependent on level).
+* Similar to other Heroes, Shulk's [[Gem (XC3)|Gem]] loadout is fixed to the following:
+** [[Steady Striker]]
+** [[Steelcleaver]], from level 20 onwards
+** [[Tailwind]], from level 40 onwards
+* Shulk's default accessories are the following Common-variant accessories, which can be changed in post-game or [[New Game + (XC3)|New Game +]]:
+** [[Gear Support]]
+** [[Iron Misanga]], from level 30 onwards
+** [[Dragonfang Necklace]], from level 50 onwards
+* Compared to {{XC3FR|sub}}, Shulk's base stats are scaled such that he has higher base stats at lower levels, though he will have the same base stats at level 99 in both {{XC3FR|sub}} and the main game (when excluding Affinity Growth). The base stats in the main game are shown in the below table.
+** Shulk's weapon stats scale with his level (similar to all other characters in the main game) instead of being manually upgraded. However, since the level I weapon in {{XC3FR|sub}} is equivalent to the weapon at level 10 in the main game, his final Attack stat at level 1 is lower in the main game than in {{XC3FR|sub}} with a level I weapon. In contrast, the level X weapon in {{XC3FR|sub}} is equivalent to the weapon at level 99 in the main game.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||557||42 (+20)||15||31||28 (+10)||8%||20%||40%||40%
+|-
+| 99, base||7,972||918 (+70)||216||319||287 (+35)||16%||30%||40%||40%
+|-
+| 99, with default accessories||7,972||918 (+70)||216||319||344 (+35)||16%||30%||40%||40%
+|}
+Shulk also has some differences with other Heroes in the main game:
+* Shulk has no [[Hero Quest|Ascension Quest]]; he is Rank 20 in his class when he joins the party. His class cannot be inherited or controlled by any playable character, and consequently does not grant any Master Arts or Skills.
+* ''[[Time to Fight!]]'' plays when he is used in battle if the "Special BGM" setting is enabled. 
+* As a DLC Hero, he will not appear in any story cutscenes, nor will he participate in the final boss battle, unless chosen as the party's Hero.
+{{clr}}
+
+== In ''Super Smash Bros.'' ==
+[[File:Shulk (SSB4).png|thumb|right|120px|Shulk in {{SSB4|-}}]]
+Shulk is a playable character in {{SSB4}} and {{SSBU}} as the 57th fighter. His Neutral Special move gives him the ability to change his attributes in battle using his Monado Arts; Speed, Shield and Buster from {{XC|-}} and two new Arts, Jump and Smash, invented for ''Smash Bros''.
+
+=== Moveset ===
+Shulk's Neutral Special uses his Monado Arts:
+* &#32724; (Jump): increased jump height, increased air speed, increased falling speed, increased Air Slash height, lower defence.
+* &#30142; (Speed): increased ground speed, increased air speed, decreased attack power, decreased jump height.
+* &#30462; (Shield): increased defence, increased weight, increased shield health, decreased ground speed, decreased air speed, decreased jump height, decreased attack power
+* &#26028; (Buster): increased attack power, decreased launching power, decreased defence.
+* &#25731; (Smash): increased launch power, decreased attack power, decreased weight
+In {{SSBU|-}}, a Monado Art can be selected rather than switching between each one.
+
+Shulk's Up Special move is [[Air Slash (XC1)|Air Slash]], a rising slash with an optional second slash.
+
+Shulk's Side Special move is [[Back Slash (XC1)|Back Slash]]. It does more damage if it hits the back, similarly to the Art's effect in {{XC|-}}.
+
+Shulk's Down Special move is [[Vision (XC1)|Vision]], in which he foresees an opponent's attack, dodges, and counterattacks. Vision can be altered to launch the opponent behind Shulk.
+
+His Final Smash is a [[Chain Attack (XC1)|Chain Attack]] with Dunban and [[Riki]]. In {{SSBU|-}}, Fiora is added to this Final Smash.
+
+Some of Shulk's neutral attacks in this game also bear resemblance to other arts that he and other party members in {{XC|-}} used, two notable examples being his forward smash's similarity to [[Slit Edge (XC1)|Slit Edge]] and his down smash's to [[War Swing (XC1)|War Swing]], one of Reyn's arts.
+
+=== amiibo ===
+{{main|Amiibo#Shulk}}
+An [[amiibo]] of Shulk was released as part of the third wave of amiibo figures for {{SSB4}}.
+
+== In ''Super Mario Maker'' ==
+[[File:Shulk Mario Maker.png|right|50px]]
+In ''[[w:c:mario:Super Mario Maker|Super Mario Maker]]'', Shulk is among the characters Mario can transform into by collecting a Mystery Mushroom in ''Super Mario Bros.'' style stages. Shulk's costume is unlocked either by scanning the Shulk amiibo or randomly after clearing the 100 Mario Challenge on Normal setting or harder. Shulk uses voice clips from the Japanese dub of {{XC|-}}, and when pressing up on the controller while not moving, he will out the Monado. Upon finishing a level as Shulk, the "Course Clear" fanfare is replaced by the [[Secret Area]] discovery tune from {{XC|-}}.
+
+== In ''Yoshi's Woolly World'' ==
+[[File:Shulk Yoshi.jpg|thumb|right|120px|Shulk Yoshi in ''Yoshi's Woolly World'']]
+In ''[[w:c:mario:Yoshi's Woolly World|Yoshi's Woolly World]]'' and ''[[w:c:mario:Poochy &amp; Yoshi's Woolly World|Poochy &amp; Yoshi's Woolly World]]'', scanning the Shulk amiibo will give Yoshi a design based on Shulk known as Shulk Yoshi.
+{{clr}}
+
+== Quotes ==
+=== Battle Quotes ===
+* ''[Starting versus yellow/brown/blue level enemies] "Everyone, let's go!"''
+* ''[Starting versus yellow/brown/blue level enemies] "We can't lose!"''
+* ''[Starting versus yellow/brown/blue level enemies] "Right, let's do this!"''
+* [Starting versus red [[Level (XC1)|level]] enemies] ''"Looks like we don't have a choice!"''
+* ''[Starting versus black level enemies] "The enemy's weak, but don't drop your guard!"''
+* ''[Starting versus yellow/brown/blue level enemies; ally]'' ''"Everyone,'' ''do your best!"''
+* ''[Starting versus yellow/brown/blue level enemies; ally] "I'm ready!"''
+* [Starting versus red level enemies; ally] ''"Can we actually win here?"''
+* [Starting versus red level enemies; ally] ''"Is this such a good idea?"''
+* [Starting versus black level enemies; ally] ''"Don't get careless, guys!"''
+* [Starting versus enemies considered the worst fit] ''"Can someone else handle this one?"''
+* [Starting versus enemies considered the best fit] ''"Leave this to me!"''
+* [Dodging] ''"Not good enough!"''
+* ''"We haven't lost yet!"''
+* [Activating] ''"This is the Monado's power!"''
+* ''"Nothing's gonna stop me!"''
+* ''"Let's aim higher!"''
+* ''"Almost there!"''
+* [Healed] ''"Just what I needed!"''
+* ''"Monado! Show me the way!"''
+* ''"Behold the power of the Monado!"''
+* ''"I... I'm seeing something!"''
+* ''"It's coming to me...!"''
+* ''"Ohh... Wait!"''
+* ''"Ok, my turn!"''
+* ''"Not bad!"''
+* ''"Monado, lend us your power!"''
+* ''"More enemies!"''
+* ''"There's no end to them!"''
+* ''"I'm...sorry..."''
+* ''"I can't...go on..."''
+* ''"This isn't going well..."''
+* Shulk: ''"I'm really feeling it!"''&lt;br /&gt;Reyn: ''"yeah, Shulk! get stuck in!"''
+* Shulk: ''"Reyn!"''&lt;br /&gt;Reyn: ''"I know, I know!"''
+* ''"Altogether for a Chain Attack!"''
+* ''"Sharla! Don't worry about it!"''
+* [Talent Gauge full] ''"We can definitely do this!"''
+* Shulk: ''"This isn't going well."''&lt;br /&gt;Reyn: ''"Sorry, I lost focus."''
+* Shulk: ''"Altogether now!"''&lt;br /&gt;Riki: ''"Riki together too!"''
+* [Focussing attacks] ''"Let's Focus our efforts!"''
+* [Engaging at will] ''"Play it by ear everyone!"''
+* [Retreat] ''"Everyone, make a run for it!"''
+
+=== Arts ===
+* ''"BATTLE SOUL!"''
+* ''"Shadow Eye!"''
+* ''"Back Slash!"''
+* ''"Air Slash!"''
+* ''"Streeeam Edge!"''
+* ''"Light Heal!"''
+* ''"Slit Edge!"''
+* ''"This'll leave a mark-- Shaker Edge!"''
+* [Art: Shaker Edge] ''"Pesky thing!''"
+* ''"Monado&#8212;Buster!"''
+* [Art: Monado Shield] ''"Monado... Shield us!"''
+* [Art: Monado Speed] ''"Monado, show me the way!""''
+* ''"You're not invincible! Monado Enchant!"''
+* ''"No escape..."'' *yelling* ''"MONADO PURGE!!!!"''
+* [Art: Monado Purge] ''"That's ENOUGH!!!"''
+* ''"I'll blow you away... Monado Cyclone!"''
+* ''"Monadoooo... Eater!"''
+* ''"Tuuurn... Strike!"''
+* [Art: Monado Eater] ''"I'll smash you up!"''
+
+=== Leveling up ===
+* ''"Cool!"''
+* ''"I need to be even stronger!"''
+* ''"I can feel the power!"''
+
+=== Victory ===
+* ''"Piece of cake!"''
+* ''"Hahaha, we win!"''
+
+=== &#8203;Character Yells ===
+==== Reyn ====
+* ''"Reyn!!!"''
+* ''"Get up, Reyn!"''
+* ''"You're really getting into this, Reyn!"''
+* ''"Reyn! Let's see what you're made of!"''
+* ''"And nothing's gonna stop us."''
+* ''"Ok, Reyn!"''
+* ''"It's cause we all make such a good team, Reyn!"''
+* ''"Reyn! You're up!"''
+* ''"Easy there, Reyn!"''
+* ''"Reyn! You're a lifesaver!"''
+* ''"Reyn! It's up to you!"''
+* ''"Nice one, Reyn!"''
+* ''"Reyn! This isn't like you!"''
+
+==== Fiora ====
+* ''"Fiora! Please, no!!!"''
+* ''"Come on, Fiora, get up!"''
+* ''"Looking good too, Fiora!"''
+* ''"Go get em, Fiora!"''
+* ''"Me too, Fiora!"''
+* ''"I won't let you go, Fiora!"''
+* ''"I feel exactly the same, Fiora!"''
+* ''"Fiora! Keep it coming!"''
+* ''"Fiora! I'll protect you."''
+* ''"Fiora! Glad you're around!"''
+* ''"Fiora! We're all with you!"''
+* ''"Fiora! You got it?"''
+* ''"Fiora, that's great!"''
+* ''"Fiora! Don't give up!"''
+
+==== Dunban ====
+* ''"No way..... DUNBAN!!!!"''
+* ''"It's not over yet, Dunban!"''
+* ''"Yeah Dunban, go for it!"''
+* ''"Dunban! You're really shining!"''
+* ''"Yeah, Dunban!"''
+* ''"Understood, Dunban!"''
+* ''"Yes sir!"''
+* ''"Dunban! We're counting on you!"''
+* ''"Dunban! Don't overdo it!"''
+* ''"Thank you, Dunban."''
+* ''"Dunban! That's the one!"''
+* ''"Dunban! You're awesome!"''
+* ''"Dunban, hang in there!"''
+
+==== Sharla ====
+* ''"SHARLA!!!"''
+* ''"Sharla, hang in there!"''
+* ''"Sharpshooter Sharla!"''
+* ''"Sharla! You're really focussed!"''
+* ''"And as one, we're unbeatable!"''
+* ''"We can do even better. Come on, Sharla!"''
+* ''"Yeah! It's cool, isn't it, Sharla?"''
+* ''"Sharla! Go for it!"''
+* ''"Sharla! You're needed here!"''
+* ''"Sharla! Nice shot!"''
+* ''"Come on, Sharla! We're not done yet!"''
+
+==== Riki ====
+* ''"RIKI!!!"''
+* ''"You're all right, Riki?"''
+* ''"We need full power, Riki!"''
+* ''"Heropon on the rampage!"''
+* ''"Haha! Teach us, Heropon Riki!"''
+* ''"Hah. Good well be, Riki."''
+* ''"Right behind you, Riki!"''
+* ''"Riki! It's your turn!''
+* ''"Riki! Take the lead!"''
+* ''"Riki! Keep it up!"''
+* ''"Riki, a sad face doesn't suit you!"''
+
+==== Melia ====
+* ''"MELIA!!!"''
+* ''"Melia! Don't give up!"''
+* ''"Give it all you've got, Melia!"''
+* ''"Melia's scary when she's angry!"''
+* ''"I'm glad you're with us, Melia!"''
+* ''"Yeah! And we're stronger than anyone else!"''
+* ''"Melia! Thank you!"''
+* ''"Melia! It's up to you!"''
+* ''"Melia! That's the one!"''
+* ''"Melia! I knew you could do it!"''
+* ''"Melia! Cheer up!"''
+
+=== Vision Warnings ===
+* ''"Reyn, this is not good."''
+* ''"Sharla, watch out!"''
+* ''"Dunban, listen!"''
+* ''"Riki, be careful!"''
+* ''"Melia, this is bad!"''
+* ''"Fiora, we've gotta hurry!"''
+* ''"No! I can't see it clearly!"''
+* ''"The future doesn't belong to you!"''
+
+=== Dialogue ===
+* "Long ago, the world was nothing more than an endless sea cloaked in a boundless sky, reaching as far as could possibly be imagined. Then two great titans came into existence. The Bionis and the Mechonis. The titans were locked in a timeless battle. Until at last, only their lifeless corpses remained. ''[&#8230;]'' Eons have passed. Now, our world, this vast land stretching across the remains of the Bionis, is under attack by a relentless force known as the Mechon."
+
+&lt;hr width="50%" /&gt;"Reyn's right. You can't go on like this. ''[&#8230;]'' Dunban! &#8230; This time...it's ''my'' turn!"
+
+&lt;hr width="50%" /&gt;"I've made a decision. &#8230; My purpose in life - I will pursue that faced Mechon. &#8230; They attacked our colony, killed Fiora... I will find that Mechon - find it and destroy it. Destroy them all!"
+
+&lt;hr width="50%" /&gt;
+:"Xord? So you have a name?"
+
+&lt;hr width="50%" /&gt;
+:''[to Metal Face]'' "You will know the pain and suffering you caused the Emperor and Fiora!"
+
+&lt;hr width="50%" /&gt;
+:"Fiora! It's me! Shulk! ''Fiora!''"
+
+&lt;hr width="50%" /&gt;
+:"So it's true. You really don't remember us at all. Fiora, listen! If nothing else, you must remember your family! That's ''Dunban'' over there!"
+
+&lt;hr width="50%" /&gt;
+:[jumping after Fiora's falling Mechon]''' ''"Fiora!"'''''
+
+&lt;hr width="50%" /&gt;
+:'''Shulk''': ''[after reviving Fiora]'' "Fiora. You're awake. Uh...do you remember? My name is Shu-"
+''[Fiora puts her hand on Shulk's cheek, and he looks at her expression of content with surprise.]''
+:'''Fiora''': "I can't believe it. My first kiss."
+:'''Shulk''': ''[overjoyed]'' "You do remember me! Fiora!"
+:'''Fiora''': [nods] "Of course I do, Shulk." ''[The two embrace.]''
+
+:&lt;hr width="50%" /&gt;
+:"If I'd wanted to walk the predetermined path, I wouldn't have come this far. Even with the odds stacked against us, even though I can't see the future, I'll keep walking. My own path. That I decide."
+
+&lt;hr width="50%" /&gt;
+:"I just want to live my life as a Homs, in a world...without...''you!''"
+
+&lt;hr width="50%" /&gt;
+:'''Zanza''': "How, how can you have visions?! You no longer possess the Monado!"
+:'''Shulk''': "I don't know. It comes from the bottom of my heart. It shows me my enemy. It reveals the future I must change!"
+:"What's important isn't whether you can see the future or not. It's the will to make a choice, and the strength to seize your destiny! Our time has come. ''OUR DESTINY IS OUR OWN!''"
+
+:&lt;hr width="50%" /&gt;
+:"Today, we use our power to fell a god, and then, ''SEIZE OUR DESTINY!''"
+:"I won't decide. The future should be decided by each and every person in the world. And so what I... No what we wish for is... A world with no Gods!"
+
+:&lt;hr width="50%" /&gt;
+:"I don't know what the future holds. But that means, I can imagine all the possibilities."
+:"I hope I can meet them all one day. The people of this endless world."
+
+=== {{XC|-}} Post-battle Dialogue ===
+{| class="xc1"
+!Party Members
+!Dialogue
+|-
+|Shulk, Reyn
+|'''Shulk''' - Reyn, I can always count on you!&lt;br /&gt;'''Reyn''' - Heh, nothing's gonna touch you as long as I'm around.
+[[File:Shulk Reyn 1.ogg|noicon]]
+|-
+|Shulk, Reyn
+|'''Shulk''' - We need to stick together from here on, and we'll be right as Reyn. Get it?&lt;br /&gt;'''Reyn''' - *Laughs* You crack me up, Shulk.
+[[File:Shulk Reyn 2.ogg|noicon]]
+|-
+|Shulk, Reyn, Sharla
+|'''Reyn''' - I'm on fire! Sharla, did you see me? Did you see what I did!?&lt;br /&gt;'''Sharla''' - Oh! I, uh, wasn't really looking.&lt;br /&gt;'''Reyn''' - Aw, come on. That's not fair.&lt;br /&gt;'''Shulk''' - *Laughs*
+[[File:Shulk Reyn Sharla.ogg|noicon]]
+|-
+|Shulk, Reyn, Dunban
+|'''Reyn''' - Dunban, with you around, there ain't no stopping us!&lt;br /&gt;'''Shulk''' - Totally!&lt;br /&gt;'''Dunban''' - Don't get cocky. Stay focussed, stay sharp.&lt;br /&gt;'''Shulk &amp; Reyn''' - Yes sir!
+[[File:Shulk Reyn Dunban.ogg|noicon]]
+|-
+|Shulk, Reyn, Melia
+|'''Shulk''' - Melia, are you tired?&lt;br /&gt;'''Melia''' - No, I am fine. Reyn, however... I'm not so sure about.&lt;br /&gt;'''Shulk''': Reyn, wake up! Reyn!&lt;br /&gt;'''Reyn''': *Yawns* Sorry, sorry. Didn't get enough sleep. Why don't we grab some shut-eye?
+[[File:Shulk Reyn Melia.ogg|noicon]]
+|-
+|Shulk, Reyn, Riki
+|'''Riki''' - Thanks to Riki's sidekicks, we win.&lt;br /&gt;'''Reyn''' - Wha!? Who're you calling sidekick?&lt;br /&gt;'''Riki''' - No see anyone else. Must be you.&lt;br /&gt;'''Reyn''' - Stupid furry volleyball. I'm gonna...&lt;br /&gt;'''Shulk''' - Reyn, you're such an easy target. *Laughs*
+[[File:Shulk Reyn Riki.ogg|noicon]]
+|-
+|Shulk, Reyn, Fiora
+|'''Reyn''' - Man, am I good or am I good.&lt;br /&gt;'''Shulk''' - *Laughs* That is so you, Reyn.&lt;br /&gt;'''Fiora''' - *Giggles* You two never change.&lt;br /&gt;[[File:Shulk Reyn Fiora.ogg|noicon]]
+|-
+|Shulk, Sharla, Dunban
+|'''Shulk''' - Sharla, could you teach me how to use a rifle sometime?&lt;br /&gt;'''Dunban''' - So that's how it is. Giving up the sword already?&lt;br /&gt;'''Shulk''' - No, no! That's not it at all!&lt;br /&gt;'''Sharla''' - Oh let him have a go, Dunban.
+[[File:Shulk Sharla Dunban.ogg|noicon]]
+|-
+|Shulk, Sharla, Melia
+|'''Melia''' - Sharla, your skill is truly unrivalled.&lt;br /&gt;'''Shulk''' - It's true. You're really good, Sharla!&lt;br /&gt;'''Sharla''' - Wow, thanks. I don't know what to say.
+[[File:Shulk Sharla Melia.ogg|noicon]]
+|-
+|Shulk, Sharla, Riki
+|'''Riki''' - Mighty Riki also amazing with gun!&lt;br /&gt;'''Sharla''' - Oh really? Sure you won't shoot yourself in the paw?&lt;br /&gt;'''Riki''' - Oh no! Riki need paws!&lt;br /&gt;'''Shulk''' - *Laughs* Sharla, cut him some slack.
+[[File:Shulk Sharla Riki.ogg|noicon]]
+|-
+|Shulk, Sharla, Fiora
+|'''Shulk''' - Fiora, are you hurt?&lt;br /&gt;'''Fiora''' - Shulk, tell me you're okay.&lt;br /&gt;'''Sharla''' - Uh... I'm here too, you know?&lt;br /&gt;'''Shulk &amp; Fiora''' - Sorry, Sharla.&lt;br /&gt;'''Sharla''' - *Laugh* I'm just teasing.
+[[File:Shulk Sharla Fiora.ogg|noicon]]
+|-
+|Shulk, Dunban, Melia
+|'''Shulk''' - Melia, it'd be great if you taught me how to use ether!&lt;br /&gt;'''Dunban''' - So that's how it is. Giving up the sword already?&lt;br /&gt;'''Shulk''' - No, no! That's not it at all!&lt;br /&gt;'''Melia''' - I'm speechless.
+[[File:Shulk Dunban Melia.ogg|noicon]]
+|-
+|Shulk, Dunban, Riki
+|'''Dunban''' - Riki, mighty Heropon, I can see that you're in pain.&lt;br /&gt;'''Riki''' - Hmph, nothing can beat Riki.&lt;br /&gt;'''Shulk''' - Dunban, you're embarrassing Riki!.
+[[File:Shulk Dunban Riki.ogg|noicon]]
+|-
+|Shulk, Dunban, Fiora
+|'''Dunban''' - Fiora, how are you doing?&lt;br /&gt;'''Fiora''' - I'm fine, Dunban. But thanks for asking.&lt;br /&gt;'''Shulk''' - I wish I had a brother or sister. You guys look like a real family.&lt;br /&gt;'''Fiora''' - Well... you're basically like our baby brother.&lt;br /&gt;'''Shulk''' - What!? Baby brother!?&lt;br /&gt;'''Fiora''' - *Laugh* Be careful what you wish for.
+[[File:Shulk Dunban Fiora.ogg|noicon]]
+|-
+|Shulk, Melia, Riki
+|'''Riki''' - Melly, Riki try really hard! You see it?&lt;br /&gt;'''Melia''' - Of course, you sweet thing. Who's a brave boy?&lt;br /&gt;'''Shulk''' - Um, Melia? Are you feeling okay?
+[[File:Shulk Melia Riki.ogg|noicon]]
+|-
+|Shulk, Melia and Fiora
+|'''Shulk''' - Wow, when did you two get so tough?&lt;br /&gt;'''Fiora''' - What? Just because we're girls we're supposed to be wimps? How rude!&lt;br /&gt;'''Melia''' - Quite. I'm afraid you have much to learn about the fairer sex, Shulk.&lt;br /&gt;'''Shulk''' - *Groan* Why do I get the feeling that mastering the Monado is going to be easier?&lt;br /&gt;'''Fiora &amp; Melia''' - *Laughs*&lt;br /&gt;
+[[File:Shulk Melia Fiora.ogg|noicon]]
+|-
+|Shulk, Riki, Fiora
+|'''Riki''' - Riki try really hard.&lt;br /&gt;'''Fiora''' - I was watching the whole time.&lt;br /&gt;'''Riki''' - Wha..? No way. You watching Riki?&lt;br /&gt;'''Shulk''' - I saw him slacking off a bit.&lt;br /&gt;'''Riki''' - *Guilty laugh* You wrong. Riki try really hard.&lt;br /&gt;'''Shulk &amp; Fiora''' - *Laughs*
+[[File:Shulk Riki Fiora.ogg|noicon]]
+|}
+
+=== {{XC2|-}} Post-Battle Dialogue ===
+{{:Post-Battle Dialogue (XC2)/Shulk}}
+
+== Trivia ==
+* In a [[Heart-to-Heart (XC1)|Heart-to-Heart]] - "[[A Gift for a Loved One]]" - between Dunban and Sharla at Eryth Sea, Dunban states that Shulk's diet is not healthy as he dislikes vegetables. He eats the vegetables Fiora cooks him without complaining though, because he is too embarrassed to admit that he does not like them to her.
+** In spite of collectables in the Vegetables category being Shulk's least favourite in {{XC|-}}, with some of them lowering his Affinity by as much as 18 points, in {{XC2|-}} one of his favorite Pouch Items is Addam's Supercakes and one of his favorite categories is Veggies.
+* According to "[[The Legend of the Spider]]", Shulk is scared of caterpillars. Apparently this was caused when Reyn hid a caterpillar in Shulk's sock drawer.
+* After falling from Galahad Fortress, Shulk has a dream where he picks up a piece of scrap metal and falls through the ground as a child. The piece of scrap metal bears a high resemblance to the Monado.
+* Some of Shulk's post-battle dialogue in {{XC2|-}} reference major events from the main story of {{XC|-}}.
+* Shulk and Zanza have the same voice actors in both English and Japanese, Adam Howden and Shintar&#333; Asanuma. This is probably intended as a foreshadowing to the plot twist that he has been dead all the time and Zanza kept him alive through the Monado. They also voice The [[Architect]] in {{XC2|-}}. Adam Howden also provides the "Classic" male voice and Shintar&#333; Asanuma the "Protagonist" male voice for [[Cross]] in {{XCX}} as well as the English voice of the [[Nopon Archsage]] in {{XC3}}.
+* Shulk is the first {{XC|-}} character to appear in a franchise outside his own, having appeared as playable character in {{SSB4|-}} and as a unlockable Mystery Mushroom costume in ''Super Mario Maker''.
+* Due to ''Super Mario Maker'', Shulk is currently the only {{XC|-}} character to appear on his own in a franchise outside his own, as other {{XC|-}} characters and materials appear in {{SSB4|-}}, and Fiora, Metal Face, and several enemies and areas from {{XC|-}} in the non-Nintendo (but Monolith Soft developed) game, ''[[Project X Zone 2]]''.
+* When using the [[Tachyon Chip]], Shulk as a Blade in {{XC2|-}} has the highest [[Auto-Attack (XC2)|auto-attack]] stat in the game capping at 1,974 at S+ [[trust]]. This makes him have higher auto-attack than [[Pandoria]] and [[Poppi QT&#960;]], who hit the 1,700's.
+[[File:Noah Shulk Outfit.png|thumb|200px|Noah's outfit]]
+* In {{XC3|-}}'s [[Challenge Battle Mode]], [[Noah]] can obtain an [[Clothing|outfit]] that resembles Shulk's {{XC|-}} outfit.
+* With him wearing a red cloak, having long hair, and having a missing right arm, Shulk's design in {{XC3FR|sub}} seems to be evoking that of Dunban's.
+** Additionally, his fighting style in said game is nearly identical to Dunban's, with many of his arts as well as his battle stance being basically the same animation-wise ([[Stream Edge (XC1)#In Xenoblade Chronicles 3: Future Redeemed|Stream Edge]] mimicking [[Worldly Slash]], [[Heavy Rush]] mimicking [[Steel Strike]], [[Slit Edge (XC1)#In Xenoblade Chronicles 3: Future Redeemed|Slit Edge]] mimicking [[Gale Slash (XC1)|Gale Slash]], [[Monado Purge#In Xenoblade Chronicles 3: Future Redeemed|Monado Purge]] mimicking [[Demon Slayer (XC1)|Demon Slayer]], and [[Monado Buster#In Xenoblade Chronicles 3: Future Redeemed|Monado Buster]] mimicking [[Blossom Dance (XC1)|Blossom Dance]]).
+* {{TTGC}} is the only main installment in the {{XC|serieslink}} that Shulk does not make an appearance in.
+{{clr}}
+
+== Gallery ==
+=== {{XC|-}} ===
+==== Official Art ====
+&lt;gallery&gt;
+Monadoboi.png|Shulk
+Shulk1.png|Official art of Shulk
+Shulk3.png|Shulk holding the Monado
+Illust shulk fiora.jpg|Art of Shulk and Fiora
+Character concepts 1.jpg|Art of Shulk (bottom left)
+Shulk colony9.jpg|Official art of Shulk outside Colony 9
+Xenoblade Official Art Guar Plain.png|Artwork of Shulk overlooking Gaur Plain
+Artcamoth of Alcamoth.jpg|Artwork of Shulk overlooking Prison Island
+Xenoblade-10th-Anniversary-artwork-only.jpg|Artwork commemorating the 10th anniversary of the {{XC|series}}
+&lt;/gallery&gt;
+
+==== Concept Art ====
+&lt;gallery&gt;
+Shulk concepts 1.jpg
+Shulk concepts 2.jpg
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+Shulk relaxes.png|Shulk at the beginning of the game
+Shulk and Reyn attack the local wildlife.png|Shulk and Reyn fighting a Krabble
+XCplot003.png|Shulk takes up the Monado
+Purge .jpg|Shulk learning Monado Purge
+Shulk8.jpg|Shulk wielding the Monado
+Shulk with Monado.jpg|Shulk receiving the Monado II
+Monado II.jpg|The Monado is unshackled
+Colony 9.jpg|Shulk overlooking Colony 9
+Bionis' Leg.jpg|Shulk and Reyn in Gaur Plain
+Shulk in a Battle.png|Shulk activating the Monado while warning Sharla about the Mechon's tentacles, after using the Speed Art.
+Shulk Battle Tactics C1.jpg|Shulk's Battle Tactics
+Shulk Battle Tactics C2.jpg|Shulk's Battle Tactics
+Compilation Armor Shulk.jpg|Shulk's various sets of armour
+ShulkRondine.png|Shulk in Light Rondine Armour
+ShulkGlory.png|Shulk in Medium Glory Armour
+ShulkLedios.png|Shulk in Heavy Ledios Armour
+Shulk Xenoblade Chronicles 3D.png|Shulk's portrait in {{XC3D|-}}
+&lt;/gallery&gt;
+
+=== {{XCDE|-}} ===
+==== Official Art ====
+&lt;gallery&gt;
+XCDE-Shulk.png|Official art of Shulk in {{XCDE|sub}}
+XCDE Shulk Future Connected.png|Official art of Shulk in {{XCFC|sub}}
+XC1DE Shulk and Melia on BS artwork.jpg|Artwork of Shulk and Melia in Bionis' Shoulder
+ShulkArt.jpg|Shulk with the Monado
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+XC1DE-Shulk-2.jpg
+XC1DE-Shulk-3.jpg
+XC1DE-Shulk-4.jpg
+XC1DE-Shulk-5.jpg
+Switch XBC-DE 08.jpg
+XC1DE-Fiora-and-Shulk.jpg
+Shulk Ending DE.jpg|Shulk in the ending
+Explorer img02 2.jpg
+XC1DE-Field-Screenshot-2.jpg
+XC1DE-Field-Screenshot-4.jpg
+XC1DE-Field-Screenshot-6.jpg
+XC1DE-Field-Screenshot-7.jpg
+Switch XBC-DE 03.jpg
+XC1DE-Future-Connected-3.jpg
+XC1DE-Bionis-Shoulder-8.jpg
+XC1DE-Shulk-3D-Model.jpg
+XC1DE-Shulk-Battle-Mode-3D-Model.jpg
+XC1DE-Shulk-Battle-Mode-2-3D-Model.jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Shulk XC2 Art.png|Official artwork in {{XC2|-}}
+Shulk &amp; Fiora XC2.png|Shulk and Fiora as they appear in {{XC2|-}}
+XC2 Land of Challenge 2.jpg|Shulk meeting Rex
+XC2 Elma 2.jpg|Shulk, Rex, and Elma
+Shulk .png|Rex driving Shulk
+Buster Combat XC2.jpg|Shulk using Monado Buster in {{XC2|-}}
+ShulkMonadoUnbound.jpg|Shulk using Monado Unbound in {{XC2|-}}
+&lt;/gallery&gt;
+
+=== {{XC3FR|-}} ===
+==== Official Art ====
+&lt;gallery&gt;
+XC3FR Shulk Official Artwork.png|Official Artwork of Shulk in {{XC3FR|-}}
+&lt;/gallery&gt;
+
+==== In-Game Renders ====
+&lt;gallery&gt;
+Shulk Hero Icon.png|Hero List Icon
+Shulk Level Up Art.png|Level Up Art
+Liberation Edge.png|Chain Art Icon
+Liberation Onslaught.png|Shulk and Matthew Chain Art Icon
+Liberation Blade.png|Shulk and A Chain Art Icon
+Liberation Link.png|Shulk and Nikol Chain Art Icon
+Red-Hot Horizon.png|Shulk and Glimmer Chain Art Icon
+Sword of Liberation.png|Shulk and Rex Chain Art Icon
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+XC3 Shulk Screenshot.jpg|Shulk in {{XC3FR|-}}
+XC3FR Shulk 1.jpg
+XC3FR Shulk 2.jpg
+The way to the long break - 1.jpg|Shulk, Rex, and A become Origin's new avatars
+&lt;/gallery&gt;
+
+=== {{SSB4|-}} ===
+&lt;gallery&gt;
+ShulkPoster.png|Artwork of Shulk in {{SSB4|-}}
+ShulkTrophyU.png|Shulk's Wii U Trophy
+ShulkAltTrophyU.png|Shulk's Wii U Trophy (Alt)
+ShulkSSBU1.jpg|Shulk on Gaur Plain with Monado Buster active (Wii U version)
+Shulk3DS1.jpg|Shulk and Riki on Gaur Plain (3DS version)
+ShulkOutfits.jpeg|Shulk's alternate outfits
+SuperSmashBros4Shulk.png|Shulk's amiibo
+&lt;/gallery&gt;
+
+=== {{SSBU|-}} ===
+&lt;gallery&gt;
+Shulk-Smash Bros Ultimate Artwork.png|Shulk's official artwork in {{SSBU|-}}
+Shulk-Smash Bros Ultimate.jpg|Shulk as he appears in {{SSBU|-}}
+Shulk-Smash Bros Ultimate 2.PNG|Shulk on the Great Plateau Tower stage
+SSBU-Shulk-and-Riki.jpg|Shulk and Riki
+Shulk-Smash Bros Ultimate 3.PNG|Shulk and Snake
+Shulk-Smash Bros Ultimate 4.PNG|Shulk's updated Final Smash featuring Dunban, Riki and the newly added Fiora
+Shulk Smash Bros Ultimate Arts.png|Shulk's Monado Arts
+SSBU Shulk vs Rathalos.png|Shulk, Marth and Link facing the Rathalos Assist Trophy
+Mythra Shulk &amp; Rex.jpg|Shulk with Rex and Mythra
+Shulk Pyra.png|Shulk fights Pyra upon her debut
+&lt;/gallery&gt;
+
+== External links ==
+{{Reflist}}
+* [https://www.smashbros.com/en_US/fighter/57.html Shulk page in the official {{SSBU|-}} website]
+
+{{CharNav}}
+{{XC2CharNav}}
+{{XC3CharNav}}
+{{XC3FRCharNav}}
+[[de:Shulk]]
+[[fr:Shulk]]
+[[es:Shulk]]
+[[tr:Shulk]]
+
+[[Category:Shulk]]
+[[Category:XC Playable Characters]]
+[[Category:XC Homs]]
+[[Category:Defence Force]]
+[[Category:XCFC Playable Characters]]
+[[Category:XCFC Homs]]
+[[Category:DLC Blades]]
+[[Category:XC3FR Playable Characters]]
+[[Category:Liberators]]
+[[Category:DLC Heroes]]
+[[Category:XC3FR Bosses]]
+[[Category:XC3FR Quest Exclusive Enemies]]
+[[Category:XC3FR Quest Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3FR Liberators Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:Super Smash Bros. for Nintendo 3DS / Wii U]]
+[[Category:Super Smash Bros. Ultimate]]</text>
+      <sha1>016l5w7mw08myycmprej7qqobnsbq7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shuvai Merfrey</title>
+    <ns>0</ns>
+    <id>123207</id>
+    <revision>
+      <id>559939</id>
+      <parentid>553537</parentid>
+      <timestamp>2022-09-30T10:57:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="26bcz6ajc19zqbcwxzhr038fmlthcel" xml:space="preserve">{{Infobox Enemy
+|name         = Shuvai Merfrey
+|image        = 
+|caption      = Shuvai Merfrey
+|category     = Minor Enemy
+|type         = [[Merfrey]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Shuvai Merfreys''' are Minor Enemies in {{XC3}}. They are members of the [[Merfrey]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merfreys]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>26bcz6ajc19zqbcwxzhr038fmlthcel</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Signet Ring</title>
+    <ns>0</ns>
+    <id>119001</id>
+    <revision>
+      <id>592854</id>
+      <parentid>592414</parentid>
+      <timestamp>2023-05-15T20:19:02Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592854</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1082" sha1="6f1gj2grd3kwqxhxsdnxpe07ry1h0ns" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Signet Ring
+|image     = XC3 Accessory Ring.png
+|caption   = When an attack is evaded, increases attacker's aggro towards the user.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6060 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Signet Ring
+|image     = XC3 Accessory Ring.png
+|caption   = When an attack is evaded, increases attacker's aggro towards the user.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6060 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Signet Ring
+|image     = XC3 Accessory Ring.png
+|caption   = When an attack is evaded, increases attacker's aggro towards the user.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6060 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Signet Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>6f1gj2grd3kwqxhxsdnxpe07ry1h0ns</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Signifer</title>
+    <ns>0</ns>
+    <id>117779</id>
+    <revision>
+      <id>599916</id>
+      <parentid>596899</parentid>
+      <timestamp>2023-07-17T11:53:35Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>599916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7820" sha1="7x6fjt5n8bw52adgdy0wdpdew984yyo" xml:space="preserve">{{spoiler}}
+[[File:XC3 Signifer Weapon Icon.png|thumb|Signifer Class Icon]]
+{{quote|A special Healer excelling at support, using buffs to inspirit allies with courage and strength.|Class menu description}}
+'''Signifer''' (Japanese: {{lang|ja|&#26143;&#36637;&#22763;}}, ''Hoshi terushi'', Stellar Knight) is an [[Agnus|Agnian]] [[Healer]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1542040921985781760]&lt;/ref&gt;
+
+== Overview ==
+Signifers specialize in giving enhancement or support effects to allies. It is the class of [[Fiona]].
+
+It is unlocked by completing the [[Hero Quest]] ''[[Transparent Dreams]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[A Farewell Reset]]''.
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|6,565
+|2,815
+|3,750
+|4,690
+|''Class Inheritor''
+|5,625
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 280
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 280
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 415
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 415
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 450
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 450 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 480
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[A Farewell Reset]]''
+|-
+| 11 
+| 390
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 390
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 525
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 525
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 650
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 650 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 850
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 975
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Signifer class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 55% || 75% || 65% || 100% || 80% || 5% || 25%
+|-
+| 10 || 57% || 80% || 70% || 102% || 85% || 7% || 27%
+|-
+| 20 || 60% || 85% || 75% || 105% || 90% || 10% || 30%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art, although in practice this only affects Block Rate since no Master Arts from this Class do any damage. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 17 || 8% || 8%
+|-
+| 10 || 37 || 9% || 9%
+|-
+| 20 || 66 || 10% || 10%
+|-
+| 30 || 102 || 10% || 10%
+|-
+| 40 || 142 || 11% || 11%
+|-
+| 50 || 189 || 12% || 12%
+|-
+| 60 || 242 || 13% || 13%
+|-
+| 70 || 300 || 14% || 14%
+|-
+| 80 || 365 || 14% || 14%
+|-
+| 90 || 439 || 15% || 15%
+|-
+| 99 || 514 || 16% || 16%
+|}
+== Arts ==
+* '''[[Cry of Faith]]''' ([[Battle Arts (XC3)|Talent Art]]), 2 random buffs (party)
+* '''[[Resonant Flag]]''', Share own buffs (Rank 10 Master Art)
+* '''[[Illuminate]]''', AOE / Dmg+ per buff
+* '''[[Aureole (XC3)|Aureole]]''', 1 random buff (Rank 1 Master Art)
+* '''[[Heal Harmony]]''', Field / Regenerate
+* '''[[Spirited Charge]]''', Dmg up per buff
+
+=== Hero-Exclusive Arts ===
+* '''[[Max Effort]]''', 1 random buff
+* '''[[Unbreakable Heart]]''', Field / Regenerate
+* '''[[Lightning Passion]]''', Dmg up per buff
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 38.png]] '''Cheer Up, Everyone''':  Restore nearby allies' HP on Art execution. Amount is equal to &lt;abbr title="Playable characters"&gt;30-50%&lt;/abbr&gt;/&lt;abbr title="Fiona"&gt;40-60%&lt;/abbr&gt; of user's Healing.
+* [[File:XC3 Skill Icon 1.png]] '''We Can Do Better''' (Rank 15 Master Skill):  Restores 3-5% of HP when a buff is applied.
+* [[File:XC3 Skill Icon 20.png]] '''I've Got Your Backs''':  Extends duration of buff effects issued by 30-50%.
+* [[File:XC3 Skill Icon 0.png]] '''All About Support''' (Rank 5 Master Skill):  Increases the no. of Field Arts that can be set to the Arts Palette by 1.
+
+=== Hero-Exclusive Skills ===
+* [[File:XC3 Skill Icon 10.png]] '''Brightest Star''': Boosts damage dealt by 20-60% when HP is at 90% or higher.
+
+=== Stat Increases===
+{| class="xc1 centered" style="width:80%;"
+! Class Rank 
+! Cheer Up, Everyone
+! I've Got Your Backs
+! We Can Do Better
+! Brightest Star
+|-
+| 1
+| &lt;abbr title="Playable characters"&gt;30%&lt;/abbr&gt;/&lt;abbr title="Fiona"&gt;40%&lt;/abbr&gt;
+| 30%
+| 3%
+| 20%
+|-
+| 5
+| &lt;abbr title="Playable characters"&gt;35%&lt;/abbr&gt;/&lt;abbr title="Fiona"&gt;45%&lt;/abbr&gt;
+| 35%
+| 3.5%
+| 30%
+|-
+| 10 
+| &lt;abbr title="Playable characters"&gt;40%&lt;/abbr&gt;/&lt;abbr title="Fiona"&gt;50%&lt;/abbr&gt;
+| 40%
+| 4%
+| 40%
+|-
+| 15
+| &lt;abbr title="Playable characters"&gt;45%&lt;/abbr&gt;/&lt;abbr title="Fiona"&gt;55%&lt;/abbr&gt;
+| 45%
+| 4.5%
+| 50%
+|-
+| 20
+| &lt;abbr title="Playable characters"&gt;50%&lt;/abbr&gt;/&lt;abbr title="Fiona"&gt;60%&lt;/abbr&gt;
+| 50%
+| 5%
+| 60%
+|}
+
+== Notes ==
+* Not all buffs can be given with this class. To see a full list of all applicable buffs, see ''[[Status Effect]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Fiona Artwork.png|Fiona, a Signifer
+Signifer Noah.png|Noah as a Signifer
+Signifer Mio.png|Mio as a Signifer
+Signifer Eunie.png|Eunie as a Signifer
+Signifer Taion.png|Taion as a Signifer
+Signifer Lanz.png|Lanz as a Signifer
+Signifer Sena.png|Sena as a Signifer
+XC3 Fiona screenshot 01.jpg
+XC3 Fiona screenshot 02.jpg
+XC3 Fiona screenshot 03.jpg
+XC3 Fiona screenshot 04.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>7x6fjt5n8bw52adgdy0wdpdew984yyo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silent Vang</title>
+    <ns>0</ns>
+    <id>121788</id>
+    <revision>
+      <id>559940</id>
+      <parentid>546883</parentid>
+      <timestamp>2022-09-30T10:57:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559940</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="798" sha1="7x7uqpyrw7wbxc04a5idre5kb0xnbso" xml:space="preserve">{{Infobox Enemy
+|name         = Silent Vang
+|image        = 
+|caption      = Silent Vang
+|category     = Minor Enemy
+|type         = [[Vang]]
+|level        = ?
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Silent Vangs''' are Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level ? at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>7x7uqpyrw7wbxc04a5idre5kb0xnbso</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Anklets</title>
+    <ns>0</ns>
+    <id>119002</id>
+    <revision>
+      <id>592855</id>
+      <parentid>592444</parentid>
+      <timestamp>2023-05-15T20:19:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592855</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="fs5d0jldp34rs9c7txt2gw6nscxk667" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Blowdown resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Anklets
+|image     = XC3 Accessory Boot.png 
+|caption   = Increases Blowdown resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Anklets
+|image     = XC3 Accessory Boot.png 
+|caption   = Increases Blowdown resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>fs5d0jldp34rs9c7txt2gw6nscxk667</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Belt (XC3)</title>
+    <ns>0</ns>
+    <id>119038</id>
+    <revision>
+      <id>592856</id>
+      <parentid>592525</parentid>
+      <timestamp>2023-05-15T20:19:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592856</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1110" sha1="c2cxz09owomgmbkr4seu6p00c75l1ey" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Silver Belt (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. A common Silver Belt can be received from the first wave of the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>c2cxz09owomgmbkr4seu6p00c75l1ey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Braided Belt</title>
+    <ns>0</ns>
+    <id>122612</id>
+    <revision>
+      <id>592857</id>
+      <parentid>592383</parentid>
+      <timestamp>2023-05-15T20:19:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1117" sha1="1np0v662j46ka9ya2ywadfl9ceakdo5" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Braided Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt by 70% when atacking an enemy suffering from Bleed.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Braided Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt by 75% when atacking an enemy suffering from Bleed.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Braided Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt by 80% when atacking an enemy suffering from Bleed.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Braided Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>1np0v662j46ka9ya2ywadfl9ceakdo5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Brooch</title>
+    <ns>0</ns>
+    <id>119003</id>
+    <revision>
+      <id>592858</id>
+      <parentid>592370</parentid>
+      <timestamp>2023-05-15T20:19:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592858</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="997" sha1="lsj6whcbgu2mf5d6iqpw3bcq8eipw2x" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Broochs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>lsj6whcbgu2mf5d6iqpw3bcq8eipw2x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Choker</title>
+    <ns>0</ns>
+    <id>122642</id>
+    <revision>
+      <id>566943</id>
+      <parentid>551699</parentid>
+      <timestamp>2022-11-23T11:23:25Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566943</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="991" sha1="gqxx0lafpbknbkalal6m8357hezkkai" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Choker
+|image     = File:XC3 Accessory Ring.png
+|caption   = Increases Smash resistance by 35 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,200 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Choker
+|image     = File:XC3 Accessory Ring.png 
+|caption   = Increases Smash resistance by 40 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,200 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Choker
+|image     = File:XC3 Accessory Ring.png 
+|caption   = Increases Smash resistance by 45 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,200 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>gqxx0lafpbknbkalal6m8357hezkkai</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Earrings (XC3)</title>
+    <ns>0</ns>
+    <id>122625</id>
+    <revision>
+      <id>592859</id>
+      <parentid>592568</parentid>
+      <timestamp>2023-05-15T20:19:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592859</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1094" sha1="1anm1w5n27ljq20xfn217v5niejliid" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Silver Earrings (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Earrings
+|image     = XC3 Accessory Ring.png
+|caption   = Fills Chain Attack gauge slightly on critical hit.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Earrings
+|image     = XC3 Accessory Ring.png
+|caption   = Fills Chain Attack gauge slightly on critical hit.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Earrings
+|image     = XC3 Accessory Ring.png
+|caption   = Fills Chain Attack gauge slightly on critical hit.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Earrings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>1anm1w5n27ljq20xfn217v5niejliid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Feather (XC3)</title>
+    <ns>0</ns>
+    <id>119004</id>
+    <revision>
+      <id>592860</id>
+      <parentid>592558</parentid>
+      <timestamp>2023-05-15T20:19:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592860</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1274" sha1="c1tozw2e77kfq5ihhrfxokyvadabeid" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Silver Feather (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second (Medium effect.)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second (Medium effect.)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second (Medium effect.)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Feathers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. It is dropped by the [[Unique Monster (XC3)|Unique Monster]] [[Ambusher Tirion]], and can be bought from [[Colony Tau Commissary]] and [[Old Way Caravan]], along with getting them from the open-world. 
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>c1tozw2e77kfq5ihhrfxokyvadabeid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Gauntlet</title>
+    <ns>0</ns>
+    <id>124396</id>
+    <revision>
+      <id>576995</id>
+      <parentid>566886</parentid>
+      <timestamp>2023-02-15T21:23:33Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>remove needs an infobox image category</comment>
+      <origin>576995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" sha1="nza6a8ck0yk2bzvy7sjaccbvggxp0t5" xml:space="preserve">{{Infobox item
+|name      = Silver Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Silver Gauntlets''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>nza6a8ck0yk2bzvy7sjaccbvggxp0t5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Silver Necklace</title>
+    <ns>0</ns>
+    <id>119005</id>
+    <revision>
+      <id>592862</id>
+      <parentid>592403</parentid>
+      <timestamp>2023-05-15T20:19:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1195" sha1="6a6fhygx1c5cgp38l8i3td9uzpcuilm" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Silver Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Reduces aggro generated from auto-attacks by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Silver Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Reduces aggro generated from auto-attacks by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Silver Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Reduces aggro generated from auto-attacks by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Silver Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be purchased at the [[Colony 9 Commissary]], they are one of the items that can be used to complete the mission ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>6a6fhygx1c5cgp38l8i3td9uzpcuilm</sha1>
+    </revision>
+  </page>
+  </mediawiki>

@@ -1,0 +1,6 @@
+Art Name: Group Heal
+
+Class: Medic Gunner
+
+Effect: AOE / Heal
+

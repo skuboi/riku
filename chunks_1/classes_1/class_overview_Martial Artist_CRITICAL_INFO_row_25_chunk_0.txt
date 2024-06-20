@@ -1,0 +1,25 @@
+Parent Category: Class (Weapon)
+
+Title: Martial Artist
+
+Overview: Martial Artist is the class of [[Ghondor]], who wields the Turbo Cestus as her [[Blade (XC3)|Blade]]. The class focuses on pounding enemies into dust with a torrent of blows.  
+
+It is unlocked shortly after starting [[Chapter 6 (XC3)|Chapter 6]]. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the [[Hero Quest|Ascension Quest]] ''[[Knowing Your Family]]''.
+{{clr}}
+
+Arts: {'Raging Force (Talent Art)': 'Deplete Arts: Boost dmg',
+'Detonating Hit': 'Side Daze',
+'Focus': 'Fast charge/Auto-atk spd+',
+'Jackal Claw': 'High Crit. Rate/Evade',
+'Impulse Wave':  'AOE / Dmg+ per enemy',
+'Destructive Charge': 'Front atk ↑ / Blowdown'}
+
+Class Skills: {'Storm and Stress': 'Each time you perform a cancel, boosts damage dealt by 10-20% (to a maximum of 150%).',
+ 'Frenzied Combo': 'On critical hit, recharge Art used by 20-30%. (Rank 15 Master Skill)',
+'Flashing Punch': 'Chained auto-attacks increase attack speed. Auto-attack interval is also shortened.',
+'Feline Righting Reflex': 'Ignore Blowdown and Launch by somersaulting. Also has 60-100% chance to grant Attack Up. (Rank 5 Master Skill)'}
+
+Hero Exclusive Arts: {'Hyper Dropkick': 'Front atk ↑ / Blowdown',
+'Comet Punch': 'AOE/High Crit. Rate/Evade',
+'Rampaging Fists': 'Dmg up per enemy'}
+

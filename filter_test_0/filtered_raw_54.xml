@@ -1,0 +1,2051 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q</title>
+    <ns>0</ns>
+    <id>119195</id>
+    <revision>
+      <id>586532</id>
+      <parentid>585463</parentid>
+      <timestamp>2023-04-28T22:35:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>586532</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3728" sha1="mog25g71pp0vvjnyvu829ekj72zxyh1" xml:space="preserve">{{For|the [[Consul]] in {{XC3FR|sublink}}|Q (FR)}}{{spoiler}}
+{{Infobox Character
+|name          = Q
+|image         = Consul Q.png
+|species       = [[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = 
+|eyecolor      = 
+|affiliation   = [[Consul]]s
+|appearances   = {{XC3}}
+|voiceactorjp  = 
+|voiceactoreng = 
+}}
+'''Q''' is a character in {{XC3}}.
+
+== Overview ==
+Q is the [[Consul]] of [[Colony 30]].
+
+== Story ==
+Q first appears when his colony's commander, [[Valdi]], fails to report to him and work on the [[Ferronis]]. He introduces himself to the party but is not interested in fighting them at the time. Q instead coerces Valdi to continue working on the [[Levnis]]es. Q is initially satisfied with Valdi's cooperation, but upon realizing the mechanic meant to sabotage the project, he attacks him. Q begins piloting the [[Incomplete Siege-Lev]], and fights the party. He seemingly dies after the Levnis gets destroyed.
+
+He is revealed to have survived during ''[[Inescapable Past]]'' and attempts to sabotage an alliance between Colony 30 and [[Colony Iota]], and having learned of her past from [[E]] he seeks to kill her as she killed her previous commander. The party confronts him and defeats him, this time for good. 
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius Q
+|image        = Moebius Q.png
+|caption      = Moebius Q
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 59
+|area         = [[Rae-Bel Tableland]] ([[Old Kana Battlefield]])
+|spawntime    = During ''[[Inescapable Past]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 4,032
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 2,530,800
+|strength     = 1,135
+|healing      = 374
+|dexterity    = 244
+|agility      = 193
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius Q''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is a Moebius fought at level 59 at [[Old Kana Battlefield]] in [[Rae-Bel Tableland]] during ''[[Inescapable Past]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 75%
+|etherdebuff = 90%
+}}
+{{clr}}
+
+=== Archsage's Gauntlet ===
+{{Infobox XC3 Enemy
+|name         = Moebius Q
+|image        = Moebius Q Archsage's Gauntlet.jpg
+|caption      = Moebius Q
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Moebius]]
+|level        = 96-146
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+Moebius Q can appear occasionally during the "Moebius Interference" event as a Minor Enemy in the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''. He can appear at levels from 96 to 146 on certain stages.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Consuls Q and F.jpg|Consul and Moebius Q concept artwork
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>mog25g71pp0vvjnyvu829ekj72zxyh1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Quadwing</title>
+    <ns>0</ns>
+    <id>5937</id>
+    <revision>
+      <id>602088</id>
+      <parentid>600798</parentid>
+      <timestamp>2023-07-22T12:26:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{TTGC|-}} */</comment>
+      <origin>602088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3474" sha1="hjbo77ytdb24ejoi07p653y8p7yf7ee" xml:space="preserve">[[File:Coppice quadwing.png|thumb|A Coppice Quadwing]]
+'''Quadwings''' (Japanese: {{lang|ja|&#12463;&#12525;&#12540;&#12489;}}, ''Kur&#333;do'') are an enemy family in the {{XC|serieslink}}. They are flying owl-like enemies with four wings (hence the name; ''quad'' being Latin for ''four'').
+
+Quadwings come in three colour variations, separated by habitat.
+
+== {{XC|-}} ==
+In {{XC}}, Quadwings can be found in [[Satorl Marsh]], [[Makna Forest]], and [[Tephra Cave]], and their coloration varies with the area: blue and white in Satorl Marsh, brown and tan in Makna Forest, and grey and white in Tephra Cave. The strongest Quadwings are Rhoen Quadwings at level 92 in Tephra Cave.
+
+=== Normal Minor Enemies ===
+* [[Coppice Quadwing]]
+* [[Grove Quadwing]]
+* [[Jungle Quadwing]]
+* [[Rhoen Quadwing (XC1)|Rhoen Quadwing]]
+
+=== Unique Monsters ===
+* [[Elder Gragus]]
+* [[Stormy Widardun]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Coppice Quadwing]]
+* [[Grove Quadwing]]
+* [[Jungle Quadwing]]
+
+=== Unique Monster ===
+* [[Confluent Uzva]]
+
+== {{XC2|-}} ==
+In {{XC2}}, Quadwings can be found in the [[Gormott Province]]. Daytime Quadwings are usually found perched, whereas nighttime Quadwings fly around.
+
+=== Normal Minor Enemies ===
+* [[Avys Quadwing]]
+* [[Huust Quadwing]]
+* [[Jang Quadwing]]
+* [[Night Avys Quadwing]]
+* [[Night Huust Quadwing]]
+* [[Night Ruga Quadwing]]
+* [[Ruga Quadwing (XC2)|Ruga Quadwing]]
+
+=== Quest Exclusive Enemy ===
+* [[Gegl Quadwing (XC2)|Gegl Quadwing]] (during ''[[Stolen Keepsake]]'')
+
+=== Challenge Battle Mode Enemy ===
+* [[Moordre Quadwing]]
+
+== {{TTGC|-}} ==
+In {{TTGC}}, only brown Quadwings can be found in the [[Kingdom of Torna]] and [[Gormott (TTGC)|Gormott]].
+=== Normal Minor Enemies ===
+* [[Bohn Quadwing]]
+* [[Highbohn Quadwing]]
+* [[Highscreeb Quadwing]]
+* [[Magra Quadwing]]
+* [[Nereus Quadwing]]
+* [[Night Magra Quadwing]]
+* [[Scribo Quadwing]]
+
+=== Unique Monster ===
+* [[Everdark Erg]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Gegl Quadwing (XC3)|Gegl Quadwing]]
+* [[Nahtei Quadwing]]
+* [[Rhoen Quadwing (XC3)|Rhoen Quadwing]]
+* [[Ruga Quadwing (XC3)|Ruga Quadwing]]
+* [[Sotorig Quadwing]]
+* [[Wizda Quadwing]]
+
+=== Quest Exclusive Enemies ===
+* [[Alaat Quadwing]] (During ''[[Learning from Lambda]]'')
+* [[Hungry Quadwing]]
+
+=== Unique Monster ===
+* [[Profound Hodzuki]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Ruga Quadwing (XC3)|Ruga Quadwing]]
+
+=== Quest Exclusive Bosses ===
+* [[Strano Quadwing]] (During ''[[Takedown: Quadwings]]'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Grove Quadwing.jpg|A Quadwing from Satorl Marsh
+Jungle Quadwing.jpg|A Quadwing from Makna Forest
+Rhoen Quadwing.jpg|A Quadwing from Tephra Cave
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+GeglQuadwing.jpg
+NightHuustQuadwing.jpg
+RugaQuadwing.jpg
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+EverdarkErg.jpg
+Magraquadwing.jpg
+&lt;/gallery&gt;
+
+[[Category:Bionis Life]]
+[[Category:XC Species]]
+[[Category:Flying Enemies]]
+[[Category:XC Quadwings]]
+[[Category:Species Category]]
+[[Category:Sight Category]]
+[[Category:XCFC Species]]
+[[Category:XCFC Quadwings]]
+[[Category:XC2 Species]]
+[[Category:XC2 Quadwings]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Quadwings]]
+[[Category:TTGC Species]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Quadwings]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Quadwings]]
+[[Category:Species by Type]]</text>
+      <sha1>hjbo77ytdb24ejoi07p653y8p7yf7ee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Quantum Scarf (XC3)</title>
+    <ns>0</ns>
+    <id>119037</id>
+    <revision>
+      <id>592834</id>
+      <parentid>592572</parentid>
+      <timestamp>2023-05-15T20:18:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1032" sha1="btp00kv94yes9m7gxwo7t2hxdqazazy" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Quantum Scarf (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Quantum Scarf
+|image     = XC3 Accessory Choker.png
+|caption   = Extends Break duration by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Quantum Scarf
+|image     = XC3 Accessory Choker.png
+|caption   = Extends Break duration by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Quantum Scarf
+|image     = XC3 Accessory Choker.png
+|caption   = Extends Break duration by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Quantum Scarves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>btp00kv94yes9m7gxwo7t2hxdqazazy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Quardun</title>
+    <ns>0</ns>
+    <id>119084</id>
+    <revision>
+      <id>602089</id>
+      <parentid>600799</parentid>
+      <timestamp>2023-07-22T12:26:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Normal Minor Enemy */</comment>
+      <origin>602089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="9valif48y8uwr52fvflfqyp84pv0oxz" xml:space="preserve">'''Quarduns''' are a family of aquatic enemies in {{XC3}} and {{XC3FR|sublink}}. They are very similar to [[Quarmu]]s.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Codon Quardun]]
+* [[Dudan Quardun]]
+* [[Lubon Quardun]]
+* [[Mammon Quardun]]
+
+=== Unique Monster ===
+* [[Saberly Doramp&#233;]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Codon Quardun]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Quarduns]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Quarduns]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Quarduns]]
+[[Category:Species by Type]]</text>
+      <sha1>9valif48y8uwr52fvflfqyp84pv0oxz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Quarmu</title>
+    <ns>0</ns>
+    <id>118618</id>
+    <revision>
+      <id>602090</id>
+      <parentid>600800</parentid>
+      <timestamp>2023-07-22T12:26:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Normal Minor Enemy */</comment>
+      <origin>602090</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="603" sha1="i18llj0hfobyer9327iqvkkbg9ri6ve" xml:space="preserve">'''Quarmus''' are a family of aquatic enemies in {{XC3}} and {{XC3FR|sublink}}. They are very similar to [[Quardun]]s.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Codon Quarmu]]
+* [[Dudan Quarmu]]
+* [[Lubon Quarmu]]
+* [[Mammon Quarmu]]
+
+=== Unique Monsters ===
+* [[Stately Doramma]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Codon Quarmu]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Quarmus]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Quarmus]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Quarmus]]
+[[Category:Species by Type]]</text>
+      <sha1>i18llj0hfobyer9327iqvkkbg9ri6ve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Queen's Guard Captain</title>
+    <ns>0</ns>
+    <id>124430</id>
+    <revision>
+      <id>596171</id>
+      <parentid>580637</parentid>
+      <timestamp>2023-06-16T20:24:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1106" sha1="2kbhbefmwvr2wzbddh2y8c5cpseeiba" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Queen's Guard Captain
+|image        =  
+|caption      = Queen's Guard Captain
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|type         = [[Keves Forces]]
+|level        = 42-45
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Black Castle Chosen]]''
+|respawn      = No
+|movement     = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Queen's Guard Captain''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]] in {{XC3}}. They are a [[Keves Forces|Keves Soldier]] fought three times during the [[Challenge Battle Mode|Challenge Battle]] ''[[Black Castle Chosen]]'', first at level 42, then at level 43, and lastly at level 45.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>2kbhbefmwvr2wzbddh2y8c5cpseeiba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Queen Arachno (XC3)</title>
+    <ns>0</ns>
+    <id>117498</id>
+    <revision>
+      <id>596019</id>
+      <parentid>584111</parentid>
+      <timestamp>2023-06-16T19:49:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>596019</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1187" sha1="nz6qvathdge6sd9lfiv84iwldfh3y92" xml:space="preserve">{{for|similar enemies in other games|Queen Arachno}}
+{{Infobox XC3 Enemy
+|name         = Queen Arachno
+|image        = Queen Arachno (XC3).jpg
+|caption      = Queen Arachno
+|category     = Normal Minor Enemy
+|type         = [[Arachno]]
+|level        = 25
+|area         = [[Urayan Tunnels]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Queen Arachnos''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Arachno]] family, and can be found at level 25 east of [[Raucous Ron]] in the [[Urayan Tunnels]].
+
+== Drops ==
+* [[Arachno Queen Egg]]
+* [[Gold Arachno Queensilk]]
+{{clr}}
+
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Arachnos]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>nz6qvathdge6sd9lfiv84iwldfh3y92</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Queen of Agnus (boss)</title>
+    <ns>0</ns>
+    <id>125683</id>
+    <revision>
+      <id>599669</id>
+      <parentid>596096</parentid>
+      <timestamp>2023-07-15T00:02:35Z</timestamp>
+      <contributor>
+        <username>Hiromichi</username>
+        <id>1471931</id>
+      </contributor>
+      <comment>/* Trivia */</comment>
+      <origin>599669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2791" sha1="atedejtuvn1q4lbq838ixwu4rl284l0" xml:space="preserve">{{for|the character|Queen of Agnus}}
+{{spoiler}}
+{{Infobox XC3 Enemy
+|name         = Queen of Agnus
+|image        = Queen of Agnus Boss.jpg
+|caption      = Queen of Agnus
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 50
+|area         = [[Agnus Castle Region]] ([[Ascension Grounds]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Air
+|detection    = 
+|exp          = 3920
+|cp           = 500
+|hp           = 1,886,400
+|strength     = 1004
+|healing      = 321
+|dexterity    = 211
+|agility      = 122
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 0%
+|guardrate-front   = 10%
+|guardrate-side    = 10%
+|guardrate-back    = 0%
+}}
+The '''Queen of Agnus''' is a [[Boss (XC3)|Boss]] in {{XC3}}. She is part of the [[Agnus Forces]], and is fought at level 50 on the [[Ascension Grounds]] in the [[Agnus Castle Region]]. She pilots a small [[Ferronis]] throne in battle.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = 90%
+}}
+{{clr}}
+
+== Quotes ==
+=== Boss ===
+*''"Cease your useless resistance."''
+*''"You cannot hope to defeat me."''
+*''"Just desserts for those who oppose the world."''
+*''"Ether supply: powering laser."''
+*''"Eyesore!"''
+*''"Make your peace."''
+*''"Rise if you like, it matters not."''
+*''"Ouroboros! You have no right to exist."''
+*''"You will be cleansed."''
+*''"Firing missiles!"''
+*''"Purge the rebels!"''
+*''"How brittle, these impudent beings."''
+
+== Trivia ==
+* The false Queen's voice effect changes for each of the three times she speaks in-game. When first appearing in Chapter 2, she has a slight filter effect due to her mask similar to her Kevesi counterpart; when giving her speech in Chapter 5, she has no voice effects and sounds identical to her template; and during her boss battle with her Ferronis activated, her voice has a heavy metallic echo and reverb.
+* The false Queen uses the same model as Nia in all instances outside of battle. As such, hacking to remove her mask only reveals Nia's face.
+* There is no way for the player to get a Hero to fight alongside them for the Boss Battle against the false Queen.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Nia XC3 Sprite.png|Official Artwork of the Queen of Agnus
+XC3 Nia Concept Art.png|Fake and Real Queen concept artwork
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+QOA Homecoming.PNG|The Queen of Agnus at a Homecoming Ceremony
+&lt;/gallery&gt;
+{{xc3 stub}}
+
+{{XC3CharNav}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Agnus Castle Region Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]</text>
+      <sha1>atedejtuvn1q4lbq838ixwu4rl284l0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Queen of Keves (boss)</title>
+    <ns>0</ns>
+    <id>125682</id>
+    <revision>
+      <id>596170</id>
+      <parentid>595842</parentid>
+      <timestamp>2023-06-16T20:24:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Screenshots */cat.</comment>
+      <origin>596170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6504" sha1="njihnx9mwfgadfhmf0ym32vq1tf9ryd" xml:space="preserve">{{for|the character|Queen of Keves}}
+{{spoiler}}
+{{Infobox XC3 Enemy
+|name         = Queen of Keves
+|image        = XC3 Queen of Keves battle.PNG
+|caption      = Queen of Keves
+|category     = Boss
+|type         = [[Keves Forces]]
+|level        = 43
+|area         = [[Keves Castle]] ([[Throne Room (XC3)|Throne Room]])
+|spawntime    = Anytime
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 3,080
+|cp           = 140
+|sp           = 0
+|gold         = 0
+|hp           = 1,135,350
+|strength     = 837
+|healing      = 279
+|dexterity    = 172
+|agility      = 135
+|physdef      = -10%
+|ethdef       = 40%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+The '''Queen of Keves''' is a [[Boss (XC3)|Boss]] in {{XC3}}. She is part of the [[Keves Forces]] and is fought at level 43 in the [[Throne Room (XC3)|Throne Room]] of [[Keves Castle]]. 
+
+== Battle ==
+=== Resistances ===
+{{XC3 Resistances
+|break       = 65%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts Arts recharge speed by 100%.
+|}
+{{Clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''Auto-Attack'''
+|Ether
+|One Target
+|1
+|100%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Elemental Wind'''
+|Ether
+|One Target
+|1
+|330%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Negates enemy guard; inflicts [[Break (XC3)|Break]] if guard is attempted.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Elemental Earth'''
+|Ether
+|One Target
+|1
+|220%
+|[[Toxin]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+*Damage from Toxin is boosted by 300%.
+|Anytime
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Elemental Flare'''
+|Ether
+|Frontward AOE
+|3
+|525%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+*Damage from Blaze is boosted by 100%.
+*Each hit can only damage a single target in range.
+|When reduced to 80% HP
+|- &lt;!-- Arts Slot 3 &amp; 5 --&gt;
+|rowspan="2"|'''Mind Blast'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|rowspan="2"|1
+|220%
+|rowspan="2"|[[Shackle Arts]]
+|rowspan="2" style="text-align:left;"|
+*Accuracy is boosted by 100%.
+*Immune to Knockback and Blowdown during Art.
+|When reduced to between 25% and 50% HP
+|-
+|210%
+|When reduced to 25% HP
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Ether Protection'''
+|Defense
+|Self
+| -
+| -
+| [[Invincible (XC3)|Invincible]]
+|style="text-align:left;"|
+*Battle in gameplay ends shortly after Art is used, transitioning into a cutscene.
+|When reduced to 1% HP
+|}
+=== Notes ===
+*The Queen of Keves's health cannot be completely depleted; at the first possible opportunity after meeting the use condition, she will cast Ether Protection.
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Queen of Keves
+|image        = 
+|caption      = Queen of Keves
+|type         = [[Keves Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 130
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 69,623,400
+|strength     = 11,591
+|healing      = 22,055
+|dexterity    = 688
+|agility      = 509
+|physdef      = -10%
+|ethdef       = 40%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+The Queen of Keves is fought at level 130 alongside [[Crys#Challenge Battle Mode|Consul Crys]] at Stage 120 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+=== Skills ===
+The Queen of Keves has the following skill:
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+{{XC3 Resistances
+|break       = 95%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 90%
+|etherdebuff = Immune
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Arts recharge speed by 50%.
+|}
+=== Arts ===
+The Queen of Keves's Arts set in the Archsage's Gauntlet is a subset of those used in the story boss fight; she uses all Arts except for Ether Protection and the weaker version of Mind Blast.
+
+Additionally, her AI can use Elemental Wind, Elemental Earth and Elemental Flare at any time, while Mind Blast starts being used if any of the following conditions are met:
+*The Queen of Keves is enraged.
+*Consul Crys is defeated.
+*120 seconds elapse since the start of the stage.
+{{Clr}}
+
+== Quotes ==
+=== Boss === 
+*''"Engulf all within your path!"''
+*''"Flames, consume!"''
+*''"You imperil this world."''
+*''"I grant no reprieve."''
+*''"Try all you like."''
+*''"May the earth swallow you!"''
+*''"This grieves me."''
+*''"I had expected more from you."''
+*''"How fruitless your endeavors."''
+*''"I, Melia Antiqua, shall face you in mortal combat!"''
+*''"It won't work."''
+*''"O wind, rend them asunder."''
+*''"My ether brims -- thus marking your imminent demise."''
+*''"Victory is ours."''
+*''"Ouroboros!"''
+
+== Trivia == 
+* Some of the attacks used by the Queen of Keves are [[Battle Arts (XC1)|arts]] used by Melia in {{XC}}. When the real Melia joins the party as a [[Hero]], she lacks some of these Arts, such as [[Mind Blast]] and [[Summon Wind|Wind]] Elemental; however, she also has Arts that her copy cannot use such as [[Starlight Kick (XC1)|Starlight Kick]] and the [[Summon Aqua|Aqua]] Elemental.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Melia XC3 Sprite.png|Official Artwork of the Queen of Keves
+XC3 Melia Concept Art.png|Fake and Real Queen concept artwork
+&lt;/gallery&gt;
+=== Screenshots ===
+&lt;gallery&gt;
+QOK Homecoming.PNG|The Queen of Keves at a Homecoming Ceremony
+&lt;/gallery&gt;
+{{xc3 stub}}
+
+{{XC3CharNav}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>njihnx9mwfgadfhmf0ym32vq1tf9ryd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Quest Enemy (XC3)</title>
+    <ns>0</ns>
+    <id>118138</id>
+    <revision>
+      <id>534067</id>
+      <timestamp>2022-07-11T19:50:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>Created page with "{{for|other uses|Quest Enemy}} {{Spoiler}} '''Quest Enemies''' are special [[Enemy (XC3)|enemies]] in {{XC3}}. {{clr}}  {{xc3 stub}} [[Category:XC3 Enemies]] [[Category:XC3 Quest Enemies]] [[Category:XC3 Quests]]"</comment>
+      <origin>534067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="5axu21272y10qbd9h6n8oedrc710ohy" xml:space="preserve">{{for|other uses|Quest Enemy}}
+{{Spoiler}}
+'''Quest Enemies''' are special [[Enemy (XC3)|enemies]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Quests]]</text>
+      <sha1>5axu21272y10qbd9h6n8oedrc710ohy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Quest Exclusive Enemy (XC3)</title>
+    <ns>0</ns>
+    <id>118137</id>
+    <revision>
+      <id>554921</id>
+      <parentid>534066</parentid>
+      <timestamp>2022-09-06T18:36:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>554921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="36bv20konhtwo0sxjztlayihi8a37ad" xml:space="preserve">{{for|other uses|Quest Exclusive Enemy}}
+{{Spoiler}}
+'''Quest Exclusive Enemies''' are special [[Enemy (XC3)|enemies]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Quests]]</text>
+      <sha1>36bv20konhtwo0sxjztlayihi8a37ad</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Qutorl Pippito</title>
+    <ns>0</ns>
+    <id>121018</id>
+    <revision>
+      <id>573732</id>
+      <parentid>559881</parentid>
+      <timestamp>2023-01-24T03:03:29Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="841" sha1="6sgb0nq7ihd9t3d2o5b02fschffbabe" xml:space="preserve">{{Infobox Enemy
+|name         = Qutorl Pippito
+|image        = 
+|caption      = Qutorl Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = 42
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Qutorl Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level 42 at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6sgb0nq7ihd9t3d2o5b02fschffbabe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>R</title>
+    <ns>0</ns>
+    <id>118633</id>
+    <revision>
+      <id>598313</id>
+      <parentid>575822</parentid>
+      <timestamp>2023-07-05T01:03:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>598313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3621" sha1="toj5fpyeg6oos9ubl3jtm6rlz0jd0ac" xml:space="preserve">{{For|the [[Consul]] in {{XC3FR|sublink}}|R (FR)}} 
+{{spoiler}}
+{{Infobox Character
+|name          = R
+|image         = Consul_R.jpg 
+|species       = [[Moebius]]
+|age           = 
+|gender        = Female
+|haircolor     = 
+|eyecolor      = 
+|affiliation   = [[Consul]]s
+|appearances   = {{XC3}}
+|voiceactorjp  = [[wikipedia:Sayaka Kinoshita|Sayaka Kinoshita]] 
+|voiceactoreng = [https://www.imdb.com/name/nm0499014/ Laurel Lefkow]
+}}
+'''R''' is a character in {{XC3}}.
+
+== Overview ==
+R is the [[Consul]] of [[Colony 11]]. She first makes an appearance commenting on [[Joran|J]]. She is later defeated by [[Ashera]] and [[Ouroboros]] in Colony 11, but is spared, and makes her escape, vowing to take revenge.
+
+Later, she launches an assault on the colony with zombified puppet soldiers from both Keves and Agnus, with the help of Consul [[W]]'s powers. After pushing Ashera, Ouroboros, and her commanders back to the colony gates, she challenges Ashera to a duel at [[Hovering Reef 0]], before calling off her attack.
+{{clr}}
+
+== Story ==
+At some point, despite being in charge of Colony 11, R is in control of an [[Agnus|Agnian]] [[Colony|colony]] where they fought against Consul [[V]]'s Kelvesi Colony, only to lose to them causing the Consul to berate her Agnian soldiers to be useless pawns.
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius R
+|image        = Moebius_R.jpg 
+|caption      = Moebius R
+|type         = [[Moebius]]
+
+|tab1         = Colony 11
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level        = 38
+|area         = [[Syra Hovering Reefs]] ([[Colony 11]])
+|spawntime    = During ''[[The Wrath of Ashera]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 1,984
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 698,250
+|strength     = 792
+|healing      = 249
+|dexterity    = 128
+|agility      = 132
+|physdef      = -30%
+|ethdef       = 30%
+|critrate     = 0%
+|guardrate    = 0%
+
+|tab2         = Hovering Reef 0
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 65
+|area2        = [[Syra Hovering Reefs]] ([[Hovering Reef 0]])
+|spawntime2   = During ''[[A Deep-Seated Scar]]''
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|exp2         = 4,800
+|cp2          = 400
+|sp2          = 0
+|gold2        = 0
+|hp2          = 2,025,000
+|strength2    = 974
+|healing2     = 409
+|dexterity2   = 224
+|agility2     = 222
+|physdef2     = -30%
+|ethdef2      = 30%
+|critrate2    = 0%
+|guardrate2   = 0%
+}}
+'''Moebius R''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and is fought at level 38 in [[Colony 11]] at [[Syra Hovering Reefs]] during ''[[The Wrath of Ashera]]''. She is fought again alongside [[W#Battle|Moebius W]] during ''[[A Deep-Seated Scar]]'' at level 65 on [[Hovering Reef 0]] at [[Syra Hovering Reefs]].
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 40%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Consuls G R and U.jpg|Consul R Artwork
+XC3-Consul R.png|Solo artwork of Consul R
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>toj5fpyeg6oos9ubl3jtm6rlz0jd0ac</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rabdar Ansel</title>
+    <ns>0</ns>
+    <id>121125</id>
+    <revision>
+      <id>559882</id>
+      <parentid>545453</parentid>
+      <timestamp>2022-09-30T10:55:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559882</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="794" sha1="jb4ptgpwyls48ipntbrr2kp51v3dy3p" xml:space="preserve">{{Infobox Enemy
+|name         = Rabdar Ansel
+|image        = 
+|caption      = Rabdar Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rabdar Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>jb4ptgpwyls48ipntbrr2kp51v3dy3p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rabdar Rhogul</title>
+    <ns>0</ns>
+    <id>121165</id>
+    <revision>
+      <id>595987</id>
+      <parentid>580823</parentid>
+      <timestamp>2023-06-16T18:54:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595987</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1289" sha1="7x196i32w4nqdoo01xw1jr3pairisdl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rabdar Rhogul
+|image        = Rabdar Rhogul Elite Monster.png
+|caption      = Rabdar Rhogul
+|category     = Minor Enemy
+|type         = [[Rhogul]]
+|level        = 25-28
+|area         = [[Great Cotte Falls]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = Sight
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rabdar Rhoguls''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Rhogul]] family, and can be found at level 25-28 at [[Great Cotte Falls]] in the [[Pentelas Region]]. There's one Rabdar Rhogul [[Elite Monster]] found at near [[Urayan Tunnels]], standing in a nest, where the one [[Cozy Rhogul Egggems]] is found during and after ''[[Happiness]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Rhoguls]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>7x196i32w4nqdoo01xw1jr3pairisdl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rabejan Darbus</title>
+    <ns>0</ns>
+    <id>123217</id>
+    <revision>
+      <id>595988</id>
+      <parentid>584303</parentid>
+      <timestamp>2023-06-16T18:55:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3838" sha1="mk5a15hesmsonzptts83zmu7zjnzkwm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rabejan Darbus
+|image        = 
+|caption      = Rabejan Darbus
+|category     = Minor Enemy
+|type         = [[Darbus]]
+|level        = 76
+|area         = [[Erythia Sea]] ([[Daedal Isle]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rabejan Darbuses''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Darbus]] family, and can be found at level 76 on [[Daedal Isle]] in [[Erythia Sea]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Rabejan Darbus
+|image        = 
+|caption      = Rabejan Darbus
+|type         = [[Darbus]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 40
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Beginner]]''
+|respawn      = No
+|hp           = 597,240
+|strength     = 721
+|healing      = 456
+|dexterity    = 159
+|agility      = 122
+|physdef      = 25%
+|ethdef       = -5%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+The '''Rabejan Darbus''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 40 at Stage 30 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Beginner]]''.
+==== Skills ====
+The Rabejan Darbus has the following skills:
+*Deals 10% less damage but takes 30% less damage.
+*Boosts Art recharge speed by 25%.
+==== Resistances ====
+{{XC3 Resistances
+|break = 70%
+|topple = 0%
+|daze = 0%
+|burst = 0%
+|launch = 0%
+|smash = 0%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 70%
+|etherdebuff = 70%
+}}
+==== Enraged ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+==== Arts ====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|2
+|250%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Compressive Shock'''
+|Physical
+|One Target
+|1
+|400%
+|[[Shackle Blocking]]
+|style="text-align:left;"|
+*Accuracy is boosted by 100%.
+*Critical Rate is boosted by 50%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Tail Flip'''
+|Physical
+|Frontward AOE
+|1
+|200%
+|Blowdown
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Howl of Rage'''
+|Buff
+|Self
+| -
+| -
+|[[Awakening (XC3)|Awakening]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Gaia Crash'''
+|Physical
+|AOE around User
+|1
+|225%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to all reactions during Art.
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Brutal Cannon'''
+|Ether
+|Frontward AOE
+|1
+|300%
+|[[Ether Defense Down (XC3)|Ether Defense Down]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|}
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Darbuses]]
+[[Category:XC3FR Darbuses]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3FR Level 51-55 Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>mk5a15hesmsonzptts83zmu7zjnzkwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Radiant Artificer</title>
+    <ns>0</ns>
+    <id>125658</id>
+    <revision>
+      <id>591895</id>
+      <parentid>581006</parentid>
+      <timestamp>2023-05-14T14:36:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="m0672m2kz1kmtsqfnut0o5f8pc9ebp0" xml:space="preserve">{{Infobox battle art
+|name        = Radiant Artificer
+|image       = Masha Chain Attack Render.png
+|who         = [[Masha]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = 
+|duration    = 
+|recharge    = 
+}}
+'''Radiant Artificer''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Masha]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>m0672m2kz1kmtsqfnut0o5f8pc9ebp0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Radiant Cascade</title>
+    <ns>0</ns>
+    <id>119731</id>
+    <revision>
+      <id>591898</id>
+      <parentid>581007</parentid>
+      <timestamp>2023-05-14T14:36:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591898</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="572" sha1="bxawtxlk4de1s99m47829ncpaklqv9o" xml:space="preserve">{{Infobox battle art
+|name        = Radiant Cascade
+|image       = Strm_order_thumb026_0.png 
+|who         = [[Juniper]]
+|class       = 
+|attribute   = ?
+|target      = 
+|distance    = 
+|numhits     = ?
+|power       = ? &#8211; ?
+|aggro       = 
+|knockback   = 
+|effect      = During Chain Attack, boosts damage dealt to low HP enemies by 90%.
+|duration    = 
+|recharge    = 
+}}
+'''Radiant Cascade''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Juniper]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{Xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>bxawtxlk4de1s99m47829ncpaklqv9o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rafale Vollgull</title>
+    <ns>0</ns>
+    <id>121889</id>
+    <revision>
+      <id>581612</id>
+      <parentid>559885</parentid>
+      <timestamp>2023-04-05T18:46:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581612</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="872" sha1="go5g18303xneljdsl68vomq8pglhw93" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rafale Vollgull
+|image        = 
+|caption      = Rafale Vollgull
+|category     = Minor Enemy
+|type         = [[Vollgull]]
+|level        = 50-51
+|area         = [[Agnus Castle Barbican]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rafale Vollgulls''' are Minor Enemies in {{XC3}}. They are members of the [[Vollgull]] family, and can be found at level 50-51 at [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Vollgulls]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>go5g18303xneljdsl68vomq8pglhw93</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Raflas Blant (XC3)</title>
+    <ns>0</ns>
+    <id>121044</id>
+    <revision>
+      <id>559886</id>
+      <parentid>557906</parentid>
+      <timestamp>2022-09-30T10:55:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="838" sha1="5fvyle4vg6d75ouhefkjwd8hwwz8197" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Raflas Blant (XC2)}}
+{{Infobox Enemy
+|name         = Raflas Blant
+|image        = 
+|caption      = Raflas Blant
+|category     = Minor Enemy
+|type         = [[Blant]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Raflas Blants''' are Minor Enemies in {{XC3}}. They are members of the [[Blant]] family, and can be found at level ? at [[Captocorn Peak]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Blants]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>5fvyle4vg6d75ouhefkjwd8hwwz8197</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rage Amulet</title>
+    <ns>0</ns>
+    <id>122871</id>
+    <revision>
+      <id>592835</id>
+      <parentid>592388</parentid>
+      <timestamp>2023-05-15T20:18:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592835</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="qgl4c3mwae9amxw7pfklerig5vqc775" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Rage Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Bleed by 250%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Rage Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Bleed by 275%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Rage Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Bleed by 300%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Rage Amulets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>qgl4c3mwae9amxw7pfklerig5vqc775</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ragemaw Tempeldo</title>
+    <ns>0</ns>
+    <id>119472</id>
+    <revision>
+      <id>574629</id>
+      <parentid>574628</parentid>
+      <timestamp>2023-01-29T21:54:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1334" sha1="1pya67bc3enjipx3lbv831oy2sogw8o" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Ragemaw Tempeldo
+|image        = XC3 Ragemaw Tempeldo.png 
+|caption      = Ragemaw Tempeldo
+|type         = [[Taos]]
+|level        = 78
+|area         = [[Erythia Sea]] ([[Daedal Isle]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 3,256
+|cp           = 141
+|sp           = 5
+|gold         = 1,620
+|hp           = 3,473,600
+|strength     = 1,771
+|healing      = 665
+|dexterity    = 361
+|agility      = 414
+|physdef      = -10%
+|ethdef       = 25%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Ragemaw Tempeldo''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Taos]] family, and can be found at level 78 on [[Daedal Isle]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Celestial Conqueror]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = 85%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Ragemaw tempeldo location.png
+Ragemaw tempeldo.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Taos]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1pya67bc3enjipx3lbv831oy2sogw8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ragora Bunnit</title>
+    <ns>0</ns>
+    <id>121715</id>
+    <revision>
+      <id>559887</id>
+      <parentid>557252</parentid>
+      <timestamp>2022-09-30T10:55:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="2kw2f5aou3sufln7jfu6grrj9xhwpv4" xml:space="preserve">{{Infobox Enemy
+|name         = Ragora Bunnit
+|image        = 
+|caption      = Ragora Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Great Sword's Hilt]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Ragora Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Great Sword's Hilt]] in the [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>2kw2f5aou3sufln7jfu6grrj9xhwpv4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ragora Hox</title>
+    <ns>0</ns>
+    <id>123177</id>
+    <revision>
+      <id>598252</id>
+      <parentid>582245</parentid>
+      <timestamp>2023-07-04T17:48:49Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598252</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="740" sha1="62hrzbdu9cnk068zn77gxvu1m3n2tkj" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ragora Hox
+|image        = Ragora Hox.jpg
+|caption      = Ragora Hox
+|category     = Normal Minor Enemy
+|type         = [[Hox]]
+|level        = 15
+|area         = [[Eagus Wilderness]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ragora Hoxes''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Hox]] family, and can be found at level 15 in the [[Eagus Wilderness]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>62hrzbdu9cnk068zn77gxvu1m3n2tkj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rainbow Feather Band</title>
+    <ns>0</ns>
+    <id>122626</id>
+    <revision>
+      <id>592836</id>
+      <parentid>592332</parentid>
+      <timestamp>2023-05-15T20:18:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592836</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1032" sha1="jqv8u745zoz3hp4av25g2umscl7uo7v" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Rainbow Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 90%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Rainbow Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 95%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Rainbow Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Rainbow Feather Bands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>jqv8u745zoz3hp4av25g2umscl7uo7v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rainbow Gloves (XC3)</title>
+    <ns>0</ns>
+    <id>118991</id>
+    <revision>
+      <id>592837</id>
+      <parentid>592529</parentid>
+      <timestamp>2023-05-15T20:18:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592837</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1020" sha1="qurn5q3veff7r8kfaklr3y0t6lvq7ue" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Rainbow Gloves (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Rainbow Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Rainbow Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Rainbow Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Rainbow Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>qurn5q3veff7r8kfaklr3y0t6lvq7ue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rambler Curalie</title>
+    <ns>0</ns>
+    <id>118689</id>
+    <revision>
+      <id>574627</id>
+      <parentid>574597</parentid>
+      <timestamp>2023-01-29T21:51:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1307" sha1="a80ntki58r7p6b8ekxu5v0nbc1mkf9c" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Rambler Curalie
+|image        = Rambler Curalie.png
+|caption      = Rambler Curalie
+|type         = [[Caterpile]]
+|level        = 17
+|area         = [[Eagus Wilderness]] ([[Bennel Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 235
+|cp           = 57
+|sp           = 5
+|gold         = 236
+|hp           = 117,000
+|strength     = 193
+|healing      = 146
+|dexterity    = 60
+|agility      = 44
+|physdef      = 20%
+|ethdef       = 0%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Rambler Curalie''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Caterpile]] family, and can be found at level 17 at [[Bennel Cave]] in [[Eagus Wilderness]]. The [[Poison Spray]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Rambler curalie location.png
+Rambler curalie.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Caterpiles]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>a80ntki58r7p6b8ekxu5v0nbc1mkf9c</sha1>
+    </revision>
+  </page>
+  </mediawiki>

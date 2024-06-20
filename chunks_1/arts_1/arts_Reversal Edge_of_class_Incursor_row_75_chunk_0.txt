@@ -1,0 +1,6 @@
+Art Name: Reversal Edge
+
+Class: Incursor
+
+Effect: Crit.+ during enemy Art
+

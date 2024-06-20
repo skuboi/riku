@@ -1,0 +1,1138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Circlet of All-Knowing</title>
+    <ns>0</ns>
+    <id>124221</id>
+    <revision>
+      <id>561864</id>
+      <parentid>561594</parentid>
+      <timestamp>2022-10-18T19:11:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>561864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="2b72frvtcc7onx1o85fc4phmt8pab4m" xml:space="preserve">{{Infobox item
+|name      = Circlet of All-Knowing
+|image     = 
+|caption   = Boosts Healing by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Circlets of All-Knowing''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>2b72frvtcc7onx1o85fc4phmt8pab4m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Circlet of Enlightenment</title>
+    <ns>0</ns>
+    <id>122882</id>
+    <revision>
+      <id>592738</id>
+      <parentid>592260</parentid>
+      <timestamp>2023-05-15T20:13:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="p4m3vr6gmq6iicxd4fslf0036sdnsif" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common=
+{{Infobox item
+|name      = Circlet of Enlightenment
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 11940 [[Gold|G]]
+}}
+|-|Rare=
+{{Infobox item
+|name      = Circlet of Enlightenment
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 31%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 11940 [[Gold|G]]
+}}
+|-|Legendary=
+{{Infobox item
+|name      = Circlet of Enlightenment
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 11940 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Circlets of Enlightenment''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>p4m3vr6gmq6iicxd4fslf0036sdnsif</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Circlet of Intellect</title>
+    <ns>0</ns>
+    <id>118930</id>
+    <revision>
+      <id>592739</id>
+      <parentid>592262</parentid>
+      <timestamp>2023-05-15T20:13:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="29d26658jf8lytljz5n6xuwxrfbodh9" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Circlet of Intellect
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Circlet of Intellect
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Circlet of Intellect
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Circlet of Intellects''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>29d26658jf8lytljz5n6xuwxrfbodh9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Circlet of Wisdom</title>
+    <ns>0</ns>
+    <id>118931</id>
+    <revision>
+      <id>592740</id>
+      <parentid>592261</parentid>
+      <timestamp>2023-05-15T20:13:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592740</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1087" sha1="d0dsv3kkpraejdumgbxb0bag9hjvzbo" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Circlet of Wisdom
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Circlet of Wisdom
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Circlet of Wisdom
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Healing by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Circlet of Wisdoms''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. A common Circlet of Wisdom can be acquired from the first wave of the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>d0dsv3kkpraejdumgbxb0bag9hjvzbo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Clad</title>
+    <ns>0</ns>
+    <id>121762</id>
+    <revision>
+      <id>597808</id>
+      <parentid>596121</parentid>
+      <timestamp>2023-07-02T16:34:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597808</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3081" sha1="mvkiyymy49pjsi5xwi9mxaorpqwerwm" xml:space="preserve">{{Infobox Character
+|name          = Clad
+|image         = XC3 Clad Icon.png
+|species       = 
+|age           = 8th term
+|gender        = Male
+|haircolor     = 
+|eyecolor      = 
+|affiliation   = [[Colony 11]]
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}
+}}
+'''Clad''' is a NPC in {{XC3}}. He can be found in Colony 11.
+
+== Overview ==
+Clad is a lieutenant of [[Colony 11]] and captain of its defense squad. [[Rattlejack]] and [[Knoquehardt]] are his subordinates. He is known to be silent most of the time, and has a hard time of feeling any physical sensation, leading him to the battlefield in search of something that can bring pain, in order to at least feel something. He is also one of Three Ravens, alongside his fellow lieutenants [[Easel]] and [[Zoren]].
+
+== Affinity ==
+* [[Ashera]]
+* [[Easel]]
+* [[Zoren]]
+* [[Rattlejack]]
+* [[Knoquehardt]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Tenacious Clad
+|image        = 
+|caption      = Tenacious Clad
+|type         = [[Keves Forces]]
+
+|tab1         = Indomitable
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level        = 49
+|area         = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime    = During ''[[Indomitable]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+
+|tab2         = Three Ravens at War
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 54
+|area2        = [[Syra Hovering Reefs]] ([[First Ixia Bridge]])
+|spawntime2   = During ''[[Three Ravens at War]]''
+|respawn2     = No
+|movement2    = 
+|detection2   = 
+|cp2          = 
+|sp2          = 
+
+|tab3         = Festival of War
+|category3    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level3       = 66
+|area3        = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime3   = During ''[[Festival of War]]''
+|respawn3     = No
+|movement3    = 
+|detection3   = 
+|cp3          = 
+|sp3          = 
+}}
+'''Tenacious Clad''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is a [[Keves Forces|Keves Soldier]] who is fought three times, first in the [[Colony 11, Training Pit]] at the [[Syra Hovering Reefs]], first at level 49 during ''[[Indomitable]]'', then at level 54 on the [[First Ixia Bridge]] alongside [[Easel#Battle|Fellplume Easel]] and [[Zoren#Battle|Spearhead Zoren]] during ''[[Three Ravens at War]]'', and finally at level 66 in the Colony 11, Training Pit during ''[[Festival of War]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]] 
+[[Category:XC3 NPCs missing info]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>mvkiyymy49pjsi5xwi9mxaorpqwerwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Class (XC3)</title>
+    <ns>0</ns>
+    <id>116771</id>
+    <revision>
+      <id>599691</id>
+      <parentid>599633</parentid>
+      <timestamp>2023-07-15T14:56:05Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>formatting</comment>
+      <origin>599691</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21490" sha1="h49iipmuzdp7llpiiwi5gxmcnvibrsh" xml:space="preserve">{{for|other uses|Class}}
+{{spoiler}}
+[[File:XC3 Same Class appearance 01.jpg|thumb|180px|Noah and Mio as Swordfighters]]
+'''Classes''' (Japanese: {{lang|ja|&#12463;&#12521;&#12473;}}, ''Kurasu'') are a battle mechanic in {{XC3}} and {{XC3FR|sublink}}.&lt;ref&gt;[https://topics.nintendo.co.jp/article/a4c0a78d-e993-4fae-8c8e-62c5927040fa Xenoblade Notebook vol. 4: A thorough explanation of the Arts in ''Xenoblade 3''].&lt;/ref&gt;&lt;ref&gt;[https://topics.nintendo.co.jp/article/f86dd1d6-9eff-45ca-b244-fdb1174b4c84 Xenoblade Notebook vol. 5: Introducing the help for adventures in ''Xenoblade 3'' (Heroes).]&lt;/ref&gt;
+
+== Overview ==
+Each class is specific to a [[role]], [[Attacker]], [[Defender (XC3)|Defender]] or [[Healer]]. Depending on the Class, the available [[Battle Arts (XC3)|arts]] will vary. As arts of various Classes are obtained, it will become possible to use arts of several Classes at the same time. To change Classes, the relationships between team members must deepen.
+
+The appearance of the characters will change depending on the Class chosen. For example, if [[Noah]] becomes a [[Tactician]], he will wear an outfit inspired by Taion's. It's possible to change the [[Clothing]] a character wears regardless of class. 
+
+Increasing the [[Class Rank (XC3)|rank]] of a class unlocks a class' Master Arts and Master Skills.&lt;ref&gt;https://www.nintendo.com/store/products/xenoblade-chronicles-3-switch/&lt;/ref&gt; Master Skills can be added to any other class to gain some of the passive abilities of their corresponding class. Master Arts can only be used on a class whose nation is the opposite of their original class (e.g. the Swordfighter is associated with Keves, so its arts would be compatible with the Zephyr class but not the Medic Gunner class). However, they can be used as part of Fusion Arts to combine and enhance the effects of both Arts and increase the [[Interlink]] level. 
+
+[[File:Classes &#8211; Xenoblade Chronicles 3|thumb|240px|center|Classes]]
+
+== Class Change ==
+[[File:XC3 Class Change.jpg|thumb|180px|left|Swordfighter to Zephyr Class Change for Noah and Mio]]
+Each Class has its own characteristics, but the six main characters can change Class (Japanese: {{lang|ja|&#12463;&#12521;&#12473;&#12481;&#12455;&#12531;&#12472;}}, ''Kurasu chenji'')  to any of the other five Classes. For example, by changing from [[Swordfighter]] to [[Zephyr]], the Role also changes from Attacker to Defender. While [[Hero]]es cannot be controlled by the player, the six playable characters can also be reclassed into the classes of Heroes; one party member will immediately gain the class of a newly acquired Hero, while the other party members must fight alongside that hero or a party member with their class active to unlock it. 
+
+Each party member requires a different amount of '''Class Points''' (abbreviated '''CP''') to unlock and increase their class ranks; their compatibility with each different class is given a grade ranging from S to D, with S being the most compatible and D being the least. This grade multiplies the CP that the character earns from combat, as follows:
+
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Aptitude
+|[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]
+|-
+!CP Multiplier
+|50%||65%||75%||85%||100%
+|}
+
+Characters with a greater compatibility for a class will also require less effort to unlock the class. In particular, the character with an S-rank aptitude for a Hero class will be its inheritor, meaning that they will automatically have the class unlocked when it is acquired. &lt;!-- This "effort", i.e. class unlock points as the community calls it, is not exactly CP; it is a slight variation. Unlock point requirements are given to the non-S party members, and come in a roughly 3:4:5:6:7 ratio. --&gt;
+{{clr}}
+
+== List of Classes ==
+=== {{XC3|-}} ===
+{| class="xc1 centered sortable"
+! Class
+! User
+! Inheritor
+! Role
+! Blade
+! Nation &#8251;1
+! Acquisition
+! Ascension
+|-
+| [[File:XC3 Swordfighter Weapon Icon.png|center|link=Swordfighter|50px]][[Swordfighter]]
+| colspan="2" | [[File:Noah Hero Icon.png|center|link=Noah|45px]][[Noah]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Veiled Sword&lt;br /&gt;Truthsinger
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| Initial
+| ''[[Side Story: Noah]]''
+|-
+| [[File:XC3 Zephyr Weapon Icon.png|center|link=Zephyr|50px]][[Zephyr]]
+| colspan="2" | [[File:Mio Hero Icon.png|center|link=Mio|50px]][[Mio]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Dual Moonblades&lt;br /&gt;Sundancers
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| Initial
+| ''[[Side Story: Mio]]''
+|-
+| [[File:XC3 Medic Gunner Weapon Icon.png|center|link=Medic Gunner|50px]][[Medic Gunner]]
+| colspan="2" | [[File:Eunie Hero Icon.png|center|link=Eunie|45px]][[Eunie]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Gunrod&lt;br /&gt;Caduceus Gunrod
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| Initial
+| ''[[Side Story: Eunie]]''
+|-
+| [[File:XC3 Tactician Weapon Icon.png|center|link=Tactician|50px]][[Tactician]]
+| colspan="2" | [[File:Taion Hero Icon.png|center|link=Taion|45px]][[Taion]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Spell Tags: Mondo&lt;br /&gt;Spell Tags: Totality
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| Initial
+| ''[[Side Story: Taion]]''
+|-
+| [[File:XC3 Heavy Guard Weapon Icon.png|center|link=Heavy Guard|50px]][[Heavy Guard]]
+| colspan="2" | [[File:Lanz Hero Icon.png|center|link=Lanz|45px]][[Lanz]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Shieldblade&lt;br /&gt;Adamant Shell
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| Initial
+| ''[[Side Story: Lanz]]''
+|-
+| [[File:XC3 Ogre Weapon Icon.png|center|link=Ogre|50px]][[Ogre]]
+| colspan="2" | [[File:Sena Hero Icon.png|center|link=Sena|45px]][[Sena]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Comet Mallet&lt;br /&gt;Meteor Smasher
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| Initial
+| ''[[Side Story: Sena]]''
+|-
+| [[File:XC3 Flash Fencer Weapon Icon.png|center|link=Flash Fencer|50px]][[Flash Fencer]]
+| [[File:Ethel Hero Icon.png|center|link=Ethel|50px]][[Ethel]]
+| [[File:Noah Hero Icon.png|center|link=Noah|45px]][[Noah]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Dual Rapiers
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[No Want of Courage]]''
+| Reach Rank 10 with Flash Fencer and Seraph, and have Ethel undergo the maturation process at [[Colony Omega]].
+|-
+| [[File:XC3 War Medic Weapon Icon.png|center|link=War Medic|50px]][[War Medic]]
+| [[File:Valdi Hero Icon.png|center|link=Valdi|40px]][[Valdi]]
+| [[File:Lanz Hero Icon.png|center|link=Lanz|45px]][[Lanz]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Relief Rifle
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[The Kind Right Hand]]''
+| ''[[I'm a Mechanic]]''
+|-
+| [[File:XC3 Guardian Commander Weapon Icon.png|center|link=Guardian Commander|50px]][[Guardian Commander]]
+| [[File:Zeon Hero Icon.png|center|link=Zeon|50px]][[Zeon]]
+| [[File:Noah Hero Icon.png|center|link=Noah|45px]][[Noah]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Gutsy Gladius
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[Where The Heart Is]]''
+| ''[[Reasons to Evolve]]''
+|-
+| [[File:XC3 Thaumaturge Weapon Icon.png|center|link=Thaumaturge|50px]][[Thaumaturge]]
+| [[File:Teach Hero Icon.png|center|link=Teach|45px]][[Teach]]
+| [[File:Mio Hero Icon.png|center|link=Mio|45px]][[Mio]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Martial Linkstaff
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Going Beyond Power]]''
+| ''[[Shadow of Enmity]]''
+|-
+| [[File:XC3 Yumsmith Weapon Icon.png|center|link=Yumsmith|50px]][[Yumsmith]]
+| [[File:Riku Manana Hero Icon.png|center|link=Riku &amp; Manana|55px]][[Riku &amp; Manana]]
+| [[File:Sena Hero Icon.png|center|link=Sena|45px]][[Sena]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Variable Arms
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[A Nopon's Counsel]]''
+| ''[[Culinary Repertoire]]''
+|-
+| [[File:XC3 Full Metal Jaguar Weapon Icon.png|center|link=Full Metal Jaguar (XC3)|50px]][[Full Metal Jaguar (XC3)|Full Metal Jaguar]]
+| [[File:Gray Hero Icon.png|center|link=Gray|45px]][[Gray]]
+| [[File:Eunie Hero Icon.png|center|link=Eunie|45px]][[Eunie]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Gun Drones
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[A Gray Matter]]''
+| ''[[Payback for Treason]]''
+|-
+| [[File:XC3 Strategos Weapon Icon.png|center|link=Strategos|50px]][[Strategos]]
+| [[File:Isurd Hero Icon.png|center|link=Isurd|45px]][[Isurd]]
+| [[File:Taion Hero Icon.png|center|link=Taion|45px]][[Taion]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Disc Launcher
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Unwavering Resolve]]''
+| ''[[Effervescent Heart]]''
+|-
+| [[File:XC3 Stalker Weapon Icon.png|center|link=Stalker|50px]][[Stalker]]
+| [[File:Juniper Hero Icon.png|center|link=Juniper|50px]][[Juniper]]
+| [[File:Noah Hero Icon.png|center|link=Noah|45px]][[Noah]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Luminescent Bow
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Natural Selection]]''
+| ''[[Survivors]]''
+|-
+| [[File:XC3 Lone Exile Weapon Icon.png|center|link=Lone Exile|50px]][[Lone Exile]]
+| [[File:Ashera Hero Icon.png|center|link=Ashera|45px]][[Ashera]]
+| [[File:Eunie Hero Icon.png|center|link=Eunie|45px]][[Eunie]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Twinsaber
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[The Wrath of Ashera]]''
+| ''[[A Deep-Seated Scar]]''
+|-
+| [[File:XC3 Incursor Weapon Icon.png|center|link=Incursor|50px]][[Incursor]]
+| [[File:Alexandria Hero Icon.png|center|link=Alexandria|45px]][[Alexandria]]
+| [[File:Taion Hero Icon.png|center|link=Taion|45px]][[Taion]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Exponential Edge
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Her Reasons]]''
+| ''[[Inescapable Past]]''
+|-
+| [[File:XC3 Lost Vanguard Weapon Icon.png|center|link=Lost Vanguard|50px]][[Lost Vanguard]]
+| [[File:Monica Hero Icon.png|center|link=Monica Vandham|50px]][[Monica Vandham|Monica]]
+| [[File:Eunie Hero Icon.png|center|link=Eunie|45px]][[Eunie]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Defense Mace
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Vandham's Heir]]''
+| ''[[Promise to the Future]]''
+|-
+| [[File:XC3 Signifer Weapon Icon.png|center|link=Signifer|50px]][[Signifer]]
+| [[File:Fiona Hero Icon.png|center|link=Fiona|45px]][[Fiona]]
+| [[File:Lanz Hero Icon.png|center|link=Lanz|50px]][[Lanz]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| War Standard
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Transparent Dreams]]''
+| ''[[A Farewell Reset]]''
+|-
+| [[File:XC3 Soulhacker Weapon Icon.png|center|link=Soulhacker|50px]][[Soulhacker]]
+| [[File:Triton Hero Icon.png|center|link=Triton|45px]][[Triton]]
+| [[File:Lanz Hero Icon.png|center|link=Lanz|45px]][[Lanz]]
+| Any &#8251;2
+| Mimic Knuckles
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]] &#8251;3
+| ''[[Doing It My Way]]''
+| ''[[My Memories]]''
+|-
+| [[File:XC3 Martial Artist Weapon Icon.png|center|link=Martial Artist|50px]][[Martial Artist]]
+| [[File:Ghondor Hero Icon.png|center|link=Ghondor|45px]][[Ghondor]]
+| [[File:Sena Hero Icon.png|center|link=Sena|45px]][[Sena]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Turbo Cestus
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| Chapter 6
+| ''[[Knowing Your Family]]''
+|-
+| [[File:XC3 Troubadour Weapon Icon.png|center|link=Troubadour|50px]][[Troubadour]]
+| [[File:Miyabi Hero Icon.png|center|link=Miyabi|45px]][[Miyabi]]
+| [[File:Mio Hero Icon.png|center|link=Mio|50px]][[Mio]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Silken Ivy
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Side Story: Mio]]''
+| ''[[Happiness]]''
+|-
+| [[File:XC3 Seraph Weapon Icon.png|center|link=Seraph|60px]][[Seraph]]
+| [[File:Cammuravi Hero Icon.png|center|link=Cammuravi|45px]][[Cammuravi]]
+| [[File:Taion Hero Icon.png|center|link=Taion|45px]][[Taion]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Heatshimmer Spear
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[A Twist of Fate]]''
+| Reach Rank 10 with Flash Fencer and Seraph, and have Ethel undergo the maturation process at [[Colony Omega]].
+|-
+| [[File:XC3 Machine Assassin Weapon Icon.png|center|link=Machine Assassin|60px]][[Machine Assassin]]
+| [[File:Segiri Hero Icon.png|center|link=Segiri|50px]][[Segiri]]
+| [[File:Sena Hero Icon.png|center|link=Sena|45px]][[Sena]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Doom Axes
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[Inhumanity]]''
+| ''[[Invisible Bond]]''
+|-
+| [[File:Lifesage Class Icon.png|center|link=Lifesage|75px]][[Lifesage]]
+| [[File:Nia Hero Icon.png|center|link=Nia|50px]][[Nia]]
+| [[File:Mio Hero Icon.png|center|link=Mio|50px]][[Mio]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Anima Sword
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| Go to the [[Hall of the Serene]] in the [[Cloudkeep]] after completing the main story
+| ''[[Grasping My Future]]''
+|-
+| [[File:Royal Summoner Class Icon.png|center|link=Royal Summoner|60px]][[Royal Summoner]]
+| [[File:Melia Hero Icon.png|center|link=Melia|50px]][[Melia]]
+| [[File:Noah Hero Icon.png|center|link=Noah|45px]][[Noah]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Elemental Staff
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| Go to the [[Main Castle Gate]] of [[Keves Castle]] after completing the main story
+| ''[[From Atop Her Throne]]''
+|-
+| [[File:XC3 Noponic Champion Class Icon.png|center|link=Noponic Champion|70px]][[Noponic Champion]]
+| [[File:Ino Hero Icon.png|center|link=Ino|50px]][[Ino]]
+| [[File:Noah Hero Icon.png|center|link=Noah|45px]][[Noah]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Inosabers
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Champion of the Nopon]]'' (DLC)
+| ''[[The Hope of Noponkind]]'' (DLC)
+|-
+| [[File:XC3 Lapidarist Class Icon.png|center|link=Lapidarist|70px]][[Lapidarist]]
+| [[File:Masha Hero Icon.png|center|link=Masha|55px]][[Masha]]
+| [[File:Mio Hero Icon.png|center|link=Mio|50px]][[Mio]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Dazzling Rings
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[Lapidarist Extraordinaire]]'' (DLC)
+| ''[[For the Sake of Keepsakes]]'' (DLC)
+|-
+| [[File:Grand Marshal Class Icon.png|center|link=Grand Marshal|60px]][[Grand Marshal]] &#8251;4
+| colspan="2" | [[File:Shulk Hero Icon.png|center|link=Shulk|45px]][[Shulk]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Monado REX+
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| colspan="2" |Clear Challenge Battle ''[[The Two Saviors]]'' (DLC)
+|-
+| [[File:Master Driver Class Icon.png|center|link=Master Driver|60px]][[Master Driver]] &#8251;4
+| colspan="2" |[[File:Rex Hero Icon.png|center|link=Rex|45px]][[Rex]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Firelight Swords
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| colspan="2" |Clear Challenge Battle ''[[The Two Saviors]]'' (DLC)
+|-
+| [[File:XC3 Sharpshooter Weapon Icon.png|center|link=Sharpshooter|60px]][[Sharpshooter]] &#8251;4
+| colspan="2" |[[Mwamba]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| N/A
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| colspan="2" |N/A
+|}
+:&#8251;1 Nation denotes the cooldown type of the class's Arts; note that the class's corresponding Hero may not necessarily be affliated with that nation.
+:&#8251;2 Although player-controlled Soulhackers can assume a role of the player's choice, Triton is locked into an Attacker role. The class is also displayed as an Attacker class in menus.
+:&#8251;3 The Soulhacker's Class Arts are considered to be Keves Arts, though additional Arts which have Agnus art cooldowns can be acquired.
+:&#8251;4 Class cannot be used by any playable character, and are exclusive to the corresponding Hero.
+{{clr}}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 centered sortable"
+! Class
+! User
+! Role
+! Blade
+! Nation &#8251;1
+|-
+| [[File:FR Martial Artist Class Icon.png|center|link=Martial Artist|60px]][[Martial Artist]]
+| [[File:Matthew Hero Icon.png|center|link=Matthew (FR)|45px]][[Matthew (FR)|Matthew]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Ouroboros Knuckles
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+|-
+| [[File:Monado Fencer Class Icon.png|center|link=Monado Fencer|60px]][[Monado Fencer]]
+| [[File:A Hero Icon.png|center|link=A|50px]][[A]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Monado
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+|-
+| [[File:Machinist Class Icon.png|center|link=Machinist|60px]][[Machinist]]
+| [[File:Nikol Hero Icon.png|center|link=Nikol|50px]][[Nikol]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Variable Backpack &#8251;2
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+|-
+| [[File:Kitharode Class Icon.png|center|link=Kitharode|60px]][[Kitharode]]
+| [[File:Glimmer Hero Icon.png|center|link=Glimmer|50px]][[Glimmer]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Wildfire Kithara
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+|-
+| [[File:Grand Marshal Class Icon.png|center|link=Grand Marshal|60px]][[Grand Marshal]]
+| [[File:Shulk Hero Icon.png|center|link=Shulk|45px]][[Shulk]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Monado REX+
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+|-
+| [[File:Master Driver Class Icon.png|center|link=Master Driver|60px]][[Master Driver]]
+| [[File:Rex Hero Icon.png|center|link=Rex|45px]][[Rex]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Firelight Swords
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+|-
+| [[File:War Mage Class Icon.png|center|link=War Mage|60px]][[War Mage]]
+| [[File:Na'el Hero Icon.png|center|link=Na'el|45px]][[Na'el]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Ether Accelerator
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+|}
+:&#8251;1 Nation denotes the cooldown type of the class's Arts; note that the class's corresponding Hero may not necessarily be affiliated with that nation.
+:&#8251;2 This weapon is not actually a blade, but a device made by Nikol due to his inability to summon a proper blade.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Noah Artwork.png|Noah as a Swordfighter
+XC3 Mio Artwork.png|Mio as a Zephyr
+XC3 Eunie Artwork.png|Eunie as a Medic Gunner
+XC3 Taion Artwork.png|Taion as a Tactician
+XC3 Lanz Artwork.png|Lanz as a Heavy Guard
+XC3 Sena Artwork.png|Sena as an Ogre
+XC3 Ethel Artwork.png|Ethel as a Flash Fencer
+XC3 Zeon Artwork.png|Zeon as a Guardian Commander 
+XC3 Valdi Artwork.png|Valdi as a War Medic
+Teach Hero Artwork.png|Teach as a Thaumaturge
+XC3 Gray Artwork.png|Gray as a Full Metal Jaguar
+XC3 Riku and Manana Artwork.png|Riku &amp; Manana as Yumsmiths
+XC3 Isurd Artwork.png|Isurd as a Strategos
+XC3 Juniper Artwork.png|Juniper as a Stalker
+XC3 Alexandria Artwork.png|Alexandria as an Incursor
+XC3 Ashera Artwork.png|Ashera as a Lone Exile
+XC3 Monica Artwork.png|Monica as a Lost Vanguard
+XC3 Fiona Artwork.png|Fiona as a Signifer
+XC3 Triton Artwork.png|Triton as a Soulhacker
+XC3 Ghondor Artwork.png|Ghondor as a Martial Artist
+XC3 Miyabi Artwork.png|Miyabi as a Troubadour
+XC3 Cammuravi Artwork.png|Cammuravi as a Seraph
+Segiri Hero Artwork.png|Segiri as a Machine Assassin
+XC3 Nia Artwork.png|Nia as a Lifesage
+Melia Official Artwork.png|Melia as a Royal Summoner
+Ino Official Artwork.png|Ino as a Noponic Champion
+XC3 Masha Official Artwork.png|Masha as a Lapidarist
+XC3FR Matthew.png|Matthew as a Martial Artist
+XC3FR A.png|A as a Monado Fencer
+XC3FR Nikol.png|Nikol as a Machinist
+XC3FR Glimmer.png|Glimmer as a Kitharode
+XC3FR Shulk Official Artwork.png|Shulk as a Grand Marshal
+XC3FR Rex Official Artwork.png|Rex as the Master Driver
+XC3FR Na'el.png|Na'el as a War Mage
+XC3 Same Class appearance 02.jpg|Noah and Mio as Zephyrs
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Icon hero 0.png|Pre-DLC Hero Icons
+Icon hero c 0.png
+Icon chara battle 0.png|Character Battle Icons
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Mio as Stalker.jpg|Mio fighting as a Stalker
+XC3 Noah as Guardian Commander.jpg|Noah fighting as a Guardian Commander
+XC3 Class selection 01.jpg|The class selection screen, with Noah as a Guardian Commander
+XC3 Hero selection 01.jpg|The Hero selection and their classes
+XC3 Class Selection Screen.jpg|The Japanese version of the class selection screen, with Noah as a Guardian Commander
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Mechanics]]
+[[Category:XC3 Classes]]
+[[Category:XC3 Battle Flow]]
+[[Category:XC3FR Mechanics]]
+[[Category:XC3FR Classes]]
+[[Category:XC3FR Battle Flow]]</text>
+      <sha1>h49iipmuzdp7llpiiwi5gxmcnvibrsh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Class Mastery Shop Blue</title>
+    <ns>0</ns>
+    <id>125662</id>
+    <revision>
+      <id>577294</id>
+      <timestamp>2023-02-16T23:14:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "'''Class Mastery Shop Blue''' is a [[Shop (XC3)|DLC Shop]] in {{XC3}}. It can be found in the [[Land of Challenge (XC3)|Land of Challenge]], available as part of the [[Challenge Battle Mode]] of the [[Xenoblade Chronicles 3#Expansion%20Pass|Expansion Pass]], and it is run by [[Archsage's Aide, Blue]]. Blue [[Noponstone]]s can be traded here in exchange for unlocking a [[Class (XC3)|class]] for a character. {{clr}}  {{xc3 stub}} [[Category:XC3 DLC Shops]] Category:XC3 C..."</comment>
+      <origin>577294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="497" sha1="gt9g8nf18ru44x56tdutxma4fbrs5l6" xml:space="preserve">'''Class Mastery Shop Blue''' is a [[Shop (XC3)|DLC Shop]] in {{XC3}}. It can be found in the [[Land of Challenge (XC3)|Land of Challenge]], available as part of the [[Challenge Battle Mode]] of the [[Xenoblade Chronicles 3#Expansion%20Pass|Expansion Pass]], and it is run by [[Archsage's Aide, Blue]]. Blue [[Noponstone]]s can be traded here in exchange for unlocking a [[Class (XC3)|class]] for a character.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 DLC Shops]]
+[[Category:XC3 Challenge Battle Mode]]</text>
+      <sha1>gt9g8nf18ru44x56tdutxma4fbrs5l6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Class Mastery Shop Red</title>
+    <ns>0</ns>
+    <id>124883</id>
+    <revision>
+      <id>577293</id>
+      <parentid>566964</parentid>
+      <timestamp>2023-02-16T23:14:01Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="494" sha1="44be1qxuekvdhsv7ynfhnrh2m40jbja" xml:space="preserve">'''Class Mastery Shop Red''' is a [[Shop (XC3)|DLC Shop]] in {{XC3}}. It can be found in the [[Land of Challenge (XC3)|Land of Challenge]], available as part of the [[Challenge Battle Mode]] of the [[Xenoblade Chronicles 3#Expansion%20Pass|Expansion Pass]], and it is run by [[Archsage's Aide, Red]]. Red [[Noponstone]]s can be traded here in exchange for unlocking a [[Class (XC3)|class]] for a character.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 DLC Shops]]
+[[Category:XC3 Challenge Battle Mode]]</text>
+      <sha1>44be1qxuekvdhsv7ynfhnrh2m40jbja</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Class Rank (XC3)</title>
+    <ns>0</ns>
+    <id>117719</id>
+    <revision>
+      <id>579566</id>
+      <parentid>570115</parentid>
+      <timestamp>2023-03-19T22:14:52Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>links</comment>
+      <origin>579566</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2384" sha1="gse6oyywyeq3pmme7dyn8epewp3qetg" xml:space="preserve">{{for|the mechanic in {{XCX}}|Class Rank (XCX)}}
+{{spoiler}}
+The '''Class Rank''' (Japanese: {{lang|ja|&#12463;&#12521;&#12473;&#12521;&#12531;&#12463;}}, ''kurasu ranku'') is an important mechanic in {{XC3}}.
+
+== Overview ==
+It displays the rank of the [[Class (XC3)|Class]] assigned to a character. Class ranks are raised by gaining '''Class Points''', or '''CP''', in battle by defeating [[Enemy (XC3)|enemies]]. Each class starts out with one mastered [[Battle Arts (XC3)|Art]]. Ranking up a class earns new [[Battle Arts (XC3)|Arts]] or [[Skill (XC3)|Skills]]. Classes can also be ranked up by using [[Nopon Coin (Silver)|Silver Nopon Coins]].
+
+== Class Rank effects ==
+Increasing the class rank has the following effects:
+
+* Each rank increases a character's stats, while the class is equipped.
+* Ranks 1 and 10 unlock one of the class's Arts as a Master Art. (Except for [[Soulhacker]])
+* Rank 20 unlocks the class's Talent Art to be used by the character with any class.
+* Ranks 5 and 15 unlock one of the class's Skills as a Master Skill. (Except for Soulhacker which unlocks it at rank 10)
+* Ranks 5, 10, 15 and 20 upgrade all the class's Arts and Skills. (Except for Soulhacker)
+* Rank 10 unlocks the class's outfit as a [[Clothing]] option.
+
+== Class Rank limit ==
+The initial limit is rank 10 and when reached on any party member an [[Hero Quest|Ascension Quest]] is unlocked for that corresponding [[Hero]], with the exception of the starting six Classes - these are tied to Side Story quests which require a certain amount of progress in the main story to activate, with the ones for Noah and Mio being mandatory for plot advancement. To activate the quest, the Hero must be accompanying the party while heading to the specified location marked with a '?' on the map. After completing the quest, the rank limit reaches 20 for the party members and the Hero automatically increases their rank from 10 to 20.  
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Class Rank UP.jpg|Class Rank UP after earning CP
+XC3 Class selection 01.jpg|The class selection screen, with Noah as a Guardian Commander
+XC3 Hero selection 01.jpg|The Hero selection and their classes
+XC3 Class Selection Screen.jpg|The Japanese version of the class selection screen, with Noah as a Guardian Commander
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Battle Flow]]
+[[Category:XC3 Stats]]
+[[Category:XC3 Classes]]</text>
+      <sha1>gse6oyywyeq3pmme7dyn8epewp3qetg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Clifftop Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>119297</id>
+    <revision>
+      <id>582929</id>
+      <parentid>569107</parentid>
+      <timestamp>2023-04-14T18:09:10Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>582929</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="676" sha1="4pezz3l9syz2yultm0xmlp4phk7xxjc" xml:space="preserve">{{Infobox location
+|name        = Clifftop Ferronis Hulk
+|image       = Clifftop Ferronis Hulk.jpg
+|caption     = Clifftop Ferronis Hulk
+|type        = [[Rest Spot (XC3)|Rest Spot]]
+|located     = [[Urayan Trail]]
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Clifftop Ferronis Hulk''' (Japanese: {{lang|ja|&#23830;&#19978;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Gaij&#333; no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}. It is located on the [[Urayan Trail]] in the [[Pentelas Region]]. This [[Ferronis Hulk]] is rebooted by completing ''[[The Clifftop Hulk]]''. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Pentelas Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>4pezz3l9syz2yultm0xmlp4phk7xxjc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Clinging Azreel</title>
+    <ns>0</ns>
+    <id>119516</id>
+    <revision>
+      <id>574774</id>
+      <parentid>568427</parentid>
+      <timestamp>2023-01-30T15:00:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1449" sha1="acdxnyjmjympmn011nu6o67l8qs160o" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Clinging Azreel
+|image        = XC3 Clinging Azreel.png 
+|caption      = Clinging Azreel
+|type         = [[Flak]]
+|level        = 69
+|area         = [[Origin Interior]] ([[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,652
+|cp           = 475
+|sp           = 5
+|gold         = 1,380
+|hp           = 2,504,600
+|strength     = 2,091
+|healing      = 395
+|dexterity    = 304
+|agility      = 250
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Clinging Azreel''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Flak]] family, and can be found at level 69 at the [[Central Defense]] in the [[Origin Interior]]. The [[Elimination Beam]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 80%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = Immune
+|etherdebuff = Immune
+}}
+{{clr}}
+
+==Gallery==
+&lt;gallery&gt;
+Clinging azreel location.png
+Clinging azreel.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Flaks]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>acdxnyjmjympmn011nu6o67l8qs160o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Codon Quardun</title>
+    <ns>0</ns>
+    <id>121163</id>
+    <revision>
+      <id>596009</id>
+      <parentid>582298</parentid>
+      <timestamp>2023-06-16T19:46:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596009</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1380" sha1="mrceuf4i90a02173qm6zj3fluf2ajvl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Codon Quardun
+|image        = Codon Quardun.jpg 
+|caption      = Codon Quardun
+|category     = Minor Enemy
+|type         = [[Quardun]]
+|level        = 28-29
+|area         = [[Great Cotte Falls]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Codon Quarduns''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Quardun]] family, and can be found at levels 28-29 directly north of the [[Titan Rock Camp]] at [[Great Cotte Falls]]. They can drop [[Quardun Fang]], one of which is required at Rare quality to craft [[Analyze Weakness|Analyze Weakness IV]], and [[Quardun Shell]], one of which is required at Rare quality to craft [[Steel Protection|Steel Protection IV]], without the use of [[Nopon Coin (Gold)|Gold Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Quarduns]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Quarduns]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>mrceuf4i90a02173qm6zj3fluf2ajvl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Codon Quarmu</title>
+    <ns>0</ns>
+    <id>121175</id>
+    <revision>
+      <id>596010</id>
+      <parentid>582297</parentid>
+      <timestamp>2023-06-16T19:46:09Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596010</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1058" sha1="1w6vi5iiot68s3it8ogy3g8ohooqjcu" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Codon Quarmu
+|image        = Codon Quarmu.jpg 
+|caption      = Codon Quarmu
+|category     = Minor Enemy
+|type         = [[Quarmu]]
+|level        = 27-29
+|area         = [[Great Cotte Falls]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Codon Quarmus''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Quarmu]] family, and can be found at level 27-29 at [[Great Cotte Falls]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Quarmus]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Quarmus]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1w6vi5iiot68s3it8ogy3g8ohooqjcu</sha1>
+    </revision>
+  </page>
+  </mediawiki>

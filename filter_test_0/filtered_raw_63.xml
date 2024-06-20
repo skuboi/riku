@@ -1,0 +1,2448 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Soaring Virion</title>
+    <ns>0</ns>
+    <id>119434</id>
+    <revision>
+      <id>574688</id>
+      <parentid>564565</parentid>
+      <timestamp>2023-01-30T04:38:54Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1341" sha1="4tzx10epwzoc08vtkmzpwxtk6mansbs" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Soaring Virion
+|image        = XC3 Soaring Virion.png
+|caption      = Soaring Virion
+|type         = [[Rhogul]]
+|level        = 36
+|area         = [[Great Cotte Falls]] ([[Amoney's Hallows]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 1,074
+|cp           = 129
+|sp           = 5
+|gold         = 620
+|hp           = 742,800
+|strength     = 632
+|healing      = 246
+|dexterity    = 147
+|agility      = 133
+|physdef      = 0%
+|ethdef       = -10%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Soaring Virion''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Rhogul]] family, and can be found at level 36 near [[Amoney's Hallows]] at [[Great Cotte Falls]]. The [[Soulhacker#Enemy Skills|Dangerous Claws]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 40%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Soaring virion location.png
+Soaring virion.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Rhoguls]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>4tzx10epwzoc08vtkmzpwxtk6mansbs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sodorio Camill</title>
+    <ns>0</ns>
+    <id>123213</id>
+    <revision>
+      <id>559951</id>
+      <parentid>553543</parentid>
+      <timestamp>2022-09-30T10:58:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559951</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="784" sha1="axaeg0ptars7pcqol7x2axm4c91f99w" xml:space="preserve">{{Infobox Enemy
+|name         = Sodorio Camill
+|image        = 
+|caption      = Sodorio Camill
+|category     = Minor Enemy
+|type         = [[Camill]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Sodorio Camills''' are Minor Enemies in {{XC3}}. They are members of the [[Camill]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Camills]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>axaeg0ptars7pcqol7x2axm4c91f99w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soft Foot Wraps</title>
+    <ns>0</ns>
+    <id>122584</id>
+    <revision>
+      <id>592866</id>
+      <parentid>592373</parentid>
+      <timestamp>2023-05-15T20:19:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592866</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="992" sha1="8yh6tkim36qp35lunqhhs9lx8z76mc0" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Soft Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Soft Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Soft Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Soft Foot Wraps''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>8yh6tkim36qp35lunqhhs9lx8z76mc0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sol Piranhax</title>
+    <ns>0</ns>
+    <id>121126</id>
+    <revision>
+      <id>582520</id>
+      <parentid>559952</parentid>
+      <timestamp>2023-04-11T22:16:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582520</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" sha1="lvq8asawekdn49k01va6fhseouepgj8" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sol Piranhax
+|image        = 
+|caption      = Sol Piranhax
+|category     = Minor Enemy
+|type         = [[Piranhax]]
+|level        = 21-22
+|area         = [[Rae-Bel Tableland]] ([[Riez Tarn]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sol Piranhax''' are Minor Enemies in {{XC3}}. They are members of the [[Piranhax]] family, and can be found at level 21-22 in [[Riez Tarn]] in [[Rae-Bel Tableland]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lvq8asawekdn49k01va6fhseouepgj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soldato Feris</title>
+    <ns>0</ns>
+    <id>121858</id>
+    <revision>
+      <id>559953</id>
+      <parentid>546983</parentid>
+      <timestamp>2022-09-30T10:58:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559953</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="6iisgduc0q4997zeztcep9gjhzcu2sa" xml:space="preserve">{{Infobox Enemy
+|name         = Soldato Feris
+|image        = 
+|caption      = Soldato Feris
+|category     = Minor Enemy
+|type         = [[Feris]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Soldato Feris''' are Minor Enemies in {{XC3}}. They are members of the [[Feris]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6iisgduc0q4997zeztcep9gjhzcu2sa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soldier's Headband</title>
+    <ns>0</ns>
+    <id>119009</id>
+    <revision>
+      <id>592868</id>
+      <parentid>592281</parentid>
+      <timestamp>2023-05-15T20:19:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592868</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="2cdk422kf3bq1j5jh7gqe09l29k5uxe" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Soldier's Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Physical Defense by 5 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5330 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Soldier's Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Physical Defense by 6 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5330 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Soldier's Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Physical Defense by 7 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5330 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Soldier's Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>2cdk422kf3bq1j5jh7gqe09l29k5uxe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soldier Arachno (XC3)</title>
+    <ns>0</ns>
+    <id>123228</id>
+    <revision>
+      <id>594322</id>
+      <parentid>560356</parentid>
+      <timestamp>2023-05-27T14:11:19Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594322</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1623" sha1="5vj9wgw9lcc9lnhj6c90bof8oyxhlvj" xml:space="preserve">{{for|the enemy in {{XC|-}}|Soldier Arachno (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Soldier Arachno
+|image        = 
+|caption      = Soldier Arachno
+|category     = Minor Enemy
+|type         = [[Arachno]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Soldier Arachnos''' are Minor Enemies in {{XC3}}. They are members of the [[Arachno]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Soldier Arachno
+|image        = Soldier Arachno FR.jpg
+|caption      = Soldier Arachno
+|category     = Normal Minor Enemy
+|type         = [[Arachno]]
+|level        = 33
+|area         = [[Aurora Shelf]] ([[Zalmor's Thawtunnels]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Soldier Arachnos''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Arachno]] family, and can be found at level 33 in [[Zalmor's Thawtunnels]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3FR Arachnos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>5vj9wgw9lcc9lnhj6c90bof8oyxhlvj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soldier Ring (XC3)</title>
+    <ns>0</ns>
+    <id>119008</id>
+    <revision>
+      <id>592867</id>
+      <parentid>592523</parentid>
+      <timestamp>2023-05-15T20:19:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="1vkudb8ee68b8q282ikwxzek8qwu9q0" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Soldier Ring (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Soldier Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6110 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Soldier Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6110 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Soldier Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6110 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Soldier Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>1vkudb8ee68b8q282ikwxzek8qwu9q0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solid Krabble (XC3)</title>
+    <ns>0</ns>
+    <id>117902</id>
+    <revision>
+      <id>583424</id>
+      <parentid>559955</parentid>
+      <timestamp>2023-04-18T15:11:48Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583424</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="836" sha1="8y5369jn4o3v09997mk9ps2cjf8nlnr" xml:space="preserve">{{for|the enemy in {{XC|-}}|Solid Krabble (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Solid Krabble
+|image        = 
+|caption      = Solid Krabble
+|category     = Normal Enemy
+|type         = [[Krabble]]
+|level        = 11
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Solid Krabbles''' are normal minor enemies in {{XC3}}. They are members of the [[Krabble]] family, and can be found at level 11 in [[Millick Meadows]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Krabbles]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing an infobox image]]</text>
+      <sha1>8y5369jn4o3v09997mk9ps2cjf8nlnr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solid Socks</title>
+    <ns>0</ns>
+    <id>119010</id>
+    <revision>
+      <id>592869</id>
+      <parentid>592446</parentid>
+      <timestamp>2023-05-15T20:19:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592869</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1036" sha1="kd2q29opuxe0mb5cl73h4dcklwvjpc2" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Solid Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 35 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Solid Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 40 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Solid Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 45 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Solid Socks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>kd2q29opuxe0mb5cl73h4dcklwvjpc2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solid Weak Guard</title>
+    <ns>0</ns>
+    <id>119011</id>
+    <revision>
+      <id>592870</id>
+      <parentid>592288</parentid>
+      <timestamp>2023-05-15T20:19:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592870</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="967" sha1="62f3g7uf17jcdkcj36xgzmxypwyscmd" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Solid Weak Guard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Solid Weak Guard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 41%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Solid Weak Guard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 42%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Solid Weak Guards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>62f3g7uf17jcdkcj36xgzmxypwyscmd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solis Rings</title>
+    <ns>0</ns>
+    <id>122572</id>
+    <revision>
+      <id>592871</id>
+      <parentid>592522</parentid>
+      <timestamp>2023-05-15T20:19:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592871</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="471" sha1="b1zlxr8thircvboy6s5232r7dfpwmt3" xml:space="preserve">{{Infobox item
+|name      = Solis Rings
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts Healing by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Container#Legacy of the Seven|Legacy of the Seven]] at [[Demihuman Gutter]]
+|sell      = N/A
+}}
+'''Solis Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>b1zlxr8thircvboy6s5232r7dfpwmt3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solshiss Camill</title>
+    <ns>0</ns>
+    <id>121859</id>
+    <revision>
+      <id>559956</id>
+      <parentid>546984</parentid>
+      <timestamp>2022-09-30T10:58:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559956</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="som4ddlotfxq4qz437t9pj5sjglkcgd" xml:space="preserve">{{Infobox Enemy
+|name         = Solshiss Camill
+|image        = 
+|caption      = Solshiss Camill
+|category     = Minor Enemy
+|type         = [[Camill]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Solshiss Camills''' are Minor Enemies in {{XC3}}. They are members of the [[Camill]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Camills]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>som4ddlotfxq4qz437t9pj5sjglkcgd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sonic Sensor</title>
+    <ns>0</ns>
+    <id>122606</id>
+    <revision>
+      <id>592872</id>
+      <parentid>592365</parentid>
+      <timestamp>2023-05-15T20:19:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592872</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="993" sha1="as43x4zq63sjm9qy73lte7qaewsdfv1" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Sonic Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Sonic Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Sonic Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Sonic Sensors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>as43x4zq63sjm9qy73lte7qaewsdfv1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sonorous Taos</title>
+    <ns>0</ns>
+    <id>125614</id>
+    <revision>
+      <id>577036</id>
+      <timestamp>2023-02-16T01:50:44Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Enemy |name         = Sonorous Taos |image        =  |caption      = Sonorous Taos |category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] |type         = [[Taos]] |level        = 43 |area         = [[Eagus Wilderness]] ([[Piento Basin]]) |spawntime    = During ''[[Lapidarist Extraordinaire]]'' |respawn      = No |movement     =  |detection    =  |exp          =  |cp           =  |sp           =  }} '''Sonorous Taos''' are Quest Exclusive En..."</comment>
+      <origin>577036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1071" sha1="n4r3t9k3izouztkl5cm2hpdjlzexh11" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sonorous Taos
+|image        = 
+|caption      = Sonorous Taos
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Taos]]
+|level        = 43
+|area         = [[Eagus Wilderness]] ([[Piento Basin]])
+|spawntime    = During ''[[Lapidarist Extraordinaire]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sonorous Taos''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Taos]] family, and can be found at level 43 at [[Piento Basin]] in the [[Eagus Wilderness]] during ''[[Lapidarist Extraordinaire]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 DLC Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Taos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>n4r3t9k3izouztkl5cm2hpdjlzexh11</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soothing Breath</title>
+    <ns>0</ns>
+    <id>118894</id>
+    <revision>
+      <id>595264</id>
+      <parentid>592027</parentid>
+      <timestamp>2023-06-11T16:31:08Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595264</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6458" sha1="481jj7jtygwrgw7pt8r9trty1ilgvgz" xml:space="preserve">{{Infobox Gem
+| name     = Soothing Breath
+| image    = Gem-healer.png
+| effect   = [Passive] When helping an incapacitated ally, revives them with ''(value)%'' more HP; also raises Healing by ''(value)''.
+| category = Healer
+| max      = 45% / 15
+}}
+'''Soothing Breath''' is a Healer [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 300px"
+!
+!HP Increase
+!Healing Increase
+|-
+!I
+|20%
+|5
+|-
+!II
+|22%
+|6
+|-
+!III
+|25%
+|7
+|-
+!IV
+|27%
+|8 
+|-
+!V
+|30%
+|9 
+|-
+!VI
+|32%
+|10
+|-
+!VII
+|35%
+|11
+|-
+!VIII
+|37%
+|12
+|-
+!IX 
+|40%
+|13
+|-
+!X
+|45%
+|15
+|}
+
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Soothing Breath I
+|[[Gemstone]]&lt;br /&gt;[[Skeeter Honey]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Soothing Breath II
+|Gemstone&lt;br /&gt;[[Imperial Taos Egg]]&lt;br /&gt;[[Bunnit Meat]]&lt;br /&gt;[[Honey Lily]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Soothing Breath III
+|Gemstone&lt;br /&gt;Skeeter Honey&lt;br /&gt;[[Cured Armu Sirloin]]&lt;br /&gt;[[Thick Moramora Fin]]&lt;br /&gt;[[Twooth Clover]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Soothing Breath IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Preserved Gogol Snack]]&lt;br /&gt;[[Flier Nectar Jelly]]&lt;br /&gt;[[Aspar Secretion]]&lt;br /&gt;[[Million-Leaf Dill]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Soothing Breath V
+|Pure Gemstone&lt;br /&gt;[[Gulkin Seaweed Snack]] x 2&lt;br /&gt;[[Wisp Nectar]] x 2&lt;br /&gt;[[Full-Bodied Ardun Meat]] x 2&lt;br /&gt;[[Albinite]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+| Soothing Breath VI
+| Pure Gemstone&lt;br /&gt;[[Compressed Ansel Meat]] x 2&lt;br /&gt;Cured Armu Sirloin x 2&lt;br /&gt;[[Quality Red Krodlax Meat]] x 2&lt;br /&gt;[[Thinskin]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Soothing Breath VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Prized Merigna Salt]] x 2&lt;br /&gt;[[Rare Urchon Egg]] x 2&lt;br /&gt;Thick Moramora Fin x 3&lt;br /&gt;[[Auxilia Cylinder]] x 3&lt;br /&gt;[[Ring Guava]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Soothing Breath VIII
+| Ultra Pure Gemstone x 2&lt;br /&gt;[[Powdered Skwaror Leaves]] x 15&lt;br /&gt;Skeeter Honey x 15&lt;br /&gt;[[Silver Ravoon Bone]] x 15&lt;br /&gt;Gulkin Seaweed Snack x 15&lt;br /&gt;[[Neo Walnut]] x 10&lt;br /&gt;Ether Cylinder x 3 
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Soothing Breath IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Shoox Flower Whisker]] x 20&lt;br /&gt;[[Krabble Viscera]] x 20&lt;br /&gt;[[Ulula Metal Fist]] x 20&lt;br /&gt;[[Blooming Ellook Flower]] x 20&lt;br /&gt;[[Vermilion Bark (XC3)|Vermillion Bark]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Soothing Breath X 
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Gastrates Ether Furnace]] x 30&lt;br /&gt;[[Marbled Quarmu Meat]] x 30&lt;br /&gt;[[Sweet Pagul Body]] x 30&lt;br /&gt;[[Obsidian Kananus Mane]] x 30&lt;br /&gt;[[Rich Quarmu Sea Milk]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Soothing Breath I
+| [[Gemstone]]&lt;br /&gt;[[Wisp Sun Bead (XC3)|Wisp Sun Bead]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Soothing Breath II
+| Gemstone&lt;br /&gt;[[Painted Totem Board]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Soothing Breath III
+| [[Pure Gemstone]]&lt;br /&gt;[[Salty Aligo Viscera]] x2&lt;br /&gt;[[Preserved Gogol Snack]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Soothing Breath IV
+| Pure Gemstone&lt;br /&gt;[[Egel Horn]] x2&lt;br /&gt;[[Refreshing Piranhax Meat]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Soothing Breath V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Great Feris Horn Pair]]&lt;br&gt;Painted Totem Board x2&lt;br&gt;Preserved Gogol Snack x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>481jj7jtygwrgw7pt8r9trty1ilgvgz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sotorig Quadwing</title>
+    <ns>0</ns>
+    <id>123204</id>
+    <revision>
+      <id>559957</id>
+      <parentid>553534</parentid>
+      <timestamp>2022-09-30T10:58:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="36xretw40ombiutr4kgn8na6rsjoco3" xml:space="preserve">{{Infobox Enemy
+|name         = Sotorig Quadwing
+|image        = 
+|caption      = Sotorig Quadwing
+|category     = Minor Enemy
+|type         = [[Quadwing]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Sotorig Quadwings''' are Minor Enemies in {{XC3}}. They are members of the [[Quadwing]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>36xretw40ombiutr4kgn8na6rsjoco3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soul Tree</title>
+    <ns>0</ns>
+    <id>117647</id>
+    <revision>
+      <id>570491</id>
+      <parentid>564203</parentid>
+      <timestamp>2023-01-01T07:17:45Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>information and add soul trees</comment>
+      <origin>570491</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1906" sha1="ndy7b5vu9i1epscofh6s6h4x9pgtis8" xml:space="preserve">'''Soul Tree''' (Japanese: {{Lang|jp|&#12477;&#12454;&#12523;&#12484;&#12522;&#12540;}}, ''sourutsur&#299;'') is a game mechanic in {{XC3}}. It unlocks upgrades for the main characters' [[Ouroboros]] forms, unlocking and enhancing [[Battle Arts (XC3)|Arts]] and [[Skill (XC3)|Skills]] innate to their Ouroboros. It is comparable to the [[Skill Tree]] in {{XC}} and the [[Affinity Chart (XC2)|Affinity Chart]] in {{XC2}}.
+
+== Overview ==
+The Soul Tree is unlocked for Keves party members at the end of Chapter 2, as they unlock their Ouroboros forms then. The Agnus party members unlock their own Soul Trees at the end of Chapter 3.
+
+Upgrades in the Soul Tree require '''Soul Points''', or '''SP'''. Soul Points can be earned by various means, such as opening [[Container]]s, completing {{Link noparens|Quest (XC3)}}s, or defeating {{Link noparens|Unique Monster (XC3)}}s. In order to unlock a node containing an ability, an adjacent node's ability must be acquired. For enhancing arts and skills, the base art or skill must already be learned in order to acquire the upgrade.
+
+Once all Ouroboros forms have been unlocked, stat increases, Heat Gauge upgrades and skills in one's Soul Tree may be shared with their Ouroboros partner, in a process known as '''Soul Link'''. Initially only one slot is available to Soul Link, with the second slot being unlocked upon completing that character's Side Story.
+== Gallery ==
+&lt;gallery&gt;
+File:XC3 Soul Tree Noah.jpeg|The Soul Tree of Noah's Ouroboros
+File:XC3 Soul Tree Mio.jpeg|The Soul Tree of Mio's Ouroboros
+File:XC3 Soul Tree Eunie.jpeg|The Soul Tree of Eunie's Ouroboros
+File:XC3 Soul Tree Taion.jpeg|The Soul Tree of Taion's Ouroboros
+File:XC3 Soul Tree Lanz.jpeg|The Soul Tree of Lanz's Ouroboros
+File:XC3 Soul Tree Sena.jpeg|The Soul Tree of Sena's Ouroboros
+&lt;/gallery&gt;{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Arts]]
+[[Category:XC3 Battle Flow]]
+[[Category:XC3 Ouroboros]]
+[[Category:XC3 Stats]]</text>
+      <sha1>ndy7b5vu9i1epscofh6s6h4x9pgtis8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soulgaze Headband</title>
+    <ns>0</ns>
+    <id>124393</id>
+    <revision>
+      <id>576993</id>
+      <parentid>566898</parentid>
+      <timestamp>2023-02-15T21:19:47Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>remove needs an infobox image category</comment>
+      <origin>576993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="534" sha1="bkgm6h5pdxnpy7obihsnp5luct1xuia" xml:space="preserve">{{Infobox item
+|name      = Soulgaze Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Soulgaze Headbands''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>bkgm6h5pdxnpy7obihsnp5luct1xuia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Soulhacker</title>
+    <ns>0</ns>
+    <id>118547</id>
+    <revision>
+      <id>596791</id>
+      <parentid>581039</parentid>
+      <timestamp>2023-06-20T14:10:15Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>class unlock, weapon stats and class description</comment>
+      <origin>596791</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34550" sha1="kqy3vs8v8ganqe2qushqyh9rjlv6gnx" xml:space="preserve">{{Spoiler}}
+[[File:XC3 Soulhacker Weapon Icon.png|thumb|The Soulhacker class icon]]
+{{quote|A special class, enabling a variety of fighting styles using skills and Arts stolen from enemies.|Class menu description}}
+'''Soulhacker''' is a special [[class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Soulhacker is the class of [[Triton]]. It cannot equip any Master Arts and Skills from other classes, with the specific exception of Noah and Mio's unique Talent Arts. Instead, it acquires a wide variety of Arts and Skills from enemies. Its Talent Art, [[Final Countdown]], becomes more powerful with each Art or Skill learned by the class.
+
+A Soulhacker can equip three each of [[Keves]]i Enemy Arts, [[Agnus|Agnian]] Enemy Arts, and Enemy Skills at a time. As a Kevesi class, the Kevesi Arts are considered Class Arts and the Agnian Arts are considered Master Arts for most purposes. For example, Agnian Arts are uncharged at the start of battle, unless the wearer equips an Accessory that charges Master Arts. 
+
+The Arts and Skills thus acquired can be further upgraded by meeting criteria specific to each individual Art or Skill; these requirements can be seen from the Soul Hack submenu, which is accessible by pressing Y from the Heroes menu.
+
+It is unlocked by completing the [[Hero Quest]] ''[[Doing It My Way]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 by completing the Ascension Quest ''[[My Memories]]''.
+
+{{clr}}
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|5,625
+|2,815
+|4,690
+|6,565
+|''Class Inheritor''
+|3,750
+|}
+
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 375
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 375 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[My Memories]]''
+|-
+| 11 
+| 335
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 335
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 450
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 450
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 560
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 560 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 670
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 670
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 725
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 840
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Role Skills ==
+Although it appears as an Attacker on the class menu, the Soulhacker can be any role. It has a special Role Skill slot that determines its stat spread and role, including [[Chain Attack (XC3)|Chain Ability]], and ability to revive allies if a Healer.
+
+* Power Soul: Attacker with high attack but low accuracy. 
+* Strike Soul: Attacker with good accuracy and evasion. 
+* Tough Soul: Defender with high HP. 
+* Dodge Soul: Defender specialized in evasion. 
+* Heal Soul: Healer with high Healing Power. 
+* Balanced Soul: Healer with balanced stats.
+=== Class Stats ===
+The Role Skill set on a character determines the multipliers that are applied to a character's base stats (see their individual pages for their base stats), as well as their Physical and Ether Defense.
+
+Unlike all other classes, Soulhacker class stats for player-controlled Soulhackers only increase once at a certain Rank, as opposed to gaining stat increases at every Rank. Internally, only two sets of multipliers are programmed for each role skill, as oppposed to one set of multipliers for each Rank of a class. The lowest Rank at which the second set of multipliers is used is listed in each table; at Ranks lower than this, the first set is used.
+&lt;tabber&gt;
+Power Soul=
+&lt;h4 style="display:none;"&gt;Power Soul&lt;/h4&gt;
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 70% || 120% || 10% || 95% || 70% || 15% || 5%
+|-
+| 15 || 75% || 130% || 15% || 105% || 75% || 20% || 10%
+|}
+|-|
+Strike Soul=
+&lt;h4 style="display:none;"&gt;Strike Soul&lt;/h4&gt;
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 70% || 105% || 25% || 110% || 90% || 10% || 10%
+|-
+| 15 || 75% || 115% || 30% || 120% || 95% || 15% || 15%
+|}
+|-|
+Tough Soul=
+&lt;h4 style="display:none;"&gt;Tough Soul&lt;/h4&gt;
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 115% || 90% || 10% || 90% || 60% || 35% || 30%
+|-
+| 20 || 125% || 95% || 15% || 95% || 65% || 45% || 35%
+|}
+|-|
+Dodge Soul=
+&lt;h4 style="display:none;"&gt;Dodge Soul&lt;/h4&gt;
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 100% || 90% || 10% || 100% || 115% || 30% || 35%
+|-
+| 20 || 110% || 95% || 15% || 105% || 120% || 35% || 45%
+|}
+|-|
+Heal Soul=
+&lt;h4 style="display:none;"&gt;Heal Soul&lt;/h4&gt;
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 65% || 70% || 95% || 105% || 85% || 5% || 20%
+|-
+| 20 || 70% || 75% || 100% || 110% || 90% || 10% || 30%
+|}
+|-|
+Balanced Soul=
+&lt;h4 style="display:none;"&gt;Balanced Soul&lt;/h4&gt;
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 60% || 80% || 65% || 100% || 85% || 5% || 25%
+|-
+| 20 || 65% || 90% || 75% || 105% || 90% || 10% || 30%
+|}
+&lt;/tabber&gt;
+== Weapon Stats ==
+The character's Attack stat after being modified by the class stats as determined by Role Skill is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate, and are independent of the character's currently set Role Skill (the same weapon stats also apply to Triton).
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art, although in practice this can only be applied to [[Final Countdown]], the class's only Master Art.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 19 || 15% || 25%
+|-
+| 10 || 41 || 15% || 25%
+|-
+| 20 || 74 || 15% || 25%
+|-
+| 30 || 115 || 15% || 25%
+|-
+| 40 || 160 || 15% || 25%
+|-
+| 50 || 214 || 15% || 25%
+|-
+| 60 || 273 || 15% || 25%
+|-
+| 70 || 338 || 15% || 25%
+|-
+| 80 || 412 || 15% || 25%
+|-
+| 90 || 495 || 15% || 25%
+|-
+| 99 || 580 || 15% || 25%
+|}
+== Soul Hack ==
+[[File:XC3 Tutorial Soul Hacked.jpg|thumb|Splash screen upon a successful Soul Hack]]
+To Soul Hack a [[Unique Monster (XC3)|Unique Monster]], it must be defeated while any member of the party possesses the Soul Hack Skill. This means that someone must either be in the Soulhacker class, or equip Soul Hack as a Master Skill. Triton himself does not possess the Soul Hack skill and thus cannot hack monsters himself.
+
+If [[Noah]] is equipped with the Soul Hack skill and uses [[Unlimited Sword]], the skill (alongside any other skills he has equipped) will be replaced with the special skill set brought about by Unlimited Sword. Thus, defeating a Unique Monster while he is using [[Lucky Seven]] with no other party members having Soul Hack will not result in a Soul Hack.&lt;ref&gt;https://youtu.be/mQX6cDStiN8 Video showcasing the interaction between Unlimited Sword and Soul Hack&lt;/ref&gt;
+
+[[File:Soulhack Target.png|thumb|100px|Soul Hack crosshair]]
+When a Unique Monster is targeted while a member has Soul Hack and its Art/Skill has not yet been learned, a purple-pink Soul Hack crosshair will appear over it to indicate it can be hacked. Once hacked, an Art/Skill may be equipped by any Soulhacker, regardless of who hacked it.
+
+=== List of Arts and Skills to hack ===
+{{main|Unique Monster (XC3)}}
+The list of Unique Monsters includes their granted Art/Skill.
+
+== Default Arts ==
+The Soulhacker class starts with the following Arts unlocked. The non-Talent Arts are considered Kevesi Arts for purposes of determining cooldowns as well as for determining Arts allocation in a character's Arts Palette.
+* '''[[Final Countdown]]''' (Talent Art), Dmg+ per Soul Hack
+* '''[[Draining Vacuum]]''', Area heal on hit
+* '''[[Dig]]''', AOE / Side attack&#8593;
+* '''[[Double Bite]]''', Cancel attack&#8593;
+
+== Enemy Arts ==
+The Soulhacker class cannot equip Arts from other Agnian classes in the game for its Master Arts; instead all of its remaining Arts are unlocked through Soul Hacking. This includes both Agnian Arts which behave in the role of Master Arts, as well as Kevesi Arts that can be used in place of the default Arts.
+{| class="xc1 sortable" width=100%
+! Art
+! Recharge Type
+! Effect
+! Unique Monster
+! Upgrade Condition
+|-
+| [[Aquaball]]
+| Keves
+| AOE/Land&#8593;/[[Attack Down|Atk down]]
+| [[Covetous Gerondon]]
+| Deal 300,000 damage with this Art
+|-
+| [[Aquatic Missile]]
+| Agnus
+| [[Topple (XC3)|Topple]]
+| [[Frolicking Parker]]
+| Use the Art 100 times
+|-
+| [[Battle Pheromone]]
+| Agnus
+| AOE/[[Attack Up|Atk+]]/[[Critical Rate Up (XC3)|Crit. rate+]]
+| [[Gracious Titania]]
+| Obtain 130,000 [[Gold|G]] (only counts some ways, e.g. auto selling)
+|-
+| [[Beast Howl]]
+| Keves
+| AOE / High aggro
+| [[Lapdog Veece]]
+| Defeat Lapdog Veece 15 times
+|-
+| [[Bomberhead]]
+| Agnus
+| [[Launch (XC3)|Launch]]
+| [[Oceanic Lucera]]
+| Use the Art 100 times
+|-
+| [[Bubble Cloud]]
+| Agnus
+| AOE / Machines&#8593;
+| [[Househunter Carly]]
+| Deal 300,000 damage with this Art
+|-
+| [[Burrowing Rocket]]
+| Agnus
+| Evade / Flying&#8593;
+| [[Keen Chicky-Chicky]]
+| Deal 300,000 damage with this Art
+|-
+| [[Butterfly Dust]]
+| Agnus
+| AOE / [[Defense Up|Def. up]]
+| [[Perturbed Bilkin]]
+| Obtain 100,000 [[Gold|G]] (only counts some ways, e.g. auto selling)
+|-
+| [[Cavalry]]
+| Keves
+| [[Shackle Blocking|Shackle blocking]]
+| [[Littlefort Morley]]
+| Defeat Littlefort Morley 10 times
+|-
+| [[Cursed Cuisine]]
+| Agnus
+| [[Blowdown (XC3)|Blowdown]]
+| [[Crystalline DuGarre]]
+| Use the Art 100 times
+|-
+| [[Desperate Charge]]
+| Keves
+| AOE/[[Fast Recharge|Fast charge]]/[[Critical Hit Plus|Crit.+]]
+| [[King Krawkin]]
+| Defeat King Krawkin 3 times
+|-
+| [[Dino Flash]]
+| Keves
+| High HP: Dmg up
+| [[Fineblade Faltaar]]
+| Deal 300,000 damage with this Art
+|-
+| [[Dino Storm]]
+| Keves
+| AOE / Evade
+| [[Blazing Karlos]]
+| Use the Art 100 times
+|-
+| [[Double Slap]]
+| Keves
+| [[Phys Def Down (XC3)|Phys Def Down]]
+| [[Saberly Doramp&#233;]]
+| Use the Art 100 times
+|-
+| [[Double Strike]]
+| Keves
+| Wounded enemy&#8593;
+| [[Bloodsucking Elvis]]
+| Deal 300,000 damage with this Art
+|-
+| [[Dragon Decree]]
+| Agnus
+| AOE/X-debuff/[[Power Charge|Pwr Charge]]
+| [[Hardscale Gouran]]
+| Raise the [[Affinity (XC3)|Affinity Level]] of 8 [[Colony|colonies/forces]] to at least 1
+|-
+| [[Dragon Gas]]
+| Keves
+| AOE / [[Target Lock]]
+| [[Villainous Igna]]
+| Defeat Villainous Igna 10 times
+|-
+| [[Dual Attack]]
+| Keves
+| Reduce mid-Art damage
+| [[Seadragoon Melchior]]
+| Defeat Seadragoon Melchior 5 times
+|-
+| [[Electric Skin]]
+| Agnus
+| AOE / [[Daze (XC3)|Daze]]
+| [[Sundappled Floria]]
+| Use the Art 100 times
+|-
+| [[Elimination Beam]]
+| Agnus
+| AOE/[[Phys Def Down (XC3)|Phys Def Down]]
+| [[Clinging Azreel]]
+| Use the Art 100 times
+|-
+| [[Ether Sphere (art)|Ether Sphere]]
+| Agnus
+| Front attack&#8593;
+| [[Seatiger Tridence]]
+| Deal 300,000 damage with this Art
+|-
+| [[Evasive Posture]]
+| Agnus
+| Eva. up / Atk down
+| [[Dishonest Karom]]
+| Use the Art 100 times
+|-
+| [[Fin of Fear]]
+| Keves
+| AOE / Eva.+ during Art
+| [[Massive Georges]]
+| Deal 300,000 damage with this Art
+|-
+| [[Gatling Peck]]
+| Agnus
+| [[Ether Defense Down (XC3)|Ether Defense Down]]
+| [[Heavenrazor Egreet]]
+| Use the Art 100 times
+|-
+| [[Hard Dig]]
+| Keves
+| Toppled&#8593; / [[Knockback (XC3)|Knockback]]
+| [[Sycophantic Lilith]]
+| Deal 300,000 damage with this Art
+|-
+| [[Hawk Shot]]
+| Agnus
+| Side [[Break (XC3)|Break]]
+| [[Terrorbird Zieger]]
+| Use the Art 100 times
+|-
+| [[Healing Rest]]
+| Agnus
+| AOE / Heal
+| [[Timbercorn Cthinos]]
+| Heal 300,000 HP with this Art
+|-
+| [[Horn Dance]]
+| Keves
+| AOE / Dmg+ per enemy
+| [[Perspicacious Oldar]]
+| Discover 100 [[Landmark]]s in total
+|-
+| [[Hydra Gas]]
+| Agnus
+| AOE / [[Resistance Down|Resistance down]]
+| [[Demonic Krenolur]]
+| Use the Art 100 times
+|-
+| [[Hypno-Light]]
+| Agnus
+| AOE/[[Evasion Down|Eva. down]]/[[Accuracy Down|Acc. down]]
+| [[Heretical Saurow]]
+| Use the Art 100 times
+|-
+| [[Hypnotism]]
+| Agnus
+| [[Bind (XC3)|Bind]]
+| [[Profound Hodzuki]]
+| Defeat Profound Hodzuki 10 times
+|-
+| [[Jet Stream]]
+| Agnus
+| AOE / [[Blowdown (XC3)|Blowdown]]
+| [[Otherworldly Rodsin]]
+| Use the Art 100 times
+|-
+| [[King's Bash]]
+| Agnus
+| Gain charge on hit
+| [[Conqueror Deepwan]]
+| Defeat Conqueror Deepwan 3 times
+|-
+| [[Last Fencer]]
+| Agnus
+| Chance to pierce
+| [[Raucous Ron]]
+| Defeat Raucous Ron 15 times
+|-
+| [[Life Plant]]
+| Keves
+| Field / [[Regenerate (XC3)|Regenerate]]
+| [[Gorgeous Mandora]]
+| Heal 300,000 HP with this Art
+|-
+| [[Ministorm]]
+| Agnus
+| AOE/Mid-Art enemy&#8593;
+| [[Spartan Fennick]]
+| Deal 300,000 damage with this Art
+|-
+| [[Murder Knuckle]]
+| Keves
+| Pierce/Dmg to self
+| [[Ghostfist R&#243;is&#237;n]]
+| Defeat 1800 monsters in total
+|-
+| [[Neck Slice]]
+| Keves
+| High aggro / Agnus&#8593;
+| [[Forsaken Arbiter]]
+| Deal 300,000 damage with this Art
+|-
+| [[Piercing Laser]]
+| Agnus
+| Dmg per exhausted Art
+| [[Besieger Sheritt]]
+| Learn 50 Arts from Unique Monsters
+|-
+| [[Pointy Stick]]
+| Agnus
+| Wounded enemy&#8593;
+| [[Virtuous Gulkin]]
+| Deal 300,000 damage with this Art
+|-
+| [[Poison Spray]]
+| Agnus
+| AOE / [[Bleed (XC3)|Bleed]]
+| [[Rambler Curalie]]
+| Use the Art 100 times
+|-
+| [[Predation]]
+| Keves
+| KO chance on wounded
+| [[Ruthless Grokken]]
+| Defeat Unique Monsters 100 times
+|-
+| [[Psychowave]]
+| Keves
+| AOE/Keves&#8593;/[[Burst]]
+| [[Obliterator Centaurio]]
+| Use the Art 100 times
+|-
+| [[Radiant Arts]]
+| Keves
+| High acc. / Evade
+| [[Shimmering Marcko]]
+| Learn 40 Arts from Unique Monsters
+|-
+| [[Raid Strike]]
+| Keves
+| Dmg up at low HP
+| [[Puzzled Raquinu]]
+| Deal 300,000 damage with this Art
+|-
+| [[Rhino Storm]]
+| Keves
+| Annul reaction/[[Blowdown (XC3)|Blowdown]]
+| [[Foolhardy Saide]]
+| Deal 300,000 damage with this Art
+|-
+| [[Shark Shock]]
+| Agnus
+| AOE / High Crit. Rate
+| [[Intrusive Neville]]
+| Deal 300,000 damage with this Art
+|-
+| [[Shell Guard]]
+| Agnus
+| Def. up / Atk down
+| [[Hardshelled Admory]]
+| Use the Art 100 times
+|-
+| [[Snake Eyes]]
+| Keves
+| Chance to remove buff
+| [[Hazardous Jarrahed]]
+| Defeat Hazardous Jarrahed 15 times
+|-
+| [[Spider Web]]
+| Keves
+| Enemy charge 0 (%)
+| [[Flyswatter Kamado]]
+| Discover 4 [[Secret Area]]s in total
+|-
+| [[Spinning Bolt]]
+| Keves
+| Aquatic&#8593; / [[Bleed (XC3)|Bleed]]
+| [[Diabolical Rindolph]]
+| Deal 300,000 damage with this Art
+|-
+| [[Spit Beam]]
+| Keves
+| AOE / Unblockable (%)
+| [[Mobile Vespa]]
+| Defeat Mobile Vespa 10 times
+|-
+| [[Sumo Press]]
+| Agnus
+| AOE / [[Smash (XC3)|Smash]]
+| [[Indiscreet Gombaba]]
+| Deal 300,000 damage with this Art
+|-
+| [[Tail Slap]]
+| Keves
+| Aggro down
+| [[Scornful Daria]]
+| Use the Art 100 times
+|-
+| [[Thunderclap (XC3)|Thunderclap]]
+| Keves
+| AOE / Launched&#8593;
+| [[Wicked Wolf Aranqui]]
+| Defeat 1500 monsters in total
+|-
+| [[Toxic Gas]]
+| Keves
+| AOE/[[Power Charge|Pwr Charge]] on hit
+| [[Spectral R&#233;my]]
+| Deal 300,000 damage with this Art
+|-
+| [[Transient Bond]]
+| Agnus
+| Gain charge on crit.
+| [[Seraphic Ceratinia]]
+| Defeat Unique Monsters 200 times
+|-
+| [[Trick Dart]]
+| Agnus
+| AOE / 1 random debuff
+| [[Witchwind Kujjat]]
+| Deal 300,000 damage with this Art
+|-
+| [[Trout Hop]]
+| Keves
+| Back attack&#8593;
+| [[Naval Gyrus]]
+| Deal 300,000 damage with this Art
+|-
+| [[Vampire Bat]]
+| Agnus
+| Area heal on hit
+| [[Defiled Ishtar]]
+| Heal 300,000 HP with this Art
+|-
+| [[Water Jet]]
+| Agnus
+| AOE/[[Accuracy Down|Acc. down]]/[[Knockback (XC3)|Knockbk]]
+| [[Wraithfin Segna]]
+| Use the Art 100 times
+|-
+| [[Wild Wave]]
+| Keves
+| AOE / Dmg to self
+| [[Immovable Gonzalez (XC3)|Immovable Gonzalez]]
+| Use the Art 100 times
+|}
+
+== Enemy Skills ==
+The Soulhacker class, unlike any other class cannot equip Master Skills. Instead, it can equip 3 enemy skills acquired from defeating unique monsters. These skills are upgraded when a specific condition is met, and their stats increase.
+
+{| class="xc1 sortable" width=100%
+! Skill
+! Effect
+! Unique Monster
+! Upgrade Condition
+|-
+| Accelerating Attacks
+| Boosts damage dealt by 25/50% when using an Art while Quick Move is active
+| [[Petrivore Judomar]]
+| Deal 1,000,000 damage with this skill set (without interlinking)
+|-
+| Accelerator Organ
+| 5/15% chance for own attack to become a guaranteed hit and to evade enemy attacks during it
+| [[Night-Stalker Volodya]]
+| Defeat 1300 monsters in total
+|-
+| Action Reaction
+| Boosts all Arts recharge by 30/50% when hit by a combo reaction
+| [[Vengeful Dominator]]
+| Defeat 100 monsters with this skill set
+|-
+| Air Body
+| Boosts Agility by 10/30%
+| [[Altruistic Maribel]]
+| Evade 200 attacks with this skill set (not Interlinked)
+|-
+| Amazing Growth
+| &lt;abbr title="Boosts damage by 0.25/0.5% per second in battle (max. 60%)"&gt;Boosts damage dealt based on the amount of battle time elapsed&lt;/abbr&gt;
+| [[Tenderling Rumi]]
+| Obtain 160,000 [[Gold|G]] (only counts some ways, e.g. auto selling) 
+|-
+| Apothecary's Wisdom
+| Boosts amount of HP healed from using healing arts by 20/30%
+| [[Galloping Ghuldan]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Aquatic Warrior
+| Boosts damage dealt by 30/50% when in the water
+| [[Sharpscale Ragoon]]
+| Defeat Sharpscale Ragoon 5 times
+|-
+| Attack Heal
+| Heals self when auto-attack hits, to a maximum of 60/100% of Healing Power
+| [[Ravenous Babayaga]]
+| Obtain 200,000 G (only counts some ways, e.g. auto-selling)
+|-
+| Attack Mastery
+| &lt;abbr title="Boosts damage by 0.3/0.5% per Soul Hack (max. 50%)"&gt;Boosts damage dealt for each Soulhacker Art or Skill learned&lt;/abbr&gt;
+| [[Creeping Hameel]]
+| Discover 130 [[:Category:XC3 Landmarks|landmark]]s in total
+|-
+| Awakilling
+| After own revival, deal 60/100% more damage and take 20/30% less damage for a fixed time
+| [[Widdershins Radler]]
+| Defeat 150 monsters with this skill set
+|-
+| Battle Fever
+| 80/100% chance to grant [[Awakening (XC3)|Awakening]] and [[Critical Rate Up (XC3)]] on enemy defeat
+| [[Fleeting Shikino]]
+| Defeat 50 monsters with this skill set
+|-
+| Berserker Mindset
+| Deal 30/50% more damage but take 15/20% more damage
+| [[Vapid Roger]]
+| Defeat 150 monsters with this skill set
+|-
+| Blasting Stomp
+| When activating [[Quick Move]], deals 100/150% of Attack as damage to any enemies withing 5m
+| [[Jingoistic Gigantus]]
+| Defeat 200 monsters with this skill set
+|-
+| Breath of an Era
+| Boosts recharge speed by 20/30% when in the water
+| [[Fairscale Marina]]
+| Defeat Fairscale Marina 5 times
+|-
+| Celestial Conqueror
+| Boosts damage dealt by 20/45% when HP is at 100%
+| [[Ragemaw Tempeldo]]
+| Deal 1,000,000 with this skill set (not Interlinked)
+|-
+| Counter Puncher
+| Adds 6/15% chance to grant [[Power Charge]] when evading
+| [[Fang-King Clavein]]
+| Defeat 50 monsters with this skill set
+|-
+| Creeping Predator
+| Boosts damage dealt when attacking from behind by 15/25%
+| [[Jealous Mizraile]]
+| Deal 1,000,000 with this skill set (not Interlinked)
+|-
+| Damage Share
+| When low on HP, a random ally takes the damage you receive. The damage is boosted by 25/15%
+| [[Ambusher Tirion]]
+| Defeat 250 monsters with this skill set
+|-
+| Dangerous Claws
+| Increases Critical Rate by 10/20 percentage points and critical hit damage by 30/50 percentage points
+| [[Soaring Virion]]
+| Deal 1,000,000 with this skill set (not Interlinked)
+|-
+| Debuff Counter
+| Shortens duration of debuffs on self by 30/50%
+| [[Darkening Asha]]
+| Defeat 150 monsters with this skill set
+|-
+| Deeply Tactical
+| At start of [[Chain Attack (XC3)|Chain Attack]], increases [[Tactical Points|TP]] by 5/10
+| [[Talkative Dirakha]]
+| Defeat 2500 monsters total
+|-
+| Defense Mastery
+| &lt;abbr title="Reduces damage by 0.1/0.2% per Soul Hack (max. 20%)"&gt;Reduces damage taken for each Soulhacker Art or Skill learned&lt;/abbr&gt;
+| [[Pressing Rafeel]]
+| Raise the [[Affinity (XC3)|Affinity Level]] of 10 [[Colony|colonies/forces]] to at least 1
+|-
+| Defense Time
+| Reduces damage taken by 10/20% when recharge for all Arts is depleted
+| [[Unruffled Narrah]]
+| Defeat 200 monsters with this skill set
+|-
+| Deflector Plate
+| When blocking, adds 10/15% chance to reflect attack. (Absorbed attacks cannot be reflected.)
+| [[Thunderclap Dalton]]
+| Defeat 50 unique monsters in total
+|-
+| Dodge Acceleration
+| Adds 6/15% chance to grant [[Fast Recharge]] when evading
+| [[Gushing Masquin]]
+| Evade 200 attacks with this skill set (not Interlinked)
+|-
+| Drain Guard
+| On blocking, boosts recharge of one Art at random by 6/10%
+| [[Stoneclipper Gorse]]
+| Block 100 attacks with this skill set (not Interlinked)
+|-
+| Dual-Horn Pressure
+| &lt;abbr title="12.5/25 units per second, as seen in character build"&gt;Accrues Aggro every second.&lt;/abbr&gt;
+| [[Hornbow Dante]]
+| Evade 200 attacks with this skill set (not Interlinked)
+|-
+| Eagle Rush
+| &lt;abbr title="Attack speed increases by 5/15% and auto-attack interval is shortened by 10/20% per stack (max. 100%)"&gt;Chained auto-attacks increase attack speed. Auto-attack interval is also shortened&lt;/abbr&gt;
+| [[Perilwing Ryuho]]
+| Defeat 2200 monsters in total
+|-
+| Emergency Turbo
+| Boosts healing Arts recharge speed by 30/60% when an ally is at low HP
+| [[Repulsive Deepus]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Emperor of Violence
+| Boosts attack by 10/20%
+| [[Slack-Jawed Zephal]]
+| Defeat 250 monsters with this skill set
+|-
+| Energy Efficiency
+| Reduces healing Art effects by 30% but makes recharge 30/50% faster
+| [[Turbulent Martinez]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Excessive Armor
+| Adds 30/70% to block enemy combo reactions
+| [[Taskmaster Imperion]]
+| Block 100 attacks with this skill set (not Interlinked)
+|-
+| Exoshell
+| Reduces damage taken by 5/10% per enemy defeated (max. 20%)
+| [[Phony Temnos]]
+| Deal 1,000,000 with this skill set (not Interlinked)
+|-
+| Fiery Morale
+| Heals 50/75% of all allies' HP when defeating an enemy
+| [[Impregnable Sandhu]]
+| Defeat 2000 monsters total
+|-
+| Grace of the Land
+| Reduces damage taken by allies in a fixed radius by 20/30%
+| [[Spiralhorn Baccro]]
+| Learn 40 skills from monsters in total
+|-
+| Healing Mastery
+| &lt;abbr title="Boosts healing by 0.3/0.5% per Soul Hack (max. 50%)"&gt;Boosts amount of HP healed for each Soulhacker Art or Skill learned&lt;/abbr&gt;
+| [[Reaping Anteel]]
+| Discover 6 [[Secret Area#|Secret Area]]s in total
+|-
+| Heavy Armor
+| Increases Physical and Ether Defense by 5/10 percentage points
+| [[Protector Revelta]]
+| Defeat Protector Revelta 5 times
+|-
+| Hot Soul
+| 50/70% chance to survive a KO with 1 HP and five seconds of invincibility (once per battle, does not stack)
+| [[Dreadwyrm Nizoont]]
+| Learn 55 skills from monsters in total
+|-
+| Instant Charge
+| Own arts gain 60/100% recharge when an ally is incapacitated
+| [[Joyful Nimroog]]
+| Defeat 100 monsters with this skill set
+|-
+| Just a Moment
+| Restores 3/5% of HP when a buff is applied
+| [[Migratory Circe]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Large-Scale Shock
+| Extends area of effect of attack Arts which have one by 50/100%
+| [[Godlike Krastor]]
+| Deal 1,000,000 damage with this skill set (not Interlinked)
+|-
+| Magic Transmutation
+| Boosts damage dealt by 60/100% when afflicted with a debuff
+| [[Artificial Optho]]
+| Defeat 100 monsters with this skill set
+|-
+| Mano a Mano Evasion
+| Boosts evasion rate by 10/15% when attacked by a targeted enemy
+| [[Trickfist Tuano]]
+| Evade 200 attacks with this skill set (not Interlinked)
+|-
+| Megashout
+| 60/100% chance to inflict [[Target Lock]] on enemies whenever an ally's HP becomes critical. &lt;abbr title="Cooldown is 60/48s"&gt;Has cooldown&lt;/abbr&gt;
+| [[Doomfang Caum]]
+| Defeat Doomfang Caum 10 times
+|-
+| Mimic Technique
+| Reduces aggro on self by 60/100% when an ally is incapacitated
+| [[Phantom Streya]]
+| Defeat 100 monsters with this skill set
+|-
+| Monarch's Heart
+| Boosts maximum HP by 10/30%
+| [[Kilocorn Grandeps]]
+| Block 100 attacks with this skill set (not Interlinked)
+|-
+| Natural Guard
+| Boosts block rate by 20/40%
+| [[Dapper Sepiar]]
+| Block 100 attacks with this skill set (not Interlinked)
+|-
+| Needle Shell
+| When blocking, deals 100/200% of Attack damage to enemy, &lt;abbr title="Grants 5/10 units of aggro on block"&gt;drawing aggro&lt;/abbr&gt;
+| [[Barbed Merod]]
+| Defeat Barbed Merod 10 times
+|-
+| Nimbleness Itself
+| Boosts evasion by 20/30% while Quick Move is active
+| [[Craven Piggard]]
+| Evade 200 attacks with this skill set (not Interlinked)
+|-
+| Non-Stop Barrage
+| Grants 60/100% resistance to combos and reactions while Art is active
+| [[Impish Langobard]]
+| Defeat 200 monsters with this skill set 
+|-
+| One with the Land
+| Boosts recharge speed by 20/30% when on land
+| [[Miraging Yuri]]
+| Defeat Miraging Yuri 5 times
+|-
+| Physical Absorber
+| When blocking, adds 15/25% chance to absorb a physical attack
+| [[Phantasmagorical Rist]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Positional Attacker
+| Increases the no. of positional Arts that can be set to the Arts Palette by 1/2
+| [[Sharkblade Nedd]]
+| Learn 60 Arts from monsters in total
+|-
+| Power Pick-Me-Up
+| Boosts damage dealt by 30/50% after receiving no damage for a set time
+| [[Levialord Empireo]]
+| Deal 1,000,000 damage with this skill set (not Interlinked)
+|-
+| Queenly Pride
+| &lt;abbr title="Boosts damage by 15/25% for every enemy targeting you"&gt;Grants a small increase to damage dealt the more enemies target you (up to a maximum of 300%)&lt;/abbr&gt;
+| [[Spiky Aurelia]]
+| Deal 1,000,000 damage with this skill set (not Interlinked)
+|-
+| Queen of Mercy
+| Boosts Healing by 10/20%
+| [[Abysmal Rakshmi]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Recharge Cheer
+| 10/12% chance to keep recharge when using Art
+| [[Cruelfist Rojou]]
+| Defeat 80 unique monsters in total
+|-
+| Reckless Attack
+| Boosts damage dealt by 25/50%, but reduces max HP by half
+| [[Navigator Helios]]
+| Defeat Navigator Helios 5 times
+|-
+| Reserve Life
+| Restores 30/40% of HP when at low HP. &lt;abbr title="Cooldown is 60/48s"&gt;Has cooldown&lt;/abbr&gt;
+| [[Bushwhacker Farritt]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Revenge Impetus
+| Applies Target Lock to all enemies upon own revival. &lt;abbr title="Cooldown is 60/48s"&gt;Has cooldown&lt;/abbr&gt;
+| [[Crafty Anskey]]
+| Evade 200 attacks with this skill set (not Interlinked)
+|-
+| Royal Aide
+| &lt;abbr title="Increases ally revival speed by 30/50% per incapacitated ally (max. 200%)"&gt;Boosts ally revival speed for each incapacitated ally&lt;/abbr&gt;
+| [[Dimwitted Tirkin]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Royal Charisma
+| &lt;abbr title="Combo duration is extended by 5/10% per Art (max. 100% in a stage)"&gt;Extends duration of Break, Topple, Launch, Daze whenever Art hits&lt;/abbr&gt;
+| [[Heroic Gulkin]]
+| Defeat 250 monsters with this skill set
+|-
+| Sacrificial Heal
+| Heal 60/100% of all allies' HP when incapacitated
+| [[Farseer Pirtett]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Sandsmoke
+| Reduce aggro toward self by 2/4% when auto-attack hits
+| [[Gallivanter Buckley]]
+| Deal 1,000,000 damage with this skill set (not Interlinked)
+|-
+| Scattered Healing
+| 25% chance to heal nearby allies upon taking damage, using 100/200% of Healing Power
+| [[Stately Doramma]]
+| Defeat Stately Doramma 5 times
+|-
+| Sense of Danger
+| 75/100% chance to grant 4 random buffs when an ally is incapacitated
+| [[Stonehoof Torphan]]
+| Defeat 50 monsters with this skill set
+|-
+| Spiritual Absorber
+| When blocking, adds 15/25% chance to absorb an ether attack
+| [[Budding Francis]]
+| Heal 600,000 HP with this skill set (not Interlinked)
+|-
+| Strength Support
+| Boosts power of buff effects issued by self by 25/35%
+| [[Killhappy Brijaidor]]
+| Defeat 150 monsters with this skill set
+|-
+| Strike Shirker
+| Boosts evasion by 30/45% while Art is active
+| [[Dunesea Marcellus]]
+| Evade 200 attacks with this skill set (not Interlinked)
+|-
+| Supercharged
+| &lt;abbr title="Boosts damage by 10/15% per Art (excluding Talent Art) with full recharge"&gt;Boosts damage dealt for each Art that's currently fully recharged&lt;/abbr&gt;
+| [[Determined Vatslav]]
+| Defeat 200 monsters with this skill set 
+|-
+| Super Explosion
+| Deals 1000/1600% of Attack in damage to nearby enemies when incapacitated
+| [[Infiltrator Garnach]]
+| Defeat Infiltrator Garnach 5 times
+|-
+| Surprise Attack
+| Boosts damage against enemies performing Arts by 30/50%
+| [[Sharpwitted Tracy]]
+| Deal 1,000,000 damage with this skill set (not Interlinked)
+|-
+| Systematic Defense
+| Boosts recharge speed by 36/60% when non-Defenders are targeted
+| [[Sensitive Catullus]]
+| Block 100 attacks with this skill set (not Interlinked)
+|-
+| Tactical Eye
+| Boosts damage by 10/15% for every enemy in battle (max. 200%)
+| [[Hedonist Tirkin]]
+| Deal 1,000,000 damage with this skill set (not Interlinked)
+|-
+| Terran Warrior
+| Boosts damage dealt by 30/50% when on land
+| [[Ghosting Lulika]]
+| Defeat Ghosting Lulika 5 times
+|-
+| Ultranull Shield
+| When blocking, adds 3/5% chance to reduce damage to 0
+| [[Well-Plated Zelinka]]
+| Block 100 attacks with this skill set (not Interlinked)
+|-
+| Underworld Rage
+| Boosts damage dealt by 60/100% each time an ally is incapacitated (to a maximum of 200%)
+| [[Unobtrusive Liggy]]
+| Defeat 200 monsters with this skill set
+|-
+| Wild Tendencies
+| Grants 30/50% resistance to all debuffs
+| [[Desired Oruria]]
+| Block 100 attacks with this skill set (not Interlinked)
+|-
+| Wolf Spirit
+| &lt;abbr title="Increases auto-attack speed by 30/50% per ally sharing the same role (max. 250%)"&gt;Own auto-attack rate increases for each ally with the same role as self&lt;/abbr&gt;
+| [[Thaumawolf Bajeek]]
+| Defeat 150 monsters with this skill set
+|}
+
+== Triton ==
+Triton himself functions differently from the player's version of the class. Like most Heroes, he has only five Arts (of which he can equip three) and a pre-set list of Skills. He is an Attacker, focusing on buffing his attack power before dealing high burst damage. According to him, over the years he's forgotten most of the abilities he's learned except for the ones he used most often.
+
+=== Class Multipliers ===
+Unlike player-controlled Soulhackers, class multipliers apply normally to Triton, where he gains stat increases by Rank; however, only Rank 10 and 20 values are used. In practice, these values are always indirectly modifying or setting his own base stats, since Triton cannot change classes.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 80% || 120% || 25% || 110% || 100% || 15% || 5%
+|-
+| 10 || 80% || 125% || 30% || 115% || 105% || 17% || 7%
+|-
+| 20 || 80% || 130% || 35% || 120% || 110% || 20% || 10%
+|}
+
+=== Arts ===
+* '''[[Captain Strike]]''', Pierce (%)/[[Blowdown (XC3)|Blowdown]]
+* '''[[Magnificent Fist]]''', Gain charge on hit
+* '''[[Peril Punch]]''', AOE / Side Attack Up &#8593;
+* '''[[Pirate Lariat]]''', [[Topple (XC3)|Topple]]
+* '''[[Ultra Boost]]''', Atk up / Def. down
+
+=== Skills ===
+* '''Underworld Rage''': Boosts damage dealt by 60-100% each time an ally is incapacitated (to a maximum of 200%).
+* '''Amazing Growth''': Boosts damage dealt based on the amount of battle time elapsed.
+* '''Recharge Cheer''': 10-12% chance to keep recharge when using Art.
+* '''Magic Transmutation''': Boosts damage dealt by 60-100% when afflicted by a debuff.
+
+=== Stat Increases ===
+Only the values for Ranks 10 and 20 are used. Internally, these skills are considered distinct from the equippable skills used by Ouroboros Soulhackers.
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Underworld Rage
+!&lt;abbr title="Damage increase per second in battle (max. 60%)"&gt;Amazing Growth&lt;/abbr&gt;
+!Recharge Cheer
+!Magic Transmutation
+|-
+| 1
+| 60%
+| 0.25%
+| 10%
+| 60%
+|-
+| 5
+| 70%
+| 0.3%
+| 10.5%
+| 70%
+|-
+| 10
+| 80%
+| 0.35%
+| 11%
+| 80%
+|-
+| 15
+| 90%
+| 0.4%
+| 11.5%
+| 90%
+|-
+| 20
+| 100%
+| 0.5%
+| 12%
+| 100%
+|}
+{{clr}}
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Triton Artwork.png|Triton, a Soulhacker
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Icon soulhack.png|Enemy Soulhack Icons
+Soulhack Locked.png|Locked icon
+Soulhack Acquired.png|Acquired icon
+Soulhack Upgraded.png|Upgraded icon
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Soulhacker Noah.png|Noah as a Soulhacker
+Soulhacker Mio.png|Mio as a Soulhacker
+Soulhacker Eunie.png|Eunie as a Soulhacker
+Soulhacker Taion.png|Taion as a Soulhacker
+Soulhacker Lanz.png|Lanz as a Soulhacker
+Soulhacker Sena.png|Sena as a Soulhacker
+&lt;/gallery&gt;
+
+[[Category:XC3 Classes]]</text>
+      <sha1>kqy3vs8v8ganqe2qushqyh9rjlv6gnx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spartan Fennick</title>
+    <ns>0</ns>
+    <id>119437</id>
+    <revision>
+      <id>574690</id>
+      <parentid>574652</parentid>
+      <timestamp>2023-01-30T05:32:25Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574690</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1354" sha1="07a8e4leidanzt8zjav3r5851hiwxfr" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Spartan Fennick
+|image        = XC3 Spartan Fennick.png
+|caption      = Spartan Fennick
+|type         = [[Ageshu]]
+|level        = 78
+|area         = [[Low Maktha Wildwood]] ([[Gingin's Treehouse]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,262
+|cp           = 87
+|sp           = 5
+|gold         = 1,296
+|hp           = 4,776,200
+|strength     = 2,374
+|healing      = 539
+|dexterity    = 315
+|agility      = 295
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Spartan Fennick''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ageshu]] family, and can be found at level 78 in a poison lake near [[Gingin's Treehouse]] in [[Low Maktha&#160;Wildwood]]. The [[Ministorm]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 85%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Spartan fennick location.png
+Spartan fennick.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ageshus]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>07a8e4leidanzt8zjav3r5851hiwxfr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spear Tirkin (XC3)</title>
+    <ns>0</ns>
+    <id>121113</id>
+    <revision>
+      <id>595256</id>
+      <parentid>560500</parentid>
+      <timestamp>2023-06-11T16:18:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595256</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1744" sha1="gyxure687c5m51g7ojmat7hhhkci7w4" xml:space="preserve">{{for|the enemy in {{XC|-}}|Spear Tirkin (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Spear Tirkin
+|image        = 
+|caption      = Spear Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 18-20
+|area         = [[Ribbi Flats]] ([[Tirkin Headquarters (XC3)|Tirkin Headquarters]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Spear Tirkins''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level 18-20 at the [[Tirkin Headquarters (XC3)|Tirkin Headquarters]] on [[Ribbi Flats]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Spear Tirkin
+|image        = Spear Tirkin FR.jpg
+|caption      = Spear Tirkin
+|category     = Normal Minor Enemy
+|type         = [[Tirkin]]
+|level        = 9-12
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Spear Tirkins''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Tirkin]] family, and can be found at level 9-12 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3FR Tirkins]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>gyxure687c5m51g7ojmat7hhhkci7w4</sha1>
+    </revision>
+  </page>
+  </mediawiki>

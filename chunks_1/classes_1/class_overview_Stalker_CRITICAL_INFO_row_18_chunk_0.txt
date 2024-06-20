@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Stalker
+
+Overview:  
+Stalkers wield a bow and specialize at sniping [[Enemy (XC3)|enemies]] with arrows and hunting them from the safety of stealth; while it has low attack power compared to other Attacker classes, it is better able to manage its aggro levels. It is the class of [[Juniper]].
+
+It is unlocked by completing ''[[Natural Selection]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 by completing the [[Hero Quest|Ascension Quest]] ''[[Survivors]]''.
+
+Arts: {'Refreshing Rain': 'AOE/Wounded enemy↑', 'Landslide': 'Launch |Launched↑ / Evade', 'Staying Power': 'Field / Art Follow-Up', 'Driving Arrow': 'Back Bleed |Bleed', 'Rapid Shot': 'Side attack↑', 'Night Hunt': 'Slower aggro/Back atk+'}
+
+Class Skills: {'Serene Heart': 'Reduces aggro generated from attacks by 25-50%.', 'Swift Death': 'Deals 50-70% more damage against enemies who are at 30% HP or less. (Rank 15 Master Skill)', 'In Cold Blood': 'Boosts damage dealt by 75-150% when attacking an enemy suffering from Bleed.', 'Evasion Expertise': '30-50% chance to evade ranged attacks. (Rank 5 Master Skill)'}
+
+Hero Exclusive Arts: {'Downdraft': 'Back [[Bleed (XC3)|Bleed]]', 'Force of Nature': 'Field / Art Follow-up', 'Liberation Arrow': 'Side attack↑'}
+

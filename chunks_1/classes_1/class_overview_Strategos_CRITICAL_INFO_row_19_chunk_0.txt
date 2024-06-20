@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Strategos
+
+Overview:  
+Strategos is the class of [[Isurd]]. It is a class that uses [[Blade (XC3)|Disc Launchers]] to assist allies in various ways, as well as weakening foes. 
+
+It is unlocked by completing the [[Hero Quest]] ''[[Unwavering Resolve]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Effervescent Heart]]''.
+
+Arts: {'Soulfire': 'Heal all on hit/Atk down * No Love Lost |No Love Lost, Physical Def. down (Rank 1 Master Art) * Mirror Trap, AOE / Counter Heal * Hornet, Area heal on hit (Rank 10 Master Art) * Moondog, Field / Regenerate |Regenerate  * Earth Bind, Bind'}
+
+Class Skills: {'Strengthening Gambit': 'Extends duration of buff effects issued by 30-50%. (Rank 5 Master Skill)', 'Prowess Gambit': 'Buffing an ally boosts damage dealt by 20-30% (up to a maximum of 200%).', 'Sapping Gambit': 'Extends duration timers of debuffs applied to enemies by 30-50%.', 'Preemption Gambit': '60-100% chance to grant all allies Attack Up on a preemptive attack. (Rank 15 Master Skill)'}
+
+Hero Exclusive Arts: {'Gyreflow': 'Field / Regenerate', 'Razor Wind': 'Area heal on hit', 'Moonshadow': '[[Bind (XC3)|Bind]]'}
+

@@ -1,0 +1,6 @@
+Skill Name: Beast Mode 
+
+Class: Seraph
+
+Skill Buff or Effect:  Grants Awakening when damage taken exceeds 25% of max HP.
+

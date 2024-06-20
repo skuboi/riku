@@ -1,0 +1,6 @@
+Art Name: Power Effect
+
+Class: Royal Summoner
+
+Effect: Atk up / Def. down
+

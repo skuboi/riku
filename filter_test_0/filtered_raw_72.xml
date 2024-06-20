@@ -1,0 +1,734 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tyrant Ring (XC3)</title>
+    <ns>0</ns>
+    <id>122873</id>
+    <revision>
+      <id>592890</id>
+      <parentid>592578</parentid>
+      <timestamp>2023-05-15T20:20:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592890</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1024" sha1="cj81m2cck4php1514a2veszqfvlku03" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Tyrant Ring (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Tyrant Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Tyrant Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Tyrant Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Tyrant Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>cj81m2cck4php1514a2veszqfvlku03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tyrant Wave</title>
+    <ns>0</ns>
+    <id>117808</id>
+    <revision>
+      <id>591903</id>
+      <parentid>590849</parentid>
+      <timestamp>2023-05-14T14:36:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" sha1="gax29whfhatncw3tmzfahu4oqyurg9h" xml:space="preserve">{{Infobox battle art
+|name        = Tyrant Wave
+|image       = Strm order thumb005 0.png
+|who         = [[Lanz]]
+|class       = 
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Increases [[Defender (XC3)|Defender]] aggro by 35-50% and grants Attack Up to all allies.
+|duration    = 
+|recharge    = 
+}}
+'''Tyrant Wave''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Lanz]]'s Chain art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Main Class Arts]]
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>gax29whfhatncw3tmzfahu4oqyurg9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>U</title>
+    <ns>0</ns>
+    <id>118612</id>
+    <revision>
+      <id>580425</id>
+      <parentid>575958</parentid>
+      <timestamp>2023-03-24T21:25:54Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>redundant cat.</comment>
+      <origin>580425</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5187" sha1="7eqoclejlae1j5bjrvfq4i4diciqqlx" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = U
+|image         = Consul U.png
+|species       = [[Moebius]]
+|age           = 
+|gender        = Female
+|haircolor     = 
+|eyecolor      = 
+|affiliation   = [[Consul]]s
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}
+}}
+'''U''' is a character in {{XC3}}.
+
+== Overview ==
+U is the [[Consul]] of [[Colony Tau]].
+
+She is first mentioned by [[Juniper]] shortly after meeting the party, who claims she rarely comes to the [[colony]]. She makes her first appearance before the party after defeating an invading pack of [[Volff]]s, with the colony lowering their guards around her.
+
+Similar to Consul [[F]], this Consul initially appears almost admirable, not only showing no apparent hostility towards Colony Tau and [[Ouroboros]] (calling the latter ''"Ouro Berries"''), but also claiming to be an individualist and not resenting the destruction of the [[Flame Clock]] because it was ''"the people's choice"''. Peculiarly, the consul acts endearingly towards Juniper, calling them ''"June Bug"''. She sends the party to gather some herbs to get rid of some ''"nuisances"'' with them, which are initially believed to be monsters. Though the party is initially suspicious at the bizarre request of this Consul, they abide at the further request of others from Tau.
+
+Not long after, both her friendly facade and the apparent monster hunting scheme are both revealed to be giant farces as her psychopathic tendencies start to show. She makes a bonfire with the gathered herbs knowing it would attract monsters as opposed to repelling them, and reveals that the ''"nuisances"'' she was talking about eliminating were not monsters, but the people of Colony Tau themselves, luring a large group of [[Rhinon]]s for that task.
+
+She then also reveals that she has been convening with and luring enemy soldiers and monsters to cull off Colony Tau's population and also planted and designed several hindering customs for the colony to also reduce their numbers. She also purposefully let them run low on life energy while setting up encounters with weaker monsters so as to barely sustain them. 
+
+Her motivation for these vile acts is all to see them act in desperation and suffering. Because she gets excited by seeing her people's anguish and performances when on the brink of death, and her neutrality towards the flame clock's destruction was because she could make the people of Tau suffer more by threatening to take away their new reality now that they were intent on living true, with her goal to leave Juniper as the sole survivor to better savor their despair. She is killed by Juniper after the party defeats her [[Moebius]] form as well as the monsters she lured.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius U
+|image        = Moebius U.png
+|caption      = Moebius U
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 50
+|area         = [[High Maktha Wildwood]] ([[Colony Tau Entrance]])
+|spawntime    = During ''[[Survivors]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 3,136
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 2,200,800
+|strength     = 1,076
+|healing      = 321
+|dexterity    = 203
+|agility      = 172
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius U''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a Moebius fought at level 50 at the [[Colony Tau Entrance]] in [[High Maktha Wildwood]] during ''[[Survivors]]''.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius U
+|image        = XC3 Moebius U DLC Battle.jpg
+|caption      = Moebius U
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|type         = [[Moebius]]
+|level        = 72
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Stage of Destiny]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 5,696
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 839,520
+|strength     = 804
+|healing      = 452
+|dexterity    = 300
+|agility      = 247
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius U''' is fought at level 72 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Consuls G R and U.jpg|Consul U Artwork
+File:XC3-Consul U.png|Solo artwork of Consul U
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]</text>
+      <sha1>7eqoclejlae1j5bjrvfq4i4diciqqlx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ugend Ravoon</title>
+    <ns>0</ns>
+    <id>121865</id>
+    <revision>
+      <id>582112</id>
+      <parentid>564952</parentid>
+      <timestamp>2023-04-08T16:46:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="823" sha1="lxo7mjey0cq1etr0ktadjiakoior0jt" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ugend Ravoon
+|image        = 
+|caption      = Ugend Ravoon
+|category     = Normal Minor Enemy
+|type         = [[Ravoon]]
+|level        = 73
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ugend Ravoons''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Ravoon]] family, and can be found at level 73 in [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Ravoons]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lxo7mjey0cq1etr0ktadjiakoior0jt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ugly Volff (XC3)</title>
+    <ns>0</ns>
+    <id>121021</id>
+    <revision>
+      <id>594408</id>
+      <parentid>594407</parentid>
+      <timestamp>2023-05-27T22:55:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594408</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="832" sha1="lc0m9suali0i9ax491y7n8yel7kretk" xml:space="preserve">{{for|the enemy in {{XC|-}}|Ugly Volff (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Ugly Volff
+|image        = 
+|caption      = Ugly Volff
+|category     = Normal Minor Enemy
+|type         = [[Volff]]
+|level        = 42-43
+|area         = [[Everblight Plain]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ugly Volffs''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level 42-43 on [[Everblight Plain]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lc0m9suali0i9ax491y7n8yel7kretk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ultimate Counter</title>
+    <ns>0</ns>
+    <id>118886</id>
+    <revision>
+      <id>595278</id>
+      <parentid>592034</parentid>
+      <timestamp>2023-06-11T16:43:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6475" sha1="i7anhywqy1avsxncy82x7djy3zmwp17" xml:space="preserve">{{Infobox Gem
+| name     = Ultimate Counter
+| image    = Gem-defender.png
+| effect   = [Passive] Deals ''(value)%'' of Attack damage when you take damage.
+| category = Defender
+| max      = 280%
+}}
+'''Ultimate Counter''' is a Defender [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Attack Damage
+|-
+!I
+|80%
+|-
+!II
+|100%
+|-
+!III
+|120%
+|-
+!IV
+|140%
+|-
+!V
+|160%
+|-
+!VI
+|180%
+|-
+!VII
+|200%
+|-
+!VIII
+|220%
+|-
+!IX
+|240%
+|-
+!X
+|280%
+|}
+
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Ultimate Counter I
+|[[Gemstone]]&lt;br /&gt;[[Ropl Rock Fragment]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Ultimate Counter II
+|Gemstone&lt;br /&gt;[[Tough Hox Pelt]]&lt;br /&gt;[[Piercing Rhogul Quill]]&lt;br /&gt;[[Anarchy Orchid]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Ultimate Counter III
+|Gemstone&lt;br /&gt;[[Steel Urchon Scale]]&lt;br /&gt;[[Great Feris Horn Pair]]&lt;br /&gt;[[Arachno Thread]]&lt;br /&gt;[[Fossil Monkey Fossil]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Ultimate Counter IV
+| [[Pure Gemstone]]&lt;br /&gt;[[Medooz Tentacle]]&lt;br /&gt;[[Ottil's Clambreaking Stone]]&lt;br /&gt;[[Serrated Aligo Fang]]&lt;br /&gt;[[Mille-Feuille Rock (XC3)|Mille-Feuille Rock]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Ultimate Counter V
+|Pure Gemstone&lt;br /&gt;[[Gastrates Gun Turret]] x 2&lt;br /&gt;[[Sagittarius Machine Rifle]] x 2&lt;br /&gt;Ropl Rock Fragment x 2&lt;br /&gt;[[Bizarrenacle]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Ultimate Counter VI
+|Pure Gemstone&lt;br /&gt;[[Ardun Horns]] x 2&lt;br /&gt;[[Shining Ellook Antler]] x 2&lt;br /&gt;[[Kevesi Soldier's Armor]] x 2&lt;br /&gt;[[Giant Hornet Fossil]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Ultimate Counter VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Flak Scrap Iron]] x 2&lt;br /&gt;[[Zapneedle Marrin Carapace]] x 2&lt;br /&gt;[[Exploding Blant Seed]] x 3&lt;br /&gt;[[Armored Scorpox Pincer]] x 3&lt;br /&gt;[[Wraithwood (XC3)|Wraithwood]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+| Ultimate Counter VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Ropl Jaw]] x 15&lt;br /&gt;[[Brog Energy Booster]] x 15&lt;br /&gt;[[Antol Leg Chitin]] x 15&lt;br /&gt;[[Sharp Gyaark Tail]] x 15&lt;br /&gt;[[Impact Rock]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Ultimate Counter IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Circular Velites Blade]] x 20&lt;br /&gt;Tough Hox Pelt x 20&lt;br /&gt;Flak Scrap Iron x 20&lt;br /&gt;[[Ekidno Tail]] x 20&lt;br /&gt;[[Black Iris (XC3)|Black Iris]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Ultimate Counter X 
+| Ultra Pure Gemstone x 5&lt;br /&gt;[[Ageshu Needleclaw]] x 30&lt;br /&gt;[[Steel Urchon Scale]] x 30&lt;br /&gt;Armored Scorpox Pincer x 30&lt;br /&gt;[[Antol Jaws]] x 30&lt;br /&gt;Flak Scrap Iron x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Ultimate Counter I
+| [[Gemstone]]&lt;br /&gt;[[Quadwing's Indulgence]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Ultimate Counter II
+| Gemstone&lt;br /&gt;[[Thick Rhinon Tail]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Ultimate Counter III
+| [[Pure Gemstone]]&lt;br /&gt;Thick Rhinon Tail x2&lt;br /&gt;[[Pale Skeeter Wing]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Ultimate Counter IV
+| Pure Gemstone&lt;br /&gt;[[Sagittarius Machine Rifle]] x2&lt;br /&gt;Thick Rhinon Tail x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Ultimate Counter V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Nutrient-Rich Vollgull Egg]]&lt;br&gt;[[Scorpox Exoskeleton]] x2&lt;br&gt;Thick Rhinon Tail x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>i7anhywqy1avsxncy82x7djy3zmwp17</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ultra Aural Sensor</title>
+    <ns>0</ns>
+    <id>119020</id>
+    <revision>
+      <id>592891</id>
+      <parentid>592366</parentid>
+      <timestamp>2023-05-15T20:20:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592891</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1017" sha1="hkeasyyz5lf1kk2npnxuchjj7grvabn" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Ultra Aural Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Ultra Aural Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Ultra Aural Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 45%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Ultra Aural Sensors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>hkeasyyz5lf1kk2npnxuchjj7grvabn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ulula</title>
+    <ns>0</ns>
+    <id>118053</id>
+    <revision>
+      <id>584915</id>
+      <parentid>584910</parentid>
+      <timestamp>2023-04-24T00:20:05Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>removing linking since we do not create pages for enemies' arts, every info should appear in this table and "stats" section</comment>
+      <origin>584915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2360" sha1="omqwcjoa7i9j50ypygd0236tx1cs950" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ulula
+|image        = 
+|caption      = Ulula
+|type         = [[Levnis]]
+
+|tab1         = Everblight Plain
+|category     = [[Story Exclusive Enemy (XC3)|Story Exclusive Enemy]]
+|level        = 4
+|area         = [[Everblight Plain]]
+|spawntime    = Story
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+
+|tab2         = Dannagh Desert
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 46
+|area2        = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Namba Mound]])
+|spawntime2   = During ''[[The Ouroboros Experiment]]''
+|respawn2     = No
+|movement2    = 
+|detection2   = 
+|exp2         = 
+|cp2          = 
+|sp2          = 
+
+|tab3         = Syra Hovering Reefs
+|category3    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|level3       = 61
+|area3        = [[Syra Hovering Reefs]] ([[First Ixia Bridge]])
+|spawntime3   = During ''[[A Deep-Seated Scar]]''
+|respawn3     = No
+|movement3    = 
+|detection3   = 
+|exp3         = 376
+|cp3          = 
+|sp3          = 
+}}
+'''Ululas''' are enemies in {{XC3}}. They are [[Agnus|Agnian]] [[Levnis]]es. One is fought at level 4 in [[Everblight Plain]]. Another one is fought as a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] during ''[[The Ouroboros Experiment]]'' at level 46 at [[Namba Mound]] in the [[Dannagh Desert (XC3)|Dannagh Desert]]. A third one can be fought during ''[[A Deep-Seated Scar]]'' at level 61 near the [[First Ixia Bridge]] in the [[Syra Hovering Reefs]].
+{{clr}}
+
+== Stats ==
+{{Enemy arts|art1=Burst Output|effect1=[[Accuracy Up (XC3)|Accuracy Up]]|art2=Mouth Laser|art3=Homing Beam|hits3=8|art4=Ether Burst}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>omqwcjoa7i9j50ypygd0236tx1cs950</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Umber Drague</title>
+    <ns>0</ns>
+    <id>122177</id>
+    <revision>
+      <id>595843</id>
+      <parentid>576763</parentid>
+      <timestamp>2023-06-16T15:06:02Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>595843</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="opbuiyp6uxaka32citzldxdj7ps4zco" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Umber Drague
+|image        = Umber Drague.jpg
+|caption      = Umber Drague
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Drague]]
+|level        = 30
+|area         = [[Great Cotte Falls]]
+|spawntime    = Story
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Umber Drague''' is a [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Drague]] family, and is fought at level 30 at [[Great Cotte Falls]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Dragues]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>opbuiyp6uxaka32citzldxdj7ps4zco</sha1>
+    </revision>
+  </page>
+  </mediawiki>

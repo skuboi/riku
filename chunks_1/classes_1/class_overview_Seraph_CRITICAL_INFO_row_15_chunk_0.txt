@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Seraph
+
+Overview:  
+Seraph is the class of [[Cammuravi]]. It employs the use of self-damaging Arts to greatly increase one's damage at lower health values.
+It is unlocked after completing the [[Hero Quest]] ''[[A Twist of Fate]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 by reaching rank 10 in both Seraph and [[Flash Fencer]] classes, and going to the now-unlocked lab in Colony Omega.
+
+Arts: {'Empyrean Salvo |Empyrean Salvo': 'AOE/Blaze |Blaze/Awakening |Awakened+', 'Crimson Lance': 'Side Topple |Topple (Rank 10 Master Art)', 'Flamelord': 'Front attack ↑ (Rank 1 Master Art)', 'Inferno Dance': 'AOE/Dmg to self/Blaze |Blaze', 'Leveling Fire': 'Atk boost/Dmg to self', 'Dragon's Snarl': 'High Crit. Rate/Dmg self'}
+
+Class Skills: {'Beast Mode': 'Grants [[Awakening (XC3)|Awakening]] when damage taken exceeds 45-25% of Max HP.', 'Universal Annihilation': 'Boosts damage to [[Topple (XC3)|toppled]] and [[Launch (XC3)|launched]] targets by 50-150%. (Rank 15 Master Skill)', 'Greatest Warrior': 'Boosts damage by 25-35% for each enemy in battle (max. 200%). (Rank 5 Master Skill)', 'Got the Guts': 'Boosts damage dealt by 60-100% when HP is at 80-85% or lower.'}
+
+Hero Exclusive Arts: {'Sturm und Drang': 'High Crit. Rate/Dmg self', 'Heavenly Spear': 'AOE/Dmg to self/[[Blaze (XC3)|Blaze]]', 'Searing Fury': 'Fast charge'}
+

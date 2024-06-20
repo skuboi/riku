@@ -1,0 +1,6 @@
+Art Name: Light Field
+
+Class: A
+
+Effect: Field/Regenerate
+

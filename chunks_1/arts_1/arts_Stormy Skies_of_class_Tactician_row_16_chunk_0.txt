@@ -1,0 +1,6 @@
+Art Name: Stormy Skies
+
+Class: Tactician
+
+Effect: AOE / Heal
+

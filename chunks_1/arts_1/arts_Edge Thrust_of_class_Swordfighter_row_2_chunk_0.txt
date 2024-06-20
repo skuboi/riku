@@ -1,0 +1,6 @@
+Art Name: Edge Thrust
+
+Class: Swordfighter
+
+Effect: Back Attack Up
+

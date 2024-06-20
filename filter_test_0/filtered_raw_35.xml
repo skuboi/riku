@@ -1,0 +1,2308 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ironclad</title>
+    <ns>0</ns>
+    <id>118898</id>
+    <revision>
+      <id>595277</id>
+      <parentid>592021</parentid>
+      <timestamp>2023-06-11T16:42:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6213" sha1="7anue8669w396r40z1akmnl3b391h2h" xml:space="preserve">{{Infobox Gem
+| name     = Ironclad
+| image    = Gem-speciality.png
+| effect   = [Passive] Increases maximum HP by ''(value)''.
+| category = Speciality
+| max      = 1500
+}}
+'''Ironclad''' is a Speciality [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!HP Increase
+|-
+!I
+|100
+|-
+!II
+|250
+|-
+!III
+|400
+|-
+!IV
+|550
+|-
+!V
+|700
+|-
+!VI
+|850
+|-
+!VII
+|1000
+|-
+!VIII
+|1150
+|-
+!IX
+|1300
+|-
+!X
+|1500
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Ironclad I
+|[[Gemstone]]&lt;br /&gt;[[Glaring Eyeball]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Ironclad II
+|Gemstone&lt;br /&gt;[[Fleshy Blant Petal]]&lt;br /&gt;[[Well-Aged Camill Juices]]&lt;br /&gt;[[Kaleidoscelery]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Ironclad III
+|Gemstone&lt;br /&gt;[[Tirkin Seasoning]]&lt;br /&gt;[[Wisp Nectar]]&lt;br /&gt;[[Cured Armu Sirloin]]&lt;br /&gt;[[Quinini]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Ironclad IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Rich Quarmu Sea Milk]]&lt;br /&gt;[[Large Flamii Egg]]&lt;br /&gt;[[Marbled Quarmu Meat]]&lt;br /&gt;[[Shiny Rose]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Ironclad V
+|Pure Gemstone&lt;br /&gt;[[Kevesi Dog Tag]] x 2&lt;br /&gt;[[Auxilia Cylinder]] x 2&lt;br /&gt;[[Igna Rejuvenator]] x 2&lt;br /&gt;[[Jade Coral]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Ironclad VI
+|Pure Gemstone&lt;br /&gt;[[Fresh Armu Milk (XC3)|Fresh Armu Milk]] x 2&lt;br /&gt;[[Garaffa Tenderloin]] x 2&lt;br /&gt;[[Bitter Quadwing Powder]] x 2&lt;br /&gt;[[Crimson Moonbloom]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Ironclad VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Ulula Generator]] x 2&lt;br /&gt;[[Antol Queen Shell]] x 2&lt;br /&gt;[[Caterpile Syrup (XC3)|Caterpile Syrup]] x 3&lt;br /&gt;Tirkin Seasoning x 3&lt;br /&gt;[[Golden Beetroot (XC3)|Golden Beetroot]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Ironclad VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;Cured Armu Sirloin x 15&lt;br /&gt;[[Fatty Serprond Fillet]] x 15&lt;br /&gt;[[White Rhana Liver]] x 15&lt;br /&gt;[[Blessed Pippito Light]] x 15&lt;br /&gt;[[Milky Soy]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Ironclad IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;Auxilia Cylinder x 20&lt;br /&gt;[[Gooey Upa Egg]] x 20&lt;br /&gt;[[Droid Tube]] x 20&lt;br /&gt;[[Giant Serprond Scale]] x 20&lt;br /&gt;[[Delicate Bell]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Ironclad X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Horrish Amplifier]] x 30&lt;br /&gt;[[Bunnit Meat]] x 30&lt;br /&gt;[[Full-Bodied Ardun Meat]] x 30&lt;br /&gt;White Rhana Liver x 30&lt;br /&gt;[[Enpedia Headpiece]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Ironclad I
+| [[Gemstone]]&lt;br /&gt;[[Krabble Shield Pincer]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Ironclad II
+| Gemstone&lt;br /&gt;[[Cured Armu Sirloin]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Ironclad III
+| [[Pure Gemstone]]&lt;br /&gt;[[Golden Brog Oil]] x2&lt;br /&gt;[[Agnian Soldier's Armor]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Ironclad IV
+| Pure Gemstone&lt;br /&gt;[[Aries Fur]] x2&lt;br /&gt;[[Kevesi Soldier's Armor]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Ironclad V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Silver Ravoon Bone]]&lt;br&gt;[[Arachno Queen Egg]] x2&lt;br&gt;Cured Armu Sirloin x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>7anue8669w396r40z1akmnl3b391h2h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Island Bunnit</title>
+    <ns>0</ns>
+    <id>121831</id>
+    <revision>
+      <id>559718</id>
+      <parentid>546947</parentid>
+      <timestamp>2022-09-30T10:49:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559718</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="c0bseagfkfmxrdc2zhrmd8q87umwtac" xml:space="preserve">{{Infobox Enemy
+|name         = Island Bunnit
+|image        = 
+|caption      = Island Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Island Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>c0bseagfkfmxrdc2zhrmd8q87umwtac</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Isurd</title>
+    <ns>0</ns>
+    <id>116805</id>
+    <revision>
+      <id>603047</id>
+      <parentid>598042</parentid>
+      <timestamp>2023-07-22T19:06:38Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added ENG IMDB link</comment>
+      <origin>603047</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8726" sha1="ocrn114q2n3kt2cd174t2xz1o3cjewz" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Isurd
+|image         = Isurd portrait artwork.png
+|age           = 10th Term 
+|species       = [[Agnus|Agnian]] human
+|gender        = Male
+|haircolor     = Brown
+|eyecolor      = Blue
+|affiliation   = [[Colony Lambda]]
+|voiceactorjp  = [[wikipedia:Tomoaki Maeno|Tomoaki Maeno]]
+|voiceactoreng = [https://www.imdb.com/name/nm6284478/ Ian Bouillion]
+|appearances   = {{XC3}}
+}}
+'''Isurd''' (Japanese: {{lang|ja|&#12452;&#12473;&#12523;&#12462;}}, ''Isurugi'') is a character in {{XC3}}.
+
+== Overview ==
+Isurd is the commander of [[Colony Lambda]], an [[Agnus|Agnian]] mining [[Colony]] located at the [[Great Cotte Falls]]. He is also known as "Dawnhero Isurd", being one of the nation's best strategists. He was once a mentor to [[Taion]], taking him under his wing to train him up as a [[Tactician]] until he was transferred to [[Colony Gamma]].
+
+He can be recruited as a [[Hero]] after completing the [[Hero Quest]] ''[[Unwavering Resolve]]''. His [[Class Rank (XC3)|Class Rank]] can be increased to 20 by completing the Ascension Quest ''[[Effervescent Heart]]''.
+
+== Story ==
+[[File:Isurd cadensia.jpg|thumb|210px|Isurd overlooking Erythia Sea]]
+Roughly five years before the beginning of the story, Colony Lambda was on an expedition to the [[Cadensia Region]], but was attacked by [[Keves Forces|Kevesi soldiers]] under the cover of dark, resulting in Isurd being injured, and his squad routed. However, he was saved and treated by [[Nimue]] of the [[Lost Colony]]. After recovering, he left the Colony along with Nimue, bringing her back to Colony Lambda. Eventually, Isurd became the commander of the Colony, with Nimue as his right hand strategist. Together, the two mentored Taion in tactics and strategy, both thinking highly of his potential. However, when one of Taion's plans failed in battle against [[Colony 13]] in the [[Urayan Tunnels]], Nimue sacrificed herself to save Taion. As a result, both Isurd and Taion were filled with regret, and Taion lost confidence in his abilities, leading to Taion giving Isurd Nimue's pocket watch, and Isurd sending Taion to Colony Gamma to restore his confidence and emotional state. Some time after losing to Colony 13, Isurd heavily invested in Auto-Levs to nullify the poisonous smokescreen tactics of Colony 13, resulting in their rematch ending in victory. 
+
+[[File:Mudpuppet Isurd.jpg|left|thumb|210px|Isurd confronting the party]]
+During the main story, Isurd is visted by [[Consul]] [[Joran|J]], who shows him a live view of the party traveling through [[Rae-Bel Tableland]], and is then asked to take them out. However, Isurd would prefer to question them before fighting as Taion is a part of them, which leads to J using his ability to search Isurd's soul and find his regret of not being able to save Nimue, and makes a mud puppet from those feelings, afterwards incapacitating the real Isurd and the rest of Colony Lambda. The fake Isurd then leads an army of mud puppets, using the poisonous smoke tactics of Colony 13 to attack the party in the Urayan Tunnels. The party escapes, which leads them into the [[Great Cotte Falls]], where the fake Isurd was waiting for them atop the [[Lambda Ferronis]], with an army of [[Levnis]]es and soldiers. The fake Isurd then states his goal was to drive Taion to despair by reminding him of his past mistake in battle against Colony 13, as revenge for letting Nimue die. The fake Isurd then pilots the Ferronis in battle against the party, which leads to the party gaining their second [[Ouroboros]] forms, and the defeat of the false Isurd. Taion then offers his life to satisfy Isurd's anger, but then the fake Isurd dies, and Consul J reveals himself. He explains that the feelings that his mud puppets have are real, including Isurd's hidden contempt towards Taion.
+
+[[File:Resting Isurd.jpg|thumb|210px|Isurd waking up after the battle]]
+After the battle against J, the party finds the real Isurd incapacitated, who then wakes up and is informed of what had transpired as he rested. He expresses worry of what his mud puppet might have said towards the party, but Taion lies and says that the mud puppet was just like his normal self. Isurd apologizes for what happened, and returns Nimue's pocket watch to Taion, and tells him of what Nimue thought of him, and that he is not a coward, but overly-considerate of others. He then informs Taion of Nimue's grave in the Cadensia Region, where he asks him to bury the pocket watch. He then allows [[Noah]] and [[Mio]] to see off the mud puppets and lets the party go on their way.
+
+==Gameplay==
+Isurd's uses the [[Strategos]] [[Class (XC3)|class]], a [[Healer]] class that specializes in healing allies and weakening enemies.
+
+=== Arts ===
+* [[Soulfire (XC3)|Soulfire]], Enemy Attack Down &amp; Heal Party ([[Battle Arts (XC3)#Talent Arts|Talent Art]])
+* [[Gyreflow]], Field / Regenerate
+* [[Razor Wind]], Heal nearby allies
+* [[No Love Lost (XC3)|No Love Lost]], Physical Defense Down
+* [[Mirror Trap]], AOE / Counter Heal
+* [[Moonshadow]], Bind
+
+Isurd's [[Battle Arts (XC3)|Chain Art]] is [[War of Attrition]], and his Heroic Chain bonus grants an automatic Bravo! (150% TP) ranking if he completes a chain order. However, if he should exceed 150% TP normally, it will be reduced to exactly 150%, preventing an Amazing! rating if he finishes the order.
+
+=== Base Stats ===
+These are Isurd's raw stats prior to modifications by class. They serve as a baseline for calculating his stats in the Strategos class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 463 || 25 || 27 || 32 || 21
+|-
+| 99 || 6,617 || 360 || 386 || 324 || 213
+|}
+
+=== General Stats ===
+These stats assume Isurd is at rank 20 in his class.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||300||32||31||35||17||5%||3%||10%||30%
+|-
+| 99, base||4,301||717||443||356||181||15%||6%||10%||30%
+|-
+| 99, with default accessories||4,301||717||531||356||181||15%||6%||10%||30%
+|}
+
+Isurd equips the following gems:
+* [[Steady Striker]]
+* [[Swelling Scourge]], at level 20 onwards
+* [[Swelling Blessing]], at level 40 onwards
+
+Isurd equips the following accessories as his default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Circlet of Intellect]]
+* [[Chipped Black Brooch]], at level 30 onwards
+* [[Lustrous Armring]], at level 50 onwards
+{{clr}}
+== Quests ==
+* [[Unwavering Resolve]] (Hero Quest)
+* [[Effervescent Heart]] (Ascension Quest)
+* [[Past and Present]]
+
+== Affinity==
+* [[Nimue]]
+* [[Whitby]]
+* [[Rosh]]
+
+== Challenge Battle ==
+{{Infobox XC3 Enemy
+|name         = Dawnhero Isurd
+|image        = XC3 Isurd DLC Fight.jpg
+|caption      = Dawnhero Isurd
+|type         = [[Agnus Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 110
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 2,499,680
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Dawnhero Isurd''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] fought at level 110 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+{{clr}}
+
+== Trivia==
+* Isurd's Japanese voice actor, Tomoaki Maeno, also voices [[Gorg]] in {{XC2}}.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Isurd Artwork.png|Official artwork
+XC3 Isurd Artwork.jpg
+Isurd Concept art.png|Isurd's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Isurd Hero Icon.png|Hero List Icon
+Strm order thumb015 0.png
+Strm ch body010 0.png
+Icon chara 8.png
+Icon chara battle 8.png
+XC3 Isurd Icon.png|Isurd's Affinity Chart Icon
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Isurd 01.jpg
+Isurd Trailer.jpeg
+Isurd Spa.png
+Lambda Isurd.jpg|Isurd piloting the Lambda Ferronis
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+[[Category:Isurd]]
+[[Category:XC3 Heroes]]
+[[Category:Pentelas Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>ocrn114q2n3kt2cd174t2xz1o3cjewz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Itiya Darbus</title>
+    <ns>0</ns>
+    <id>123782</id>
+    <revision>
+      <id>580043</id>
+      <parentid>579775</parentid>
+      <timestamp>2023-03-22T14:05:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>some stats</comment>
+      <origin>580043</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1201" sha1="bgmhntarul0po8xg0qj1ut6oqkbpo8t" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Itiya Darbus
+|image        = XC3 Itiya Darbus.png
+|caption      = Itiya Darbus
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Darbus]]
+|level        = 55
+|area         = [[Captocorn Peak]] ([[Piula Path]])
+|spawntime    = During ''[[The Big, Unseen Monster]]''
+|respawn      = No
+|movement     = Ground
+|exp          = 3277
+|cp           = 290
+|sp           = 0
+|gold         = 1548
+|hp           = 1,382,700
+|strength     = 
+|healing      = 
+|dexterity    = 188
+|agility      = 133
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Itiya Darbus''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Darbus]] family, and is fought at level 55 on [[Piula Path]] on [[Captocorn Peak]] during ''[[The Big, Unseen Monster]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Darbuses]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bgmhntarul0po8xg0qj1ut6oqkbpo8t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jade Support</title>
+    <ns>0</ns>
+    <id>118971</id>
+    <revision>
+      <id>592806</id>
+      <parentid>592268</parentid>
+      <timestamp>2023-05-15T20:16:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592806</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="945" sha1="fk3jif9fxkzl8wiun92qn0y99jw90g0" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Jade Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Jade Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Jade Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Jade Supports''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>fk3jif9fxkzl8wiun92qn0y99jw90g0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jail Blaster</title>
+    <ns>0</ns>
+    <id>121897</id>
+    <revision>
+      <id>596078</id>
+      <parentid>581402</parentid>
+      <timestamp>2023-06-16T20:19:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1012" sha1="hnul85hjqcdqwm0ha0z2x3t8t7ssqyh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jail Blaster
+|image        = 
+|caption      = Jail Blaster
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = 54
+|area         = [[Li Garte Prison Camp]]
+|spawntime    = During ''[[Prison Spring Clean]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jail Blasters''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 54 at [[Li Garte Prison Camp]] during ''[[In Search of a Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hnul85hjqcdqwm0ha0z2x3t8t7ssqyh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jail Duoblade</title>
+    <ns>0</ns>
+    <id>121898</id>
+    <revision>
+      <id>596079</id>
+      <parentid>581403</parentid>
+      <timestamp>2023-06-16T20:19:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1021" sha1="7gc1y98xflcq5n4hi73nim6nrg5hvy3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jail Duoblade
+|image        = 
+|caption      = Jail Duoblade
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = 54-55
+|area         = [[Li Garte Prison Camp]]
+|spawntime    = During ''[[Prison Spring Clean]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jail Duoblades''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 54-55 at [[Li Garte Prison Camp]] during ''[[In Search of a Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7gc1y98xflcq5n4hi73nim6nrg5hvy3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jail Medic</title>
+    <ns>0</ns>
+    <id>121899</id>
+    <revision>
+      <id>596080</id>
+      <parentid>581404</parentid>
+      <timestamp>2023-06-16T20:19:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596080</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1012" sha1="3rrke309rmqupwvhvj2ga1w5wzekyu7" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jail Medic
+|image        = 
+|caption      = Jail Medic
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = 54-55
+|area         = [[Li Garte Prison Camp]]
+|spawntime    = During ''[[Prison Spring Clean]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jail Medics''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 54-55 at [[Li Garte Prison Camp]] during ''[[In Search of a Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3rrke309rmqupwvhvj2ga1w5wzekyu7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jail Scout</title>
+    <ns>0</ns>
+    <id>121900</id>
+    <revision>
+      <id>596081</id>
+      <parentid>581405</parentid>
+      <timestamp>2023-06-16T20:19:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596081</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1012" sha1="o7xaop4r10edwtrv3s25imdipwtxwdc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jail Scout
+|image        = 
+|caption      = Jail Scout
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = 54-55
+|area         = [[Li Garte Prison Camp]]
+|spawntime    = During ''[[Prison Spring Clean]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jail Scouts''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 54-55 at [[Li Garte Prison Camp]] during ''[[In Search of a Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>o7xaop4r10edwtrv3s25imdipwtxwdc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jail Skirmisher</title>
+    <ns>0</ns>
+    <id>121901</id>
+    <revision>
+      <id>596082</id>
+      <parentid>581406</parentid>
+      <timestamp>2023-06-16T20:19:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596082</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1027" sha1="rqlhjxwkrlpj00gtnte5txu9qpo3b3l" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jail Skirmisher
+|image        = 
+|caption      = Jail Skirmisher
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = 54-55
+|area         = [[Li Garte Prison Camp]]
+|spawntime    = During ''[[Prison Spring Clean]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jail Skirmishers''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 54-55 at [[Li Garte Prison Camp]] during ''[[In Search of a Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rqlhjxwkrlpj00gtnte5txu9qpo3b3l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jail Vanguard</title>
+    <ns>0</ns>
+    <id>121902</id>
+    <revision>
+      <id>596085</id>
+      <parentid>581407</parentid>
+      <timestamp>2023-06-16T20:20:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596085</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1021" sha1="h2w60utuzze82gioxgydot0vkyutoz1" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jail Vanguard
+|image        = 
+|caption      = Jail Vanguard
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = 54-55
+|area         = [[Li Garte Prison Camp]]
+|spawntime    = During ''[[Prison Spring Clean]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jail Vanguards''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 54-55 at [[Li Garte Prison Camp]] during ''[[In Search of a Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h2w60utuzze82gioxgydot0vkyutoz1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jarack Volff</title>
+    <ns>0</ns>
+    <id>121042</id>
+    <revision>
+      <id>595221</id>
+      <parentid>594190</parentid>
+      <timestamp>2023-06-11T15:57:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1960" sha1="dca4cr54a2t2zo2r1fzqohz1kqmy8cd" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jarack Volff
+|image        = Jarack Volff.jpeg 
+|caption      = Jarack Volff
+|category     = Normal Minor Enemy&lt;br/ &gt;[[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Volff]]
+|level        = 53-54&lt;br/ &gt;70
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime&lt;br/ &gt;During ''[[Men! Of! The Sea! IV]]''
+|respawn      = Yes&lt;br/ &gt;No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jarack Volffs''' are Normal Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level 53-54 on [[Captocorn Peak]] in the [[Aetia Region]]. They may drop legendary [[Volffskin]], which is needed for the [[gem]] [[Refined Blessing|Refined Blessing X]]. One is fought at level 70 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Men! Of! The Sea! IV]]''.
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Jarack Volff
+|image        = Jarack Volff FR.jpg
+|caption      = Jarack Volff
+|category     = Normal Minor Enemy
+|type         = [[Volff]]
+|level        = 10
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Jarack Volffs''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Volff]] family, and can be found at level 10 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3FR Volffs]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>dca4cr54a2t2zo2r1fzqohz1kqmy8cd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jarack Vvarga</title>
+    <ns>0</ns>
+    <id>121037</id>
+    <revision>
+      <id>584834</id>
+      <parentid>580405</parentid>
+      <timestamp>2023-04-23T16:48:22Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add battle stats</comment>
+      <origin>584834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4842" sha1="a4dwdy7rljf8e5yz9ux0ooxbpeu0w3p" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jarack Vvarga
+|image        = 
+|caption      = Jarack Vvarga
+|category     = Minor Enemy
+|type         = [[Vvarga]]
+|level        = 69-70
+|area         = [[Millick Meadows]] ([[Fuschian Fields]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jarack Vvargas''' are Minor Enemies in {{XC3}}. They are members of the [[Vvarga]] family, and can be found at level 69-70 in the [[Fuschian Fields]] of [[Millick Meadows]].
+== Battle ==
+=== Resistances ===
+{{XC3 Resistances}}
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack 1 --&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|1
+|130%
+|
+|
+|- &lt;!-- Auto-attack 2 --&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|130%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Plunging Fang'''
+|Physical
+|One Target
+|1
+|300%
+|
+|
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Buzz 'n' Bark'''
+|Ether
+|Frontward AOE
+|1
+|250%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Beast Howl'''
+|Buff
+|All Allies
+| -
+| -
+|[[Critical Rate Up]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Thunderclap'''
+|Ether
+|AOE around User
+|1
+|170%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Jarack Vvarga
+|image        = 
+|caption      = Jarack Vvarga
+|type         = [[Vvarga]]
+|movement     = 
+
+|tab1         = Ouroboros Fever
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level        = 63
+|detection    = 
+|spawntime    = During ''[[Ouroboros Fever]]''
+|respawn      = No
+|hp           = 619,200
+|strength     = 438
+|healing      = 278
+|dexterity    = 227
+|agility      = 207
+|physdef      = 5%
+|ethdef       = -10%
+|critrate     = 5%
+|guardrate    = 0%
+
+|tab2         = Gauntlet: Pro Stage 40
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 85
+|detection2   = 
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|hp2          = 5,319,600
+|strength2    = 3,688
+|healing2     = 1,803
+|dexterity2   = 396
+|agility2     = 352
+|physdef2     = 5%
+|ethdef2      = -10%
+|critrate2    = 40%
+|guardrate2   = 0%
+
+|tab3         = Gauntlet: Pro Stage 110
+|area3        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category3    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level3       = 120
+|detection3   = 
+|spawntime3   = During ''[[Gauntlet: Pro]]''
+|respawn3     = No
+|hp3          = 61,306,344
+|strength3    = 14,739
+|healing3     = 17,661
+|dexterity3   = 571
+|agility3     = 504
+|physdef3     = 5%
+|ethdef3      = -10%
+|critrate3    = 40%
+|guardrate3   = 0%
+}}
+Two Jarack Vvargas are fought at level 63 in Wave 3 of the [[Challenge Battle Mode|Challenge Battle]] ''[[Ouroboros Fever]]''.
+
+One Jarack Vvarga is fought at level 85 at Stage 40 of the [[Archsage's Gauntlet]] Challenge ''[[Gauntlet: Pro]]''.
+
+Another Jarack Vvarga is fought at level 120 alongside an [[Illumi Skeeter (XC3)|Illumi Skeeter]], an [[Illumi Wisp]] and a [[Kroda Flier]] at Stage 110 of the Archsage's Gauntlet Challenge ''Gauntlet: Pro''.
+
+=== Skills ===
+The Jarack Vvargas in the Archsage's Gauntlet have the following skill. This does not apply to the Vvargas in ''Ouroboros Fever.''
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+==== Ouroboros Fever ====
+{{XC3 Resistances|break = 125%|etherdebuff = 70%}}
+==== Archsage's Gauntlet ====
+{{XC3 Resistances|break = 70%|physdebuff = 70%|etherdebuff = 70%}}
+=== Enraged ===
+==== Ouroboros Fever ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 50%.
+|}
+==== Archsage's Gauntlet ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+=== Arts ===
+Jarack Vvargas in Challenge Battle Mode have the same Arts set as regular Jarack Vvargas found elsewhere.
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Vvargas]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>a4dwdy7rljf8e5yz9ux0ooxbpeu0w3p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javelin Gulkin</title>
+    <ns>0</ns>
+    <id>121832</id>
+    <revision>
+      <id>559727</id>
+      <parentid>546948</parentid>
+      <timestamp>2022-09-30T10:49:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559727</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="akvrbs1g0btoevqzb1upx7x7my5j1z1" xml:space="preserve">{{Infobox Enemy
+|name         = Javelin Gulkin
+|image        = 
+|caption      = Javelin Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Javelin Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>akvrbs1g0btoevqzb1upx7x7my5j1z1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Javelin Merigna</title>
+    <ns>0</ns>
+    <id>121833</id>
+    <revision>
+      <id>559728</id>
+      <parentid>546949</parentid>
+      <timestamp>2022-09-30T10:49:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559728</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="805" sha1="sed6m5gdgxkquzo9ax5hf3gae8b9og6" xml:space="preserve">{{Infobox Enemy
+|name         = Javelin Merigna
+|image        = 
+|caption      = Javelin Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Javelin Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>sed6m5gdgxkquzo9ax5hf3gae8b9og6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jealous Mizraile</title>
+    <ns>0</ns>
+    <id>119481</id>
+    <revision>
+      <id>583239</id>
+      <parentid>574459</parentid>
+      <timestamp>2023-04-16T20:11:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1344" sha1="0ux4yxjjgl23og8b8j8r8yxjyfsk1tn" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Jealous Mizraile
+|image        = XC3 Jealous Mizraile.png
+|caption      = Jealous Mizraile
+|type         = [[Aspar]]
+|level        = 72
+|area         = [[Erythia Sea]] ([[Lavi Sandbar]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,531
+|cp           = 520
+|sp           = 5
+|gold         = 2,037
+|hp           = 3,816,000
+|strength     = 1,206
+|healing      = 529
+|dexterity    = 245
+|agility      = 159
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Jealous Mizraile''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Aspar]] family, and can be found at level 72 on [[Lavi Sandbar]]&#160;in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Creeping Predator]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|physdebuff = 50%
+|etherdebuff = 85%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Jealous mizraile location.png
+Jealous mizraile.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Aspars]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0ux4yxjjgl23og8b8j8r8yxjyfsk1tn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jet Pauldrons (XC3)</title>
+    <ns>0</ns>
+    <id>122578</id>
+    <revision>
+      <id>566805</id>
+      <parentid>558007</parentid>
+      <timestamp>2022-11-23T04:43:50Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566805</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="968" sha1="g1xcdwt8j30lcxsh1p4o4kg3lr8yw55" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Jet Pauldrons (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Jet Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Boosts Smash damage by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Jet Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Boosts Smash damage by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Jet Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Boosts Smash damage by 85%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Jet Pauldrons''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>g1xcdwt8j30lcxsh1p4o4kg3lr8yw55</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jewel Beetle Gauntlet</title>
+    <ns>0</ns>
+    <id>122854</id>
+    <revision>
+      <id>592807</id>
+      <parentid>592314</parentid>
+      <timestamp>2023-05-15T20:17:00Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592807</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1098" sha1="c594lgguqwaqodbxu4sscv944kqiygr" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Jewel Beetle Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Jewel Beetle Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Jewel Beetle Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 29%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Jewel Beetle Gauntlets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>c594lgguqwaqodbxu4sscv944kqiygr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jhodor</title>
+    <ns>0</ns>
+    <id>122259</id>
+    <revision>
+      <id>597744</id>
+      <parentid>596086</parentid>
+      <timestamp>2023-07-02T16:27:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597744</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1558" sha1="gftac0p0pjtvx3dfnr7301abte5fudr" xml:space="preserve">{{Infobox NPC
+|name        = Jhodor
+|image       = Strm npc 223 0.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Agnus|Agnian]] human
+|age         = 9th Term
+|location    = [[Agnus Castle Region]]
+}}
+'''Jhodor''' is an NPC in {{XC3}} who can be found in the [[Agnus Castle Region]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Jhodor
+|image        = 
+|caption      = Jhodor
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 57
+|area         = [[Agnus Castle Region]] ([[Ascension Grounds]])
+|spawntime    = During ''[[The Three Fiends]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jhodor''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is an [[Agnus Forces|Agnus Soldier]] who is fought alongside [[Xera]] and [[Tohma]] at level 57 on the [[Ascension Grounds]] in the [[Agnus Castle Region]] if the party chooses to fight them during ''[[The Three Fiends]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Agnus Castle Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Agnus Castle Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>gftac0p0pjtvx3dfnr7301abte5fudr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jingoistic Gigantus</title>
+    <ns>0</ns>
+    <id>117335</id>
+    <revision>
+      <id>574460</id>
+      <parentid>561437</parentid>
+      <timestamp>2023-01-28T10:39:21Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>stats + CBM</comment>
+      <origin>574460</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2900" sha1="epyvehbihwwfgbsby5eaidost86pdwx" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jingoistic Gigantus
+|image        = XC3 Territorial Rotbart.jpg
+|caption      = Jingoistic Gigantus
+|category     = Unique Monster
+|type         = [[Gogol]]
+|level        = 80
+|area         = [[Millick Meadows]] ([[Viliera Hill (XC3)|Viliera Hill]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp       = 3,697
+|cp        = 445
+|sp        = 5
+|gold      = 2,010
+|hp        = 6,325,200
+|strength  = 1,119
+|healing   = 684
+|dexterity = 296
+|agility   = 278
+|physdef   = 10%
+|ethdef    = -10%
+|critrate  = 10%
+|guardrate-front = 15%
+|guardrate-side = 0%
+|guardrate-back = 0% 
+}}
+'''Jingoistic Gigantus''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Gogol]] family and can be found at level 80 around [[Viliera Hill (XC3)|Viliera Hill]] in [[Millick Meadows]]. The [[Soulhacker#Enemy Skills|Blasting Stomp]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 85%
+|physdebuff = 25%
+|etherdebuff = Immune
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name      = Jingoistic Gigantus
+|image     =
+|caption   = Jingoistic Gigantus
+|type      = [[Gogol]]
+|movement  = Ground
+|area      = [[Land of Challenge (XC3)|Land of Challenge]]
+|category  = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level     = 100
+|detection = 
+|spawntime = During ''[[Primate Triumvirate]]''
+|respawn   = No
+|hp        = 5,629,750
+|strength  = 2,025
+|healing   = 845
+|dexterity = 395
+|agility   = 303
+|physdef   = 10%
+|ethdef    = -10%
+|critrate  = 15%
+|guardrate-front = 15%
+|guardrate-side = 0%
+|guardrate-back = 0% 
+}}
+Jingoistic Gigantus is fought at level 100 in the second wave of the ''[[Primate Triumvirate]]'' [[Challenge Battle Mode|challenge]].
+{{clr}}
+== Trivia ==
+* Jingoistic Gigantus bares some similarities with the [[Territorial Rotbart (XC1)|Territorial]] [[Territorial Rotbart (XC2)|Rotbart]] from {{XC}} and {{XC2}}. All three of them are red-furred Gogol, [[Unique Monster (XC1)|Unique]] [[Unique Monster (XC2)|Monsters]] found around level 80 and are encountered early on when the party is low-level.  All three in turn also share a similarity with [[Hayreddin, the Territorial]] from {{XCX}}, though that character is a red-haired [[Simius]], as the planet [[Mira]] has no Gogols.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Territorial Rotbart 01.jpg
+XC3 Territorial Rotbart 02.jpg
+Jingoistic gigantus location.png
+Jingoistic gigantus.png
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+Xenoblade Chronicles 3 &#8211; Aionios (Nintendo Switch)
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>epyvehbihwwfgbsby5eaidost86pdwx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Joran</title>
+    <ns>0</ns>
+    <id>118665</id>
+    <revision>
+      <id>595837</id>
+      <parentid>594650</parentid>
+      <timestamp>2023-06-16T15:04:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Screenshots */</comment>
+      <origin>595837</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17097" sha1="qmna4qu4ujif8k390rxqwu7pcb2mn1i" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Joran
+|image         = Joran Concept Art cropped.png
+|species       = [[Keves]]i human (formerly)&lt;br/&gt;[[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = Green
+|eyecolor      = Brown
+|affiliation   = [[Colony 14]] (formerly)&lt;br/&gt;[[Consul]]s
+|voiceactorjp  = Kanon Amane 
+|voiceactoreng = Gerran Howell 
+|appearances   = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+'''Joran''' is a character in {{XC3}}.
+
+== Overview ==
+Joran was a childhood friend of [[Noah]], [[Lanz]], and [[Eunie]] and from [[Colony 14]]. He was a healer class, and wielded a healing rod. He could place regeneration fields, similarly to Eunie. He was kindhearted, although weak and clumsy.
+
+== Story ==
+Joran was originally a soldier of [[Keves]] and a friend of Noah, Lanz, and Eunie. Though kindhearted, he was clumsy and a poor fighter, only being good at healing and subsequently was mocked and scorned by many of his peers, though [[Garvel]] did at one point admit he was a good healer during a confrontation. He later died in an [[Agnus]] raid in order to save Lanz' life, and he was subsequently resurrected as a [[Consul]] by [[Z]], renamed '''J''', in the process remembering the deaths of all his previous selves, several of which occurred at the hands of his own supposed allies, and realizing he has always been unsuited for war. The knowledge of his previous deaths always being ignoble at best drove him insane, and he came to see his own strength as the only thing worth caring about and his original kind nature was overtaken by a childish spitefulness driven by his deep envy of his friends being strong enough to make their own way in the world, which J believed was impossible for himself.   
+
+Though neither Joran's identity as [[Moebius]], nor the fact that Moebius could interlink with one another were revealed at this time, his first appearance as Moebius was the first battle against the [[Moebius D &amp; J|Mysterious Giant]] form when [[D]] and J interlinked. D's base Moebius form lacks its horns in all appearances and his horns only seem to appear when interlinked with J. His silhouette can also be seen when D first returns to the other Consuls following the battle.
+
+As a Consul, J was put in charge of [[Colony Lambda]]. He is seen visiting [[Isurd]] during the main story, tasking him with hunting down the [[Ouroboros]]. He developed the ability to create "mudpuppets", sentient lifeforms made of soil and implanted with traumatic memories of living soldiers to become clones of them driven utterly by those memories. As a result of Isurd not wishing to fight the party, he created a mudpuppet of him, formed from his lingering grudges against [[Taion]] for the death of [[Nimue]], sending it to destroy him despite the real Isurd having long since forgiven Taion. After the mudpuppet fails to defeat the party, J himself confronts the Ouroboros in combat, stating his joy for becoming a Moebius. The revelation of his identity also causes Lanz a great deal of internal conflict upon seeing the person who saved his life become Moebius.
+
+Joran, alongside D in their interlinked form, confronts the party again at [[Keves Castle]] before they attempt to destroy the [[Annihilator]], taunting them repeatedly. It is also revealed that Joran kept his healing powers from before he was a Moebius, as revealed when he healed his Interlinked form after Taion's Mondo explosion. The Consuls have the edge for most of the battle but they are defeated by Eunie and Taion's [[Ouroboros]] after Eunie overcomes her trauma induced fear for D and they both outsmart the interlinked Moebius by bypassing D's echolocation by planting Mondos above him. 
+
+Joran then reveals himself in [[Cloudkeep]] alongside D after seemingly killing [[Nia]], and they both confront the party. After the initial fight against both separate Moebius, Noah, Eunie and Lanz collectively try to reach out to Joran, who exclaims that they have no idea how people like him felt living under everyone's shadow. The party, however, manage to get through to him, explaining how much he used to mean to them and how he does not belong with Moebius, however as he is considering the party's statements and seemed willing to renounce Moebius for good, D bashes his head in, forcing him into an [[Interlink]], with D's self being dominant and insulting and talking down to him, which cemented in him that he was only a tool to Moebius and that the party were the ones who actually cared for him. 
+
+Once the party defeat the interlinked form of D, Joran instates control and begins to violently absorb [[Black Fog]] into his and D's Interlinked form with the intention for their form to implode and kill both D and himself, all while D requests more power, with Joran rhetorically asking if D really thought he really was a loser now, he continues to assert control over the form also forcing their interlinked form to step backwards and then jump off prior to the explosion to protect the party. They both die and the party mourns his death, realizing he would not be reborn within [[Aionios]] because he was a Moebius, though finding closure in his sacrifice and final renunciation of Moebius. 
+
+After [[Origin]] is reactivated and the worlds of the [[Bionis]] and [[Alrest]] are reconstructed, Joran, no longer a Moebius, appears alongside a young Eunie and Lanz who call out to a young Noah to join the group else he will miss the festivities.
+{{clr}}
+
+== Battles ==
+{{For|his Interlinked form with D|Moebius D &amp; J}}
+&lt;div style="float: right;"&gt;&lt;tabber&gt;
+|-|Consul J =
+{{Infobox XC3 Enemy
+|name         = Consul J
+|image        = XC3 Joran Consul.png
+|caption      = Consul J
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Consul (enemy)|Consul]]
+|level        = 29
+|area         = [[Great Cotte Falls]]
+|spawntime    = Anytime
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 1,408
+|cp           = 100
+|sp           = 0
+|gold         = 0
+|hp           = 717,650
+|strength     = 536
+|healing      = 196
+|dexterity    = 112
+|agility      = 87
+|physdef      = -20%
+|ethdef       = 35%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+
+|-|Moebius J =
+{{Infobox XC3 Enemy
+|name         = Moebius J
+|image        = Moebius J.jpg
+|caption      = Moebius J
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 54
+|area         = [[Captocorn Peak]] ([[Cloudkeep]])
+|spawntime    = Anytime
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,420
+|cp           = 90
+|sp           = 0
+|gold         = 0
+|hp           = 1,553,920
+|strength     = 498
+|healing      = 68
+|dexterity    = 239
+|agility      = 123
+|physdef      = -20%
+|ethdef       = 35%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+Joran is fought twice as a [[Boss (XC3)|Boss]]. '''Consul J''' is a [[Consul (enemy)|Consul]] fought at level 29 at [[Great Cotte Falls]]. 
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 0%
+|etherdebuff = 60%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{Clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|150%
+|
+|style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Valiant Deed'''
+|Buff
+|Self
+| -
+| -
+| [[Attack Up]] / [[Critical Rate Up]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*Buff durations are extended by 200%.
+|When reduced to 85% HP
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Whip Crash'''
+|Physical
+|AOE on Target
+|1
+|250%
+|[[Daze (XC3)|Daze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Fatal Pierce'''
+|Physical
+|Frontward AOE
+|2
+|200%
+|[[Bleed (XC3)|Bleed]]
+|style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+*Damage from Bleed is boosted by 200%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slots 3 and 4 --&gt;
+|rowspan="2"|'''Ruined Marionette'''
+|rowspan="2"|Physical
+|rowspan="2"|AOE around User
+|rowspan="2"|1
+|rowspan="2"|100%
+|rowspan="2"|Blowdown
+|style="text-align:left;"|
+*Attack cannot be evaded.
+*Immune to all reactions and combos during Art.
+*On each hit, heals self for 300% of damage dealt, to a maximum of 2000% of Healing Power.
+|Once per battle, when reduced to 70% HP
+|-
+|style="text-align:left;"|Above notes, plus:
+*Art is telegraphed 5.0s before execution.
+*Blowdown effect is stronger than that of the first version.
+|When reduced to 40% HP
+|}
+{{clr}}
+He is later fought as '''Moebius J''' who is a Moebius and is fought at level 54 at the Cloudkeep on [[Captocorn Peak]].
+
+=== Resistances===
+{{XC3 Resistances
+|break       = 65%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{Clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Ether
+|One Target
+|1
+|200%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Brave Hand'''
+|Ether
+|One Target
+|1
+|450%
+|[[Blowdown (XC3)|Blowdown]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Incarceration'''
+|Set Field
+|AOE around User
+| -
+| -
+|
+|style="text-align:left;"|
+*Field deals 35% of Attack as damage every 2.5s to enemies in the field, lasting for 20.0s at base.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 2, 5 &amp; 6 --&gt;
+|rowspan="3"|'''Decoy Soul'''
+|rowspan="3"|Summon
+|rowspan="3"|Self
+|rowspan="3"| -
+|rowspan="3"| -
+|rowspan="3"|
+|style="text-align:left;"|
+*Summons the J [[Moebius Puppet]].
+*Immune to all reactions and combos during Art.
+|Only if a J Moebius Puppet is not present
+|-
+|style="text-align:left;"|
+*Summons the D Moebius Puppet.
+*Immune to all reactions and combos during Art.
+|Only if a D Moebius Puppet is not present
+|-
+|style="text-align:left;"|
+*Summons both the J and D Moebius Puppets.
+*Immune to all reactions and combos during Art.
+|Only if neither Moebius Puppet is present
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Healing Light'''
+|Healing
+|AOE around User
+| -
+|6000%
+|[[Defense Up]]
+|
+|Anytime
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Farewell, My Puppet'''
+|Ether
+|One Target
+|1
+|1000%
+|[[Doom (XC3)|Doom]] / Blowdown
+|style="text-align:left;"|
+*Accuracy is boosted by 100%.
+*Immune to all reactions and combos during Art.
+|When reduced to 50% HP
+|}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Consul J
+|image        = Consul J Archsage's Gauntlet.jpg
+|caption      = Consul J
+|type         = [[Consul (enemy)|Consul]]
+
+|tab1         = Stage 30
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 80
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 4,879,440
+|strength     = 2,536
+|healing      = 1,681
+|dexterity    = 387
+|agility      = 287
+|physdef      = -20%
+|ethdef       = 35%
+|critrate     = 10%
+|guardrate    = 0%
+
+|tab2         = Stage 100
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 115
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|hp2          = 51,428,736
+|strength2    = 10,665
+|healing2     = 14,717
+|dexterity2   = 560
+|agility2     = 410
+|physdef2     = -20%
+|ethdef2      = 35%
+|critrate2    = 10%
+|guardrate2   = 0%
+}}
+'''Consul J''' is fought twice during the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''. He is first fought on his own at level 80 at Stage 30, and later fought at level 115 alongside [[X|Consul X]] at Stage 100.
+
+=== Skills ===
+Consul J has the following skill:
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances===
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 50%
+|etherdebuff = 100%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+=== Arts ===
+Consul J has the same Arts set as in the story boss fight, with the exception of Ruined Marionette, in which only the first version with no telegraphing timer and weaker Blowdown is used. Additionally, all of his Arts may be used at any time.
+{{Clr}}
+----
+{{Infobox XC3 Enemy
+|name         = Moebius J
+|image        = 
+|caption      = Moebius J
+|type         = [[Moebius]]
+
+|tab1         = Stage 60
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 95
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 11,163,687
+|strength     = 5,069
+|healing      = 11,587
+|dexterity    = 560
+|agility      = 277
+|physdef      = -20%
+|ethdef       = 35%
+|critrate     = 0%
+|guardrate    = 0%
+
+|tab2         = Stage 130
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 140
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|hp2          = 63,223,070
+|strength2    = 14,939
+|healing2     = 58,095
+|dexterity2   = 782
+|agility2     = 388
+|physdef2     = -20%
+|ethdef2      = 35%
+|critrate2    = 0%
+|guardrate2   = 0%
+}}
+'''Moebius J''' is fought twice alongside [[D#Challenge Battle Mode|Moebius D]] in the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]'', first at level 95 at Stage 60, and later at level 140 at Stage 130.
+=== Skills ===
+Moebius J has the following skill:
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+{{XC3 Resistances
+|break       = 70%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 70%
+|etherdebuff = 100%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+=== Arts ===
+Moebius J has the same Arts set as in the story boss fight, with the exception that he does not use any version of Decoy Soul. Additionally, all of his Arts may be used at any time, except for Farewell, My Puppet, which is only used if Moebius D is defeated.
+
+== Etymology ==
+Joran's name may be derived from the Swedish name G&#246;ran or J&#246;ran, meaning "farmer" or "earth-worker".
+
+== Trivia ==
+* J's jester-like cap in his Consul and Moebius forms may allude to the [[wikipedia:Joker_(playing_card)|Joker]] card, and his moniker of "J" may be a nod to this. Additionally, Joran's backstory of perceived uselessness may also be a reference to the Joker card, which is known for not being used in serious card games.
+* At some point, Joran was intended to be a [[Hero]], but was dropped and left [[List of Xenoblade Chronicles 3 pre-release and unused content|unused]] in the files of {{XC3|-}}.
+* Joran's English voice actor, Gerran Howell, also voices [[Milton]] in {{TTGC|full}}.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Joran Concept Art.png|Official Art of Joran
+Joran Artbook.png|Joran Concept Art
+Consuls J S and C.jpg|Consul and Moebius J Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Joran Chain Order.png|Joran's Unused Chain Order
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+MoebiusJImage.jpg|Joran in his Moebius form
+Consul J.jpg|Joran with his mask
+XC3 Joran Human.png|Joran in a flashback
+&lt;/gallery&gt;
+{{clr}}
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:Keves]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Consul Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>qmna4qu4ujif8k390rxqwu7pcb2mn1i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Joyful Nimroog</title>
+    <ns>0</ns>
+    <id>119425</id>
+    <revision>
+      <id>583304</id>
+      <parentid>574461</parentid>
+      <timestamp>2023-04-17T15:49:28Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1357" sha1="qijghtajuhfhxehudmvlnt16j209gsn" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Joyful Nimroog
+|image        = XC3 Joyful Nimroog.png
+|caption      = Joyful Nimroog
+|type         = [[Anlood]]
+|level        = 68
+|area         = [[Rae-Bel Tableland]] ([[Valley of Anguish]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,028
+|cp           = 289
+|sp           = 5
+|gold         = 1,084
+|hp           = 3,500,000
+|strength     = 2,535
+|healing      = 4,066
+|dexterity    = 271
+|agility      = 256
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 15%
+|guardrate    = 0% 
+}}
+'''Joyful Nimroog''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Anlood]] family, and can be found at level 68 in the [[Valley of Anguish]] at [[Rae-Bel Tableland]]. The [[Soulhacker#Enemy Skills|Instant Charge]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = 75%
+|etherdebuff = 75%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Joyful nimroog location.png
+Joyful nimroog.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Anloods]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qijghtajuhfhxehudmvlnt16j209gsn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Juniper</title>
+    <ns>0</ns>
+    <id>117351</id>
+    <revision>
+      <id>600162</id>
+      <parentid>597745</parentid>
+      <timestamp>2023-07-20T13:40:53Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>hero base stats</comment>
+      <origin>600162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6435" sha1="ann3fcig2pvqww1z8kvjm47n3x839xk" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Juniper
+|image        = Juniper Twitter Art.png
+|species      = [[Agnus|Agnian]] human
+|age          = 7th Term 
+|gender       = X/Non-binary &#8251;
+|haircolor    = Green
+|eyecolor     = Green
+|affiliation  = [[Colony Tau]]
+|appearances  = {{XC3}}
+|voiceactorjp = [[wikipedia:Rie_Kugimiya|Rie Kugimiya]]
+|voiceactoreng= [https://www.imdb.com/name/nm10002017/ Lilly Hart]&lt;ref&gt;[https://shelleybarrettmanagement.co.uk/lilly-hart-in-xenoblade-chronicles-3-on-nintendo-switch/]&lt;/ref&gt;
+}}
+'''Juniper''' (Japanese: {{lang|ja|&#12518;&#12474;&#12522;&#12495;}}, '''Yuzuriha''') is a character in {{XC3}}.
+
+== Overview ==
+Juniper, also known as Ghostbow Juniper (Japanese: {{Lang|jp|&#20762;&#24358;&#12398;&#12518;&#12474;&#12522;&#12495;}}), is the commander of [[Colony Tau]], where they usually live quietly in the forest. Juniper is a companionable person and is trusted by their [[Colony Tau|colony]] mates. Juniper is very agile and can move easily on trees and thin ropes. Juniper is an [[Agnus|Agnian]] human with [[Gormotti]] and [[Flesh Eater|Blade Eater]] traits.
+
+Juniper becomes a [[Hero]] after completing ''[[Natural Selection]]''. Their [[Class Rank (XC3)|Class Rank]] is increased to 20 by completing the [[Hero Quest|Ascension Quest]] ''[[Survivors]]''.
+
+== Gameplay ==
+Juniper uses the [[Stalker]] [[Class (XC3)|Class]], an [[Attacker]] class that wields the [[Blade (XC3)|Luminescent Bow]] and specializes in attacking [[Enemy (XC3)|enemies]]' blind spots for a stealthy elimination. Juniper's [[Battle Arts (XC3)|Chain Art]] is Radiant Cascade and their Heroic Chain bonus increases the damage ratio by 10 percentage points when they are chosen.
+
+=== Base Stats ===
+These are Juniper's raw stats prior to modifications by class. They serve as a baseline for calculating Juniper's stats in the Stalker class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 319 || 19 || 18 || 33 || 23
+|-
+| 99 || 6,378 || 381 || 365 || 327 || 234
+|}
+
+=== General Stats ===
+These stats assume Juniper is at rank 20 in their class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Juniper has not unlocked the corresponding gem slots.
+
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1||223||38 (+20)||4||42||29||20%||3%||15%||15%
+|-
+| 99||4,464||973 (+70)||91||425||304||30%||6%||15%||15%
+|}
+
+Juniper equips the following gems:
+* [[Disperse Bloodlust]]
+* [[Steelcleaver]], at level 20 onwards
+* [[Analyze Weakness]], at level 40 onwards
+
+Juniper equips the following accessories as their default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+
+* [[Beast Mask]]
+* [[Repulsor Cuffs]], at level 30 onwards
+* [[Comet Choker (XC3)|Comet Choker]], at level 50 onwards
+{{clr}}
+
+== Battles ==
+* [[Agnus Fighter A]]
+
+=== Challenge Battle ===
+{{Infobox XC3 Enemy
+|name         = Ghostbow Juniper
+|image        = 
+|caption      = Ghostbow Juniper
+|type         = [[Agnus Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 3,519,120
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Ghostbow Juniper''' is fought at level 120 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+{{clr}}
+
+== Etymology ==
+[[wikipedia:Juniper|Junipers]] are a family of coniferous trees. Their [[wikipedia:&#12518;&#12474;&#12522;&#12495;|Japanese name]] {{lang|ja|&#12518;&#12474;&#12522;&#12495;}} (Yuzuriha) is the common name for [[wikipedia:Daphniphyllum macropodum|Daphniphyllum macropodum]], a shrub or small tree found in China, Japan and Korea. The timber is used in China in construction and furniture making. It is grown as an ornamental plant, chiefly for its foliage.
+
+== Notes ==
+* &#8251; There is no specified or no defined [[wikipedia:gender identity|gender identity]] for or by Juniper in-game, unlike for the other main or Hero characters. According to the game files, the internal values assigned to the "gender" of the characters are 0 for male, 1 for female, and the undefined value 2, which was assigned to the character Juniper. For this reason, Juniper's gender identity is expressed by the [[wikipedia:Non-binary gender|non-binary gender]] umbrella term or the [[wikipedia:X-gender|X-gender]] umbrella term in Japan. Moreover, [https://www.imdb.com/name/nm10002017/ Lilly Hart]&lt;ref&gt;[https://shelleybarrettmanagement.co.uk/lilly-hart-in-xenoblade-chronicles-3-on-nintendo-switch/]&lt;/ref&gt; who voices Juniper in the English version&lt;ref&gt;[https://www.behindthevoiceactors.com/Lilly-Hart/]&lt;/ref&gt;, confirmed the non-binarity of their gender identity.&lt;ref&gt;[https://www.instagram.com/p/CgtmgMBIt5i/]&lt;/ref&gt; More information is reported [[Juniper/Notes|here]].
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Juniper Artwork.png|Official Artwork of Juniper
+XC3 Juniper Phantom Archer Artwork.jpeg
+XC3 Juniper as a Phantom Archer.jpg
+Juniper Concept Art.png|Juniper's Concept Art
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruitment artwork
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Juniper Hero Icon.png|Hero List Icon
+Strm order thumb026 0.png
+Juniper Level Up Art.png
+Icon chara 18.png
+Icon chara battle 19.png
+XC3 Juniper Icon.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Juniper screenshot 01.jpg
+XC3 Juniper screenshot 02.jpg
+XC3 Juniper screenshot 03.jpg
+XC3 Juniper screenshot 04.jpg
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+File:&#12518;&#12474;&#12522;&#12495;|Juniper
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Juniper]]
+[[Category:Pentelas Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>ann3fcig2pvqww1z8kvjm47n3x839xk</sha1>
+    </revision>
+  </page>
+  </mediawiki>

@@ -1,0 +1,6 @@
+Skill Name: Phantom Strike 
+
+Class: Machine Assassin
+
+Skill Buff or Effect:  Adds 100% chance for attack to be unblockable.
+

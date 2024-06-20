@@ -1,0 +1,6 @@
+Art Name: Rapid Shot
+
+Class: Stalker
+
+Effect: Side attack_
+

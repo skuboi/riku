@@ -1,0 +1,6 @@
+Art Name: Avenging Eagle
+
+Class: Tactician
+
+Effect: AOE / Eva. down
+

@@ -1,0 +1,1804 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ghillie Mask</title>
+    <ns>0</ns>
+    <id>122580</id>
+    <revision>
+      <id>592779</id>
+      <parentid>592318</parentid>
+      <timestamp>2023-05-15T20:15:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592779</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1041" sha1="4b7ob73jvytp2evfbyltl7nasmxwff6" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Ghillie Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 14,180 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Ghillie Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 14,180 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Ghillie Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt when attacking from behind by 24%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 14,180 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Ghillie Masks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>4b7ob73jvytp2evfbyltl7nasmxwff6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ghondor</title>
+    <ns>0</ns>
+    <id>118519</id>
+    <revision>
+      <id>601269</id>
+      <parentid>600441</parentid>
+      <timestamp>2023-07-22T09:58:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */</comment>
+      <origin>601269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7965" sha1="2xiazmnam4eklvaae2c5nx92orwvt5o" xml:space="preserve">{{for|the character in {{XC3FR|sub}}|Ghondor (FR)}}
+{{spoiler}}
+{{Infobox Character
+|name         = Ghondor
+|image        = XC3 Ghondor Portrait Art.png
+|species      = [[City|Citizen]]
+|age          = 18
+|gender       = Female
+|haircolor    = Brown
+|eyecolor     = Green
+|affiliation  = [[Lost Numbers]]
+|voiceactorjp = [[Wikipedia:Satomi Akesaka|Satomi Akesaka]]
+|voiceactoreng= [[Wikipedia:Dominique Moore|Dominique Moore]]
+|appearances  = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+'''Ghondor Vandham''' (Japanese: &#12468;&#12531;&#12489;&#12454;&#12539;&#12532;&#12449;&#12531;&#12480;&#12512;, ''Gond&#333; Vandamu'') is a character in {{XC3}}.
+
+== Overview ==
+She is the daughter of [[Monica Vandham|Monica]] and the granddaughter of [[Guernica Vandham]]. She is small but has a great sense of combat and fights with her fists. She is a very brave person who is never intimidated by huge [[Enemy (XC3)|enemies]] and never loses. While her cynicism and brutal honesty make it difficult for her to get along with others, especially her mother (who she refers to as "Bitchqueen"), she does genuinely care for her friends and family despite trying to act harshly towards them. She is one of the six [[Ouroboros]] candidates, alongside [[Jansen]], [[Olive]], [[Kryto]], [[Cyma]], and [[Nissick]], and is accompanied by her guards [[Aggy]] and [[Oggy]] at all times, who call her "{{lang|jp|&#12362;&#23330;}}", "''Oj&#333;''". &lt;ref&gt;https://twitter.com/XenobladeJP/status/1542403497605603328&lt;/ref&gt; 
+
+She is recruited as a [[Hero]] shortly after starting [[Chapter 6 (XC3)|Chapter 6]]. Her [[Class Rank (XC3)|Class Rank]] can be increased to 20 by completing the [[Hero Quest|Ascension Quest]], ''[[Knowing Your Family]]''.
+{{clr}}
+
+== Gameplay ==
+Ghondor fights as a [[Martial Artist]], an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]].
+
+=== Arts === 
+* '''[[Raging Force]]''', Damage increases for every art not used up. (Talent Art)
+* [[Detonating Hit]], Side [[Daze (XC3)|Daze]]
+* [[Hyper Dropkick]], Blowdown / Front Attack Up
+* [[Comet Punch (XC3)|Comet Punch]], AOE / High Critical Rate &amp; Evade Attacks 
+* [[Focus]], Stance / Art Recharge Up &amp; Auto Attack Speed Up
+* [[Rampaging Fists]], Increased damage by 50% for every enemy in battle, to a max of 200%
+
+Ghondor's [[Chain Attack (XC3)|Chain Art]] is [[Avalanche Onslaught (XC3)|Avalanche Onslaught]], and her Heroic Chain bonus makes her always reactivate in addition to the usual reactivations based on the prior Chain Order's results.
+
+=== Base Stats ===
+These are Ghondor's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Martial Artist class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 407 || 23 || 20 || 32 || 23
+|-
+| 99 || 6,779 || 384 || 341 || 323 || 234
+|}
+
+=== General Stats ===
+These stats assume Ghondor is at rank 20 in her class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Ghondor has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+!Level!!HP
+!Attack
+!Healing Power!!Dexterity!!Agility!!Critical Rate!!Block Rate !!Physical Defense!!Ether Defense
+|-
+|1, base||305 ||43 (+20)||5||38||27||24%||8%||15%||15%
+|-
+|99, base||5,084||976 (+70)||85||387||280 ||36%||16%||15%||15%
+|-
+|99, with default accessories||5,084||1,171 (+70)||85 || 387||280||36%||16%||15%||15% 
+|}
+
+Ghondor equips the following gems:
+* [[Steady Striker]]
+* [[Empowered Combo]], at level 20 onwards
+* [[Steelcleaver]], at level 40 onwards
+
+Ghondor equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Steam Belt (XC3)|Steam Belt]]
+* [[Power Bangle]], at level 30 onwards
+* [[Storm Necklace]], at level 50 onwards
+{{clr}}
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Ghondor
+| npc2 = Monica Vandham
+| affinity = pink
+| caption = Family
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Ghondor
+| npc2 = Shania
+| affinity = green
+| caption = Be true to yourself
+| direction = right
+}}
+{{XC3 Affinity Link
+| npc1 = Ghondor
+| npc2 = Aggy
+| affinity = pink
+| caption = M'lady!
+| direction = left
+}}
+{{XC3 Affinity Link
+| npc1 = Ghondor
+| npc2 = Dana (XC3)
+| affinity = pink
+| caption = She was a good friend
+| direction = right
+}}
+{{XC3 Affinity Link
+| npc1 = Ghondor
+| npc2 = Seeker
+| affinity = pink
+| caption = Treading the same path
+| direction = both
+}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Ghondor
+|image        = XC3 Ghondor Battle.jpg
+|caption      = Ghondor
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = 47
+|area         = [[Li Garte Prison Camp]] ([[Central Cell]])
+|spawntime    = Story
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Ghondor''' is a [[Boss (XC3)|Boss]] in {{XC3}}. She is a [[Lost Numbers (enemy)|Lost Numbers]] soldier fought at level 47 in the [[Central Cell]] in [[Li Garte Prison Camp]].
+Story progression will occur regardless of the outcome of the battle.
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Wrathfist Ghondor
+|image        = 
+|caption      = Wrathfist Ghondor
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 115
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 3,493,800
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Wrathfist Ghondor''' is fought at level 115 during the second wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+
+{{clr}}
+
+== Etymology ==
+Her Japanese title {{lang|jp|&#12362;&#23330;}}, ''Oj&#333;'', usually means "(someone else's) daughter" in an honorific or respectful sense.
+
+== Trivia ==
+* Ghondor shares notable similarities to [[w:c:xenosaga:Rico|Rico]] from ''[[w:c:xenosaga:Xenogears|Xenogears]]'', a character in charge of prisoners of a [[w:c:xenosaga:Nortune|capital city]] with his own bodyguards. Both ended up being betrayed by a [[w:c:xenosaga:Hammer (Xenogears)|close friend]] along with the party.
+* She shares a first name with her [[Ghondor (FR)|ancestor]], likely being named after him.
+* She and Monica are the only Heroes who cannot directly join the party in the trek through Origin.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Ghondor Artwork.png|Official Artwork
+XC3 Ojo artwork.jpg
+Ghondor Concept Art.png|Ghondor's Concept Art
+Aggy Oggy Ghondor Concept.png|Ghondor, Aggy, and Oggy Concept art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Ghondor Hero Icon.png|Hero List Icon
+Ghondor Chain Art Icon.png|Chain Art Icon
+Ghondor Level Up Art.png|Level Up Art
+Icon chara 23.png
+Icon chara battle 24.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Consul S vs Ghondo.jpg|Ghondor fighting against Shania
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Ghondor]]
+[[Category:Lost Numbers]]
+[[Category:Agnus Castle Region NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>2xiazmnam4eklvaae2c5nx92orwvt5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ghondor (FR)</title>
+    <ns>0</ns>
+    <id>126234</id>
+    <revision>
+      <id>601270</id>
+      <parentid>598021</parentid>
+      <timestamp>2023-07-22T09:58:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>601270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3892" sha1="33jl3urqrb9fxyr25djbji8kt6sywqx" xml:space="preserve">{{for|the character in {{XC3|-}}|Ghondor}}
+{{spoiler}}
+{{Infobox Character
+|name          = Ghondor
+|image         = &lt;tabber&gt;
+XC3:FR= [[File:Ghondor FR.png]]
+|-|
+XC3= [[File:Young Ghondor.jpg]]
+&lt;/tabber&gt;
+|species       = [[City|Citizen]]
+|age           = Unknown 
+|gender        = Male
+|haircolor     = Black (Young age)&lt;br /&gt;White (Old age)
+|eyecolor      = Blue
+|affiliation   = [[City]]
+|voiceactorjp  = Satoshi Shimada
+|voiceactoreng = Matthew Marsh
+|appearances   = {{XC3}} (flashback)&lt;br /&gt;{{XC3FR|sublink}}
+}}
+'''Ghondor''' (Japanese: &#12468;&#12531;&#12489;&#12454;, ''Gond&#333;'') is a character in {{XC3FR}}.
+{{clr}}
+
+== Overview ==
+[[File:ghond_babby.png|thumb|210px|Ghondor as a newborn.]]
+Ghondor is the son of the incarnations of [[N|Noah]] and [[M|Mio]] who eventually became [[Consul]]s N and M, respectively, and is the grandfather of [[Matthew (FR)|Matthew]] and [[Na'el]], whom he raised. He was a master of martial arts and passed on his mastery to both of his grandchildren. He played an important role in the foundation of the [[City]] and was trusted by everyone.
+
+== Appearance ==
+In {{XC3|-}}, Ghondor is only shown as an infant and a small child. He strongly resembles his father, having the same hair and eye color. In {{XC3FR|sub}}, Ghondor is an elderly man. His skin is wrinkled and weathered, he sports long white hair that is slicked back with a bun on the back alongside a ponytail. He also has a medium-length goatee.
+
+== Story ==
+[[File:noah_ghondor_goodbye.png|thumb|210px|Noah tearfully embracing his son before passing away.]]
+Ghondor was the child of the last incarnation of the original [[Noah]] and [[Mio]] before they became [[Moebius]]. As his parents were bound by the endless cycle, Ghondor watched as both parents, one after the other, succumbed to passing away due to being at the end of their [[Term]]s.
+
+Ghondor would grow and have a family of his own, living by the messages that his parents passed onto him. He was a master of martial arts, training those in the City, namely his grandchildren. He was also a wielder of [[Ouroboros]] as well as an advocate for the powers it granted, a power he was not able to fully utilize. He was killed by his own father, N, during the destruction of the old [[City]]. With his last words, he warned N that M would have only wanted him to let go of his regrets and entrusted Matthew with the power of Ouroboros.
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Ghondor
+|image        = Ghondor FR Boss.jpg
+|caption      = Ghondor
+|category     = Boss
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = 10
+|area         = [[Erythia Sea]] ([[Hope's Rest]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+}}
+Ghondor is a [[Boss (XC3)|Boss]] in {{XC3FR|sublink}}. He is fought at level 10 at the gates of the former [[City]] in [[Erythia Sea]] by [[Matthew (FR)|Matthew]] and [[Na'el]] during a flashback at the beginning of ''[[Chapter 2 (FR)|Chapter 2]]''. The battle ends when Ghondor uses Gigantic Beat, which he performs at low health. He cannot be defeated.
+{{clr}}
+
+== Notes ==
+* In the credits of {{XC3FR|sub}}, this character is named as '''Grandfather Ghondor'''.
+
+== Trivia ==
+* He shares his name with his distant descendant, [[Ghondor|Ghondor Vandham]] from {{XC3}}.
+* Like his father and his grandson, Ghondor also sports a ponytail.
+
+== Gallery ==
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Noah ghondor.png|Noah and Ghondor on the day of Mio's passing.
+Noahfam.png|Family portrait
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Ghondor martial arts.jpg
+&lt;/gallery&gt;
+
+{{XC3FRCharNav}}
+
+{{fr stub}}
+
+[[Category:XC3FR Supporting Characters]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:XC3FR Bosses]]
+[[Category:Citizens]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>33jl3urqrb9fxyr25djbji8kt6sywqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ghostfist R&#243;is&#237;n</title>
+    <ns>0</ns>
+    <id>119506</id>
+    <revision>
+      <id>583282</id>
+      <parentid>574250</parentid>
+      <timestamp>2023-04-17T15:20:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1413" sha1="2zz0ivvxudeuf5lcl7gbq61hvj36097" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Ghostfist R&#243;is&#237;n
+|image        = XC3 Armbenders.png
+|caption      = Ghostfist R&#243;is&#237;n (Center)
+|type         = [[Droids]]
+|level        = 66
+|area         = [[Origin Interior]] ([[Amplifier Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,459
+|cp           = 265
+|sp           = 5
+|gold         = 783
+|hp           = 1,588,400
+|strength     = 2,052
+|healing      = 540
+|dexterity    = 276
+|agility      = 270
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Ghostfist R&#243;is&#237;n''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Droids|Droid]], and can be found at level 66 at the [[Amplifier Section]] in the [[Origin Interior]]. It forms the trio "Armbenders" with [[Cruelfist Rojou]] and [[Trickfist Tuano]]. The [[Murder Knuckle]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Armbenders location.png
+Armbenders roisin.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Droids]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>2zz0ivvxudeuf5lcl7gbq61hvj36097</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ghosting Lulika</title>
+    <ns>0</ns>
+    <id>119497</id>
+    <revision>
+      <id>596072</id>
+      <parentid>574368</parentid>
+      <timestamp>2023-06-16T20:19:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>596072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1597" sha1="mamyniyixuy1egkjm41xwhy0iclakys" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Ghosting Lulika
+|image        = XC3 4 Blades in the Dark.png
+|caption      = Ghosting Lulika (Far Left)
+|type         = [[Agnus Forces]]
+|level        = 65
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = After completing ''[[A Young Noble's Request]]''
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,734
+|cp           = 259
+|sp           = 5
+|gold         = 2,560
+|hp           = 1,296,000
+|strength     = 1,233
+|healing      = 532
+|dexterity    = 193
+|agility      = 244
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+'''Ghosting Lulika''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Agnus Forces]] family, and can be found at level 65 in the former&#160;[[Colony 15]] area in [[Erythia Sea]] after completing ''[[A Young Noble's Request]]''. It forms the quartet "4 Blades in the Dark" with [[Darkening Asha]], [[Fleeting Shikino]] and [[Miraging Yuri]]. The [[Soulhacker#Enemy Skills|Terran Warrior]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 35%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+4 blades in the dark location.png
+4 blades in the dark lulika.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mamyniyixuy1egkjm41xwhy0iclakys</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Giant Gogol</title>
+    <ns>0</ns>
+    <id>121100</id>
+    <revision>
+      <id>579826</id>
+      <parentid>559235</parentid>
+      <timestamp>2023-03-21T00:06:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Infobox and locations</comment>
+      <origin>579826</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1061" sha1="inkgcocybrryfup9prfsodh5qi9h74b" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Giant Gogol
+|image        = 
+|caption      = Giant Gogol
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Gogol]]
+|level        = 62
+|area         = [[Elaice Highway]] ([[Singbreeze Funnel]])
+|spawntime    = During ''[[Knowing Your Family]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Giant Gogols''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Gogol]] family, and three are encountered at level 62 in [[Singbreeze Funnel]] at [[Elaice Highway]] during ''[[Knowing Your Family]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>inkgcocybrryfup9prfsodh5qi9h74b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Giaru Stamm</title>
+    <ns>0</ns>
+    <id>121731</id>
+    <revision>
+      <id>598113</id>
+      <parentid>579966</parentid>
+      <timestamp>2023-07-04T15:22:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1113" sha1="h224gab94k3pli7t9lrh96pyelk3k3y" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Giaru Stamm
+|image        = Giaru Stamm.jpg
+|caption      = Giaru Stamm
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 65-66
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], [[South Sector Passage]], [[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Giaru Stamms''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 65-66 at [[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], the [[South Sector Passage]], and the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h224gab94k3pli7t9lrh96pyelk3k3y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Giaru Zestamm</title>
+    <ns>0</ns>
+    <id>123241</id>
+    <revision>
+      <id>598148</id>
+      <parentid>579952</parentid>
+      <timestamp>2023-07-04T16:17:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="824" sha1="bx9xq9e0plrctdrzi5xir3sx1lxmzz2" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Giaru Zestamm
+|image        = Giaru Zestamm.jpg
+|caption      = Giaru Zestamm
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 66-67
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 1|Ferronis Arsenal #1]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Giaru Zestamms''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 66-67 at [[Ferronis Arsenal 1|Ferronis Arsenal #1]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bx9xq9e0plrctdrzi5xir3sx1lxmzz2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Giron Volff (XC3)</title>
+    <ns>0</ns>
+    <id>121104</id>
+    <revision>
+      <id>583403</id>
+      <parentid>560319</parentid>
+      <timestamp>2023-04-18T13:51:43Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>583403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1128" sha1="qkhbm0mohq0r3i2zsfa2ph70o46770b" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Giron Volff (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Giron Volff
+|image        = XC3 Giron Volff.jpg
+|caption      = Giron Volff
+|category     = Minor Enemy&lt;br/ &gt;[[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Volff]]
+|level        = 18-19&lt;br/&gt;70
+|area         = [[Ribbi Flats]]
+|spawntime    = Anytime&lt;br/ &gt;During ''[[Men! Of! The Sea! IV]]''
+|respawn      = Yes&lt;br/ &gt;No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Giron Volffs''' are Minor Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level 18-19 in [[Ribbi Flats]] in the [[Fornis Region]]. One is fought at level 70 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Men! Of! The Sea! IV]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qkhbm0mohq0r3i2zsfa2ph70o46770b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gladiis Ekidno</title>
+    <ns>0</ns>
+    <id>117479</id>
+    <revision>
+      <id>559671</id>
+      <parentid>546702</parentid>
+      <timestamp>2022-09-30T10:47:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="862" sha1="5dfwqwbl5pau89dxbdnyhucaba4zpo1" xml:space="preserve">{{Infobox Enemy
+|name         = Gladiis Ekidno
+|image        = 
+|caption      = Gladiis Ekidno
+|category     = Minor Enemy
+|type         = [[Ekidno]]
+|level        = 37
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Gladiis Ekidnos''' are Minor Enemies in {{XC3}}. They are members of the [[Ekidno]] family, and can be found at level 37 at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Ekidnos]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>5dfwqwbl5pau89dxbdnyhucaba4zpo1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glass Memory</title>
+    <ns>0</ns>
+    <id>122720</id>
+    <revision>
+      <id>592780</id>
+      <parentid>592415</parentid>
+      <timestamp>2023-05-15T20:15:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592780</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="636" sha1="2llxubuhvu5i631e0d68e3em0lm4141" xml:space="preserve">{{Infobox item
+|name      = Glass Memory
+|image     = XC3 Accessory Cap.png
+|caption   = Reduce aggro toward self by 5% when auto-attack hits.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Glass Memories''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 50 [[Nopon Coin (Silver)|Silver Nopon Coins]]. One can be received from the first wave of the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>2llxubuhvu5i631e0d68e3em0lm4141</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glaw Camill</title>
+    <ns>0</ns>
+    <id>117896</id>
+    <revision>
+      <id>581995</id>
+      <parentid>581971</parentid>
+      <timestamp>2023-04-07T17:01:38Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>581995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="947" sha1="9o1yasip08pyrzoeb27bhfsk1lzx8zm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Glaw Camill
+|image        = Glaw Camill.png
+|caption      = Glaw Camill
+|category     = Normal Enemy
+|type         = [[Camill]]
+|level        = 7
+|area         = [[Yzana Plains]] ([[Colony 9 Front Gate]]) &lt;br/&gt; [[Alfeto Valley]] ([[Forward Post Camp]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Glaw Camills''' are minor enemies in {{XC3}}. They are members of the [[Camill]] family and can be found at level 7 near [[Colony 9 Front Gate]] in [[Yzana Plains]] and near [[Forward Post Camp]] in [[Alfeto Valley]].
+
+==Drops==
+*[[Mild Camill Powder]]
+*[[Well-Aged Camill Juices]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Camills]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9o1yasip08pyrzoeb27bhfsk1lzx8zm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gleaming Medal</title>
+    <ns>0</ns>
+    <id>122878</id>
+    <revision>
+      <id>566721</id>
+      <parentid>565391</parentid>
+      <timestamp>2022-11-22T15:49:37Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566721</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="930" sha1="emus1w28562ystsecoquv8annsubpfv" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gleaming Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gleaming Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gleaming Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gleaming Medals''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>emus1w28562ystsecoquv8annsubpfv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glistening Medal</title>
+    <ns>0</ns>
+    <id>122879</id>
+    <revision>
+      <id>566722</id>
+      <parentid>565392</parentid>
+      <timestamp>2022-11-22T15:49:54Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="938" sha1="q94fb4rmwfd4mkna2rvo2t87xk33b6x" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Glistening Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Glistening Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Glistening Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Glistening Medals''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>q94fb4rmwfd4mkna2rvo2t87xk33b6x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glorious Feather Band</title>
+    <ns>0</ns>
+    <id>125645</id>
+    <revision>
+      <id>577141</id>
+      <timestamp>2023-02-16T14:35:01Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Glorious Feather Band |image     =  |caption   = Boosts damage dealt to Aerial Life by 110%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Glorious Feather Bands''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3..."</comment>
+      <origin>577141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="591" sha1="4uxsd3plhip9j1fnvjjylok3clou3ri" xml:space="preserve">{{Infobox item
+|name      = Glorious Feather Band
+|image     = 
+|caption   = Boosts damage dealt to Aerial Life by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Glorious Feather Bands''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>4uxsd3plhip9j1fnvjjylok3clou3ri</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Glowing Medal</title>
+    <ns>0</ns>
+    <id>118954</id>
+    <revision>
+      <id>566723</id>
+      <parentid>551176</parentid>
+      <timestamp>2022-11-22T15:50:21Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="920" sha1="94hlnadfguur0n95rggu7his1kq7k3g" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Glowing Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Glowing Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Glowing Medal
+|image     = File:XC3 Accessory Medal.png
+|caption   = Extends Daze duration by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Glowing Medals''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>94hlnadfguur0n95rggu7his1kq7k3g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Godlike Krastor</title>
+    <ns>0</ns>
+    <id>118680</id>
+    <revision>
+      <id>596073</id>
+      <parentid>574777</parentid>
+      <timestamp>2023-06-16T20:19:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>596073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1476" sha1="pjv5enti8d2g9oyzda7f6hfwwuwgx49" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Godlike Krastor
+|image        = XC3 Agnian Assassins.png
+|caption      = Godlike Krastor (right)
+|type         = [[Agnus Forces]]
+|level        = 82
+|area         = [[Urayan Tunnels]] ([[Ruins of Seebu]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,006
+|cp           = 181
+|sp           = 5
+|gold         = 2,076
+|hp           = 3,049,800
+|strength     = 3,074
+|healing      = 663
+|dexterity    = 418
+|agility      = 182
+|physdef      = 0%
+|ethdef       = 15%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Godlike Krastor''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is an [[Agnus Forces|Agnian soldier]], and can be found at level 82 alongside [[Impregnable Sandhu]] at the [[Ruins of Seebu]] in the [[Urayan Tunnels]]. It forms the "Agnian Assassins" duo with Impregnable Sandhu. The [[Soulhacker#Enemy Skills|Large-Scale Shock]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 60%
+|physdebuff = 40%
+|etherdebuff = 80%
+|knockback = 75%
+|blowdown = 75%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Agnian assassins location.png
+Agnian assassins krastor.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Agnus Forces]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>pjv5enti8d2g9oyzda7f6hfwwuwgx49</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gogol</title>
+    <ns>0</ns>
+    <id>3806</id>
+    <revision>
+      <id>602004</id>
+      <parentid>600741</parentid>
+      <timestamp>2023-07-22T12:22:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5169" sha1="9rw3g3os7z07de6brp8d3menw6xglp9" xml:space="preserve">[[file:Immovable Gonzalez.png|thumb|Immovable Gonzalez in {{XC|-}}]]
+'''Gogols''' (Japanese: {{lang|ja|&#12468;&#12468;&#12540;&#12523;}}, ''Gog&#333;ru''; [[English dub pronunciations|English dub]]: {{IPA|/&#712;&#609;o&#650;&#609;&#601;l/}}, rhyming with ''ogle'') are an ape-like family in the {{XC|serieslink}}. They are very large and often high level.
+
+Gogols undergo a minor appearance change between games; in {{XC2|-}} and {{TTGC|-}} they have manes instead of the hair spike they had in {{XC|-}}. They also gain slight more life-like anatomy.
+
+{{clr}}
+== {{XC|-}} ==
+Gogols vary in size and appear on [[Bionis]], in late [[Tephra Cave]], the [[Bionis' Leg]] and [[Satorl Marsh]]. There are three different colors of Gogols: the green/silver, the black, and the red-orange Gogols. The strongest Gogol is [[Reckless Zanden]] in Tephra Cave at level 98.
+
+=== Normal Minor Enemies ===
+* [[Baelfael Gogol (XC1)|Baelfael Gogol]]
+* [[Baelzeb Gogol]]
+* [[Envy Gogol (XC1)|Envy Gogol]]
+* [[Gluttony Gogol]]
+* [[Greed Gogol]]
+* [[Sloth Gogol (XC1)|Sloth Gogol]]
+* [[Sonicia Gogol]]
+
+=== Quest Exclusive Enemies ===
+* [[Dogmatic Gogol]] (during ''[[Talia's Research]]'' and ''[[Investigating Satorl]]'')
+* [[Satisfied Gogol]] (during ''[[Securing Provisions]]'')
+
+=== Unique Monsters ===
+* [[Erratic Goliante (XC1)|Erratic Goliante]]
+* [[Immovable Gonzalez (XC1)|Immovable Gonzalez]]
+* [[Indomitable Daulton]]
+* [[Territorial Rotbart (XC1)|Territorial Rotbart]]
+
+=== Quest Exclusive Unique Monster ===
+* [[Reckless Zanden]] (during ''[[Battling Brutes]]'')
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Gluttony Gogol]]
+* [[Sloth Gogol (XC1)|Sloth Gogol]]
+
+=== Unique Monster ===
+* [[Contemptuous Greymane]] ([[Fogbeast]])
+
+== {{XC2|-}} ==
+Gogols are found primarily on the [[Upper Level - Right]] area of [[Gormott Province]].
+
+=== Normal Minor Enemies ===
+* [[Drum Gogol (XC2)|Drum Gogol]]
+* [[Nose Gogol]]
+* [[Grad Gogol]]
+* [[Wendel Gogol]]
+
+=== Quest Exclusive Enemies ===
+* [[Imbalanced Gogol]] (DLC, during ''[[Beneath the Aurora]]'')
+* [[Jealous Gogol]] (DLC, during ''Beneath the Aurora'')
+* [[Nabadan Gogol]] (during ''[[Concerned Carpenter]]'')
+
+=== Unique Monsters ===
+* [[Immovable Gonzalez (XC2)|Immovable Gonzalez]]
+* [[Territorial Rotbart (XC2)|Territorial Rotbart]]
+
+=== Quest Exclusive Bosses ===
+* [[Enraged Gogol]] (during ''[[Tender-Hearted Beast]]'')
+* [[Indignant Gogol]] (during ''Tender-Hearted Beast'')
+* [[Offended Gogol]] (during ''Tender-Hearted Beast'')
+
+=== Challenge Battle Mode Enemies ===
+* [[Desco Gogol]]
+* [[Dyone Gogol]]
+* [[Immovable Heir Carlos]]
+* [[Rhogulmaster]]
+* [[Volffmaster]]
+
+== {{TTGC|-}} ==
+Gogols are found in both [[Gormott (TTGC)|Gormott]] and the [[Kingdom of Torna]], although primarily in the latter. No black Gogols are seen.
+
+=== Normal Minor Enemy ===
+* [[Gobeen Gogol]]
+
+=== Quest Exclusive Enemies ===
+* [[Calculating Gogol]] (during ''[[Manning the Gates]]'')
+* [[Elect Gogol]] (during ''Manning the Gates'')
+* [[Hewli Gogol]] (during ''[[An Oasis for All]]'')
+* [[Leract Gogol]] (during ''An Oasis for All'')
+* [[Preoccupied Gogol]] (during ''[[Lett Bridge Restoration]]'')
+
+=== Unique Monster ===
+* [[Erratic Goliante (TTGC)|Erratic Goliante]]
+
+== {{XC3|-}} ==
+Gogols appear in the world of [[Aionios]].
+
+=== Normal Minor Enemies ===
+* [[Baelfael Gogol (XC3)|Baelfael Gogol]]
+* [[Corsaire Gogol]]
+* [[Drum Gogol (XC3)|Drum Gogol]]
+* [[Envy Gogol (XC3)|Envy Gogol]]
+* [[Muskul Gogol]]
+* [[Sloth Gogol (XC3)|Sloth Gogol]]
+* [[Submit Gogol]]
+* [[Wannock Gogol]]
+
+=== Quest Exclusive Enemies ===
+* [[Arcaphor Gogol]] (during ''[[Doing It My Way]]'')
+* [[Giant Gogol]] (during ''[[Knowing Your Family]]'')
+* [[Staahl Gogol]] (during ''[[Prison Refurbishment]]'')
+
+=== Unique Monsters ===
+* [[Immovable Gonzalez (XC3)|Immovable Gonzalez]]
+* [[Impish Langobard]]
+* [[Jingoistic Gigantus]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Sloth Gogol (XC3)|Sloth Gogol]]
+
+=== Unique Monsters ===
+* [[Bombastic Rotbart Jr.]]
+* [[Sworn Protector Hector]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Black gogol.jpg|Black Gogol
+Orange red gogol.jpg|Red-orange Gogol
+Dogmatic Gogol.jpg|Green/silver Gogol
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Wendal Gogol.jpg|Wendal Gogol
+EnragedGogol.jpg|Enraged Gogol
+JealousGogol.jpg|Jealous Gogol
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+LeractGogol.jpg|Leract Gogol
+HewliGogol.jpg|Hewli Gogol
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Territorial Rotbart 02.jpg|Jingoistic Gigantus
+XC3-Gonzales.png|Immovable Gonzalez in {{XC3|-}}
+Envy Gogol XC3.jpg|Envy Gogol
+&lt;/gallery&gt;
+
+[[Category:Bionis Life]]
+[[Category:Bipedal Enemies]]
+[[Category:XC Species]]
+[[Category:XC Gogols]]
+[[Category:XCFC Species]]
+[[Category:XCFC Gogols]]
+[[Category:Sight Category]]
+[[Category:XC Humanoids]]
+[[Category:XC2 Species]]
+[[Category:XC2 Gogols]]
+[[Category:XC2 Humanoids]]
+[[Category:TTGC Species]]
+[[Category:TTGC Humanoids]]
+[[Category:TTGC Gogols]]
+[[Category:XC3 Species]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Gogols]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:XC3FR Humanoids]]
+[[Category:Gogols]]
+[[Category:Species by Type]]</text>
+      <sha1>9rw3g3os7z07de6brp8d3menw6xglp9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Going Beyond Power</title>
+    <ns>0</ns>
+    <id>120394</id>
+    <revision>
+      <id>580624</id>
+      <parentid>578815</parentid>
+      <timestamp>2023-03-28T10:07:32Z</timestamp>
+      <contributor>
+        <username>Mario123007</username>
+        <id>25075338</id>
+      </contributor>
+      <origin>580624</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1919" sha1="pb3y1xpgd8gxbfkmrceuskr74ejk652" xml:space="preserve">{{Infobox quest
+|name        = Going Beyond Power
+|image       = Going_Beyond_Power.jpg 
+|description = "Kyrie got separated from her unit yet again. Bring her back to Colony Gamma."
+|giver       = [[Kyrie]]
+|location    = [[Alfeto Valley]] ([[Volff Lair (XC3)|Volff Lair]])
+|time        = 
+|prereqs     = Departed [[Colony 4]] (Start Chapter 3)
+|reclevel    = Lv. 25
+|rewards     = 400 [[Colony Gamma]] [[Affinity (XC3)|Affinity]]&lt;br/&gt; 940 [[Experience Points (XC3)|EXP]]&lt;br/&gt;1210 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Teach]] as a [[Hero]]
+}}
+'''Going Beyond Power''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Teach]]. The "Scree Walking" [[Traversal Skill]] is unlocked during this quest.
+
+== Objectives ==
+# ''Defeat the specified foe(s).''
+#* Keves Army Patrol (6)
+#** [[Keves Warrior]] (2)
+#** [[Keves Sniper]] (2)
+#** [[Keves Blocker]]
+#** [[Keves Rescuer]]
+# ''Head for the specified location(s).''
+#* [[Colony Gamma]]
+# ''Gather info from the Colony Gamma soldiers.'' (3)
+# ''Hold a discussion at a [[Rest Spot (XC3)|rest spot]].''
+#* Colony Gamma Lately
+#** This must be discussed at the [[Gamma Canteen]].
+# ''Head for the specified location(s).''
+#* [[Teach]] at the Commander's Office
+# ''Head for the specified location(s).''
+#* [[Gamma, Back Way]]
+# ''Head to the "[[Transcendent Retreat|good place]]" Teach mentioned.
+#* The "Scree Walking" [[Traversal Skill]] is unlocked at this point.''
+# ''Defeat the specified foe(s).''
+#* [[Teach#Battle|Inscrutable Teach]]
+#** The battle ends once Teach's HP reaches 50%.
+# ''Defeat the specified foe(s).''
+#* [[G#Battle|Moebius G]]
+# ''Head for the specified location(s).''
+#* [[Gamma, Assembly Yard]]
+
+== Results ==
+''"Commander Teach of Colony Gamma has accepted the party's vision of the future and pledged to see it through together with them."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Teach]]
+[[Category:Aetia Region Quests]]</text>
+      <sha1>pb3y1xpgd8gxbfkmrceuskr74ejk652</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gold Brooch</title>
+    <ns>0</ns>
+    <id>118955</id>
+    <revision>
+      <id>592781</id>
+      <parentid>592369</parentid>
+      <timestamp>2023-05-15T20:15:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592781</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="989" sha1="eovujhzywhej2546zgaz4dgrgaasafa" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gold Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gold Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gold Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 45%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gold Broochs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>eovujhzywhej2546zgaz4dgrgaasafa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gold Choker</title>
+    <ns>0</ns>
+    <id>122858</id>
+    <revision>
+      <id>566725</id>
+      <parentid>565393</parentid>
+      <timestamp>2022-11-22T15:50:56Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566725</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="5axa1lrrr1fct19xw60gt37bd53qanp" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gold Choker
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Smash resistance by 50 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 16,840 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gold Choker
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Smash resistance by 55 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 16,840 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gold Choker
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Smash resistance by 60 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 16,840 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gold Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>5axa1lrrr1fct19xw60gt37bd53qanp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gold Cube</title>
+    <ns>0</ns>
+    <id>122622</id>
+    <revision>
+      <id>566726</id>
+      <parentid>565394</parentid>
+      <timestamp>2022-11-22T15:59:00Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>there is a cube-type accessory icon and it's not used for this one</comment>
+      <origin>566726</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="940" sha1="r41qyyak7gog9k849vmral8cfypxuf2" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gold Cube
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts damage dealt by Fusion Arts by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gold Cube
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts damage dealt by Fusion Arts by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gold Cube
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts damage dealt by Fusion Arts by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gold Cubes''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>r41qyyak7gog9k849vmral8cfypxuf2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gold Gear Choker (XC3)</title>
+    <ns>0</ns>
+    <id>119036</id>
+    <revision>
+      <id>592782</id>
+      <parentid>592555</parentid>
+      <timestamp>2023-05-15T20:15:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592782</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1079" sha1="8wezb184datvx7xqbaytipt0grj01vk" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Gold Gear Choker (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gold Gear Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts aggro reduction over time by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gold Gear Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts aggro reduction over time by 115%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gold Gear Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts aggro reduction over time by 130%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gold Gear Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>8wezb184datvx7xqbaytipt0grj01vk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gold Necklace</title>
+    <ns>0</ns>
+    <id>118956</id>
+    <revision>
+      <id>592784</id>
+      <parentid>592402</parentid>
+      <timestamp>2023-05-15T20:15:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592784</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1033" sha1="q5b6f10dzq18rnd9isjn05fvcvqtrva" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gold Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Reduces aggro generated from auto-attacks by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gold Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Reduces aggro generated from auto-attacks by 45%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gold Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Reduces aggro generated from auto-attacks by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gold Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>q5b6f10dzq18rnd9isjn05fvcvqtrva</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Golden Anklets</title>
+    <ns>0</ns>
+    <id>118957</id>
+    <revision>
+      <id>592785</id>
+      <parentid>592443</parentid>
+      <timestamp>2023-05-15T20:15:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592785</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="ancs8hochyz119hyb7oht1ctndgsx22" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Golden Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Blowdown resistance by 35 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Golden Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Blowdown resistance by 40 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Golden Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Blowdown resistance by 45 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Golden Ankletss''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ancs8hochyz119hyb7oht1ctndgsx22</sha1>
+    </revision>
+  </page>
+  </mediawiki>

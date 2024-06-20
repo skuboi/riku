@@ -1,0 +1,6 @@
+Art Name: Prismatic Ring
+
+Class: Lapidarist
+
+Effect: Field / Arts heal
+

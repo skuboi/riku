@@ -1,0 +1,6 @@
+Art Name: Taunt Pulse
+
+Class: Lost Vanguard
+
+Effect: Cont. dmg/Fast aggro
+

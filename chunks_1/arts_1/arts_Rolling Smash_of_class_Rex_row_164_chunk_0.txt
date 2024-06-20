@@ -1,0 +1,6 @@
+Art Name: Rolling Smash
+
+Class: Rex
+
+Effect: AOE
+

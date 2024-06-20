@@ -1,0 +1,6 @@
+Art Name: Acceleration
+
+Class: Flash Fencer
+
+Effect: Auto-Atk spd. up/dmg up
+

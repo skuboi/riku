@@ -1,0 +1,6 @@
+Art Name: Spearpoint Thrust
+
+Class: Thaumaturge
+
+Effect: Bind
+

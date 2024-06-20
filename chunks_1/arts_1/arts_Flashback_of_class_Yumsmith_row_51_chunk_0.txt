@@ -1,0 +1,6 @@
+Art Name: Flashback
+
+Class: Yumsmith
+
+Effect: SideÊBreak
+

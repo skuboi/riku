@@ -1,0 +1,6 @@
+Skill Name: Prowess Gambit 
+
+Class: Strategos
+
+Skill Buff or Effect:  Buffing an ally boosts damage health by 30%.
+

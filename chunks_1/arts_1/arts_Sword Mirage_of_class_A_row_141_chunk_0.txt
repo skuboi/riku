@@ -1,0 +1,6 @@
+Art Name: Sword Mirage
+
+Class: A
+
+Effect: AOE/Evade up
+

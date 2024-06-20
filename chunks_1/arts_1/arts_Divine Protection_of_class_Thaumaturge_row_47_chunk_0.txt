@@ -1,0 +1,6 @@
+Art Name: Divine Protection
+
+Class: Thaumaturge
+
+Effect: Field / Armor Veil
+

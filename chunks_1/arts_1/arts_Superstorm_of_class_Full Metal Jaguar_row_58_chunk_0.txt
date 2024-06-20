@@ -1,0 +1,6 @@
+Art Name: Superstorm
+
+Class: Full Metal Jaguar
+
+Effect: High acc. / Eva. down
+

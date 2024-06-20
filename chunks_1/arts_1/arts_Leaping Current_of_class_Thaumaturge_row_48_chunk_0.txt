@@ -1,0 +1,6 @@
+Art Name: Leaping Current
+
+Class: Thaumaturge
+
+Effect: AOE / Attack up
+

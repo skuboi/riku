@@ -1,0 +1,6 @@
+Skill Name: Speedy Recovery 
+
+Class: Medic Gunner
+
+Skill Buff or Effect:  Boosts speed of ally revival by 40% and raises Healing by 15.
+

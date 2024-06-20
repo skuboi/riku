@@ -1,0 +1,6 @@
+Skill Name: Bangsplosion! 
+
+Class: Yumsmith
+
+Skill Buff or Effect:  Boosts field dissolution damage by 300%.
+

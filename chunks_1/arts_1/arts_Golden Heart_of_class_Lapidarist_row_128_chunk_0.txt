@@ -1,0 +1,6 @@
+Art Name: Golden Heart
+
+Class: Lapidarist
+
+Effect: AOE / Fast charge
+

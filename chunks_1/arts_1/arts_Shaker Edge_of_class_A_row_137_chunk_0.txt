@@ -1,0 +1,6 @@
+Art Name: Shaker Edge
+
+Class: A
+
+Effect: Topple
+

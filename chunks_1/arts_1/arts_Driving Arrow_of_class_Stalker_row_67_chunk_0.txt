@@ -1,0 +1,6 @@
+Art Name: Driving Arrow
+
+Class: Stalker
+
+Effect: Back Bleed
+

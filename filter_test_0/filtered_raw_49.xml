@@ -1,0 +1,1196 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Onogoro Piranhax</title>
+    <ns>0</ns>
+    <id>121164</id>
+    <revision>
+      <id>595243</id>
+      <parentid>582299</parentid>
+      <timestamp>2023-06-11T16:07:32Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1577" sha1="mgwzke5b4iz4foh2zcqm3yi4bx9b6z5" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Onogoro Piranhax
+|image        = Onogoro Piranhax.jpg 
+|caption      = Onogoro Piranhax
+|category     = Minor Enemy
+|type         = [[Piranhax]]
+|level        = 27-28
+|area         = [[Great Cotte Falls]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Onogoro Piranhax''' are Minor Enemies in {{XC3}}. They are members of the [[Piranhax]] family, and can be found at level 27-28 at [[Great Cotte Falls]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Onogoro Piranhax
+|image        = Onogoro Piranhax FR.jpg
+|caption      = Onogoro Piranhax
+|category     = Normal Minor Enemy
+|type         = [[Piranhax]]
+|level        = 11
+|area         = [[Aurora Shelf]] ([[Zalmor's Falls]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Onogoro Piranhax''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Piranhax]] family, and can be found at level 11 at [[Zalmor's Falls]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3FR Piranhax]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>mgwzke5b4iz4foh2zcqm3yi4bx9b6z5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Optical Headband (XC3)</title>
+    <ns>0</ns>
+    <id>118986</id>
+    <revision>
+      <id>592824</id>
+      <parentid>592531</parentid>
+      <timestamp>2023-05-15T20:17:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592824</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="l2hj2qnvbop2ntwbha8twx9aiua0r1x" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Optical Headband (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Optical Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Optical Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Optical Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Optical Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>l2hj2qnvbop2ntwbha8twx9aiua0r1x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Opulent Flamii (XC3)</title>
+    <ns>0</ns>
+    <id>117968</id>
+    <revision>
+      <id>581934</id>
+      <parentid>581931</parentid>
+      <timestamp>2023-04-06T22:09:08Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>581934</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="968" sha1="mxv5r7eemvksfjpzuca3e4p1madzzk1" xml:space="preserve">{{for|the enemy in {{XC|-}}|Opulent Flamii (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Opulent Flamii
+|image        = Opulent Flamii (XC3).png
+|caption      = Opulent Flamii
+|category     = Normal Enemy
+|type         = [[Flamii]]
+|level        = 3 - 4
+|area         = [[Yzana Plains]] ([[Flamii Watering Hole]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 14
+|cp           = 
+|sp           = 
+}}
+'''Opulent Flamiis''' are minor enemies in {{XC3}}. They are members of the [[Flamii]] family and can be found at level 3 - 4 at the [[Flamii Watering Hole]] in [[Yzana Plains]].
+
+== Drops ==
+* [[Large Flamii Egg]]
+* [[Slender Flamii Bone]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Flamiis]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mxv5r7eemvksfjpzuca3e4p1madzzk1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ordo Grebel</title>
+    <ns>0</ns>
+    <id>121109</id>
+    <revision>
+      <id>584323</id>
+      <parentid>583122</parentid>
+      <timestamp>2023-04-21T01:20:50Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>584323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2776" sha1="9b7h121ycvj9n0epr4mtu5g2x4nq4wb" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ordo Grebel
+|image        = XC3 Ordo Grebel.jpg
+|caption      = Ordo Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = 19-21
+|area         = [[Ribbi Flats]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ordo Grebels''' are Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level 19-21 in [[Ribbi Flats]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Ordo Grebel
+|image        = 
+|caption      = Ordo Grebel
+|type         = [[Grebel]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 55
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 60,336
+|strength     = 295
+|healing      = 386
+|dexterity    = 175
+|agility      = 215
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+An '''Ordo Grebel''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 55 on Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+==== Skills ====
+The Ordo Grebel has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+==== Resistances ====
+{{XC3 Resistances}}
+{{clr}}
+==== Arts ====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|80%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Stepping Stone'''
+|Physical
+|One Target
+|1
+|250%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*Topple is only inflicted if target is suffering [[Break (XC3)|Break]].
+*Damage is boosted by 200% when attacking the target from behind.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Lazy Sway'''
+|Physical
+|One Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Burrowing Rocket'''
+|Physical
+|AOE around User
+|1
+|160%
+|Break
+|style="text-align:left;"|
+*Evades enemy attacks during the Art.
+|}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9b7h121ycvj9n0epr4mtu5g2x4nq4wb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ories</title>
+    <ns>0</ns>
+    <id>12212</id>
+    <revision>
+      <id>602065</id>
+      <parentid>600785</parentid>
+      <timestamp>2023-07-22T12:25:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1823" sha1="kfy3cikd4iqeyeya8v4bjecltd2t9bt" xml:space="preserve">[[File:Zafa Ories.jpg|thumb|Zafa Ories]]
+'''Ories''' (Japanese: {{lang|ja|&#12458;&#12522;&#12456;&#12473;}}, ''Oriesu'') are a horned family of quadrupedal enemies in the {{XC|serieslink}}. They are very similar to [[Balgas]], and live in cold regions. They undergo no appearance change between games, and all look identical.
+
+'''[[Aries]]''': There are very few differences between an Aries and an Ories. It is assumed that Ories are male and Aries are female and that this is the only reason for their name differences.
+
+== {{XC|-}} ==
+In {{XC}}, Ories are found only on [[Valak Mountain]]. Most Ories resemble bulls or yaks, although two species sport antlers instead of horns, which makes them appear more like bulky deer or elk. There are two types of Ories.
+
+=== Normal Minor Enemies ===
+* [[Zefa Ories]]
+* [[Zegia Ories]]
+
+=== Unique Monster ===
+* [[Agile Barbatos]]
+
+== {{XC2|-}} ==
+In {{XC2}}, only one Ories type appears, being found in the [[Kingdom of Tantal]].
+
+=== Normal Minor Enemy ===
+* [[Novl Ories]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Ories are only found on [[Captocorn Peak]].
+
+=== Normal Minor Enemies ===
+* [[Karorii Ories]]
+* [[Mant Ories]]
+
+=== Unique Monster ===
+* [[Spiralhorn Baccro]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Mant Ories]]
+
+== Gallery ==
+&lt;gallery&gt;
+Agile Barbatos.png|Agile Barbatos in {{XC|-}}
+NovlOries.jpg|Novl Ories in {{XC2|-}}
+XC3 Spiralhorn Baccro.png|Spiralhorn Baccro in {{XC3|-}}
+&lt;/gallery&gt;
+[[Category:XC Species]]
+[[Category:XC Ories]]
+[[Category:Bionis Life]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Ories]]
+[[Category:XC2 Beasts]]
+[[Category:XC3 Species]]
+[[Category:XC3 Ories]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Ories]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Ories]]
+[[Category:Species by Type]]</text>
+      <sha1>kfy3cikd4iqeyeya8v4bjecltd2t9bt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ormide Camill</title>
+    <ns>0</ns>
+    <id>117504</id>
+    <revision>
+      <id>583222</id>
+      <parentid>559853</parentid>
+      <timestamp>2023-04-16T18:13:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>583222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="776" sha1="8ieobz981ztne6280ol0kmv5ysf9lxb" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ormide Camill
+|image        = 
+|caption      = Ormide Camill
+|category     = Normal Enemy
+|type         = [[Camill]]
+|level        = 41
+|area         = [[Elaice Highway]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ormide Camills''' are normal enemies in {{XC3}}. They are members of the [[Camill]] family, and can be found at level 41 on [[Elaice Highway]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Camills]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8ieobz981ztne6280ol0kmv5ysf9lxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Orson</title>
+    <ns>0</ns>
+    <id>121880</id>
+    <revision>
+      <id>597860</id>
+      <parentid>596165</parentid>
+      <timestamp>2023-07-02T16:36:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597860</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1708" sha1="0fu9ibomo4w2byg8glzfisx2u8pdefp" xml:space="preserve">{{Infobox_NPC
+|name        = Orson
+|image       = XC3 Orson Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Keves]]i human
+|age         = 7th Term
+|location    = [[Erythia Sea]] ([[Colony 15]])&lt;br /&gt;[[City]]
+}}
+'''Orson''' is an NPC and in {{XC3}} who can be found in [[Colony 15]], and later in the [[City]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Orson
+|image        = 
+|caption      = Orson
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = During ''[[Doing It My Way]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Orson''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Keves Forces|Keves Soldier]] who is fought at level 48 in [[Colony 15]] in [[Erythia Sea]] during ''[[Doing It My Way]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>0fu9ibomo4w2byg8glzfisx2u8pdefp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ossyan Marrin</title>
+    <ns>0</ns>
+    <id>123221</id>
+    <revision>
+      <id>566281</id>
+      <parentid>559854</parentid>
+      <timestamp>2022-11-19T04:40:31Z</timestamp>
+      <contributor>
+        <username>BackseatLink</username>
+        <id>51748030</id>
+      </contributor>
+      <origin>566281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="0cgnwp6npdsy4x7z4hefnyluvpx90qf" xml:space="preserve">{{Infobox Enemy
+|name         = Ossyan Marrin
+|image        = 
+|caption      = Ossyan Marrin
+|category     = Minor Enemy
+|type         = [[Marrin]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Ossyan Marrins''' are Minor Enemies in {{XC3}}. They are members of the [[Marrin]] family, and can be found at level 65-66 in the [[Cadensia Region]], near the [[Second Pillar Remnant]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Marrins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>0cgnwp6npdsy4x7z4hefnyluvpx90qf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Otherworldly Rodsin</title>
+    <ns>0</ns>
+    <id>119464</id>
+    <revision>
+      <id>574637</id>
+      <parentid>574538</parentid>
+      <timestamp>2023-01-29T22:22:21Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574637</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1339" sha1="j3tkh0qfo49mh95jo78ujctlep9jxca" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Otherworldly Rodsin
+|image        = XC3 Otherworldy Rodsin.png
+|caption      = Otherworldly Rodsin
+|type         = [[Serprond]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Welkin Falls]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 4,576
+|cp           = 310
+|sp           = 5
+|gold         = 3,927
+|hp           = 2,089,450
+|strength     = 919
+|healing      = 643
+|dexterity    = 201
+|agility      = 150
+|physdef      = 0%
+|ethdef       = 25%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Otherworldly Rodsin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Serprond]] family, and can be found at level 60 at [[Welkin Falls]] in the [[Erythia Sea]]. The [[Jet Stream]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 75%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Otherworldly rodsin location.png
+Otherworldly rodsin.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Serpronds]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>j3tkh0qfo49mh95jo78ujctlep9jxca</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ottil</title>
+    <ns>0</ns>
+    <id>118590</id>
+    <revision>
+      <id>602067</id>
+      <parentid>600787</parentid>
+      <timestamp>2023-07-22T12:25:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="623" sha1="0y8luc68c06t77dva32jr9ipsl0yidd" xml:space="preserve">[[File:XC3 Tikhta Ottil.jpg|thumb|Tikhta Ottil]]
+'''Ottils''' are a family of otter-like enemies in {{XC3}}.
+
+== Normal Minor Enemies ==
+* [[Mukiri Ottil]]
+* [[Seymo Ottil]]
+* [[Tikhta Ottil]]
+
+== Quest-Exclusive Enemy ==
+* [[Zhell Ottil]] (During ''[[Acknowledging Feelings]]'')
+
+== Unique Monster ==
+* [[Frolicking Parker]]
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Frolicking Parker.png|Frolicking Parker
+XC3 Mukiri Ottil.jpg|Mukiri Ottil
+XC3 Zhell Ottil.png|Zhell Ottil
+&lt;/gallery&gt;
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Ottils]]
+[[Category:XC3 Aquatic Life]]
+[[Category:Ottils]]
+[[Category:Species by Type]]</text>
+      <sha1>0y8luc68c06t77dva32jr9ipsl0yidd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ouroboros</title>
+    <ns>0</ns>
+    <id>116763</id>
+    <revision>
+      <id>590092</id>
+      <parentid>590087</parentid>
+      <timestamp>2023-05-07T22:34:17Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>590092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9445" sha1="o832fcmvx3taw489aot9r1ho175wv5q" xml:space="preserve">{{spoiler}}
+{{Infobox Mechanic
+|name        = Ouroboros
+|image       = Ouroborus.png
+|caption     = 
+|purpose     = 
+|appearances = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}}
+|other       = 
+|related     = [[Interlink]]
+}}
+'''Ouroboros''' (Japanese: {{Lang|jp|&#12454;&#12525;&#12508;&#12525;&#12473;}}, ''Uroborosu'') are characters in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+Ouroboros are people who can fight against [[Moebius]]. Up to six people can be Ouroboros at a time. Ouroboros have the ability to [[Interlink]], where two Ouroboros combine to use powerful forms. Each Ouroboros has its own powerful moveset, and deciding when to transform can be the key to winning a battle.
+
+[[Noah]], [[Mio]], [[Eunie]], [[Taion]], [[Lanz]], and [[Sena]] are the current six Ouroboros. Noah and Mio, Eunie and Taion, and Lanz and Sena are the pairs that can Interlink.
+
+[[File:Ouroboros &#8211; Xenoblade Chronicles 3|thumb|240px|center|Ouroboros]]
+
+== Story ==
+After escaping [[Z]] and the other [[Moebius]], [[Nia]] used the little energy from [[Origin]] she still had access to alongside her own [[Core Crystal]] to create the [[Ouroboros Stone]]s, which provide the ability to Interlink to a maximum of six people. The [[Lost Numbers]] and the people of the [[City]] are descendants of the first Ouroboros, whose statues can be found there. 
+
+Noah, Lanz and Eunie confront Mio, Taion and Sena in [[Alfeto Valley]], the two groups being selected for a special mission for [[Keves]] and [[Agnus]]. They meet during the course of those missions and clash on the battlefield until they are suddenly attacked by a [[Mysterious Enemy]], who is in fact the Interlinked form of the Consuls [[D]] and [[Joran|J]]. While Noah is trying to save Mio who is about to be attacked by the Giant, [[Guernica Vandham]] appears and activates an Ouroboros Stone that make their bodies fuse and transform into an Ouroboros. They manage to survive the attack of the Mysterious Enemy, however this leads to the six characters becoming the target of Keves and Agnus, now that they are fugitives and have the ability to transform into Ouroboros, considered by both nations as particularly dangerous beings.
+
+As a result of becoming Ouroboros, the party is freed from the control of the [[Flame Clock]]s.
+
+== Gameplay ==
+{{main|Interlink}}
+At any time during battle, provided Interlinking is not sealed, if both characters of an Ouroboros pair are active (i.e. not incapacitated), they can perform an Interlink, combining the two characters into their larger, Ouroboros form. The Kevesi Ouroboros forms are unlocked at the end of Chapter 2, whereas the Agnian Ouroboros forms are unlocked at the end of Chapter 3.
+
+In this form, the pair of party members will use a different set of arts known as [[Battle Arts (XC3)#Ouroboros Arts|Ouroboros Arts]]. The regular Ouroboros Arts have no cooldown, but cannot be used twice in a row (meaning some other Art must be used before a particular Art can be used again).
+
+The Ouroboros form has no HP stat and thus cannot be incapacitated by damage, though both members can be incapacitated if the form moves out of bounds. When Interlinking, the constituent characters' buffs and debuffs will be applied onto this form, and applied onto the two characters once the Interlink ceases. The characters' HP values will also be retained before and after an Interlink.
+
+The strength of the Ouroboros form depends on the Interlink level, which initially starts at level 0, but can increase to a maximum of level 3 through usage of [[Battle Arts (XC3)#Fusion Arts|Fusion Arts]].&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1544217186348453888 @XenobladeJP], Twitter, published July 5, 2022.&lt;/ref&gt; Once an Interlink ends, the Interlink level will reset to level 0.
+
+=== Heat Gauge ===
+{{main|Heat Gauge}}
+During an Interlink, the [[Heat Gauge]] will slowly increase over time,&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1544216895129546752 @XenobladeJP], Twitter, published July 5, 2022.&lt;/ref&gt; and when Ouroboros Arts are canceled into each other (if unlocked). This gauge will drain slowly over time while characters are not Interlinked, but cannot be reduced in the Ouroboros form, meaning that characters can only stay Interlinked for a short period of time.
+
+If the Heat Gauge fills completely, the Ouroboros is said to have overheated, and the Interlink will automatically be canceled, reverting the two characters to their human form. Additionally, a cooldown will occur, preventing said characters from Interlinking until the Heat Gauge drains completely. This cooldown does not occur if the Interlink is released before overheating occurs.
+
+=== Ouroboros Order ===
+{{main|Chain Attack (XC3)#Ouroboros Orders}}
+When a [[Chain Attack (XC3)|Chain Attack]] is started, any ongoing Interlinks will be automatically released. However, Ouroboros forms can participate in Chain Attacks via '''Ouroboros Orders''', triggered if either the two characters belonging to an Ouroboros Order complete their orders, or if a Chain Attack is started while controlling an Ouroboros form with Interlink level 3.
+
+Once an Ouroboros Order is completed, the two characters will then Interlink and use their Ouroboros forms to attack the targeted enemy.
+
+=== Soul Tree ===
+{{main|Soul Tree}}
+Ouroboros can be further upgraded by spending Soul Points (abbreviated as SP) in the [[Soul Tree]] to unlock new traits and abilities. Soul Points are obtained by discovering [[Landmark]]s, opening [[Container]]s, and defeating [[Unique Monster (XC3)|Unique Monsters]]. Each party member has their own Soul Tree corresponding to their Ouroboros form.
+
+Once all Ouroboros forms are available, Soul Links are unlocked, allowing party members to take a Skill, Raise Ability upgrade, or Heat Gauge upgrade (but not Art) from their Ouroboros partner's Soul Tree. Initially, only one Soul Link slot is available, with the second slot unlocking upon completing that character's Side Story.
+
+== Etymology ==
+An [[wikipedia:Ouroboros|Ouroboros]] is an ancient symbol depicting a serpent, dragon or worm that eats its own tail, as a representation of the continuous cycle of life and death, and by extension anything of a circular or recursive nature. The word comes from the Ancient Greek [[wiktionary:&#959;&#8016;&#961;&#959;&#946;&#972;&#961;&#959;&#962;|&#959;&#8016;&#961;&#959;&#946;&#972;&#961;&#959;&#962;]] meaning "tail-devouring". The symbol was adopted in [[wikipedia:Gnosticism|Gnosticism]] and [[wikipedia:Hermeticism|Hermeticism]] to symbolize the cycle of life, death, and rebirth.
+
+== Trivia ==
+* Even though Moebius look like Ouroboros, they seem different as they are the result of the transformation of a Consul, and as Ouroboros are considered by both nations as particularly dangerous beings.
+* {{XC3|-}} director and producer Genki Yokota stated that Ouroboros originally looked more robotic earlier in the game's development.&lt;ref&gt;[https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-1/ Ask the Developer Vol. 6, Xenoblade Chronicles 3&#8211;Part 1], Nintendo, published July 26, 2022, retrieved July 26, 2022.&lt;/ref&gt;
+** This would make them even more like the ''[[w:c:xenosaga:Gear|gears]]'' from ''[[w:c:xenosaga:Xenogears|Xenogears]]'' than they already are in the final version.
+* In ''Xenogears'', Ouroboros, spelt as [[w:c:xenosaga:Urobolus|Urobolus]], is the final form of [[w:c:xenosaga:Myyah Hawwa|Myyah Hawwa]] and the final boss of the game. In ''[[w:c:xenosaga:Xenosaga|Xenosaga]]'', the Ouroboros symbol is the symbol of [[w:c:xenosaga:U.M.N.|Unus Mundus Network]].
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Noah Mio Interlink.png|Noah's Ouroboros
+Ouroboros Mio.png|Mio's Ouroboros
+Taion Eunie Interlink.webp|Eunie's Ouroboros
+Ouroboros Taion.png|Taion's Ouroboros
+Lanz Sena Interlink.webp|Lanz's Ouroboros
+Ouroboros Sena.png|Sena's Ouroboros
+Ouroboros Fusion Artwork.jpg|Artwork of Noah and Mio Interlinking
+Noah Ouroboros Concept 1.png|Noah's Ouroboros Form Concept Art
+Noah Ouroboros Concept 2.png
+Noah Ouroboros Concept 3.png
+Noah Ouroboros Concept 4.png
+Mio Ouroboros Concept 1.png|Mio's Ouroboros Form Concept Art
+Mio Ouroboros Concept 2.png
+Mio Ouroboros Concept 3.png
+Mio Ouroboros Concept 4.png
+Eunie Ouroboros Concept 1.png|Eunie's Ouroboros Form Concept Art
+Eunie Ouroboros Concept 2.png
+Eunie Ouroboros Concept 3.png
+Eunie Ouroboros Concept 4.png
+Taion Ouroboros Concept 1.png|Taion's Ouroboros Form Concept Art
+Taion Ouroboros Concept 2.png
+Taion Ouroboros Concept 3.png
+Taion Ouroboros Concept 4.png
+Lanz Ouroboros Concept 1.png|Lanz's Ouroboros Form Concept Art
+Lanz Ouroboros Concept 2.png
+Lanz Ouroboros Concept 3.png
+Lanz Ouroboros Concept 4.png
+Sena Ouroboros Concept 1.png|Sena's Ouroboros Form Concept Art
+Sena Ouroboros Concept 2.png
+Sena Ouroboros Concept 3.png
+Sena Ouroboros Concept 4.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Noah Mio Ouroboros fusion Screenshot.jpeg|Noah and Mio Interlinking
+CI NSwitch XenobladeChronicles3 Ouroboros 01.jpg|Three Ouroboros
+CI NSwitch XenobladeChronicles3 Ouroboros 02.jpg|An Ouroboros in battle
+The First Ouroboros Interlink.jpg| The First Ouroboros Interlink
+Ouroboros-Moebius Iris - Mio (Agnus).jpg|Ouroboros-Moebius Iris - Mio (Agnus)
+Ouroboros-Moebius Iris - Noah (Keves).jpg|Ouroboros-Moebius Iris - Noah (Keves)
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Mechanics]]
+[[Category:XC3 Ouroboros]]
+[[Category:XC3 Playable Characters]]
+[[Category:XC3 Plot]]
+[[Category:XC3FR Plot]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>o832fcmvx3taw489aot9r1ho175wv5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ouroboros Fever</title>
+    <ns>0</ns>
+    <id>124336</id>
+    <revision>
+      <id>576290</id>
+      <parentid>562912</parentid>
+      <timestamp>2023-02-09T13:16:09Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1491" sha1="7bdqmzeiw88xovfwqfix3heh8pbw6xv" xml:space="preserve">{{Infobox quest
+|name          = Ouroboros Fever
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Pleasant challenge, this one. Can keep Ouroboros forms very long time. Long enough to enjoy to max!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Chapter 7 started
+|difficultyCB3 = 2
+|rewards       = 350-500 [[Noponstone]]s (Easy)&lt;br/&gt;700-1000 [[Noponstone]]s (Normal)&lt;br/&gt;1050-1500 [[Noponstone]]s (Hard)
+}}
+'''Ouroboros Fever''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear B outfit for [[Eunie]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 4
+|-
+| Level Restriction || Lv 60
+|-
+| Other Rules || In this challenge, the heat gauge will build up slower while [[Interlink]]ed.
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="3" | 1 || [[Papillico Kapiba]] x3 || 60
+|-
+| [[Curran Volff]] x3 || 60
+|-
+| [[Avee Skwaror]] x2 || 60
+|-
+| rowspan="3" | 2 || [[Landon Ropl]] x1 || 62
+|-
+| [[Valt Ropl (XC3)|Valt Ropl]] x1 || 62
+|-
+| [[Sarabashi Ropl (XC3)|Sarabashi Ropl]] x1 || 62
+|-
+| 3 || [[Jarack Vvarga]] x 2|| 63
+|-
+| 4 || [[Rabejan Darbus]] x 1|| 65
+|}
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>7bdqmzeiw88xovfwqfix3heh8pbw6xv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Overfist Balroy</title>
+    <ns>0</ns>
+    <id>123795</id>
+    <revision>
+      <id>596166</id>
+      <parentid>563632</parentid>
+      <timestamp>2023-06-16T20:24:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Story */cat.</comment>
+      <origin>596166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2168" sha1="2yjk2fl1fm6g4ghw7aw55xv0u44r61k" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Overfist Balroy
+|image        = XC3 Overfist Balroy.png
+|caption      = Overfist Balroy
+|type         = [[Keves Forces]]
+
+|tab1         = 1st
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level        = 68
+|area         = [[Keves Castle]] ([[Throne Room (XC3)|Throne Room]])
+|spawntime    = During ''[[Fate]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+
+|tab2         = 2nd
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 69
+|area2        = [[Keves Castle]] ([[Throne Room (XC3)|Throne Room]])
+|spawntime2   = During ''[[Fate]]''
+|respawn2     = No
+|movement2    = 
+|detection2   = 
+|exp2         = 
+|cp2          = 
+|sp2          = 
+|gold2        = 
+|hp2          = 
+|strength2    = 
+|ether2       = 
+|dexterity2   = 
+|agility2     = 
+|physdef2     = 
+|ethdef2      = 
+|critrate2    = 
+|guardrate2   = 
+}}
+'''Overfist Balroy''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is part of the [[Keves Forces]] and is fought at level 68 and 69 in [[Keves Castle]] during ''[[Fate]]''.
+
+==Story==
+He is one of the Four Divine Wings staging an armed uprising within the castle, alongside [[Incorruptible Sitre]], [[Mediator Adrinael]], and [[Puckish Lycconen]]. He was an ally of [[Zoren]] in the past, and has a certain fondness for and rivalry with him, who he refers to Zor, due to them being similar in enjoying the thrill of battle, but it is a mostly one-sided interest as Zoren does not care for Balroy whatsoever, and sees him as a slave to the instinct of combat.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>2yjk2fl1fm6g4ghw7aw55xv0u44r61k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Owja Ropl</title>
+    <ns>0</ns>
+    <id>123772</id>
+    <revision>
+      <id>578714</id>
+      <parentid>559855</parentid>
+      <timestamp>2023-03-07T15:10:25Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Added enemy location data</comment>
+      <origin>578714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1071" sha1="57vqq3pbs07wcse3xzm8yuzqpc1jbym" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Owja Ropl
+|image        = 
+|caption      = Owja Ropl
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Ropl]]
+|level        = 61
+|area         = [[Syra Hovering Reefs]] ([[Ekdaso Verge]])
+|spawntime    = During ''[[Leaders in Training]]''
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Owja Ropls''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 61 at [[Ekdaso Verge]] on the [[Syra Hovering Reefs]] during ''[[Leaders in Training]]''. Ten must be defeated during the quest.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>57vqq3pbs07wcse3xzm8yuzqpc1jbym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pagul</title>
+    <ns>0</ns>
+    <id>12207</id>
+    <revision>
+      <id>602069</id>
+      <parentid>600788</parentid>
+      <timestamp>2023-07-22T12:25:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602069</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1626" sha1="3y21139lz0s7qibnuqou9ry9ath6b2z" xml:space="preserve">[[File:Cruz Pagul.jpg|thumb|Pagul model]]
+'''Paguls''' (Japanese: {{lang|ja|&#12497;&#12464;&#12540;&#12523;}}, ''Pag&#363;ru'') are a family of shelled enemies in the {{XC|serieslink}}. They are similar to hermit crabs, and resemble [[Krabble]]s and [[Krammit]]s. They are relatively rare, appear near water, and all have the same appearance.
+
+== {{XC|-}} ==
+Pagul are only found at [[Eryth Sea]] and on [[Valak Mountain]]. The horns of the Paguls at Eryth Sea shine brightly during the night. There are two types of Paguls, both involved in a [[Quest Enemy (XC1)|Quest]] objective.
+
+=== Normal Minor Enemies ===
+* [[Cruz Pagul]]
+* [[Sparas Pagul]]
+
+=== Unique Monster ===
+* [[Proper Bandaz]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Cruz Pagul]]
+
+=== Quest Exclusive Enemy ===
+* [[Clamouring Pagul]] (During ''[[Secure the Area]]'')
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Dettl Pagul]]
+* [[Dockle Pagul]]
+* [[Genni Pagul]]
+* [[Grash Pagul]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Desert Pagul]]
+* [[Rebul Pagul]]
+
+=== Unique Monster ===
+* [[Littlefort Morley]]
+
+=== Quest Exclusive Boss ===
+* [[Lavi Pagul]]
+
+== Gallery ==
+&lt;gallery&gt;
+Cruz Pagul.png|Cruz Pagul in {{XC|-}}
+GenniPagul.jpg|Genni Pagul in {{XC2|-}}
+&lt;/gallery&gt;
+[[Category:XC Species]]
+[[Category:XC Paguls]]
+[[Category:Bionis Life]]
+[[Category:Amphibious Enemies]]
+[[Category:Sound Category]]
+[[Category:XCFC Species]]
+[[Category:XCFC Paguls]]
+[[Category:XC2 Species]]
+[[Category:XC2 Paguls]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:XC3 Species]]
+[[Category:XC3 Paguls]]
+[[Category:XC3 Aquatic Life]]
+[[Category:Paguls]]
+[[Category:Species by Type]]</text>
+      <sha1>3y21139lz0s7qibnuqou9ry9ath6b2z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pale Memory</title>
+    <ns>0</ns>
+    <id>118987</id>
+    <revision>
+      <id>592825</id>
+      <parentid>592463</parentid>
+      <timestamp>2023-05-15T20:18:02Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1032" sha1="tv80agb4bjsivz87xwfmddz6futqky5" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Pale Memory
+|image     = XC3 Accessory Cap.png
+|caption   = Expands the window of opportunity for canceling by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 620 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Pale Memory
+|image     = XC3 Accessory Cap.png
+|caption   = Expands the window of opportunity for canceling by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 620 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Pale Memory
+|image     = XC3 Accessory Cap.png
+|caption   = Expands the window of opportunity for canceling by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 620 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Pale Memories''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>tv80agb4bjsivz87xwfmddz6futqky5</sha1>
+    </revision>
+  </page>
+  </mediawiki>

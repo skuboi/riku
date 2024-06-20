@@ -1,0 +1,988 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Conqueror Deepwan</title>
+    <ns>0</ns>
+    <id>119489</id>
+    <revision>
+      <id>579036</id>
+      <parentid>568428</parentid>
+      <timestamp>2023-03-11T17:25:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>trivia</comment>
+      <origin>579036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1727" sha1="6e2r96hzgl95xgzak5cm12hxwh0x98q" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Conqueror Deepwan
+|image        = XC3 Conqueror Deepwan.png
+|caption      = Conqueror Deepwan
+|type         = [[Igna]]
+|level        = 102
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 4,611
+|cp           = 346
+|sp           = 5
+|gold         = 5,544
+|hp           = 5,630,400
+|strength     = 2,052
+|healing      = 737
+|dexterity    = 379
+|agility      = 355
+|physdef      = 25%
+|ethdef       = 10%
+|critrate     = 15%
+|guardrate-front   = 20%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Conqueror Deepwan''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Igna]] family, and can be found at level 102 in the [[Demihuman Gutter]] in [[Erythia Sea]]. It forms the duo "The King-Kings" with [[King Krawkin]]. The [[King's Bash]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 85%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Trivia ==
+* Conqueror Deepwan and King Krawkin are the only Unique Monsters in the {{XC|serieslink}} that are over level 100, but not labeled as [[Superboss]]es.
+
+== Gallery ==
+&lt;gallery&gt;
+The king-kings location.png
+The king-kings deepwan.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6e2r96hzgl95xgzak5cm12hxwh0x98q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Consul</title>
+    <ns>0</ns>
+    <id>117514</id>
+    <revision>
+      <id>598434</id>
+      <parentid>596655</parentid>
+      <timestamp>2023-07-08T18:32:05Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <origin>598434</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6012" sha1="mvx0584chxzk3bmvvrpbpothkz7uxee" xml:space="preserve">{{spoiler}}
+[[File:ZXY&amp;Moebius.png|thumb|240px|The Consuls]]
+The '''Consuls''' (Japanese: {{Lang|jp|&#22519;&#25919;&#23448;}}, ''Shisseikan'') are an organization in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+The Consuls are a mysterious group exerting control over both [[Keves]] and [[Agnus]]. They always cover their face with masks.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1539778679001079808&lt;/ref&gt; In battle, they can assume a form called [[Moebius]], which is over 5m tall and bears a resemblance to an [[Ouroboros]].&lt;ref&gt;https://www.nintendo.co.jp/switch/az3ha/story/index.html&lt;/ref&gt; According to [[Taion]], their role is to convey the orders of the [[Masked Queen|queens]] to the [[Colony|colonies]] and handle admin and decision-making&lt;ref&gt;https://www.youtube.com/watch?v=hoHvpS2x8us&lt;/ref&gt;, however they also exert control over both [[nation]]s.&lt;ref name=":0" /&gt; They attack [[Noah]] and the others to eliminate Ouroboros.&lt;ref name=":0"&gt;https://www.nintendo.co.jp/switch/az3ha/assets/img/story/img_diagram.png&lt;/ref&gt; Their master is [[Z]], who offers them immortality, power, and permission to entertain themselves as they see fit in exchange for ensuring that the state of [[Aionios]] is never allowed to change. Although they cannot age or die of natural causes, they must consume the life energy of other beings to survive. They also have one letter names which for the ones who became Consuls is the first letter of their old name - the only exception is Triton, who chose to be known as that instead of T despite other members of the Consuls reminding him that his name is T.  
+
+[[File:Moebius Icon.png|thumb|The Moebius Symbol]]
+They consist primarily of dead individuals who had showed an interest in ensuring the continuation of the war while they were alive in belief that it is the best existence possible, freedom from weakness, or enjoyment of the violence as a form of entertainment; the only exceptions are [[X]], [[Y]], and Z, who are noted as having been "born" Moebius. All of the aforementioned individuals were selected to become Consuls solely because Z found it amusing to do so. 
+
+An infinity symbol features in their designs in several places. It shows up in their eyes at times, it features prominently on [[D]] and [[Joran|J]]'s [[Moebius D &amp; J|Interlinked Moebius]], the Moebius forms of the other Consuls, and on N's sword.
+{{clr}}
+
+== Members ==
+* [[B]]
+* [[Crys|C (Crys)]]
+* [[D|D (Dirk)]]
+* [[E]]
+* [[F]]
+* [[G]]
+* [[H]]
+* [[Irma|I (Irma)]]
+* [[Joran|J (Joran)]]
+* [[K]]
+* [[L]]
+* [[M|M (Mio)]]
+* [[N|N (Noah)]]
+* [[O]]
+* [[P]]
+* [[Q]]
+* [[Q (FR)]]
+* [[R]]
+* [[R (FR)]]
+* [[Shania|S (Shania)]]
+* [[Triton|T (Triton)]]
+* [[U]]
+* [[V]]
+* [[W]]
+* [[W (FR)]]
+* [[X]]
+* [[Y]]
+* [[Z]] (Leader)
+
+== Trivia ==
+* There is at least one Consul associated with every letter of the English alphabet except the letter A. Since there are 26 consuls for the 26 letters of the alphabet, it's implied that there ''is'' (or at least, ''was'') a Consul A. However, this Consul never seen in game. The exact amount is only mentioned in Consul I's files. While a character called [[A]] appears as a major character in {{XC3FR|sublink}}, they are not a Consul, as Z had no involvement with their creation. {{XC3FR|sub}} provides evidence against this however, as there are completely different versions of Consuls Q, R, and W, who have the appearances of E, H, and B showing that the names and helmets of Consuls are reusable.
+* B, E, F, G, H, L, O, P, Q, R, U, V, and W are the only consuls who were never seen with their masks off in the game. However, the artbook reveals both E and F without their masks. S and Z are the only consuls never seen with their masks on. C, F, M, N, T, and Z are the only consuls who were never seen in their Moebius form.
+* The Consuls are similar in role to the [[w:c:xenosaga:Testaments|Testaments]] from ''[[w:c:xenosaga:Xenosaga|Xenosaga]]'', both are a group of dead individuals who are revived by their respective [[w:c:xenosaga:Wilhelm|leaders]], whom they serve, and keep the world in a [[w:c:xenosaga:Eternal Recurrence|perpetual cycle]]. Their designs bear variations of a resemblance to the style of outfit worn by said organization as well as [[w:c:xenosaga:Grahf|Grahf]] from ''[[w:c:xenosaga:Xenogears|Xenogears]]''. Although the one that looks the most like Grahf is D.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Consul D Art.png|D
+D unmasked art.png|D Unmasked
+XC3 N Artwork.png|N
+Consul M Concept Art.png|M
+Triton Hero Artwork (masked).png|T
+Consul Z Artbook.png|Z
+XBC3-Consul L Artwork.png|L
+XC3-Consul Y.png|Y
+&lt;/gallery&gt;
+
+=== Concept Artwork === 
+&lt;gallery&gt;
+Triton Concept Art.png|T
+D concept art.jpg|D
+Consuls P and O.jpg|P and O
+Consul Y &amp; L.jpg | Y and L
+Z Concept Art.png|Z
+Consuls K and X.jpg|K and X
+Consuls G R and U.jpg|G, R, and U
+Consuls W and H.jpg|W and H
+Consul E and V.jpg|E and V
+Consuls Q and F.jpg|Q and F
+Consul B and I art.jpg|B and I
+Consuls J S and C.jpg|S, J , and C
+XC3 N Concept Art.png|N
+XC3 M Concept Art.png|M
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Consul screenshot.png|Four consuls
+XC3 Consul D 01.jpg|D and J
+XC3 Consul Eye Symbol02.jpg|The infinity symbol in N's eye
+XC3 Mysterious Giant 5.jpg|D and J's Moebius form, featuring the infinity symbol
+XC3 Consul Eye Symbol.png|The infinity symbol in K's eye
+Consul B.png|B
+Consul C.jpg|C
+Consul D.jpg|D
+E (xenoblade).png|E
+Consul F.jpg|F
+Consul g.png|G
+Consul H.jpg|H
+Consul I in game.png|I
+Consul J.jpg|J
+Consul K.png|K
+Consul L human.png|L
+M Mask XC3.png|M
+XC3 Consul N 01.jpg|N
+XC3 Unnamed Consul 3.jpeg|Consuls O and P
+Consul Q.png|Q
+Consul R.jpg|R
+Consul S.jpg|S
+Consul T.jpg|T
+Consul U.png|U
+Consul V.jpeg|V
+Consul W.jpg|W
+Consul X Masked.jpeg|X
+Consul Y.jpg|Y
+XC3 Z.jpg|Z
+Moebiusgroupshot.jpg|X, Y, Z and other Consuls
+&lt;/gallery&gt;
+
+== References ==
+&lt;references/&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Plot]]
+[[Category:XC3 Enemies]]
+[[Category:XC3 Organizations]]
+[[Category:XC3FR Consuls]]
+[[Category:XC3FR Plot]]
+[[Category:XC3FR Organizations]]</text>
+      <sha1>mvx0584chxzk3bmvvrpbpothkz7uxee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Consul (enemy)</title>
+    <ns>0</ns>
+    <id>121218</id>
+    <revision>
+      <id>601964</id>
+      <parentid>600717</parentid>
+      <timestamp>2023-07-22T12:19:54Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Boss */</comment>
+      <origin>601964</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="870" sha1="jj3v4rz9vc50cyyfq5k8uheemkuip3j" xml:space="preserve">{{Spoiler}}
+'''Consuls''' that are fought in {{XC3}} and {{XC3FR|sublink}}. These include [[Consul]]s that are fought outside of their [[Moebius]] form.
+
+== {{XC3|-}} ==
+=== Bosses ===
+* [[K]]
+* [[M#Battle|Moebius M]]
+* [[N#Battles|N]]
+* [[Z#Battle|Z]]
+
+=== Quest Exclusive Bosses ===
+* [[X#Battle|Consul X]] (During ''[[Side Story: Eunie]]'')
+* [[T#Battle|Defiant Triton]] (During ''[[Doing It My Way]]'')
+
+== {{XC3FR|sub}} ==
+=== Boss ===
+* [[N#In Future Redeemed|Moebius N]]
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+[[Category:XC3 Species]]
+[[Category:XC3 Consuls]]
+[[Category:XC3 Consul Enemies]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3 Enemies by Category]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Consuls]]
+[[Category:XC3FR Consul Enemies]]
+[[Category:XC3FR Humanoids]]
+[[Category:XC3FR Enemies by Category]]
+[[Category:Consul Enemies]]
+[[Category:Species by Type]]</text>
+      <sha1>jj3v4rz9vc50cyyfq5k8uheemkuip3j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Contract Bracelets</title>
+    <ns>0</ns>
+    <id>125620</id>
+    <revision>
+      <id>595683</id>
+      <parentid>577433</parentid>
+      <timestamp>2023-06-16T11:27:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595683</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="604" sha1="4p2rjwskuj7oi8rlrek7zh2h2sb86t1" xml:space="preserve">{{Infobox item
+|name      = Contract Bracelets
+|image     = XC3 key item.png
+|caption   = "A pair of silver-colored bracelets, set with a carmine jewel."
+|type      = Key Item
+|xc3rarity = Common
+|source    = ''[[For the Sake of Keepsakes]]''
+|sell      = N/A
+}}
+The '''Contract Bracelets''' are a DLC [[Key Item]] in {{XC3}}. It can be during the [[Quest (XC3)|Quest]] ''[[For the Sake of Keepsakes]]''. They are made by [[Masha]] using [[Red Schorl]] and [[Argencium]] for [[Jake]] and [[Tessa]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Key Items]]
+[[Category:XC3 Quest Items]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>4p2rjwskuj7oi8rlrek7zh2h2sb86t1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Corsaire Gogol</title>
+    <ns>0</ns>
+    <id>117459</id>
+    <revision>
+      <id>584288</id>
+      <parentid>584283</parentid>
+      <timestamp>2023-04-20T18:59:45Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>updated</comment>
+      <origin>584288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="b1g6ze0yr6bqlexbxkw9lhsgahksbsm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Corsaire Gogol
+|image        = 
+|caption      = Corsaire Gogol
+|category     = Minor Enemy
+|type         = [[Gogol]]
+|level        = 33-35
+|area         = [[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Corsaire Gogols''' are Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level 33-35 in [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>b1g6ze0yr6bqlexbxkw9lhsgahksbsm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cosmos Anklets</title>
+    <ns>0</ns>
+    <id>122867</id>
+    <revision>
+      <id>566676</id>
+      <parentid>564985</parentid>
+      <timestamp>2022-11-22T10:57:36Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1022" sha1="9ufjq10q0bsdvpxtt17ma1ytoyz79x6" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Cosmos Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Cosmos Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 105%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Cosmos Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Cosmos Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>9ufjq10q0bsdvpxtt17ma1ytoyz79x6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Costa Aries (XC3)</title>
+    <ns>0</ns>
+    <id>121718</id>
+    <revision>
+      <id>559608</id>
+      <parentid>557325</parentid>
+      <timestamp>2022-09-30T10:45:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559608</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="859" sha1="bnz35ev4t9ggp83tynq40ccytdy0soq" xml:space="preserve">{{for|the enemy in {{XC|-}}|Costa Aries (XC1)}}
+{{Infobox Enemy
+|name         = Costa Aries
+|image        = 
+|caption      = Costa Aries
+|category     = Minor Enemy
+|type         = [[Aries]]
+|level        = ?
+|area         = [[The Cavity]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Costa Aries''' are Minor Enemies in {{XC3}}. They are members of the [[Aries]] family, and can be found at level ? at [[The Cavity]] in [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Aries]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>bnz35ev4t9ggp83tynq40ccytdy0soq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Costa Balgas</title>
+    <ns>0</ns>
+    <id>117460</id>
+    <revision>
+      <id>583216</id>
+      <parentid>559609</parentid>
+      <timestamp>2023-04-16T17:26:17Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="so9kb982d7y5zpy7hkduvhnahw9seq4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Costa Balgas
+|image        = 
+|caption      = Costa Balgas
+|category     = Normal Minor Enemy
+|type         = [[Balgas]]
+|level        = 42
+|area         = [[Syra Hovering Reefs]] ([[Ekdaso Verge]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Costa Balgas''' are Minor Enemies in {{XC3}}. They are members of the [[Balgas]] family, and can be found at level 42 around [[Ekdaso Verge]] on the [[Syra Hovering Reefs]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Balgas]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>so9kb982d7y5zpy7hkduvhnahw9seq4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Counter Heal</title>
+    <ns>0</ns>
+    <id>125804</id>
+    <revision>
+      <id>579437</id>
+      <timestamp>2023-03-18T02:31:42Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Status | title = Counter Heal | caption = Heal HP when hit, for a set no. of hits. | image = XC3 Delayed Healing.png | type = Buff | base-duration = 15.0s | max-duration = 30.0s | rng-applicable = Yes | effect-title-1 = Base Healing Amount | effect-value-1 = 5% of character's max HP | effect-title-2 = Base # of Activations | effect-value-2 = 3 }} '''Counter Heal''' is a [[Status Effect]] in {{XC3}}. It heals the affected character whenever they get hit, for..."</comment>
+      <origin>579437</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="616" sha1="rn45v4ok304uybr4oy0etdx7kzzbi29" xml:space="preserve">{{Infobox XC3 Status
+| title = Counter Heal
+| caption = Heal HP when hit, for a set no. of hits.
+| image = XC3 Delayed Healing.png
+| type = Buff
+| base-duration = 15.0s
+| max-duration = 30.0s
+| rng-applicable = Yes
+| effect-title-1 = Base Healing Amount
+| effect-value-1 = 5% of character's max HP
+| effect-title-2 = Base # of Activations
+| effect-value-2 = 3
+}}
+'''Counter Heal''' is a [[Status Effect]] in {{XC3}}. It heals the affected character whenever they get hit, for a set amount of times, after which the buff is removed.
+==Distribution==
+===Arts===
+*[[Mirror Trap]] ([[Strategos]])
+[[Category:XC3 Status]]</text>
+      <sha1>rn45v4ok304uybr4oy0etdx7kzzbi29</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Covetous Gerondon</title>
+    <ns>0</ns>
+    <id>119465</id>
+    <revision>
+      <id>600326</id>
+      <parentid>583278</parentid>
+      <timestamp>2023-07-21T12:41:53Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <origin>600326</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1478" sha1="l6wwvrak0xil9yu1m9apnrcz1uck6gs" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Covetous Gerondon
+|image        = XC3 Covetous Gerondon.png
+|caption      = Covetous Gerondon
+|type         = [[Rhana]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Cape Arcaphor]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,267
+|cp           = 445
+|sp           = 5
+|gold         = 1,155
+|hp           = 2,377,650
+|strength     = 949
+|healing      = 373
+|dexterity    = 190
+|agility      = 180
+|physdef      = 15%
+|ethdef       = 10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Covetous Gerondon''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Rhana]] family, and can be found at level 60 at [[Cape Arcaphor]] in [[Erythia Sea]], in an area accessible from [[Welkin Falls]]. The [[Aquaball]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 100%
+|knockback   = 100%
+|physdebuff  = 50%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Covetous gerondon location.png
+Covetous gerondon.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Rhanas]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>l6wwvrak0xil9yu1m9apnrcz1uck6gs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cracked Crystal</title>
+    <ns>0</ns>
+    <id>118933</id>
+    <revision>
+      <id>592743</id>
+      <parentid>592358</parentid>
+      <timestamp>2023-05-15T20:13:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1098" sha1="ab1j7puwappk2jjcz21f9120nu8xe8m" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Cracked Crystal
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts damage dealt by 20% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Cracked Crystal
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts damage dealt by 25% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Cracked Crystal
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts damage dealt by 30% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Cracked Crystals''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ab1j7puwappk2jjcz21f9120nu8xe8m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crafty Anskey</title>
+    <ns>0</ns>
+    <id>119431</id>
+    <revision>
+      <id>574246</id>
+      <parentid>561720</parentid>
+      <timestamp>2023-01-26T16:37:31Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add most stats</comment>
+      <origin>574246</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1308" sha1="cur6sn86v98h8cj57whjcpsjw1pbsoh" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Crafty Anskey
+|image        = XC3 Crafty Anskey.png
+|caption      = Crafty Anskey
+|type         = [[Wisp]]
+|level        = 54
+|area         = [[Elaice Highway]] ([[Yunnae's Rise]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,232
+|cp           = 250
+|sp           = 5
+|gold         = 1,212
+|hp           = 1,517,500
+|strength     = 788
+|healing      = 402
+|ether        = 
+|dexterity    = 191
+|agility      = 186
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Crafty Anskey''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Wisp]] family, and can be found at level 54 at [[Yunnae's Rise]] at [[Elaice Highway]]. The Revenge Impetus [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating this monster.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 70%
+|knockback = 50%
+|blowdown = 50%}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Crafty anskey location.png
+Crafty anskey.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Wisps]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>cur6sn86v98h8cj57whjcpsjw1pbsoh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crane Serprond (XC3)</title>
+    <ns>0</ns>
+    <id>123208</id>
+    <revision>
+      <id>600310</id>
+      <parentid>589783</parentid>
+      <timestamp>2023-07-21T11:32:16Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>cat.</comment>
+      <origin>600310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4484" sha1="0ngf3m8h6iyuzyjd8pglvoawsorv2ee" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Crane Serprond (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Crane Serprond
+|image        = 
+|caption      = Crane Serprond
+|category     = Minor Enemy
+|type         = [[Serprond]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Crane Serpronds''' are Minor Enemies in {{XC3}}. They are members of the [[Serprond]] family, and can be found at level ? in [[Erythia Sea]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Crane Serprond
+|image        = 
+|caption      = Crane Serprond
+|type         = [[Serprond]]
+|movement     = 
+
+|tab1         = Stage 20
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 75
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 1,064,700
+|strength     = 1,434
+|healing      = 1,140
+|dexterity    = 331
+|agility      = 189
+|physdef      = 0%
+|ethdef       = 25%
+|critrate     = 5%
+|guardrate    = 0%
+
+|tab2         = Stage 90
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 110
+|detection2   = 
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|hp2          = 20,971,580
+|strength2    = 10,563
+|healing2     = 17,980
+|dexterity2   = 569
+|agility2     = 320
+|physdef2     = 0%
+|ethdef2      = 25%
+|critrate2    = 5%
+|guardrate2   = 0%
+}}
+A Crane Serprond is fought at level 75 alongside a [[Zeoth Serprond (XC3)|Zeoth Serprond]] at Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+
+Another Crane Serprond is fought at level 110 alongside a [[Grilan Moglum]] and a [[Broon Moglum]] at Stage 90 of Archsage's Gauntlet Challenge ''Gauntlet: Pro''.
+=== Skills ===
+The Crane Serpronds have the following skill:
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+{{XC3 Resistances
+|break = 70%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 70%
+|etherdebuff = 70%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Ether
+|One Target
+|1
+|180%
+|
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Mega Wave'''
+|Ether
+|Frontward AOE
+|1
+|200%
+|Blowdown
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Jet Stream'''
+|Ether
+|Frontward AOE
+|1
+|165%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Lightning Storm'''
+|Ether
+|AOE around User
+|3
+|225%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Crane Serprond
+|image        = 
+|caption      = Crane Serprond
+|category     = Normal Minor Enemy
+|type         = [[Serprond]]
+|level        = 41
+|area         = [[The Ragmos Desolation]] ([[Raguel Lake]])
+|spawntime    = During Thunderstorms
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Crane Serpronds''' are Normal Enemies in {{XC3FR}}. They are members of the [[Serprond]] family, and can be found at level 41 in [[Raguel Lake]] at [[The Ragmos Desolation]] during Thunderstorms.
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Serpronds]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Serpronds]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3FR Weather Dependent Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>0ngf3m8h6iyuzyjd8pglvoawsorv2ee</sha1>
+    </revision>
+  </page>
+  </mediawiki>

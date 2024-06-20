@@ -1,0 +1,6 @@
+Skill Name: Ether's Sanctuary 
+
+Class: Zephyr
+
+Skill Buff or Effect:  Boosts Ether Defense by 30%.
+

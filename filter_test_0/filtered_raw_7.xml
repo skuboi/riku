@@ -1,0 +1,998 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Beautiful Crystal</title>
+    <ns>0</ns>
+    <id>122877</id>
+    <revision>
+      <id>592713</id>
+      <parentid>592356</parentid>
+      <timestamp>2023-05-15T20:11:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592713</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1114" sha1="abhns8nay4ml295gui5mbmk2s91y7ky" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Beautiful Crystal
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts damage dealt by 50% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Beautiful Crystal
+|image     = XC3 Accessory Medal.png 
+|caption   = Boosts damage dealt by 55% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Beautiful Crystal
+|image     = XC3 Accessory Medal.png 
+|caption   = Boosts damage dealt by 60% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Beautiful Crystals''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>abhns8nay4ml295gui5mbmk2s91y7ky</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Begest Brog</title>
+    <ns>0</ns>
+    <id>121187</id>
+    <revision>
+      <id>600307</id>
+      <parentid>594182</parentid>
+      <timestamp>2023-07-21T11:30:03Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>cat.</comment>
+      <origin>600307</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1957" sha1="1cvbuhm1drusc7dejkyyiijpf3ww3m4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Begest Brog
+|image        = 
+|caption      = Begest Brog
+|category     = Normal Minor Enemy
+|type         = [[Brog]]
+|level        = 59-62&lt;br/&gt;72-73
+|area         = [[Erythia Sea]] ([[Brasa Geothermal Belt]])&lt;br/&gt;[[Low Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Begest Brogs''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Brog]] family, and can be found at level 72-73 at [[Low Maktha Wildwood]] in the [[Pentelas Region]], or at level 59-62 at the [[Brasa Geothermal Belt]] in [[Erythia Sea]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Begest Brog
+|image        = 
+|caption      = Begest Brog
+|category     = Normal Minor Enemy
+|type         = [[Brog]]
+|level        = 14
+|area         = [[Aurora Shelf]] ([[Zalmor's Falls]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Begest Brogs''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Brog]] family, and can be found at level 14 around [[Zalmor's Falls]] on the [[Aurora Shelf]] during [[Weather (XC3)|rain]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Brogs]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3FR Weather Dependent Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1cvbuhm1drusc7dejkyyiijpf3ww3m4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Begest Rhana</title>
+    <ns>0</ns>
+    <id>121188</id>
+    <revision>
+      <id>600323</id>
+      <parentid>568998</parentid>
+      <timestamp>2023-07-21T12:40:34Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>Rhana</comment>
+      <origin>600323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1164" sha1="j9siziq7vaoerz2wv3dzli0l6td0jds" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Begest Rhana
+|image        = XC3 Begest Rhana.jpg
+|caption      = Begest Rhana
+|category     = Minor Enemy
+|type         = [[Rhana]]
+|level        = 72
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 797
+|cp           = 140
+|sp           = 0
+|gold         = 174
+|hp           = 162,180
+|strength     = 731
+|healing      = 339
+|dexterity    = 200
+|agility      = 196
+|physdef      = 15%
+|ethdef       = 10%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+'''Begest Rhanas''' are Minor Enemies in {{XC3}}. They are members of the [[Rhana]] family, and can be found at level 72 at [[Low Maktha Wildwood]] in the [[Pentelas Region]].
+
+== Resistances==
+{{XC3 Resistances
+|break       = 20%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 0%
+|etherdebuff = 0%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Rhanas]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>j9siziq7vaoerz2wv3dzli0l6td0jds</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Belemnite Bangle (XC3)</title>
+    <ns>0</ns>
+    <id>122856</id>
+    <revision>
+      <id>566302</id>
+      <parentid>564965</parentid>
+      <timestamp>2022-11-19T08:26:05Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1042" sha1="o96qqgtoiwspjjgwtudmi0u151ye550" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Belemnite Bangle (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Belemnite Bangle
+|image     = File:XC3 Accessory Gauntlet.png
+|caption   = Grants 90% resistance to Shackle Healing.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Belemnite Bangle
+|image     = File:XC3 Accessory Gauntlet.png
+|caption   = Grants 95% resistance to Shackle Healing.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Belemnite Bangle
+|image     = File:XC3 Accessory Gauntlet.png
+|caption   = Grants 100% resistance to Shackle Healing.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Belemnite Bangles''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>o96qqgtoiwspjjgwtudmi0u151ye550</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bemot Ropl</title>
+    <ns>0</ns>
+    <id>123155</id>
+    <revision>
+      <id>559572</id>
+      <parentid>553448</parentid>
+      <timestamp>2022-09-30T10:44:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559572</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="756" sha1="pgl8jv6ehlg00fkrxn1aqzjz9tc2qot" xml:space="preserve">{{Infobox Enemy
+|name         = Bemot Ropl
+|image        = 
+|caption      = Bemot Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Bemot Ropls''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>pgl8jv6ehlg00fkrxn1aqzjz9tc2qot</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Berserk Ring (XC3)</title>
+    <ns>0</ns>
+    <id>122872</id>
+    <revision>
+      <id>592714</id>
+      <parentid>592579</parentid>
+      <timestamp>2023-05-15T20:11:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="8m93si75r1zh2r2d63hxdu4wbzgdylh" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Berserk Ring (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Berserk Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Berserk Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Berserk Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Extends Launch duration by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Berserk Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>8m93si75r1zh2r2d63hxdu4wbzgdylh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Berserker's Armor Vest</title>
+    <ns>0</ns>
+    <id>122589</id>
+    <revision>
+      <id>592715</id>
+      <parentid>592277</parentid>
+      <timestamp>2023-05-15T20:11:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1018" sha1="lm507tpduo959xcghmnrzmz5dybxg9s" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Berserker's Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 13,140 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Berserker's Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 13,140 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Berserker's Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 13,140 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Berserker's Armor Vests''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>lm507tpduo959xcghmnrzmz5dybxg9s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Besieger Sheritt</title>
+    <ns>0</ns>
+    <id>119446</id>
+    <revision>
+      <id>574742</id>
+      <parentid>568110</parentid>
+      <timestamp>2023-01-30T13:03:09Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574742</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1460" sha1="k0n5kl8f7jzdf3abmgap5m7ilghxwyc" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Besieger Sheritt
+|image        = XC3 Besieger Sheritt.png
+|caption      = Besieger Sheritt
+|type         = [[Levnis]]
+|level        = 48
+|area         = [[Urayan Trail]] ([[Mountain Front: Keves]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,293
+|cp           = 820
+|sp           = 5
+|gold         = 5,250
+|hp           = 1,450,500
+|strength     = 1,024
+|healing      = 400
+|dexterity    = 196
+|agility      = 129
+|physdef      = 20%
+|ethdef       = -10%
+|critrate     = 18%
+|guardrate    = 15%
+}}
+'''Besieger Sheritt''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 48 near [[Mountain Front: Keves]] on the [[Urayan Trail]]. The [[Piercing Laser]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 100%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Beseiger sheritt location.png
+Beseiger sheritt.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>k0n5kl8f7jzdf3abmgap5m7ilghxwyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Biban Flamii (XC3)</title>
+    <ns>0</ns>
+    <id>121808</id>
+    <revision>
+      <id>566137</id>
+      <parentid>560174</parentid>
+      <timestamp>2022-11-17T08:58:30Z</timestamp>
+      <contributor>
+        <username>Gilgameshkun</username>
+        <id>995426</id>
+      </contributor>
+      <origin>566137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="944" sha1="joh14ow6pzp1lfwkx1t1gugstlxq4kc" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Biban Flamii (XC2)}}
+{{Infobox Enemy
+|name         = Biban Flamii
+|image        = 
+|caption      = Biban Flamii
+|category     = Minor Enemy
+|type         = [[Flamii]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Biban Flamiis''' are Minor Enemies in {{XC3}}. They are members of the [[Flamii]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].  One specific spot is [[Hargan Point Camp]]. Another is the southernmost beach of [[Cape Arcaphor]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Flamiis]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>joh14ow6pzp1lfwkx1t1gugstlxq4kc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Big Bang Implosion</title>
+    <ns>0</ns>
+    <id>118435</id>
+    <revision>
+      <id>597686</id>
+      <parentid>591875</parentid>
+      <timestamp>2023-07-01T22:10:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>597686</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="533" sha1="kmwnob4sy40heobjmemlx5knye3q05n" xml:space="preserve">{{Infobox battle art
+|name        = Big Bang Implosion
+|image       = Sena Ouroboros Chain Art Icon.png
+|who         = [[Sena]] ([[Ouroboros]])
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Greatly increases damage ratio and deals defense-bypassing damage.
+|duration    = 
+}}
+'''Big Bang Implosion''' is [[Sena]]'s [[Ouroboros]] [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Ouroboros Arts]]
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>kmwnob4sy40heobjmemlx5knye3q05n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bigges Darbus</title>
+    <ns>0</ns>
+    <id>117494</id>
+    <revision>
+      <id>582121</id>
+      <parentid>559574</parentid>
+      <timestamp>2023-04-08T16:49:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="794" sha1="r3sjw35xgxpzxrr0sxzgo3tmncdx8sv" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bigges Darbus
+|image        = 
+|caption      = Bigges Darbus
+|category     = Normal Enemy
+|type         = [[Darbus]]
+|level        = 45
+|area         = [[Ribbi Flats]] ([[Laprel Knoll]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 741
+|cp           = 
+|sp           = 
+}}
+'''Bigges Darbuses''' are normal enemies in {{XC3}}. They are members of the [[Darbus]] family, and can be found at level 45 in [[Ribbi Flats]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Darbuses]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>r3sjw35xgxpzxrr0sxzgo3tmncdx8sv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bind (XC3)</title>
+    <ns>0</ns>
+    <id>124897</id>
+    <revision>
+      <id>587565</id>
+      <parentid>587563</parentid>
+      <timestamp>2023-05-02T12:15:18Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587565</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="866" sha1="r1a3m8xnw85jv3bsntevr9h2a7h1qxq" xml:space="preserve">{{for|other uses|Bind}}
+{{Infobox XC3 Status
+|title          = Bind
+|caption        = Makes it impossible to move.
+|image          = XC3 Bind.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 7.5s
+|max-duration   = 11.25s
+|success-rate   = 60%
+|rng-applicable = Yes
+}}
+'''Bind''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It prevents the affected character from moving.
+
+== Distribution ==
+=== Arts ===
+* [[Earth Bind]] ([[Strategos]])
+* [[Spearpoint Thrust]] ([[Thaumaturge]])
+* [[Thunder Steel]] ([[Lost Vanguard]])
+* [[Hypnotism]] ([[Soulhacker]]; requires Soul Hacking [[Profound Hodzuki]])
+* [[Shadow Stitch (XC3)|Shadow Stitch]] ([[Royal Summoner]]; only applied when hitting from back)
+* [[Moonshadow]] ([[Isurd]])
+* [[Furious Flash]] ([[Teach]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>r1a3m8xnw85jv3bsntevr9h2a7h1qxq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Black Belt (XC3)</title>
+    <ns>0</ns>
+    <id>118917</id>
+    <revision>
+      <id>592716</id>
+      <parentid>592576</parentid>
+      <timestamp>2023-05-15T20:12:00Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1016" sha1="b7igfa9jof3k5wpiixci5pf9kl5cqur" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Black Belt (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Black Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Black Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Black Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Black Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>b7igfa9jof3k5wpiixci5pf9kl5cqur</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Black Castle Chosen</title>
+    <ns>0</ns>
+    <id>124314</id>
+    <revision>
+      <id>576280</id>
+      <parentid>572510</parentid>
+      <timestamp>2023-02-09T13:12:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1488" sha1="ncj1fnvk1s5qo2chgnm8pit8g1n2ry1" xml:space="preserve">{{Infobox quest
+|name         = Black Castle Chosen
+|image        = XC3 Challenge Battle Mode.png
+|description  = "Queen's Guard from black Castle is enemies now, strong and disciplined. Key is to take out peripheral defense!"
+|giver        = [[Nopon Archsage]]
+|location     = [[Land of Challenge (XC3)|Land of Challenge]]
+|difficultyCB3= 2
+|prereqs      = Chapter 5 started
+|rewards      = 700-1000 [[Noponstone]]s (Normal)
+}}
+'''Black Castle Chosen''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear A outfit for [[Sena]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 3
+|-
+| Level Restriction || Lv 40
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="4" | 1 || [[Queen's Guard Captain]] x1 || 42
+|-
+| [[Guard Sniper]] x1 || 40
+|-
+| [[Guard Trooper]] x1 || 40
+|-
+| [[Guard Warrior]] x1 || 40
+|-
+| rowspan="4" | 2 || [[Queen's Guard Captain]] x1 || 43
+|-
+| [[Equites]] x1 || 40
+|-
+| [[Guard Rescuer]] x1 || 40
+|-
+| [[Guard Trooper]] x1 || 40
+|-
+| rowspan="5" | 3 || [[Queen's Guard Captain]] x1 || 45
+|-
+| [[Guard Blaster Elite]] x1 || 43
+|-
+| [[Guard Rescuer Elite]] x1 || 43
+|-
+| [[Sagittarius]] x1 || 43
+|-
+| [[Velites]] x1 || 43
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>ncj1fnvk1s5qo2chgnm8pit8g1n2ry1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Black Feather Band</title>
+    <ns>0</ns>
+    <id>118918</id>
+    <revision>
+      <id>592717</id>
+      <parentid>592333</parentid>
+      <timestamp>2023-05-15T20:12:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592717</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="1pr2cda1urxkmj4sgqre555uyj3n1ve" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Black Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 70%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Black Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Black Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Black Feather Bands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>1pr2cda1urxkmj4sgqre555uyj3n1ve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Black Mask</title>
+    <ns>0</ns>
+    <id>118919</id>
+    <revision>
+      <id>592718</id>
+      <parentid>592331</parentid>
+      <timestamp>2023-05-15T20:12:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592718</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1003" sha1="t2cpssmjsctocfrj2a1le90d4j4mh3m" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Black Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Black Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Black Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Black Masks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>t2cpssmjsctocfrj2a1le90d4j4mh3m</sha1>
+    </revision>
+  </page>
+  </mediawiki>

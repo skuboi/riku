@@ -1,0 +1,6 @@
+Skill Name: Split-Second Counter 
+
+Class: Zephyr
+
+Skill Buff or Effect:  Deals 200% of Attack damage when you evade an attack. [Rank 5 Master Skill]
+

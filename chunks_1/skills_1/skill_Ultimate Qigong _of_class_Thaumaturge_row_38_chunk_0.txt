@@ -1,0 +1,6 @@
+Skill Name: Ultimate Qigong 
+
+Class: Thaumaturge
+
+Skill Buff or Effect:  Ignores 50% of enemy's physical defense when landing a hit. [Rank 5 Master Skill]
+

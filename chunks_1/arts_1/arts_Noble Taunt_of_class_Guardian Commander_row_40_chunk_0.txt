@@ -1,0 +1,6 @@
+Art Name: Noble Taunt
+
+Class: Guardian Commander
+
+Effect: Taunt
+

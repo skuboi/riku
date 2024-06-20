@@ -1,0 +1,6 @@
+Skill Name: Cheer Up, Everyone 
+
+Class: Signifier
+
+Skill Buff or Effect:  Restores nearby allies' HP on Art execution. Amount healed is equal to 50% of user's Healing.
+

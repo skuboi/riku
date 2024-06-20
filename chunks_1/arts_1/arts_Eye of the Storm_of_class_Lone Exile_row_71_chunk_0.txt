@@ -1,0 +1,6 @@
+Art Name: Eye of the Storm
+
+Class: Lone Exile
+
+Effect: Block / Spike
+

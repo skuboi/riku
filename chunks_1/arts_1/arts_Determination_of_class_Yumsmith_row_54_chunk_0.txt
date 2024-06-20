@@ -1,0 +1,6 @@
+Art Name: Determination
+
+Class: Yumsmith
+
+Effect: Power+ within fields
+

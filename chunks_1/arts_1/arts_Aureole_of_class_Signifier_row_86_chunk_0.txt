@@ -1,0 +1,6 @@
+Art Name: Aureole
+
+Class: Signifier
+
+Effect: 1 random buff
+

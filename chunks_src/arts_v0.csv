@@ -1,0 +1,173 @@
+Class,Art Name,Effect
+Swordfighter,Ground Beat,AOE
+Swordfighter,Sword Strike,Side Break
+Swordfighter,Edge Thrust,Back Attack Up
+Swordfighter,Air Slash,Cancel Attack Up
+Swordfighter,Shadow Eye,Aggro halved / Atk up
+Zephyr,Butterfly Blade,High aggro
+Zephyr,Air Fang,Aggroed Up
+Zephyr,Wide Slash,Evade
+Zephyr,Glow Ring,Target Lock
+Zephyr,Speed Demon,Eva. up / Atk down
+Medic Gunner,Myopic Screen,Daze
+Medic Gunner,Group Heal,AOE / Heal
+Medic Gunner,Power Ring,Field / Atk up
+Medic Gunner,Ether Cannon,Accuracy down
+Medic Gunner,Vortex,AOE/Area heal on hit
+Tactician,Overfall,Ether Def. down
+Tactician,Stormy Skies,AOE / Heal
+Tactician,Hazy Figure,Field / Eva. up
+Tactician,Avenging Eagle,AOE / Eva. down
+Tactician,Dark Banner,AOE / Sleep
+Heavy Guard,Bull Rush,Topple
+Heavy Guard,Crash Out,AOE / High Aggro
+Heavy Guard,Uppercut Slash,High aggro
+Heavy Guard,Variable Turret,Block attacks
+Heavy Guard,Solid Stance,Def. up / Atk down
+Ogre,Big Impact,Front Blowdown
+Ogre,Hammerhead,Side Attack Up
+Ogre,Giant Swing,Knockback
+Ogre,Cannonball,Dazed_
+Ogre,Maximum Voltage,Unblockable/Atk Up
+Flash Fencer,Cross Impact,Power Charge on hit
+Flash Fencer,Null Slash,AOE/Side Crit. Rate+
+Flash Fencer,Hidden Thorn,Bleed
+Flash Fencer,Revolution Edge,Back Attack Up
+Flash Fencer,Acceleration,Auto-Atk spd. up/dmg up
+War Medic,Heal Bullet,AOE / Heal
+War Medic,Multi Blast,Area heal on hit
+War Medic,Advanced Cooldown,Field / Def. up
+War Medic,Cure Bullet,AOE/Clear debuffs/Debf. barrier
+War Medic,Vital Bullet,AOE / Delayed healing
+Guardian Commander,Noble Taunt,Taunt
+Guardian Commander,Shield Bash,Topple
+Guardian Commander,Falcon Swoop,AOE / Awakened Boost
+Guardian Commander,Grand Protection,Block Rate+/Atk Down
+Guardian Commander,Imperial Sword,Awakened Boost
+Thaumaturge,Rank Splitter,AOE heal on hit
+Thaumaturge,Violent Flurry,Chance to pierce
+Thaumaturge,Divine Protection,Field / Armor Veil
+Thaumaturge,Leaping Current,AOE / Attack up
+Thaumaturge,Spearpoint Thrust,Bind
+Yumsmith,Extended Slash,Shackle block/Front atk_
+Yumsmith,Flashback,Side Break
+Yumsmith,Energy Grenade,Continuous dmg field
+Yumsmith,Recharge,Field / Crit. Rate up
+Yumsmith,Determination,Power+ within fields
+Full Metal Jaguar,Quickdraw,Evade / Front atk _
+Full Metal Jaguar,Dead Set,Removes aggro
+Full Metal Jaguar,Fatal Barrage,AOE / Back attack _
+Full Metal Jaguar,Superstorm,High acc. / Eva. down
+Full Metal Jaguar,Demolition,AOE/Pierce(%)
+Strategos,No Love Lost,Physical Def. down
+Strategos,Hornet,Area heal on hit
+Strategos,Moondog,Field / Regenerate
+Strategos,Earth Bind,Bind
+Strategos,Mirror Trap,Counter Heal
+Stalker,Landslide,Launched_ / Evade
+Stalker,Staying Power,Field / Art Follow-up
+Stalker,Driving Arrow,Back Bleed
+Stalker,Rapid Shot,Side attack_
+Stalker,Night Hunt,Slower aggro/Back atk+
+Lone Exile,Demon Slayer,High aggro
+Lone Exile,Eye of the Storm,Block / Spike
+Lone Exile,Gale Slash,AOE / Aggroed_
+Lone Exile,Soaring Tempest,Launch
+Lone Exile,Jaws of Death,Atk up / Faster aggro
+Incursor,Reversal Edge,Crit.+ during enemy Art
+Incursor,Glitter Stream,Side Break
+Incursor,Sidewinder,AOE/Back Crit. Rate+
+Incursor,Aerial Slash,High Crit. Rate/Evade
+Incursor,Mystic Vision,Crit. Rate & dmg+
+Lost Vanguard,Shockwave,Knockback mid-Art enemy
+Lost Vanguard,Mighty Beat,AOE/High Aggro/Smash
+Lost Vanguard,Shield Wall,Block/Heal/Ether anchor
+Lost Vanguard,Electro Field,Field / Armor Veil
+Lost Vanguard,Taunt Pulse,Cont. dmg/Fast aggro
+Signifier,Resonant Flag,Share own buffs
+Signifier,Aureole,1 random buff
+Signifier,Heal Harmony,Field / Regenerate
+Signifier,Illuminate,AOE / Dmg+ per buff
+Signifier,Spirited Charge,Dmg up per buff
+Martial Artist,Jackal Claw,High Crit. Rate/Evade
+Martial Artist,Detonating Hit,Side Daze
+Martial Artist,Impulse Wave,AOE / Dmg+ per enemy
+Martial Artist,Destructive Charge,Front atk _ / Blowdown
+Martial Artist,Focus,Fast charge/Auto-atk spd+
+Troubador,Autumn Rain,AOE / Regenerate
+Troubador,Way Home,Burst
+Troubador,Ring o' Roses,Field / Fast charge
+Troubador,Twin Moons,Remove buffs
+Troubador,Shadow Parade,Fast charge/Def. down
+Seraph,Dragon's Snarl,High Crit. Rate/Dmg self
+Seraph,Crimson Lance,Side Topple
+Seraph,Inferno Dance,AOE/Dmg to self/Blaze
+Seraph,Flamelord,Front attack _
+Seraph,Leveling Fire,Atk boost/Dmg to self
+Machine Assassin,Tyrant Cross,1 random debuff
+Machine Assassin,Fatal Bite,Side attack _
+Machine Assassin,Terror Onslaught,Back resistance down
+Machine Assassin,Havoc Slayer,AOE / Spread debuffs
+Machine Assassin,Mega Crescent,Extend debuff time
+Lifesage,Saber Slash,AOE/Area heal on hit
+Lifesage,Redemption,AOE / Heal
+Lifesage,Waterlily,Field / Regenerate
+Lifesage,Hydro Blast,Pierce (%)/Blowdown
+Lifesage,Aqua Mind,Regen allies / Fast charge
+Royal Summoner,Summon Element,AOE/Summon Elementals
+Royal Summoner,Elemental Discharge,Release Elementals
+Royal Summoner,Shadow Stitch,Back Bind
+Royal Summoner,Starfall,AOE / Topple
+Royal Summoner,Power Effect,Atk up / Def. down
+Noponic Champion,Dual Flash,High Aggro
+Noponic Champion,Refractive Edge,Evade / High aggro
+Noponic Champion,Tri-Slash,Break
+Noponic Champion,Lustrous Spike,Self KO_
+Noponic Champion,Dazzling Illusion,Eva. up / Faster aggro
+Lapidarist,Blessed Edge,Area heal on hit
+Lapidarist,Rigid Slicer,AOE / Slow charge
+Lapidarist,Prismatic Ring,Field / Arts heal
+Lapidarist,Golden Heart,AOE / Fast charge
+Lapidarist,Vivid Carve,Remove buffs
+Matthew,Backspin Punch,Break
+Matthew,Mighty Strike,Front atk _ /Knockback
+Matthew,Revolt Uppercut,Evade/Cancel attack _
+Matthew,Energy Boost,Power Charge
+Matthew,Raging Force,Chance to pierce
+Matthew,Detonating Hit,AOE
+A,Cross Ray,Area heal on hit
+A,Shaker Edge,Topple
+A,Light Field,Field/Regenerate
+A,Skyfoil,Attack down
+A,Lost Ray,AOE/Acc. down
+A,Sword Mirage,AOE/Evade up
+Nikol,Whirlwind,AOE/High aggro
+Nikol,Steady Assault,Reduce mid-Art damage
+Nikol,Motor Lifter,Launch
+Nikol,Machine Clap,Defense up
+Nikol,Smart Bomb,AOE
+Nikol,Blitz Punch,High aggro
+Glimmer,Illusory Bloom,Phys. Def. down/Blaze
+Glimmer,Great Garland,AOE/Area heal on hit
+Glimmer,Flare Aria,Field/Atk up
+Glimmer,Meteor Flame,Ether Def. down
+Glimmer,Burning Ballad,AOE/Crit. Rate up
+Glimmer,Daybreak Hymn,AOE/Heal
+Shulk,Stream Edge,Break
+Shulk,Heavy Rush,Awakened Boost
+Shulk,Slit Edge,AOE/Bleed
+Shulk,Monado Purge,AOE/Aggroed _
+Shulk,Monado Armor,Field/Armor Veil
+Shulk,Monado Rage,Target Lock
+Rex,Anchor Shot,Front Topple
+Rex,Double Spinning Edge,Gain charge on crit.
+Rex,Dual Blast,AOE/Side Launch
+Rex,Sword Bash,Resistance down
+Rex,Rolling Smash,AOE
+Rex,Cross Blaze,Crit.+ during enemy Art
+Na'el,Detonating Wave,Side attack _
+Na'el,Lightning Bash,AOE/Sleep
+Na'el,Demolition Bullet,Bind
+Na'el,Compound Force,AOE
+Na'el,Bounding Ray,AOE/Chance to pierce
+Na'el,Double Impulse,High HP: Dmg up

@@ -1,0 +1,6 @@
+Art Name: Way Home
+
+Class: Troubador
+
+Effect: Burst
+

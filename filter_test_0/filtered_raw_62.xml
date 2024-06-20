@@ -1,0 +1,2458 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Six Angry Beasts</title>
+    <ns>0</ns>
+    <id>124259</id>
+    <revision>
+      <id>576293</id>
+      <parentid>561982</parentid>
+      <timestamp>2023-02-09T13:16:52Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1157" sha1="3iv6v721gvvsb6y3hbjbu6acwev42se" xml:space="preserve">{{Infobox quest
+|name         = Six Angry Beasts
+|image        = XC3 Challenge Battle Mode.png
+|description  = "Do friends know monsters that get strong when angry? Point is to use Burst combo to cool heels!"
+|giver        = [[Nopon Archsage]]
+|location     = [[Land of Challenge (XC3)|Land of Challenge]]
+|difficultyCB3= 3
+|rewards      = 300-450 [[Noponstone]]s (Easy) &lt;br&gt;600-900 [[Noponstone]]s (Normal)
+}}
+'''Six Angry Beasts''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear A outfit for [[Taion]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 3
+|-
+| Level Restriction || Lv 30
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[Plain Armu (XC3)|Plain Armu]] x1 || 32
+|-
+| Plain Armu x2 || 30
+|-
+| 2 || [[Massido Ardun (XC3)|Massido Ardun]] x2 || 32
+|-
+| 3 || [[Costa Balgas]] x 1|| 33
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>3iv6v721gvvsb6y3hbjbu6acwev42se</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Skeeter</title>
+    <ns>0</ns>
+    <id>5935</id>
+    <revision>
+      <id>602116</id>
+      <parentid>600816</parentid>
+      <timestamp>2023-07-22T12:28:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2936" sha1="aknijg0ejhe4ttd2oxnugrlnh1t7bnk" xml:space="preserve">[[File:Cave Skeeter.png|thumb|A Cave Skeeter]]
+'''Skeeters''' (Japanese: {{lang|ja|&#12473;&#12461;&#12540;&#12488;}}, ''Suk&#299;to'') are flying, mosquito-like enemies in the {{XC|serieslink}}. They are of a similar size to [[Flier]]s and [[Wisp]]s, and sometimes denoted '''Skeets'''.
+
+== {{XC|-}} ==
+In {{XC}}, Skeeters come in two colours.
+
+=== Normal Minor Enemies ===
+* [[Cave Skeeter (XC1)|Cave Skeeter]]
+* [[Chordy Skeeter]]
+* [[Leg Skeeter]]
+* [[Light Skeeter (XC1)|Light Skeeter]]
+* [[Little Skeeter]]
+* [[Medium Skeeter]]
+* [[Prom Skeeter (XC1)|Prom Skeeter]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Leg Skeeter]]
+* [[Light Skeeter (XC1)|Light Skeeter]]
+
+== {{XC2|-}} ==
+In {{XC2}}, Skeeters can be found in [[Gormott Province|Gormott]], [[Empire of Mor Ardain|Mor Ardain]], [[Temperantia]], and the [[Cliffs of Morytha]].
+
+=== Normal Minor Enemies ===
+* [[Illumi Skeeter (XC2)|Illumi Skeeter]]
+* [[Linka Skeet]]
+* [[Mishgal Skeeter]]
+* [[Noog Skeeter (XC2)|Noog Skeeter]]
+* [[Yellow Skeeter]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Lert Skeeter]]
+* [[Teode Skeeter]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Ers Skeeter]]
+
+=== Quest Exclusive Enemy ===
+* [[Chattering Skeeter]] (Wisp model, during ''[[Sweetest Tidings]]'')
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Amity Skeeter]]
+* [[Baruka Skeeter]]
+* [[Cave Skeeter (XC3)|Cave Skeeter]]
+* [[Illumi Skeeter (XC3)|Illumi Skeeter]]
+* [[Kroda Skeeter]]
+* [[Light Skeeter (XC3)|Light Skeeter]]
+* [[Morsula Skeeter]]
+* [[Noog Skeeter (XC3)|Noog Skeeter]]
+* [[Prom Skeeter (XC3)|Prom Skeeter]]
+* [[Selurine Skeeter]]
+* [[Tezlan Skeeter]]
+
+=== Quest Exclusive Enemy ===
+* [[Forin Skeeter]] (During ''[[I'm a Mechanic]]'')
+
+=== Unique Monster ===
+* [[Altruistic Maribel]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Cave Skeeter (XC3)|Cave Skeeter]]
+* [[Kroda Skeeter]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Prom Skeeter.jpg
+Little Skeet.jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Linka Skeet.jpg|Linka Skeet
+Noog Skeeter.png|Noog Skeeter
+TeodeSkeeter.jpg|Teode Skeeter
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+ErsSkeeter.jpg|Ers Skeeter
+ChatteringSkeeter.jpg|Chattering Skeeter (Wisp model)
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Altruistic Maribel.png|Altruistic Maribel
+Light Skeeter.png|Light Skeeter
+&lt;/gallery&gt;
+
+[[de:M&#252;ck]]
+[[Category:XC Skeeters]]
+[[Category:XCFC Skeeters]]
+[[Category:XC Species]]
+[[Category:XCFC Species]]
+[[Category:Bionis Life]]
+[[Category:Flying Enemies]]
+[[Category:Insect Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Skeeters]]
+[[Category:XC2 Insects]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Skeeters]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Skeeters]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Skeeters]]
+[[Category:Species by Type]]</text>
+      <sha1>aknijg0ejhe4ttd2oxnugrlnh1t7bnk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Skelter Medooz</title>
+    <ns>0</ns>
+    <id>121169</id>
+    <revision>
+      <id>583400</id>
+      <parentid>583394</parentid>
+      <timestamp>2023-04-18T13:30:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>583400</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1235" sha1="1vd5d5u4mb24e1j25ogr15v33mnd0f4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Skelter Medooz
+|image        = Skelter Medooz.jpg
+|caption      = Skelter Medooz
+|category     = Normal Minor Enemy&lt;br/ &gt;[[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Medooz]]
+|level        = 27-28&lt;br/ &gt;70
+|area         = [[Great Cotte Falls]] ([[Fallfoot Battlescar]])
+|spawntime    = Anytime&lt;br/ &gt;During ''[[Men! Of! The Sea! IV]]''
+|respawn      = Yes&lt;br/ &gt;No
+|movement     = Air
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Skelter Medoozes''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Medooz]] family, and can be found at level 27-28 at at [[Fallfoot Battlescar]] near the base of the [[Great Cotte Falls]]. One is fought at level 70 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Men! Of! The Sea! IV]]''.
+
+== Drops ==
+* [[Springy Medooz Bell]]
+* [[Medooz Tentacle]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Medoozes]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1vd5d5u4mb24e1j25ogr15v33mnd0f4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Skill (XC3)</title>
+    <ns>0</ns>
+    <id>117717</id>
+    <revision>
+      <id>599725</id>
+      <parentid>595015</parentid>
+      <timestamp>2023-07-16T04:03:49Z</timestamp>
+      <contributor>
+        <username>DevinWash97</username>
+        <id>26405899</id>
+      </contributor>
+      <comment>/* Hero Classes */</comment>
+      <origin>599725</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33818" sha1="14wzs7i4g67jgafhk63qtdh1j04givj" xml:space="preserve">{{for|other uses|Skill}}
+{{spoiler}}
+'''Skills''' (Japanese: {{lang|ja|&#12473;&#12461;&#12523;}}, ''sukiru'') are a battle mechanic in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+They are unlocked by reaching certain [[Class Rank (XC3)|Class Ranks]] in certain [[Class (XC3)|Classes]]. Ranking up a class earns new [[Battle Arts (XC3)|Arts]] or Skills.
+{{clr}}
+
+== {{XC3|-}} ==
+=== List of Skills by Class ===
+==== Main Character Classes ====
+&lt;tabber&gt;
+|-|Swordfighter=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Sharp Eye
+| Boosts Dexterity by 10-50%
+|-
+| Covert Attack
+| Reduces aggro generated from attacks by 20-65%
+|-
+| Cypher Edge
+| Boosts Critical Rate by 10-50%
+|-
+| Inspirit
+| Boosts damage dealt by 60-150% when fighting a [[Unique Monster (XC3)|unique]] or [[Boss (XC3)|boss]] monster
+|}
+
+|-|Zephyr=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Stormy Gale
+| Boosts Agility by 10-30%
+|-
+| I'll Defend You
+| 8-16% chance to prevent attacks on allies within a fixed radius
+|-
+| Split-Second Counter
+| Deals 100-200% of Attack damage when you evade an attack
+|-
+| Ether's Sanctuary
+| Boosts Ether Defense by 10-30%
+|}
+
+|-|Medic Gunner=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Medical Mind
+|  Boosts amount of HP healed from using healing Arts by 20%.
+|-
+| Speedy Recovery
+|  Boosts speed of ally revival by 20% and raises Healing by 5.
+|-
+| Ninja Healer
+|  Reduces aggro generated from healing Arts by 30%.
+|-
+| Eternal Formation
+|  Increases field effect duration by 30%.
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Tactician=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Ethereal Ability
+| Boosts damage dealt by ether Arts by 30-50%.
+|-
+| Shieldrender
+|  Adds 60-100% chance for attack to be unblockable
+|-
+| Eternal Curse
+| Extends duration timers of debuffs applied to enemies by 30-50%.
+|-
+| Inevitable Evitability
+| 6-10% chance to evade enemy attack
+|}
+
+|-|Heavy Guard=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Defensive Soul
+| Boosts Physical Defense by 10-20%
+|-
+| I'll Defend You
+| Reduces damage taken by allies in a fixed radius by 20-30%
+|-
+| Aggravator
+| Accrues Aggro every second
+|-
+| Tenacious Blocker
+| Boosts Block Rate by 30-50% when HP is at 30% or lower
+|}
+
+|-|Ogre=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Insult to Injury
+| Boosts damage dealt when attacking toppled enemies by 60-150%
+|-
+| Fury Smash
+| Increases reaction success rate by 10-45 percentage points
+|-
+| Fighting Prowess
+| Boosts damage dealt by physical Arts by 30-50%
+|-
+| Dynamite Spirit
+| Boosts damage dealt by 20-60% when HP is at 90% or higher
+|}
+&lt;/tabber&gt;
+
+==== Hero Classes ====
+''[[Soulhacker]] skills are listed on [[Soulhacker#Enemy Skills]].''
+&lt;tabber&gt;
+|-|Flash Fencer=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| First Move Wins
+| Boosts damage dealt by 30-50% for the first 30 seconds of battle
+|-
+| Fighting Instinct
+| Boosts damage dealt by 25-50% when using a Talent Art (up to a maximum of 200%)
+|-
+| Critical Strike
+| Increases critical hit damage bonus by 30-50 percentage points
+|-
+| Capable Hands
+| Fills Talent Art recharge gauge by 60-100% at start of battle
+|}
+
+|-|War Medic=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Antibody System
+|Shortens duration of debuffs on self by 30-50%
+|-
+|Healing License
+|Boosts amount of HP healed from using healing Arts by 20-30%
+|-
+|Recovery Engine
+|Removing debuffs boosts own Healing Power by 30-50% (up to a maximum of 150%)
+|-
+|Rescue License
+|Increases HP restored when reviving an ally by 20-40%
+|}
+
+|-|Guardian Commander=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|I'll Help
+|Take attacks for nearby allies with low HP. Damage taken is reduced by 15-20%
+|-
+|Soldier's Potential
+|When HP is at 30% or lower, restore 0.6-1.4% HP each second
+|-
+|Protector's Pride
+|Boost recharge speed by 30-50% when non-Defenders are targeted
+|-
+|Mind for Guarding
+|Increase damage reduction rate when blocking by 10-20 percentage points
+|}
+
+|-|Thaumaturge=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Wheel of Rebirth
+| Heals all allies using 500-900% of Healing Power when executing a [[Burst]]
+|-
+| Qinggong
+| Boosts evasion by 25-35% while moving
+|-
+| Ultimate Qigong
+| When landing a hit, deals damage as though enemy's physical defense was 30-50% lower
+|-
+| Life-Saving Fists
+| Heals self when auto-attack hits, to a maximum of 100% of Healing Power
+|}
+
+|-|Yumsmith=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Bangspolsion
+|Boosts field dissolution damage by 100-300%
+|-
+|Sappy-Sappy Drain!
+|Increases success rate of debuff effects by 15-25 percentage points
+|-
+|Slicey-Dicey!
+|Boosts field damage dealt by 100-200%
+|-
+|Preppy-Pretty Link!
+|Fills Chain Attack gauge slightly on Art execution
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Full Metal Jaguar=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Sixth Sense
+|Boosts accuracy against enemies performing Arts by 60-100%
+|-
+|Positioning Pro
+|Increases the no. of positional arts that can be set to the Arts Palette by 1
+|-
+|Shock Shot
+|Boosts damage against enemies performing Arts by 60-100%
+|-
+|Bullet Symphony
+|Each attack that hits boosts damage dealt by 10-20% (max. 255%). Missing cancels the boost
+|-
+|Precision Shot
+|Boosts Accuracy of auto-attacks by 100-150%
+|}
+Precision Shot is a skill that is only used by Gray, replacing Positioning Pro, which is only used by playable characters.
+
+|-|Strategos=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Prowess Gambit
+|Buffing an ally boosts damage dealt by 20-30% (up to a maximum of 200%)
+|-
+|Sapping Gambit
+|Extends duration timers of debuffs applied to enemies by 30-50%
+|-
+|Strengthening Gambit
+|Extends duration of buff effects issued by 30-50%
+|-
+|Preemption Gambit
+|60-100% chance to grant all allies Attack Up on a preemptive attack
+|}
+
+|-|Stalker=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Swift Death
+| Deals 50-70% more damage against enemies who are at 30% HP or less
+|-
+| In Cold Blood
+| Boosts damage dealt by 75-150% when attacking an enemy suffering from Bleed
+|-
+| Evasion Expertise
+| 30-50% chance to evade ranged attacks
+|-
+| Serene Heart
+| Reduces aggro generated from attacks by 25-50%
+|}
+
+|-|Lone Exile=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Goading Attack
+|Boosts aggro generated from dealing damage by 30-60%
+|-
+|Returning the Favor
+|When nearby ally is attacked, deal 100-250% of attack in damage to enemy
+|-
+|Natural Selection
+|Reduces damage taken by 20-30% when HP is at 30% or lower
+|-
+|Maniac
+|Boosts damage dealt when attacking higher level enemies by 30-50%
+|}
+
+|-|Incursor=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Adriot Blade
+|Boosts damage dealt by 4-8% when landing a critical hit (up to a maximum of 150%)
+|-
+|Floating Kill
+|Boosts Critical Rate by 60-100% when attacking a launched enemy
+|-
+|Vigilance
+|Boosts Critical Rate of auto-attacks by 50-150%
+|-
+|Eye for Weak Points
+|Each successful attack boosts Critical Rate by 1-2% of inital value (up to a maximum of 100%)
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Lost Vanguard=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Come an' Get Me!
+|When blocking, deals 100-200% of Attack damage to enemy, drawing aggro
+|-
+|Now That's Tactics!
+|At start of Chain Attack increase, TP by 5-10
+|-
+|Never Again!
+|Grants 10-20% chance to absorb attack dealt to allies within range
+|-
+|Stay Right There
+|When taking damage, 10-20% chance to inflict Knockback on assailant
+|}
+
+|-|Signifer=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Cheer Up, Everyone
+|Restore nearby allies' HP on Art execution. Amount is equal to &lt;abbr title="Playable characters"&gt;30-50%&lt;/abbr&gt;/&lt;abbr title="Fiona"&gt;40-60%&lt;/abbr&gt; of user's Healing.
+|-
+|I've Got Your Backs
+|Extends duration of buff effects issued by 30-50%
+|-
+|All About Support
+|Increases the no. of Field Arts that can be set to the Arts Palette by 1
+|-
+|We Can Do Better
+|Restores 3-5% of HP when a buff is applied
+|-
+|Brightest Star
+|Boosts damage dealt by 20-60% when HP is at 90% or higher
+|}
+Brightest Star is a skill only used by Fiona, replacing All About Support, which is only used by playable characters.
+
+|-|Martial Artist=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Storm and Stress
+|Each time you perform a cancel, boosts damage dealt by 10-20% (to a maximum of 150%)
+|-
+|Flashing Punch
+|Chained auto-attacks increase attack speed. Auto-attack interval is also shortened
+|-
+|Feline Righting Reflex
+|Ignore Blowdown and Launch by somersaulting. Also has 60-100% chance to grant Attack Up
+|-
+|Frenzied Combo
+|On critical hit, recharge Art is used by 20-30%
+|}
+
+|-|Troubadour=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Endsong
+| Recharges all allies' Arts by 60-100% when incapacitated
+|-
+| Dance of Barrages
+| 10-12% chance to keep recharge when using Art
+|-
+| Dance of Life
+| Own Arts gain 60-100% recharge when an ally is incapacitated
+|-
+| Swiftsong
+| Boosts all allies' accuracy and evasion by 10-20% (does not stack)
+|}
+
+|-|Seraph=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Beast Mode
+|Grants Awakening when damage taken exceeds 45-25% of max HP
+|-
+|Got the Guts
+|Boosts damage dealt by 60-100% when HP is at 80-85% lower
+|-
+|Greatest Warrior
+|Boosts damage by 25-35% for each enemy in battle (max. 200%)
+|-
+|Universal Annihilation
+|Boosts damage to toppled and launched targets by 50-150%
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Machine Assassin=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+|Chaos Chain
+|Debuffing an enemy boosts damage dealt by 20-30% (up to a maximum of 150%)
+|-
+|Phantom Strike
+|Adds 60-100% chance for attack to be unblockable
+|-
+|Cursed Edge
+|Boosts damage dealt by 50-70% when attacking a debuffed enemy
+|-
+|Anti-Erosion System
+|Grants 30-50% resistance to all debuffs
+|}
+
+|-|Lifesage=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Steadfast Feelings
+| Restores nearby allies' HP on Art execution. Amount healed is equal to 30-50% of user's Healing
+|-
+| Instant Regen+
+| 25% chance to heal using 60-100% of Healing Power upon taking damage
+|-
+| Enhanced Cellular Stimulus
+| 30-50% chance on hit to deal 100%-200% of Healing Power as defense-bypassing damage
+|-
+| Abundant Oceans
+| Reduces damage to allies by 10-15%, and boosts HP recovery by 10-15% (does not stack)
+|}
+
+|-|Royal Summoner=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Elemental Boost
+| Each elemental discharge boosts damage dealt by 20-40% (up to a maximum of 400%)
+|-
+| Essence of Ether
+| Boosts allies' damage by 20-30% and reduces enemy Block Rate by 5-15% (does not stack)
+|-
+| Fortified Ether Guard
+| Boosts Ether Defense by 10-20%
+|-
+| Here I Shall Stand
+| Boosts elemental damage by 60-100% and elemental buff effects by 30-50%
+|}
+&lt;/tabber&gt;
+
+==== DLC Classes ====
+&lt;tabber&gt;
+|-|Noponic Champion=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Tit For Tat
+| Whenever an ally in a fixed radius is attacked, boosts recharge of one Art at random by 10-20%.
+|-
+| Nanomachine Repair
+| Adds 25% chance to restore HP by 6-10% when evading.
+|-
+| Velocity Gear
+| All Arts except Talent Art gain 6-10% recharge when evading.
+|-
+| Overclock
+| Boosts recharge rate by 10-20% each time the character is incapacitated (to a maximum of 25%).
+|}
+
+|-|Lapidarist=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Star Treatment
+| On critical hit, heal nearby allies to max of 70% of Healing Power.
+|-
+| Beaming Edge
+| Boosts all allies' Critical Rate by 10-20% and critical hit damage by 30-50 perc. points. (Does not stack.)
+|-
+| Fascinator
+| Boosts damage dealt when in range of a field effect 50-70%.
+|-
+| Ring &#224; la Mode
+| Increases the maximum number of fields that can be set from 3 to 4. (Does not stack.)
+|}
+
+|-|Grand Marshal=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Right Back At You
+| When nearby ally is attacked, deal 200% of attack in damage to enemy.
+|-
+| Natural Born Warrior
+| Grants a large increase to damage dealt the more enemies target you (up to a maximum of 300%).
+|-
+| Gentleman's Valor
+| Grants [[Awakening (XC3)|Awakening]] when damage taken exceeds 20% of max HP.
+|-
+| Mechanical Rhythm
+| 15% chance for own attack to become a guaranteed hit and to evade enemy attacks during it.
+|}
+
+|-|Master Driver=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Raging Flame
+| Boosts damage dealt by 8% when landing a critical hit (up to a maximum of 150%).
+|-
+| Lightspeed Blade
+| On critical, ignore enemy defense. Also increases critical hit damage bonus by 50 percentage points.
+|-
+| Heroic Spirit
+| If an ally is down/has low HP, deal 150% more damage and take 30% less damage.
+|-
+| Flash and Flame
+| Increases Critical Rate by 20 percentage points and critical hit damage by 50 percentage points.
+|}
+&lt;/tabber&gt;
+
+==== Ouroboros Skills ====
+&lt;tabber&gt;
+|-|Noah=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Link Force
+| Slightly/Greatly boosts damage dealt when an ally is down/has low HP
+|-
+| Satisfying Piercer
+| On critical, ignore enemy defense. Also increases critical hit damage bonus by 30-50 percentage points
+|-
+| Omnipresent Blade
+| Boosts damage dealt and Critical Rate by 10-20% on critical hit
+|-
+| Opportunity in Crisis
+| Grants a small/large increase to damage dealt, based on heat gauge level
+|}
+
+|-|Mio=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Biting Back
+| Evading deals 100-200% of Attack damage and boosts damage dealt by 10-20% (up to max. of 300%)
+|-
+| Eyes on the Prize
+| 5-10% chance to evade enemy attack
+|-
+| Subtle Strike
+| 30-50% chance on hit to deal 200% of Attack power as defense-bypassing damage
+|-
+| Clearsight
+| Boosts evasion rate by 20-30% when attacked by targeted enemy
+|}
+
+|-|Eunie=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Wings of Healing
+| 25% chance to heal nearby allies upon taking damage, using 100-200% of Healing Power
+|-
+| Unceasing Blessing
+| Extends the buff duration for all allies by 50%/Pauses timer for all buffs on all allies
+|-
+| Wings of Pursuit
+| Deals damage to enemies in range each second, using 60-100% of Attack
+|-
+| Shared Blessing
+| Grants a small/large increase to damage dealt (max. 500%) for each buff active on all allies
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Taion=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Eclipse
+| Decreases all enemies' debuff resistance by 30-50 percentage points
+|-
+| Unceasing Curse
+| Makes duration timers of debuffs on all enemies tick down 50% slower/Pauses the timer on all debuffs inflicted on all enemies
+|-
+| Shared Curse
+| Grants a small/large increase to damage dealt for each debuff active on all enemies (up to a maximum of 500%)
+|-
+| Strength Sapper
+| Adds 5-10% chance to reset enemy recharge when Art hits
+|}
+
+|-|Lanz=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Steady Advance
+| Grants 50-100% resistance to combos and reactions while Art is active
+|-
+| Reflection
+| 5-15% chance to reflect enemy attack
+|-
+| Hefty Protection
+| Reduces damage taken by allies in a fixed radius by 20-30%
+|-
+| Strength in Adversity
+| Grants a small/large increase to damage dealt the more enemies target you (up to a maximum of 300%)
+|}
+
+|-|Sena=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Merciless Pummeling
+| 50-100% chance to deal extra damage when inflicting Knockback and Blowdown
+|-
+| Extreme Pursuit
+| Grans a small/large increase to damage dealt when attacking enemies during combos
+|-
+| Utterly Crushing
+| Negates enemy guard, with 60-100% chance to inflict [[Break (XC3)|Break]]
+|-
+| Explosive Spirit
+| Own combo reactions boost damage dealt by 30-50% (up to a maximum of 500%)
+|}
+&lt;/tabber&gt;
+
+==== Lucky Seven Skills ====
+When [[Noah]] uses [[Unlimited Sword]], the skills belonging to his current class, along with any equipped skills, do not have any effect, and are replaced by a new set of skills for 90 seconds, or until Noah is incapacitated. The effect of these skills varies, depending on Noah's current [[Role]].
+
+{| class="xc1" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 80px;" |Role
+! scope="col" style="width: 500px;" |Skills
+|-
+|rowspan="4" style="text-align:center;"|[[File:XC3 Attacker Role Icon.png|40px|center]][[Attacker]]
+|3% chance to inflict [[Doom (XC3)|Doom]] on an enemy (excluding bosses/uniques).
+|-
+|Boosts damage dealt by 10% and Critical Rate by 6% on critical hit (up to a maximum of 200% for both).
+|-
+|On critical hit, recharge Art used by 20%.
+|-
+|Reduces aggro generated from attacks by 40%.
+|-
+|rowspan="4" style="text-align:center;"|[[File:XC3 Defender Role Icon.png|40px|center]]{{Link noparens|Defender (XC3)}}
+|Boosts evasion by 2% when you take damage (up to a maximum of 50%).
+|-
+|Deals 200% of Attack damage when you evade an attack.
+|-
+|Reduces damage taken by allies in a fixed radius by 30%.
+|-
+|Accrues Aggro every second and increases aggro generated by 30%.
+|-
+|rowspan="4" style="text-align:center;"|[[File:XC3 Healer Role Icon.png|40px|center]] [[Healer]]
+|Boosts damage by 10% upon healing an ally (up to a maximum of 100%).
+|-
+|Deal 100% more damage and take 25% less damage when an ally is down/has low HP.
+|-
+|Grants [[Invincible (XC3)|Invincible]] to revived allies.
+|-
+|Reduces aggro generated from attacks by 40%.
+|}
+
+=== Master Skills ===
+Once a Character has ranked up a Class, the controlled characters can use certain Arts from that class even if they change to another Class. This is called a '''Master Skill'''. For example, if Noah uses the Tactician class, he will be able to use some of that class' Skills even if he changes back to [[Swordfighter]]. Unlike [[Battle Arts (XC3)|Master Arts]], Skills can be equipped regardless of the class' affiliation with [[Keves]] or [[Agnus]].
+
+Upon reaching Rank 5 in a class, one of the Master Skills will be unlocked. The second Master Skill is unlocked at Rank 15. 
+
+Each character has 3 Master Skill slots available to them, with the first being accessible by default, the second unlocking at [[Level (XC3)|level]] 30, and the third unlocking at level 50.
+
+The [[Soulhacker]] class cannot use Master Skills, and the only Master Skill from the class is Soul Hack, which is unlocked at Rank 10.
+
+==== List of Master Skills ====
+{| class="xc1 sortable" width=80%
+! Class
+! Rank 5
+! Rank 15
+|-
+| [[Swordfighter]]
+| Cypher Edge
+| Covert Attack
+|-
+| [[Zephyr]]
+| Split-Second Counter
+| Stormy Gale
+|-
+| [[Medic Gunner]]
+| Ninja Healer
+| Eternal Formation
+|-
+| [[Tactician]]
+| Ethereal Ability
+| Inevitable Evitability
+|-
+| [[Heavy Guard]]
+| Defensive Soul
+| Tenacious Blocker
+|-
+| [[Ogre]]
+| Fighting Prowess
+| Dynamite Spirit
+|-
+| [[Flash Fencer]]
+| Critical Strike
+| Capable Hands
+|-
+| [[War Medic]]
+| Healing License
+| Antibody System
+|-
+| [[Guardian Commander]]
+| Protector's Pride
+| Mind for Guarding
+|-
+| [[Thaumaturge]]
+| Ultimate Qigong
+| Life-Saving Fists
+|-
+| [[Yumsmith]]
+| Sappy-Sappy Drain!
+| Slicey-Dicey!
+|-
+| [[Full Metal Jaguar (XC3)|Full Metal Jaguar]]
+| Positioning Pro
+| Shock Shot
+|-
+| [[Strategos]]
+| Strengthening Gambit
+| Preemption Gambit
+|-
+| [[Stalker]]
+| Evasion Expertise
+| Swift Death
+|-
+| [[Lone Exile]]
+| Natural Selection
+| Maniac
+|-
+| [[Incursor]]
+| Vigilance
+| Eye for Weak Points
+|-
+| [[Lost Vanguard]]
+| Now That's Tactics!
+| Come an' Get Me!
+|-
+| [[Signifer]]
+| All About Support
+| We Can Do Better
+|-
+| [[Martial Artist]]
+| Feline Righting Reflex
+| Frenzied Combo
+|-
+| [[Troubadour]]
+| Dance of Barrages
+| Swiftsong
+|-
+| [[Seraph]]
+| Greatest Warrior
+| Universal Annihilation
+|-
+| [[Machine Assassin]]
+| Cursed Edge
+| Anti-Erosion System
+|-
+| [[Lifesage]]
+| Enhanced Cellular Stimulus
+| Abundant Oceans
+|-
+| [[Royal Summoner]]
+| Fortified Ether Guard
+| Essence of Ether
+|-
+| [[Noponic Champion]]
+| Nanomachine Repair
+| Overclock
+|-
+| [[Lapidarist]]
+| Ring &#224; la Mode
+| Beaming Edge
+|}
+
+== {{XC3FR|sub}} ==
+In {{XC3FR|sub}}, skills are acquired by spending Affinity Points in each character's [[Affinity Growth]]. Each character can unlock 4 class skills, which each can be upgraded a maximum of 2 times to increase their effects. 
+
+Additionally, each character has an Initiative Effect skill, which grants a certain [[Status Effect|buff]] to the party, or inflicts a combo reaction on the enemy when beginning the battle with an attack from a specified direction. 
+
+Each character also has several other skills that cannot be upgraded, but offer stat increases or unique effects. 
+
+[[Na'el]] has 4 skills unique to her class, [[War Mage]], but as she does not possess an Affinity Growth, these skills are unlocked immediately, but they cannot be upgraded. She does not posses an Initiative Effect or any unnamed skills either.
+
+=== List of Skills by Character ===
+&lt;tabber&gt;
+|-|Matthew=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Breaking Waves
+| Each time you perform a cancel, boosts damage dealt by 10-20% (to a maximum of 150%)
+|-
+| Flashing Fists
+| Chained auto-attacks increase attack speed. Auto-attack interval is also shortened. (Minor/Medium/Major effect)
+|-
+| Giant-Killer
+| Boosts damage dealt by 60-100% when fighting a [[Unique Monster (XC3)|unique]] or [[Boss (XC3)|boss]] monster
+|-
+| Victor's Combo
+| 10-12% chance to keep recharge when using Art
+|}
+
+|-|A=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Quicksilver Blade
+| Healing an ally boosts damage dealt by 10-20% (up to a maximum of 100%)
+|-
+| Life-Saving Sword
+| Heals self when auto-attack hits, to a maximum of 100% of Healing Power. (Minor/Major effect)
+|-
+| Clearsight
+| 6-10% chance to evade enemy attack
+|-
+| Armor Piercing
+| When landing a hit, deals damage as though enemy's ether defense was 30-50% lower
+|}
+
+|-|Nikol=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Safe and Sound
+| Reduces damage taken by allies in a fixed radius by 20-30%
+|-
+| Block-Counter Assembly
+| When blocking, deals 100-200% of Attack damage to enemy, drawing aggro
+|-
+| Concealed Strength
+| Reduces damage taken by 20-30% when HP is at 30% or lower
+|-
+| Advanced Lamellar Armor
+| Increases Physical Defense and Ether Defense by 5-10 percentage points
+|}
+&lt;/tabber&gt;
+
+&lt;tabber&gt;
+|-|Glimmer=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Soothing Fire
+| Restores nearby allies' HP on Art execution. Amount healed is equal to 30-50% of user's Healing
+|-
+| Healing Genius
+| Boosts amount of HP healed from using healing Arts by 20-30%
+|-
+| Will to Aid
+| Boosts healing Arts recharge speed by 20-40% when an ally is at low HP
+|-
+| Rapid Response
+| Boosts speed of ally revival by 20-40% and raises Healing by 5-15
+|}
+
+|-|Shulk=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Right Back At You
+| When nearby ally is attacked, deal 100-200% of attack in damage to enemy
+|-
+| Natural Born Warrior
+| Grants a small/large increase to damage dealt the more enemies target you (up to a maximum of 300%)
+|-
+| Sword of Reprisal
+| Deals 150-300% of Attack damage when you evade an attack
+|-
+| Mechanical Rhythm
+| 5-15% chance for own attack to become a guaranteed hit and to evade enemy attacks during it
+|}
+
+|-|Rex=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Raging Flame
+| Boosts damage dealt by 4-8% when landing a critical hit (up to a maximum of 150%)
+|-
+| Lightspeed Blade
+| On critical, ignore enemy defense. Also increases critical hit damage bonus by 30-50 percentage points
+|-
+| Heroic Spirit
+| If an ally is down/has low HP, deal 50-150% more damage and take 20-30% less damage
+|-
+| Flash and Flame
+| Increases Critical Rate by 10-20 percentage points and critical hit damage by 30-50 percentage points
+|}
+
+|-|Na'el=
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 400px;" |Skills
+! scope="col" style="width: 400px;" |Effect
+|-
+| Mystic Magnification
+| Boosts damage dealt by 100% each time an ally is incapacitated (to a maximum of 200%)
+|-
+| Piercing Will
+| Increases success rate of debuff effects by 25 percentage points
+|-
+| Worldbutcher
+| Boosts damage dealt to [[Topple (XC3)|toppled]] and [[Launch (XC3)|launched]] targets by 150%
+|-
+| Ether Squared
+| 50% chance on hit to deal 200% of Attack power as defense-bypassing damage
+|}
+&lt;/tabber&gt;
+
+
+=== List of Initiative Effects ===
+{| class="xc1"
+! Character
+! Direction
+! Effect
+|-
+| Matthew
+| Back
+| Grants the whole party [[Fast Recharge]]
+|-
+| A
+| Side
+| Grants the whole party [[Decoy (XC3)|Decoy]]
+|-
+| Nikol
+| Side
+| Grants the whole party [[Armor Veil]]
+|-
+| Glimmer
+| Back
+| Grants the whole party [[Critical Rate Up]]
+|-
+| Shulk
+| Back
+| Inflicts [[Break (XC3)|Break]] on enemies within a certain radius
+|-
+| Rex
+| Side
+| Inflicts [[Launch (XC3)|Launch]] on the enemy
+|}
+
+=== List of Other Skills ===
+&lt;tabber&gt;
+|-|Matthew=
+{| class="xc1"
+! Skill
+! Effect
+|-
+| Attack Plus
+| Increases Attack by 30
+|-
+| Critical Plus
+| Increases Critical Rate by 10 percentage points
+|-
+| Unlock Arts Cancelling
+| Allows you to cancel one Art into another Art, and raises Art damage by 25%
+|- 
+| TP Plus
+| At start of Chain Attack, increases TP by 5
+|-
+| Slower Arts Aggro
+| Reduces aggro generated when using Art by 30%
+|-
+| Aerial Recovery
+| Ignore Blowdown and Launch by somersaulting. Also has 60% chance to grant Attack Up
+|-
+| Attack Up
+| Boosts Attack by 10%
+|-
+| Critical Up
+| Boosts Critical Rate by 10%
+|-
+| Quick Move Damage Up
+| Boosts damage dealt by 50% when using an Art right after a Quick Move maneuver
+|-
+| Quick Move AOE Damage
+| When activating Quick Move, deals 150% of Attack as damage to any enemies within 5m
+|}
+|-|A=
+{| class="xc1"
+! Skill
+! Effect
+|-
+| Attack Plus
+| Increases Attack by 30
+|-
+| Healing Power Plus
+| Increases Healing by 25
+|-
+| Unlock Arts Cancelling
+| Allows you to cancel one Art into another Art, and raises Art damage by 25%
+|- 
+| TP Plus
+| At start of Chain Attack, increases TP by 5
+|-
+| Aggro Reduce Up (Targeted)
+| Boosts aggro reduction by 25% when targeted by an enemy 
+|-
+| Field Duration Up
+| Increases field effect duration by 30%
+|-
+| Attack Up
+| Boosts Attack by 10%
+|-
+| Healing Power Up
+| Boosts Healing by 10%
+|-
+| Slower Attack Aggro
+| Reduces aggro generated from attacks by 25%
+|-
+| Party Recharge (Self KO)
+| Recharges all allies' Arts by 100% when incapacitated
+|}
+|-|Nikol=
+{| class="xc1"
+! Skill
+! Effect
+|-
+| Max HP Plus
+| Increases maximum HP by 400
+|-
+| Block Rate Plus
+| Increases Block Rate by 10 percentage points
+|-
+| Unlock Arts Cancelling
+| Allows you to cancel one Art into another Art, and raises Art damage by 25%
+|- 
+| TP Plus
+| At start of Chain Attack, increases TP by 5
+|-
+| Auto Aggro Up
+| Accrues aggro every second
+|-
+| Ether Absorb
+| When blocking, adds 15% chance to absorb an ether attack
+|-
+| Max HP Up
+| Boosts maximum HP by 10%
+|-
+| Block Rate Up
+| Boosts Block Rate by 10%
+|-
+| Guard Efficiency Up
+| Increases damage reduction rate when blocking by 15 percentage points
+|-
+| Physical Absorb
+| When blocking, adds 15% chance to absorb a physical attack
+|-
+| Ouroboros Power Awakened
+| Boosts damage dealt by Unity Combos by 50% 
+|}
+|-|Glimmer=
+{| class="xc1"
+! Skill
+! Effect
+|-
+| Healing Power Plus
+| Increases Healing by 25
+|-
+| Attack Plus
+| Increases Attack by 30
+|-
+| Unlock Arts Cancelling
+| Allows you to cancel one Art into another Art, and raises Art damage by 25%
+|- 
+| TP Plus
+| At start of Chain Attack, increases TP by 5
+|-
+| Field Duration Up
+| Increases field effect duration by 30%
+|-
+| Slower Healing Aggro
+| Reduces aggro generated from healing Arts by 30%
+|-
+| Healing Power Up
+| Boosts Healing by 10%
+|-
+| Attack Up
+| Boosts Attack by 10%
+|-
+| Longer Buff Timers
+| Extends duration of buff effects issued by self by 30%
+|-
+| Longer Debuff Timers
+| Extends duration timers of debuffs applied to enemies by 30%
+|-
+| Ouroboros Power Awakened
+| Boosts damage dealt by Unity Combos by 50% 
+|}
+|-|Shulk=
+{| class="xc1"
+! Skill
+! Effect
+|-
+| Attack Plus
+| Increases Attack by 30
+|-
+| Agility Plus
+| Increases Agility by 15
+|-
+| Unlock Arts Cancelling
+| Allows you to cancel one Art into another Art, and raises Art damage by 25%
+|- 
+| TP Plus
+| At start of Chain Attack, increases TP by 5
+|-
+| Faster Damage Aggro
+| Boosts aggro generated from dealing damage by 30%
+|-
+| Evasion Up (Art)
+| Boosts evasion by 20% while Art is active
+|-
+| Attack Up
+| Boosts Attack by 10%
+|-
+| Agilty Up
+| Boosts Agility by 5%
+|-
+| Unbeatable
+| 50% chance to survive KO with 1 HP and five seconds of invincibility (once per battle, does not stack)
+|-
+| Ranged Evasion
+| 30% chance to evade ranged attacks
+|}
+|-|Rex=
+{| class="xc1"
+! Skill
+! Effect
+|-
+| Attack Plus
+| Increases Attack by 30
+|-
+| Critical Plus
+| Increases Critical Rate by 10 percentage points
+|-
+| Unlock Arts Cancelling
+| Allows you to cancel one Art into another Art, and raises Art damage by 25%
+|- 
+| TP Plus
+| At start of Chain Attack, increases TP by 5
+|-
+| Chain Gauge Up (Art)
+| Fills Chain Attack gauge slightly on Art execution
+|-
+| Instant KO (Low HP)
+| 1% chance to instantly defeat an enemy at 30% HP or lower (excluding bosses/uniques)
+|-
+| Attack Up
+| Boosts Attack by 10%
+|-
+| Critical Up
+| Boosts Critical Rate by 10%
+|-
+| Enemy Count Damage Up
+| Boosts damage by 20% for every enemy in battle (max. 200%)
+|-
+| Unblockable
+| Adds 100% chance for attack to be unblockable
+|}
+&lt;/tabber&gt;
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Battle Flow]]
+[[Category:XC3 Classes]]
+[[Category:XC3FR Battle Flow]]
+[[Category:XC3FR Classes]]</text>
+      <sha1>14wzs7i4g67jgafhk63qtdh1j04givj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Skirmish</title>
+    <ns>0</ns>
+    <id>117963</id>
+    <revision>
+      <id>565602</id>
+      <parentid>538243</parentid>
+      <timestamp>2022-11-11T22:17:59Z</timestamp>
+      <contributor>
+        <username>Owez08</username>
+        <id>32833593</id>
+      </contributor>
+      <minor/>
+      <comment>No Spoiler content on this page</comment>
+      <origin>565602</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="968" sha1="ndcgku1902laayjfxjd7vhrdlaaxy48" xml:space="preserve">'''Skirmish''' (Japanese: {{lang|ja|&#21218;&#21147;&#20105;&#12356;}}, ''Seiryoku arasoi'', lit. power struggle) is a mechanic in {{XC3}}.&lt;ref&gt;https://topics.nintendo.co.jp/article/dec68671-d6ac-4982-abec-93cb91a1dcb4&lt;/ref&gt;
+
+== Overview ==
+Occasionally, the party will encounter groups of [[Enemy (XC3)|enemies]], soldiers or monsters, fighting one another in the field. They can choose to join either side of the battle, with each offering different rewards, such as [[Gold]], [[Experience Points (XC3)|Bonus Experience]], [[Affinity (XC3)|Affinity]] with a local colony, or [[Nopon Coin (XC3)|Nopon Coins]]. The strategic key is to determine which reward is better or which battle seems easier to win. However, when the party is helping one group as part of a [[Quest (XC3)|quest]], it is not possible to join the other group.
+{{clr}}
+
+[[File:&#21218;&#21147;&#20105;&#12356;|thumb|240px|center|Skirmish]]
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Enemies]]
+[[Category:XC3 Mechanics]]</text>
+      <sha1>ndcgku1902laayjfxjd7vhrdlaaxy48</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Skwaror</title>
+    <ns>0</ns>
+    <id>75913</id>
+    <revision>
+      <id>602117</id>
+      <parentid>600817</parentid>
+      <timestamp>2023-07-22T12:28:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>602117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2481" sha1="tlgc91e64z8ium2ttsr0ipaklrqnv65" xml:space="preserve">[[file:KallasSkwaror.jpg|thumb|Kallas Skwaror]]
+'''Skwarors''' are dinosaur-like enemies in the {{XC|serieslink}}, first appearing in {{XC2}}. They are small creatures similar to [[wikipedia:Dromaeosauridae|dromaeosaurids]]. This species is close to [[Rapchor]] but Skwarors have a denser plumage and come in two varieties, blue or black in color. A few named '''runners''' are used as scouts but this term can be used for other species.
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Igard Skwaror]]
+* [[Karlin Skwaror]]
+* [[Koror Skwaror]]
+* [[Makfur Runner]]
+* [[Meldl Skwaror]]
+* [[Melz Runner]]
+
+=== Quest Exclusive Enemy ===
+* [[Kallas Skwaror (XC2)|Kallas Skwaror]] (During ''[[One Step Ahead]]'')
+
+=== Unique Monster ===
+* [[Cunning Saggie]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Kanoo Skwaror]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Avee Skwaror]]
+* [[Chadol Skwaror]]
+* [[Kallas Skwaror (XC3)|Kallas Skwaror]]
+* [[Kokto Skwaror]]
+
+=== Quest Exclusive Enemies ===
+* [[Alaat Skwaror]] (During ''[[Learning from Lambda]]'')
+* [[Disparre Skwaror]] (DLC, during ''[[Champion of the Nopon]]'')
+* [[Hungry Skwaror]] (During ''[[The Harvest]]'')
+
+=== Unique Monster ===
+* [[Scornful Daria]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Avee Skwaror]]
+* [[Dark Skwaror]] ([[Fogbeast]])
+* [[Kallas Skwaror (XC3)|Kallas Skwaror]]
+
+== Notes ==
+* The [[Karlin Skwaror]] from {{XC2|-}} mistakenly resemble a Rapchor instead of a Skwaror.
+
+== Etymology ==
+Skwaror name may be a reference to [[wikipedia:Halszkaraptor|halszkaraptors]], waterfowl-like [[wikipedia:Dromaeosauridae|Dromaeosauridae]] dinosaurs. 
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Cunning-Saggie-portrait.jpg|Cunning Saggie
+Meldl Skwaror.jpg|Meldl Skwaror
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+KanooSkwaror.jpg|Kanoo Skwaror
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Alaat Skwaror.png|Alaat Skwaror
+XC3 Disparre Skwaror.png|Disparre Skwaror
+Kallas Skwaror (XC3).jpg|Kallas Skwaror
+Scornful Daria.png|Scornful Daria
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Dark Skwaror.jpg|Dark Skwaror
+&lt;/gallery&gt;
+
+[[Category:XC2 Species]]
+[[Category:XC2 Skwarors]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Skwarors]]
+[[Category:XC3 Species]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Skwarors]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Skwarors]]
+[[Category:Species by Type]]</text>
+      <sha1>tlgc91e64z8ium2ttsr0ipaklrqnv65</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sky Ansel</title>
+    <ns>0</ns>
+    <id>117513</id>
+    <revision>
+      <id>583212</id>
+      <parentid>559942</parentid>
+      <timestamp>2023-04-16T17:18:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="765" sha1="hbdnq1bdk3f0aybvjbcrc8hu9p1720w" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sky Ansel
+|image        = XC3 Sky Ansel.jpeg
+|caption      = Sky Ansel
+|category     = Normal Enemy
+|type         = [[Ansel]]
+|level        = 35
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] 
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sky Ansels''' are enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level 35 in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hbdnq1bdk3f0aybvjbcrc8hu9p1720w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sky Rhogul (XC3)</title>
+    <ns>0</ns>
+    <id>117962</id>
+    <revision>
+      <id>581734</id>
+      <parentid>581699</parentid>
+      <timestamp>2023-04-05T21:20:42Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581734</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1040" sha1="q9i24kb3pke9em7mna6t6wnz9zrno7a" xml:space="preserve">{{for|the enemy in {{XC|-}}|Sky Rhogul (XC1)}}
+{{Infobox XC3 Enemy
+|name          = Sky Rhogul
+|image         = Sky Rhogul (XC3).png
+|caption       = Sky Rhogul
+|category      = Normal Enemy
+|type          = [[Rhogul]]
+|level         = 5 - 8
+|area          = [[Yzana Plains]] ([[Flamii Watering Hole]], [[Alfeto Valley Mouth]])
+|spawntime     = Anytime
+|respawn       = Yes
+|movement      = 
+|detection     = 
+|exp           = 43
+|cp            = 
+|sp            = 
+}}
+'''Sky Rhoguls''' are minor enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level 5-8 at the [[Flamii Watering Hole]] and west of the [[Alfeto Valley Mouth]] in [[Yzana Plains]].
+
+== Drops ==
+* [[Rhogul Axe Crest (XC3)|Rhogul Axe Crest]]
+* [[Piercing Rhogul Quill]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>q9i24kb3pke9em7mna6t6wnz9zrno7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Slack-Jawed Zephal</title>
+    <ns>0</ns>
+    <id>119473</id>
+    <revision>
+      <id>583318</id>
+      <parentid>574686</parentid>
+      <timestamp>2023-04-17T16:09:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583318</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1478" sha1="ovwt4sp7moe4k5m4pu65t2fev37ul2x" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Slack-Jawed Zephal
+|image        = XC3 Slack-Jawed Zephal.png
+|caption      = Slack-Jawed Zephal
+|type         = [[Darbus]]
+|level        = 80
+|area         = [[Erythia Sea]] ([[Daedal Isle]])
+|spawntime    = During a Thunderstorm
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 8,225
+|cp           = 313
+|sp           = 5
+|gold         = 5,695
+|hp           = 5,873,400
+|strength     = 1,533
+|healing      = 648
+|dexterity    = 276
+|agility      = 216
+|physdef      = 25%
+|ethdef       = -5%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+'''Slack-Jawed Zephal''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Darbus]] family, and can be found at level 80 on the upper northeastern corner of [[Daedal Isle]] in [[Erythia Sea]] during a Thunderstorm. The [[Soulhacker#Enemy Skills|Emperor of Violence]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = Immune
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = Immune
+|etherdebuff = 90%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Slack-jawed zephal location.png
+Slack-jawed zephal.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Darbuses]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Weather Dependent Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ovwt4sp7moe4k5m4pu65t2fev37ul2x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Slashing Weapon Belt</title>
+    <ns>0</ns>
+    <id>119006</id>
+    <revision>
+      <id>592863</id>
+      <parentid>592337</parentid>
+      <timestamp>2023-05-15T20:19:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592863</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="9u441ssj9oeu1lvdrllvgevnj7unhhf" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Slashing Weapon Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boost damage dealt to Aquatic Life by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Slashing Weapon Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boost damage dealt to Aquatic Life by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Slashing Weapon Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boost damage dealt to Aquatic Life by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Slashing Weapon Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>9u441ssj9oeu1lvdrllvgevnj7unhhf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sleep (XC3)</title>
+    <ns>0</ns>
+    <id>117064</id>
+    <revision>
+      <id>596565</id>
+      <parentid>589792</parentid>
+      <timestamp>2023-06-17T20:31:25Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>596565</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1179" sha1="g0pwxmkhu5rr9o60bzwslp7iazy67up" xml:space="preserve">{{for|other uses|Sleep}}
+{{Infobox XC3 Status
+|title          = Sleep
+|caption        = Incapacitates until damage is taken.
+|image          = XC3 Sleep Icon.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 20.0s
+|max-duration   = 30.0s
+|success-rate   = 60%
+|rng-applicable = Yes
+}}
+'''Sleep''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It prevents the affected character from acting until the debuff ends or they take damage. It has a long recovery animation for humanoid targets, making it much more effective on enemies such as [[Keves]]i and [[Agnus|Agnian]] troops. Similarly, it will incapacitate party members for several seconds even after the effect timer has ended.
+
+The [[Divining Hairgrip]] and [[Four Sea Hairgrip]] have a high chance to prevent Sleep from being removed on the enemy whenever the user lands an auto-attack or an Art, respectively. Similar accessories can be [[Craft Accessories|crafted]] with the same effect.
+
+== Distribution ==
+=== Arts ===
+* [[Dark Banner]] ([[Tactician]])
+
+==== {{XC3FR|sub}} ====
+* [[Lightning Bash]] ([[Na'el]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>g0pwxmkhu5rr9o60bzwslp7iazy67up</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sloth Gogol (XC3)</title>
+    <ns>0</ns>
+    <id>123192</id>
+    <revision>
+      <id>599152</id>
+      <parentid>599146</parentid>
+      <timestamp>2023-07-09T15:39:09Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>599152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1738" sha1="0sk0hxu6pum9getuvmtsdm49or1mbi2" xml:space="preserve">{{for|the enemy in {{XC|-}}|Sloth Gogol (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Sloth Gogol
+|image        = 
+|caption      = Sloth Gogol
+|category     = Normal Minor Enemy
+|type         = [[Gogol]]
+|level        = 45-46
+|area         = [[Rae-Bel Tableland]] ([[Valley of Anguish]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sloth Gogols''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level 45-46 in the [[Valley of Anguish]] on [[Rae-Bel Tableland]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Sloth Gogol
+|image        = 
+|caption      = Sloth Gogol
+|category     = Normal Minor Enemy
+|type         = [[Gogol]]
+|level        = 28-31
+|area         = [[The Ragmos Desolation]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Sloth Gogols''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Gogol]] family, and can be found at level 28-31 on [[The Ragmos Desolation]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Gogols]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>0sk0hxu6pum9getuvmtsdm49or1mbi2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Slow Recharge</title>
+    <ns>0</ns>
+    <id>125909</id>
+    <revision>
+      <id>588245</id>
+      <parentid>580548</parentid>
+      <timestamp>2023-05-03T06:33:33Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>588245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="920" sha1="ttxvilx220pfzqd38ozw9f68un46qge" xml:space="preserve">{{Infobox XC3 Status
+|title          = Slow Recharge
+|caption        = Reduces rate of recharge.
+|image          = XC3 Slow Recharge.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 15.0s
+|max-duration   = 22.5s
+|success-rate   = 60%
+|rng-applicable = No
+|effect-title-1 = Base Recharge Reduction
+|effect-value-1 = 25%
+}}
+'''Slow Recharge''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It reduces the character's recharge rate; Keves (and enemy) cooldown timers will tick slower, Agnus arts will gain less charge per auto-attack or Art cancel, and Talent Arts will gain less charge upon a Role Action.
+
+== Distribution ==
+=== Arts ===
+*[[Rigid Slicer]] ([[Lapidarist]])
+*[[Solid Silver]] ([[Masha]])
+
+===Enemy-only Arts===
+*Grenade Launch ([[Puzzling Special Unit]], [[Keves Deathsapper]])
+*Gravity Catastrophe ([[Z&#8734;]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>ttxvilx220pfzqd38ozw9f68un46qge</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Slugger Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>123148</id>
+    <revision>
+      <id>559945</id>
+      <parentid>557815</parentid>
+      <timestamp>2022-09-30T10:58:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="arlh5h04gkyzvigpkqxnpzs4g5uhrnx" xml:space="preserve">{{for|the enemy in {{XC|-}}|Slugger Bunnit (XC1)}}
+{{Infobox Enemy
+|name         = Slugger Bunnit
+|image        = 
+|caption      = Slugger Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Slugger Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>arlh5h04gkyzvigpkqxnpzs4g5uhrnx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Smart Ansel</title>
+    <ns>0</ns>
+    <id>123184</id>
+    <revision>
+      <id>598195</id>
+      <parentid>559947</parentid>
+      <timestamp>2023-07-04T17:24:22Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="786" sha1="lmn0jpapnjbksh5zvxus7hlf08jb8xf" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Smart Ansel
+|image        = Smart Ansel.jpg
+|caption      = Smart Ansel
+|category     = Normal Minor Enemy
+|type         = [[Ansel]]
+|level        = 23
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Smart Ansels''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level 23 in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lmn0jpapnjbksh5zvxus7hlf08jb8xf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Smart Protector</title>
+    <ns>0</ns>
+    <id>119007</id>
+    <revision>
+      <id>592864</id>
+      <parentid>592294</parentid>
+      <timestamp>2023-05-15T20:19:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1044" sha1="0qa7e7n60ezha8lkgn1zoum5wyky96e" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Smart Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 35% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Smart Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 36% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Smart Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 37% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Smart Protectors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>0qa7e7n60ezha8lkgn1zoum5wyky96e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Smart Rhogul</title>
+    <ns>0</ns>
+    <id>117453</id>
+    <revision>
+      <id>595968</id>
+      <parentid>564659</parentid>
+      <timestamp>2023-06-16T18:47:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595968</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1029" sha1="1ck3xk0hdqd4cso4h367hlqzlvgm5nr" xml:space="preserve">{{Infobox Enemy
+|name         = Smart Rhogul
+|image        = 
+|caption      = Smart Rhogul
+|category     = Normal Enemy
+|type         = [[Rhogul]]
+|level        = 27
+|area         =  
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Smart Rhoguls''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Rhogul]] family, and can be found at level 27.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Rhoguls]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1ck3xk0hdqd4cso4h367hlqzlvgm5nr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Smash (XC3)</title>
+    <ns>0</ns>
+    <id>117456</id>
+    <revision>
+      <id>595484</id>
+      <parentid>594420</parentid>
+      <timestamp>2023-06-15T09:26:29Z</timestamp>
+      <contributor>
+        <username>Ridesdragons</username>
+        <id>15613341</id>
+      </contributor>
+      <minor/>
+      <comment>added master art tag to Mighty Beat for ease of reference</comment>
+      <origin>595484</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="837" sha1="plbcwkm3hcn6w6b1dwant7wjzves1dz" xml:space="preserve">{{for|the status in {{XC2|-}}|Smash (XC2)}}
+[[File:XC3 Smash Icon.png|thumb|Smash Icon]]
+'''Smash''' is a status in {{XC3}} and {{XC3FR|sublink}}. It causes a [[Launch (XC3)|Launched]] target to be smacked down to the ground, inflicting massive damage. It also has the unique effect of moving an enemy&#8217;s rage marker to the right, making them [[Enraged|Enrage]] faster. Smash is instantaneous.
+
+== Smash-inflicting Arts ==
+* [[Saber Strike]] ([[Flash Fencer]])
+* [[Mighty Beat (XC3)|Mighty Beat]] ([[Lost Vanguard]], Master Art)
+* [[Sumo Press]] ([[Soulhacker|Soul Hacker]])
+* [[Rolling Smash (XC3)|Rolling Smash]] ([[Noah]], [[Ouroboros]])
+* [[Wing Smash (XC3)|Wing Smash]] ([[Sena]], [[Ouroboros]])
+* [[Final Lucky Seven]] ([[Noah]] Only)
+* [[Gravity Blow]] (Noah Only)
+
+{{Xc3 stub}}
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>plbcwkm3hcn6w6b1dwant7wjzves1dz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Smithy Gloves (XC3)</title>
+    <ns>0</ns>
+    <id>122605</id>
+    <revision>
+      <id>592865</id>
+      <parentid>592551</parentid>
+      <timestamp>2023-05-15T20:19:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592865</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1203" sha1="hxda2x9ljrzhx9lmr19oov6o090q238" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Smithy Gloves (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Smithy Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts accuracy by 4% each time an enemy evades an attack (up to a maximum of 50%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Smithy Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts accuracy by 4.5% each time an enemy evades an attack (up to a maximum of 50%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Smithy Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts accuracy by 5% each time an enemy evades an attack (up to a maximum of 50%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Smithy Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>hxda2x9ljrzhx9lmr19oov6o090q238</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sniper Ansel</title>
+    <ns>0</ns>
+    <id>123008</id>
+    <revision>
+      <id>559949</id>
+      <parentid>552332</parentid>
+      <timestamp>2022-09-30T10:58:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559949</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="792" sha1="4n79ih320rsam0j7ejak4ai3lnqlb10" xml:space="preserve">{{Infobox Enemy
+|name         = Sniper Ansel
+|image        = 
+|caption      = Sniper Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Sniper Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? at [[Urayan Trail]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>4n79ih320rsam0j7ejak4ai3lnqlb10</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sniper Rhogul</title>
+    <ns>0</ns>
+    <id>121183</id>
+    <revision>
+      <id>559950</id>
+      <parentid>545602</parentid>
+      <timestamp>2022-09-30T10:58:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="809" sha1="4beay9tc56x4p8xtkfa1vu1el4alpsu" xml:space="preserve">{{Infobox Enemy
+|name         = Sniper Rhogul
+|image        = 
+|caption      = Sniper Rhogul
+|category     = Minor Enemy
+|type         = [[Rhogul]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Sniper Rhoguls''' are Minor Enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level ? at [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>4beay9tc56x4p8xtkfa1vu1el4alpsu</sha1>
+    </revision>
+  </page>
+  </mediawiki>

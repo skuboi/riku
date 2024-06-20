@@ -1,0 +1,312 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Repulsive Deepus</title>
+    <ns>0</ns>
+    <id>119407</id>
+    <revision>
+      <id>574624</id>
+      <parentid>574603</parentid>
+      <timestamp>2023-01-29T20:27:32Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574624</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1346" sha1="33ykuyg5xvma2ixqejk682yvd95rsoq" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Repulsive Deepus
+|image        = XC3 Repulsive Deepus.png
+|caption      = Repulsive Deepus
+|type         = [[Piranhax]]
+|level        = 24
+|area         = [[Yzana Plains]] ([[Sonata Saddleback]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 380
+|cp           = 60
+|sp           = 5
+|gold         = 316
+|hp           = 301,500
+|strength     = 532
+|healing      = 151
+|dexterity    = 94
+|agility      = 93
+|physdef      = 15%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Repulsive Deepus''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Piranhax]] family, and can be found at level 24 in the [[Yzana Plains]], at [[Sonata Saddleback]]. The [[Soulhacker#Enemy Skills|Emergency Turbo]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 40%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Repulsive deepus location.png
+Repulsive deepus.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Piranhax]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>33ykuyg5xvma2ixqejk682yvd95rsoq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Repulsor Cuffs</title>
+    <ns>0</ns>
+    <id>118992</id>
+    <revision>
+      <id>592838</id>
+      <parentid>592411</parentid>
+      <timestamp>2023-05-15T20:18:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592838</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1051" sha1="55cwll3pc6jfh9isknpa3jt3vhmr83w" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Repulsor Cuffs
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts aggro reduction by 50% when targeted by an enemy.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6060 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Repulsor Cuffs
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts aggro reduction by 55% when targeted by an enemy.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6060 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Repulsor Cuffs
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts aggro reduction by 60% when targeted by an enemy.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6060 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Repulsor Cuffs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>55cwll3pc6jfh9isknpa3jt3vhmr83w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resistance Down</title>
+    <ns>0</ns>
+    <id>125902</id>
+    <revision>
+      <id>587569</id>
+      <parentid>587557</parentid>
+      <timestamp>2023-05-02T12:19:16Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587569</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1164" sha1="bcz21w2e95bzv37btxfj7ele2ibuvyo" xml:space="preserve">{{Infobox XC3 Status
+|title          = Resistance Down
+|caption        = Reduces resistance to debuffs.
+|image          = XC3 Resistance Down.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = Yes
+|effect-title-1 = Base Resistance Decrease
+|effect-value-1 = 25%
+}}
+'''Resistance Down''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It reduces the affected character's resistances, not only to debuffs, but also to reactions.&lt;ref&gt;[https://docs.google.com/document/d/1jk31xdLvfPrOjoQtGr-6PRH_4Cd2B_k_dFGSS6vSJ1g#heading=h.63a6wwimgpxw Xenoblade Chronicles 3 Postgame Combat: Guide and Mechanics] - Miscellaneous Formulas section with formulas for reaction success rate&lt;/ref&gt;
+
+==Distribution==
+*[[Terror Onslaught]] ([[Machine Assassin]]; only applied when hitting from the back)
+*[[Hydra Gas]] ([[Soulhacker]]; requires Soul Hacking [[Demonic Krenolur]])
+*[[Seventh Edge (XC3)|Seventh Edge]] ([[Segiri]]; only applied when hitting from the back)
+
+==References==
+&lt;references&gt;&lt;/references&gt;
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>bcz21w2e95bzv37btxfj7ele2ibuvyo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resplendent Armring</title>
+    <ns>0</ns>
+    <id>125650</id>
+    <revision>
+      <id>577147</id>
+      <timestamp>2023-02-16T14:40:42Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Resplendent Armring |image     =  |caption   = Boosts damage dealt by 40% when HP is at 90% or higher. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Resplendent Armrings''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}..."</comment>
+      <origin>577147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="599" sha1="ho7z45mzji60nzv4pg1z0ks87ctf1fg" xml:space="preserve">{{Infobox item
+|name      = Resplendent Armring
+|image     = 
+|caption   = Boosts damage dealt by 40% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Resplendent Armrings''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>ho7z45mzji60nzv4pg1z0ks87ctf1fg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Resplendent Flamii (XC3)</title>
+    <ns>0</ns>
+    <id>121166</id>
+    <revision>
+      <id>596021</id>
+      <parentid>582781</parentid>
+      <timestamp>2023-06-16T19:49:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596021</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1172" sha1="1fbshx7smaouggsykoi4omu2hirz4ph" xml:space="preserve">{{for|the enemy in {{XC|-}}|Resplendent Flamii (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Resplendent Flamii
+|image        = 
+|caption      = Resplendent Flamii
+|category     = Minor Enemy
+|type         = [[Flamii]]
+|level        = 26-27
+|area         = [[Great Cotte Falls]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Resplendent Flamiis''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Flamii]] family, and can be found at level 26-27 at the [[Great Cotte Falls]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Flamiis]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Flamiis]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1fbshx7smaouggsykoi4omu2hirz4ph</sha1>
+    </revision>
+  </page>
+  </mediawiki>

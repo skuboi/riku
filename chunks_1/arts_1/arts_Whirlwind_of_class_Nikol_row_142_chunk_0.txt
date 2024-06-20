@@ -1,0 +1,6 @@
+Art Name: Whirlwind
+
+Class: Nikol
+
+Effect: AOE/High aggro
+

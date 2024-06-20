@@ -1,0 +1,6 @@
+Skill Name: Dance of Barrages 
+
+Class: Troubador
+
+Skill Buff or Effect:  12% to keep recharge when using Art. [Rank 5 Master Skill]
+

@@ -1,0 +1,6 @@
+Skill Name: Never again! 
+
+Class: Lost Vanguard
+
+Skill Buff or Effect:  Grants 20% chance to absorb attacks dealt to allies within range.
+

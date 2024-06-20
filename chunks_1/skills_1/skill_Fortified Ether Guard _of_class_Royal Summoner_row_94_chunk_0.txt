@@ -1,0 +1,6 @@
+Skill Name: Fortified Ether Guard 
+
+Class: Royal Summoner
+
+Skill Buff or Effect:  Boosts Ether Defense by 20%.Ê [Rank 5 Master Skill]
+

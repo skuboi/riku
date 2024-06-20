@@ -1,0 +1,937 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Teach</title>
+    <ns>0</ns>
+    <id>118514</id>
+    <revision>
+      <id>603152</id>
+      <parentid>600149</parentid>
+      <timestamp>2023-07-23T19:02:12Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added both Wikipedia links</comment>
+      <origin>603152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7113" sha1="2mjj4d7z0qgiojdz1g3f54wlbpaxc1o" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name           = Teach
+|image          = Teach portrait artwork.png
+|species        = [[Agnus|Agnian]] human
+|aliases        = All-Slayer Oleg (originally)
+|age            = 10th Term
+|gender         = Male
+|haircolor      = Gray
+|eyecolor       = Green
+|affiliation    = [[Colony Chi]] (formerly)&lt;br/&gt;[[Colony Gamma]]
+|voiceactorjp   = [[Wikipedia:Hiroki Takahashi|Hiroki Takahashi]]
+|voiceactoreng  = [[Wikipedia:Martin Sherman (actor)|Martin T. Sherman]]
+|appearances    = {{XC3}}
+}}
+'''Teach''' (Japanese: {{Lang|jp|&#12471;&#12489;&#12454;}}, ''Shidou'') is a character in {{XC3}}.
+
+== Overview ==
+Teach is recruitable as a [[Hero]]. He is the commander of [[Colony Gamma]]. He is an [[Agnus|Agnian]] with [[Indoline]] traits.
+
+Teach is recruited by completing the [[Hero Quest]] ''[[Going Beyond Power]]''. His [[Class Rank (XC3)|Class Rank]] can be increased to 20 by completing the Ascension Quest ''[[Shadow of Enmity]]''.
+
+== Background ==
+Before he would be referred to as ''Teach'', he was known as '''All-Slayer Oleg''', the Agnian commander of the now-defunct [[Colony Chi]]. He was responsible for wiping out many [[Keves]]i troops and an entire [[Colony]] to which an [[Avenger (XC3)|avenger]] of those troops has accounted about in their past, proven during ''Shadow of Enmity''. However, his ruthless tactics nearly wiped out his own colony in the process, which led him to realize that his hubris had come close to destroying all he fought for.
+
+To escape from his haunting past and to ensure that others will not be corrupted by their own power as he was, he proceeds to identify himself as Teach, a proper commander and combat instructor to Colony Gamma. He imbues the proper morals to his student colony members as evidenced by [[Kyrie]] when she confronted the Avenger during her rescue, persevering the battle as a moment of honor and potential. It is implied that he fought against [[Ashera]] when he was known as Oleg during the quest ''[[Festival of War]]''.
+
+== Gameplay ==
+His class is the [[Healer]] [[Class (XC3)|class]] named [[Thaumaturge]], and wields a [[Blade (XC3)|Blade]] known as the Martial Linkstaff.
+
+Teach's [[Chain Attack (XC3)|Chain Art]] is [[Dragon Unbound]], and his Heroic Chain bonus gives all other active characters 10TP.
+
+=== Base Stats ===
+These are Teach's raw stats prior to modifications by class. They serve as a baseline for calculating his stats in the Thaumaturge class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 408 || 23 || 23 || 31 || 22
+|-
+| 99 || 6,801 || 383 || 382 || 307 || 221
+|}
+
+=== General Stats ===
+These stats assume Teach is at rank 20 in his class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Teach has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||306||34 (+20)||25||37||16||12%||6%||10%||30%
+|-  
+| 99, base||5,100||821 (+70)||420||368||165||24%||12%||10%||30%
+|-  
+| 99, with default accessories||5,100||985 (+70)||420||368||165||24%||12%||10%||30%
+|}
+
+Teach equips the following gems:
+* [[Steady Striker]]
+* [[Doublestrike]], at level 20 onwards
+* [[Steelcleaver]], at level 40 onwards
+
+Teach equips the following accessories as his default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Misanga]]
+* [[Steam Belt (XC3)|Steam Belt]], at level 30 onwards
+* [[Survivor Kneeguard]], at level 50 onwards
+
+== Affinity ==
+* [[Ashera]]
+* [[Kyrie]]
+* [[Foots]]
+* [[Zakir]]
+
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Inscrutable Teach
+|image        = XC3 Teach battle.PNG
+|caption      = Inscrutable Teach
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 26
+|area         = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Transcendent Retreat]])
+|spawntime    = During ''[[Going Beyond Power]]''
+|movement     = Ground
+|respawn      = No
+|exp          = 760
+|cp           = 250
+|sp           = 0
+|gold         = 0
+|hp           = 243,810
+|strength     = 336
+|healing      = 356
+|dexterity    = 140
+|agility      = 88
+|physdef      = 20%
+|ethdef       = -10%
+|critrate     = 7%
+|guardrate-front   = 15%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Inscrutable Teach''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is an [[Agnus Forces|Agnus Soldier]] and is fought at level 26 at [[Transcendent Retreat]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] during ''[[Going Beyond Power]]''. The battle ends once Teach is at 50% HP.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 50%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Inscrutable Teach
+|image        = XC3 Teach DLC Fight.jpg
+|caption      = Inscrutable Teach
+|type         = [[Agnus Forces]]
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 110
+|movement     = Ground
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|exp          = 7,240
+|cp           = 250
+|sp           = 0
+|gold         = 0
+|hp           = 2,499,680
+|strength     = 795
+|healing      = 6,790
+|dexterity    = 419
+|agility      = 277
+|physdef      = 0%
+|ethdef       = 25%
+|critrate     = 0%
+|guardrate-front   = 15%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Inscrutable Teach''' is fought at level 110 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+
+{{clr}}
+
+== Trivia ==
+* Teach is the only Agnian Hero with Indoline traits, as well as the only party member with Indoline traits in the series.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Teach Hero Artwork.png|Official Artwork
+Teach and Alexandria Concept Art.png|Teach's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Teach Hero Icon.png|Hero List Icon
+Strm order thumb024 0.png|Teach's Chain Order Icon
+Teach Level Up Art.png
+Icon chara 16.png
+Icon chara battle 17.png
+Teach Icon.png|Teach's Affinity Chart Icon
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Teach]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>2mjj4d7z0qgiojdz1g3f54wlbpaxc1o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tear Amulet</title>
+    <ns>0</ns>
+    <id>122870</id>
+    <revision>
+      <id>592884</id>
+      <parentid>592389</parentid>
+      <timestamp>2023-05-15T20:20:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592884</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="3fgwt9tia2x4l788jux9kjhkxhjcsz0" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Tear Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Bleed by 150%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Tear Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Bleed by 175%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Tear Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Bleed by 200%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Tear Amulets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>3fgwt9tia2x4l788jux9kjhkxhjcsz0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tenderling Rumi</title>
+    <ns>0</ns>
+    <id>119420</id>
+    <revision>
+      <id>583321</id>
+      <parentid>574734</parentid>
+      <timestamp>2023-04-17T16:12:28Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583321</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1311" sha1="scne1xq58pk7o1lxrske7q9zw5mmjl3" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Tenderling Rumi
+|image        = XC3 Tenderling Rumi.png
+|caption      = Tenderling Rumi
+|type         = [[Armu]]
+|level        = 23
+|area         = [[Ribbi Flats]] ([[Lisza Garden]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 515
+|cp           = 96
+|sp           = 5
+|gold         = 377
+|hp           = 281,700
+|strength     = 543
+|healing      = 206
+|dexterity    = 103
+|agility      = 87
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Tenderling Rumi''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Armu]] family, and can be found at level 23 at [[Lisza Garden]] in [[Ribbi Flats]]. The [[Soulhacker#Enemy Skills|Amazing Growth]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Tenderling rumi location.png
+Tenderling rumi.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Armus]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>scne1xq58pk7o1lxrske7q9zw5mmjl3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Territorial Antol</title>
+    <ns>0</ns>
+    <id>121879</id>
+    <revision>
+      <id>581324</id>
+      <parentid>561744</parentid>
+      <timestamp>2023-04-03T15:54:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1200" sha1="tn1uobj83aj6xpcxtp3tj15keqexh7x" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Territorial Antol
+|image        = XC3 Territorial Antol.png
+|caption      = Territorial Antol
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Antol]]
+|level        = 61
+|area         = [[Erythia Sea]] ([[Antol Pit]])
+|spawntime    = During ''[[Promise to the Future]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    =  
+}}
+'''Territorial Antols''' are two [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are members of the [[Antol]] family, and are fought at level 61 in the [[Antol Pit]] in [[Erythia Sea]] during ''[[Promise to the Future]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Antols]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tn1uobj83aj6xpcxtp3tj15keqexh7x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Terrorbird Zieger</title>
+    <ns>0</ns>
+    <id>119416</id>
+    <revision>
+      <id>574709</id>
+      <parentid>559480</parentid>
+      <timestamp>2023-01-30T07:12:13Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1353" sha1="mra8y3hr24wzgl15g4qtqxh1958qt61" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Terrorbird Zieger
+|image        = XC3 Terrorbird Zieger.png
+|caption      = Terrorbird Zieger
+|type         = [[Ansel]] 
+|level        = 37
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Glam Rock]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 1,111
+|cp           = 129
+|sp           = 5
+|gold         = 640
+|hp           = 609,900
+|strength     = 718
+|healing      = 301
+|dexterity    = 180
+|agility      = 171
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Terrorbird Zieger''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ansel]] family, and can be found at level 37 near [[Glam Rock]] in the [[Dannagh Desert (XC3)|Dannagh Desert]]. The [[Hawk Shot]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 40%
+|knockback = 75%
+|blowdown = 75%
+|physdebuff = 25%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Terrorbird zieger location.png
+Terrorbird zieger.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ansels]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mra8y3hr24wzgl15g4qtqxh1958qt61</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Testudo</title>
+    <ns>0</ns>
+    <id>117500</id>
+    <revision>
+      <id>596023</id>
+      <parentid>595992</parentid>
+      <timestamp>2023-06-16T19:51:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Etymology */</comment>
+      <origin>596023</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1817" sha1="5ci0qx2wi2unu0lflfnjobx6o4545op" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Testudo
+|image        = XC3-Testudo.png 
+|caption      = Testudo
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Levnis]]
+|level        = 23, 47, 84-85
+|area         = [[Erythia Sea]] ([[Erythia Relay Base]])&lt;br/&gt;[[Agnus Castle Barbican]] ([[Levnis Workyard]])&lt;br/&gt;[[City]]
+|spawntime    = Anytime&lt;br/&gt;During ''[[Side Story: Sena]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Testudos''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Agnus|Agnian]] [[Levnis]]es. They can be found as [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] at level 23 or 47 in the [[City]] during ''[[Side Story: Sena]]'', and are normal enemies at level ? at [[Erythia Relay Base]] in [[Erythia Sea]] and level 84-85 at [[Levnis Workyard]] in [[Agnus Castle Barbican]]. One is also seen during [[D]]'s past life as Blackblaze Dirk before he became a [[Moebius]].
+
+==Etymology==
+The name Testudo is derived from the Roman military tactic of the [https://en.wikipedia.org/wiki/Testudo_formation same name].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:City Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3FR Levnises]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3FR Level 46-50 Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5ci0qx2wi2unu0lflfnjobx6o4545op</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tezlan Skeeter</title>
+    <ns>0</ns>
+    <id>121114</id>
+    <revision>
+      <id>559976</id>
+      <parentid>545442</parentid>
+      <timestamp>2022-09-30T10:59:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559976</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="800" sha1="e4xd5qqix5jjdxdcb3t4yy487t1t510" xml:space="preserve">{{Infobox Enemy
+|name         = Tezlan Skeeter
+|image        = 
+|caption      = Tezlan Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Tezlan Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level ? at [[Ribbi Flats]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>e4xd5qqix5jjdxdcb3t4yy487t1t510</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Thaumaturge</title>
+    <ns>0</ns>
+    <id>118544</id>
+    <revision>
+      <id>598352</id>
+      <parentid>597118</parentid>
+      <timestamp>2023-07-08T11:54:27Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>598352</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7078" sha1="66sh1mgrzuebo9supwu9cxqkm6ufl5n" xml:space="preserve">{{quote|A Healer with a belligerent bent. Batters enemies with powerful combos while soothing ailing allies.|Class menu description}}
+[[File:XC3 Thaumaturge Weapon Icon.png|thumb|The Thaumaturge class icon]]
+'''Thaumaturge''' is an [[Agnus|Agnian]] [[Healer]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Thaumaturge specialize in battering enemies with long combos, while they heal up their allies. The [[Blade (XC3)|Blade]] of the Thaumaturge class is the Martial Linkstaff. Thaumaturge is the class of [[Teach]]. 
+
+It is unlocked by completing the [[Hero Quest]] ''[[Going Beyond Power]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Shadow of Enmity]]''.
+
+{{clr}}
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|5,950
+|''Class Inheritor''
+|3,400
+|5,100
+|2,550
+|4,250
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Shadow of Enmity]]''
+|-
+| 11 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 490
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 490
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 620
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 620 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 740
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 740
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 795
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 920
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Thaumaturge class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 70% || 70% || 100% || 110% || 70% || 5% || 25%
+|-
+| 10 || 72% || 72% || 105% || 115% || 72% || 7% || 27%
+|-
+| 20 || 75% || 75% || 110% || 120% || 75% || 10% || 30%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 17 || 12% || 6%
+|-
+| 10 || 38 || 13% || 7%
+|-
+| 20 || 69 || 14% || 7%
+|-
+| 30 || 106 || 16% || 8%
+|-
+| 40 || 148 || 17% || 8%
+|-
+| 50 || 197 || 18% || 9%
+|-
+| 60 || 251 || 19% || 10%
+|-
+| 70 || 312 || 20% || 10%
+|-
+| 80 || 380 || 22% || 11%
+|-
+| 90 || 457 || 23% || 11%
+|-
+| 99 || 534 || 24% || 12%
+|}
+== Arts ==
+* '''[[Demise Thrust]]''' (Talent Art), [[Burst]]
+* '''[[Rank Splitter]]''', AOE heal on hit
+* '''[[Violent Flurry]]''', Chance to pierce (Rank 1 Master Art)
+* '''[[Divine Protection]]''', Field / [[Armor Veil]]
+* '''[[Leaping Current]]''', AOE/Clear debuffs/Atk+
+* '''[[Spearpoint Thrust]]''', [[Bind (XC3)|Bind]] (Rank 10 Master Art)
+
+=== Hero-Exclusive Arts ===
+* '''[[Furious Flash]]''', [[Bind (XC3)|Bind]]
+* '''[[Profound Strength]]''', AOE/Clear Debuffs/Atk+
+* '''[[All-Slayer]]''', Chance to pierce
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 1.png]] '''Wheel of Rebirth''':  Heals all allies using 500-900% of Healing Power when executing a Burst.
+* [[File:XC3 Skill Icon 9.png]] '''Qinggong''':  Boosts evasion by 25-35% while moving.
+* [[File:XC3 Skill Icon 33.png]] '''Ultimate Qigong''':  When landing a hit, deals damage as though enemy's physical defense was 30-50% lower. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 13.png]] '''Life-Saving Fists''':  Heals self when auto-attack hits, to a maximum of 100% of Healing Power. (Rank 15 Master Skill)
+=== Stat Increases ===
+{| class="xc1 centered" style="width:100%;"
+!Class Rank
+!Wheel of Rebirth
+!Qinggong
+!Ultimate Qigong
+!&lt;abbr title="Amount healed as a percentage of damage dealt"&gt;Life-Saving Fists&lt;/abbr&gt;
+|-
+| 1
+| 500%
+| 25%
+| 30%
+| 60%
+|-
+| 5
+| 600%
+| 27%
+| 35%
+| 70%
+|-
+| 10
+| 700%
+| 30%
+| 40%
+| 80%
+|-
+| 15
+| 800%
+| 32%
+| 45%
+| 90%
+|-
+| 20
+| 900%
+| 35%
+| 50%
+| 100%
+|}
+
+{{clr}}
+
+== Trivia ==
+* Prior to Version 1.2.0, the Skill Ultimate Qigong's description read: Ignores 30-50% of enemy's physical defense when landing a hit.
+
+== Gallery ==
+&lt;gallery&gt;
+Teach Hero Artwork.png|Teach, a Thaumaturge
+Thaumaturge Noah.png|Noah as a Thaumaturge
+Thaumaturge Mio.png|Mio as a Thaumaturge
+Thaumaturge Eunie.png|Eunie as a Thaumaturge
+Thaumaturge Taion.png|Taion as a Thaumaturge
+Thaumaturge Lanz.png|Lanz as a Thaumaturge
+Thaumaturge Sena.png|Sena as a Thaumaturge
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>66sh1mgrzuebo9supwu9cxqkm6ufl5n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Thaumawolf Bajeek</title>
+    <ns>0</ns>
+    <id>119517</id>
+    <revision>
+      <id>574711</id>
+      <parentid>574636</parentid>
+      <timestamp>2023-01-30T07:17:40Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1366" sha1="lpcb3ij8jkmxmslar4ez6z2i6f2ho43" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Thaumawolf Bajeek
+|image        = XC3 Thaumawolf Bajeek.png 
+|caption      = Thaumawolf Bajeek
+|type         = [[Kananus]]
+|level        = 71
+|area         = [[Origin Interior]] ([[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 4,558
+|cp           = 244
+|sp           = 5
+|gold         = 2,288
+|hp           = 3,362,400
+|strength     = 1,728
+|healing      = 404
+|dexterity    = 297
+|agility      = 245
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 40%
+|guardrate    = 0%
+}}
+'''Thaumawolf Bajeek''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Kananus]] family, and can be found at level 71 in the [[Origin Interior]], at the [[Central Defense]]. The [[Soulhacker#Enemy Skills|Wolf Spirit]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 25%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Thaumawolf bajeek location.png
+Thaumawolf bajeek.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Kananuses]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lpcb3ij8jkmxmslar4ez6z2i6f2ho43</sha1>
+    </revision>
+  </page>
+  </mediawiki>

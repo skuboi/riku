@@ -1,0 +1,6 @@
+Skill Name: Dance of Life 
+
+Class: Troubador
+
+Skill Buff or Effect:  Own Arts gain is 100% recharge when an ally isÊincapacitated.
+

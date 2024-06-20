@@ -1,0 +1,6 @@
+Art Name: Aqua Mind
+
+Class: Lifesage
+
+Effect: Regen allies / Fast charge
+

@@ -1,0 +1,6 @@
+Skill Name: Feline Righting Reflex 
+
+Class: Martial Artist
+
+Skill Buff or Effect:  Ignores Blowdown and Launch by somersaulting. Also has 100% chance to grant Attack Up. [Rank 5 Master Skill]
+

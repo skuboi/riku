@@ -1,0 +1,6 @@
+Art Name: Skyfoil
+
+Class: A
+
+Effect: Attack down
+

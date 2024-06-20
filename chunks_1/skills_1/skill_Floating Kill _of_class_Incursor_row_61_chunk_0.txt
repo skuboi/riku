@@ -1,0 +1,6 @@
+Skill Name: Floating Kill 
+
+Class: Incursor
+
+Skill Buff or Effect:  Boosts Critical Rate by 100% when attacking a launched enemy.
+

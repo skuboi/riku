@@ -1,0 +1,6 @@
+Skill Name: Ethereal Ability 
+
+Class: Tactician
+
+Skill Buff or Effect:  Boosts damage dealt by ether Arts by 50%. [Rank 5 Master Skill]
+

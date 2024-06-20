@@ -1,0 +1,6 @@
+Art Name: Double Impulse
+
+Class: Na'el
+
+Effect: High HP: Dmg up
+

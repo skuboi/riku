@@ -1,0 +1,6 @@
+Art Name: Uppercut Slash
+
+Class: Heavy Guard
+
+Effect: High aggro
+

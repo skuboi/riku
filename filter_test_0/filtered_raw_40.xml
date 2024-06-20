@@ -1,0 +1,1621 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lost Numbers (enemy)</title>
+    <ns>0</ns>
+    <id>123015</id>
+    <revision>
+      <id>602042</id>
+      <parentid>600769</parentid>
+      <timestamp>2023-07-22T12:24:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Challenge Battle Mode Enemies */</comment>
+      <origin>602042</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="878" sha1="qwdho2uxdnx5nhp9bsohh49hph016xy" xml:space="preserve">{{Spoiler}}
+'''Lost Numbers''' that are fought in {{XC3}}. These include [[Lost Numbers]] soldiers that are fought.
+
+== Quest Exclusive Enemies ==
+* [[Lost Fighter]]
+* [[Lost Protector]]
+
+== Bosses ==
+* [[Aggy]]
+* [[Ghondor#Battle|Ghondor]]
+* [[Oggy]]
+
+== Quest Exclusive Bosses ==
+* [[Broo]] (During ''[[Payback for Treason]]'')
+* [[Gray#Battle|Mystery Man]] (During ''[[A Gray Matter]]'')
+* [[Yarmil]] (During ''[[Payback for Treason]]'')
+
+== Challenge Battle Mode Enemies ==
+* [[Gray#Challenge Battle Mode|Ashenpelt Gray]]
+* [[Monica Vandham#Challenge Battle|City's Bulwark Monica]]
+* [[Ghondor#Challenge Battle Mode|Wrathfist Ghondor]]
+
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Species]]
+[[Category:Lost Numbers]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3 Enemies by Category]]
+[[Category:Lost Numbers Enemies]]
+[[Category:Species by Type]]</text>
+      <sha1>qwdho2uxdnx5nhp9bsohh49hph016xy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lost Protector</title>
+    <ns>0</ns>
+    <id>121790</id>
+    <revision>
+      <id>601273</id>
+      <parentid>584375</parentid>
+      <timestamp>2023-07-22T09:58:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Arts */</comment>
+      <origin>601273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6929" sha1="tdyuxdk37r61017bqemdmkxhejpsv9k" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Lost Protector
+|image        = XC3 Lost Protector.png
+|caption      = Lost Protector
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = ?&lt;br/&gt;50
+|area         = [[Great Sword's Base]]&lt;br/&gt;[[City]]
+|spawntime    = During &lt;br/&gt;''[[Payback for Treason]]''&lt;br/&gt;[[Life in the City]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Lost Protectors''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are [[Lost Numbers (enemy)|Lost Numbers]] enemies, and can be found at level ? at [[Great Sword's Base]] in the [[Cadensia Region]] during ''[[Payback for Treason]]'', and at [[Erythia Sea]] during ''[[Payback for Treason]]'', and in the [[City]] at level 50 during ''[[Life in the City]]''.
+== Battle ==
+&lt;!-- Generic Lost Fighters come in several distinct variants, presumably for male and female versions. They have the same stats, just differing Arts in frame data only --&gt;
+=== Resistances ===
+{{XC3 Resistances
+|break = 30%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 0%
+}}
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack 1 --&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Auto-attack 2 --&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Brazen Challenge'''
+|Debuff
+|One Target
+| -
+| -
+|[[Target Lock]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Armor Breaker'''
+|Physical
+|One Target
+|2
+|300%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Topple is inflicted only if target is suffering from [[Break (XC3)|Break]].
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Zephyr Slash'''
+|Physical
+|Frontward AOE
+|1
+|250%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Defensive Stance'''
+|Buff
+|Self
+| -
+| -
+|[[Defense Up]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Photonic Slash'''
+|Physical
+|One Target
+|1
+|350%
+|Break
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Immovable Will'''
+|Defense
+|Self
+| -
+| -
+|[[Armor Veil]]
+|style="text-align:left;"|
+*Immune to all reactions and combos during Art.
+|}
+{{clr}}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|tab1         = Minor Enemy
+|name         = Lost Protector
+|image        = 
+|caption      = Lost Protector
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level        = 45-134
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''&lt;br&gt;During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|physdef      = 25%
+|ethdef       = 10%
+|critrate     = 0%
+|guardrate-front = 10%
+|guardrate-side = 0%
+|guardrate-back = 0%
+|tab2         = Inter. Stage 40
+|name2         = Lost Fighter
+|image2        = 
+|caption2      = Lost Fighter
+|type2         = [[Lost Numbers (enemy)|Lost Numbers]]
+|movement2     = Ground
+|area2         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level2        = 65
+|detection2    = 
+|spawntime2    = During ''[[Gauntlet: Intermediate]]''
+|respawn2      = No
+|hp2           = 233,280
+|strength2     = 308
+|healing2      = 1,227
+|dexterity2    = 224
+|agility2      = 231
+|physdef2      = 25%
+|ethdef2       = 10%
+|critrate2     = 0%
+|guardrate-front2 = 10%
+|guardrate-side2 = 0%
+|guardrate-back2 = 0%
+}}
+'''Lost Protectors''' are [[Challenge Battle Enemy (XC3)|Challenge Battle enemies]] that can spawn as regular enemies in the [[Archsage's Gauntlet]]. They can appear in the following stages, at the following levels (subject to level adjustment events):
+*Stages 1-3 of ''[[Gauntlet: Intermediate]]'', at level 45
+*Stages 37-39 of ''Gauntlet: Intermediate'', at level 63
+*Stages 27-29 of ''[[Gauntlet: Pro]]'', at level 78
+*Stages 44-46 of ''Gauntlet: Pro'', at level 87
+*Stages 54-56 of ''Gauntlet: Pro'', at level 93
+*Stages 74-76 of ''Gauntlet: Pro'', at level 102
+*Stages 84-86 of ''Gauntlet: Pro'', at level 107
+*Stages 104-106 of ''Gauntlet: Pro'', at level 117
+*Stages 124-126 of ''Gauntlet: Pro'', at level 134
+
+Additionally, a single Lost Protector appears as a boss enemy alongside [[Aggy]], [[Oggy]] and a [[Lost Fighter]], all fought at level 65 in Stage 40 of ''Gauntlet: Intermediate''.
+{{clr}}
+=== Minor Enemy Stats ===
+&lt;tabber&gt;
+Lv 45=
+&lt;h3 style="display:none;"&gt;Level 45&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 3,364
+|atk = 68
+|heal = 34
+|dex = 108
+|agil = 115
+}}
+|-|
+Lv 63=
+&lt;h3 style="display:none;"&gt;Level 63&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 136,224
+|atk = 805
+|heal = 1,094
+|dex = 217
+|agil = 225
+}}
+|-|
+Lv 78=
+&lt;h3 style="display:none;"&gt;Level 78&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 229,257
+|atk = 811
+|heal = 1,603
+|dex = 274
+|agil = 280
+}}
+|-|
+Lv 87=
+&lt;h3 style="display:none;"&gt;Level 87&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 557,368
+|atk = 1,320
+|heal = 3,628
+|dex = 311
+|agil = 315
+}}
+|-|
+Lv 93=
+&lt;h3 style="display:none;"&gt;Level 93&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 794,328
+|atk = 2,071
+|heal = 4,965
+|dex = 336
+|agil = 338
+}}
+|-|
+Lv 102=
+&lt;h3 style="display:none;"&gt;Level 102&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 1,674,547
+|atk = 2,829
+|heal = 9,954
+|dex = 378
+|agil = 380
+}}
+|-|
+Lv 107=
+&lt;h3 style="display:none;"&gt;Level 107&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 2,089,752
+|atk = 4,022
+|heal = 12,124
+|dex = 390
+|agil = 392
+}}
+|-|
+Lv 117=
+&lt;h3 style="display:none;"&gt;Level 117&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 3,346,460
+|atk = 5,507
+|heal = 19,039
+|dex = 428
+|agil = 432
+}}
+|-|
+Lv 134=
+&lt;h3 style="display:none;"&gt;Level 134&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 5,241,852
+|atk = 7,507
+|heal = 28,837
+|dex = 467
+|agil = 472
+}}
+&lt;/tabber&gt;
+=== Skills ===
+* Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+{{XC3 Resistances|break = 35%|knockback = 50%|blowdown = 50%}}
+{{clr}}
+=== Arts ===
+Lost Protectors in Challenge Battle Mode use the same Arts set as Lost Protectors encountered elsewhere.
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:City Enemies]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tdyuxdk37r61017bqemdmkxhejpsv9k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lost Vanguard</title>
+    <ns>0</ns>
+    <id>118546</id>
+    <revision>
+      <id>597595</id>
+      <parentid>597114</parentid>
+      <timestamp>2023-07-01T13:02:58Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>597595</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7403" sha1="bhewicssv9d1dvgncatprgrf1exi3lq" xml:space="preserve">{{Spoiler}}
+{{quote|A stout Defender, guarding allies all around with shield and Arts,while crushing foes with a mace.|Class menu description}}
+[[File:XC3 Lost Vanguard Weapon Icon.png|thumb|The Lost Vanguard class icon]]
+'''Lost Vanguard''' is an [[Agnus|Agnian]] [[Defender (XC3)|Defender]] [[Class (XC3)|class]] in {{XC3}}. 
+
+== Overview ==
+Lost Vanguard is the class of [[Monica Vandham|Monica]]. The class focuses on guarding allies with their shield and their arts, while crushing enemies with their [[Blade (XC3)|Defense Mace]]. 
+
+It is unlocked by completing the [[Hero Quest]] ''[[Vandham's Heir]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Promise to the Future]]''.
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|3,750
+|4,690
+|''Class Inheritor''
+|2,815
+|5,625
+|6,565
+|}
+
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 265
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 265
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 435
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 435
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 460
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Promise to the Future]]''
+|-
+| 11 
+| 380
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 380
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 510
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 510
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 635
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 635
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 760
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 760
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 825
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 950
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Lost Vanguard class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 120% || 75% || 30% || 110% || 80% || 40% || 30%
+|-
+| 10 || 122% || 77% || 32% || 115% || 85% || 45% || 32%
+|-
+| 20 || 125% || 80% || 35% || 120% || 90% || 50% || 35%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 17 || 10% || 35%
+|-
+| 10 || 37 || 11% || 36%
+|-
+| 20 || 67 || 12% || 37%
+|-
+| 30 || 103 || 13% || 38%
+|-
+| 40 || 143 || 14% || 39%
+|-
+| 50 || 191 || 15% || 40%
+|-
+| 60 || 244 || 16% || 41%
+|-
+| 70 || 303 || 17% || 42%
+|-
+| 80 || 369 || 18% || 43%
+|-
+| 90 || 443 || 19% || 44%
+|-
+| 99 || 519 || 20% || 45%
+|}
+== Arts ==
+* '''[[Thunder Steel]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/[[Bind (XC3)|Bind]]/Machines&#8593;
+* [[Shockwave]], Knockback mid-Art enemy
+* [[Taunt Pulse]], Cont. dmg/Fast aggro
+* [[Mighty Beat (XC3)|Mighty Beat]], AOE/High Aggro/[[Smash (XC3)|Smash]] (Rank 10 Master Art)
+* [[Shield Wall (XC3)|Shield Wall]], Block/Heal/Ether anchor (Rank 1 Master Art)
+* [[Electro Field]], Field / [[Armor Veil]]
+
+=== Hero-Exclusive Arts ===
+* [[Geo Breaker]], AOE/High Aggro/[[Smash (XC3)|Smash]]
+* [[Bolt Flinger]], Field / Armor Veil
+* [[Lightning Strike (XC3)|Lightning Strike]], High aggro / [[Blowdown (XC3)|Blowdown]]
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 15.png]] '''Stay Right There''': When taking damage, 10-20% chance to inflict Knockback on assailant.
+* [[File:XC3 Skill Icon 12.png]] '''Come an' Get Me!''':  When blocking, deals 100-200% of Attack damage to enemy, drawing aggro. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 0.png]] '''Now That's Tactics!''':  At start of Chain Attack, increase TP by 5-10. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 41.png]] '''Never Again!''':  Grants 10-20% chance to absorb attack dealt to allies within range.
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Come an' Get Me!
+!Now That's Tactics!
+!Never Again!
+!Stay Right There
+|-
+| 1
+| 100%, &lt;abbr title="Parameter associated to aggro effect (specifics unknown)&gt;5&lt;/abbr&gt;
+| 5
+| 10%
+| 10%
+|-
+| 5
+| 125%, &lt;abbr title="Parameter associated to aggro effect (specifics unknown)&gt;5&lt;/abbr&gt;
+| 6
+| 12%
+| 12%
+|-
+| 10
+| 150%, &lt;abbr title="Parameter associated to aggro effect (specifics unknown)&gt;7&lt;/abbr&gt;
+| 7
+| 14%
+| 15%
+|-
+| 15
+| 175%, &lt;abbr title="Parameter associated to aggro effect (specifics unknown)&gt;7&lt;/abbr&gt;
+| 8
+| 16%
+| 17%
+|-
+| 20
+| 200%, &lt;abbr title="Parameter associated to aggro effect (specifics unknown)&gt;10&lt;/abbr&gt;
+| 10
+| 20%
+| 20%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Monica Artwork.png|Monica, a Lost Vanguard
+Lost Vanguard Noah.png|Noah as a Lost Vanguard
+Lost Vanguard Mio.png|Mio as a Lost Vanguard
+Lost Vanguard Eunie.png|Eunie as a Lost Vanguard
+Lost Vanguard Taion.png|Taion as a Lost Vanguard
+Lost Vanguard Lanz.png|Lanz as a Lost Vanguard
+Lost Vanguard Sena.png|Sena as a Lost Vanguard
+&lt;/gallery&gt;
+{{xc3 stub}}
+[[Category:XC3 Classes]]</text>
+      <sha1>bhewicssv9d1dvgncatprgrf1exi3lq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lotus</title>
+    <ns>0</ns>
+    <id>122342</id>
+    <revision>
+      <id>597752</id>
+      <parentid>596089</parentid>
+      <timestamp>2023-07-02T16:28:02Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1423" sha1="1jwwx2cnk9vf1oei5extrcx1ct6u4xl" xml:space="preserve">{{Infobox_NPC
+|name        = Lotus
+|image       = XC3 Lotus Icon.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Agnus|Agnian]] human
+|age         = 4th Term
+|location    = [[Erythia Sea]] ([[Colony Mu]])
+}}
+'''Lotus''' is a NPC in {{XC3}}. Lotus is from [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Lotus
+|image        = 
+|caption      = Lotus
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =
+}} 
+'''Lotus''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is an [[Agnus Forces|Agnus Soldier]] who is fought at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>1jwwx2cnk9vf1oei5extrcx1ct6u4xl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lubon Quardun</title>
+    <ns>0</ns>
+    <id>123206</id>
+    <revision>
+      <id>564945</id>
+      <parentid>559791</parentid>
+      <timestamp>2022-11-07T05:50:31Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="30rmab45jv547vsm4uxu5y4py84cfyt" xml:space="preserve">{{Infobox Enemy
+|name         = Lubon Quardun
+|image        = 
+|caption      = Lubon Quardun
+|category     = Minor Enemy
+|type         = [[Quardun]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Lubon Quarduns''' are Minor Enemies in {{XC3}}. They are members of the [[Quardun]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Quarduns]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>30rmab45jv547vsm4uxu5y4py84cfyt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lubon Quarmu</title>
+    <ns>0</ns>
+    <id>123205</id>
+    <revision>
+      <id>564946</id>
+      <parentid>559792</parentid>
+      <timestamp>2022-11-07T05:50:48Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564946</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" sha1="eapbrong60h9onmldlwhfj15hs8ceg9" xml:space="preserve">{{Infobox Enemy
+|name         = Lubon Quarmu
+|image        = 
+|caption      = Lubon Quarmu
+|category     = Minor Enemy
+|type         = [[Quarmu]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Lubon Quarmus''' are Minor Enemies in {{XC3}}. They are members of the [[Quarmu]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Quarmus]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>eapbrong60h9onmldlwhfj15hs8ceg9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lucky Monster</title>
+    <ns>0</ns>
+    <id>117161</id>
+    <revision>
+      <id>562575</id>
+      <parentid>562379</parentid>
+      <timestamp>2022-10-25T18:44:31Z</timestamp>
+      <contributor>
+        <username>Ra&#250;l Retana</username>
+        <id>25714351</id>
+      </contributor>
+      <origin>562575</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="655" sha1="hvtyzhimict88nhbcnup0x4q9k92deu" xml:space="preserve">[[File:XC3 Lucky Enemy.jpeg|thumb|A Lucky Feris]]
+'''Lucky Monsters''' (Japanese: {{Lang|jp|&#12521;&#12483;&#12461;&#12540;&#12514;&#12531;&#12473;&#12479;&#12540;}}, ''rakk&#299;monsut&#257;'') are [[Enemy (XC3)|enemies]] in {{XC3}}. They are as strong as normal monsters, but provide better items upon defeat.
+[[File:XC3 Fairscale Marina.png|thumb|An example of a Lucky Unique Monster.]]
+[[Elite Monster|Elite]] and [[Unique Monster (XC3)|Unique Monsters]] can also be Lucky Monsters as well.
+
+The probability of encountering a Lucky Monster is affected by the Shiny Hunter Affinity Bonus, which increases the odds by 1-10%.
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Enemies]]
+[[Category:XC3 Lucky Monsters]]</text>
+      <sha1>hvtyzhimict88nhbcnup0x4q9k92deu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lucky Seven</title>
+    <ns>0</ns>
+    <id>121692</id>
+    <revision>
+      <id>597157</id>
+      <parentid>597126</parentid>
+      <timestamp>2023-06-23T16:43:17Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add FL7 to the list of arts</comment>
+      <origin>597157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11630" sha1="mlwq2k4mecgu0z80tyyjr6n1jon9d2w" xml:space="preserve">{{Spoiler}}
+{{Infobox Equipment
+|name     = Lucky Seven
+|image    = Lucky Seven.jpg
+}}
+'''Lucky Seven''', also known as '''Sword of The End''' and '''Sword of Origin''' is a special [[Blade (XC3)|Blade]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+It is a one-of-a-kind sword used by [[Noah]] that has the ability to cut through anything, and is one of the only things capable of destroying the [[Flame Clock]]s. The Blade's origins are tied directly to [[Aionios]] and [[Moebius]] itself.
+
+== Characteristics ==
+A katana-like weapon that was forged by [[Melia]], with "important people" residing inside the sword due to Origin metal's properties of retaining memories and souls. It was intended, alongside the [[Ouroboros Stone]]s, to act as a weapon against [[Consul]]s and [[Z]]. The blade's properties allow it to cut through almost anything without issue, and can destroy the very fabric of [[Z]]'s reality.   
+
+Melia entrusted the sword to [[Riku]], who told him to pass it on to someone worthy. Riku later passed the blade down to Noah, who stores it in his primary Blade Veiled Sword/Truthsinger and only unleashes its power when absolutely necessary. When unsheathed, Noah turns his primary Blade into a gauntlet that can be used to deflect enemy attacks. [[Matthew (FR)|Matthew]]'s gauntlets, the Fists of the End, are implied to be a prior form of the gauntlet that was eventually passed down, which when fully activated reveal that it is composed in part from [[Pneuma]]'s [[Core Crystal]]. [[N]] also has his own dark version of the Blade that he utilizes in a similar manner to Noah, with it being implied to be partially composed of [[Logos]]'s Core Crystal.  
+
+When wielded by an [[Ouroboros]] it takes the form of The Blade of Origin, a weapon that is said to be able to cut through reality itself due to the connection between Aionios's existence and Origin's use of souls.  
+
+== Story ==
+One day after training, Noah, [[Eunie]], [[Lanz]], and [[Joran]] went to see Riku after seeing that Noah appeared to have difficulties with his Blade, when in reality Noah was just hesitant to summon it. Riku offered him the Lucky Seven, a legendary sword crafted by seven Nopon. Noah was initially hesitant to accept it, but Riku convinced him to take it and use it whenever he truly needs it.
+
+During the party's fight against Consul [[K]], K continuously heals his damage using [[Colony 4]]'s Flame Clock. In order to prevent this, Noah and [[Mio]] [[Interlink]] and jump toward the [[Ferronis]]'s Flame Clock. As they get close to the Flame Clock, Noah releases the Interlink and proceeds to unleash Lucky Seven and use it to slice the Flame Clock in half, liberating Colony 4 from the war between [[Keves]] and [[Agnus]]. As the party travels more across Aionios, Noah uses Lucky Seven to cut the other [[Colony|colonies]]' Flame Clocks to liberate them from the war.
+
+After vowing not to take the same path as N and discovering that [[M]] sacrificed herself to save Mio, Noah is able to use Ouroboros to turn the Lucky Seven into The Blade of Origin. 
+
+Just before Origin is restarted, Noah decides to throw the Lucky Seven and his Veiled Sword into the sea, beginning the reconstruction of the worlds.
+
+== Gameplay ==
+After Noah cuts Colony 4's Flame Clock, he unlocks the [[Infinity Blade (XC3)|Infinity Blade]] [[Battle Arts (XC3)|Talent Art]], which can be used only by Noah regardless of his current [[Class (XC3)|class]]. This art involves Noah using Lucky Seven to perform a powerful slash on enemies in front of him.
+
+During the fight against the [[Queen of Agnus (boss)|Queen of Agnus]], Noah unlocks the Talent Art [[Unlimited Sword]], which can be used by Noah regardless of class. Upon using Unlimited Sword, Noah unsheathes Lucky Seven, giving him access to a special set of arts for 90 seconds. His Talent Art becomes [[Final Lucky Seven]], a powerful AOE art that performs an entire [[Smash (XC3)|Smash]] [[Combo]] on enemies. Initially, Noah has access to five unique arts with Lucky Seven; after defeating N in the [[Eternal Prison]] in the [[Origin Interior]], a sixth art, [[Harmonic Wave]], is unlocked. Depending on the [[Role]] of Noah's current class, all of his regular Lucky Seven arts (except [[Gravity Blow]] and [[Dimension Ripper]]) will have different effects. While Unlimited Sword is active, if Noah's [[Role]] is set to [[Attacker]], all attacks - both auto-attacks and Arts - have a chance of inflicting [[Doom (XC3)|Doom]] on any enemy except Unique monsters and bosses. 
+
+Additionally, when Noah is under the effects of Unlimited Sword, controlling his Ouroboros will grant access to the unique Talent art, [[Origin Blade]], a powerful AOE multi-hit attack that lowers all enemies' stats upon the final hit. It can also be used without having to use Unlimited Sword during a level 3 Interlink - the Talent Art changes from [[Mega Spinning Edge]] to Origin Blade in the very last gauge bar of the Interlink before it overheats.
+
+If the [[Archsage's Gauntlet]] is tackled with the difficulty set to Hard, Noah will be unable to use Lucky Seven arts, which includes Infinity Blade and Unlimited Sword, unless the [[Lucky Seven License]] is obtained.
+
+=== Class Stats ===
+When under Unlimited Sword, Noah will assume one of three special classes, depending on the role he has when starting the stance. The class he enters matches his initial role, so for example he will assume the Defender special class if he used the Art as a Defender.
+
+Each of these special classes has its own set of multipliers, which multiply Noah's base stats and set his Physical and Ether Defense. Internally, each class is programmed with 20 Ranks just as with other classes, however, there are no stat differences between Ranks, and Noah cannot advance beyond Rank 1 in any of these classes (any CP gains are awarded to his original class).
+
+{| class="xc1 centered" width="100%"
+! Role !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+|[[File:XC3 Attacker Role Icon.png|20px|center]][[Attacker]] || 90% || 140% || 50% || 150% || 100% || 30% || 30%
+|-
+|[[File:XC3 Defender Role Icon.png|20px|center]]{{Link noparens|Defender (XC3)}} || 120% || 100% || 50% || 150% || 140% || 60% || 60%
+|-
+|[[File:XC3 Healer Role Icon.png|20px|center]][[Healer]] || 80% || 90% || 150% || 150% || 100% || 20% || 40%
+|}
+=== Weapon Stats ===
+Noah's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on his [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine his Critical Rate and Block Rate while using Lucky Seven.
+
+The weapon stats are the same irrespective of the role Noah is employing.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 22 || 50% || 50%
+|-
+| 10 || 49 || 50% || 50%
+|-
+| 20 || 88 || 50% || 50%
+|-
+| 30 || 136 || 50% || 50%
+|-
+| 40 || 190 || 50% || 50%
+|-
+| 50 || 253 || 50% || 50%
+|-
+| 60 || 323 || 50% || 50%
+|-
+| 70 || 400 || 50% || 50%
+|-
+| 80 || 488 || 50% || 50%
+|-
+| 90 || 587 || 50% || 50%
+|-
+| 99 || 686 || 50% || 50%
+|}
+=== Arts ===
+{| class="xc1 sortable" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 250px;" |Arts
+! scope="col" style="width: 250px;" |Attacker Effect
+! scope="col" style="width: 250px;" |Defender Effect
+! scope="col" style="width: 250px;" |Healer Effect
+|-
+| [[Final Lucky Seven]] ([[Talent Art]])
+| AOE/[[Smash (XC3)|Smash]] cmb./Pierce
+| AOE/[[Smash (XC3)|Smash]] cmb./Pierce
+| AOE/[[Smash (XC3)|Smash]] cmb./Pierce
+|-
+| [[Gravity Blow]]
+| AOE/[[Launch (XC3)|Launch]]/Smash
+| AOE/[[Launch (XC3)|Launch]]/Smash
+| AOE/[[Launch (XC3)|Launch]]/Smash
+|-
+| [[Dimension Ripper]]
+| AOE / KO wounded
+| AOE / KO wounded
+| AOE / KO wounded
+|-
+| [[Tachyon Slash]]
+| AOE / Front attack &#8593;
+| AOE / High aggro
+| AOE / Area heal on hit
+|-
+| [[Power Raiser]]
+| AOE/1 random buff
+| AOE/Temp. invincibility
+| Field / Regenerate
+|-
+| [[Night Breaker (XC3)|Night Breaker]]
+| AOE/1 random debuff
+| AOE/Trg. Lock/Atk down
+| AOE/Acc. down/Atk down
+|-
+| [[Harmonic Wave]]
+| AOE/Pierce/Wounded&#8593;
+| AOE/Pierce/High aggro
+| AOE/Pierce/Area heal on hit
+|}
+
+=== Skills ===
+Internally, Noah is considered to be in a separate class during the time Unlimited Sword is active. This class and its associated skills depend on the role Noah originally has, and do not scale with Noah's level or rank within his original class.&lt;ref&gt;https://docs.google.com/document/d/1jk31xdLvfPrOjoQtGr-6PRH_4Cd2B_k_dFGSS6vSJ1g Postgame Combat document containing mechanics on Lucky Seven&lt;/ref&gt;
+
+&lt;!-- I did not find an internal name for these skills, and some effects do not have internal descriptions; the combat document cited gives skill names that may be unofficial, and thus I have omitted these names for now. For their descriptions, I worded them to be as similar to XC3 menu wording as possible -MagmaHound --&gt;
+{| class="xc1" style="" cellspacing="1" cellpadding="1" border="0"
+! scope="col" style="width: 80px;" |Role
+! scope="col" style="width: 500px;" |Skills
+|-
+|rowspan="4" style="text-align:center;"|[[File:XC3 Attacker Role Icon.png|40px|center]][[Attacker]]
+|When landing a hit, adds two 3% chances to inflict [[Doom (XC3)|Doom]] on an enemy (excluding bosses/uniques).
+|-
+|Boosts damage dealt by 10% and Critical Rate by 6% on critical hit (up to a maximum of 200% for both).
+|-
+|On critical hit, recharge Art used by 20%.
+|-
+|Reduces aggro generated from attacks by 40%.
+|-
+|rowspan="4" style="text-align:center;"|[[File:XC3 Defender Role Icon.png|40px|center]]{{Link noparens|Defender (XC3)}}
+|Boosts evasion by 2% when you take damage (up to a maximum of 50%).
+|-
+|Deals 200% of Attack damage when you evade an attack.
+|-
+|Reduces damage taken by allies in a fixed radius by 30%.
+|-
+|Accrues Aggro every second and increases aggro generated by 30%.
+|-
+|rowspan="4" style="text-align:center;"|[[File:XC3 Healer Role Icon.png|40px|center]] [[Healer]]
+|Boosts damage by 10% upon healing an ally (up to a maximum of 100%).
+|-
+|Deal 100% more damage and take 25% less damage when an ally is down/has low HP.
+|-
+|Grants [[Invincible (XC3)|Invincible]] to revived allies.
+|-
+|Reduces aggro generated from attacks by 40%.
+|}
+
+== Etymology ==
+Lucky 7 refers to seven being typically portrayed as a lucky and/or holy number, especially in Christianity and in Japanese culture. It is also closely associated with gambling, as combinations of sevens often yield the highest profit possible from a spin/round.
+
+== Trivia ==
+* When fighting against [[Keves]]i or [[Agnus|Agnian]] soldiers, if Noah unsheathes Lucky Seven, he will fight using the blunt side of the sword instead of the blade side. This is due to Noah not wanting to kill anyone else from Keves and Agnus. 
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Noah Artwork.png|Noah with Lucky Seven sheathed
+Weapon Concept 1.png|Concept Art of Noah's Blade and Lucky Seven
+Weapon Concept 3.png|Concept Art of Lucky Seven
+Weapon Concept 4.png|Concept Art of N's weapon and the Sword of the End
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+The Sword Of Origin.jpg|The Sword of Origin, Lucky Seven's form when wielded by Noah's Ouroboros
+XC3 Unlimited Sword.jpg|Unlimited Sword
+&lt;/gallery&gt;
+
+[[es:Siete de la Suerte]]
+
+[[Category:XC3 Weapons]]
+[[Category:XC3 Plot]]
+[[Category:XC3 Objects]]
+[[Category:XC3FR Weapons]]
+[[Category:XC3FR Plot]]
+[[Category:XC3FR Objects]]
+[[Category:XC3FR Points of Interest]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>mlwq2k4mecgu0z80tyyjr6n1jon9d2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lucky Seven License</title>
+    <ns>0</ns>
+    <id>125637</id>
+    <revision>
+      <id>581085</id>
+      <parentid>577262</parentid>
+      <timestamp>2023-03-31T16:15:18Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Infinity Blade is also unlocked with this</comment>
+      <origin>581085</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="658" sha1="gvc848quymh3ygrx7i0wohxx5pv551z" xml:space="preserve">{{Infobox item
+|name      = Noponic Gold
+|image     = XC3 key item.png
+|caption   = "Unlocks Lucky Seven in the Archsage's Gauntlet Hard mode."
+|type      = Key Item
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = N/A
+}}
+The '''Lucky Seven License''' is a DLC [[Key Item]] in {{XC3}}. It can be bought from the  [[Prize X-change Blue]] for 60,000 blue [[Noponstone]]. It allows [[Noah]] to use [[Infinity Blade (XC3)|Infinity Blade]] and [[Unlimited Sword]] as his Talent Art on the hard [[Difficulty Levels|difficulty]] during the [[Archsage's Gauntlet]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Key Items]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>gvc848quymh3ygrx7i0wohxx5pv551z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Luina Volff</title>
+    <ns>0</ns>
+    <id>123973</id>
+    <revision>
+      <id>578492</id>
+      <parentid>559270</parentid>
+      <timestamp>2023-03-04T18:30:28Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578492</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1018" sha1="0fv9qpqwh27973uekkf9ur9m9l4n14n" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Luina Volff
+|image        = 
+|caption      = Luina Volff
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Volff]]
+|level        = 33
+|area         = [[High Maktha Wildwood]]
+|spawntime    = During ''[[Off-Seeing Customs]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Luina Volffs''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Volff]] family, and five are fought at level 33 in [[High Maktha Wildwood]] during ''[[Off-Seeing Customs]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0fv9qpqwh27973uekkf9ur9m9l4n14n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Luminous Memory</title>
+    <ns>0</ns>
+    <id>118979</id>
+    <revision>
+      <id>566822</id>
+      <parentid>566820</parentid>
+      <timestamp>2022-11-23T04:52:36Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="929" sha1="f1jc2wu5bttmtpu7rpucl955taeog97" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Luminous Memory
+|image     = File:XC3 Accessory Cap.png
+|caption   = Extends stance duration by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Luminous Memory
+|image     = File:XC3 Accessory Cap.png
+|caption   = Extends stance duration by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Luminous Memory
+|image     = File:XC3 Accessory Cap.png
+|caption   = Extends stance duration by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Luminous Memories''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>f1jc2wu5bttmtpu7rpucl955taeog97</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lun Scorpox (XC3)</title>
+    <ns>0</ns>
+    <id>121071</id>
+    <revision>
+      <id>590050</id>
+      <parentid>582709</parentid>
+      <timestamp>2023-05-07T19:54:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>590050</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1799" sha1="aeod99sv1lc8xnd2dmfnadyxt0mbwbd" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Lun Scorpox (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Lun Scorpox
+|image        = LunScorpexXC3.jpg
+|caption      = Lun Scorpox
+|category     = Normal Minor Enemy
+|type         = [[Scorpox]]
+|level        = 24-25
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Raptor Perch]]) 
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Lun Scorpoxes''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Scorpox]] family and can be found at level 24-25 on [[Raptor Perch]] in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+
+== Drops ==
+* [[Armored Scorpox Pincer]]
+* [[Scorpox Exoskeleton]]
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Lun Scorpox
+|image        = LunScorpexXC3.jpg
+|caption      = Lun Scorpox
+|category     = Normal Minor Enemy
+|type         = [[Scorpox]]
+|level        = 40
+|area         = [[The Ragmos Desolation]] ([[Gelgemos Garrison]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Lun Scorpoxes''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Scorpox]] family and can be found at level 40 around the [[Gelgemos Garrison]] at [[The Ragmos Desolation]].
+{{clr}}
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3FR Scorpoxes]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>aeod99sv1lc8xnd2dmfnadyxt0mbwbd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lunae Rings</title>
+    <ns>0</ns>
+    <id>122570</id>
+    <revision>
+      <id>566823</id>
+      <parentid>556994</parentid>
+      <timestamp>2022-11-23T04:52:52Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="p9p58rw5jprrr4ysuk9vyezsyeuviid" xml:space="preserve">{{Infobox item
+|name      = Lunae Rings
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts damage dealt by Fusion Arts by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Container#Legacy of the Seven|Legacy of the Seven]] on [[Corne Island]]
+|sell      = N/A
+}}
+'''Lunae Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>p9p58rw5jprrr4ysuk9vyezsyeuviid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lustrous Armring</title>
+    <ns>0</ns>
+    <id>122880</id>
+    <revision>
+      <id>592813</id>
+      <parentid>592353</parentid>
+      <timestamp>2023-05-15T20:17:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592813</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1063" sha1="2dckrucyyhytfjheph7q9zkggmu1lmu" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Lustrous Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 30% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 14,180 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Lustrous Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 32% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 14,180 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Lustrous Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 35% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 14,180 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Lustrous Armrings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>2dckrucyyhytfjheph7q9zkggmu1lmu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>M</title>
+    <ns>0</ns>
+    <id>118610</id>
+    <revision>
+      <id>603479</id>
+      <parentid>603478</parentid>
+      <timestamp>2023-07-27T00:50:44Z</timestamp>
+      <contributor>
+        <username>Xolimpha</username>
+        <id>30499430</id>
+      </contributor>
+      <minor/>
+      <origin>603479</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11717" sha1="pwtwa37iq2djovbdmjplls60335vqa4" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = M
+|image         = XC3 M.png
+|species       = [[Agnus|Agnian]] human (formerly)&lt;br/&gt;[[Moebius]]
+|aliases       = [[Mio]] (originally)
+|age           = 
+|gender        = Female
+|haircolor     = White
+|eyecolor      = Gold
+|affiliation   = [[Lost Numbers]] (formerly)&lt;br/&gt;[[Consul]]s
+|appearances   = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+|voiceactorjp  = [[wikipedia:Minami_Tsuda|Minami Tsuda]]
+|voiceactoreng = [[wikipedia:Aimee-Ffion Edwards|Aimee-Ffion Edwards]]
+}}
+{{quote|You embody all our hopes... Our dreams of how this world should be. Even though you and your friends should never have existed, the fact you are here is proof enough.|M}}
+'''M''' (Japanese: {{Lang|jp|&#12456;&#12512;}}, ''Emu'') is a character in {{XC3}}.
+
+== Overview ==
+M is a previous incarnation of [[Mio]], resurrected as a [[Moebius]] by [[N]] in his attempt to be with her for eternity. Unlike the other Consuls, she is horrified by what she was turned into and is disgusted by her need to drain the life force of other living beings to survive. Similarly to N, she became a manifestation of her regrets in her mortal life while her hopes and ideals reincarnated as Mio. Her Moebius ability is Eclipse Soul, allowing her to temporarily override or swap souls with other people.
+
+== Personality ==
+While she still loves the man that N used to be, M cannot forgive him for what he did to her and hates what he has become; despite this, N assumes that she is happy with her current existence in spite of all the evidence to the contrary. She wishes to die, partly to escape from N's control and partly because she believes that her death would be the only way to force N to confront how his wish to stay with her forever had only made her miserable and return to being the kind man that he used to be. 
+
+== Appearance ==
+Like Mio, M has gold eyes and long white hair as well as the [[Gormotti]]'s trademark feline ears. She wears a black and gray variation of the standard Consul armor with red lines across the armor, and a [[Flesh Eater]] [[Core Crystal]] in her chest. Her mask, similar to N's, covers her eyes, as opposed to being a full helmet like the other Consuls. The weapon M uses seems to be a purple and darker version of [[Mio]]'s [[Blade (XC3)|Dual Moonblades]].
+
+== Story ==
+[[File:Miobaby.PNG|thumb|210px|left|Mio with her baby]]
+M started off as one of countless incarnations of Mio, and was a [[Lost Numbers]] soldier alongside [[Noah]]. At some point, she gave birth to their son, [[Ghondor (FR)|Ghondor]]. She is later seen on her deathbed, where Noah and their son comfort her as she passes. Later, Noah himself passes away too, afterwards meeting with [[Z]] in the [[Amphitheater]], who gives Noah the option to become a Moebius alongside Mio, in exchange for working for him. Noah takes the deal, becoming N, and Mio is resurrected as M, at the cost of the life force from all the people of the old [[City]] (and her son's death due to [[Alpha]]'s machinations). As she returns to life, she is horrified by the measures he has taken to stay with her and realizes that he is no longer the Noah she once loved.   
+
+Some point after being reborn as a Moebius, M was overlooking a cliff when [[Nia]] appears and tells her that even throwing herself off a cliff would not be enough to kill her new Moebius form. Nia then gives her the key to the [[Cloudkeep]], the location of where she will be in stasis, and tells her that she should give it to those who will need at some point in the future. At some point in time, she gave the key to [[Ghondor]] in the [[Eagus Wilderness]], believing her to come in contact with the [[Ouroboros]] at some point in the future.
+
+M is first seen alongside N, after [[D]]'s first encounter with the party. She's later mentioned in the story by [[X]], who says that she is the only person who can understand what is going on in N's head, but that she has been absent to meetings as of late. She next appears in the [[Throne Room (XC3)|Throne Room]], where N was frustrated that he was unable to control fate during his encounter with the party, but hopes to regain control of it again. M enters the room, asking what he would do if he did, to which N replies that he would give himself and M "equilibrium", an eternity together with M.
+
+[[File:M's Eclipse soul.gif|thumb|210px|M using Eclipse Soul]]
+She appears alongside N in [[Agnus Castle Barbican]] to fight the party. When she stared at Mio, it gave the latter something akin to a headache. She unmasks herself, revealing herself to have a face identical to Mio, causing the party to be horrified. After the party beats the [[Levnis]]es, N and M approach the party, about to fight. But before N can attack, M declares that she wishes to handle the battle on her own, to which the surprised N obliges. M developed the ability to control and possess the bodies of others, which she uses to swap bodies with Mio. During this moment, M told Mio her plan via telepathy to stop N to which Mio agreed to help with. Noah asked M who she and N were, unaware that Mio was possessing her body. M replied that if they can beat them in combat, she will tell them why they are on the side of Moebius. The party obliges to engage her in combat. 
+
+After beating her first phase, the Mio in M's body uses her Moebius ability to force Noah to attack [[Taion]], shortly afterwards using Mio's body to attack Noah. This forces the party to be wary of themselves, but quickly deduce that M cannot move while using her ability. Despite this, the party can't reach her, and continue to fight amongst themselves as a result of her ability. Since they don't have a reliable method of detecting who is being controlled, Taion comes up with the idea to use his Mondo to act as a sensor for who was being controlled. It detects that it was Noah, and it hit him, and Taion noticed that M's body is also damaged if one of her host bodies is as well. With this newfound knowledge, the party engages her for a second time. After she is beaten, N engages the party in her stead. Mio watches from the M's body as N beats the party, while M engages in combat with N from Mio's body. Before N cut the party down, he came up with the idea of forcing the party to watch [[Mio]] go through her [[Homecoming Ceremony]], and promptly locks the party up in the [[Agnus Castle]] [[Ivory Gaol|jail]].
+
+[[File:M in cell in mio inception.PNG|thumb|210px|left|M in her cell]]
+As Noah attempted to force the iron bars of his cell open, M calls out to Noah from her cell, wishing for him to stop, claiming she is content that she will live on in others. However, seeing the party try so hard to escape and save Mio, M slowly regained the will to live, and wished to spend time with "her Noah". Meanwhile in the City, Mio meets with Ghondor and [[Monica Vandham|Monica]] to warn them about the Castle's [[Annihilator]] and the betrayal of [[Shania]].
+
+[[File:M death.PNG|thumb|210px|M dying in Mio's body]]
+When the day of the Homecoming Ceremony arrived, Mio can be seen next to N on the podium. M is brought to the podium in chains as the party screams out for her. However, they can do nothing as Mio's body deteriorates into nothing. As N tries to execute Noah, Mio takes control from his body, which would kill herself if Noah was killed, forcing N to stop. Mio then reveals that she was in M's body since the battle outside of Agnus Castle, that M was the one to die in her own body, causing N to completely lose his sanity. Thanks to Mio, the City was moved to avoid the Annihilator after X fired it after the [[Queen of Agnus]] was destroyed. Mio later revealed that M's soul merged with her, granting her access to M's knowledge, emotions, and memories, including the location of the true Queen of Agnus and the key needed to access it.
+
+M reappears alongside N in spirit form at the conclusion of the final battle with [[Z&#8734;]], sacrificing herself with N to destroy Z for good and entrusting Noah and his allies with the future they could not protect. 
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius M
+|image        = XC3 Moebius M battle.png
+|caption      = Moebius M
+|type         = [[Consul (enemy)|Consul]]
+
+|tab1         = 1st
+|category     = [[Boss (XC3)|Boss]]
+|movement     = Ground
+|level        = 49
+|area         = [[Agnus Castle Barbican]]
+|spawntime    = Story
+|respawn      = No
+|exp          = 0
+|cp           = 0
+|sp           = 0
+|gold         = 0
+|hp           = 704,900
+|strength     = 676
+|healing      = 314
+|dexterity    = 215
+|agility      = 210
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 5%
+|guardrate    = 0%
+
+|tab2         = 2nd
+|category2    = [[Boss (XC3)|Boss]]
+|movement2    = Ground
+|level2       = 49
+|area2        = [[Agnus Castle Barbican]]
+|spawntime2   = Story
+|respawn2     = No
+|exp2         = 3,040
+|cp2          = 400
+|sp2          = 0 
+|gold2        = 0
+|hp2          = 1,158,050
+|strength2    = 839
+|healing2     = 314
+|dexterity2   = 215
+|agility2     = 210
+|physdef2     = 0%
+|ethdef2      = 30%
+|critrate2    = 5%
+|guardrate2   = 0%
+}}
+'''Moebius M''' is a [[Boss (XC3)|Boss]]. She is a [[Consul (enemy)|Consul]] and is fought twice at level 49 in the [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+
+=== Notes ===
+In phase 2, M can take control of a party member using Eclipse Soul. Damage dealt to this party member will transfer to M, and the damage will be multiplied x100.&lt;ref&gt;https://twitter.com/pyroburn235/status/1590934603686023168&lt;/ref&gt;
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius M
+|image        = XC3 Moebius M DLC battle.jpg
+|caption      = Moebius M
+|type         = [[Consul (enemy)|Consul]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 100
+|detection    = 
+|spawntime    = During ''[[N and M]]''
+|respawn      = No
+|exp          = 9,984
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 10,294,400
+|strength     = 1,652
+|healing      = 617
+|dexterity    = 467
+|agility      = 462
+|physdef      = 0%
+|ethdef       = 40%
+|critrate     = 40%
+|guardrate    = 0%
+}}
+Moebius M is fought at level 100 alongside [[N]] during the [[Challenge Battle Mode|Challenge Battle]] ''[[N and M]]''.
+{{clr}}
+
+== Trivia == 
+* M is the only playable Moebius in {{XC3|-}} as she, in Mio's body, can be controlled during both of the boss fights with M. Moreover, due to being confined in [[Li Garte Prison Camp]] during the final part of ''[[Chapter 5 (XC3)|Chapter 5]]'', M cannot be controlled anywhere except Li Garte Prison Camp and the "Moebius M" boss. As such, she cannot partake in any side quests in place of Mio.
+{{clr}}
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Consul M Concept Art.png|Official Art of M
+XC3 M Concept Art.png|M's Concept Art
+Weapon Concept 3.png|Concept art for M's Dual Moonblades
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Consul M.png|M without her mask
+M with mask.jpg|M with her mask
+M Mask XC3.png|M meeting Ghondor
+&lt;/gallery&gt; 
+
+{{clr}}
+==References==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Consul Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]</text>
+      <sha1>pwtwa37iq2djovbdmjplls60335vqa4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mabluk Aspar (XC3)</title>
+    <ns>0</ns>
+    <id>117476</id>
+    <revision>
+      <id>559794</id>
+      <parentid>530311</parentid>
+      <timestamp>2022-09-30T10:52:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="723" sha1="0911tgk6draiawbd38ij58y24dub3j7" xml:space="preserve">{{for|the enemy from {{XC2}}|Mabluk Aspar (XC2)}}
+{{Infobox Enemy
+|name         = Mabluk Aspar
+|image        = 
+|caption      = Mabluk Aspar
+|category     = Normal Enemy
+|type         = [[Aspar]]
+|level        = 23
+|area         =  
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Mabluk Aspars''' are enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level 23.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>0911tgk6draiawbd38ij58y24dub3j7</sha1>
+    </revision>
+  </page>
+  </mediawiki>

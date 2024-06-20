@@ -1,0 +1,6 @@
+Skill Name: First Move Wins 
+
+Class: Flash Fencer
+
+Skill Buff or Effect:  Boosts damage dealt by 50% for the first 30 seconds of battle.
+

@@ -1,0 +1,6 @@
+Art Name: Shield Wall
+
+Class: Lost Vanguard
+
+Effect: Block/Heal/Ether anchor
+

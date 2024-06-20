@@ -1,0 +1,1503 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Strong Foot Wraps</title>
+    <ns>0</ns>
+    <id>119015</id>
+    <revision>
+      <id>592877</id>
+      <parentid>592372</parentid>
+      <timestamp>2023-05-15T20:19:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1000" sha1="jw05uy0rubv0g6p3flsb3szka2guo09" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Strong Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Strong Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Strong Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Strong Foot Wraps''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>jw05uy0rubv0g6p3flsb3szka2guo09</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strung Amber</title>
+    <ns>0</ns>
+    <id>119016</id>
+    <revision>
+      <id>566908</id>
+      <parentid>551243</parentid>
+      <timestamp>2022-11-23T11:04:27Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566908</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="994" sha1="3tccp5u554wute1tz40bx90eue3itc2" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Strung Amber
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3660 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Strung Amber
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3660 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Strung Amber
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3660 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Strung Ambers''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>3tccp5u554wute1tz40bx90eue3itc2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strung Jade</title>
+    <ns>0</ns>
+    <id>122863</id>
+    <revision>
+      <id>566909</id>
+      <parentid>551708</parentid>
+      <timestamp>2022-11-23T11:05:18Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566909</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="990" sha1="4yhvf0wj39qorxmb8z1zuy1110xsm8q" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Strung Jade
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Strung Jade
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Strung Jade
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 85%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Strung Jades''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>4yhvf0wj39qorxmb8z1zuy1110xsm8q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strung Lapis Lazuli</title>
+    <ns>0</ns>
+    <id>122864</id>
+    <revision>
+      <id>566910</id>
+      <parentid>551709</parentid>
+      <timestamp>2022-11-23T11:05:57Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="q21qtmsc7tpg8e9vjfy349kd5cn89gq" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Strung Lapis Lazuli
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Strung Lapis Lazuli
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 105%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Strung Lapis Lazuli
+|image     = File:XC3 Accessory Belt.png
+|caption   = Boosts damage dealt when attacking dazed enemies by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Strung Lapis Lazulis''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>q21qtmsc7tpg8e9vjfy349kd5cn89gq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sturdy Anklets</title>
+    <ns>0</ns>
+    <id>119040</id>
+    <revision>
+      <id>592878</id>
+      <parentid>592310</parentid>
+      <timestamp>2023-05-15T20:19:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592878</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1030" sha1="hxkvy6wbzgd9hl9mwa11e08ff73oh26" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Sturdy Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Reduces damage taken by 10% while performing Art.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Sturdy Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Reduces damage taken by 12% while performing Art.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Sturdy Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Reduces damage taken by 15% while performing Art.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Sturdy Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>hxkvy6wbzgd9hl9mwa11e08ff73oh26</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Submit Gogol</title>
+    <ns>0</ns>
+    <id>121096</id>
+    <revision>
+      <id>559969</id>
+      <parentid>545423</parentid>
+      <timestamp>2022-09-30T10:58:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559969</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="hvezuqnwtwmtqsfkwbkobhbl3dftl9l" xml:space="preserve">{{Infobox Enemy
+|name         = Submit Gogol
+|image        = 
+|caption      = Submit Gogol
+|category     = Minor Enemy
+|type         = [[Gogol]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Submit Gogols''' are Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>hvezuqnwtwmtqsfkwbkobhbl3dftl9l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sundappled Floria</title>
+    <ns>0</ns>
+    <id>118868</id>
+    <revision>
+      <id>574700</id>
+      <parentid>562230</parentid>
+      <timestamp>2023-01-30T06:05:24Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574700</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1346" sha1="i9yar2yx90la7stjr9htda5mbcmfn0s" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Sundappled Floria
+|image        = XC3 Sundappled Floria.png
+|caption      = Sundappled Floria
+|type         = [[Garaffa]]
+|level        = 71
+|area         = [[Great Sword's Base]] ([[N'ohm Wetlands]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,804
+|cp           = 137
+|sp           = 5
+|gold         = 1,430
+|hp           = 3,549,200
+|strength     = 1,692
+|healing      = 8,010
+|dexterity    = 233
+|agility      = 267
+|physdef      = -10%
+|ethdef       = 30%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Sundappled Floria''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Garaffa]] family, and can be found at level 71 at [[N'ohm Wetlands]] in [[Great Sword's Base]]. The [[Electric Skin]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|knockback = 75%
+|blowdown = 75%
+|physdebuff = 50%
+|etherdebuff = 85%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Sundappled floria location.png
+Sundappled floria.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Garaffas]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>i9yar2yx90la7stjr9htda5mbcmfn0s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sunlight Choker (XC3)</title>
+    <ns>0</ns>
+    <id>122860</id>
+    <revision>
+      <id>592879</id>
+      <parentid>592544</parentid>
+      <timestamp>2023-05-15T20:19:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1065" sha1="fhhgqtgvhpc9fsg3b1d93615cxcxhh7" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Sunlight Choker (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Sunlight Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Sunlight Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 42%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Sunlight Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 45%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Sunlight Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>fhhgqtgvhpc9fsg3b1d93615cxcxhh7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sunny's Sampler Set</title>
+    <ns>0</ns>
+    <id>124282</id>
+    <revision>
+      <id>595720</id>
+      <parentid>582361</parentid>
+      <timestamp>2023-06-16T11:33:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595720</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="601" sha1="19de4dbj3bq9qdygqwza0yfvqe7j9dl" xml:space="preserve">{{Infobox item
+|name      = Sunny's Sampler Set
+|image     = XC3 key item.png
+|caption   = "An array of stuff Sunny gave you for upgrading the HD Ether Cylinder+."
+|type      = Key Item
+|xc3rarity = Common
+|source    = ''[[Going Full HD]]''
+|sell      = N/A
+}}
+'''Sunny's Sampler Set''' is a DLC [[Key Item]] in {{XC3}}. It can be obtained from [[Sunny]] during the DLC [[Quest (XC3)|Quest]] ''[[Going Full HD]]''. It can be given to [[Totoma]] to upgrade the [[HD Ether Cylinder+]] to Ver. 2.0.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Key Items]]
+[[Category:XC3 Quest Items]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>19de4dbj3bq9qdygqwza0yfvqe7j9dl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Superboss</title>
+    <ns>0</ns>
+    <id>3079</id>
+    <revision>
+      <id>599961</id>
+      <parentid>597505</parentid>
+      <timestamp>2023-07-18T20:29:37Z</timestamp>
+      <contributor>
+        <username>Teengohanrocks</username>
+        <id>9415978</id>
+      </contributor>
+      <minor/>
+      <comment>/* Notes */</comment>
+      <origin>599961</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21439" sha1="216d7p0g57ltzso5h2qyo0z2pffadrz" xml:space="preserve">{{Spoiler}}
+[[File:Avalanche Abaasy 2.png|thumb|300px|Avalanche Abaasy, the strongest enemy in {{XC|-}}]]
+'''Superbosses''' are Unique Monsters or Tyrant enemies in the {{XC|serieslink}} that typically appear at or above the player level cap, or are unlocked during the final chapter of their respective game.
+
+== {{XC|-}} ==
+{{XC}} has five Superbosses, all of them are [[Unique Monster (XC1)|Unique Monsters]] above level 99. With the exception of [[Final Marcus]], these Unique Monsters will always be red-tagged regardless of the party's level. The red tags apply [[Level_(XC1)#Red:_Danger|significant penalties]] to the party in battle. These level 100+ Unique Monsters also have several special abilities. These may include, but are not limited to:
+* Resistance to [[Aura Seal]], etc.
+* [[Damage (XC1)|Damage]] resistance
+* [[Topple (XC1)|Topple]] counter mechanism, such as topple damage spike or topple time reduced
+* Immunity to [[Daze (XC1)|Daze]], [[Sleep (XC1)|Sleep]], [[Arts Seal]], [[Strength Down (debuff)|Strength Down]], etc.
+* Unusually high attack power (however, physical art power multipliers are generally lower than normal)
+* Extremely strong damage/debuff [[Spike (status)|spike]]
+* Level X (10) talent arts
+* Activation of [[Crazed]] or [[Awakening (XC1)|Awakening]] [[Aura (XC1)|Aura]], or both when [[Hit Points (XC1)|HP]] is low
+
+These Unique Monsters appear after the events of [[Mechonis Core]] or during Chapter 17 in {{XCDE|sublink}}, except for [[Final Marcus]], which appears starting on the first visit of [[Valak Mountain]]. All of the Superbosses in {{XC|-}} can drop any part of the [[Glory Armour|Glory]] [[Armour]] set; they also all drop the rare material [[Veritas Glyph]], needed to obtain a [[Love Source (XC1)|Love Source]]. {{XCFC|sublink}} has no superbosses, with the [[Prosecutor Davrum|highest-level enemy]] being level 80.
+
+=== Superbosses ===
+# '''[[Final Marcus]]''' can be found at level 100 at [[Three Sage Summit]] in Valak Mountain at night. It deals close-range Spike damage and can double attack very frequently. It is the only Superboss that can be afflicted with Daze.
+# '''[[Ancient Daedala]]''' can be found at level 105 to the east of the [[Wreckage Beach]] landmark on the [[Fallen Arm]]. It can detect targets at a very long range in all directions. It fires a powerful laser at the party on sight. It deals ranged Spike damage. It is also the only source of [[Heat Sink]] cylinders and level 5 [[Night Vision (XC1)|Night Vision]] cylinders. Of the five Superbosses, it is the only Mechon.
+# '''[[Despotic Arsene]]''' can be found at level 108 north of the [[Glowing Obelisk]] landmark in [[Satorl Marsh]]. It can continually cast [[Haste]] on itself to increase its auto-attack speed. It is the only source of [[Critical Up (XC1)|Critical Up]] crystals.
+# '''[[Blizzard Belgazas]]''' can be found at level 114 at the very end of Valak Mountain, at the [[Great Glacier]], east of the [[Bionis' Wrist]] landmark. It has a large Topple damage Spike. In addition, many of its arts receive massive buffs during a blizzard. It is the only source of [[AP Up]] and [[Talent Boost]] crystals.
+# '''[[Avalanche Abaasy]]''' can be found at level 120 at Three Sage Summit in Valak Mountain at night during a blizzard. It has an [[Instant Death]] counter Spike and can frequently double attack. It is the only source of level 5 [[Daze Up]] crystals.
+
+=== Notes ===
+* In {{XCDE|sublink}}, the [[Time Attack]] challenge ''[[Uniquely Disadvantaged]]'' involves fighting both Blizzard Belgazas and Avalanche Abaasy at the same time. This challenge also has the party fight level 105 versions of [[Territorial Rotbart (XC1)|Territorial Rotbart]] and [[Immovable Gonzalez (XC1)|Immovable Gonzalez]] at the same time.
+
+== {{XCX|-}} ==
+In {{XCX}}, there are nine [[Tyrant]]s defined here as Superbosses in the game. No Tyrant in {{XCX|-}} exceeds level 99, and there are many Tyrants over the max level cap of 60. However, these Superbosses are characterized by the use of the track "[[CR17S19S8]]" or "[[raTEoREkiSImeAra]]" as their battle theme, an absence prior to completing ''[[Chapter 12 (XCX)|Chapter 12]]'', or both (in addition to being above the level cap).
+
+=== Superbosses ===
+# '''[[Gradivus, the Headless Emperor]]''' can be found at level 71 on the [[North Coast]] in [[Oblivia]] after completing ''Chapter 12''. It is the only source of [[Reflect.ADD-PHYS]] and [[Reflect.ADD-THERM]] augments. It is the only enemy in the game to have more than 100 million HP.
+# '''[[Dadaan, the Strongest Prone]]''' can be found at level 77 at [[Scabland Fortress]] next to [[FN Site 307]] in Oblivia, accompanied by [[The Dadaan Girls]], after completing ''Chapter 12''. Dadaan has the ability to instantly destroy all [[Skell]]s being piloted by the party if the player uses them during the battle for more than 10 seconds. He will also enter invincibility periods while summoning [[Dadaan Squad Member]]s. Battles with Dadaan feature the track "CR17S19S8".
+# '''[[Leva'el, the Terminus]]''' can be found at level 82 in the western [[Cauldros Waters]] after completing ''Chapter 12''. It is the only source of [[Reflect.ADD-BEAM]] and [[Reflect.ADD-ELEC]] augments. Leva'el has the ability to initiate a countdown that, if not stopped, can inflict Instant Death on the party.
+# '''[[Lugalbanda, the Wanderer-King]]''' can be found at level 88 at the [[Vitriol Cesspool]] in [[Noctilum]] after completing ''Chapter 12''. This location is inaccessible to Skells, so Lugalbanda must be fought on foot. It can summon [[Stray Ovis]] for assistance by using an Art called "Lunchtime". Battles with Lugalbanda feature the track "CR17S19S8".
+# '''[[Vortice, the Deific Blast]]''' can be found at level 94 above the caldera of [[Mount M'gando]] in [[Cauldros]] during brimstone rain weather. Vortice can be fought before ''Chapter 12'', unlike most Superbosses. Battles with Vortice feature the track "CR17S19S8". It is the only Superboss that is the target of an eponymous [[Basic Mission]].
+# '''[[Nahum, the Red Hare]]''' and '''[[Nardacyon, the Shadowless]]''' can be found atop a flat-topped rock formation near [[Primordia]]'s [[Bedrock Hold]] after completing ''Chapter 12''. They are level 66 and 96, respectively. It can be noted that although it is possible to defeat Nahum, the party is not intended to do so as she enters her Skell Nardacyon after she has less than 25% of her health remaining. Nahum does not have an entry in the [[Enemy Index]], nor does she drop any items if defeated. Battles with Nahum and Nardacyon feature the track "CR17S19S8".
+# '''[[Pharsis, the Everqueen]]''' can be found at level 97 hanging from the ceiling in the [[Noctilucent Sphere Interior]] in [[Sylvalum]]. It is the only source of [[Reflect.ADD-GRAV]] augments. It is the only Yggralith that can be fought outside of [[Squad Mission]]s. Pharsis can be fought before ''Chapter 12'', unlike most Superbosses. Battles with Pharsis feature the track "CR17S19S8".
+# '''[[Telethia, the Endbringer]]''' can be found at level 99 above the [[Divine Roost]] in Noctilum. It has the highest level of any enemy in {{XCX|-}}. It is the only source of [[Reflect.ADD-ETHER]] augments. Telethia, the Endbringer also has its own battle theme, that being the second section of "raTEoREkiSImeAra". The battle with Telethia, the Endbringer begins in the air, but it will descend onto the ground when it has less than 60% of its HP. It will later return to the sky if the battle lasts long enough. If it is in the middle of descending or ascending, it is immune to all attacks. During the third phase, Telethia is able to use Soul Read, which allows it to evade all attacks for a period of time. Telethia can be fought before ''Chapter 12'', unlike most Superbosses. The connection between this Telethia and the ones in {{XC|-}} is unknown.
+
+== {{XC2|-}} ==
+In {{XC2}}, eight [[Unique Monster (XC2)|Unique Monsters]] are over level 99. All Superbosses except [[Gladiator Orion]] and [[Tyrannotitan Kurodil]] only appear during the final chapter after entering the [[First Low Orbit Station]]. Level 100 [[Enemy (XC2)|normal minor enemies]] that may be summoned by them, such as [[Ground Caterpile]]s summoned by [[Reeking Douglas]], are not considered Superbosses, and neither are the enemies found in [[Challenge Battle Mode]]. The [[Nameless Sentinel]] is not considered a Superboss despite it being over level 99, since it is a [[Quest Exclusive Enemy (XC2)|quest-exclusive]] [[Boss (XC2)|Boss]] that does not respawn after being defeated.
+
+=== Superbosses ===
+# '''[[Gladiator Orion]]''' can be found at level 100 at the [[Hallowed Godswood Shrine]], near [[Way of the Practitioner]] on the [[Cliffs of Morytha]]. Unlike most of the others, he can be battled when the party first reaches the area. Unlike the seven other Superbosses in {{XC2|-}}, he is the only humanoid (an [[Urayan]]) and [[Driver]] represented.
+# '''[[Reeking Douglas]]''' can be found at level 104 in the [[Brigands' Hideout]] on the [[Upper Level - Right|right upper level]] of the [[Gormott Province]].
+# '''[[Pernicious Benf]]''' can be found at level 109 at the [[Aegishammer]] on [[Temperantia]]. It is the only monster to drop [[Shining Star Chip|Shining Star]] [[Core Chip]]s.
+# '''[[Cloud Sea King Ken]]''' can be found at level 110 near the [[Central Ether Boulder]] in the [[Kingdom of Tantal]], but only when it is foggy. It is the only monster to drop [[Moon Matter Chip]]s. There is an upgraded version in the Challenge Battle ''[[Cloud King's Revenge]]'' that is level 140, but it does not drop Moon Matter Chips.
+# '''[[Mk. VII Arek]]''' can be found at level 114 on [[Lv. 4, Megrez]] in the [[World Tree]]. It is the only monster to drop [[Sunlight Chip]]s.
+# '''[[Artifice Ophion]]''' can be found at level 117 at the [[Gotrock Oracle Ruins]] on the Cliffs of Morytha. Defeating it grants the player [[Ophion's Data Terminal]], which allows access to a [[Treasure Trove]] in the World Tree that is the only source of [[Dilaton Chip]]s outside of quest rewards or Challenge Battle Mode.
+# '''[[Chickenheart Dagmara]]''' can be found at level 120 at the [[Old Factory]] in the [[Empire of Mor Ardain]]. It is the only monster to drop [[Preon Chip]]s. After defeating it, it can be fought in the Challenge Battle ''[[Chickenheart Challenge]]'', which has some differences.
+# '''[[Tyrannotitan Kurodil]]''' can be found at level 130 in the [[Profaned Place]] in Temperantia. It is the only monster to drop [[Tachyon Chip]]s. Like Gladiator Orion, it can be battled when the party first reaches the area, provided the party has the required [[Field Skill (XC2)|field skills]].
+
+=== Notes ===
+* In the [[Challenge Battle Mode]] of {{XC2|-}}, the superbosses Gladiator Orion, Chickenheart Dagmara and Cloud Sea King Ken can be fought respectively as level 100, level 120 and level 140 [[Challenge Battle]] enemies. As this extra mode is intending to be challenging, some exclusive [[Boss (XC2)#Challenge Battle Bosses|Challenge Battle Bosses]] are fought with a level over 99: examples include level 150 [[Immovable Heir Carlos]], level 120 [[True Rosa]], and level 130 [[Ardainian Kurodil]]. Some other Bosses are fought over level 60 while the party's level is reduced to 60, such as [[Jin]] and [[Malos]], [[Elma]] and [[Cloud Sea Befouler Ioth]].
+* There exists other high level Unique Monsters that are unlocked during the final chapter, those being [[Beast-Hunter William]], [[Unflinching Saxton]], and [[Antecedent Xiaxia]]. However, these are generally not considered to be superbosses.
+
+== {{TTGC|-}} ==
+In {{TTGC}}, there are four Superbosses. They are referred to as the [[Unique Monster (XC2)#Golden Monsters|Golden Monsters]], and their locations must be purchased from the [[Nopon Halfsage]] before being fought.
+
+# '''[[Sentinel Carpathia]]''' can be found at level 65 in the [[Great Crater]] after purchasing its location for 50,000 [[Gold|G]]. It has strong defenses, and can guard attacks from any side.
+# '''[[Herculean Gibson]]''' can be found at level 75 in [[Wrackham Moor]] after purchasing its location for 200,000 G. It has high attack and defenses, and can frequently topple the party.
+# '''[[Mesmer Tlaloc]]''' can be found at level 85 in the [[Streamsand Corridor]] after purchasing its location for 400,000 G. It has high ether attack and critical rate, and heals itself when [[Blade Combo]]s are performed, which sometimes removes [[Chain Attack (XC2)#Elemental Orbs|Elemental Orbs]].
+# '''[[Hurricane Anise]]''' can be found at level 100 at the [[Pedestal of Stargazing]] after purchasing its location for 700,000 G. It is the strongest of the Golden Monsters, and can also summon [[Apostle Rhogul]]s which seal sections of the party gauge.
+
+== {{XC3|-}} ==
+In {{XC3}}, Superbosses are high-leveled [[Unique Monster (XC3)|Unique Monsters]] with unique tombstones that allow them to be refought at progressively higher levels. There are five Superbosses throughout the world. Unlike previous games, only enemies explicitly classified in-game as "Superbosses" are considered to be Superbosses. Just because a Unique Monster is above level 99 doesn't make them a Superboss, and one of the Superbosses, [[Kilocorn Grandeps]], is initially below level 99. Additionally, {{XC3|-}} is the first game in the series to use the "Superboss" term in-game.
+
+Upon defeating a Superboss, they can be re-challenged, increasing their level each time they are defeated up to a certain maximum; defeating the Superboss at their maximum level shows a trophy icon when viewing the Superboss's grave. The Superboss's base version and maximum-level version (once defeated) are always rematchable, but the intermediate challenge battles cannot be refought.
+
+Progress through the challenge re-fights of the Superbosses are saved separately for each difficulty; thus to challenge a Superboss at the highest level on a given difficulty, all prior challenge fights (as well as the fight at the Superboss's initial level) must be cleared on that difficulty.
+
+=== Superbosses ===
+# '''[[Kilocorn Grandeps]]''' can be found at level 95 at [[Dumas' Jaw]] in [[Rae-Bel Tableland]]. It has a high block rate against attacks from any side, very high defense against physical attacks, and can heal over time while enraged. This Unique Monster's level can be increased as high as level 150.
+# '''[[Perilwing Ryuho]]''' can be found at level 100 at [[Coolley Lake (XC3)|Coolley Lake]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]]. It has very high dexterity and agility, and cannot be [[Smash (XC3)|Smashed]]. This Unique Monster's level can be increased as high as level 160.
+# '''[[Dreadwyrm Nizoont]]''' can be found at level 105 behind the [[Forgotten Trick Gate]] in [[Low Maktha Wildwood]]. It can periodically make itself [[Invincible (XC3)|Invincible]] for a time with one of its Arts. This Unique Monster's level can be increased as high as level 170. This [[Drague]] guards the [[Legendary Biter]].
+# '''[[Levialord Empireo]]''' can be found at level 110 in [[The Aegis Sea]] in [[Erythia Sea]]. It has a wide range of AOE attacks and high ether defense, in addition to an extremely large stature that makes it rather difficult to position the party. This Unique Monster's level can be increased as high as level 180.
+# '''[[Seraphic Ceratinia]]''' can be found at level 120 in [[The Cavity]] of [[Swordmarch]]. It can block attacks from any side, and has a wide range of attacks that have devastating effects at higher levels, such as [[Doom (XC3)|Doom]], piercing damage or sealing the [[Chain Attack (XC3)|Chain Attack]] gauge. This Unique Monster's level can be increased as high as level 200. In order for this Superboss to appear, all four other Superbosses must be defeated and the topic "Aionios' Strongest" must be discussed at camp. Additionally, Seraphic Ceratinia also has a unique battle theme and introductory cutscene.
+
+=== Notes ===
+* Despite both being level 102, [[King Krawkin]] and [[Conqueror Deepwan]] are not considered Superbosses, as they are not referred to as such in game, and do not have the mechanic of being re-challenged at a higher level. The [[Demihuman Gutter]] also contains regular enemies that reach level 100, which are not considered Superbosses either.
+* As in {{XC2|-}}, enemies in the [[Land of Challenge (XC3)|Land of Challenge]] may exceed level 99; these are not considered Superbosses. The challenge ''[[The Four Devas]]'' involves fighting every Superboss except Levialord Empireo at their maximum levels (albeit with lower stats).
+* Each of the Superbosses in {{XC3|-}} have a unique model, not found elsewhere among the monster family they belong to. Additionally, their tombstones bear a unique design compared to the regular Unique Monster tombstone.
+** However, {{XC3FR|sub}} uses Perilwing Ryuho's model for the minor enemy [[Grippen Vollgull]].
+* As of {{XC3|-}}, Seraphic Ceratinia is the only Unique Monster to not be a part of any known monster family.
+
+== {{XC3FR|-}} ==
+In {{XC3FR|sublink}}, there are six superbosses. While all of them other than the Fogdweller Abaasy are below level 100, they have the superboss tombstones from the main game and almost all appear during ''[[Chapter 5 (FR)|Chapter 5]]'', except for Bioluminescent Bob, which appears after completing ''[[The Ouroboros Power]]''.
+
+=== Superbosses ===
+# '''[[Gotthard, the Ethereal]]''' can be found at Level 60 at the [[Sullied Temple of Abitalia]] on the [[Aurora Shelf]]. It has extremely high defenses and can summon minor enemies.
+# '''[[Bioluminescent Bob]]''' can be found at Level 70 at the [[Gotrock Oracle Ruins]] in [[Yesterdale]]. It frequently uses an Art that seals the [[Chain Attack (XC3)|Chain Attack]] gauge, and inflicts a multitude of other [[Status Effect#List of Debuffs|debuffs]].
+# '''[[Thunderfish Duna-Roa]]''' can be found at Level 80 in [[Raguel Lake]] at [[The Ragmos Desolation]] during a thunderstorm. It has an AOE [[Sleep (XC3)|Sleep]] Art which is long-lasting and does not wear off from its attacks.
+# '''[[Stronghammer Dorga]]''' and '''[[Peacebringer Divalo]]''' can be found at Level 90 at the [[Colony 5 Wreckage]] and [[Colony Gamma Wreckage]] in [[Vermilion Woods]]. They are part of the [[Slow 'n' Steadies]] duo. If one is killed before the other, the surviving superboss will charge and constantly use an execution order Art that deals massive AOE damage until it or the party dies.
+# '''[[Fogdweller Abaasy]]''' can be found at Level 100 at [[Valak Mountain]] on the [[Black Mountains]]. "New Battle!!!" plays against it rather than "You Will Know Our Names - Finale". It deals constant spike damage when enraged and negates all blocked damage to 1.
+
+=== Notes ===
+* Despite their graves having the same models as the base game superboss graves, they lack the mechanic to be challenged at a higher level.
+* Both Stronghammer Dorga and Peacebringer Divalo must be defeated in the same battle in order for their tombstone to appear. They can, however, be defeated separately and still count towards [[Affinity_(XC3)#Future_Redeemed|Affinity Goals]].
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Krawli Slobos.jpg|Final Marcus
+Mechon M87 Prototype.jpg|Ancient Daedala
+Despotic Arsene.jpg|Despotic Arsene
+Behemoth.jpg|Blizzard Belgazas
+Dragon.jpg|Avalanche Abaasy
+&lt;/gallery&gt;
+
+=== {{XCX|-}} ===
+&lt;gallery&gt;
+Gradivus Holofigure.png|Gradivus, the Headless Emperor
+Dadaan.png|Dadaan, the Strongest Prone
+Xern.png|Leva'el, the Terminus
+Lugalbanda Holofigure.png|Lugalbanda, the Wanderer King
+Colubrim B.png|Vortice, Deific Blast
+Milsaadi Female A.png|Na-hum, the Red Hare
+Nardacyon Holofigure.png|Nardacyon, the Shadowless
+Pharsis.png|Pharsis, the Everqueen
+Telethia Holofigure.png|Telethia, the Endbringer
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Gladiator Orion Portrait.png|Gladiator Orion
+Reeking douglas.PNG|Reeking Douglas
+PerniciousBenf.jpg|Pernicious Benf
+XC2 Cloud Sea King Ken.jpg|Cloud Sea King Ken
+XC2 Mk. VII Arek|Mk. VII Arek
+Ophion.png|Artifice Ophion
+XC2 Chickenheart Dagmara.png|Chickenheart Dagmara
+Tyrannotitan Kurodil.png|Tyrannotitan Kurodil
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Carpathia.jpg|Sentinel Carpathia
+Gibson.jpg|Herculean Gibson
+Tlaloc.jpg|Mesmer Tlaloc
+Anise2.jpg|Hurricane Anise
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Kilocorn Grandeps.png|Kilocorn Grandeps
+XC3 Perilwing Ryuho (cropped).png|Perilwing Ryuho
+Dreadwyrm Nizoont.jpg|Dreadwyrm Nizoont
+XC3 Levialord Empireo.png|Levialord Empireo
+XC3 Seraphic Ceratinia.png|Seraphic Ceratinia
+Superboss grave XC3.png|Unique grave for Superbosses
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+gotthardTheEthereal.jpg|Gotthard, the Ethereal
+bioluminescentBob.jpg|Bioluminescent Bob
+thunderfishDunaRoa.jpg|Thunderfish Duna-Roa
+stronghammerDorga.jpg|Stronghammer Dorga
+peacebringerDivalo.jpg|Peacebringer Divalo
+fogdwellerAbaasy.jpg|Fogdweller Abaasy
+&lt;/gallery&gt;
+
+[[es:Superjefe]]
+
+[[Category:XC Enemies]]
+[[Category:XC Unique Monsters]]
+[[Category:XC Level 100+ Enemies]]
+[[Category:XCX Enemies]]
+[[Category:XC2 Enemies]]
+[[Category:XC2 Unique Monsters]]
+[[Category:XC2 Level 100+ Enemies]]
+[[Category:TTGC Enemies]]
+[[Category:TTGC Unique Monsters]]
+[[Category:TTGC Level 96-100 Enemies]]
+[[Category:XC3 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3FR Enemies]]
+[[Category:XC3FR Unique Monsters]]
+[[Category:XC3FR Level 96-100 Enemies]]</text>
+      <sha1>216d7p0g57ltzso5h2qyo0z2pffadrz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Supreme Blant</title>
+    <ns>0</ns>
+    <id>117470</id>
+    <revision>
+      <id>594375</id>
+      <parentid>582223</parentid>
+      <timestamp>2023-05-27T15:06:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4292" sha1="p5o3q5bmg22s7x6gyu88ifh4sdx68xj" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Supreme Blant
+|image        = 
+|caption      = Supreme Blant
+|category     = Minor Enemy
+|type         = [[Blant]]
+|level        = 59
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Supreme Blants''' are Minor Enemies in {{XC3}}. They are members of the [[Blant]] family, and can be found at level 59 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Supreme Blant
+|image        = 
+|caption      = Supreme Blant
+|type         = [[Blant]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 30
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Beginner]]''
+|respawn      = No
+|hp           = 54,900
+|strength     = 272
+|healing      = 87
+|dexterity    = 94
+|agility      = 76
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+The '''Supreme Blant''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 30 at Stage 10 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Beginner]]''.
+
+==== Skills ====
+The Supreme Blant has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+* Boosts Arts recharge speed by 25%.
+==== Resistances ====
+{{XC3 Resistances
+|break = 50%
+|topple = 0%
+|daze = 0%
+|burst = 0%
+|launch = 0%
+|smash = 0%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 35%
+|etherdebuff = 35%
+}}
+==== Enraged ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+====Arts====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|200%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Snapping Blossom'''
+|Physical
+|One Target
+|6
+|300%
+|
+|style="text-align:left;"|
+*Critical Rate is boosted by 10%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*On each hit, heals self for 1500% of damage dealt, up to a maximum of 2000% of Healing Power.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Sweet Juice'''
+|Ether
+|AOE on Target
+|1
+|180%
+|[[Phys Def Down (XC3)|Phys. Def. Down]] / [[Ether Defense Down (XC3)|Ether Defense Down]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Removes all buffs from target upon landing a hit.
+|- &lt;!-- Arts Slot 2--&gt;
+|'''Life Plant'''
+|Healing
+|Self
+| -
+|3000%
+|
+|style="text-align:left;"|
+*Immune to all reactions and combos during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Seed Bomb'''
+|Ether
+|Frontward AOE
+|5
+|400%
+|[[Daze (XC3)|Daze]] on all hits
+|style="text-align:left;"|
+*Critical Rate is boosted by 15%.
+*Immune to Knockback and Blowdown during Art.
+*Each hit can only damage a single target in range.
+|}
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Supreme Blant
+|image        = Supreme Blant FR.jpg
+|caption      = Supreme Blant
+|category     = Normal Minor Enemy
+|type         = [[Blant]]
+|level        = 22
+|area         = [[Yesterdale]] ([[Tephra Hill]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Supreme Blants''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Blant]] family, and can be found at level 22 at the bottom of [[Tephra Hill]] in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Blants]]
+[[Category:XC3FR Blants]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3FR Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>p5o3q5bmg22s7x6gyu88ifh4sdx68xj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Survival Belt</title>
+    <ns>0</ns>
+    <id>122862</id>
+    <revision>
+      <id>566913</id>
+      <parentid>551711</parentid>
+      <timestamp>2022-11-23T11:07:59Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="989" sha1="2effgh82a4a4vnrdpcl8u78smkiidaj" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Survival Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 50 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Survival Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 55 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Survival Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 60 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Survival Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>2effgh82a4a4vnrdpcl8u78smkiidaj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Survivor Kneeguard</title>
+    <ns>0</ns>
+    <id>122595</id>
+    <revision>
+      <id>592881</id>
+      <parentid>592299</parentid>
+      <timestamp>2023-05-15T20:20:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1011" sha1="7w33lugy4g8fu34t6cgua1tf6adx6mh" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Survivor Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 20% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Survivor Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 21% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Survivor Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 22% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Survivor Kneeguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>7w33lugy4g8fu34t6cgua1tf6adx6mh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Swaroog Rhana</title>
+    <ns>0</ns>
+    <id>121200</id>
+    <revision>
+      <id>600325</id>
+      <parentid>576699</parentid>
+      <timestamp>2023-07-21T12:41:31Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>Rhana</comment>
+      <origin>600325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1001" sha1="lkflwc0ua8yqxhh6drmy3w5itovwxvl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Swaroog Rhana
+|image        = 
+|caption      = Swaroog Rhana
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Rhana]]
+|level        = 58
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = During ''[[The Ultimate Vessel]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Swaroog Rhana''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. It is a member of the [[Rhana]] family, and is fought at level 58 in the [[Low Maktha Wildwood]] during ''[[The Ultimate Vessel]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Rhanas]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lkflwc0ua8yqxhh6drmy3w5itovwxvl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sweet Plambus</title>
+    <ns>0</ns>
+    <id>121247</id>
+    <revision>
+      <id>579881</id>
+      <parentid>559321</parentid>
+      <timestamp>2023-03-21T16:46:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>579881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1072" sha1="4aa40gxs23i81lwaoaoo6ayhkw9hnap" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sweet Plambus
+|image        = 
+|caption      = Sweet Plambus
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Plambus]]
+|level        = 37
+|area         = [[Old Cliffside Way]] ([[Old Way Camp]])
+|spawntime    = During ''[[A More Balanced Recipe]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Sweet Plambus''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Plambus]] family, and is fought at level 37 near the [[Old Way Camp]] at [[Old Cliffside Way]] during ''[[A More Balanced Recipe]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Plambuses]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>4aa40gxs23i81lwaoaoo6ayhkw9hnap</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sweetless Brog</title>
+    <ns>0</ns>
+    <id>123170</id>
+    <revision>
+      <id>559972</id>
+      <parentid>553484</parentid>
+      <timestamp>2022-09-30T10:59:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559972</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="769" sha1="bd6q7wkctk1k0iveq532rkcb5wb0p5g" xml:space="preserve">{{Infobox Enemy
+|name         = Sweetless Brog
+|image        = 
+|caption      = Sweetless Brog
+|category     = Minor Enemy
+|type         = [[Brog]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Sweetless Brogs''' are Minor Enemies in {{XC3}}. They are members of the [[Brog]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>bd6q7wkctk1k0iveq532rkcb5wb0p5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Swelling Blessing</title>
+    <ns>0</ns>
+    <id>118896</id>
+    <revision>
+      <id>595280</id>
+      <parentid>595263</parentid>
+      <timestamp>2023-06-11T16:44:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6370" sha1="qc5xgqc7qoqwgvw1zb2e9r3lov6dokd" xml:space="preserve">{{Infobox Gem
+| name     = Swelling Blessing
+| image    = Gem-healer.png
+| effect   = [Passive] Boosts power of buff effects issued by self by ''(value)%''.
+| category = Healer
+| max      = 50%
+}}
+'''Swelling Blessing''' is a Healer [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Buff Boost Power
+|-
+!I
+|25%
+|-
+!II
+|27%
+|-
+!III
+|30%
+|-
+!IV
+|33%
+|-
+!V
+|35%
+|-
+!VI
+|37%
+|-
+!VII
+|40%
+|-
+!VIII
+|42%
+|-
+!IX
+|45%
+|-
+!X
+|50%
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Swelling Blessing I
+|[[Gemstone]]&lt;br /&gt;[[Flier Pollen]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Swelling Blessing II
+|Gemstone&lt;br /&gt;[[Mild Camill Powder]]&lt;br /&gt;[[Imperial Taos Egg]]&lt;br /&gt;[[Powdered Wheat]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Swelling Blessing III
+|Gemstone&lt;br /&gt;[[Krammit Viscera]]&lt;br /&gt;[[Arachno Queen Egg]]&lt;br /&gt;[[Wisp Sun Bead (XC3)|Wisp Sun Bead]]&lt;br /&gt;[[Citribell]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Swelling Blessing IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Powdered Skwaror Leaves]]&lt;br /&gt;Flier Pollen&lt;br /&gt;Krammit Viscera&lt;br /&gt;[[Sundialflower]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Swelling Blessing V
+|Pure Gemstone&lt;br /&gt;[[Shoox Earplate]] x 2&lt;br /&gt;[[Gulkin Shell Amulet]] x 2&lt;br /&gt;[[Quadwing's Indulgence]] x 2&lt;br /&gt;[[Ten-Term Palm]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Swelling Blessing VI
+|Pure Gemstone&lt;br /&gt;[[Perfumed Aries Hide]] x 2&lt;br /&gt;[[Fresh Armu Milk (XC3)|Fresh Armu Milk]] x 2&lt;br /&gt;[[Kevesi Dog Tag]] x 2&lt;br /&gt;[[Heavy Pomegranate]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Swelling Blessing VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Star-Shaped Droid Screw]] x 2&lt;br /&gt;[[Gastrates Ether Furnace]] x 2&lt;br /&gt;[[Decorative Grebel Quill]] x 3&lt;br /&gt;Gulkin Shell Amulet x 3&lt;br /&gt;[[Galaxy Swirl]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Swelling Blessing VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;Wisp Sun Bead x 15&lt;br /&gt;Shoox Earplate x 15&lt;br /&gt;[[Geometric Myoot Gear]] x 15&lt;br /&gt;[[Merigna Amulet]] x 15&lt;br /&gt;[[Buoyant Bauxite]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Swelling Blessing IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Gyrinus Halo]] x 20&lt;br /&gt;[[Eluca Tailtip]] x 20&lt;br /&gt;[[Blessed Pippito Light]] x 20&lt;br /&gt;[[Rainbow Darbus Crystal]] x 20&lt;br /&gt;[[Wyrdstone]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Swelling Blessing X
+|Ultra Pure Gemstone x 5&lt;br /&gt;Rainbow Darbus Crystal x 30&lt;br /&gt;Mild Camill Powder x 30&lt;br /&gt;Flier Pollen x 30&lt;br /&gt;[[Ornate Moglum Coral]] x 30&lt;br /&gt;[[Glistening Krodlax Scale]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Swelling Blessing I
+| [[Gemstone]]&lt;br /&gt;[[Shining Ellook Antler]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Swelling Blessing II
+| Gemstone&lt;br /&gt;[[Nest Treacle]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Swelling Blessing III
+| [[Pure Gemstone]]&lt;br /&gt;[[Medooz Tentacle]] x2&lt;br /&gt;[[Emblem Adornment]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Swelling Blessing IV
+| Pure Gemstone&lt;br /&gt;[[Tirkin Seasoning]] x2&lt;br /&gt;[[Painted Totem Board]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Swelling Blessing V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Garaffa Electrical Organ]]&lt;br&gt;[[Ornate Moglum Coral]] x2&lt;br&gt;[[Powdered Skwaror Leaves]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>qc5xgqc7qoqwgvw1zb2e9r3lov6dokd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Swelling Scourge</title>
+    <ns>0</ns>
+    <id>118891</id>
+    <revision>
+      <id>595262</id>
+      <parentid>592032</parentid>
+      <timestamp>2023-06-11T16:29:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6406" sha1="g0152xe64hzhfxru41960kws2kt5bos" xml:space="preserve">{{Infobox Gem
+| name     = Swelling Scourge
+| image    = Gem-attacker.png
+| effect   = [Passive] Boosts power of debuffs applied to enemies by ''(value)%''.
+| category = Attacker
+| max      = 50%
+}}
+'''Swelling Scourge''' is an Attacker [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Debuff Boost Power
+|-
+!I
+|25%
+|-
+!II
+|27%
+|-
+!III
+|30%
+|-
+!IV
+|33%
+|-
+!V
+|35%
+|-
+!VI
+|37%
+|-
+!VII
+|40%
+|-
+!VIII
+|42%
+|-
+!IX
+|45%
+|-
+!X
+|50%
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Swelling Scourge  I
+|[[Gemstone]]&lt;br /&gt;[[Well-Aged Camill Juices]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Swelling Scourge II
+|Gemstone&lt;br /&gt;[[Aspar Secretion]]&lt;br /&gt;[[Flier Nectar Jelly]]&lt;br /&gt;[[Redrum Seed]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Swelling Scourge III
+|Gemstone&lt;br /&gt;[[Krabble Viscera]]&lt;br /&gt;[[Krammit Viscera]]&lt;br /&gt;[[Moramora Bezoar]]&lt;br /&gt;[[Serenity Jet]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+| Swelling Scourge IV 
+|[[Pure Gemstone]]&lt;br /&gt;[[Soft-Shelled Aligo Egg]]&lt;br /&gt;[[Aspar Eyeball]]&lt;br /&gt;[[Refreshing Piranhax Meat]]&lt;br /&gt;[[Condimenut]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Swelling Scourge V
+|Pure Gemstone&lt;br /&gt;[[Merfrey Skull]] x 2&lt;br /&gt;[[Eluca Silk]] x 2&lt;br /&gt;[[Bunnit Meat]] x 2&lt;br /&gt;[[Ten-Term Palm]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+| Swelling Scourge VI
+|Pure Gemstone&lt;br /&gt;[[Garaffa Tenderloin]] x 2&lt;br /&gt;[[Powdered Skwaror Leaves]] x 2&lt;br /&gt;[[Great Feris Horn Pair]] x 2&lt;br /&gt;[[Blue Sorghum]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Swelling Scourge VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Antol Queen Compound Eye]] x 2&lt;br /&gt;[[Electrified Vvarga Skull]] x 2&lt;br /&gt;[[Enlightened Rhana Eyeball]] x 3&lt;br /&gt;Eluca Silk x 3&lt;br /&gt;[[Death Mushroom (XC3)|Death Mushroom]]&lt;br /&gt;Ether Cylinder x 2 
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Swelling Scourge VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Quadwing's Indulgence]] x 15&lt;br /&gt;[[Exploding Blant Seed]] x 15&lt;br /&gt;[[Ulula Generator]] x 15&lt;br /&gt;[[Flak Simple Eye]] x 15&lt;br /&gt;[[Obscurian]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Swelling Scourge IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Garaffa Electrical Organ]] x 20&lt;br /&gt;Moramora Bezoar x 20&lt;br /&gt;[[Drague Everflame]] x 20&lt;br /&gt;Electrified Vvarga Skull x 20&lt;br /&gt;[[Polar Pearl (XC3)|Polar Pearl]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Swelling Scourge X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Obsidian Kananus Mane]] x 30&lt;br /&gt;[[Caterpile Antenna]] x 30&lt;br /&gt;[[Grebel Carapace]] x 30&lt;br /&gt;[[Rare Urchon Egg]] x 30&lt;br /&gt;[[Springy Medooz Bell]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Swelling Scourge I
+| [[Gemstone]]&lt;br /&gt;[[Quadwing's Indulgence]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Swelling Scourge II
+| Gemstone&lt;br /&gt;[[Well-Aged Camill Juices]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Swelling Scourge III
+| [[Pure Gemstone]]&lt;br /&gt;[[Magnificent Upa Lure]] x2&lt;br /&gt;[[Pod Silk]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Swelling Scourge IV
+| Pure Gemstone&lt;br /&gt;[[Fatty Serprond Fillet]] x2&lt;br /&gt;[[Draigul Thaumahorn]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Swelling Scourge V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Luminescent Laia Fin]]&lt;br&gt;[[Nutrient-Rich Vollgull Egg]] x2&lt;br&gt;Well-Aged Camill Juices x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>g0152xe64hzhfxru41960kws2kt5bos</sha1>
+    </revision>
+  </page>
+</mediawiki>

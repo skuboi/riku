@@ -1,0 +1,6 @@
+Art Name: Mighty Strike
+
+Class: Matthew
+
+Effect: Front atk _ /Knockback
+

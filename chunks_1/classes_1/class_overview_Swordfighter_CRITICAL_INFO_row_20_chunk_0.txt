@@ -1,0 +1,13 @@
+Parent Category: Class (Weapon)
+
+Title: Swordfighter
+
+Overview:  
+Swordfighters specialize in close-range attacks and they have balanced abilities, especially strong at fighting powerful [[Boss (XC3)|bosses]] and [[Unique Monster (XC3)|Unique Monsters]]. The [[Blade (XC3)|Blade]] of the Swordfighter class is the Veiled Sword.  Swordfighter is the initial class of [[Noah]]. 
+
+Arts: {'Overclock Buster': 'Daze |Dazed ↑', 'Ground Beat': 'AOE (Rank 1 Master Art)', 'Sword Strike': 'Side Break |Break', 'Edge Thrust': 'Back Attack ↑', 'Air Slash': 'Cancel attack ↑', 'Shadow Eye': 'Aggro halved / Atk up (Rank 10 Master Art)'}
+
+Class Skills: {'Cypher Edge': 'Boosts Critical Rate by 10-50%. (Rank 5 Master Skill)', 'Sharp Eye': 'Boosts Dexterity by 10-50%.', 'Covert Attack': 'Reduces aggro generated from attacks by 20-65%. (Rank 15 Master Skill)', 'Inspirit': 'Boosts damage dealt by 60-150% when fighting a [[Unique Monster (XC3)|unique]] or [[Boss (XC3)|boss]] monster.'}
+
+Hero Exclusive Arts: nan
+

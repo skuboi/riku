@@ -1,0 +1,6 @@
+Art Name: Shadow Stitch
+
+Class: Royal Summoner
+
+Effect: Back Bind
+

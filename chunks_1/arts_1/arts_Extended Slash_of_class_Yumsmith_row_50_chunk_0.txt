@@ -1,0 +1,6 @@
+Art Name: Extended Slash
+
+Class: Yumsmith
+
+Effect: Shackle block/Front atk_
+

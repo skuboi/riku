@@ -1,0 +1,6 @@
+Art Name: Dark Banner
+
+Class: Tactician
+
+Effect: AOE / Sleep
+

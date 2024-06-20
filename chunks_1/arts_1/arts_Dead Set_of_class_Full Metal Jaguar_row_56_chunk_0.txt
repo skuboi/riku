@@ -1,0 +1,6 @@
+Art Name: Dead Set
+
+Class: Full Metal Jaguar
+
+Effect: Removes aggro
+

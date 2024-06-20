@@ -1,0 +1,12 @@
+Parent Category: Class (Weapon)
+
+Title: Flash Fencer
+
+Overview: Flash Fencer is the class of [[Ethel]] and the first [[Hero]] class unlocked. It focuses on pressuring foes with a dual sword style and felling them in short bursts. 
+
+Arts: {'Cross Impact': 'Power Charge on hit (Rank 10 Master Art)', 'Null Slash': 'AOE/Side Crit. Rate+', 'Hidden Thorn': 'Bleed |Bleed (Rank 1 Master Art)', 'Revolution Edge': 'Back Attack Up', 'Acceleration': 'Auto-Atk spd. up/dmg up'}
+
+Class Skills: {'First Move Wins': 'Boosts damage dealt by 30% for the first 30 seconds of battle.', 'Capable Hands': 'Fills Talent Art recharge gauge by 60-100% at start of battle. (Rank 15 Master Skill)', 'Critical Strike': 'Increases critical hit damage bonus by 30-50 percentage points. (Rank 5 Master Skill)', 'Fighting Instinct': 'Boosts damage dealt by 25-50% when using a Talent Art (up to a maximum of 200%).'}
+
+Hero Exclusive Arts: {'Swallowtail': 'Back Attack ↑', 'Silver Cyclone': 'Side Crit. Rate+', 'Million Flash': 'Bleed', 'Vengeance:': 'Evade / Front atk ↑', 'Showdown': 'AOE/High acc./ Eva. Down', 'Executioner': 'AOE / Back attack ↑'}
+

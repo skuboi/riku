@@ -1,0 +1,1362 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Phys Def Down (XC3)</title>
+    <ns>0</ns>
+    <id>124874</id>
+    <revision>
+      <id>587571</id>
+      <parentid>587555</parentid>
+      <timestamp>2023-05-02T12:21:33Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587571</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2061" sha1="883wkicf87v4k5iexq9vxd8c8a41bwe" xml:space="preserve">{{for|mechanics in other games|Phys Def Down}}
+{{Infobox XC3 Status
+|title          = Phys. Def. Down
+|caption        = Reduces Physical Defense.
+|image          = XC3 Phys. Defense Down.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = Yes
+|effect-title-1 = Base Phys. Def. Decrease
+|effect-value-1 = 25% of magnitude (see Calculations)
+}}
+'''Phys. Def. Down''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It reduces the affected character's physical defense.
+
+==Calculations==
+The way that Phys. Def. Down interacts with a character's physical defense depends on the sign of the character's Physical Defense:
+*If the character's Physical Defense is zero, then Phys. Def. Down has no effect on their Physical Defense (though it still counts as a debuff for Arts and skills that rely on debuffs).
+*If the character's Physical Defense is positive, then Phys. Def. Down reduces the magnitude of positive Physical Defense. For example, a character with 20% Physical Defense will lose 5% with the base debuff, for a final Physical Defense of 15%.
+*If the character's Physical Defense is negative, then Phys. Def. Down increases the magnitude of negative Physical Defense; for example, a -20% Physical Defense loses 5% for a final value of -25% with the base debuff.
+
+A calculation that combines these three cases can be obtained by taking the magnitude of Physical Defense:
+
+&lt;math&gt;PhysDef = BasePhysDef - PhysDefDownStrength \times |BasePhysDef|,&lt;/math&gt;
+
+where &lt;math&gt;BasePhysDef&lt;/math&gt; is the initial Physical Defense and &lt;math&gt;PhysDefDownStrength&lt;/math&gt; is the strength of the debuff.
+
+==Distribution==
+===Arts===
+*[[No Love Lost (XC3)|No Love Lost]] ([[Strategos]])
+*[[Double Slap]] ([[Soulhacker]]; requires Soul Hacking [[Saberly Doramp&#233;]])
+*[[Elimination Beam]] (Soulhacker; requires Soul Hacking [[Clinging Azreel]])
+*[[Hellbound (XC3)|Hellbound]] ([[Sena]]'s [[Ouroboros]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>883wkicf87v4k5iexq9vxd8c8a41bwe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pidor Crustip (XC3)</title>
+    <ns>0</ns>
+    <id>121193</id>
+    <revision>
+      <id>595985</id>
+      <parentid>594676</parentid>
+      <timestamp>2023-06-16T18:54:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595985</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1217" sha1="3c2kguyorbmslmucl5vjkhtdqmupmgq" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Pidor Crustip (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Pidor Crustip
+|image        = 
+|caption      = Pidor Crustip
+|category     = Normal Minor Enemy
+|type         = [[Crustip]]
+|level        = 93-94
+|area         = [[Low Maktha Wildwood]] ([[Cavern of Oblivion]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Pidor Crustips''' are Normal Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Crustip]] family, and can be found at level 93-94 in the [[Cavern of Oblivion]] in [[Low Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Crustips]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>3c2kguyorbmslmucl5vjkhtdqmupmgq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pike Merigna</title>
+    <ns>0</ns>
+    <id>121852</id>
+    <revision>
+      <id>559862</id>
+      <parentid>546974</parentid>
+      <timestamp>2022-09-30T10:55:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="4a98fik61b9il08u9023jmwhd5flnc0" xml:space="preserve">{{Infobox Enemy
+|name         = Pike Merigna
+|image        = 
+|caption      = Pike Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Pike Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>4a98fik61b9il08u9023jmwhd5flnc0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pikelord Tirkin</title>
+    <ns>0</ns>
+    <id>123007</id>
+    <revision>
+      <id>559863</id>
+      <parentid>557271</parentid>
+      <timestamp>2022-09-30T10:55:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559863</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="853" sha1="fcict8vg5jgucc38yhlhcrfj7fg17ks" xml:space="preserve">{{Infobox Enemy
+|name         = Pikelord Tirkin
+|image        = 
+|caption      = Pikelord Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Pikelord Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Urayan Trail]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>fcict8vg5jgucc38yhlhcrfj7fg17ks</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pinion Primed</title>
+    <ns>0</ns>
+    <id>117810</id>
+    <revision>
+      <id>591894</id>
+      <parentid>590847</parentid>
+      <timestamp>2023-05-14T14:36:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591894</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" sha1="ahqendmeatc3mb71ltykdc2lbnsxhiz" xml:space="preserve">{{Infobox battle art
+|name        = Pinion Primed
+|image       = Strm order thumb003 0.png
+|who         = [[Eunie]]
+|class       = 
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Reduces enemy ether defense by 30-50 percentage points during Chain Attack.
+|duration    = 
+|recharge    = 
+}}
+'''Pinion Primed''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Eunie]]'s Chain art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>ahqendmeatc3mb71ltykdc2lbnsxhiz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pippito</title>
+    <ns>0</ns>
+    <id>75050</id>
+    <revision>
+      <id>602074</id>
+      <parentid>600791</parentid>
+      <timestamp>2023-07-22T12:26:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602074</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2140" sha1="swc144r4k78rqc5ehi2qvk0wjk9ts35" xml:space="preserve">[[file:Kadar Pippito.png|thumb|Kadar Pippito]]
+'''Pippitos''' are a family of enemies in the {{XC|serieslink}}, first appearing in {{XC2}}. They are small rodent or ferret-like critters, reminiscent of [[Hox]]es or [[Terebra]]s. Pippitos come in orange and purple varieties.
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Aplom Pippito]]
+* [[Felusi Pippito (XC2)|Felusi Pippito]]
+* [[Graaz Pippito]]
+* [[Kadar Pippito]]
+* [[Leap Pippito (XC2)|Leap Pippito]]
+* [[Mahi Pippito]]
+* [[Mia Pippito (XC2)|Mia Pippito]]
+* [[Misdan Pippito]]
+* [[Nelva Pippito (XC2)|Nelva Pippito]]
+* [[Neml Pippito (XC2)|Neml Pippito]]
+
+=== Unique Monsters ===
+* [[Chickenheart Dagmara]] ([[Superboss]])
+* [[Enlightened Morris]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Bandette Pippito]]
+* [[Covn Pippito]]
+* [[Seeth Pippito]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Arcah Pippito]]
+* [[Teppus Pippito]]
+* [[Xane Pippito]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Felusi Pippito (XC3)|Felusi Pippito]]
+* [[Floof Pippito]]
+* [[Leap Pippito (XC3)|Leap Pippito]]
+* [[Mia Pippito (XC3)|Mia Pippito]]
+* [[Nelva Pippito (XC3)|Nelva Pippito]]
+* [[Neml Pippito (XC3)|Neml Pippito]]
+* [[Pixidan Pippito]]
+* [[Polka Pippito]]
+* [[Prithee Pippito]]
+* [[Qutorl Pippito]]
+
+=== Quest Exclusive Enemy ===
+* [[Medica Pippito]]
+
+=== Unique Monster ===
+* [[Shimmering Marcko]]
+
+=== Quest Exclusive Boss ===
+* [[Depriti Pippito]] (During ''[[Unspeakable Being]]'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Felusi Pippito (XC3)|Felusi Pippito]]
+* [[Snow Pippito]]
+* [[White Pippito]]
+
+== Gallery ==
+&lt;gallery&gt;
+XC2 Chickenheart Dagmara.png|Chickenheart Dagmara
+TeppusPippito.jpg|Teppus Pippito
+Snow Pippito.jpg|Snow Pippito
+White Pippito.jpg|White Pippito
+&lt;/gallery&gt;
+
+[[Category:XC2 Pippitos]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Pippitos]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Pippitos]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Pippitos]]
+[[Category:Species by Type]]</text>
+      <sha1>swc144r4k78rqc5ehi2qvk0wjk9ts35</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Piranhax</title>
+    <ns>0</ns>
+    <id>5936</id>
+    <revision>
+      <id>602075</id>
+      <parentid>600792</parentid>
+      <timestamp>2023-07-22T12:26:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602075</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2390" sha1="pooq3uaar60lm1apzx2bm2njescd29i" xml:space="preserve">[[file:Colony Piranhax.jpg|thumb|Piranhax model]]
+'''Piranhax''' (Japanese: {{lang|ja|&#12469;&#12514;&#12531;}}, ''Samon'', Salmon) are aquatic type enemies in the {{XC|serieslink}}. They are piranha-like creatures, identical in all but colour, and may be related, to [[Sardi]].
+
+Piranhax undergo no appearance changes between games, although brown Piranhax - categorized in {{XC}} as Sardi - are seen in {{XC2}} and {{TTGC}}.
+
+== {{XC|-}} ==
+Piranhax are found mainly on [[Bionis]], although there is one type found on [[Fallen Arm]].
+
+=== Normal Minor Enemies ===
+* [[Pawn Piranhax]]
+* [[Colony Piranhax]]
+* [[Fair Piranhax]]
+* [[Leg Piranhax]]
+* [[Makna Piranhax]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Colony Piranhax]]
+
+== {{XC2|-}} ==
+Piranhax can be found in the [[Gormott Province]].
+
+=== Normal Minor Enemies ===
+* [[Emerald Piranhax]]
+* [[Ghastly Piranhax]]
+* [[King Piranhax]]
+* [[Prom Piranhax]]
+* [[Svena Piranhax]]
+
+=== Unique Monster ===
+* [[Anguished Solomon]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Maramal Piranhax]]
+* [[Reed Piranhax]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Foggy Piranhax]]
+* [[Inuma Piranhax]]
+* [[Masrah Piranhax]]
+* [[Onogoro Piranhax]]
+* [[Plush Piranhax]]
+* [[Sol Piranhax]]
+
+=== Unique Monsters ===
+* [[Gushing Masquin]]
+* [[Repulsive Deepus]]
+* [[Wraithfin Segna]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Inuma Piranhax]]
+* [[Masrah Piranhax]]
+* [[Onogoro Piranhax]]
+
+=== Quest Exclusive Boss ===
+* [[Zalmor Piranhax]] (During ''[[The Very Lost Nopon]]'')
+
+== Gallery ==
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+ReedPiranhax.png|Reed Piranhax
+MaramalPiranhax.jpg|Maramal Piranhax
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Foggy Piranhax.png|Foggy Piranhax
+Onogoro_Piranhax.jpg|Onogoro Piranhax
+XC3 Repulsive Deepus.png|Repulsive Deepus
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:Bionis Life]]
+[[Category:XC Piranhax]]
+[[Category:Mechonis Life]]
+[[Category:Aquatic Enemies]]
+[[Category:XCFC Species]]
+[[Category:XCFC Piranhax]]
+[[Category:XC2 Species]]
+[[Category:XC2 Piranhax]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Piranhax]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Species]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Piranhax]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Piranhax]]
+[[Category:Species by Type]]</text>
+      <sha1>pooq3uaar60lm1apzx2bm2njescd29i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pirate Merigna</title>
+    <ns>0</ns>
+    <id>123209</id>
+    <revision>
+      <id>559864</id>
+      <parentid>553539</parentid>
+      <timestamp>2022-09-30T10:55:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="a3od9bur49sbsw60dmzl8pa3zmuwh4w" xml:space="preserve">{{Infobox Enemy
+|name         = Pirate Merigna
+|image        = 
+|caption      = Pirate Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Pirate Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>a3od9bur49sbsw60dmzl8pa3zmuwh4w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Piros Crustip (XC3)</title>
+    <ns>0</ns>
+    <id>117487</id>
+    <revision>
+      <id>583423</id>
+      <parentid>583422</parentid>
+      <timestamp>2023-04-18T15:10:39Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="879" sha1="k57tz66fofymbsfpdryme5vdamknz3a" xml:space="preserve">{{for|the enemy from {{XC2}}|Piros Crustip (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Piros Crustip
+|image        = 
+|caption      = Piros Crustip
+|category     = Normal Enemy
+|type         = [[Crustip]]
+|level        = 10-11
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Piros Crustips''' are normal minor enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level 10-11 in [[Millick Meadows]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing an infobox image]]</text>
+      <sha1>k57tz66fofymbsfpdryme5vdamknz3a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pixidan Pippito</title>
+    <ns>0</ns>
+    <id>123160</id>
+    <revision>
+      <id>574657</id>
+      <parentid>574656</parentid>
+      <timestamp>2023-01-30T02:20:17Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="778" sha1="02eq5khkkmw2hhh3j77hgsal4zsfgyy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Pixidan Pippito
+|image        = 
+|caption      = Pixidan Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = 5
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Pixidan Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level 5 in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>02eq5khkkmw2hhh3j77hgsal4zsfgyy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Plain Armu (XC3)</title>
+    <ns>0</ns>
+    <id>117457</id>
+    <revision>
+      <id>595248</id>
+      <parentid>582353</parentid>
+      <timestamp>2023-06-11T16:09:48Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1675" sha1="1aq7zdte2k8ga0thacez7f6vfy3drqh" xml:space="preserve">{{for|the enemy from {{XC}}|Plain Armu (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Plain Armu
+|image        = Plain Armu (XC3).jpg
+|caption      = Plain Armu
+|category     = Normal Minor Enemy
+|type         = [[Armu]]
+|level        = 17 - 18
+|area         = [[Ribbi Flats]] ([[Sparres Barr]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Plain Armus''' are Normal Minor enemies in {{XC3}}. They are members of the [[Armu]] family, and can be found at level 17-18 near [[Llyn Nyddwr Camp]] at [[Sparres Barr]] on [[Ribbi Flats]].
+
+== Drops ==
+* [[Cured Armu Sirloin]]
+* [[Fresh Armu Milk (XC3)|Fresh Armu Milk]]
+
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Plain Armu
+|image        = Plain Armu FR.jpg
+|caption      = Plain Armu
+|category     = Normal Minor Enemy
+|type         = [[Armu]]
+|level        = 9
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Plain Armus''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Armu]] family, and can be found at level 9 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Armus]]
+[[Category:XC3FR Armus]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1aq7zdte2k8ga0thacez7f6vfy3drqh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Plambus</title>
+    <ns>0</ns>
+    <id>75955</id>
+    <revision>
+      <id>602076</id>
+      <parentid>600793</parentid>
+      <timestamp>2023-07-22T12:26:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602076</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1508" sha1="mz2ulpbql1lr8vwn045aaq07vxw8k4j" xml:space="preserve">[[file:Plambus3.jpg|thumb|Tolmeda Plambus]]
+'''Plambuses''' are a family of enemies in the {{XC|serieslink}}. They resemble gigantic flying beetles and come in green and red varieties, the latter exclusive to the [[Kingdom of Torna]].
+
+== {{XC2|-}} ==
+In {{XC2}}, Plambuses can only be found in the [[Kingdom of Tantal]].
+=== Normal Minor Enemy ===
+* [[Tolmeda Plambus]]
+
+=== Unique Monster ===
+* [[Incandescent Marcus]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Scalpe Plambus]]
+* [[Tygrelyle Plambus]]
+
+== {{TTGC|-}} ==
+In {{TTGC}}, only one variety of Plambus can be found.
+=== Normal Minor Enemy ===
+* [[Grohl Plambus]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Kassis Plambus]]
+* [[Lodmoro Plambus]]
+
+=== Quest Exclusive Enemy ===
+* [[Sweet Plambus]] (During ''[[A More Balanced Recipe]]'')
+
+=== Unique Monsters ===
+* [[Demonic Krenolur]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Lodmoro Plambus]]
+
+== Gallery ==
+&lt;gallery&gt;
+Plambus2.jpg|Tolmeda Plambus
+GrohlPlambus3.jpg|Grohl Plambus
+XC3 Demonic Krenolur.jpeg|Demonic Krenolur
+&lt;/gallery&gt;
+[[Category:XC2 Plambuses]]
+[[Category:XC2 Species]]
+[[Category:XC2 Insects]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Plambuses]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Plambuses]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Plambuses]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Plambuses]]
+[[Category:Species by Type]]</text>
+      <sha1>mz2ulpbql1lr8vwn045aaq07vxw8k4j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Planaa Ansel</title>
+    <ns>0</ns>
+    <id>123995</id>
+    <revision>
+      <id>576857</id>
+      <parentid>559297</parentid>
+      <timestamp>2023-02-14T16:08:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1103" sha1="5qvn3amh6we4s6eq85irnczpzfhxwzl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Planaa Ansel
+|image        = 
+|caption      = Planaa Ansel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Ansel]]
+|level        = 42
+|area         = [[Great Sword's Hilt]] ([[Material Storage Warehouse]])
+|spawntime    = During ''[[Castle Access]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Planaa Ansel''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Ansel]] family, and is fought at level 42 alongside four [[Seeth Ansel]]s at the [[Material Storage Warehouse]] on the [[Great Sword's Hilt]] during ''[[Castle Access]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5qvn3amh6we4s6eq85irnczpzfhxwzl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Plane Hox</title>
+    <ns>0</ns>
+    <id>121704</id>
+    <revision>
+      <id>559868</id>
+      <parentid>546707</parentid>
+      <timestamp>2022-09-30T10:55:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559868</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="801" sha1="mx3n80pegy9vxpa9ic2cdboqf6ux5aa" xml:space="preserve">{{Infobox Enemy
+|name         = Plane Hox
+|image        = 
+|caption      = Plane Hox
+|category     = Minor Enemy
+|type         = [[Hox]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Plane Hoxes''' are Minor Enemies in {{XC3}}. They are members of the [[Hox]] family, and can be found at level ? at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>mx3n80pegy9vxpa9ic2cdboqf6ux5aa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Plate Belt</title>
+    <ns>0</ns>
+    <id>118988</id>
+    <revision>
+      <id>592827</id>
+      <parentid>592292</parentid>
+      <timestamp>2023-05-15T20:18:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592827</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="a9n1mxcy9zrohfo4junbyybalo6yzzb" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Plate Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Deal 30% less damage but take 15% less damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Plate Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Deal 30% less damage but take 17% less damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Plate Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Deal 30% less damage but take 20% less damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Plate Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>a9n1mxcy9zrohfo4junbyybalo6yzzb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Platinum Anklets</title>
+    <ns>0</ns>
+    <id>122637</id>
+    <revision>
+      <id>592828</id>
+      <parentid>592442</parentid>
+      <timestamp>2023-05-15T20:18:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592828</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1053" sha1="e5604u5agf9el3kui5g21316i32p067" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Platinum Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Blowdown resistance by 50 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Platinum Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Blowdown resistance by 55 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Platinum Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Blowdown resistance by 60 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Platinum Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>e5604u5agf9el3kui5g21316i32p067</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Platinum Belt (XC3)</title>
+    <ns>0</ns>
+    <id>122646</id>
+    <revision>
+      <id>592829</id>
+      <parentid>592575</parentid>
+      <timestamp>2023-05-15T20:18:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592829</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1034" sha1="8xb0qvdo1oxkixcrrbd3b3zbim8ncco" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Platinum Belt (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Platinum Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 16,110 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Platinum Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 16,110 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Platinum Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 16,110 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Platinum Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>8xb0qvdo1oxkixcrrbd3b3zbim8ncco</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Platinum Brooch</title>
+    <ns>0</ns>
+    <id>122876</id>
+    <revision>
+      <id>592830</id>
+      <parentid>592368</parentid>
+      <timestamp>2023-05-15T20:18:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="kdghvt5s6k3cj0690gdsme3avkp69sg" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Platinum Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Platinum Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Platinum Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts accuracy during the day by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Platinum Brooches''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>kdghvt5s6k3cj0690gdsme3avkp69sg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Platinum Cube</title>
+    <ns>0</ns>
+    <id>122623</id>
+    <revision>
+      <id>566852</id>
+      <parentid>551688</parentid>
+      <timestamp>2022-11-23T07:46:39Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="962" sha1="hro5hflxx7hlf3gvgia15slgwi6ocpl" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Platinum Cube
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts damage dealt by Fusion Arts by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Platinum Cube
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts damage dealt by Fusion Arts by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Platinum Cube
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts damage dealt by Fusion Arts by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Platinum Cubes''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>hro5hflxx7hlf3gvgia15slgwi6ocpl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Plush Piranhax</title>
+    <ns>0</ns>
+    <id>121035</id>
+    <revision>
+      <id>559869</id>
+      <parentid>545339</parentid>
+      <timestamp>2022-09-30T10:55:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559869</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="830" sha1="ftxbmycebonjd9edg3kdvvzbjur4tiz" xml:space="preserve">{{Infobox Enemy
+|name         = Plush Piranhax
+|image        = 
+|caption      = Plush Piranhax
+|category     = Minor Enemy
+|type         = [[Piranhax]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Plush Piranhax''' are Minor Enemies in {{XC3}}. They are members of the [[Piranhax]] family, and can be found at level ? at [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ftxbmycebonjd9edg3kdvvzbjur4tiz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polima Amoney</title>
+    <ns>0</ns>
+    <id>123173</id>
+    <revision>
+      <id>595986</id>
+      <parentid>559870</parentid>
+      <timestamp>2023-06-16T18:54:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595986</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="iaygmbfbc9hbw8jin0jk9hmcrjurtwq" xml:space="preserve">{{Infobox Enemy
+|name         = Polima Amoney
+|image        = 
+|caption      = Polima Amoney
+|category     = Minor Enemy
+|type         = [[Amoney]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Polima Amoneys''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Amoney]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Amoneys]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Amoneys]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>iaygmbfbc9hbw8jin0jk9hmcrjurtwq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polka Pippito</title>
+    <ns>0</ns>
+    <id>123235</id>
+    <revision>
+      <id>559871</id>
+      <parentid>553570</parentid>
+      <timestamp>2022-09-30T10:55:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559871</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="784" sha1="3c9rv7kvzri78xti78lamm8s462ou7k" xml:space="preserve">{{Infobox Enemy
+|name         = Polka Pippito
+|image        = 
+|caption      = Polka Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Polka Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>3c9rv7kvzri78xti78lamm8s462ou7k</sha1>
+    </revision>
+  </page>
+  </mediawiki>

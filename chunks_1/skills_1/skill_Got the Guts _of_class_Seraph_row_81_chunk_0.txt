@@ -1,0 +1,6 @@
+Skill Name: Got the Guts 
+
+Class: Seraph
+
+Skill Buff or Effect:  Boosts damage dealt by 100% when HP is at 85% or lower.
+

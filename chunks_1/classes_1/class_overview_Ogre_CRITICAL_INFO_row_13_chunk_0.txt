@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Ogre
+
+Overview:  
+Ogres specialize in smashing [[Enemy (XC3)|enemies]] vigorously with a super-heavy hammer, a powerful weapon with a heavy blow, and also has [[Battle Arts (XC3)|arts]] that can nullify enemy guards. Because of its high attack power, it is easily [[Aggro|targeted]] by enemies. The Talent Art of the Ogre class is [[Pressure Drop]]. It is the initial class of [[Sena]].
+{{clr}}
+
+Arts: {'Pressure Drop': 'Launch |Launch', 'Big Impact': 'Front Blowdown |Blowdown', 'Hammerhead': 'Side Attack ↑', 'Giant Swing': 'Knockback |Knockback (Rank 1 Master Art)', 'Maximum Voltage': 'Unblockable/Atk Up (Rank 10 Master Art)', 'Cannonball': 'Daze |Dazed ↑'}
+
+Class Skills: {'Fighting Prowess': 'Boosts damage dealt by physical Arts by 30-50%. (Rank 5 Master Skill)', 'Insult to Injury': 'Boosts damage dealt when attacking [[Topple (XC3)|toppled]] enemies by 60-150%.', 'Dynamite Spirit': 'Boosts damage dealt by 20-60% when HP is at 90% or higher. (Rank 15 Master Skill)', 'Fury Smash': 'Increases reaction success rate by 10-45 percentage points.'}
+
+Hero Exclusive Arts: nan
+

@@ -1,0 +1,1246 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Special Foot Wraps</title>
+    <ns>0</ns>
+    <id>122583</id>
+    <revision>
+      <id>592873</id>
+      <parentid>592371</parentid>
+      <timestamp>2023-05-15T20:19:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1010" sha1="cd4dcxncmn8wc5vtmhzndj5fvucjmzo" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Special Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Special Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 42%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Special Foot Wraps
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt indoors by 45%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Special Foot Wraps''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>cd4dcxncmn8wc5vtmhzndj5fvucjmzo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spectral R&#233;my</title>
+    <ns>0</ns>
+    <id>119460</id>
+    <revision>
+      <id>583271</id>
+      <parentid>574692</parentid>
+      <timestamp>2023-04-17T13:44:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1310" sha1="sidz3froowbmafivodq5zx37ylsgdpo" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Spectral R&#233;my
+|image        = XC3 Spectral R&#233;my.png
+|caption      = Spectral R&#233;my
+|type         = [[Medooz]]
+|level        = 42
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 748
+|cp           = 59
+|sp           = 5
+|gold         = 592
+|hp           = 910,800
+|strength     = 486
+|healing      = 390
+|dexterity    = 126
+|agility      = 66
+|physdef      = 0%
+|ethdef       = 50%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Spectral R&#233;my''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Medooz]] family, and can be found at level 42 on [[Bannis Path]] near [[Headwater Camp]] at the [[Great Sword's Base]]. The [[Toxic Gas]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Spectral remy location.png
+Spectral remy.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Medoozes]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>sidz3froowbmafivodq5zx37ylsgdpo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Speculatos</title>
+    <ns>0</ns>
+    <id>121711</id>
+    <revision>
+      <id>596688</id>
+      <parentid>596679</parentid>
+      <timestamp>2023-06-19T10:10:58Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>596688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="764" sha1="rhhke0icaxn39selyv79srykxu8yhac" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Speculatos
+|image        = 
+|caption      = Speculatos
+|category     = Minor Enemy
+|type         = [[Levnis]]
+|level        = 39-40
+|area         = [[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Speculatos''' are Minor Enemies in {{XC3}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 39-40 in [[Keves Castle]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rhhke0icaxn39selyv79srykxu8yhac</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spike Urchon (XC3)</title>
+    <ns>0</ns>
+    <id>121860</id>
+    <revision>
+      <id>590205</id>
+      <parentid>564661</parentid>
+      <timestamp>2023-05-08T12:50:49Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>590205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2045" sha1="ta25ev2kb5f72uahdtgxhfk5yyeg1bv" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Spike Urchon (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Spike Urchon
+|image        = 
+|caption      = Spike Urchon
+|category     = Minor Enemy
+|type         = [[Urchon]]
+|level        = 44-45
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Spike Urchons''' are Minor Enemies in {{XC3}}. They are members of the [[Urchon]] family, and can be found at level 44-45 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Spike Urchon
+|image        = 
+|caption      = Spike Urchon
+|category     = Minor Enemy
+|type         = [[Urchon]]
+|level        = 46
+|area         = [[Aurora Shelf]] ([[Old Legre-Bhaja Battlefront]], [[Sullied Temple of Abitalia]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Spike Urchons''' are Minor Enemies in {{XC3FR}}. They are members of the [[Urchon]] family, and can be found at level 46 in the water found at the [[Old Legre-Bhaja Battlefront]] and the [[Sullied Temple of Abitalia]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Urchons]]
+[[Category:XC3FR Urchons]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3FR Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]</text>
+      <sha1>ta25ev2kb5f72uahdtgxhfk5yyeg1bv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spiked Pauldrons (XC3)</title>
+    <ns>0</ns>
+    <id>119012</id>
+    <revision>
+      <id>566900</id>
+      <parentid>558009</parentid>
+      <timestamp>2022-11-23T10:36:44Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="983" sha1="rkntykx9s10j2eht46uggj4nalkx1i7" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Spiked Pauldrons (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Spiked Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Boosts Smash damage by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Spiked Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Boosts Smash damage by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Spiked Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Boosts Smash damage by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Spiked Pauldrons''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>rkntykx9s10j2eht46uggj4nalkx1i7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spiky Aurelia</title>
+    <ns>0</ns>
+    <id>119475</id>
+    <revision>
+      <id>574694</id>
+      <parentid>559469</parentid>
+      <timestamp>2023-01-30T05:45:58Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574694</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1368" sha1="jp6msgtlaaylgslyfckvcbnzoi1whqj" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Spiky Aurelia
+|image        = XC3 Spiky Aurelia.png
+|caption      = Spiky Aurelia
+|type         = [[Antol]]
+|level        = 63
+|area         = [[Erythia Sea]] ([[Antol Pit]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,550
+|cp           = 217
+|sp           = 5
+|gold         = 2,952
+|hp           = 2,786,400
+|strength     = 1,064
+|healing      = 493
+|dexterity    = 275
+|agility      = 149
+|physdef      = -10%
+|ethdef       = 10%
+|critrate     = 10%
+|guardrate-front = 5%
+|guardrate-side  = 5%
+|guardrate-back  = 0%
+}}
+'''Spiky Aurelia''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Antol]] family, and can be found at level 63 in the [[Antol Pit]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Queenly Pride]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Spiky aurelia location.png
+Spiky aurelia.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Antols]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>jp6msgtlaaylgslyfckvcbnzoi1whqj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spiralhorn Baccro</title>
+    <ns>0</ns>
+    <id>119499</id>
+    <revision>
+      <id>583238</id>
+      <parentid>574696</parentid>
+      <timestamp>2023-04-16T20:09:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Location correction</comment>
+      <origin>583238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1389" sha1="ii5ry39g3iezr1z6v4qwmsu58n4h359" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Spiralhorn Baccro
+|image        = XC3 Spiralhorn Baccro.png
+|caption      = Spiralhorn Baccro
+|type         = [[Ories]]
+|level        = 56
+|area         = [[Captocorn Peak]] ([[Tsang Road]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,301
+|cp           = 161
+|sp           = 5
+|gold         = 1,055
+|hp           = 2,083,200
+|strength     = 905
+|healing      = 324
+|dexterity    = 165
+|agility      = 97
+|physdef      = -15%
+|ethdef       = 15%
+|critrate     = 18%
+|guardrate-front = 20%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Spiralhorn Baccro''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ories]] family, and can be found at level 56 on [[Tsang Road]] on [[Captocorn Peak]]. The [[Soulhacker#Enemy Skills|Grace of the Land]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 25%
+|etherdebuff = 70%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Spiralhorn baccro location.png
+Spiralhorn baccro.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ories]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ii5ry39g3iezr1z6v4qwmsu58n4h359</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Spocked Aligo</title>
+    <ns>0</ns>
+    <id>117452</id>
+    <revision>
+      <id>594374</id>
+      <parentid>583214</parentid>
+      <timestamp>2023-05-27T15:04:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594374</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1575" sha1="fnj967fk3bw3dpejwcpauqas5905tkd" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Spocked Aligo
+|image        = 
+|caption      = Spocked Aligo
+|category     = Normal Enemy
+|type         = [[Aligo]]
+|level        = 27-28
+|area         = [[Great Cotte Falls]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Spocked Aligos''' are enemies in {{XC3}}. They are members of the [[Aligo]] family, and can be found at level 27-28 at the [[Great Cotte Falls]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Spocked Aligo
+|image        = Spocked Aligo FR.jpg
+|caption      = Spocked Aligo
+|category     = Normal Minor Enemy
+|type         = [[Aligo]]
+|level        = 23
+|area         = [[Yesterdale]] ([[Tephra Hill]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Spocked Aligos''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Aligo]] family, and can be found at level 23 at the bottom of [[Tephra Hill]] in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Aligos]]
+[[Category:XC3FR Aligos]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3FR Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>fnj967fk3bw3dpejwcpauqas5905tkd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Squire Tirkin</title>
+    <ns>0</ns>
+    <id>121127</id>
+    <revision>
+      <id>559963</id>
+      <parentid>557268</parentid>
+      <timestamp>2022-09-30T10:58:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559963</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="969" sha1="h8uky909v2ioyf84b6ro39i8rkmrbe0" xml:space="preserve">{{Infobox Enemy
+|name         = Squire Tirkin
+|image        = 
+|caption      = Squire Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Fornis Region]]&lt;br /&gt;[[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Squire Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]] or at [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>h8uky909v2ioyf84b6ro39i8rkmrbe0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Staahl Gogol</title>
+    <ns>0</ns>
+    <id>121201</id>
+    <revision>
+      <id>576696</id>
+      <parentid>567977</parentid>
+      <timestamp>2023-02-12T19:51:25Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1497" sha1="mrd554ig6he8m1407rbqq7gr6r6n0kl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Staahl Gogol
+|image        = Staahl Gogol.png
+|caption      = Staahl Gogol
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Gogol]]
+|level        = 55
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = During ''[[Prison Refurbishment]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 1,265
+|cp           = 140
+|sp           = 0
+|gold         = 413
+|hp           = 565,650
+|strength     = 967
+|healing      = 369
+|dexterity    = 226
+|agility      = 173
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 5%
+|guardrate-front   = 5%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Staahl Gogol''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Gogol]] family, and can be found at level 55 in the [[Low Maktha Wildwood]] during ''[[Prison Refurbishment]]''. It drops [[Wheelideeli's Abacus]] upon being defeated.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 60%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 0%
+|etherdebuff = 40%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mrd554ig6he8m1407rbqq7gr6r6n0kl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stage of Destiny</title>
+    <ns>0</ns>
+    <id>124340</id>
+    <revision>
+      <id>576294</id>
+      <parentid>562916</parentid>
+      <timestamp>2023-02-09T13:17:08Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1284" sha1="g7wkuk7egqsrcxc5w1j5bu6x47p5bfq" xml:space="preserve">{{Infobox quest
+|name          = Stage of Destiny
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Mehh... Archsage feeling tense... Bit scared of Moebius, to tell truth... Please to beat and restore good vibe!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main story completed
+|difficultyCB3 = 4
+|rewards       = 
+}}
+'''Stage of Destiny''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will reward the party with an [[Accomplished Hairpiece]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 4
+|-
+| Level Restriction || Lv 70
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[U|Moebius U]] || 72
+|-
+| [[E#Battle|Moebius E]] || 72
+|-
+| rowspan="2" | 2 || [[K#Battles|Moebius K]] || 73
+|-
+| [[L#Battle|Moebius L]] || 73
+|-
+| rowspan="1" | 3 || [[Moebius O &amp; P]] || 75
+|-
+| rowspan="2" | 4 || [[X#Battle|Moebius X]] || 75
+|-
+| [[Y#Battle|Moebius Y]] || 75
+|-
+|}
+
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>g7wkuk7egqsrcxc5w1j5bu6x47p5bfq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stalker</title>
+    <ns>0</ns>
+    <id>117353</id>
+    <revision>
+      <id>599635</id>
+      <parentid>596789</parentid>
+      <timestamp>2023-07-13T11:48:04Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>599635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6954" sha1="385xqg7m421i6hq13gt03bo92bxxjkn" xml:space="preserve">{{spoiler}}
+{{quote|An Attacker who excels at sniping foes with arrows and hunting them from the safety of stealth.|Class menu description}}
+[[File:XC3 Stalker Weapon Icon.png|thumb|Stalker class icon]]
+'''Stalker''' (Japanese: {{lang|ja|&#24187;&#24339;&#22763;}}, ''Genky&#363;shi'', Phantom Archer) is an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1536243206710784001]&lt;/ref&gt;
+
+== Overview ==
+Stalkers wield a bow and specialize at sniping [[Enemy (XC3)|enemies]] with arrows and hunting them from the safety of stealth; while it has low attack power compared to other Attacker classes, it is better able to manage its aggro levels. It is the class of [[Juniper]].
+
+It is unlocked by completing ''[[Natural Selection]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 by completing the [[Hero Quest|Ascension Quest]] ''[[Survivors]]''.
+
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|''Class Inheritor''
+|6,125
+|3,500
+|4,375
+|5,250
+|2,625
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 225
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 225
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 275
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 275
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 335
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 335
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 360
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 360
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 385
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Survivors]]''
+|-
+| 11 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 450
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 450
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 565
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 565
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 675
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 675
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 725
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 840
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Stalker class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 65% || 100% || 20% || 120% || 120% || 10% || 10%
+|-
+| 10 || 67% || 105% || 22% || 125% || 125% || 12% || 12%
+|-
+| 20 || 70% || 110% || 25% || 130% || 130% || 15% || 15%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 18 || 20% || 3%
+|-
+| 10 || 39 || 21% || 3%
+|-
+| 20 || 71 || 22% || 4%
+|-
+| 30 || 110 || 23% || 4%
+|-
+| 40 || 153 || 24% || 4%
+|-
+| 50 || 205 || 25% || 5%
+|-
+| 60 || 260 || 26% || 5%
+|-
+| 70 || 323 || 27% || 5%
+|-
+| 80 || 395 || 28% || 5%
+|-
+| 90 || 474 || 29% || 6%
+|-
+| 99 || 554 || 30% || 6%
+|}
+== Arts ==
+* '''[[Refreshing Rain]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/Wounded enemy&#8593;
+* '''[[Landslide]]''', [[Launch (XC3)|Launched]]&#8593; / Evade
+* '''[[Staying Power]]''', Field / [[Art Follow-Up]]
+* '''[[Driving Arrow]]''', Back [[Bleed (XC3)|Bleed]]
+* '''[[Rapid Shot]]''', Side attack&#8593;
+* '''[[Night Hunt]]''', Slower aggro/Back atk+
+
+=== Hero-Exclusive Arts ===
+* '''[[Downdraft]]''', Back [[Bleed (XC3)|Bleed]]
+* '''[[Force of Nature]]''', Field / Art Follow-up
+* '''[[Liberation Arrow]]''', Side attack&#8593;
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 12.png]] '''Serene Heart''': Reduces aggro generated from attacks by 25-50%.
+* [[File:XC3 Skill Icon 10.png]] '''Swift Death''': Deals 50-70% more damage against enemies who are at 30% HP or less. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 24.png]] '''In Cold Blood''': Boosts damage dealt by 75-150% when attacking an enemy suffering from Bleed.
+* [[File:XC3 Skill Icon 9.png]] '''Evasion Expertise''': 30-50% chance to evade ranged attacks. (Rank 5 Master Skill)
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Swift Death
+!In Cold Blood
+!Evasion Expertise
+!Serene Heart
+|-
+| 1
+| 50%
+| 75%
+| 30%
+| 25%
+|-
+| 5
+| 55%
+| 85%
+| 35%
+| 35%
+|-
+| 10
+| 60%
+| 100%
+| 40%
+| 40%
+|-
+| 15
+| 65%
+| 120%
+| 45%
+| 45%
+|-
+| 20
+| 70%
+| 150%
+| 50%
+| 50%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Juniper Artwork.png|Juniper, a Stalker
+Stalker Noah.png|Noah as a Stalker
+Stalker Mio.png|Mio as a Stalker
+Stalker Eunie.png|Eunie as a Stalker
+Stalker Taion.png|Taion as a Stalker
+Stalker Lanz.png|Lanz as a Stalker
+Stalker Sena.png|Sena as a Stalker
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>385xqg7m421i6hq13gt03bo92bxxjkn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Star Anklets</title>
+    <ns>0</ns>
+    <id>119039</id>
+    <revision>
+      <id>566901</id>
+      <parentid>551239</parentid>
+      <timestamp>2022-11-23T10:37:06Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1005" sha1="ovwy1a6fqjsgyf5fsi2b7u36av4j27t" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Star Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7740 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Star Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7740 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Star Anklets
+|image     = File:XC3 Accessory Boot.png
+|caption   = Extends duration when quelling enemy rage with Burst by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7740 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Star Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>ovwy1a6fqjsgyf5fsi2b7u36av4j27t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Star Necklace</title>
+    <ns>0</ns>
+    <id>122859</id>
+    <revision>
+      <id>566902</id>
+      <parentid>551705</parentid>
+      <timestamp>2022-11-23T10:38:00Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566902</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="950" sha1="inuoaar3vhe46k01u53q5q3kwetyysi" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Star Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 60% resistance to Shackle Arts.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Star Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 65% resistance to Shackle Arts.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Star Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 70% resistance to Shackle Arts.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Star Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>inuoaar3vhe46k01u53q5q3kwetyysi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stark Aspar (XC3)</title>
+    <ns>0</ns>
+    <id>123179</id>
+    <revision>
+      <id>576750</id>
+      <parentid>560027</parentid>
+      <timestamp>2023-02-13T01:57:39Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576750</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="779" sha1="bjgvwnsm0hepofy0reoctg1o7xc3avi" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Stark Aspar (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Stark Aspar
+|image        = 
+|caption      = Stark Aspar
+|category     = Minor Enemy
+|type         = [[Aspar]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Stark Aspars''' are Minor Enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level ? in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bjgvwnsm0hepofy0reoctg1o7xc3avi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stately Doramma</title>
+    <ns>0</ns>
+    <id>118693</id>
+    <revision>
+      <id>583315</id>
+      <parentid>574697</parentid>
+      <timestamp>2023-04-17T16:06:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583315</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1438" sha1="k3r0j9ghy18ou6vjkkcgerl3ehphpt8" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Stately Doramma
+|image        = XC3 Aquatic Beasts.png
+|caption      = Stately Doramma (right)
+|type         = [[Quarmu]]
+|level        = 64
+|area         = [[Great Cotte Falls]] ([[Cotte Fountainhead]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 1,763
+|cp           = 108
+|sp           = 5
+|gold         = 1,255
+|hp           = 1,663,200
+|strength     = 1,242
+|healing      = 448
+|dexterity    = 203
+|agility      = 172
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Stately Doramma''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Quarmu]] family, and can be found at level 64 at the [[Cotte Fountainhead]] on [[Great Cotte Falls]]. It forms the "Aquatic Beasts" duo with [[Saberly Doramp&#233;]]. The [[Soulhacker#Enemy Skills|Scattered Healing]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 75%
+|etherdebuff = 50%
+}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Aquatic beasts location.png
+Aquatic beasts doramma.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Quarmus]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>k3r0j9ghy18ou6vjkkcgerl3ehphpt8</sha1>
+    </revision>
+  </page>
+  </mediawiki>

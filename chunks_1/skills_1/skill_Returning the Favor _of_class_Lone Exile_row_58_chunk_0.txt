@@ -1,0 +1,6 @@
+Skill Name: Returning the Favor 
+
+Class: Lone Exile
+
+Skill Buff or Effect:  When nearby ally is attacked, deal 250% of attack in damage to enemy.
+

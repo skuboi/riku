@@ -1,0 +1,6 @@
+Skill Name: Antibody System 
+
+Class: War Medic
+
+Skill Buff or Effect:  Shortens duration of debuffs on self by 50%. [Rank 15 Master Skill]
+

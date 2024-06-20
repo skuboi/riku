@@ -1,0 +1,6 @@
+Art Name: Vivid Carve
+
+Class: Lapidarist
+
+Effect: Remove buffs
+

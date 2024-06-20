@@ -1,0 +1,6 @@
+Art Name: Dragon's Snarl
+
+Class: Seraph
+
+Effect: High Crit. Rate/Dmg self
+

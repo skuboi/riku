@@ -1,0 +1,6 @@
+Art Name: Hidden Thorn
+
+Class: Flash Fencer
+
+Effect: Bleed
+

@@ -1,0 +1,6 @@
+Art Name: Slit Edge
+
+Class: Shulk
+
+Effect: AOE/Bleed
+

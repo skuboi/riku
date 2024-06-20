@@ -1,0 +1,6 @@
+Art Name: Grand Protection
+
+Class: Guardian Commander
+
+Effect: Block Rate+/Atk Down
+

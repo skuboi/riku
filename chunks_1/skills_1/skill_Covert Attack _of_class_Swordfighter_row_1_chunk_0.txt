@@ -1,0 +1,6 @@
+Skill Name: Covert Attack 
+
+Class: Swordfighter
+
+Skill Buff or Effect:  Reduces aggro generated from attacks by 65%. [Rank 15 Master Skill]
+

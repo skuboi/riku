@@ -1,0 +1,6 @@
+Skill Name: Rescue License 
+
+Class: War Medic
+
+Skill Buff or Effect:  Increases HP restored when reviving an ally by 40%.
+

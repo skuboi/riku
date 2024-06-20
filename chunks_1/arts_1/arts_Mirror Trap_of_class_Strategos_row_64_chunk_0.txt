@@ -1,0 +1,6 @@
+Art Name: Mirror Trap
+
+Class: Strategos
+
+Effect: Counter Heal
+

@@ -1,0 +1,6 @@
+Art Name: Fatal Barrage
+
+Class: Full Metal Jaguar
+
+Effect: AOE / Back attack _
+

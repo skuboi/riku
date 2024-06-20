@@ -1,0 +1,6 @@
+Art Name: Mystic Vision
+
+Class: Incursor
+
+Effect: Crit. Rate & dmg+
+

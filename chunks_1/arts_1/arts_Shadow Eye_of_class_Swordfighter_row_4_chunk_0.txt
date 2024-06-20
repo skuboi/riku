@@ -1,0 +1,6 @@
+Art Name: Shadow Eye
+
+Class: Swordfighter
+
+Effect: Aggro halved / Atk up
+

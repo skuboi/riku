@@ -1,0 +1,6 @@
+Art Name: Illuminate
+
+Class: Signifier
+
+Effect: AOE / Dmg+ per buff
+

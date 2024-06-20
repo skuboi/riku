@@ -1,0 +1,6 @@
+Art Name: Crimson Lance
+
+Class: Seraph
+
+Effect: SideÊTopple
+

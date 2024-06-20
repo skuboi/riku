@@ -1,0 +1,6 @@
+Skill Name: I'll Defend You 
+
+Class: Zephyr
+
+Skill Buff or Effect:  16% to prevent attacks on allies within a fixed radius.
+

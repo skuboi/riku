@@ -1,0 +1,6 @@
+Art Name: Starfall
+
+Class: Royal Summoner
+
+Effect: AOE /ÊTopple
+

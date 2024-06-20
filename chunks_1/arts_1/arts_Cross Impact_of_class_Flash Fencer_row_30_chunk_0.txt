@@ -1,0 +1,6 @@
+Art Name: Cross Impact
+
+Class: Flash Fencer
+
+Effect: Power Charge on hit
+

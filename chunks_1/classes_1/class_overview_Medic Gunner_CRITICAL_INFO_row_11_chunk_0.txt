@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Medic Gunner
+
+Overview:  
+Medic Gunners specialize in healing. They have [[Battle Arts (XC3)|arts]] that deploys a circular field, granting recovery inside a wide area and strengthening companions who enter it. By healing too much, they can be easily targeted by the [[Enemy (XC3)|enemies]]. The Talent Art of the Medic Gunner class is [[Healing Ring]]. Medic Gunner is the initial class of [[Eunie]].
+{{clr}}
+
+Arts: {'Healing Ring': 'Field / Regenerate |Regenerate', 'Myopic Screen |Myopic Screen': 'Daze |Daze (Rank 1 Master Art)', 'Group Heal': 'AOE / Heal', 'Ether Cannon |Ether Cannon': 'Accuracy down (Rank 10 Master Art)', 'Power Ring': 'Field / Atk Up', 'Vortex |Vortex': 'AOE/Area heal on hit'}
+
+Class Skills: {'Eternal Formation': 'Increases field effect duration by 30-50%. (Rank 15 Master Skill)', 'Medical Mind': 'Boosts amount of HP healed from using healing Arts by 20-30%.', 'Speedy Recovery': 'Boosts speed of ally revival by 20-40% and raises Healing by 5-15.', 'Ninja Healer': 'Reduces aggro generated from healing Arts by 30-50%. (Rank 5 Master Skill)'}
+
+Hero Exclusive Arts: nan
+

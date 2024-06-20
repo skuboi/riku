@@ -1,0 +1,6 @@
+Art Name: Cure Bullet
+
+Class: War Medic
+
+Effect: AOE/Clear debuffs/Debf. barrier
+

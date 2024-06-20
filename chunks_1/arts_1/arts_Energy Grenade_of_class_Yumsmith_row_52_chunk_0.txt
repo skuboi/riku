@@ -1,0 +1,6 @@
+Art Name: Energy Grenade
+
+Class: Yumsmith
+
+Effect: Continuous dmg field
+

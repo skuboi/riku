@@ -1,0 +1,6 @@
+Art Name: Lustrous Spike
+
+Class: Noponic Champion
+
+Effect: Self KO_
+

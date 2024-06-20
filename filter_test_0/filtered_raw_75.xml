@@ -1,0 +1,1449 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vokooku</title>
+    <ns>0</ns>
+    <id>120497</id>
+    <revision>
+      <id>602153</id>
+      <parentid>600835</parentid>
+      <timestamp>2023-07-22T12:30:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Unique Monster */</comment>
+      <origin>602153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" sha1="00abiw43yfj2ipvgpo6kdyxq0gdstlr" xml:space="preserve">{{Spoiler}}
+[[File:XC3 Desired Oruria.png|thumb|Desired Oruria]]
+'''Vokookus''' are a family of enemies in {{XC3}}. They are found exclusively in [[Origin]] and appear to resemble [[Laia]].
+
+== Normal Minor Enemy ==
+* [[Eruno Vokooku]]
+
+== Unique Monster ==
+* [[Desired Oruria]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Vokookus]]
+[[Category:XC3 Machines]]
+[[Category:Vokookus]]
+[[Category:Species by Type]]</text>
+      <sha1>00abiw43yfj2ipvgpo6kdyxq0gdstlr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Volff</title>
+    <ns>0</ns>
+    <id>5934</id>
+    <revision>
+      <id>602154</id>
+      <parentid>600836</parentid>
+      <timestamp>2023-07-22T12:30:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>602154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4857" sha1="fik9rze2gp2qxi1z7fc5m4rt85jmlsi" xml:space="preserve">[[file:Caelum volff.png|thumb|Caelum Volff in {{XC|-}}]]
+'''Volffs''' (Japanese: {{lang|ja|&#12532;&#12457;&#12523;&#12501;}}, ''Vorufu'') are a species of enemy in the {{XC|serieslink}}. They are similar in appearance to a wolf.
+
+Volffs undergo minor appearance changes between games; their manes are longer and colored differently in {{XC2}} and {{TTGC}}, but otherwise they are very similar to the original designs in {{XC}}.
+
+== {{XC|-}} ==
+Volffs can be found on [[Bionis' Leg]], in [[Satorl Marsh]], and on the [[Fallen Arm]].
+
+=== Normal Minor Enemies ===
+* [[Caelum Volff]]
+* [[Leader Volff]]
+* [[Leg Volff]]
+* [[Officer Volff]]
+* [[Partner Volff]]
+* [[Satorl Volff]]
+* [[Ugly Volff (XC1)|Ugly Volff]]
+
+=== Quest Exclusive Enemies ===
+* [[Ferocious Volff]] (during ''[[Save the Girl!]]'')
+* [[Hungry Volff]] (during ''[[What is Courage?!]]'')
+
+=== Unique Monsters ===
+* [[Aged Leraje]]
+* [[Napping Volfen]]
+* [[Swift Zektol]]
+
+== {{XCFC|sub}} ==
+Volffs can be found on the [[Bionis' Shoulder]].
+
+=== Normal Minor Enemies ===
+* [[Leg Volff]]
+* [[Officer Volff]]
+* [[Satorl Volff]]
+
+=== Quest Exclusive Enemy ===
+* [[Revenant Volff]] (during ''[[Inclined to Climb]]'')
+
+== {{XC2|-}} ==
+Volffs can be found in [[Gormott Province]], the [[Kingdom of Uraya]] or the [[Kingdom of Tantal]].
+
+=== Normal Minor Enemies ===
+* [[Brewl Volff]]
+* [[Giron Volff (XC2)|Giron Volff]]
+* [[Land Volff (XC2)|Land Volff]]
+* [[Red Volff]]
+* [[Rip Volff]]
+* [[Samoo Volff]]
+* [[Young Volff]]
+
+=== Quest Exclusive Enemies ===
+* [[Donya Volff]] (During ''[[Flames of Justice]]'')
+* [[Mirrl Volff]] (During ''Flames of Justice'')
+* [[Noral Volff]] (During ''Flames of Justice'')
+* [[Snooz Volff]] (During ''[[Knocked About Nopon]]'')
+* [[Uhrl Volff]] (During ''Flames of Justice'')
+
+=== Unique Monster ===
+* [[Blue-Eyed Korbin]] ([[Driver (enemy)|Driver]] with [[Blade (enemy)|Blade]])
+
+=== Challenge Battle Mode Enemy ===
+* [[Hunting Volff]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Firm Volff]]
+* [[Gemini Volff]]
+* [[Ralsh Volff]]
+* [[Sable Volff]]
+
+=== Story Exclusive Enemy ===
+* [[Raging Volff]]
+
+=== Quest Exclusive Enemies ===
+* [[Innocent Volff]] (During ''[[Passing the Torch]]'')
+* [[Timid Volff]] (During ''[[A Simple Errand]]'')
+
+=== Unique Monster ===
+* [[Lunar Amaruq]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Volffs can be found in many places across [[Aionios]].
+=== Normal Minor Enemies ===
+* [[Avee Volff]]
+* [[Aviga Volff]]
+* [[Curran Volff]]
+* [[Giron Volff (XC3)|Giron Volff]]
+* [[Jarack Volff]]
+* [[Land Volff (XC3)|Land Volff]]
+* [[Lesser Volff]]
+* [[Luina Volff]]
+* [[Robnos Volff]]
+* [[Rood Volff]]
+* [[Ugly Volff (XC3)|Ugly Volff]]
+
+=== Quest Exclusive Enemies ===
+* [[False Volff]] (During ''[[Transparent Dreams]]'')
+* [[Rhodhii Volff]] (During ''[[Shadow of Enmity]]'')
+* [[Rhodya Volff]] (During ''Shadow of Enmity'')
+
+=== Unique Monster ===
+* [[Lapdog Veece]]
+
+=== Quest Exclusive Bosses ===
+* [[Debria Volff]] (During ''[[Yorde's Request]]'')
+* [[Hunter Volff]] (During ''[[No Want of Courage]]'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Jarack Volff]]
+* [[Land Volff (XC3)|Land Volff]]
+
+=== Unique Monster ===
+* [[Advent Wolf Marduk]]
+
+=== Boss ===
+* [[Skarn Volff]]
+
+=== Quest Exclusive Boss ===
+* [[Encounter Volff]] (During ''[[Where Is That Guy?]]'')
+
+== Trivia ==
+* The Japanese name for ''Volff'', which is {{lang|ja|&#12532;&#12457;&#12523;&#12501;}} (''Vorufu''), is actually the Japanese adaptation of the German word ''Wolf'' ({{IPA|/&#712;v&#596;lf/}}), which simply means "wolf." The English word ''wolf'' ({{IPA|/&#712;w&#650;lf/}}) is usually adapted to Japanese as {{lang|ja|&#12454;&#12523;&#12501;}} (''urufu'').
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Ferocious Volff.jpg
+Partner Volff.jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+UhrlVolff.jpg|Uhrl Volff
+SnoozVolff.jpg|Snooz Volff
+XC2 Blue-Eyed Korbin.jpg|Blue-Eyed Korbin, a Driver Volff
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Firm Volff.jpg|Firm Volff
+SableVolff.jpg|Sable Volff
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Lesser Volff.png|Lesser Volff
+XC3 False Volff.png|False Volff
+XC3 Lapdog Veece.png|Lapdog Veece
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Advent Wolf Marduk.jpg|Advent Wolf Marduk
+Jarack Volff FR.jpg|Jarack Volff
+Land Volff FR.jpg|Land Volff
+Skarn Volff.jpg|Skarn Volff
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:Bionis Life]]
+[[Category:XC Volffs]]
+[[Category:Mechonis Life]]
+[[Category:Quadrupedal Enemies]]
+[[Category:Sight Category]]
+[[Category:XCFC Species]]
+[[Category:XCFC Volffs]]
+[[Category:XC2 Species]]
+[[Category:XC2 Volffs]]
+[[Category:XC2 Beasts]]
+[[Category:XC2 Affinity Chart Enemies]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Volffs]]
+[[Category:XC3 Species]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Volffs]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Volffs]]
+[[Category:Species by Type]]</text>
+      <sha1>fik9rze2gp2qxi1z7fc5m4rt85jmlsi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vollgull</title>
+    <ns>0</ns>
+    <id>119238</id>
+    <revision>
+      <id>602155</id>
+      <parentid>600837</parentid>
+      <timestamp>2023-07-22T12:30:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1239" sha1="4jdgbaydl2q8gxq7ssguu5xjy3g7qve" xml:space="preserve">[[File:XC3 Bunez Vollgull.png|thumb|Bunez Vollgull]]
+'''Vollgulls''' are a family of flying enemies in {{XC3}} and {{XC3FR|sublink}}.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Bunez Vollgull]]
+* [[Rafale Vollgull]]
+
+=== Quest Exclusive Enemy ===
+* [[Invaiss Vollgull]] (During ''[[So Much More to See]]'')
+
+=== Unique Monster ===
+* [[Perilwing Ryuho]] ([[Superboss]])
+
+=== Quest Exclusive Boss ===
+* [[Nopon Eater]] (DLC, during ''[[The Hope of Noponkind]]'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Dark Vollgull]] ([[Fogbeast]])
+* [[Young Vollgull]]
+* [[Grippen Vollgull]]
+
+=== Unique Monsters ===
+* [[Fograptor D'nari]] (Fogbeast)
+* [[Surrogate Fitzpatrick]]
+
+== Trivia ==
+* Despite having the name of Young Vollgull, they actually have the same model and moveset of [[Rhogul]]s.
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Perilwing Ryuho (cropped).png|Perilwing Ryuho
+Invaiss Vollgull.jpg|Invaiss Vollgull
+XC3 Nopon Eater.png&#8206;|Nopon Eater
+Dark Vollgull.jpg|Dark Vollgull
+&lt;/gallery&gt;
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Vollgulls]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Vollgulls]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Vollgulls]]
+[[Category:Species by Type]]</text>
+      <sha1>4jdgbaydl2q8gxq7ssguu5xjy3g7qve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Voppa Bunnit</title>
+    <ns>0</ns>
+    <id>121721</id>
+    <revision>
+      <id>582111</id>
+      <parentid>561172</parentid>
+      <timestamp>2023-04-08T16:38:06Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="792" sha1="m9x66dyfrhuixjuutxnmq6hkqt4o67t" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Voppa Bunnit
+|image        = 
+|caption      = Voppa Bunnit
+|category     = Normal Minor Enemy
+|type         = [[Bunnit]]
+|level        = 88
+|area         = [[The Cavity]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Voppa Bunnits''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 88 in [[The Cavity]] of [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>m9x66dyfrhuixjuutxnmq6hkqt4o67t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vvarga</title>
+    <ns>0</ns>
+    <id>119654</id>
+    <revision>
+      <id>602156</id>
+      <parentid>600838</parentid>
+      <timestamp>2023-07-22T12:30:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="776" sha1="l51mbhn3lvjk2lt2j5psqtjl2xvunnm" xml:space="preserve">[[File:XC3 Wicked Wolf Aranqui.png|thumb|Wicked Wolf Aranqui]]
+'''Vvargas''' are a family of enemies in {{XC3}} and {{XC3FR|sublink}}. They share many similarities with [[Volff]]s.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemy ===
+* [[Jarack Vvarga]]
+
+=== Unique Monster ===
+* [[Wicked Wolf Aranqui]]
+
+== {{XC3FR|sub}} ==
+=== Quest Exclusive Bosses ===
+* [[Rogal Vvarga]] (During ''[[Big Game: Rogal Vvarga]]'')
+* [[Rox Vvarga]] (During ''Big Game: Rox Vvarga'')
+
+== Gallery ==
+&lt;gallery&gt;
+Rox Vvarga.jpg|Rox Vvarga
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+[[Category:XC3 Species]]
+[[Category:XC3 Vvargas]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Vvargas]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Vvargas]]
+[[Category:Species by Type]]</text>
+      <sha1>l51mbhn3lvjk2lt2j5psqtjl2xvunnm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>W</title>
+    <ns>0</ns>
+    <id>119250</id>
+    <revision>
+      <id>598314</id>
+      <parentid>589560</parentid>
+      <timestamp>2023-07-05T01:04:48Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>598314</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4181" sha1="pi53pyidc7zfzikb315c7dsie7ds2fx" xml:space="preserve">{{For|the character in {{XC3FR|sublink}}|W (FR)}}
+{{spoiler}}
+{{Infobox Character
+|name          = W
+|image         = Consul_W.jpg 
+|species       = [[Moebius]]
+|age           = 
+|gender        = Female
+|haircolor     = 
+|eyecolor      = Red
+|affiliation   = [[Consul]]s
+|appearances   = {{XC3}}
+|voiceactorjp  = 
+|voiceactoreng = 
+}}
+{{quote|Can play... with doll?|W}}
+'''W''' is a character in {{XC3}}.
+
+== Overview ==
+W is a [[Consul]]. She is fought during ''[[A Deep-Seated Scar]]''. She has the ability to control corpses and unconscious people, though the latter ability can be limited by her victims' psyche. This consul is very quiet and almost childlike, and enjoys playing with her "puppets".
+{{clr}}
+
+== Story ==
+[[R]] enlisted the aid of W to help her in her war against [[Colony 11]]. She made her first public appearance attacking [[Ashera]] from behind once R challenged the latter and [[Ouroboros]] to a duel. Then, W was able to control her to have ''her'' duel Ouroboros. R advised her not to kill her until she was satisfied, W was glad to "play" some more. [[Eunie]] was able to break W's control by shooting at and talking to her, allowing barriers to put around Ashera's psyche. R demanded that W keeps using her powers but she insisted that that it was impossible at that time. So, the two turned into their [[Moebius]] forms to take them out, but both were defeated anyway. W faded away before R, whom Ashera spoke to before fading as well.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius W
+|image        = Moebius_W.jpg 
+|caption      = Moebius W
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 65
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 0]])
+|spawntime    = During ''[[A Deep-Seated Scar]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,160
+|cp           = 300
+|sp           = 0
+|gold         = 0
+|hp           = 3,078,000
+|strength     = 1,233
+|healing      = 409
+|dexterity    = 246
+|agility      = 185
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius W''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and is fought at level 65 on [[Hovering Reef 0]] in [[Syra Hovering Reefs]] during ''[[A Deep-Seated Scar]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 75%
+|etherdebuff = 90%
+}}
+{{clr}}
+
+=== Archsage's Gauntlet ===
+{{Infobox XC3 Enemy
+|name         = Moebius W
+|image        = Moebius W Archsage's Gauntlet.jpg
+|caption      = Moebius W
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Moebius]]
+|level        = 66-150
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+Moebius W can appear occasionally during the "Moebius Interference" event as a Minor Enemy in the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''. She can appear at levels from 66 to 150 on certain stages.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Consuls W and H.jpg|Consul and Moebius W concept art
+&lt;/gallery&gt;
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>pi53pyidc7zfzikb315c7dsie7ds2fx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wacon Upa (XC3)</title>
+    <ns>0</ns>
+    <id>118390</id>
+    <revision>
+      <id>582554</id>
+      <parentid>582538</parentid>
+      <timestamp>2023-04-12T12:20:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582554</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1487" sha1="ocjkpbwleuelxav54m88rjiryds3vk6" xml:space="preserve">{{for|the enemy from {{XC2|-}}|Wacon Upa (XC2)}}
+{{Infobox XC3 Enemy
+|name          = Wacon Upa
+|image         = XC3 Wacon Upa.jpg
+|caption       = Wacon Upa
+|movement      = Ground
+|type          = [[Upa]]
+
+|tab1          = Rae-Bel Tableland
+|category      = Normal Minor Enemy
+|level         = 22-23
+|area          = [[Rae-Bel Tableland]] ([[Dumas' Jaw]])
+|spawntime     = Anytime
+|respawn       = Yes
+|detection     = 
+|exp           = 
+|cp            = 
+|sp            = 
+
+|tab2          = Challenge Battle
+|category2     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level2        = 72
+|area2         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime2    = During ''[[Arts and Crafts]]''
+|respawn2      = No
+|detection2    = 
+|exp2          = 
+|cp2           = 
+|sp2           = 
+}}
+'''Wacon Upas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Upa]] family, and can be found at level 22-23 at [[Dumas' Jaw]] on the [[Rae-Bel Tableland]]. Two are also fought at level 72 during the fifth wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Arts and Crafts]]''.
+
+== Drops ==
+* [[Magnificent Upa Lure]]
+* [[Gooey Upa Egg]]
+
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Upas]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ocjkpbwleuelxav54m88rjiryds3vk6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wannock Gogol</title>
+    <ns>0</ns>
+    <id>123214</id>
+    <revision>
+      <id>559995</id>
+      <parentid>553544</parentid>
+      <timestamp>2022-09-30T11:00:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="778" sha1="liewqq74qkaiizkaj7vmuqlmxivp8a4" xml:space="preserve">{{Infobox Enemy
+|name         = Wannock Gogol
+|image        = 
+|caption      = Wannock Gogol
+|category     = Minor Enemy
+|type         = [[Gogol]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Wannock Gogols''' are Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>liewqq74qkaiizkaj7vmuqlmxivp8a4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>War Medic</title>
+    <ns>0</ns>
+    <id>117327</id>
+    <revision>
+      <id>597314</id>
+      <parentid>597121</parentid>
+      <timestamp>2023-06-26T10:15:45Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>597314</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8759" sha1="d5sc73ecpos4s34y2hc75cruapgjr6o" xml:space="preserve">{{spoiler}}
+{{quote|An invaluable Healer who ensures the party's continued survival with healing and buffs.|Class menu description}}
+[[File:XC3 War Medic Weapon Icon.png|thumb|War Medic Class Icon]]
+'''War Medic''' (Japanese: {{lang|ja|&#12454;&#12457;&#12540;&#12513;&#12487;&#12451;&#12483;&#12463;}}, ''U&#333;medikku'') is a [[Keves]]i [[Healer]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1534069323538792449].&lt;/ref&gt;
+
+== Overview ==
+War Medics specialize in combat support, such as recovery and strengthening the abilities of their companions. They have a [[Battle Arts (XC3)|Talent Art]] that can [[Hit Points (XC3)|heal]] all of their allies. War Medic is the class of [[Valdi]].
+
+It is unlocked by completing the [[Hero Quest]] ''[[The Kind Right Hand]]''. The [[Class Rank (XC3)|Class Rank]] limit can be increased to 20 by completing the Ascension Quest ''[[I'm a Mechanic]]''.
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|5,025
+|2,515
+|4,190
+|3,350
+|''Class Inheritor''
+|5,865
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 5 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 6 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 375
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 375 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| colspan="3" class="event" | Complete ''[[I'm a Mechanic]]''
+|-
+| 11 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 12 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 490
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 490
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 15 
+| 610
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 16 
+| 610 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 730
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 730
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 19 
+| 790
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 20 
+| 915
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The War Medic class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 55% || 50% || 120% || 110% || 70% || 5% || 20%
+|-
+| 10 || 57% || 52% || 122% || 115% || 72% || 10% || 22%
+|-
+| 20 || 60% || 55% || 125% || 120% || 75% || 15% || 25%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 15 || 3% || 4%
+|-
+| 10 || 32 || 3% || 4%
+|-
+| 20 || 57 || 4% || 5%
+|-
+| 30 || 89 || 4% || 5%
+|-
+| 40 || 124 || 4% || 6%
+|-
+| 50 || 165 || 5% || 6%
+|-
+| 60 || 210 || 5% || 6%
+|-
+| 70 || 261 || 5% || 7%
+|-
+| 80 || 318 || 5% || 7%
+|-
+| 90 || 382 || 6% || 8%
+|-
+| 99 || 448 || 6% || 8%
+|}
+== Arts ==
+* '''[[Technical Heal]]''' ([[Battle Arts (XC3)|Talent Art]]) - Heal party
+* [[Multi Blast]] - Area heal on hit (Rank 1 Master Art)
+* [[Heal Bullet (XC3)|Heal Bullet]] - AOE / Heal
+* [[Advanced Cooldown]] - Field / Def. up (Rank 10 Master Art)
+* [[Cure Bullet (XC3)|Cure Bullet]] - AOE/Clear debuffs/Debf. barrier
+* [[Vital Bullet]] - AOE / Delayed healing
+
+=== Hero-Exclusive Arts ===
+* '''[[Trickshot (XC3)|Trickshot]]''', Area heal on hit
+* '''[[Hyper Reload]]''', Field / Def. up
+* '''[[Surprise Beat]]''', Atk down / Machines&#8593;
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 1.png]] '''Recovery Engine''':  Removing debuffs boosts own Healing Power by 30-50% (up to a maximum of 150%).
+* [[File:XC3 Skill Icon 16.png]] '''Healing License''':  Boosts amount of HP healed from using healing Arts by 20-30%. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 25.png]] '''Rescue License''':  Increases HP restored when reviving an ally by 20-40%.
+* [[File:XC3 Skill Icon 23.png]] '''Antibody System''':  Shortens duration of debuffs on self by 30-50%. (Rank 15 Master Skill)
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:100%;"
+!Class Rank
+!Antibody System
+!Healing License
+!Recovery Engine
+!Rescue License
+|-
+| 1
+| 30%
+| 20%
+| 30%
+| 20%
+|-
+| 5
+| 35%
+| 22%
+| 35%
+| 25%
+|-
+| 10
+| 40%
+| 25%
+| 40%
+| 30%
+|-
+| 15
+| 45%
+| 27%
+| 45%
+| 35%
+|-
+| 20
+| 50%
+| 30%
+| 50%
+| 40%
+|}
+
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 5 
+| 285
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 6 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 375
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 375 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| colspan="3" class="event" | Complete ''[[I'm a Mechanic]]''
+|-
+| 11 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 12 
+| 370
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 490
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 490
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 15 
+| 610
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 16 
+| 610 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 730
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 730
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 19 
+| 790
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 20 
+| 915
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Valdi Artwork.png|Valdi, a War Medic
+War Medic Noah.png|Noah as a War Medic
+War Medic Mio.png|Mio as a War Medic
+War Medic Eunie.png|Eunie as a War Medic
+War Medic Taion.png|Taion as a War Medic
+War Medic Lanz.png|Lanz as a War Medic
+War Medic Sena.png|Sena as a War Medic
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>d5sc73ecpos4s34y2hc75cruapgjr6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>War of Attrition</title>
+    <ns>0</ns>
+    <id>124387</id>
+    <revision>
+      <id>591905</id>
+      <parentid>581013</parentid>
+      <timestamp>2023-05-14T14:36:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591905</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="588" sha1="oba3v03aclkzca0ovtpr2r70ysxfulj" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = War of Attrition
+|image       = Strm order thumb015 0.png
+|who         = [[Isurd]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Reduces enemy physical and ether defense by 10%-30% during Chain Attack.
+|duration    = 
+|recharge    = 
+}}
+'''War of Attrition''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Isurd]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>oba3v03aclkzca0ovtpr2r70ysxfulj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Warped Black Brooch</title>
+    <ns>0</ns>
+    <id>122579</id>
+    <revision>
+      <id>592898</id>
+      <parentid>592394</parentid>
+      <timestamp>2023-05-15T20:20:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592898</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1142" sha1="qjroya6to3d8dj3zerag1qv9w7czog9" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Warped Black Brooch
+|image     = XC3 Accessory Pack.png
+|caption   = When landing a hit, deals damage as though enemy's ether defense was 25% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Warped Black Brooch
+|image     = XC3 Accessory Pack.png
+|caption   = When landing a hit, deals damage as though enemy's ether defense was 27% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Warped Black Brooch
+|image     = XC3 Accessory Pack.png
+|caption   = When landing a hit, deals damage as though enemy's ether defense was 25% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Warped Black Brooches''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>qjroya6to3d8dj3zerag1qv9w7czog9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Warped Crystal</title>
+    <ns>0</ns>
+    <id>119024</id>
+    <revision>
+      <id>592899</id>
+      <parentid>592357</parentid>
+      <timestamp>2023-05-15T20:20:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592899</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1094" sha1="k8ix3gx06b4jaiwzbak9ddciz4zzdqg" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Warped Crystal
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts damage dealt by 35% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Warped Crystal
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts damage dealt by 40% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Warped Crystal
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts damage dealt by 45% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Warped Crystals''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>k8ix3gx06b4jaiwzbak9ddciz4zzdqg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Warped White Brooch</title>
+    <ns>0</ns>
+    <id>122885</id>
+    <revision>
+      <id>592900</id>
+      <parentid>592392</parentid>
+      <timestamp>2023-05-15T20:20:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1151" sha1="pilrrc4r0y06bn3ulgwn8dhdqswak30" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Warped White Brooch
+|image     = XC3 Accessory Pack.png
+|caption   = When landing a hit, deals damage as though enemy's physical defense was 25% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Warped White Brooch
+|image     = XC3 Accessory Pack.png
+|caption   = When landing a hit, deals damage as though enemy's physical defense was 27% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Warped White Brooch
+|image     = XC3 Accessory Pack.png
+|caption   = When landing a hit, deals damage as though enemy's physical defense was 30% lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Warped White Brooches''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>pilrrc4r0y06bn3ulgwn8dhdqswak30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Warriod Darbus</title>
+    <ns>0</ns>
+    <id>123218</id>
+    <revision>
+      <id>559996</id>
+      <parentid>553548</parentid>
+      <timestamp>2022-09-30T11:00:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559996</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="786" sha1="m6i78ok27ctcow03tdhjz04nshcd6f2" xml:space="preserve">{{Infobox Enemy
+|name         = Warriod Darbus
+|image        = 
+|caption      = Warriod Darbus
+|category     = Minor Enemy
+|type         = [[Darbus]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Warriod Darbuses''' are Minor Enemies in {{XC3}}. They are members of the [[Darbus]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Darbuses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>m6i78ok27ctcow03tdhjz04nshcd6f2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Warrior's Armlet</title>
+    <ns>0</ns>
+    <id>119025</id>
+    <revision>
+      <id>592901</id>
+      <parentid>592345</parentid>
+      <timestamp>2023-05-15T20:20:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1093" sha1="h0xg2de78sxiazs3ujy2oqr1knz6dfz" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Warrior's Armlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Warrior's Armlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Warrior's Armlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 45%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Warrior's Armlets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>h0xg2de78sxiazs3ujy2oqr1knz6dfz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Warrior's Armor Vest</title>
+    <ns>0</ns>
+    <id>119026</id>
+    <revision>
+      <id>592902</id>
+      <parentid>592279</parentid>
+      <timestamp>2023-05-15T20:20:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592902</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1004" sha1="15sr83kyudasupvxsown88vqfq06krj" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Warrior's Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 10%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3070 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Warrior's Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 11%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3070 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Warrior's Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 12%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3070 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Warrior's Armor Vests''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>15sr83kyudasupvxsown88vqfq06krj</sha1>
+    </revision>
+  </page>
+  </mediawiki>

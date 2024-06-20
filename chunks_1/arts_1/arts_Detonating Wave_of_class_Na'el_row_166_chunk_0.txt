@@ -1,0 +1,6 @@
+Art Name: Detonating Wave
+
+Class: Na'el
+
+Effect: Side attack _
+

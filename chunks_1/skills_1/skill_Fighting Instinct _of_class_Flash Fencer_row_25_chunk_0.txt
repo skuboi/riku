@@ -1,0 +1,6 @@
+Skill Name: Fighting Instinct 
+
+Class: Flash Fencer
+
+Skill Buff or Effect:  Boosts damage dealt by 50% when using a Talent Art (up to a maximum of 200%)
+

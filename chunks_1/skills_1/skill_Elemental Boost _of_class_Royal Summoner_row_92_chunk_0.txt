@@ -1,0 +1,6 @@
+Skill Name: Elemental Boost 
+
+Class: Royal Summoner
+
+Skill Buff or Effect:  Each elemental discharge boosts damage by 40% (up to a maximum of 400%).
+

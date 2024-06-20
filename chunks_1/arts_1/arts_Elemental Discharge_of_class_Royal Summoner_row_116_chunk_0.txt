@@ -1,0 +1,6 @@
+Art Name: Elemental Discharge
+
+Class: Royal Summoner
+
+Effect: Release Elementals
+

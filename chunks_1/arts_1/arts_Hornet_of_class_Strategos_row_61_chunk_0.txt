@@ -1,0 +1,6 @@
+Art Name: Hornet
+
+Class: Strategos
+
+Effect: Area heal on hit
+

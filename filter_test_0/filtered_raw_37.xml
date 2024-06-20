@@ -1,0 +1,2388 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Krabble</title>
+    <ns>0</ns>
+    <id>5322</id>
+    <revision>
+      <id>602028</id>
+      <parentid>600759</parentid>
+      <timestamp>2023-07-22T12:23:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602028</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3917" sha1="2qz53x4gtecsjyqnusg1428kgdemtdc" xml:space="preserve">[[File:Colony Krabble.png|thumb|A Colony Krabble]]
+'''Krabbles''' (Japanese: {{lang|ja|&#12463;&#12521;&#12452;&#12502;}}, ''Kuraibu''; [[English dub pronunciations|English dub]]: {{IPA|/&#712;kr&#230;b&#601;l/}}) are a common species of enemy which look similar to hermit crabs in the {{XC|serieslink}}. They are similar in appearance to [[Pagul]]s and [[Krammit]]s.
+
+Krabbles are found near water and undergo no appearance change between games.
+
+== {{XC|-}} ==
+Krabbles are found all over the [[Bionis]] and the [[Fallen Arm]] in many different environments, although are most common along shorelines and in caves.
+
+=== Normal Minor Enemies ===
+* [[Beach Krabble]]
+* [[Colony Krabble (normal)|Colony Krabble]]
+* [[Corriente Krabble]]
+* [[Desert Krabble (XC1)|Desert Krabble]]
+* [[Jewel Krabble (XC1)|Jewel Krabble]]
+* [[Junk Krabble]]
+* [[Marble Krabble]]
+* [[Materia Krabble (XC1)|Materia Krabble]]
+* [[Oros Krabble]]
+* [[Rock Krabble (XC1)|Rock Krabble]]
+* [[Solid Krabble (XC1)|Solid Krabble]]
+* [[Stone Krabble]]
+
+=== Quest Exclusive Enemy ===
+* [[Lurker Krabble]] (during ''[[A Young Captain's Rise]]'')
+
+=== Story Exclusive Enemy ===
+* [[Colony Krabble (story)|Colony Krabble]]
+
+=== Unique Monsters ===
+* [[Elegant Marin]]
+* [[Impenetrable Redrob]]
+* [[Itinerant Dorothea]]
+* [[Solid Konev]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Jewel Krabble (XC1)|Jewel Krabble]]
+* [[Marble Krabble]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Cobalt Krabble]]
+* [[Effi Krabble]] (after [[salvaging]])
+* [[Esko Krabble]]
+* [[Glox Krabble]]
+* [[Hard Krabble]]
+* [[Hardl Krabble]]
+* [[Jaim Krabble]] (after salvaging)
+* [[Jewel Krabble (XC2)|Jewel Krabble]]
+* [[Joobs Krabble]] (after salvaging)
+* [[Karyl Krabble]] (after salvaging)
+* [[Kattl Krabble (XC2)|Kattl Krabble]]
+* [[Mahn Krabble]]
+* [[Majacan Krabble]]
+* [[Margl Krabble]]
+* [[Morg Krabble (XC2)|Morg Krabble]]
+* [[Rankor Krabble]]
+* [[Rebul Krabble]]
+* [[Rock Krabble (XC2)|Rock Krabble]]
+* [[Sorbl Krabble]] (after salvaging)
+* [[Tolen Krabble]] (after salvaging)
+* [[Yardl Krabble]]
+
+=== Quest Exclusive Enemies ===
+* [[Juppen Krabble]] (during ''[[Artificial Blade Parts 2]]'')
+* [[Sly Krabble]] (during ''[[Better Late Than Never]]'')
+* [[Trent Krabble]] (during ''[[Cargo Escort]]'')
+
+=== Challenge Battle Mode Enemy ===
+* [[Beachhead Krabble]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Cascade Krabble]]
+* [[Kast Krabble]]
+* [[Robal Krabble]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Desert Krabble (XC3)|Desert Krabble]]
+* [[Kattl Krabble (XC3)|Kattl Krabble]]
+* [[Materia Krabble (XC3)|Materia Krabble]]
+* [[Morg Krabble (XC3)|Morg Krabble]]
+* [[Solid Krabble (XC3)|Solid Krabble]]
+
+=== Unique Monster ===
+* [[Househunter Carly]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Morg Krabble (XC3)|Morg Krabble]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Desert Krabble maybe.jpg
+Beach Krabble.jpg
+Corriente Krabble.jpg
+Materia Krabble.jpg
+Junk Krabble.jpg
+Marble Krabble.jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+BeachheadKrabble.jpg
+EffiKrabble.jpg
+Margl Krabble.png
+TrentKrabble.jpg
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+KastKrabble.jpg
+RobalKrabble.jpg
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Househunter Carly.png|Househunter Carly
+Morg Krable XC3.png|Morg Krabble
+&lt;/gallery&gt;
+
+[[de:Krabbel]]
+[[Category:XC Krabbles]]
+[[Category:XC Species]]
+[[Category:Bionis Life]]
+[[Category:Mechonis Life]]
+[[Category:XCFC Krabbles]]
+[[Category:XCFC Species]]
+[[Category:Species Category]]
+[[Category:Amphibious Enemies]]
+[[Category:Sight Category]]
+[[Category:XC2 Krabbles]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Krabbles]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Krabbles]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Krabbles]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Krabbles]]
+[[Category:Species by Type]]</text>
+      <sha1>2qz53x4gtecsjyqnusg1428kgdemtdc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Krammit</title>
+    <ns>0</ns>
+    <id>120184</id>
+    <revision>
+      <id>602029</id>
+      <parentid>600760</parentid>
+      <timestamp>2023-07-22T12:23:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="726" sha1="4xah1pmiq4khkg8jmwirn9oifidzeiq" xml:space="preserve">[[File:Kattl Krammit.jpg|thumb|A Kattl Krammit]]
+'''Krammits''' are a family of crab-like enemies in {{XC3}} and {{XC3FR|sublink}}. They are similar to [[Krabble]]s and [[Pagul]]s.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Kattl Krammit]]
+* [[Rock Krammit]]
+* [[Stony Krammit]]
+
+=== Unique Monster ===
+* [[Hardshelled Admory]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Stony Krammit]]
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Hardshelled Admory.png|Hardshelled Admory
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Krammits]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Krammits]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Krammits]]
+[[Category:Species by Type]]</text>
+      <sha1>4xah1pmiq4khkg8jmwirn9oifidzeiq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kran Crustip (XC3)</title>
+    <ns>0</ns>
+    <id>117894</id>
+    <revision>
+      <id>581735</id>
+      <parentid>581666</parentid>
+      <timestamp>2023-04-05T21:22:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581735</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1330" sha1="8eqyxuxu1miwyucmq7tso6yogqv7px4" xml:space="preserve">{{for|the enemy from {{XC2|-}}|Kran Crustip (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Kran Crustip
+|image        = XC3 Kran Crustip.jpg
+|caption      = Kran Crustip
+|type         = [[Crustip]]
+
+|tab1         = Yzana Plains
+|category     = Normal Minor Enemy
+|level        = 4-5
+|area         = [[Yzana Plains]] ([[Flamii Watering Hole]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+
+|tab2         = Millick Meadows
+|category2    = Normal Minor Enemy
+|level2       = 24-25
+|area2        = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime2   = Anytime
+|respawn2     = Yes
+|movement2    = Ground
+|detection2   = 
+|exp2         = 
+|cp2          = 
+|sp2          = 
+
+}}
+'''Kran Crustips''' are minor enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level 4 - 5 at [[Flamii Watering Hole]] in [[Yzana Plains]] and at level 24-25 at [[Murmur Rise]] in [[Millick Meadows]].
+
+== Drops ==
+* [[Rainbow Crustip Shell]]
+* [[Crustip Jet Spray]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8eqyxuxu1miwyucmq7tso6yogqv7px4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kroda Flier</title>
+    <ns>0</ns>
+    <id>121784</id>
+    <revision>
+      <id>580407</id>
+      <parentid>577450</parentid>
+      <timestamp>2023-03-24T20:53:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Challenge Battle Mode */redundant cat.</comment>
+      <origin>580407</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1961" sha1="n5mc13aqrtryan7pi04fu793far7y1i" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kroda Flier
+|image        = XC3 Kroda Flier.jpg
+|caption      = Kroda Flier
+|category     = Minor Enemy
+|type         = [[Flier]]
+|level        = 56
+|area         = [[Great Sword's Base]]&lt;br /&gt;[[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Kroda Fliers''' are Minor Enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 56 at [[Great Sword's Base]] or at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Kroda Flier
+|image        = 
+|caption      = Kroda Flier
+|type         = [[Flier]]
+|movement     = 
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+A Kroda Flier is fought at level 120 alongside a [[Jarack Vvarga]], an [[Illumi Skeeter (XC3)|Illumi Skeeter]], and an [[Illumi Wisp]] at Stage 110 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]</text>
+      <sha1>n5mc13aqrtryan7pi04fu793far7y1i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kroda Skeeter</title>
+    <ns>0</ns>
+    <id>122390</id>
+    <revision>
+      <id>595981</id>
+      <parentid>559766</parentid>
+      <timestamp>2023-06-16T18:53:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595981</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1077" sha1="lkp9ldlwfel33xp288wnm4v74ouwg4w" xml:space="preserve">{{Infobox Enemy
+|name         = Kroda Skeeter
+|image        = 
+|caption      = Kroda Skeeter
+|category     = Normal Enemy
+|type         = [[Skeeter]]
+|level        = 49 - 50
+|area         = [[Yzana Plains]] ([[Svinne Cavity]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Light Skeeters''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Skeeter]] family, and can be found at level 49 - 50 in [[Svinne Cavity]] in [[Yzana Plains]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Skeeters]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>lkp9ldlwfel33xp288wnm4v74ouwg4w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kroda Wisp</title>
+    <ns>0</ns>
+    <id>121785</id>
+    <revision>
+      <id>584147</id>
+      <parentid>559767</parentid>
+      <timestamp>2023-04-20T14:10:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="4wa7mch0rwdhasn2n4vej3aknmhusfp" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kroda Wisp
+|image        = Kroda Wisp.jpg
+|caption      = Kroda Wisp
+|category     = Minor Enemy
+|type         = [[Wisp]]
+|level        = 40-41
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kroda Wisps''' are Minor Enemies in {{XC3}}. They are members of the [[Wisp]] family, and can be found at level 40-41 at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Wisps]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>4wa7mch0rwdhasn2n4vej3aknmhusfp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Krodlax</title>
+    <ns>0</ns>
+    <id>120182</id>
+    <revision>
+      <id>602030</id>
+      <parentid>600761</parentid>
+      <timestamp>2023-07-22T12:23:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602030</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="794" sha1="2y9h22oeixq3gnxi7azfck59xu5xfbw" xml:space="preserve">[[File:Zobura Krodlax.jpg|thumb|Zobura Krodlax]]
+'''Krodlaxes''' are a family of aquatic enemies in {{XC3}} and {{XC3FR|sublink}}.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Hemish Krodlax]]
+* [[Vikt Krodlax]]
+* [[Zobura Krodlax]]
+
+=== Unique Monster ===
+* [[Naval Gyrus]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Hemish Krodlax]]
+
+=== Quest Exclusive Bosses ===
+* [[Flacken Krodlax]] (During ''[[Takedown: Krodlaxes]]'')
+
+== Gallery ==
+&lt;gallery&gt;
+Hemish Krodlax FR.jpg|Hemish Krodlax
+XC3 Naval Gyrus.png|Naval Gyrus
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+[[Category:XC3 Species]]
+[[Category:XC3 Krodlax]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Krodlax]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Krodlax]]
+[[Category:Species by Type]]</text>
+      <sha1>2y9h22oeixq3gnxi7azfck59xu5xfbw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kugel Taos</title>
+    <ns>0</ns>
+    <id>121070</id>
+    <revision>
+      <id>598184</id>
+      <parentid>594470</parentid>
+      <timestamp>2023-07-04T17:10:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1543" sha1="ia1bhx9gn8h9b94jk3navyw1ekgwc1t" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kugel Taos
+|image        = Kugel Taos XC3.jpg
+|caption      = Kugel Taos
+|category     = Normal Minor Enemy
+|type         = [[Taos]]
+|level        = 25-26
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kugel Taos''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Taos]] family, and can be found at level 25-26 in [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Kugel Taos
+|image        = Kugel Taos FR.jpg
+|caption      = Kugel Taos
+|category     = Normal Minor Enemy
+|type         = [[Taos]]
+|level        = 26
+|area         = [[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Kugel Taos''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Taos]] family, and can be found at level 26 in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Taos]]
+[[Category:XC3FR Taos]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3FR Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>ia1bhx9gn8h9b94jk3navyw1ekgwc1t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurono Horrish</title>
+    <ns>0</ns>
+    <id>121740</id>
+    <revision>
+      <id>598098</id>
+      <parentid>579957</parentid>
+      <timestamp>2023-07-04T14:59:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>image</comment>
+      <origin>598098</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="880" sha1="7hjs40jryx8rc163fjyba0rxtadumnf" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kurono Horrish
+|image        = Kurono Horrish.jpg
+|caption      = Kurono Horrish
+|category     = Normal Minor Enemy
+|type         = [[Horrish]]
+|level        = 67-68
+|area         = [[Origin Interior]] ([[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kurono Horrishes''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Horrish]] family, and can be found at level 67-68 at the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Horrishes]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7hjs40jryx8rc163fjyba0rxtadumnf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurria Flak (boss)</title>
+    <ns>0</ns>
+    <id>121741</id>
+    <revision>
+      <id>583433</id>
+      <parentid>579913</parentid>
+      <timestamp>2023-04-18T18:01:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Image added, and other things</comment>
+      <origin>583433</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="871" sha1="qu24rs3881ni0cqs4i0zymjl385bh88" xml:space="preserve">{{spoiler}}
+{{for|the normal variant|Kurria Flak (normal)}}
+{{Infobox XC3 Enemy
+|name         = Kurria Flak
+|image        = Kurria Flak Boss.jpg
+|caption      = Kurria Flak
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Flak]]
+|level        = 68
+|area         = [[Origin Interior]] ([[Hangar Zone]])
+|spawntime    = Story
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kurria Flaks''' are nine [[Boss (XC3)|Bosses]] in {{XC3}}, labeled as the '''Center Defense Team'''. They are members of the [[Flak]] family, and are fought at level 68 in the [[Hangar Zone]] in the [[Origin Interior]]. They don't drop any items or gold.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Flaks]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>qu24rs3881ni0cqs4i0zymjl385bh88</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurria Flak (normal)</title>
+    <ns>0</ns>
+    <id>125883</id>
+    <revision>
+      <id>598167</id>
+      <parentid>579931</parentid>
+      <timestamp>2023-07-04T16:51:19Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="883" sha1="8cogvzb5zkgbk7ycq8f7qx0jymvxe0l" xml:space="preserve">{{for|the boss variant|Kurria Flak (boss)}}
+{{Infobox XC3 Enemy
+|name         = Kurria Flak
+|image        = Kurria Flak normal.jpg
+|caption      = Kurria Flak
+|category     = Normal Minor Enemy
+|type         = [[Flak]]
+|level        = 67-68
+|area         = [[Origin Interior]] ([[Hangar Zone]], [[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kurria Flaks''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Flak]] family, and can be found at level 67-68 in the [[Hangar Zone]] and the [[Central Defense]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Flaks]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8cogvzb5zkgbk7ycq8f7qx0jymvxe0l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>L</title>
+    <ns>0</ns>
+    <id>119193</id>
+    <revision>
+      <id>603414</id>
+      <parentid>580423</parentid>
+      <timestamp>2023-07-26T14:13:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>cat.</comment>
+      <origin>603414</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4733" sha1="nqj2ox2wuigdq8jp06a3o415doafuqj" xml:space="preserve">{{for|the playable character from {{XCX|-}}|L'cirufe}}
+{{spoiler}}
+{{Infobox Character
+|name          = L
+|image         = Consul L human.png
+|species       = [[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = 
+|eyecolor      = 
+|affiliation   = [[Consul]]s
+|appearances   = {{XC3}}
+|voiceactorjp  = 
+|voiceactoreng = 
+}}
+'''L''' is a character in {{XC3}}.
+
+== Overview ==
+L is a [[Consul]]. He destroyed [[Colony 5]] once it became Gold Rank, though it is unknown if he was assigned as its Consul.
+
+He first appears in his Moebius form killing [[Orsolya]], [[X]] didn't really care about L, calling him an underling. [[Ouroboros]], [[Riku]], [[Manana]], and [[Bolearis]] defeated L, though X escaped. 
+
+== Appearance ==
+Despite never appearing outside of his [[Moebius]] form in-game, L's human design was revealed in the ''Xenoblade Chronicles 3 Collector's Edition'' artbook. L sports a tall and very slender build. His Consul helmet resembles an Anubis head, with prominent pointed jackal ears and a jackal snout above his forehead.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius L
+|image        = Consul L.jpg
+|caption      = Moebius L
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 47
+|area         = [[Urayan Trail]] ([[Loska Plateau]])
+|spawntime    = During ''[[Side Story: Eunie]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,136
+|cp           = 300
+|sp           = 0
+|gold         = 0
+|hp           = 1,716,800
+|strength     = 554
+|ether        = 303
+|dexterity    = 190
+|agility      = 161
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius L''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and can be found at level 47 at [[Loska Plateau]] on the [[Urayan Trail]] during ''[[Side Story: Eunie]]''. He fights alongside [[X|Consul X]].
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 80%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 75%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius L
+|image        = XC3 Moebius L DLC Battle.jpg
+|caption      = Moebius L
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|type         = [[Moebius]]
+|level        = 73
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Stage of Destiny]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 4,368
+|cp           = 300
+|sp           = 0
+|gold         = 0
+|hp           = 759,720
+|strength     = 854
+|ether        = 458
+|dexterity    = 305
+|agility      = 251
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius L''' is fought at level 73 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]''.
+{{clr}}
+
+=== Archsage's Gauntlet ===
+{{Infobox XC3 Enemy
+|name         = Moebius L
+|image        = XC3 Moebius L DLC Battle.jpg
+|caption      = Moebius L
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Moebius]]
+|level        = 66-81
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+In the [[Archsage's Gauntlet]] Challenge ''[[Gauntlet: Pro]]'', Moebius L can appear occasionally during the "Moebius Interference" event as a Minor Enemy. He can appear at level 66, 73, 76, and 81.
+{{clr}}
+
+== Trivia ==
+* During the final battle against [[Z]], he summons many false Consuls resembling L's outfit in the [[Amphitheater]].
+
+== Gallery ==
+&lt;gallery&gt;
+XBC3-Consul L Artwork.png|Official Artwork of L
+XBC3-Moebius L Artwork.png|Official Artwork of Moebius L
+Consul Y &amp; L.jpg|Full Concept Art for L
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>nqj2ox2wuigdq8jp06a3o415doafuqj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lambda Ferronis</title>
+    <ns>0</ns>
+    <id>121171</id>
+    <revision>
+      <id>595838</id>
+      <parentid>574891</parentid>
+      <timestamp>2023-06-16T15:04:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>595838</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1553" sha1="44fbogqe4luxy9ikyand61fvl04pk8b" xml:space="preserve">{{for|the location|Colony Lambda Ferronis}}
+{{Infobox XC3 Enemy
+|name         = Lambda Ferronis
+|image        = Colony Lambda01.jpg 
+|caption      = Lambda Ferronis
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Ferronis]]
+|level        = 28
+|area         = [[Great Cotte Falls]] ([[Aquifer Exhaust]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 1,008
+|cp           = 300
+|sp           = 0
+|gold         = 0
+|hp           = 459,900
+|strength     = 440
+|healing      = 189
+|dexterity    = 109
+|agility      = 43
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+'''Lambda Ferronis''' is a [[Boss (XC3)|Boss]] in {{XC3}}. It is [[Colony Lambda]]'s [[Ferronis]], and is fought at level 28 near the [[Aquifer Exhaust]] at [[Great Cotte Falls]]. It is piloted by a mudpuppet version of [[Isurd]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = Immune
+|burst       = 0%
+|launch      = Immune
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Colony Lambda02.jpg|Lambda Ferronis preparing to fire a laser 
+Colony Lambda03.jpg|Lambda Ferronis thrown upside down 
+Lambda Isurd.jpg|Isurd commanding the Ferronis 
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ferronis Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]</text>
+      <sha1>44fbogqe4luxy9ikyand61fvl04pk8b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lancer Tirkin (XC3)</title>
+    <ns>0</ns>
+    <id>121122</id>
+    <revision>
+      <id>560183</id>
+      <parentid>559770</parentid>
+      <timestamp>2022-10-02T16:46:05Z</timestamp>
+      <contributor>
+        <username>Xolimpha</username>
+        <id>30499430</id>
+      </contributor>
+      <minor/>
+      <comment>for</comment>
+      <origin>560183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="899" sha1="6k0h0fub3ylrhq9gmwdzn2zlm43oe10" xml:space="preserve">{{for|the enemy in {{XC|-}}|Lancer Tirkin (XC1)}}
+{{Infobox Enemy
+|name         = Lancer Tirkin
+|image        = 
+|caption      = Lancer Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Lancer Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6k0h0fub3ylrhq9gmwdzn2zlm43oe10</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Land Feris</title>
+    <ns>0</ns>
+    <id>117478</id>
+    <revision>
+      <id>582531</id>
+      <parentid>580822</parentid>
+      <timestamp>2023-04-12T07:46:26Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>582531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="858" sha1="kpbzx3d081ejyy03gnhap6lqu5p9sya" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Land Feris
+|image        = Land Feris.jpeg
+|caption      = Land Feris
+|category     = Normal Minor Enemy
+|type         = [[Feris]]
+|level        = 23-24
+|area         = [[Rae-Bel Tableland]] ([[Dumas' Jaw]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Land Feris''' are  Normal Minor Enemies in {{XC3}}. They are members of the [[Feris]] family, and can be found at level 23-24 at [[Dumas' Jaw]] on the [[Rae-Bel Tableland]].
+
+== Drops ==
+* [[Great Feris Horn Pair]]
+* [[Noble Feris Mane]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kpbzx3d081ejyy03gnhap6lqu5p9sya</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Land Volff (XC3)</title>
+    <ns>0</ns>
+    <id>121063</id>
+    <revision>
+      <id>598267</id>
+      <parentid>595154</parentid>
+      <timestamp>2023-07-04T17:57:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>pic</comment>
+      <origin>598267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1584" sha1="1anqmjp5mho1heq2g58tyyxhw59gmwa" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Land Volff (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Land Volff
+|image        = Land Volff XC3.jpg
+|caption      = Land Volff
+|category     = Minor Enemy
+|type         = [[Volff]]
+|level        = 14-17
+|area         = [[Eagus Wilderness]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Land Volffs''' are Minor Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level 14-17 in the [[Eagus Wilderness]] of the [[Fornis Region]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Land Volff
+|image        = Land Volff FR.jpg
+|caption      = Land Volff
+|category     = Normal Enemy
+|type         = [[Volff]]
+|level        = 2-5
+|area         = [[Vermilion Woods]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Land Volffs''' are normal enemies in {{XC3FR}}. They are members of the [[Volff]] family, and can be found at level 2-5 in [[Vermilion Woods]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3FR Volffs]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3FR Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1anqmjp5mho1heq2g58tyyxhw59gmwa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Land of Challenge (XC3)</title>
+    <ns>0</ns>
+    <id>124365</id>
+    <revision>
+      <id>579029</id>
+      <parentid>577236</parentid>
+      <timestamp>2023-03-11T14:08:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>579029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2387" sha1="2me4sltvme6z6520clnne8oltjigyc5" xml:space="preserve">{{for|this area's appearance in {{XC2|-}}|Land of Challenge (XC2)}}
+{{Infobox location
+|name        = Land of Challenge
+|image       = Land of Challenge XC3.jpg
+|caption     = Land of Challenge
+|type        = Region
+|located     = Unknown
+|inhabitants = 
+|weather     = Clear
+|connects to = [[Ribbi Flats]]
+|music       = Mysterious Land
+}}
+The '''Land of Challenge''' is a special DLC Region in {{XC3}}. 
+
+== Overview ==
+The Land of Challenge is located outside of [[Aionios]] and was created by the [[Nopon Archsage]]. It serves as the main hub for [[Challenge Battle Mode]]. It is accessed from [[Llyn Nyddwr]] in [[Ribbi Flats]] via a portal, which is activated after accepting the DLC [[Quest (XC3)|Quest]] ''[[Challenge Battles!]]'' from the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]]. The player is unable to [[Skip Travel]] in the Land of Challenge. The entire area is covered by an invisible barrier, preventing the party from falling off.
+
+The Land of Challenge is surrounded by a waterfall of clouds reminiscent of the edge of the [[Cloud Sea]] and the [[Great Void]] of [[Alrest]]. Above the Nopon Archsage is a large [[Flame Clock]]-like structure.
+
+== NPCs ==
+* [[Archsage's Aide, Blue]]
+* [[Archsage's Aide, Red]]
+* [[Archsage's Page, Blue]]
+* [[Archsage's Page, Red]]
+* [[Nopon Archsage]]
+
+== Shops ==
+* [[Class Mastery Shop Blue]]
+* [[Class Mastery Shop Red]]
+* [[Prize X-change Blue]]
+* [[Prize X-change Red]]
+{{clr}}
+
+== Trivia ==
+* The [[Time Attack]] place in {{XCDE}} bears a heavy resemblance to the Land of Challenge.
+* The Land of Challenge portal is identical to the [[Land of Challenge (XC2)|Land of Challenge]] portal in {{XC2}} and the Time Attack portals in {{XCDE|sub}}, but the particles around the portal are blue and orange, and the center of the portal cycles between being blue and orange, which are the colors of the portals from {{XC2|-}} and {{XCDE|sub}} respectively.  
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Challenge Battle Mode.png
+Land of Challenge Portal Llyn Nyddwr.jpg|Llyn Nyddwr Land of Challenge Portal
+Land of Challenge Portal XC3.jpg|The portal back to Aionios
+Land of Challenge Map XC3.png|Map of the Land of Challenge
+&lt;/gallery&gt;
+
+{{XC3RegionNav}}
+
+{{Xc3 stub}}
+[[Category:Land of Challenge]]
+[[Category:XC3 Regions]]
+[[Category:XC3 Downloadable Content]]
+[[Category:XC3 Challenge Battle Mode]]
+[[Category:XC3 Points of Interest]]</text>
+      <sha1>2me4sltvme6z6520clnne8oltjigyc5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Landon Ropl</title>
+    <ns>0</ns>
+    <id>123154</id>
+    <revision>
+      <id>573505</id>
+      <parentid>559773</parentid>
+      <timestamp>2023-01-21T22:53:20Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573505</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="797" sha1="af487ainjg9jx17jx2fnwpgp9grju3s" xml:space="preserve">{{Infobox Enemy
+|name         = Landon Ropl
+|image        = 
+|caption      = Landon Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = 11
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Landon Ropl''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 11 in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>af487ainjg9jx17jx2fnwpgp9grju3s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lanz</title>
+    <ns>0</ns>
+    <id>116345</id>
+    <revision>
+      <id>598108</id>
+      <parentid>597836</parentid>
+      <timestamp>2023-07-04T15:09:18Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <comment>/* Personality */</comment>
+      <origin>598108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17643" sha1="3muqwb2xmbhohefzcvkfhz0tj7aomog" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Lanz
+|image        = Lanz portrait.png
+|species      = [[Keves]]i human
+|gender       = Male
+|age          = 9th Term
+|haircolor    = White
+|eyecolor     = Red
+|affiliation  = [[Colony 14]] (formerly)&lt;br/&gt;[[Colony 9 (XC3)|Colony 9]] (formerly)
+|voiceactorjp = [https://www.imdb.com/name/nm10210613/ Kohsuke Tanabe]
+|voiceactoreng= [[wikipedia:Jack Bardoe|Jack Bardoe]] (Adult)&lt;br/&gt;[https://www.imdb.com/name/nm13889852/ Magnus Irwin] (Child)
+|appearances  = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+{{quote|What the spark are you on about?! I'm not gonna let you take the fall alone!|Lanz}}
+'''Lanz''' (Japanese: {{lang|ja|&#12521;&#12531;&#12484;}}, ''Rantsu'') is a playable character in {{XC3}}.
+
+== Overview ==
+Along with his friends [[Noah]] and [[Eunie]], he is a [[Keves]]i soldier assigned to [[Colony 9 (XC3)|Colony 9]]. Lanz is a Kevesi human with [[Machina]] traits.
+
+== Personality ==
+Lanz has been childhood friends with Noah and Eunie, and he grew up willing to protect his friends at any cost, even his own life.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1493482852289478656&lt;/ref&gt; Similar to [[Reyn]], he is reckless, unintelligent, and frequently acts without thinking, causing friction between him and [[Taion]]. But he is far more abrasive in temperament than Reyn and slower to warm up to others. That being said, it is noted that he is remarkably supportive towards people he recognizes as being younger or more emotionally fragile than himself.  
+
+While he appears confident, most of it is a front and in truth he feels like he simply has to keep moving forward to stop himself from breaking down when facing his problems. [[Joran]] dying to save his life badly shook him, particularly because they had a falling out that he never apologized for. As a result, he is compelled to protect his friends, even if doing so puts his own life at risk.
+
+== Gameplay ==
+Lanz makes use of his large physique by his [[Blade (XC3)|Shieldblade]] that also functions as both a giant shield and a mountable gatling gun. His initial [[Class (XC3)|class]] is [[Heavy Guard]].
+
+In a [[Chain Attack (XC3)|Chain Attack]], Lanz starts with 15 TP by default. His [[Chain Attack (XC3)|Chain Art]] is [[Tyrant Wave]], which increases Defender aggro by 30-50% (depending on his level) in addition to granting [[Attack Up]] to all allies upon completing his order.
+
+Lanz starts at Rank 5 in his initial Heavy Guard class when in the player's party for the first time.
+
+=== Base Stats ===
+These are Lanz's raw stats prior to modifications by class. They serve as a baseline for calculating Lanz's stats in a class. Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 388 || 20 || 16 || 30 || 20
+|-
+| 99 || 7,755 || 392 || 329 || 297 || 204
+|}
+
+=== General Stats ===
+These stats assume Lanz is at level 99, at rank 20 in each of these respective classes, and is not equipping any [[Skill (XC3)|Master Skills]], [[Gem]]s or [[Accessory (XC3)|Accessories]]. Boosts from skills innate to a class are indicated with round brackets, whereas boosts from having an [[Blade Upgrade|upgraded Blade]] are indicated with square brackets.
+{| class="xc1 centered" width="100%"
+! Class !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|[[Swordfighter]]||5,816||1,025||115||356 (+178)||173||20% (+10%)||10%||15%||15%
+|-
+|[[Zephyr]]||8,530||818||82||311||265 (+79)||20%||35%||35%||50% (+15%)
+|-
+|[[Medic Gunner]]||4,653||677||394 (+15)||311||153||10%||10%||15%||25%
+|-
+|[[Tactician]]||5,040||712||378||326||163||10%||15%||10%||30%
+|-
+|[[Heavy Guard]]||10,081||847 [+107]||82||297||153||8% [+2%]||35% [+7%]||50% (+10%)||35%
+|-
+|[[Ogre]]||6,204||1,090||82||297||173||20%||15%||20%||10%
+|-
+|[[Flash Fencer]]||5,816||1,016||82||356||224||30%||8%||15%||15%
+|-
+|[[War Medic]]||4,653||663||411||356||153||6%||8%||15%||25%
+|-
+|[[Guardian Commander]]||9,306||802||115||311||153||8%||40%||50%||35%
+|-
+|[[Thaumaturge]]||5,816||828||361||356||153||24%||12%||10%||30%
+|-
+|[[Yumsmith]]||6,204||975||115||386||153||20%||20%||15%||15%
+|- 
+|[[Full Metal Jaguar (XC3)|Full Metal Jaguar]]||5,428||980||148||386||224||10%||10%||15%||15%
+|-
+|[[Strategos]]||5,040||737||378||326||173||15%||6%||10%||30%
+|-
+|[[Stalker]]||5,428||985||82||386||265||30%||6%||15%||15%
+|-
+|[[Lone Exile]]||8,530||906||49||326||255||24%||30%||35%||50%
+|-
+|[[Incursor]]||5,816||1,045||65||311||204||35%||6%||20%||10%
+|-
+|[[Lost Vanguard]]||9,693||832||115||356||183||20%||45%||50%||35%
+|-
+|[[Signifer]]||4,653||847||246||311||183||16%||16%||10%||30%
+|-
+|[[Soulhacker]]&lt;br&gt;&lt;small&gt;(Power Soul)&lt;/small&gt;||5,816||1,089||49||311||153||15%||25%||20%||10%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Strike Soul)&lt;/small&gt;||5,816||1,030||98||356||193||15%||25%||15%||15%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Tough Soul)&lt;/small&gt;||9,693||952||49||282||132||15%||25%||45%||35%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Dodge Soul)&lt;/small&gt;||8,530||952||49||311||244||15%||25%||35%||45%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Heal Soul)&lt;/small&gt;||5,428||874||329||326||183||15%||25%||10%||30%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Balanced Soul)&lt;/small&gt;||5,040||932||246||311||183||15%||25%||10%||30%
+|-
+|[[Martial Artist]]||5,816||985||82||356||244||36%||16%||15%||15%
+|-
+|[[Troubadour]]||4,265||667||378||326||204||16%||8%||10%||30%
+|-
+|[[Seraph]]||6,204||1,170||49||297||173||25%||10%||20%||20%
+|-
+|[[Machine Assassin]]||6,204||1,125||82||356||153||30%||20%||20%||10%
+|-
+|[[Lifesage]]||5,040||853||427||356||224||20%||30%||15%||25%
+|-
+|[[Royal Summoner]]||5,040||1,180||197||386||224||30%||10%||15%||15% (+3%)
+|-
+|[[Noponic Champion]]||9,306||891||0||356||265||15%||35%||45%||40%
+|-
+|[[Lapidarist]]||4,265||862||394||341||224||35% (+7%)||6%||10%||15%
+|}
+
+== Ouroboros ==
+[[File:Lanz Sena Interlink.webp|thumb|Lanz's Ouroboros]]
+After becoming [[Ouroboros]], Lanz is able to [[Interlink]] with [[Sena]]. When Lanz is in control, he is able to use arts that deal heavy damage and provide defense.
+
+=== Base Stats ===
+These are Lanz's Ouroboros's stats. The experience level of the Ouroboros which determines its stats (contrary to any displayed level in menus) is the average of Lanz and Sena's experience levels (fractions are rounded up).
+{| class="xc1 centered" width="100%"
+! Level !! Attack !! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate
+|-
+| 1, no Soul Tree || 48 || 22 || 39 || 25 || 10% || 45%
+|-
+| 99, no Soul Tree || 1,224 || 442 || 388 || 254 || 15% || 55%
+|-
+| 99, complete Soul Tree || 1,879 || 442 || 388 || 254 || 32% || 96%
+|}
+=== Arts ===
+* [[Winning Rush]] ([[Battle Arts (XC3)|Talent Art]]) - Pierce/[[Launch (XC3)|Launch]] [[Combo]]
+* [[Ray of Punishment (XC3)|Ray of Punishment]] - AOE / Aggroed &#8593;
+* [[Burning Rain]] - AOE / High aggro
+* [[Sudden Impact]] - Interlink Lv. 3: [[Topple (XC3)|Topple]] all
+* [[Titan Fists]] - Blowdown/Shackle block
+* [[Volcano Cannon]] - Interlink Lv. 3: Launch all
+* [[Incredible Guard]] - Defend allies/Counter
+
+Lanz's Ouroboros Chain Art is [[Demon Punisher]], which greatly increases damage ratio and reduces [[Attacker]] and [[Healer]] aggro.
+
+=== Skills ===
+* '''Steady Advance''', Grants 50-100% resistance to combos and reactions while Art is active.
+* '''Reflection''', 5-15% chance to reflect enemy attack.
+* '''Hefty Protection''', Reduces damage taken by allies in a fixed radius by 20-30%.
+* '''Strength in Adversity''', Grants a small/large increase to damage dealt the more enemies target you (up to a maximum of 300%).
+=== Soul Tree ===
+Below is an image showing the layout of Lanz's Ouroboros [[Soul Tree]].
+[[File:XC3 Soul Tree Lanz.jpeg|center|550px]]
+{{Clr}}&lt;br&gt;
+The below table contains a detailed breakdown of all nodes within the Soul Tree.
+
+''Note: Columns are numbered from right to left, i.e. column 1 is the rightmost column, and column 8 is the leftmost column. Nodes are listed in order of increasing column number, from top to bottom, ignoring order of unlocking.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:5%;"| Node
+!style="width:10%;"| Icon
+!style="width:20%;"| Name
+!style="width:35%;"| Description
+!style="width:20%;"| Prerequisite
+!style="width:10%;"| Cost
+|-
+!colspan="6"|Column 1
+|-
+|1
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Block Rate Plus
+|Increases Block Rate by 10 percentage points.
+|''None''
+|15 SP
+|-
+!colspan="6"|Column 2
+|-
+|2
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Steady Advance
+|Grants 50% resistance to combos and reactions while Art is active.
+|"Block Rate Plus" (Node 1)
+|35 SP
+|-
+|3
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Attack Plus" (Node 7)
+|50 SP
+|-
+|4
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Reflection
+|5% chance to reflect enemy attack.
+|"Block Rate Plus" (Node 1)
+|35 SP
+|-
+!colspan="6"|Column 3
+|-
+|5
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Volcano Cannon
+|Interlink Lv3: Launch all
+|"Block Rate Up" (Node 10)
+|70 SP
+|-
+|6
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Titan Fists
+|Blowdown/Shackle block
+|"Steady Advance" (Node 2) ''or'' "Strength in Adversity" (Node 11)
+|40 SP
+|-
+|7
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|"Strength in Adversity" (Node 11) ''or'' "Heat Control: Time" (Node 13)
+|30 SP
+|-
+|8
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Hefty Protection
+|Reduces damage taken by allies in a fixed radius by 20%.
+|"Reflection" (Node 4) ''or'' "Heat Control: Time" (Node 13)
+|40 SP
+|-
+|9
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Incredible Guard
+|Defend allies/Counter
+|"Attack Up" (Node 14)
+|70 SP
+|-
+!colspan="6"|Column 4
+|-
+|10
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Block Rate Up
+|Boosts Block Rate by 10%.
+|"Ray of Punishment" (Node 15)
+|30 SP
+|-
+|11
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Strength in Adversity
+|Grants a small increase to damage dealt the more enemies target you (up to a maximum of 300%).
+|"Titan Fists" (Node 6) ''or'' "Attack Plus" (Node 7) ''or'' "Ray of Punishment" (Node 15)
+|45 SP
+|-
+|12
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Reflection" (Node 17)
+|75 SP
+|-
+|13
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Attack Plus" (Node 7) ''or'' "Hefty Protection" (Node 8) ''or'' "Steady Advance" (Node 19)
+|40 SP
+|-
+|14
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 20%.
+|"Steady Advance" (Node 19)
+|30 SP
+|-
+!colspan="6"|Column 5
+|-
+|15
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Ray of Punishment
+|AOE / Aggroed&#8593;
+|"Strength in Adversity" (Node 11) ''or'' "Attack Plus" (Node 21)
+|130 SP
+|-
+|16
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Titan Fists
+|Blowdown/Shackle block
+|"Titan Fists" (Node 6) ''and'' "Attack Plus" (Node 21)
+|170 SP
+|-
+|17
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Reflection
+|15% chance to reflect enemy attack.
+|"Reflection" (Node 4) ''and'' "Unlock Arts Canceling" (Node 22)
+|175 SP
+|-
+|18
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Sudden Impact
+|Interlink Lv3: Topple all
+|"Block Rate Plus" (Node 23)
+|170 SP
+|-
+|19
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Steady Advance
+|Grants 100% resistance to combos and reactions while Art is active.
+|"Steady Advance" (Node 2) ''and either'' "Heat Control: Time" (Node 13) ''or'' "Block Rate Plus" (Node 23)
+|120 SP
+|-
+!colspan="6"|Column 6
+|-
+|20
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Critical Plus" (Node 25)
+|80 SP
+|-
+|21
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 75.
+|"Ray of Punishment" (Node 15) ''or'' "Unlock Arts Canceling" (Node 22)
+|30 SP
+|-
+|22
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, but doing so will fill up the heat gauge slightly.
+|"Attack Plus" (Node 21) ''or'' "Block Rate Plus" (Node 23)
+|225 SP
+|-
+|23
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Block Rate Plus
+|Increases Block Rate by 15 percentage points.
+|"Steady Advance" (Node 19) ''or'' "Unlock Arts Canceling" (Node 22)
+|30 SP
+|-
+|24
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Burning Rain
+|AOE / High aggro
+|"Block Rate Up" (Node 29)
+|225 SP
+|-
+!colspan="6"|Column 7
+|-
+|25
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 15 percentage points.
+|"Hefty Protection" (Node 30)
+|45 SP
+|-
+|26
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Volcano Cannon
+|Interlink Lv3: Launch all
+|"Volcano Cannon" (Node 5) ''and'' "Unlock Arts Canceling" (Node 22)
+|175 SP
+|-
+|27
+|[[File:XC3 Soul Tree Enhance Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Winning Rush
+|Pierce/Launch combo
+|"Heat Control: Time" (Node 32)
+|230 SP
+|-
+|28
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Incredible Guard
+|Defend allies/Counter
+|"Incredible Guard" (Node 9) ''and'' "Unlock Arts Canceling" (Node 22)
+|175 SP
+|-
+|29
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Block Rate Up
+|Boosts Block Rate by 20%.
+|"Strength in Adversity" (Node 34)
+|45 SP
+|-
+!colspan="6"|Column 8
+|-
+|30
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Hefty Protection
+|Reduces damage taken by allies in a fixed radius by 30%.
+|"Hefty Protection" (Node 8) ''and either'' "Volcano Cannon" (Node 26) ''or'' "Attack Up" (Node 31)
+|190 SP
+|-
+|31
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 25%.
+|"Hefty Protection" (Node 30) ''or'' "Heat Control: Time" (Node 32)
+|45 SP
+|-
+|32
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Attack Up" (Node 31) ''or'' "Critical Up" (Node 33)
+|90 SP
+|-
+|33
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 15%.
+|"Heat Control: Time" (Node 32) ''or'' "Strength in Adversity" (Node 34)
+|45 SP
+|-
+|34
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Strength in Adversity
+|Grants a large increase to damage dealt the more enemies target you (up to a maximum of 300%).
+|"Strength in Adversity" (Node 11) ''and either'' "Incredible Guard" (Node 28) ''or'' "Critical Up" (Node 33)
+|190 SP
+|}
+
+== Trivia ==
+* Lanz's Chain Order portrait is similar to [https://guiltygear.fandom.com/wiki/Sol_Badguy Sol Badguy's] official art in Guilty Gear Xrd and Strive. Additionally, Lanz's Chain Art Tyrant Wave is similar in name to Sol's Overdrive attack: Tyrant Rave.
+* Lanz shares his Japanese voice actor, Kohsuke Tanabe, with [[Jake]].&lt;ref&gt;https://twitter.com/XenobladeJP/status/1626556916796395521&lt;/ref&gt;
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Lanz Artwork.png|Official Artwork
+XC3 Lanz as a Heavy Guard.jpg|Lanz as a Heavy Guard
+XC3 Lanz Twitter.jpg|Artwork of Lanz by Masatsugu Saito to celebrate the launch of {{XC3|-}}
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruiting artwork
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+Strm ch thumb005 0.png
+Lanz Concept 1.png|Lanz Concept Art
+Lanz Concept 2.png
+Lanz Concept 3.png
+Lanz Concept 4.png
+Lanz Ouroboros Concept 1.png|Lanz's Ouroboros Form Concept Art
+Lanz Ouroboros Concept 2.png
+Lanz Ouroboros Concept 3.png
+Lanz Ouroboros Concept 4.png
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Lanz Hero Icon.png|Hero List Icon
+Lanz Chain Art Icon.png|Lanz's Chain Art Icon
+Lanz Ouroboros Chain Art Icon.png|Lanz's Ouroboros Order Icon
+Lanz Level Up Art.png|Lanz's Level Up Art
+Lanz Level Up Art 2.png|Lanz's Level Up Art (Military Uniform)
+Icon chara 4.png
+Icon chara 30.png
+Icon chara battle 4.png
+Icon chara battle 32.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Lanz Screenshot.png
+XC3 Lanz Screenshot 2.png|Lanz In Battle
+Lanz Sena Ouroboros fusion screenshot.jpeg|Lanz and Sena interlinking
+Young Lanz.jpg|Young Lanz
+Lanz Military Uniform.jpg|Lanz in his Military Uniform
+Lanz DLC Outfit 1 Screenshot.jpeg|One of Lanz's Expansion Pass outfits
+LanzSwimsuit.jpg|Lanz's Swimwear A outfit from the Expansion Pass
+LanzSwimwearB.jpg|Lanz's Swimwear B outfit from the Expansion Pass
+Lanz Reyn Outfit.png|Lanz's Throwback A outfit from the Expansion Pass, based on Reyn's Main Outfit from {{XC|-}}, with elements of [[Egil]]'s design from the same game.
+Lanz Reyn Outfit B.jpg|Lanz's Throwback B outfit from the Expansion Pass, based on Reyn's Main Outfit from {{XC|-}}, with elements of Egil's design from the same game.
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+[[es:Lanz]]
+
+[[Category:XC3 Playable Characters]]
+[[Category:Lanz]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Ouroboros]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>3muqwb2xmbhohefzcvkfhz0tj7aomog</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lapdog Veece</title>
+    <ns>0</ns>
+    <id>118685</id>
+    <revision>
+      <id>574503</id>
+      <parentid>559424</parentid>
+      <timestamp>2023-01-29T02:01:57Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>a UM with 0 break resist?</comment>
+      <origin>574503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1259" sha1="dopbf3v30ebyxil5wdpcp3w9sikjz21" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Lapdog Veece
+|image        = XC3 Lapdog Veece.png
+|caption      = Lapdog Veece
+|type         = [[Volff]]
+|level        = 9
+|area         = [[Alfeto Valley]] ([[Volff Lair (XC3)|Volff Lair]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp       = 162
+|cp        = 289
+|sp        = 5
+|gold      = 160
+|hp        = 17,400
+|strength  = 94
+|healing   = 28
+|dexterity = 39
+|agility   = 50
+|physdef   = 5%
+|ethdef    = -10%
+|critrate  = 15%
+|guardrate = 0% 
+}}
+'''Lapdog Veece''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Volff]] family, and can be found at level 9 at [[Volff Lair (XC3)|Volff Lair]] in [[Alfeto Valley]]. The [[Beast Howl]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|physdebuff = 25%
+|etherdebuff = 30%
+|knockback = 25%
+|blowdown = 25%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Lapdog veece location.png
+Lapdog veece.png
+&lt;/gallery&gt;
+{{clr}}
+
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dopbf3v30ebyxil5wdpcp3w9sikjz21</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lapidarist</title>
+    <ns>0</ns>
+    <id>125565</id>
+    <revision>
+      <id>597124</id>
+      <parentid>597111</parentid>
+      <timestamp>2023-06-23T14:18:19Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>class unlock and weapon stats (much of the weapon stat work was cut out by its weapon sharing its attack stat with FMJ, which i copied from)</comment>
+      <origin>597124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6826" sha1="amcaatxi681in7nkjhdyct3n5s2zjxp" xml:space="preserve">{{Spoiler}}
+{{quote|A frontline Healer who restores HP with critical hits and guides the flow of battle with unique field effects.|Class menu description}}
+[[File:XC3 Lapidarist Class Icon.png|thumb|The Lapidarist class icon]]
+'''Lapidarist''' is a DLC [[Keves]]i [[Healer]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Lapidarist is the class of [[Masha]]. It is unlocked upon completing the [[Hero Quest]] ''[[Lapidarist Extraordinaire]]'', and is inherited by [[Mio]]. The class rank limit is increased to 20 upon completing ''[[For the Sake of Keepsakes]]''. The [[Blade (XC3)|Blades]] of the Lapidarist class are known as the Dazzling Rings, ring-shaped weapons similar to Mio's Dual Moonblades. Despite being classified as being part of the [[Lost Numbers]], arts belonging to the Lapidarist class function like those of Kevesi classes.
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|6,565
+|''Class Inheritor''
+|3,750
+|2,815
+|5,625
+|4,690
+|}
+
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 245
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 245
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 300
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 300
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 365
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 365
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 395
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 395
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 420
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[For the Sake of Keepsakes]]''
+|-
+| 11 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 460
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 460
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 570
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 570
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 685
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 685
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 745
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 855
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Lapidarist class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 50% || 75% || 110% || 105% || 100% || 5% || 10%
+|-
+| 10 || 52% || 77% || 115% || 110% || 105% || 7% || 12%
+|-
+| 20 || 55% || 80% || 120% || 115% || 110% || 10% || 15%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 18 || 25% || 3%
+|-
+| 10 || 39 || 26% || 3%
+|-
+| 20 || 71 || 27% || 4%
+|-
+| 30 || 109 || 28% || 4%
+|-
+| 40 || 152 || 29% || 4%
+|-
+| 50 || 203 || 30% || 5%
+|-
+| 60 || 258 || 31% || 5%
+|-
+| 70 || 320 || 32% || 5%
+|-
+| 80 || 391 || 33% || 5%
+|-
+| 90 || 470 || 34% || 6%
+|-
+| 99 || 549 || 35% || 6%
+|}
+== Class Arts ==
+* '''[[Pride of Place]]''' ([[Battle Arts (XC3)|Talent Art]]), Field / [[Blaze (XC3)|Blaze]] &amp; [[Regenerate (XC3)|Regen]]
+* '''[[Blessed Edge]]''', Area heal on hit
+* '''[[Rigid Slicer]]''', AOE / Slow charge (Rank 1 Master Art)
+* '''[[Prismatic Ring]]''', Field / Arts heal
+* '''[[Golden Heart]]''', AOE / Fast charge
+* '''[[Vivid Carve]]''', Remove buffs (Rank 10 Master Art)
+
+=== Hero-Exclusive Arts ===
+* '''[[Solid Silver]]''', AOE / Slow charge
+* '''[[Majestic Zone]]''', Field / Arts heal
+* '''[[Platinum Shards]]''', Remove buffs
+
+== Class Skills ==
+* '''Star Treatment''', On critical hit, heal nearby allies to max of 70% of Healing Power.
+* '''Beaming Edge''', Boosts all allies' Critical Rate by 12-20% and critical hit damage by 30-50 perc. points. (Does not stack.) (Rank 15 Master Skill)
+* '''Fascinator''', Boosts damage dealt when in range of a field effect 50-70%.
+* '''Ring &#224; la Mode''', Increases the maximum number of fields that can be set from 3 to 4. (Does not stack.) (Rank 5 Master Skill)
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!&lt;abbr title="Amount healed as a percentage of damage dealt"&gt;Star Treatment&lt;/abbr&gt;
+!Beaming Edge 
+!Fascinator 
+|-
+| 1
+| 9%
+| 12%, 30
+| 50%
+|-
+| 5
+| 10.5%
+| 14%, 35
+| 55%
+|-
+| 10
+| 12%
+| 16%, 40
+| 60%
+|-
+| 15
+| 14%
+| 18%, 45
+| 65%
+|-
+| 20
+| 15%
+| 20%, 50
+| 70%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Masha Official Artwork.png|Masha, a Lapidarist
+Lapidarist Noah.jpg|Noah as a Lapidarist
+Lapidarist Mio.jpg|Mio as a Lapidarist
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+[[Category:XC3 Classes]]
+[[Category:XC3 Downloadable Content]]</text>
+      <sha1>amcaatxi681in7nkjhdyct3n5s2zjxp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lapidarist Extraordinaire</title>
+    <ns>0</ns>
+    <id>125610</id>
+    <revision>
+      <id>583073</id>
+      <parentid>580678</parentid>
+      <timestamp>2023-04-15T08:20:37Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>add affinity reward</comment>
+      <origin>583073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1652" sha1="ffcfxslssoxj6oesoqruj3xi0kwhy45" xml:space="preserve">{{Infobox quest
+|name        = Lapidarist Extraordinaire
+|image       = Lapidarist Extraordinaire.png
+|description = "Head to Serene Square to make the acquaintance of a new Hero. (You can get there starting partway through chapter 5.)"
+|giver       = 
+|location    = [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]]
+|time        = 
+|prereqs     = Expansion Pass purchased&lt;br/&gt; The [[City]] reached
+|reclevel    = Lv. 43
+|rewards     = 250 [[City]] [[Affinity (XC3)|Affinity]]&lt;br/&gt; 3850 [[Experience Points (XC3)|EXP]]&lt;br/&gt;3820 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Masha]] as a [[Hero]]
+}}
+'''Lapidarist Extraordinaire''' is a DLC [[Hero Quest]] in {{XC3}}, dedicated to [[Masha]]. It is part of the [[Xenoblade Chronicles 3#New Hero &amp; More Tough Challenges|New Hero &amp; More Tough Challenges]] of the Expansion Pass.
+
+== Objectives ==
+# ''Progress the main story.''
+#* Complete ''[[Castle Access]]'' in Chapter 5.
+# ''Head for the specified location(s).''
+#* [[Serene Square]]
+# ''Head for the specified location(s).''
+#* [[Astelle Harbor]]
+# ''Head for the specified location(s).''
+#* [[Zem's Crossway]]
+# ''Investigate the specified object(s).''
+#* [[Enigmatter|???]]
+#** Go to [[Piento Basin]].
+# ''Head for the specified location(s).''
+#* [[City Camp]]
+# ''[[Craft Accessories|Craft]] an [[Accessory (XC3)|accessory]] at the City Camp.''
+
+== Results ==
+''"Sensing an opportunity for collaboration, Masha and the party entered into an exclusive contract. Be sure to take advantage of her accessory-crafting services sometime!"''
+{{clr}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:XC3 DLC Quests]]
+[[Category:Masha]]
+[[Category:City Quests]]</text>
+      <sha1>ffcfxslssoxj6oesoqruj3xi0kwhy45</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Larm Ansel</title>
+    <ns>0</ns>
+    <id>123985</id>
+    <revision>
+      <id>582051</id>
+      <parentid>559265</parentid>
+      <timestamp>2023-04-07T22:31:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>lots of info added</comment>
+      <origin>582051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2201" sha1="7wb1yi0twsmaq7bjiuvbbzc9uma8lfr" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Larm Ansel
+|image        = Larm Ansel.jpg
+|caption      = Larm Ansel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Ansel]]
+|level        = 19
+|area         = [[Ribbi Flats]] ([[Llyn Nyddwr]])
+|spawntime    = During ''[[Dorin and Bambam]]''
+|respawn      = No
+|movement     = Air
+|detection    = 
+|exp          = 116
+|cp           = 151
+|sp           = 0
+|gold         = 37
+|hp           = 14,430
+|strength     = 125
+|healing      = 
+|dexterity    = 76
+|agility      = 82
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Larm Ansels''' are three [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Ansel]] family, and are fought at level 19 at [[Llyn Nyddwr]] at [[Ribbi Flats]] during ''[[Dorin and Bambam]]''.
+
+== Drops ==
+{{XC3 Enemy drops
+|item1   = [[Misanga]]
+|type1   = [[Accessory (XC3)|Accessory]]
+|rarity   = 2
+|rate1   = 8%
+
+|item2   = [[Apprentice Vambraces (XC3)|Apprentice Vambraces]]
+|type2   = [[Accessory (XC3)|Accessory]]
+|rarity2   = 2
+|rate2   = 8%
+
+|item3   = [[Aural Enhance Sensor]]
+|type3   = [[Accessory (XC3)|Accessory]]
+|rarity3   = 2
+|rate3   = 8%
+
+|item4   = [[Silver Anklets]]
+|type4   = [[Accessory (XC3)|Accessory]]
+|rarity4   = 2
+|rate4   = 8%
+
+|item5   = [[Assault Stone (XC3)|Assault Stone]]
+|type5   = [[Accessory (XC3)|Accessory]]
+|rarity5   = 1
+|rate5   = 16%
+
+|item6   = [[Shadow Mask]]
+|type6   = [[Accessory (XC3)|Accessory]]
+|rarity6   = 1
+|rate6   = 16%
+
+|item7   = [[Black Feather Band]]
+|type7   = [[Accessory (XC3)|Accessory]]
+|rarity7   = 1
+|rate7   = 16%
+
+|item8   = [[Friendship Badge]]
+|type8   = [[Accessory (XC3)|Accessory]]
+|rarity8   = 1
+|rate8   = 16%
+
+|item9   = [[Elegant Ansel Feather]]
+|type9   = Collectible
+|rarity9   = 1
+|rate9   = 95%
+
+|item10  = [[Compressed Ansel Meat]]
+|type10  = Collectible
+|rarity10  = 1
+|rate10  = 95%
+
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>7wb1yi0twsmaq7bjiuvbbzc9uma8lfr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Last Ansel</title>
+    <ns>0</ns>
+    <id>123230</id>
+    <revision>
+      <id>559774</id>
+      <parentid>553563</parentid>
+      <timestamp>2022-09-30T10:51:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="769" sha1="56ryevistpbn33ctvf12qhk8gsad24x" xml:space="preserve">{{Infobox Enemy
+|name         = Last Ansel
+|image        = 
+|caption      = Last Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Last Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>56ryevistpbn33ctvf12qhk8gsad24x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Launch (XC3)</title>
+    <ns>0</ns>
+    <id>117059</id>
+    <revision>
+      <id>595601</id>
+      <parentid>595483</parentid>
+      <timestamp>2023-06-15T17:30:24Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595601</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1404" sha1="szuhezfl4yof0f8776fwbte2xj0m92p" xml:space="preserve">{{for|mechanics from other games|Launch}}
+[[File:XC3 Launch Icon.png|thumb|Launch Icon]]
+'''Launch''' is a status in {{XC3}} and {{XC3FR|sublink}}. It causes a [[Topple (XC3)|toppled]] target to be launched into the air. When hit with a [[Battle Arts (XC3)|launching art]], an enemy will remain spinning helplessly in the air for a set amount of time and will be unable to act. Launched enemies take 150% increased damage, making launch a very valuable effect, especially in chain attacks. Only a Launched enemy can be [[Smash (XC3)|smashed]]. In {{XC3FR|sub}}, launched enemies can also be [[Burst]]ed or inflicted with [[Blowdown (XC3)|Blowdown]].
+{{clr}}
+
+== Launch-inflicting Arts ==
+* [[Pressure Drop]] ([[Ogre]])
+* [[Winning Rush]] ([[Lanz]], [[Ouroboros]])
+* [[Volcano Cannon]] (Lanz, Ouroboros)
+* [[Earth Crusher]] ([[Sena]], Ouroboros)
+* [[Soaring Tempest (XC3)|Soaring Tempest]] ([[Lone Exile]], Master Art)
+* [[Gravity Blow]] ([[Noah]])
+* [[Bomberhead]] ([[Soulhacker]])
+
+=== In {{XC3FR|sub}} ===
+* [[Motor Lifter]] ([[Nikol]])
+* [[Dual Blast]] ([[Rex]]); Only inflicts Launch when attacking from the side.
+* Raging Revolt ([[Matthew (FR)|Matthew]]; Fusion Art: fuse [[Raging Force]] with [[Revolt Uppercut]])
+* Initiative Effect: Launch (Rex; initiative effect when starting battle with a side attack, forces Launch without requiring Topple)
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>szuhezfl4yof0f8776fwbte2xj0m92p</sha1>
+    </revision>
+  </page>
+  </mediawiki>

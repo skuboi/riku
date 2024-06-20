@@ -1,0 +1,6 @@
+Art Name: Cross Blaze
+
+Class: Rex
+
+Effect: Crit.+ during enemy Art
+

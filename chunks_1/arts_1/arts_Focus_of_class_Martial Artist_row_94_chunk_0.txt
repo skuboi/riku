@@ -1,0 +1,6 @@
+Art Name: Focus
+
+Class: Martial Artist
+
+Effect: Fast charge/Auto-atk spd+
+

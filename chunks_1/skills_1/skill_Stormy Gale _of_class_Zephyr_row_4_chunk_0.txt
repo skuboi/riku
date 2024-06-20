@@ -1,0 +1,6 @@
+Skill Name: Stormy Gale 
+
+Class: Zephyr
+
+Skill Buff or Effect:  Boosts Agility by 30%. [Rank 15 Master Skill]
+

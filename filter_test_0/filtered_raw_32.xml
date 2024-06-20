@@ -1,0 +1,1991 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hellfire Amulet</title>
+    <ns>0</ns>
+    <id>122618</id>
+    <revision>
+      <id>592791</id>
+      <parentid>592390</parentid>
+      <timestamp>2023-05-15T20:15:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592791</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="7iqsbwkp5yhweoxnrmwgvevqp1wta9x" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Hellfire Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Blaze by 250%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Hellfire Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Blaze by 275%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Hellfire Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Blaze by 300%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Hellfire Amulets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>7iqsbwkp5yhweoxnrmwgvevqp1wta9x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hemish Krodlax</title>
+    <ns>0</ns>
+    <id>121829</id>
+    <revision>
+      <id>595341</id>
+      <parentid>595334</parentid>
+      <timestamp>2023-06-13T00:18:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595341</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1722" sha1="tejcukylcuqmc8fcjwkw4435cm3e5oc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hemish Krodlax
+|image        = 
+|caption      = Hemish Krodlax
+|category     = Normal Minor Enemy
+|type         = [[Krodlax]]
+|level        = 58-62
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hemish Krodlax''' are Minor Enemies in {{XC3}}. They are members of the [[Krodlax]] family, and can be found at level 58 at [[Cape Arcaphor]] and at level 61-62 south of [[Irma's Secret Base]] in [[Erythia Sea]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Hemish Krodlax
+|image        = Hemish Krodlax FR.jpg
+|caption      = Hemish Krodlax
+|category     = Normal Minor Enemy
+|type         = [[Krodlax]]
+|level        = 33
+|area         = [[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Hemish Krodlax''' are Minor Enemies in {{XC3FR}}. They are members of the [[Krodlax]] family, and can be found at level 34 in the waters around [[Colony 9 (XC1)|Colony 9]] in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Krodlax]]
+[[Category:XC3FR Krodlax]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>tejcukylcuqmc8fcjwkw4435cm3e5oc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Her Reasons</title>
+    <ns>0</ns>
+    <id>120399</id>
+    <revision>
+      <id>578843</id>
+      <parentid>577164</parentid>
+      <timestamp>2023-03-08T21:53:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>578843</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1144" sha1="r4zpcl5cwokohj2sswoabfbog50mn96" xml:space="preserve">{{Infobox quest
+|name        = Her Reasons
+|image       = Her Reasons.jpg 
+|description = "Defeat Commander Alexandria, and capture Colony Iota."
+|giver       = [[Alexandria]]
+|location    = [[Elaice Highway]] ([[Colony Iota]])
+|time        = 
+|prereqs     = Chapter 3 started
+|reclevel    = Lv. 40
+|rewards     = 400 [[Colony Iota]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;1180 [[Experience Points (XC3)|EXP]]&lt;br/&gt; 1520 [[Gold|G]]&lt;br/&gt; 10 [[Soul Tree|SP]]&lt;br/&gt; [[Alexandria]] as a [[Hero]]
+}}
+'''Her Reasons''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Alexandria]].
+
+== Objectives ==
+# ''Defeat the specified foe(s).''
+#* [[Alexandria#Battle|Craftmaiden Alexandria]]
+# ''Defeat the specified foe(s).''
+#* [[E#Battle|Moebius E]]
+# ''Follow the specified character(s).''
+#* [[Alexandria]]
+# ''Head for the specified location(s).''
+#* [[Colony Iota]] [[Ferronis]]
+
+== Results ==
+''"The party bore witness to Alexandria's ingenuity for survival and got a glimpse of her situation. They agree to keep her being a sixth-termer top-secret."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Alexandria]]
+[[Category:Fornis Region Quests]]</text>
+      <sha1>r4zpcl5cwokohj2sswoabfbog50mn96</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Herald's Kneeguard</title>
+    <ns>0</ns>
+    <id>118963</id>
+    <revision>
+      <id>592792</id>
+      <parentid>592301</parentid>
+      <timestamp>2023-05-15T20:15:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592792</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1005" sha1="gzzsglgfvkjhaffeps73emsa745lhks" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Herald's Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 10% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Herald's Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 11% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Herald's Kneeguard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 12% while moving.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Herald's Kneeguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>gzzsglgfvkjhaffeps73emsa745lhks</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heretical Saurow</title>
+    <ns>0</ns>
+    <id>119424</id>
+    <revision>
+      <id>583300</id>
+      <parentid>574384</parentid>
+      <timestamp>2023-04-17T15:34:06Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1320" sha1="h2x3by1j6fj8rvp7ij1qnl8v3bbea4f" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Heretical Saurow
+|image        = Heretical Saurow.png
+|caption      = Heretical Saurow
+|type         = [[Upa]]
+|level        = 25
+|area         = [[Rae-Bel Tableland]] ([[Old Kana Battlefield]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 364
+|cp           = 214
+|sp           = 5
+|gold         = 330
+|hp           = 304,300
+|strength     = 589
+|healing      = 201
+|dexterity    = 87
+|agility      = 106
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Heretical Saurow''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Upa]] family, and can be found at level 25 at [[Old Kana Battlefield]] on [[Rae-Bel Tableland]]. The [[Hypno-Light]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|physdebuff = 50%
+|etherdebuff = 30%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Heretical saurow location.png
+Heretical saurow.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Upas]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h2x3by1j6fj8rvp7ij1qnl8v3bbea4f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hermit Mask</title>
+    <ns>0</ns>
+    <id>118964</id>
+    <revision>
+      <id>592793</id>
+      <parentid>592329</parentid>
+      <timestamp>2023-05-15T20:15:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592793</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1012" sha1="r3e7ggy93r4puctagqraa26bpzslpmp" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Hermit Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 90%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Hermit Mask
+|image     = XC3 Accessory Cap.png 
+|caption   = Boosts damage dealt to Terrestrial Life by 95%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Hermit Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Hermit Masks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>r3e7ggy93r4puctagqraa26bpzslpmp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hero</title>
+    <ns>0</ns>
+    <id>117189</id>
+    <revision>
+      <id>594656</id>
+      <parentid>594580</parentid>
+      <timestamp>2023-05-30T06:01:29Z</timestamp>
+      <contributor>
+        <username>Mario123007</username>
+        <id>25075338</id>
+      </contributor>
+      <comment>/* Trivia */</comment>
+      <origin>594656</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14299" sha1="2a811oxnlbp7j5n40etvtsu7wqxp6x0" xml:space="preserve">{{spoiler}}
+'''Heroes''' (Japanese: {{lang|ja|&#12498;&#12540;&#12525;&#12540;}}, ''H&#299;r&#333;'') are guest characters in {{XC3}}.
+
+== Overview ==
+Heroes are special allies who can be recruited to fight alongside [[Noah]] and the other five as a seventh party member after completing the corresponding [[Hero Quest]].&lt;ref&gt;https://mobile.twitter.com/XenobladeJP/status/1542040169037312000&lt;/ref&gt;&lt;ref&gt;https://twitter.com/NintendoEurope/status/1526114105869979648&lt;/ref&gt; While only one Hero can be in the active party, once recruited, they can be swapped in at any time.&lt;ref&gt;https://topics.nintendo.co.jp/article/95795fc0-a0ce-470c-bb98-9456adba1a99&lt;/ref&gt; However they are not controllable.&lt;ref&gt;https://topics.nintendo.co.jp/article/f86dd1d6-9eff-45ca-b244-fdb1174b4c84&lt;/ref&gt; The six playable characters can still switch their [[Class (XC3)|class]] into Hero classes after growing closer to the corresponding Heroes&lt;ref&gt;https://mobile.twitter.com/XenobladeJP/status/1542040672848424960&lt;/ref&gt;, though. The exceptions are [[Shulk]] and [[Rex]], whose classes cannot be learned under any circumstances.
+
+Each Hero can also take part in [[Chain Attack (XC3)|Chain Attacks]], with each one having a unique Heroic Chain bonus instead of the usual bonuses based on the class archetype. 
+
+== List of Classes ==
+{| class="xc1 centered sortable"
+! Hero
+! Class
+! Role
+! Blade
+! Nation
+! Acquisition
+! Ascension
+|-
+| [[File:Ethel portrait artwork.png|link=Ethel|75px]]&lt;br/&gt;[[Ethel]]
+| [[File:XC3 Flash Fencer Weapon Icon.png|center|link=Flash Fencer|50px]][[Flash Fencer]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Dual Rapiers
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[No Want of Courage]]''
+| Achieve Rank 10 with Flash Fencer and Seraph, and have Ethel undergo the maturation process at [[Colony Omega]].
+|-
+| [[File:XC3 Valdi Portrait Art.png|link=Valdi|75px]]&lt;br/&gt;[[Valdi]]
+| [[File:XC3 War Medic Weapon Icon.png|center|link=War Medic|50px]][[War Medic]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Relief Rifle
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[The Kind Right Hand]]''
+| ''[[I'm a Mechanic]]''
+|-
+| [[File:XC3 Zeon portrait art.png|link=Zeon|75px]]&lt;br/&gt;[[Zeon]]
+| [[File:XC3 Guardian Commander Weapon Icon.png|center|link=Guardian Commander|50px]][[Guardian Commander]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Gutsy Gladius
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[Where The Heart Is]]''
+| ''[[Reasons to Evolve]]''
+|-
+| [[File:Teach portrait artwork.png|link=Teach|75px]]&lt;br/&gt;[[Teach]]
+| [[File:XC3 Thaumaturge Weapon Icon.png|center|link=Thaumaturge|50px]][[Thaumaturge]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Martial Linkstaff
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Going Beyond Power]]''
+| ''[[Shadow of Enmity]]''
+|-
+| [[File:XC3 Riku portrait Artwork.png|link=Riku|75px]][[File:XC3 Manana portrait Artwork.png|link=Manana|75px]]&lt;br/&gt;[[Riku &amp; Manana]]
+| [[File:XC3 Yumsmith Weapon Icon.png|center|link=Yumsmith|50px]][[Yumsmith]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Variable Arms
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]][[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[A Nopon's Counsel]]''
+| ''[[Culinary Repertoire]]''
+|-
+| [[File:XC3 Gray Portrait Art.png|link=Gray|75px]]&lt;br/&gt;[[Gray]]
+| [[File:XC3 Full Metal Jaguar Weapon Icon.png|center|link=Full Metal Jaguar (XC3)|50px]][[Full Metal Jaguar (XC3)|Full Metal Jaguar]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Gun Drones
+| [[File:Lost Numbers Icon.png|link=Lost Numbers|50px]]
+| ''[[A Gray Matter]]''
+| ''[[Payback for Treason]]''
+|-
+| [[File:Isurd portrait artwork.png|link=Isurd|75px]]&lt;br/&gt;[[Isurd]]
+| [[File:XC3 Strategos Weapon Icon.png|center|link=Strategos|50px]][[Strategos]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Disc Launcher
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Unwavering Resolve]]''
+| ''[[Effervescent Heart]]''
+|-
+| [[File:Juniper Twitter Art.png|link=Juniper|75px]]&lt;br/&gt;[[Juniper]]
+| [[File:XC3 Stalker Weapon Icon.png|center|link=Stalker|50px]][[Stalker]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Luminescent Bow
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Natural Selection]]''
+| ''[[Survivors]]''
+|-
+| [[File:XC3 Ashera Portrait Art.png|link=Ashera|75px]]&lt;br/&gt;[[Ashera]]
+| [[File:XC3 Lone Exile Weapon Icon.png|center|link=Lone Exile|50px]][[Lone Exile]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Twinsaber
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[The Wrath of Ashera]]''
+| ''[[A Deep-Seated Scar]]''
+|-
+| [[File:XC3 Alexandria Portrait Art.png|link=Alexandria|75px]]&lt;br/&gt;[[Alexandria]]
+| [[File:XC3 Incursor Weapon Icon.png|center|link=Incursor|50px]][[Incursor]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Exponential Edge
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Her Reasons]]''
+| ''[[Inescapable Past]]''
+|-
+| [[File:Monica Vandham portrait artwork.png|link=Monica Vandham|75px]]&lt;br/&gt;[[Monica Vandham|Monica]]
+| [[File:XC3 Lost Vanguard Weapon Icon.png|center|link=Lost Vanguard|50px]][[Lost Vanguard]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Defense Mace
+| [[File:Lost Numbers Icon.png|link=Lost Numbers|50px]]
+| ''[[Vandham's Heir]]''
+| ''[[Promise to the Future]]''
+|-
+| [[File:XC3 Fiona Portrait Art.png|link=Fiona|75px]]&lt;br/&gt;[[Fiona]]
+| [[File:XC3 Signifer Weapon Icon.png|center|link=Signifer|50px]][[Signifer]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| War Standard
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Transparent Dreams]]''
+| ''[[A Farewell Reset]]''
+|-
+| [[File:XC3 Triton portrait.png|link=Triton|75px]]&lt;br/&gt;[[Triton]]
+| [[File:XC3 Soulhacker Weapon Icon.png|center|link=Soulhacker|50px]][[Soulhacker]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Mimic Knuckles
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[Doing It My Way]]''
+| ''[[My Memories]]''
+|-
+| [[File:XC3 Ghondor Portrait Art.png|link=Ghondor|75px]]&lt;br/&gt;[[Ghondor]]
+| [[File:XC3 Martial Artist Weapon Icon.png|center|link=Martial Artist|50px]][[Martial Artist]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Turbo Cestus
+| [[File:Lost Numbers Icon.png|link=Lost Numbers|50px]]
+| Chapter 6
+| ''[[Knowing Your Family]]''
+|-
+| [[File:XC3 Miyabi portrait.png|link=Miyabi|75px]]&lt;br/&gt;[[Miyabi]]
+| [[File:XC3 Troubadour Weapon Icon.png|center|link=Troubadour|50px]][[Troubadour]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Siken Ivy
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[Side Story: Mio]]''
+| ''[[Happiness]]''
+|-
+| [[File:Cammuravi portrait artwork.png|link=Cammuravi|75px]]&lt;br/&gt;[[Cammuravi]]
+| [[File:XC3 Seraph Weapon Icon.png|center|link=Seraph|60px]][[Seraph]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Heatshimmer Spear
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| ''[[A Twist of Fate]]''
+| Achieve Rank 10 with Flash Fencer and Seraph, and have Ethel undergo the maturation process at [[Colony Omega]].
+|-
+| [[File:Segiri portrait artwork.png|link=Segiri|75px]]&lt;br/&gt;[[Segiri]]
+| [[File:XC3 Machine Assassin Weapon Icon.png|center|link=Machine Assassin|60px]][[Machine Assassin]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Doom Axes
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| ''[[Inhumanity]]''
+| ''[[Invisible Bond]]''
+|-
+| [[File:Hero_Nia.png|link=Nia|75px]]&lt;br/&gt;[[Nia]]
+| [[File:Lifesage Class Icon.png|center|link=Lifesage|75px]][[Lifesage]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Anima Sword
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| Go to the [[Hall of the Serene]] in the [[Cloudkeep]] after completing the main story
+| ''[[Grasping My Future]]''
+|-
+| [[File:Hero_Melia.png|link=Melia|75px]]&lt;br/&gt;[[Melia]]
+| [[File:Royal Summoner Class Icon.png|center|link=Royal Summoner|60px]][[Royal Summoner]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Elemental Staff
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| Go to the [[Main Castle Gate]] of [[Keves Castle]] after completing the main story
+| ''[[From Atop Her Throne]]''
+|-
+| [[File:Ino infobox pic.png|link=Ino|75px]]&lt;br/&gt;[[Ino]]
+| [[File:XC3 Noponic Champion Class Icon.png|center|link=Noponic Champion|70px]][[Noponic Champion]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Inosabers
+| [[File:Nopon Caravans Icon.png|link=Nopon Caravans|50px]]
+| ''[[Champion of the Nopon]]'' (DLC)
+| ''[[The Hope of Noponkind]]'' (DLC)
+|-
+| [[File:Masha portrait artwork.png|link=Masha|75px]]&lt;br/&gt;[[Masha]]
+| [[File:XC3 Lapidarist Class Icon.png|center|link=Lapidarist|70px]][[Lapidarist]]
+| [[File:XC3 Healer Role Icon.png|center|link=Healer|x50px|Healer]]
+| Dazzling Rings
+| [[File:Lost Numbers Icon.png|link=Lost Numbers|50px]]
+| ''[[Lapidarist Extraordinaire]]'' (DLC)
+| ''[[For the Sake of Keepsakes]]'' (DLC)
+|-
+| [[File:XC3FR Shulk portrait.png|link=Shulk|75px]]&lt;br/&gt;[[Shulk]]
+| [[File:Grand Marshal Class Icon.png|center|link=Grand Marshal|70px]][[Grand Marshal]]
+| [[File:XC3 Defender Role Icon.png|center|link=Defender (XC3)|x50px|Defender]]
+| Monado REX+
+| [[File:XC3 Keves Emblem.png|link=Keves|50px]]
+| colspan="2" | Clear Challenge Battle ''[[The Two Saviors]]'' (DLC)
+|-
+| [[File:XC3FR Rex portrait.png|link=Rex|75px]]&lt;br/&gt;[[Rex]]
+| [[File:Master Driver Class Icon.png|center|link=Master Driver|70px]][[Master Driver]]
+| [[File:XC3 Attacker Role Icon.png|center|link=Attacker|x50px|Attacker]]
+| Firelight Swords
+| [[File:XC3 Agnus Emblem.png|link=Agnus|50px]]
+| colspan="2" |Clear Challenge Battle ''[[The Two Saviors]]'' (DLC)
+|}
+
+== Trivia ==
+* Once reaching to the final part of the main story. Heroes' voicelines will change when being selected on the Hero selection menu.
+* Ethel and Cammuravi's story arc makes them unique among Heroes:
+** For Ethel, she is the only Hero to remain unrecruitable until her ascension condition is met. Albeit Monica and Ghondor also becomes temporarily unrecruitable during certain parts of the main story.
+** Both do not have an ascension quest like other non-DLC Heroes, as well as the only Heroes to share the same ascension condition.
+** Both are also the only Heroes to be killed by [[Consul]]s and to be reborn in the main story.
+* Ghondor is the only Hero that permanently joins the party by progressing the main story without completing Hero Quest or go to a certain location to acquire.
+* Miyabi is the only Hero that joins the party by completing an Ascension Quest.
+* Due to being DLC content, Ino, Masha, Shulk, and Rex will not be summoned by Melia and Nia during the second phase of the final boss [[X&#8734;]] and [[Y&#8734;]].
+* Riku &amp; Manana, Nia, and Melia are the only non-DLC Heroes that are never fought by the party.
+* As a pre-rendered cutscene, all non-DLC Heroes will appear at the end of the final cutscene regardless if they're recruited.
+** This is also the case with Ethel, as she appears in her original form regardless if she rejoins the party.
+** Due to being a Moebius, Triton is the only non-DLC Hero that doesn't appear during the ending.
+** Shulk and Rex will not appear in any cutscenes due to being a {{XC3FR|sub}} completion bonus.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Ethel Artwork.png|Ethel
+XC3 Riku and Manana Artwork.png|Riku and Manana
+XC3 Valdi Artwork.png&#8206;|Valdi
+XC3 Zeon Artwork.png&#8206;|Zeon
+Teach Hero Artwork.png|Teach
+XC3 Gray Artwork.png|Gray
+XC3 Juniper Artwork.png|Juniper
+XC3 Isurd Artwork.png|Isurd
+XC3 Ashera Artwork.png|Ashera
+XC3 Monica Artwork.png|Monica
+XC3 Alexandria Artwork.png|Alexandria
+XC3 Fiona Artwork.png|Fiona
+XC3 Triton Artwork.png|Triton
+XC3 Ghondor Artwork.png|Ghondor
+XC3 Cammuravi Artwork.png|Cammuravi
+XC3 Miyabi Artwork.png|Miyabi
+Segiri Hero Artwork.png|Segiri
+XC3 Nia Artwork.png|Nia
+Melia Official Artwork.png|Melia
+Ino Official Artwork.png|Ino
+XC3 Masha Official Artwork.png|Masha
+XC3FR Shulk Official Artwork.png|Shulk
+XC3FR Rex Official Artwork.png|Rex
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+==== Hero List Icons ====
+&lt;gallery&gt;
+Ethel Hero Icon.png|Ethel
+Valdi Hero Icon.png|Valdi
+Zeon Hero Icon.png|Zeon
+Teach Hero Icon.png|Teach
+Riku Manana Hero Icon.png|Riku &amp; Manana
+Gray Hero Icon.png|Gray
+Isurd Hero Icon.png|Isurd
+Juniper Hero Icon.png|Juniper
+Ashera Hero Icon.png|Ashera
+Alexandria Hero Icon.png|Alexandria
+Monica Hero Icon.png|Monica
+Fiona Hero Icon.png|Fiona
+Triton Hero Icon.png|Triton
+Ghondor Hero Icon.png|Ghondor
+Miyabi Hero Icon.png|Miyabi
+Cammuravi Hero Icon.png|Cammuravi
+Segiri Hero Icon.png|Segiri
+Nia Hero Icon.png|Nia
+Melia Hero Icon.png|Melia
+Ino Hero Icon.png|Ino
+Masha Hero Icon.png|Masha
+Shulk Hero Icon.png|Shulk
+Rex Hero Icon.png|Rex
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+RikuManana.jpg|Manana with Riku
+XC3 Valdi screenshot 01.jpg
+XC3 Valdi screenshot 02.jpg
+XC3 Valdi screenshot 03.jpg
+XC3 Valdi screenshot 04.jpg
+XC3 Zeon screenshot 01.jpg
+XC3 Zeon screenshot 02.jpg
+XC3 Zeon screenshot 03.jpg
+XC3 Zeon screenshot 04.jpg
+XC3 Juniper screenshot 01.jpg
+XC3 Juniper screenshot 02.jpg
+XC3 Juniper screenshot 03.jpg
+XC3 Juniper screenshot 04.jpg
+XC3 Fiona screenshot 01.jpg
+XC3 Fiona screenshot 02.jpg
+XC3 Fiona screenshot 03.jpg
+XC3 Fiona screenshot 04.jpg
+XC3 Alexandria screenshot 01.jpg
+XC3 Alexandria screenshot 02.jpg
+XC3 Alexandria screenshot 03.jpg
+XC3 Alexandria screenshot 04.jpg
+XC3 Gray screenshot 01.jpg
+XC3 Gray screenshot 02.jpg
+XC3 Gray screenshot 03.jpg
+XC3 Gray screenshot 04.jpg
+XC3 Ashera screenshot 01.jpeg
+XC3 Ashera screenshot 02.jpeg
+XC3 Ashera screenshot 03.jpeg
+XC3 Ashera screenshot 04.jpeg
+XC3 Hero Select Screen.jpg|The Japanese Hero selection screen
+XC3 Hero selection 01.jpg|The English Hero selection screen
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+File:&#12522;&#12463;|Riku
+File:&#12510;&#12490;&#12490;|Manana
+File:&#12523;&#12487;&#12451;|Valdi
+File:&#12476;&#12458;&#12531;|Zeon
+File:&#12518;&#12474;&#12522;&#12495;|Juniper
+&lt;/gallery&gt;
+
+==References==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+{{XC3CharNav}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:XC3 Heroes]]</text>
+      <sha1>2a811oxnlbp7j5n40etvtsu7wqxp6x0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hero Gloves (XC3)</title>
+    <ns>0</ns>
+    <id>118965</id>
+    <revision>
+      <id>592794</id>
+      <parentid>592528</parentid>
+      <timestamp>2023-05-15T20:16:00Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1165" sha1="ltrlr3jxs3ezneijl837ntogxpmmpx0" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Hero Gloves (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Hero Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Hero Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Hero Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Hero Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be purchased at the [[Colony 4 Commissary]], they are one of the items that can be used to complete the mission ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ltrlr3jxs3ezneijl837ntogxpmmpx0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hero Pauldrons (XC3)</title>
+    <ns>0</ns>
+    <id>122851</id>
+    <revision>
+      <id>566755</id>
+      <parentid>565402</parentid>
+      <timestamp>2022-11-22T16:59:00Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566755</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="991" sha1="9zqhodfbon9venes6oac1a7zyhxmu44" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Hero Pauldrons (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Hero Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Increases Smash damage by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Hero Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Increases Smash damage by 105%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Hero Pauldrons
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Increases Smash damage by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Hero Pauldrons''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>9zqhodfbon9venes6oac1a7zyhxmu44</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hero Quest</title>
+    <ns>0</ns>
+    <id>117705</id>
+    <revision>
+      <id>580635</id>
+      <parentid>579022</parentid>
+      <timestamp>2023-03-28T11:45:50Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Entire requirement section added</comment>
+      <origin>580635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12250" sha1="c1semqdqshy6okxksnm5fmoylcnlkr4" xml:space="preserve">{{spoiler}}
+'''Hero Quests''' are [[Quest (XC3)|quests]] in {{XC3}} involving [[Hero]]es. They are similar to [[Blade Quest]]s in {{XC2}}. Completing a Hero Quest unlocks a Hero to be usable in the party, and unlocks their [[Class (XC3)|class]] for [[Ouroboros]].
+
+'''Ascension Quests''' are Hero Quests that, upon completion, will increase the maximum rank for corresponding Hero's class from 10 to 20. Additionally, six Side Story Quests will similarly increase the maximum rank for the base class corresponding to the party member it features. In order to be started, Ascension Quests require at least one party member to be at rank 10 with the hero's class, for the relevant hero to be in the party, and for the hero's questline to be sufficiently progressed.
+
+== List of Hero Quests ==
+=== Hero Quests ===
+{| class="xc1 questlist chronological"
+! Quest Name
+! width="5%" | Hero
+! width="10%" | Rec. Lv
+! Giver
+! Location
+! width="26%" | Rewards
+|-
+| colspan="6" class="event" | Available from the start
+|-
+| [[Champion of the Nopon]] (DLC)
+| [[Ino]]
+| Lv. 19
+| N/A
+| [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]]
+| 1,520 [[Gold|G]]&lt;br /&gt;1,180 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Lapidarist Extraordinaire]] (DLC)
+| [[Masha]]
+| Lv. 43
+| N/A
+| [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]]
+| 3,820 [[Gold|G]]&lt;br /&gt;3,850 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | Chapter 3 Started
+|-
+| [[No Want of Courage]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Helping Out]]''&lt;br /&gt;&amp;nbsp;REQ: ''Colony 4's Problems''
+| [[Ethel]]
+| Lv. 17
+| [[Taion]]
+| [[Eagus Wilderness]]&lt;br /&gt;([[Colony 4 Canteen]])
+| 1,210 [[Gold|G]]&lt;br /&gt;940 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[The Kind Right Hand]]
+| [[Valdi]]
+| Lv. 20
+| [[Valdi]]
+| [[Ribbi Flats]]&lt;br /&gt;([[Precipice of Judgment]])
+| 1,410 [[Gold|G]]&lt;br /&gt;1,160 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | After Departing from Colony 4
+|-
+| [[Where The Heart Is]]&lt;br /&gt;&amp;nbsp;REQ: ''Colony 9 Lately''
+| [[Zeon]]
+| Lv. 22
+| Colony 4 Soldier
+| [[Eagus Wilderness]]&lt;br /&gt;([[Colony 4]])
+| 1,650 [[Gold|G]]&lt;br /&gt;1,440 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[A Nopon's Counsel]]
+| [[Riku &amp; Manana]]
+| Lv. 24
+| [[Riku]] &amp; [[Manana]]
+| [[Urayan Tunnels]]&lt;br /&gt;([[Garf Mine Track]])
+| 1,650 [[Gold|G]]&lt;br /&gt;1,440 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]&lt;br /&gt;[[Ultra Pure Gemstone]]
+|-
+| [[Going Beyond Power]]
+| [[Teach]]
+| Lv. 25
+| [[Kyrie]]
+| [[Alfeto Valley]]&lt;br /&gt;([[Volff Lair (XC3)|Volff Lair]])
+| 1,210 [[Gold|G]]&lt;br /&gt;940 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[A Gray Matter]]&lt;br /&gt;&amp;nbsp;REQ: ''[[The Kind Right Hand]]''
+| [[Gray]]
+| Lv. 26
+| None
+| [[Millick Meadows]]&lt;br /&gt;([[Kamos Guidepost (XC3)|Kamos Guidepost]])
+| 1,210 [[Gold|G]]&lt;br /&gt;940 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]&lt;br /&gt;[[Trigonal Origin Shard]]
+|-
+| [[Her Reasons]]
+| [[Alexandria]]
+| Lv. 40
+| [[Alexandria]]
+| ([[Elaice Highway]])&lt;br /&gt;([[Colony Iota]])
+| 1,520 [[Gold|G]]&lt;br /&gt;1,180 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | Chapter 4 Started
+|-
+| [[Unwavering Resolve]]
+| [[Isurd]]
+| Lv. 27
+| [[Isurd]]
+| [[Great Cotte Falls]]&lt;br /&gt;([[Clearwater Shelf]])
+| 1,940 [[Gold|G]]&lt;br /&gt;1,760 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Natural Selection]]
+| [[Juniper]]
+| Lv. 31
+| N/A
+| [[High Maktha Wildwood]]&lt;br /&gt;([[Vista of Rhonnar]])
+| 2,240 [[Gold|G]]&lt;br /&gt;2,080 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]&lt;br /&gt;[[The Art of Flow]]
+|-
+| [[The Wrath of Ashera]]
+| [[Ashera]]
+| Lv. 36
+| [[Ashera]]
+| [[Syra Hovering Reefs]]&lt;br /&gt;([[First Ixia Bridge]])
+| 2,480 [[Gold|G]]&lt;br /&gt;2,320 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | Chapter 5 started
+|-
+| [[Vandham's Heir]]&lt;br /&gt;&amp;nbsp;REQ: ''Guernica Vandham''
+| [[Monica Vandham|Monica]]
+| Lv. 43
+| City Resident
+| [[City]]&lt;br /&gt;([[Praetorian Hill]])
+| 2,880 [[Gold|G]]&lt;br /&gt;2,840 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | After reaching Erythia Sea
+|-
+| [[Transparent Dreams]]
+| [[Fiona]]
+| Lv. 45
+| [[Fiona]]
+| [[Erythia Sea]]&lt;br /&gt;([[Migrow's Rosary]])
+| 2,020 [[Gold|G]]&lt;br /&gt;3,320 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Doing It My Way]]&lt;br /&gt;&amp;nbsp;REQ: [[Ishan Isle]] visited
+| [[Triton]]
+| Lv. 46
+| [[Triton]]
+| [[Erythia Sea]]&lt;br /&gt;([[Hargan Point]])
+| 3,230 [[Gold|G]]&lt;br /&gt;3,320 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | Chapter 6 started
+|-
+| [[A Twist of Fate]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Side Story: Mio]]''
+| [[Cammuravi]]
+| Lv. 52
+| [[Cammuravi]]
+| [[Captocorn Peak]]&lt;br /&gt;([[Colony Omega]])
+| 3,680 [[Gold|G]]&lt;br /&gt;3,920 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Inhumanity]]&lt;br /&gt;&amp;nbsp;REQ: ''[[The Illusion Returns]]''
+| [[Segiri]]
+| Lv. 56
+| None
+| [[Captocorn Peak]]&lt;br /&gt;([[Nocclia Mire]])
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|}
+
+=== Ascension Quests ===
+{| class="xc1 questlist chronological"
+! Quest Name
+! width="5%" | Hero
+! width="10%" | Rec. Lv
+! Giver
+! Location
+! width="26%" | Rewards
+|-
+| colspan="6" class="event" | Chapter 5 started
+|-
+| [[Side Story: Eunie]]&lt;br /&gt;&amp;nbsp;REQ: ''Fourtune Clovers''&lt;br /&gt;&amp;nbsp;REQ: [[Riku &amp; Manana]] in the party
+| [[Eunie]]
+| Lv. 45
+| [[Bolearis]]
+| [[City]]&lt;br /&gt;([[City Camp]])
+| 3,820 [[Gold|G]]&lt;br /&gt;3,850 [[Experience Points (XC3)|EXP]]&lt;br /&gt;15 [[Skill Points (XC3)|SP]]
+|-
+| [[Reasons to Evolve]]&lt;br /&gt;&amp;nbsp;REQ: ''[[For Colony 9]]''
+| [[Zeon]]
+| Lv. 49
+| [[Kite]]
+| [[Yzana Plains]]&lt;br /&gt;([[Colony 9 (XC3)|Colony 9]])
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | After reaching Erythia Sea
+|-
+| [[I'm a Mechanic]]&lt;br /&gt;&amp;nbsp;REQ: [[Dorrick]] Project Stage 5
+| [[Valdi]]
+| Lv. 42
+| [[Yuzet]]
+| [[Ribbi Flats]]&lt;br /&gt;([[Colony 30]])
+| 5,050 [[Gold|G]]&lt;br /&gt;5,190 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Side Story: Lanz]]&lt;br /&gt;&amp;nbsp;REQ: ''[[The Castle Beckons]]''&lt;br /&gt;&amp;nbsp;REQ: ''Curious About Training''
+| [[Lanz]]
+| Lv. 46
+| Lost Numbers Soldier
+| [[Great Sword's Base]]&lt;br /&gt;([[Fuller Elevator Landing]])
+| 4,040 [[Gold|G]]&lt;br /&gt;4,150 [[Experience Points (XC3)|EXP]]&lt;br /&gt;15 [[Skill Points (XC3)|SP]]
+|-
+| [[The Hope of Noponkind]] (DLC)&lt;br /&gt;&amp;nbsp;REQ: ''[[Going Full HD]]''
+| [[Ino]]
+| Lv. 48
+| [[Sunny]]
+| [[Dannagh Desert (XC3)|Dannagh Desert]]&lt;br /&gt;([[Namba Mound Camp]])
+| 5,050 [[Gold|G]]&lt;br /&gt;5,190 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Payback for Treason]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Lovebirds]]''
+| [[Gray]]
+| Lv. 50
+| [[Rozana]]
+| [[City]]&lt;br /&gt;([[Caelum Residential Quarter]])
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Inescapable Past]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Scant Supplies]]''
+| [[Alexandria]]
+| Lv. 57
+| [[Gambert]]
+| [[Elaice Highway]]&lt;br /&gt;([[Colony Iota]])
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]&lt;br /&gt;15 [[Colony Iota Goods]]
+|-
+| [[My Memories]]&lt;br /&gt;&amp;nbsp;REQ: [[Manana's Battle Soup]] cooked&lt;br /&gt;&amp;nbsp;REQ: ''Manana's Cooking''
+| [[Triton]]
+| Lv. 60
+| [[Triton]]
+| [[Millick Meadows]]&lt;br /&gt;([[Hillside Ferronis Hulk]])
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]&lt;br /&gt;10 [[Miso]]
+|-
+| colspan="6" class="event" | Chapter 6 started
+|-
+| [[Survivors]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Learning from Lambda]]''
+| [[Juniper]]
+| Lv. 48
+| [[U|Consul U]]
+| [[High Maktha Wildwood]]&lt;br /&gt;([[Colony Tau Entrance]])
+| 3,680 [[Gold|G]]&lt;br /&gt;3,920 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Side Story: Mio]]
+| [[Mio]]
+| Lv. 50
+| [[Mio]]
+| [[Captocorn Peak]]
+| 3,680 [[Gold|G]]&lt;br /&gt;3,920 [[Experience Points (XC3)|EXP]]&lt;br /&gt;15 [[Skill Points (XC3)|SP]]&lt;br /&gt;[[Miyabi]] as a [[Hero]]
+|-
+| [[For the Sake of Keepsakes]] (DLC)
+| [[Masha]]
+| Lv. 50
+| [[Masha]]
+| [[City]]&lt;br /&gt;([[City Camp]])
+| 5,000 [[Gold|G]]&lt;br /&gt;5,430 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Culinary Repertoire]]&lt;br /&gt;&amp;nbsp;REQ: [[Acqua Pazza &#224; la City]] ordered
+| [[Riku &amp; Manana]]
+| Lv. 52
+| [[Riku]] and [[Manana]]
+| [[Erythia Sea]]&lt;br /&gt;([[Inlet Camp]])
+| 3,230 [[Gold|G]]&lt;br /&gt;3,320 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Side Story: Taion]]&lt;br /&gt;&amp;nbsp;REQ: ''The Sea''&lt;br /&gt;&amp;nbsp;REQ: [[Riku &amp; Manana]] in the party
+| [[Taion]]
+| Lv. 54
+| [[Isurd]]
+| [[Erythia Sea]]&lt;br /&gt;([[Inlet Camp]])
+| 4,270 [[Gold|G]]&lt;br /&gt;4,450 [[Experience Points (XC3)|EXP]]&lt;br /&gt;15 [[Skill Points (XC3)|SP]]
+|-
+| [[Shadow of Enmity]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Extracurricular Lesson]]''
+| [[Teach]]
+| Lv. 54
+| [[Teach]]
+| [[Melnath's Shoulder (XC3)|Melnath's Shoulder]]&lt;br /&gt;([[Colony Gamma]])
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[A Farewell Reset]]&lt;br /&gt;&amp;nbsp;REQ: ''[[To Face Forward]]''
+| [[Fiona]]
+| Lv. 56
+| [[Fiona]]
+| [[Erythia Sea]]&lt;br /&gt;([[Colony Mu]])
+| 4,720 [[Gold|G]]&lt;br /&gt;5,360 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Effervescent Heart]]&lt;br /&gt;&amp;nbsp;REQ: ''[[New Developments]]''
+| [[Isurd]]
+| Lv. 59
+| [[Isurd]]
+| [[Great Cotte Falls]]&lt;br /&gt;([[Clearwater Shelf]])
+| 3,820 [[Gold|G]]&lt;br /&gt;3,850 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Happiness]]
+| [[Miyabi]]
+| Lv. 64
+| [[Miyabi]]
+| [[City]]&lt;br /&gt;([[Michiba Canteen]])
+| 4,000 [[Gold|G]]&lt;br /&gt;4,340 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | Chapter 7 started
+|-
+| [[Side Story: Sena]]&lt;br /&gt;&amp;nbsp;REQ: [[Ghondor]] in the party&lt;br /&gt;&amp;nbsp;REQ: ''Ghondor's Grumblings''
+| [[Sena]]
+| Lv. 53
+| [[Monica Vandham|Monica]]
+| [[City]]
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;15 [[Skill Points (XC3)|SP]]
+|-
+| [[Promise to the Future]]
+| [[Monica Vandham|Monica]]
+| Lv. 59
+| [[Monica Vandham|Monica]]
+| [[City]]&lt;br /&gt;([[Virid Park]])
+| 4,330 [[Gold|G]]&lt;br /&gt;4,780 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Side Story: Noah]]&lt;br /&gt;&amp;nbsp;REQ: ''[[The Ultimate Vessel]]''
+| [[Noah]]
+| Lv. 60
+| [[Samon]]
+| [[Elaice Highway]]&lt;br /&gt;([[Zain's Talon]])&lt;br /&gt;or&lt;br /&gt;[[Low Maktha Wildwood]]&lt;br /&gt;([[Gingin's Treehouse]])
+| 5,720 [[Gold|G]]&lt;br /&gt;6,400 [[Experience Points (XC3)|EXP]]&lt;br /&gt;15 [[Skill Points (XC3)|SP]]&lt;br /&gt;[[Origin Metal]]
+|-
+| [[Knowing Your Family]]
+| [[Ghondor]]
+| Lv. 61
+| [[Ghondor]]
+| [[Agnus Castle Region]]&lt;br /&gt;([[Ascension Grounds]])
+| 4,720 [[Gold|G]]&lt;br /&gt;5,360 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[A Deep-Seated Scar]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Side Story: Noah]]''&lt;br /&gt;&amp;nbsp;REQ: ''[[Three Ravens at War]]''
+| [[Ashera]]
+| Lv. 63
+| [[Ashera]]
+| [[Rae-Bel Tableland]]&lt;br /&gt;([[Old Kana Battlefield]])
+| 4,600 [[Gold|G]]&lt;br /&gt;4,900 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[Invisible Bond]]&lt;br /&gt;&amp;nbsp;REQ: ''[[Acknowledging Feelings]]''
+| [[Segiri]]
+| Lv. 68
+| [[Segiri]]
+| [[Li Garte Prison Camp]]&lt;br /&gt;([[Central Cell]])
+| 5,900 [[Gold|G]]&lt;br /&gt;6,700 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| colspan="6" class="event" | After completing the main story
+|-
+| [[Grasping My Future]]&lt;br /&gt;&amp;nbsp;REQ: ''Nia's Memories''
+| [[Nia]]
+| Lv. 70
+| [[Nia]]
+| [[Captocorn Peak]]&lt;br /&gt;([[Cloudkeep]])
+| 5,470 [[Gold|G]]&lt;br /&gt;6,560 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|-
+| [[From Atop Her Throne]]&lt;br /&gt;&amp;nbsp;REQ: All [[Colony|Colonies]] liberated
+| [[Melia]]
+| Lv. 80
+| [[Aizel (XC3)|Aizel]]
+| [[Keves Castle]]&lt;br /&gt;([[Throne Room (XC3)|Throne Room]])
+| 8,340 [[Gold|G]]&lt;br /&gt;11,380 [[Experience Points (XC3)|EXP]]&lt;br /&gt;10 [[Skill Points (XC3)|SP]]
+|}
+
+[[Category:XC3 Quests]]
+[[Category:XC3 Hero Quests]]
+[[Category:XC3 Ascension Quests]]</text>
+      <sha1>c1semqdqshy6okxksnm5fmoylcnlkr4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hero Vambraces (XC3)</title>
+    <ns>0</ns>
+    <id>122614</id>
+    <revision>
+      <id>592795</id>
+      <parentid>592536</parentid>
+      <timestamp>2023-05-15T20:16:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592795</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1140" sha1="nj0550lbvu1vhcfw9t5airq06ycbn3t" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Hero Vambraces (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Hero Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Hero Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Hero Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Hero Vambraces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>nj0550lbvu1vhcfw9t5airq06ycbn3t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heroes Frontline</title>
+    <ns>0</ns>
+    <id>124374</id>
+    <revision>
+      <id>576283</id>
+      <parentid>562920</parentid>
+      <timestamp>2023-02-09T13:13:42Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1930" sha1="lpu2aoa3u7h4bzonvl0nzqsc0q3m2rh" xml:space="preserve">{{Infobox quest
+|name          = Heroes Frontline
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Cross weapons with luminaries of battle, which Archsage choose based on three themes. Can friends guess?"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main Story completed
+|difficultyCB3 = 5
+|rewards       = 1400-2000 [[Noponstone]]s (Easy) &lt;br&gt;2800-4000 [[Noponstone]]s (Normal)&lt;br&gt;4200-6000 [[Noponstone]]s (Hard)
+}}
+'''Heroes Frontline''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will reward the player with an [[Accomplished Necklace]].
+
+== Challenge Rules ==
+{| class="xc1"
+|Waves||3
+|-
+|Level Restriction||Lv 99
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="4" | 1 || [[Teach#Challenge Battle Mode|Inscrutable Teach]] || 110
+|-
+| [[Isurd#Challenge Battle|Dawnhero Isurd]] || 110
+|-
+| [[Zeon#Challenge Battle Mode|Dutiful Zeon]] || 110
+|-
+| [[Gray#Challenge Battle Mode|Ashenpelt Gray]] || 110
+|-
+| rowspan="4" | 2 || [[Monica Vandham#Challenge Battle|City's Bulwark Monica]] || 100
+|-
+| [[Ghondor#Challenge Battle Mode|Wrathfist Ghondor]] || 115
+|-
+| [[Segiri#Challenge Battle Mode|No. 7 Segiri]] || 115
+|-
+| [[Valdi#Challenge Battle Mode|Artificer Valdi]] || 115
+|-
+| rowspan="5" | 3 || [[Alexandria#Challenge Battle Mode|Craftmaiden Alexandria]] || 120
+|-
+| [[Juniper#Challenge Battle Mode|Ghostbow Juniper]] || 120
+|-
+| [[Miyabi#Challenge Battle Mode|Glorysong Miyabi]] || 120
+|-
+| [[Fiona#Challenge Battle|Proudbanner Fiona]] || 120
+|-
+| [[Ashera#Challenge Battle Mode|Undying Blade Ashera]] || 120
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>lpu2aoa3u7h4bzonvl0nzqsc0q3m2rh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heroic Gulkin</title>
+    <ns>0</ns>
+    <id>119518</id>
+    <revision>
+      <id>574654</id>
+      <parentid>574386</parentid>
+      <timestamp>2023-01-30T01:37:08Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574654</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1399" sha1="23kipz3vzd21aurljutxjh7tpxgi7zi" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Heroic Gulkin
+|image        = XC3 Heroic Gulkin.png
+|caption      = Heroic Gulkin
+|type         = [[Gulkin]]
+|level        = 76
+|area         = [[Erythia Sea]] ([[Place of Heroes Past]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,243
+|cp           = 421
+|sp           = 5
+|gold         = 3,756
+|hp           = 4,380,600
+|strength     = 3,436
+|healing      = 556
+|dexterity    = 532
+|agility      = 312
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 50%
+|guardrate    = 0%
+}}
+'''Heroic Gulkin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Gulkin]] family, and can be found at level 76 at the [[Place of Heroes Past]] in [[Erythia Sea]], accessible after entering [[Origin]] for the first time. The [[Soulhacker#Enemy Skills|Royal Charisma]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|physdebuff = 75%
+|etherdebuff = 90%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Heroic gulkin location.png
+Heroic gulkin.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>23kipz3vzd21aurljutxjh7tpxgi7zi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hexen</title>
+    <ns>0</ns>
+    <id>123680</id>
+    <revision>
+      <id>597824</id>
+      <parentid>596141</parentid>
+      <timestamp>2023-07-02T16:34:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>597824</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2332" sha1="prje2jthmlxo3yjk9wy2ody34drc1pz" xml:space="preserve">{{Infobox_NPC
+|name        = Hexen
+|image       = Hexen.png
+|personality = 
+|time_active = Anytime
+|gender      = Female
+|race        = [[Keves]]i human
+|age         = 7th Term
+|location    = [[Syra Hovering Reefs]] ([[Colony 11]])
+}}
+'''Hexen''' is a NPC in {{XC3}} who can be found in [[Colony 11]].
+
+== Overview ==
+Hexen is part of Colony 11's supply unit alongside [[Branden]] under [[Easel]]. She displays many psychopathic tendencies, such as insulting and degrading the party without prompt, pathological lying to rope the party into helping with [[Easel]]'s hunt, and openly threatening to kill both [[Easel]] for working her too hard, and [[Melia]] simply to attain power. She was a part of the elite Antares Squad of the [[Keves Castle]] guard in the past, along with [[Zoren]], Branden, and [[Rattlejack]]. During her time in the guard, she was known as Hexen, the Atrocious, due to her torturing her own allies with glee, most notably [[Incorruptible Sitre|Sitre]], resulting in her being discharged and sent to Colony 11.
+
+== Affinity ==
+* [[Easel]]
+* [[Branden]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Hexen
+|image        = 
+|caption      = Hexen
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 66
+|area         = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime    = During ''[[Festival of War]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hexen''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is a [[Keves Forces|Keves Soldier]] who is fought at level 66 in the [[Colony 11, Training Pit]] at [[Syra Hovering Reefs]] during ''[[Festival of War]]''.
+
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Based Hexen.jpg|Hexen threatening Sitre
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>prje2jthmlxo3yjk9wy2ody34drc1pz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Highwind Moramora</title>
+    <ns>0</ns>
+    <id>123012</id>
+    <revision>
+      <id>600370</id>
+      <parentid>572448</parentid>
+      <timestamp>2023-07-21T14:09:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */Moramora</comment>
+      <origin>600370</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="ag5aby8157gk8w3qq8wemy11q0hgxg3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Highwind Moramora
+|image        = XC3 Highwind Moramora.jpg
+|caption      = Highwind Moramora
+|category     = Minor Enemy
+|type         = [[Moramora]]
+|level        = 57
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Highwind Moramoras''' are Minor Enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level 57 at [[Cape Arcaphor]] in the [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Level 56-60 Enemies]]</text>
+      <sha1>ag5aby8157gk8w3qq8wemy11q0hgxg3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hildemarie</title>
+    <ns>0</ns>
+    <id>122346</id>
+    <revision>
+      <id>597739</id>
+      <parentid>596075</parentid>
+      <timestamp>2023-07-02T16:27:33Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1446" sha1="6i1fw8356mec20aw0nszx2d4wjmvp06" xml:space="preserve">{{Infobox_NPC
+|name        = Hildemarie
+|image       = XC3 Hildemarie Icon.png
+|personality = 
+|time_active = Anytime
+|gender      = Female
+|race        = 
+|age         = 2nd Term
+|location    = [[Colony Mu]]
+}}
+'''Hildemarie''' is a NPC in {{XC3}}. Hildemarie is from [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Hildemarie
+|image        = Hildemarie battle.png
+|caption      = Hildemarie
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =
+}} 
+'''Hildemarie''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is an [[Agnus Forces|Agnus Soldier]] who is fought at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>6i1fw8356mec20aw0nszx2d4wjmvp06</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hillside Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>118092</id>
+    <revision>
+      <id>581754</id>
+      <parentid>569103</parentid>
+      <timestamp>2023-04-05T21:38:44Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>581754</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="728" sha1="mfm346gzx3y332fajy4fsy1jz0s7vww" xml:space="preserve">{{spoiler}}
+{{Infobox location
+|name        = Hillside Ferronis Hulk
+|image       = Hillside Ferronis Hulk.jpg
+|caption     = Hillside Ferronis Hulk
+|type        = [[Rest Spot (XC3)|Rest Spot]]
+|located     = [[Millick Meadows]]
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Hillside Ferronis Hulk''' (Japanese: {{lang|ja|&#19992;&#38517;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Ky&#363;ry&#333; no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}, located in [[Millick Meadows]]. This [[Ferronis Hulk]] becomes usable after completing ''[[The Hillside Hulk]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hillside Ferronis Hulk Map.jpg
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:Aetia Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>mfm346gzx3y332fajy4fsy1jz0s7vww</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hit Points (XC3)</title>
+    <ns>0</ns>
+    <id>117085</id>
+    <revision>
+      <id>585426</id>
+      <parentid>570641</parentid>
+      <timestamp>2023-04-25T19:54:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>585426</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2509" sha1="j6ltmpkh94jhqp89ox5wrn8yfn6cmqs" xml:space="preserve">{{for|other uses|Hit Points}}
+{{spoiler}}
+'''Hit Points''', commonly referred to as '''HP''', are a mechanic in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+HP is the measure of how much damage a playable character can take before becoming incapacitated. When a party member is hit by an attack that deals damage or is standing in harmful terrain, they will lose HP. HP can be restored by a [[Healer]], using specific [[Battle Arts (XC3)|Battle Arts]], or by other means.
+
+Unlike previous games in the series, only party members in Healer roles (or anyone wearing the [[Memory Locket (XC3)|Memory Locket]] accessory) can revive other incapacitated party members; the battle is not lost if the leader is incapacitated without any means of revival, since players can assume control of other party members during battle. Battles are only lost and the party respawned at the last [[Landmark]] they visited if the whole party is incapacitated, or if the party leader falls off the map (detailed below).
+
+A party member's HP will instantly hit 0 should they fall off the map. If this happens to characters other than the leader during battle, their incapacitated body will respawn on solid ground, and can be revived as usual. Otherwise, the party will respawn at the previous Landmark.
+
+[[Ouroboros]] forms do not have a conventional HP stat, but taking damage instead fills up their [[Heat Gauge]]. If a pair of characters falls off the map while in an Ouroboros form, they will immediately reach Overheated status and both characters will be incapacitated as above.
+
+The [[Class (XC3)|class system]] used in this game has a major effect on a character's HP, with characters classed into [[Defender (XC3)|Defender]] roles having substantially more HP than characters in [[Attacker]] or Healer roles; it is possible for characters to exceed 9999 HP, unlike previous games. Even so, there is a minor variation between characters' base HP values which classes modify. [[Eunie]] has the least base HP, followed by [[Taion]], [[Mio]], [[Noah]], [[Sena]], and finally [[Lanz]] has the highest base HP.
+
+== Dying ==
+In {{XC3|-}}, a red exclamation mark appear above team members' head whose HP are very low. This indicates that they are close to death and they need to be quickly healed.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1550376471310454785&lt;/ref&gt;
+{{clr}}
+
+== References ==
+&lt;references/&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Battle Flow]]
+[[Category:XC3 Stats]]
+[[Category:XC3 Status]]
+[[Category:XC3FR Battle Flow]]</text>
+      <sha1>j6ltmpkh94jhqp89ox5wrn8yfn6cmqs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hitter Bunnit</title>
+    <ns>0</ns>
+    <id>121041</id>
+    <revision>
+      <id>559707</id>
+      <parentid>545343</parentid>
+      <timestamp>2022-09-30T10:49:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="794" sha1="qfixeolhkmvjx6n41scpo0nrgjri58w" xml:space="preserve">{{Infobox Enemy
+|name         = Hitter Bunnit
+|image        = 
+|caption      = Hitter Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Hitter Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Captocorn Peak]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>qfixeolhkmvjx6n41scpo0nrgjri58w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hoope</title>
+    <ns>0</ns>
+    <id>123842</id>
+    <revision>
+      <id>597825</id>
+      <parentid>596142</parentid>
+      <timestamp>2023-07-02T16:34:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2339" sha1="7pp5f0iz9rxeojvm00zyckbwutxwi7g" xml:space="preserve">{{Infobox_NPC
+|name        = Hoope
+|image       = XC3 Hoope Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Keves]]i human
+|age         = 3rd Term
+|location    = [[Eagus Wilderness]] ([[Colony 4]])
+}}
+'''Hoope''' is a NPC in {{XC3}}.
+
+== Overview ==
+Hoope can be found in [[Colony 4]] after completing ''[[Side Story: Lanz]]'', but later moves to [[Colony 9 (XC3)|Colony 9]]
+{{clr}}
+
+== Story ==
+Hoope, alongside [[Layla]] and [[Kite]], were a part of [[Garvel]]'s squad at [[Colony 14]]. They fought in a mock battle against [[Noah]], [[Lanz]], [[Eunie]], and [[Joran]], which they won and were awarded medals of honor. He went to [[Colony 8]] alongside Garvel and Layla, but they were all killed by [[Consul]] [[H]], and the Colony was destroyed.
+
+They were reborn under H's orders during ''[[Side Story: Lanz]]'', and fight the party again. After being defeated, they move to Colony 4, but later move to Colony 9.
+{{clr}}
+
+== Battle==
+{{Infobox XC3 Enemy
+|name         = Hoope
+|image        = Team Garvel.png
+|caption      = Hoope (left)
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 47
+|area         = [[Great Sword's Base]] ([[Cradle Convoy Shelter]])
+|spawntime    = During ''[[Side Story: Lanz]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Hoope''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is a [[Keves Forces|Keves Soldier]] and is fought at level 47 at the [[Cradle Convoy Shelter]] at the [[Great Sword's Base]] during ''[[Side Story: Lanz]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:Fornis Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>7pp5f0iz9rxeojvm00zyckbwutxwi7g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hornbow Dante</title>
+    <ns>0</ns>
+    <id>119458</id>
+    <revision>
+      <id>583217</id>
+      <parentid>574387</parentid>
+      <timestamp>2023-04-16T17:26:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1397" sha1="kt42pm7ev95o0d68p24ej15sqal99ii" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Hornbow Dante
+|image        = XC3 Hornbow Dante.png
+|caption      = Hornbow Dante
+|type         = [[Balgas]]
+|level        = 55
+|area         = [[Syra Hovering Reefs]] ([[Ekdaso Verge]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,241
+|cp           = 520
+|sp           = 5
+|gold         = 1,032
+|hp           = 2,136,900
+|strength     = 940
+|healing      = 319
+|dexterity    = 162
+|agility      = 96
+|physdef      = 15%
+|ethdef       = -15%
+|critrate     = 23%
+|guardrate-front = 30%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Hornbow Dante''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Balgas]] family, and can be found at level 55 near [[Ekdaso Verge]] on the [[Syra Hovering Reefs]]. The [[Soulhacker#Enemy Skills|Dual-Horn Pressure]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|physdebuff = 50%
+|etherdebuff = 80%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hornbow dante location.png
+Hornbow dante.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Balgas]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kt42pm7ev95o0d68p24ej15sqal99ii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Horrish</title>
+    <ns>0</ns>
+    <id>120499</id>
+    <revision>
+      <id>602016</id>
+      <parentid>600751</parentid>
+      <timestamp>2023-07-22T12:23:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Unique Monster */</comment>
+      <origin>602016</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="427" sha1="tbtltri1iofth34jqb3dvsuwwwxzmow" xml:space="preserve">{{Spoiler}}
+[[File:XC3 Reaping Anteel.png|thumb|Reaping Anteel]]
+'''Horrishes''' are a family of enemies in {{XC3}}. They appear exclusively in [[Origin]].
+{{clr}}
+
+== Normal Minor Enemies ==
+* [[Ioin Horrish]]
+* [[Kurono Horrish]]
+
+== Unique Monster ==
+* [[Reaping Anteel]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Horrishes]]
+[[Category:XC3 Machines]]
+[[Category:Horrishes]]
+[[Category:Species by Type]]</text>
+      <sha1>tbtltri1iofth34jqb3dvsuwwwxzmow</sha1>
+    </revision>
+  </page>
+  </mediawiki>

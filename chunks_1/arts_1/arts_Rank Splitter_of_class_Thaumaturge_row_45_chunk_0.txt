@@ -1,0 +1,6 @@
+Art Name: Rank Splitter
+
+Class: Thaumaturge
+
+Effect: AOE heal on hit
+

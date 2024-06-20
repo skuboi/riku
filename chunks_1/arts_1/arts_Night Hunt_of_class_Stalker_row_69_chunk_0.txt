@@ -1,0 +1,6 @@
+Art Name: Night Hunt
+
+Class: Stalker
+
+Effect: Slower aggro/Back atk+
+

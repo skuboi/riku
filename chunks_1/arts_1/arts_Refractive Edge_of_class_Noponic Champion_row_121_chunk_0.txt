@@ -1,0 +1,6 @@
+Art Name: Refractive Edge
+
+Class: Noponic Champion
+
+Effect: Evade / High aggro
+

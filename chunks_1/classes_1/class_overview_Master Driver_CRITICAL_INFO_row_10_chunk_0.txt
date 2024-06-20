@@ -1,0 +1,17 @@
+Parent Category: Class (Weapon)
+
+Title: Master Driver
+
+Overview:  
+Master Driver is [[Rex]]'s class, based on his status as the [[Driver|Master Driver]] in {{XC2}}. As a Master Driver, Rex wields the [[Aegis|Firelight Swords]], two swords that are almost identical to [[Pyra]] and [[Mythra]]'s Aegis Swords, but with the Aegis [[Core Crystal]] absent from the swords. He can also combine the two swords into a third sword that closely resembles [[Pneuma]]'s Aegis Sword with the additional blades of energy that appear when charged with energy from [[Siren]]. Rex's [[Battle Arts (XC3)|arts]] in battle primarily consist of his Aegis Sword [[Battle Arts (XC2)|Driver Arts]] from {{XC2|-}}, along with two additional arts that each resemble arts used by [[Zeke]] and [[Mòrag]]. His Talent Art is [[Infinity Blade (XC2)|Infinity Blade]], the attack he and Pneuma used to defeat [[Malos]].
+
+The class focuses primarily on potent area of effect attacks that are especially effective at scoring critical hits.
+
+After completing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]'', Rex can use the class in the main game as a [[Hero]], but the class cannot be used by anyone else. The class functions the same, but doesn't have [[Sword Bash]] as an art.
+
+Arts: {'Infinity Blade': 'AOE/Pierce/Unblockable * Anchor Shot, Front Topple |Topple * Double Spinning Edge, Gain charge on crit. * Dual Blast, AOE/Side Launch |Launch * Cross Blaze, Crit.+ during enemy Art * Rolling Smash (XC2)|Rolling Smash, AOE * Sword Bash, Resistance Down'}
+
+Class Skills: {'Raging Flame': 'Boosts damage dealt by 4-8% when landing a critical hit (up to a maximum of 150%).', 'Lightspeed Blade': 'On critical, ignore enemy defense. Also increases critical hit damage bonus by 30-50 percentage points.', 'Heroic Spirit': 'If an ally is down/has low HP, deal 50-150% more damage and take 20-30% less damage.', 'Flash and Flame': 'Increases Critical Rate by 10-20 percentage points and critical hit damage by 30-50 percentage points. {{clr}}'}
+
+Hero Exclusive Arts: nan
+

@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Machine Assassin
+
+Overview:  
+Machine Assassin is the class of [[Segiri]]. Machine Assassins use [[Blade (XC3)|Blades]] known as Doom Axes. It specializes in inflicting many debuffs to weaken the enemy, before going in for the kill.
+
+It can be unlocked by completing the [[Hero Quest]] ''[[Inhumanity]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 by completing the Ascension Quest ''[[Invisible Bond]]''.
+
+Arts: {'Viral Vector': 'AOE/2 random debuffs * Tyrant Cross, 1 random debuff (Rank 1 Master Art) * Fatal Bite, Side attack ↑ (Rank 10 Master Art) * Terror Onslaught, Back resistance down * Havoc Slayer, AOE / Spread debuffs * Mega Crescent, Extend debuff time'}
+
+Class Skills: {'Cursed Edge': 'Boosts damage dealt by 50-70% when attacking a debuffed enemy. (Rank 5 Master Skill)', 'Chaos Chain': 'Debuffing an enemy boosts damage dealt by 20-30% (up to a maximum of 150%).', 'Anti-Erosion System': 'Grants 30-50% resistance to all debuffs. (Rank 15 Master Skill)', 'Phantom Strike': 'Adds 60-100% chance for attack to be unblockable.'}
+
+Hero Exclusive Arts: {'Fury Reaper': 'AOE / Spread debuffs', 'Seventh Edge': 'Back resistance down', 'Hundred Shells': 'Extend debuff time'}
+

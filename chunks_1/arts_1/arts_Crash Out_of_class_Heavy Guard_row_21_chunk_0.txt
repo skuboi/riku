@@ -1,0 +1,6 @@
+Art Name: Crash Out
+
+Class: Heavy Guard
+
+Effect: AOE / High Aggro
+

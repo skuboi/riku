@@ -1,0 +1,6 @@
+Art Name: Cross Ray
+
+Class: A
+
+Effect: Area heal on hit
+

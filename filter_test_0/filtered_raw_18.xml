@@ -1,0 +1,1468 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Defense Up</title>
+    <ns>0</ns>
+    <id>125807</id>
+    <revision>
+      <id>587579</id>
+      <parentid>587120</parentid>
+      <timestamp>2023-05-02T12:29:11Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587579</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="992" sha1="d6vl833b2n0jk7cizr5b1ldqx87uk3l" xml:space="preserve">{{Infobox XC3 Status
+| title = Defense Up
+| caption = Reduces damage taken.
+| image = XC3 Defense Up.png
+| type = Buff
+| base-duration = 20.0s
+| max-duration = 40.0s
+| rng-applicable = Yes
+| effect-title-1 = Base Damage Reduction
+| effect-value-1 = 15%
+}}
+'''Defense Up''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It reduces damage taken by the affected character when hit by enemy attacks.
+
+The effect stacks additively with all damage reduction effects, whether granted by Arts, Accessories or Skills. Characters will always take at least 1 damage from any enemy attack that lands (barring further effects such as [[Invincible (XC3)|Invincible]]), even with 100% (or more) damage reduction.
+
+==Distribution==
+===Arts===
+*[[Butterfly Dust]] ([[Soulhacker]]; requires Soul Hacking [[Perturbed Bilkin]])
+*[[Advanced Cooldown]] ([[War Medic]]; field effect)
+*[[Hyper Reload]] ([[Valdi]]; field effect)
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>d6vl833b2n0jk7cizr5b1ldqx87uk3l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Defiled Ishtar</title>
+    <ns>0</ns>
+    <id>119509</id>
+    <revision>
+      <id>574291</id>
+      <parentid>574289</parentid>
+      <timestamp>2023-01-27T09:50:31Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>forgot rewards</comment>
+      <origin>574291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1356" sha1="5e3ctae5pmzzl1sqjief5vhteut5pnd" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Defiled Ishtar
+|image        =XC3 Defiled Ishtar.png 
+|caption      = Defiled Ishtar
+|type         = [[Myoot]]
+|level        = 65
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 3|Ferronis Arsenal #3]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 2,220
+|cp           = 361
+|sp           = 5
+|gold         = 1,280
+|hp           = 2,025,000
+|strength     = 1,817
+|healing      = 798
+|dexterity    = 244
+|agility      = 296
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Defiled Ishtar''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Myoot]] family, and can be found at level 65 in [[Ferronis Arsenal 3|Ferronis Arsenal #3]] in the [[Origin Interior]]. The [[Vampire Bat]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = 50%
+|etherdebuff = 80%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Defiled ishtar location.png
+Defiled ishtar.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Myoots]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5e3ctae5pmzzl1sqjief5vhteut5pnd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Deflector Form</title>
+    <ns>0</ns>
+    <id>117811</id>
+    <revision>
+      <id>591881</id>
+      <parentid>580997</parentid>
+      <timestamp>2023-05-14T14:35:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="580" sha1="8jh3ddyt0ua1ywujfxxc8948pm0w7q2" xml:space="preserve">{{Infobox battle art
+|name        = Deflector Form
+|image       = Strm_order_thumb023_0.png
+|who         = [[Zeon]]
+|class       = 
+|attribute   = ?
+|target      = 
+|distance    = 
+|numhits     = ?
+|power       = ? &#8211; ?
+|aggro       = 
+|knockback   = 
+|effect      = Increases [[Defender (XC3)|Defender]] aggro by 35% and grants Armor Veil to allies.
+|duration    = 
+|recharge    = 
+}}
+'''Deflector Form''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Zeon]]'s Chain art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>8jh3ddyt0ua1ywujfxxc8948pm0w7q2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Deinos Rhinon</title>
+    <ns>0</ns>
+    <id>117506</id>
+    <revision>
+      <id>595978</id>
+      <parentid>583219</parentid>
+      <timestamp>2023-06-16T18:51:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595978</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1017" sha1="pwj4okstnnvnlqsp9gyii3hcl39nugg" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Deinos Rhinon
+|image        = XC3 Deinos Rhinon.jpg
+|caption      = Deinos Rhinon
+|category     = Normal Enemy
+|type         = [[Rhinon]]
+|level        = 43
+|area         = [[Elaice Highway]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Deinos Rhinons''' are normal enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Rhinon]] family, and can be found at level 43 on [[Elaice Highway]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Rhinons]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Rhinons]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>pwj4okstnnvnlqsp9gyii3hcl39nugg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Delayed Healing</title>
+    <ns>0</ns>
+    <id>125803</id>
+    <revision>
+      <id>579432</id>
+      <timestamp>2023-03-17T15:50:21Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Status | title = Delayed Healing | caption = Heals HP when below set value. | image = XC3 Delayed Healing.png | type = Buff | base-duration = 20.0s | max-duration = 40.0s | rng-applicable = Yes | effect-title-1 = Base Healing Threshold | effect-value-1 = 30% of character's max HP | effect-title-2 = Base Healing Amount | effect-value-2 = 15% of character's max HP }} '''Delayed Healing''' is a [[Status Effect]] in {{XC3}}. It heals the affected character once..."</comment>
+      <origin>579432</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1134" sha1="6l6ntwz3z4p70j2viaro8a5j9v6gnhv" xml:space="preserve">{{Infobox XC3 Status
+| title = Delayed Healing
+| caption = Heals HP when below set value.
+| image = XC3 Delayed Healing.png
+| type = Buff
+| base-duration = 20.0s
+| max-duration = 40.0s
+| rng-applicable = Yes
+| effect-title-1 = Base Healing Threshold
+| effect-value-1 = 30% of character's max HP
+| effect-title-2 = Base Healing Amount
+| effect-value-2 = 15% of character's max HP
+}}
+'''Delayed Healing''' is a [[Status Effect]] in {{XC3}}. It heals the affected character once they fall below a certain HP threshold, after which the buff is removed.
+
+==Notes==
+*If the character is incapacitated by a hit while above the HP threshold, Delayed Healing will not take effect.
+*If the character is given the buff while below the HP threshold, Delayed Healing will not take effect until the character is damaged.
+*The HP threshold for triggering the heal is increased if the buff power is increased, alongside the amount of HP healed from the effect. For example, with a maximum-level [[Swelling Blessing]] [[Gem]], the HP threshold is increased to 45%.
+
+==Distribution==
+===Arts===
+*[[Vital Bullet]] ([[War Medic]])
+[[Category:XC3 Status]]</text>
+      <sha1>6l6ntwz3z4p70j2viaro8a5j9v6gnhv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Delicious Serprond</title>
+    <ns>0</ns>
+    <id>121871</id>
+    <revision>
+      <id>579875</id>
+      <parentid>559621</parentid>
+      <timestamp>2023-03-21T15:53:01Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Level, location, and infobox switch</comment>
+      <origin>579875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1061" sha1="1icjfyci79mhs9gxfchab55wqk3gfxm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Delicious Serprond
+|image        = 
+|caption      = Delicious Serprond
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Serprond]]
+|level        = 46
+|area         = [[Erythia Sea]]
+|spawntime    = During ''[[Unease]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Delicious Serprond''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. It is a member of the [[Serprond]] family, and can be found at level 46 near the [[Colony Mu Hidden Coast]] in [[Erythia Sea]] during ''[[Unease]]''. It drops the [[Rich Serprond Collar-Cut]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Serpronds]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1icjfyci79mhs9gxfchab55wqk3gfxm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Delit Gyaark</title>
+    <ns>0</ns>
+    <id>121872</id>
+    <revision>
+      <id>581297</id>
+      <parentid>559622</parentid>
+      <timestamp>2023-04-03T12:32:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="964" sha1="03eax9t2qyp370nm5rhvkxj287lf9ls" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Delit Gyaark
+|image        = 
+|caption      = Delit Gyaark
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Gyaark]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = During ''[[Doing It My Way]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Delit Gyaarks''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Gyaark]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]] during ''[[Doing It My Way]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gyaarks]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>03eax9t2qyp370nm5rhvkxj287lf9ls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Deliverance Hew</title>
+    <ns>0</ns>
+    <id>127591</id>
+    <revision>
+      <id>591882</id>
+      <parentid>591059</parentid>
+      <timestamp>2023-05-14T14:35:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591882</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="872" sha1="t9bv3q1b07gbmttiprxjnnqoe754e8z" xml:space="preserve">{{Infobox battle art
+|name        = Deliverance Hew
+|image       = Deliverance Hew.png
+|who         = [[Rex]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = &lt;abbr title="Default completion bonus; can be changed using accessories"&gt;Reduces enemy physical defense by 45 percentage points during Chain Attack.&lt;/abbr&gt; &lt;small&gt;(''FR'')&lt;/small&gt;&lt;br&gt;Reduces enemy physical defense by 45-75 percentage points during Chain Attack. &lt;small&gt;(''XC3'')&lt;/small&gt;
+|duration    = 
+|recharge    = 
+}}
+'''Deliverance Hew''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3FR|sublink}} and {{XC3}}. It is [[Rex]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{fr stub}}
+{{xc3 stub}}
+
+[[Category:XC3FR Chain Arts]]
+[[Category:XC3 Chain Arts]]
+[[Category:XC3FR Rex's Arts]]</text>
+      <sha1>t9bv3q1b07gbmttiprxjnnqoe754e8z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Demnd Anlood</title>
+    <ns>0</ns>
+    <id>123191</id>
+    <revision>
+      <id>595979</id>
+      <parentid>559623</parentid>
+      <timestamp>2023-06-16T18:51:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595979</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="n0zyif9gtco9xw0wv7uijxevhf6rtlx" xml:space="preserve">{{Infobox Enemy
+|name         = Demnd Anlood
+|image        = 
+|caption      = Demnd Anlood
+|category     = Minor Enemy
+|type         = [[Anlood]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Demnd Anloods''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Anlood]] family, and can be found at level ? in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Anloods]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>n0zyif9gtco9xw0wv7uijxevhf6rtlx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Demon Punisher</title>
+    <ns>0</ns>
+    <id>118516</id>
+    <revision>
+      <id>597689</id>
+      <parentid>591883</parentid>
+      <timestamp>2023-07-01T22:12:54Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>597689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="528" sha1="46rcs6lm2f7jswgzrv9oct8hwup82tg" xml:space="preserve">{{Infobox battle art
+|name        = Demon Punisher
+|image       = Lanz Ouroboros Chain Art Icon.png
+|who         = [[Lanz]] ([[Ouroboros]])
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Greatly increases damage ratio and reduces Attacker and Healer aggro.
+|duration    = 
+}}
+'''Demon Punisher''' is [[Lanz]]'s [[Ouroboros]] [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Ouroboros Arts]]
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>46rcs6lm2f7jswgzrv9oct8hwup82tg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Demonfang Necklace</title>
+    <ns>0</ns>
+    <id>125652</id>
+    <revision>
+      <id>577150</id>
+      <parentid>577149</parentid>
+      <timestamp>2023-02-16T14:43:01Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>577150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="jv1q2ssw20jk10qlytmewsu0qk75dyr" xml:space="preserve">{{Infobox item
+|name      = Demonfang Necklace
+|image     = 
+|caption   = Boosts damage dealt when attacking enemies targeting you by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Demonfang Necklaces''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>jv1q2ssw20jk10qlytmewsu0qk75dyr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Demonic Krenolur</title>
+    <ns>0</ns>
+    <id>117392</id>
+    <revision>
+      <id>583286</id>
+      <parentid>574290</parentid>
+      <timestamp>2023-04-17T15:23:20Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1367" sha1="rviwsv9e4tfbaymc25mm286md80o9dy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Demonic Krenolur
+|image        = XC3 Demonic Krenolur.jpeg
+|caption      = Demonic Krenolur
+|category     = Unique Monster
+|type         = [[Plambus]]
+|level        = 75
+|area         = [[Erythia Sea]] ([[Daedal Isle]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 3,313
+|cp           = 445
+|sp           = 5
+|gold         = 1,537
+|hp           = 4,258,800
+|strength     = 1,419
+|healing      = 671
+|dexterity    = 362
+|agility      = 344
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 18%
+|guardrate-front   = 5%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Demonic Krenolur''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Plambus]] family and can be found at level 75 on [[Daedal Isle]] in [[Erythia Sea]]. The [[Hydra Gas]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|physdebuff = 50%
+|etherdebuff = 90%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Demonic krenolur location.png
+Demonic krenolur.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Plambuses]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rviwsv9e4tfbaymc25mm286md80o9dy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Depriti Pippito</title>
+    <ns>0</ns>
+    <id>123991</id>
+    <revision>
+      <id>581298</id>
+      <parentid>576797</parentid>
+      <timestamp>2023-04-03T12:32:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581298</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1016" sha1="mbgtrcfuy4u9q46ptd5itm5covni5xs" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Depriti Pippito
+|image        = 
+|caption      = Depriti Pippito
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Pippito]]
+|level        = 58
+|area         = [[Erythia Sea]] ([[Predator's Paw]])
+|spawntime    = During ''[[Unspeakable Being]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Depriti Pippito''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Pippito]] family, and is fought at level 58 at [[Predator's Paw]] in [[Erythia Sea]] during ''[[Unspeakable Being]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mbgtrcfuy4u9q46ptd5itm5covni5xs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Desert Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>119117</id>
+    <revision>
+      <id>582065</id>
+      <parentid>569104</parentid>
+      <timestamp>2023-04-07T23:03:41Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>582065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="704" sha1="juerhu71xz2d72qhjspxrpb62bdftph" xml:space="preserve">{{Infobox location
+|name        = Desert Ferronis Hulk
+|image       = Desert Ferronis Hulk.jpg
+|caption     = Desert Ferronis Hulk
+|type        = [[Rest Spot (XC3)|Rest Spot]]
+|located     = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Desert Ferronis Hulk''' (Japanese: {{lang|ja|&#30722;&#28448;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Sabaku no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}. It is located in [[Dannagh Desert (XC3)|Dannagh Desert]] of the [[Fornis Region]]. This [[Ferronis Hulk]] is rebooted by completing ''[[The Desert Hulk]]''. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>juerhu71xz2d72qhjspxrpb62bdftph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Desert Krabble (XC3)</title>
+    <ns>0</ns>
+    <id>122986</id>
+    <revision>
+      <id>559624</id>
+      <parentid>557894</parentid>
+      <timestamp>2022-09-30T10:45:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559624</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="849" sha1="ha1wb3qssjfzdjea1qel0iye0p20vxo" xml:space="preserve">{{for|the enemy in {{XC|-}}|Desert Krabble (XC1)}}
+{{Infobox Enemy
+|name         = Desert Krabble
+|image        = 
+|caption      = Desert Krabble
+|category     = Minor Enemy
+|type         = [[Krabble]]
+|level        = ?
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Desert Krabbles''' are Minor Enemies in {{XC3}}. They are members of the [[Krabble]] family, and can be found at level ? at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Krabbles]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ha1wb3qssjfzdjea1qel0iye0p20vxo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Desert Pagul</title>
+    <ns>0</ns>
+    <id>123210</id>
+    <revision>
+      <id>584182</id>
+      <parentid>559625</parentid>
+      <timestamp>2023-04-20T15:06:00Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>image and levels</comment>
+      <origin>584182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="739" sha1="luwr5cfcf5qbh86z6lx59fkk854lavy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Desert Pagul
+|image        = Desert Pagul.jpg
+|caption      = Desert Pagul
+|category     = Minor Enemy
+|type         = [[Pagul]]
+|level        = 44-45
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Desert Paguls''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Pagul]] family, and can be found at level 44-45 in [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Paguls]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>luwr5cfcf5qbh86z6lx59fkk854lavy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Desired Oruria</title>
+    <ns>0</ns>
+    <id>119515</id>
+    <revision>
+      <id>574293</id>
+      <parentid>565815</parentid>
+      <timestamp>2023-01-27T09:55:06Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1333" sha1="h5hq71npxnlym1mfraw8gk8hpyhmfi8" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Desired Oruria
+|image        =XC3 Desired Oruria.png 
+|caption      = Desired Oruria
+|type         = [[Vokooku]]
+|level        = 86
+|area         = [[Origin Interior]] ([[Hangar, Lower: Main Gate]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 5,614
+|cp           = 625
+|sp           = 5
+|gold         = 2,944
+|hp           = 6,103,200
+|strength     = 2,310
+|healing      = 594
+|dexterity    = 390
+|agility      = 344
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Desired Oruria''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Vokooku]] family, and can be found at level 86 at the [[Hangar, Lower: Main Gate]] in the [[Origin Interior]]. The Wild Tendencies [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 85%
+|physdebuff = 50%
+|etherdebuff = Immune
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Desired oruria location.png
+Desired oruria.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Vokookus]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h5hq71npxnlym1mfraw8gk8hpyhmfi8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Detector Headgear</title>
+    <ns>0</ns>
+    <id>118937</id>
+    <revision>
+      <id>592751</id>
+      <parentid>592275</parentid>
+      <timestamp>2023-05-15T20:13:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592751</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1037" sha1="gvilww4uh08srbg4tbw8nu9279plp4b" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Detector Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 10 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Detector Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 11 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Detector Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 12 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Detector Headgears''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>gvilww4uh08srbg4tbw8nu9279plp4b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Determined Vatslav</title>
+    <ns>0</ns>
+    <id>119455</id>
+    <revision>
+      <id>574746</id>
+      <parentid>574648</parentid>
+      <timestamp>2023-01-30T13:05:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1432" sha1="7153qyubtnz45qslhn7dthzcut0y362" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Determined Vatslav
+|image        = XC3 Black Triad.png
+|caption      = Determined Vatslav (left)
+|type         = [[Levnis]]
+|level        = 43
+|area         = [[Keves Castle]] ([[Troop Reserve Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 831
+|cp           = 327
+|sp           = 5
+|gold         = 976
+|hp           = 391,500
+|strength     = 539
+|healing      = 363
+|dexterity    = 132
+|agility      = 149
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 23%
+|guardrate    = 5%
+}}
+'''Determined Vatslav''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 43 in the [[Troop Reserve Section]] on the 3rd Floor of [[Keves Castle]]. It forms the "The Black Triad" with [[Thunderclap Dalton]] and [[Turbulent Martinez]]. The Supercharged [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|physdebuff = 50%
+|etherdebuff = 40%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+The black triad location.png
+The black triad vatslav.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7153qyubtnz45qslhn7dthzcut0y362</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Detox Brog (XC3)</title>
+    <ns>0</ns>
+    <id>121883</id>
+    <revision>
+      <id>584713</id>
+      <parentid>559626</parentid>
+      <timestamp>2023-04-22T17:42:39Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>location and level</comment>
+      <origin>584713</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="881" sha1="5pc12sutq4uv0z7ue9lixodaybsv3jn" xml:space="preserve">{{for|the enemy in {{XC|-}}|Detox Brog (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Detox Brog
+|image        = 
+|caption      = Detox Brog
+|category     = Minor Enemy
+|type         = [[Brog]]
+|level        = 47-49
+|area         = [[Agnus Castle Barbican]] ([[Sea-Gnawed Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Detox Brogs''' are Minor Enemies in {{XC3}}. They are members of the [[Brog]] family, and can be found at level 47-49 in the [[Sea-Gnawed Cave]] at the [[Agnus Castle Barbican]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5pc12sutq4uv0z7ue9lixodaybsv3jn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Detox Rhana</title>
+    <ns>0</ns>
+    <id>121815</id>
+    <revision>
+      <id>600324</id>
+      <parentid>584712</parentid>
+      <timestamp>2023-07-21T12:41:08Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>Rhana</comment>
+      <origin>600324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="769" sha1="rqa3w1zxrd88vw72eyn6mutrmiz6tov" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Detox Rhana
+|image        = Detox Rhana.jpg
+|caption      = Detox Rhana
+|category     = Minor Enemy
+|type         = [[Rhana]]
+|level        = 58-59
+|area         = [[Erythia Sea]] ([[Cape Arcaphor]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Detox Rhanas''' are Minor Enemies in {{XC3}}. They are members of the [[Rhana]] family, and can be found at level 58-59 at [[Cape Arcaphor]] in [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Rhanas]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rqa3w1zxrd88vw72eyn6mutrmiz6tov</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Devilflyer Moramora</title>
+    <ns>0</ns>
+    <id>121816</id>
+    <revision>
+      <id>600365</id>
+      <parentid>576621</parentid>
+      <timestamp>2023-07-21T14:08:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */Moramora</comment>
+      <origin>600365</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="794" sha1="jnz74h26mlkwewjjkjitl6sckrovp2r" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Devilflyer Moramora
+|image        = XC3 Devilflyer Moramora.png
+|caption      = Devilflyer Moramora
+|category     = Minor Enemy
+|type         = [[Moramora]]
+|level        = 62
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Devilflyer Moramoras''' are Minor Enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level 62 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>jnz74h26mlkwewjjkjitl6sckrovp2r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Devotional Necklace</title>
+    <ns>0</ns>
+    <id>118938</id>
+    <revision>
+      <id>592752</id>
+      <parentid>592433</parentid>
+      <timestamp>2023-05-15T20:13:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1091" sha1="kdcx6ihi6xtf6enpn4eqqkzs706olbm" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Devotional Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Recovers 90% of recharge for own Arts upon reviving an ally.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Devotional Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Recovers 95% of recharge for own Arts upon reviving an ally.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Devotional Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Recovers 100% of recharge for own Arts upon reviving an ally.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Devotional Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>kdcx6ihi6xtf6enpn4eqqkzs706olbm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Diabolical Rindolph</title>
+    <ns>0</ns>
+    <id>118677</id>
+    <revision>
+      <id>600366</id>
+      <parentid>583287</parentid>
+      <timestamp>2023-07-21T14:08:35Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>Moramora</comment>
+      <origin>600366</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1423" sha1="mfskwmi5l0r7x27l35kl1pe33nydm1d" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Diabolical Rindolph
+|image        = XC3 Diabolical Rindolph.png
+|caption      = Diabolical Rindolph
+|type         = [[Moramora]]
+|level        = 49
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 7 (XC3)|Hovering Reef 7]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Flying
+|detection    = 
+|exp          = 1,759
+|cp           = 478
+|sp           = 5
+|gold         = 1,436
+|hp           = 1,359,450
+|strength     = 722
+|healing      = 349
+|dexterity    = 210
+|agility      = 193
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Diabolical Rindolph''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Moramora]] family, and can be found at level 49 on [[Hovering Reef 7 (XC3)|Hovering Reef 7]] in [[Syra Hovering Reefs]]. The [[Spinning Bolt]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 35%
+|physdebuff = 50%
+|etherdebuff = 80%
+|knockback = 100%
+|blowdown = 100%}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Diabolical rindolph location.png
+Diabolical rindolph.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mfskwmi5l0r7x27l35kl1pe33nydm1d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Diamond (XC3)</title>
+    <ns>0</ns>
+    <id>122608</id>
+    <revision>
+      <id>592753</id>
+      <parentid>592547</parentid>
+      <timestamp>2023-05-15T20:13:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592753</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1088" sha1="7bgwoujmvskvv0cdkz2kfg2h1ab8l8k" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Diamond (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Diamond
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 20% for every enemy in battle (max. 200%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Diamond
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 21% for every enemy in battle (max. 200%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Diamond
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 22% for every enemy in battle (max. 200%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Diamonds''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>7bgwoujmvskvv0cdkz2kfg2h1ab8l8k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Diggel Grebel (XC3)</title>
+    <ns>0</ns>
+    <id>121068</id>
+    <revision>
+      <id>599654</id>
+      <parentid>584321</parentid>
+      <timestamp>2023-07-14T12:08:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>599654</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2864" sha1="epodhi9v5q2vnwxy8cjvcl777pkm1kc" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Diggel Grebel (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Diggel Grebel
+|image        = 
+|caption      = Diggel Grebel
+|category     = Normal Enemy
+|type         = [[Grebel]]
+|level        = 21-22
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Diggel Grebels''' are Normal Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level 21-22 in the [[Dannagh Desert (XC3)|Dannagh Desert]] in the [[Fornis Region]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Diggel Grebel
+|image        = 
+|caption      = Diggel Grebel
+|type         = [[Grebel]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 55
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 60,336
+|strength     = 295
+|healing      = 386
+|dexterity    = 175
+|agility      = 215
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+A '''Diggel Grebel''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 55 on Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+==== Skills ====
+The Diggel Grebel has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+==== Resistances ====
+{{XC3 Resistances}}
+{{clr}}
+==== Arts ====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|80%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Stepping Stone'''
+|Physical
+|One Target
+|1
+|250%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*Topple is only inflicted if target is suffering [[Break (XC3)|Break]].
+*Damage is boosted by 200% when attacking the target from behind.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Lazy Sway'''
+|Physical
+|One Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Burrowing Rocket'''
+|Physical
+|AOE around User
+|1
+|160%
+|Break
+|style="text-align:left;"|
+*Evades enemy attacks during the Art.
+|}
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>epodhi9v5q2vnwxy8cjvcl777pkm1kc</sha1>
+    </revision>
+  </page>
+  </mediawiki>

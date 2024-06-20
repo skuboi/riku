@@ -1,0 +1,6 @@
+Art Name: Burning Ballad
+
+Class: Glimmer
+
+Effect: AOE/Crit. Rate up
+

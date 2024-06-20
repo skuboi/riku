@@ -1,0 +1,13 @@
+Parent Category: Class (Weapon)
+
+Title: Troubadour
+
+Overview: Troubadour is the class of [[Miyabi]]. It is a class that raises allies frequency and strengthening them greatly with flue playing. The class is unlocked upon completing ''[[Side Story: Mio]]'', and the [[Class Rank (XC3)|Rank]] cap can be increased from 10 to 20 upon completion of the [[Hero Quest|Ascension Quest]] ''[[Happiness]]''.
+{{clr}}
+
+Arts: {'Glittering Melody': 'Gain charge/Pause buffs', 'Autumn Rain': 'AOE / Regenerate |Regenerate', 'Way Home': 'Burst (Rank 1 Master Art)', "Ring o' Roses": 'Field / Fast charge (Rank 10 Master Art)', 'Twin Moons': 'Remove buffs', 'Shadow Parade': 'Fast charge/Def. down'}
+
+Class Skills: {'Swiftsong': "Boosts all allies' accuracy and evasion by 10-20%. Does not stack. (Rank 15 Master Skill)", 'Endsong': "Recharges all allies' Arts by 60-100% when incapacitated.", 'Dance of Barrages': '10-12% chance to keep recharge when using Art. (Rank 5 Master Skill)', 'Dance of Life': 'Own Arts gain 60-100% recharge when an ally is incapacitated.'}
+
+Hero Exclusive Arts: {'Empty Shell': 'Field / Fast charge', 'Snowdrift': '[[Burst]]', 'Sweet Breeze': 'AOE / Regenerate'}
+

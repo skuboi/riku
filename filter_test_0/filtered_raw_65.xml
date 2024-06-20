@@ -1,0 +1,1854 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Status Effect</title>
+    <ns>0</ns>
+    <id>124884</id>
+    <revision>
+      <id>598350</id>
+      <parentid>598333</parentid>
+      <timestamp>2023-07-08T04:11:23Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>move field effects, including art follow-up, to its own section (they don't technically count as buffs)</comment>
+      <origin>598350</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9632" sha1="hqpva365afekwvw740jrf3t7roufwm8" xml:space="preserve">{{for|the similar game mechanic in {{XCX}}|Buff|Debuff}}
+'''Status Effects''' are a game mechanic in {{XC3}} and {{XC3FR|sublink}}. They are temporary positive or negative effects applied to players or [[Enemy (XC3)|enemies]]. Positive effects are referred to in-game as buffs, and negative effects as debuffs. Additionally, debuffs are separated into physical debuffs and ether debuffs, which are governed by separate debuff resistance stats. Status Effects can be applied either directly to a target, or through the target entering a field. There also exist reaction type status effects, such as Blowdown and Knockback. Some Arts, such as [[Aureole (XC3)|Aureole]], apply random buffs or debuffs. Not all buffs and debuffs can be applied through random methods.
+
+Status Effects are not to be confused with [[Combo]]s, involving [[Break (XC3)|Break]], [[Topple (XC3)|Topple]], [[Launch (XC3)|Launch]] and [[Smash (XC3)|Smash]], or [[Daze (XC3)|Daze]] and [[Burst]].
+
+== List of Buffs ==
+{| class="xc1 sortable" width="" 50%
+!Status Icon
+!Status Name
+!Status Effect
+!Randomly Applicable
+|-
+|[[File:XC3 Accuracy Up.png]]
+|[[Accuracy Up (XC3)|Accuracy Up]]
+|Boosts Accuracy
+|Yes
+|-
+|[[File:XC3 Armor Veil.png]]
+|[[Armor Veil]]
+|Absorbs a fixed amount of damage
+| Yes
+|-
+|[[File:XC3 Attack Up.png]]
+|[[Attack Up]]
+|Boosts damage dealt 
+|Yes
+|-
+|[[File:XC3 Awakening.png]]
+|[[Awakening (XC3)|Awakening]]
+|Improves Attack, Defense, and recharge rate
+|No
+|-
+|[[File:XC3 Counter Heal.png]]
+|[[Counter Heal]]
+|Heal [[Hit Points (XC3)|HP]] when hit, for a set number of hits
+|Yes 
+|-
+|[[File:XC3 Critical Hit Plus.png]]
+|[[Critical Hit Plus]]
+|Boosts [[Critical Hit]] extra damage 
+|Yes
+|-
+|[[File:XC3 Crit rate up.png]]
+|[[Critical Rate Up (XC3)|Critical Rate Up]]
+| Boosts Critical Rate
+|Yes
+|-
+|[[File:XC3 Debuff Barrier.png]]
+|[[Debuff Barrier]]
+| Nullifies set number of enemy debuffs
+|Yes 
+|-
+|[[File:XC3 Decoy.png]]
+|[[Decoy (XC3)|Decoy]]
+|Evades attacks a set number of times
+|Yes
+|-
+|[[File:XC3 Defense Up.png]]
+|[[Defense Up]]
+|Reduces damage taken 
+|Yes
+|-
+|[[File:XC3 Delayed Healing.png]]
+|[[Delayed Healing]]
+| Heals HP when below a set value
+| Yes
+|-
+|[[File:XC3 Ether Anchor.png]]
+|[[Ether Anchor]]
+|Nullifies a set number of [[Combo]] reactions
+| Yes
+|-
+|[[File:XC3 Evasion Up.png]]
+|[[Evasion Up (XC3)|Evasion Up]]
+|Improves Evasion
+|Yes 
+|-
+|[[File:XC3 Fast Recharge.png]]
+|[[Fast Recharge]]
+|Improves rate of recharge
+|Yes
+|-
+|[[File:XC3 Invincible.png]]
+|[[Invincible (XC3)|Invincible]]
+|Nullifies attacks from enemies 
+|No
+|-
+|[[File:XC3 Pause Buff Timer.png]]
+|[[Pause Buff Timer]]
+|Freezes timer on all other active buffs 
+|No
+|-
+|[[File:XC3 Power Charge.png]]
+|[[Power Charge]]
+|Boosts Damage of next [[Battle Arts (XC3)|Art]]
+|Yes
+|-
+|[[File:XC3 Recovery Up.png]]
+|[[Recovery Up (XC3)|Recovery Up]]
+|Boosts amount of HP healed 
+|Yes
+|-
+|[[File:XC3 Regenerate.png]]
+|[[Regenerate (XC3)|Regenerate]]
+|Heals HP at fixed intervals
+|No
+|-
+|[[File:XC3FR Nullify All Attacks Icon.png]]
+|[[Nullify Most Attacks]]
+|Nullifies attacks (with exceptions)
+|No
+|}
+
+
+==List of Debuffs==
+{| class="xc1 sortable" width="" 50%
+!Status Icon
+!Status Name
+!Status Effect
+!Type 
+!Randomly Applicable
+|-
+|[[File:XC3 Accuracy Down.png]]
+|[[Accuracy Down]]
+|Reduces Accuracy
+|Physical
+|Yes
+|-
+|[[File:XC3 Attack Down.png]]
+|[[Attack Down]]
+|Reduces damage dealt 
+|Physical
+|Yes
+|-
+|[[File:XC3 Bind.png]]
+|[[Bind (XC3)|Bind]]
+|Makes it impossible to move
+|Ether
+|Yes
+|-
+|[[File:XC3 Blaze Icon.png]]
+|[[Blaze (XC3)|Blaze]]
+|Deals damage at fixed intervals
+| Ether
+|No
+|-
+|[[File:XC3 Bleed.png]]
+|[[Bleed (XC3)|Bleed]]
+|Deals damage at fixed intervals
+| Physical
+|No
+|-
+|[[File:XC3 Damage Link.png]]
+|[[Damage Link]]
+|Relays damage taken to nearby allies
+|Ether
+|No
+|-
+|[[File:XC3 Eclipse Soul.png]]
+|[[Eclipse Soul]]
+| Makes allies attack one another
+| Ether
+|No
+|-
+|[[File:XC3 Ether Defense Down.png]]
+|[[Ether Defense Down (XC3)|Ether Defense Down]]
+|Reduces [[Ether Defence|Ether Defense]]
+|Ether
+|Yes
+|-
+|[[File:XC3 Evasion Down.png]]
+|[[Evasion Down]]
+|Reduces Evasion
+|Physical
+|Yes
+|-
+|[[File:XC3 Flame Clock Low, Attack Down.png]]
+|[[Flame Clock#Gameplay|Flame Clock Low, Attack Down]]
+|Reduces Attack when [[Flame Clock]] is less than 1/4 full.
+|Ether
+|No
+|-
+|[[File:XC3 Freeze.png]]
+|[[Freeze]]
+|Deals damage at fixed intervals
+|Ether
+|No
+|-
+|[[File:XC3 Heal Bind.png]]
+|[[Heal Bind]]
+|Incapacitates [[Healer]]s
+| Ether
+|No
+|-
+|[[File:XC3 Interlink Seal.png]]
+|[[Interlink Seal]]
+|Seals [[Interlink]] with [[Moebius]]'s power 
+|Ether
+|No
+|-
+|[[File:XC3 Moebius Shackles.png]]
+|[[Moebius Shackles]]
+|Stops a character from moving
+| Physical
+|No
+|-
+|[[File:XC3 Phys. Defense Down.png]]
+|[[Phys Def Down (XC3)|Phys. Def Down]]
+|Reduces [[Physical Defence|Physical Defense]]
+|Physical
+|Yes
+|-
+|[[File:XC3 Reduce All.png]]
+|[[Reduce All]]
+|Reduces damage, accuracy, evasion, and defense
+|Ether
+|No
+|-
+|[[File:XC3 Resistance Down.png]]
+|[[Resistance Down]]
+|Reduces resistance to debuffs 
+|Ether
+|Yes
+|-
+|[[File:XC3 Shackle Arts.png]]
+|[[Shackle Arts]]
+|Makes it impossible to use arts
+| Physical
+|No 
+|-
+|[[File:XC3 Shackle Blocking.png]]
+|[[Shackle Blocking]]
+|Makes it impossible to block
+|Physical
+|Yes
+|-
+|[[File:XC3 Shackle Healing.png]]
+|[[Shackle Healing]]
+|Makes it impossible to heal HP
+|Ether
+|No
+|-
+|[[File:XC3 Shield Bind.png]]
+|[[Shield Bind]]
+|Incapacitates [[Defender (XC3)|Defenders]]
+|Ether
+|No
+|-
+|[[File:XC3 Slow Recharge.png]]
+|[[Slow Recharge]]
+|Reduces rate of recharge
+|Ether
+|No
+|-
+|[[File:XC3 Sleep Icon.png]]
+|[[Sleep (XC3)|Sleep]]
+|Incapacitates until damage is taken
+|Ether
+|Yes
+|-
+|[[File:XC3 Sword Bind.png]]
+|[[Sword Bind]]
+| Incapacitates [[Attacker]]s
+|Ether 
+|No
+|-
+|[[File:XC3 Target Lock.png]]
+| [[Target Lock]]
+|Locks enemy into targeting user
+|Physical
+|No 
+|-
+|[[File:XC3 Toxin.png]]
+|[[Toxin]]
+|Deals damage at fixed intervals
+|Ether
+|No
+|}
+==Field Effects ==
+The following field effects grant benefits or penalties to characters and/or enemies that stand in them. They do not count as buffs or debuffs for the game mechanics that use them, even if the effect name coincides with that of a buff or debuff.
+{| class="xc1 sortable"
+!Field Icon
+!Field Effect Name
+!Effect
+!Base Duration
+|-
+|[[File:XC3 Buff Field.png]]
+|[[Critical Rate Up]]
+|Boosts Critical Rate of allies by 40% (multiplicative).
+|15.0s
+|-
+|[[File:XC3 Buff Field.png]]
+|[[Armor Veil]]
+|Absorbs up to 20% of field setter's HP, cumulative across all allies in the field.
+|10.0s
+|-
+|[[File:XC3 Buff Field.png]]
+|[[Attack Up]]
+|Boosts damage dealt by allies by 40% (additive with most damage-increasing effects).
+|15.0s
+|-
+|[[File:XC3 Buff Field.png]]
+|[[Defense Up]]
+|Reduces damage taken to allies by 15%.
+|10.0s
+|-
+|[[File:XC3 Buff Field.png]]
+|[[Fast Recharge]]
+|Boosts Art recharge of allies by 20%.
+|15.0s
+|-
+|[[File:XC3 Buff Field.png]]
+|[[Evasion Up (XC3)|Evasion Up]]
+|Boosts Evasion of allies by 8%.
+|10.0s
+|-
+|[[File:XC3 DOT Field.png]]
+|[[Blaze]]
+|Deals damage equal to 50% of the Attack stat of the person who set the Field to enemies every 1.0s.
+|10.0s
+|-
+|[[File:XC3 DOT Field.png]]
+|[[Art Follow-Up]]
+|Deals damage equal to 2 times the Attack stat of the person who set the Field, when an ally in the field uses an art.
+|15.0s
+|-
+|[[File:XC3 Heal Field.png]]
+|[[Regenerate (XC3)|Regenerate]]
+|Periodically heals allies for a proportion of the field setter's Healing Power (the amount of healing and frequency varies by Art).
+|Varies from 10.0s-30.0s, depending on Art that sets the field
+|-
+|[[File:XC3 Blaze &amp; Regenerate Icon.png]]
+|Blaze &amp; Regenerate
+|Periodically heals allies for 100% of the field setter's Healing Power every 2.0s, and deals damage equal to 100% of Attack of the field setter to enemies every 2.0s.
+|10.0s
+|-
+|[[File:XC3 Heal Field.png]]
+|[[Arts Heal]]
+|When an ally standing in the field uses an Art, heals an amount equal to 50% of Healing Power of the field setter.
+|15.0s
+|}
+==Other Effects==
+There are a few positive or negative effects in the game that are not considered a Status Effect. When in the [[Malevolent Hollow]] cave system, Interlinking is prevented for an unknown reason. This effect is similar to Interlink Seal, but doesn't have an icon associated with it. Additionally, the [[Royal Summoner]] class has an unexplained mechanic known as '''Elemental Buffs''', which are associated with the elementals created using the [[Summon Element]] art, and are applied to the whole party. Flare Elementals give +5% damage per orb, Earth Elementals give +5% damage reduction per orb, and Aqua Elementals give +1% max HP per orb. These elemental buffs are affected by the "'''Here I Shall Stand'''" class ability, which increases buff effects by 30%-50% depending on [[Class Rank (XC3)|Class Rank]].
+
+== Trivia ==   
+* There exists an [[List of Xenoblade Chronicles 3 pre-release and unused content|unused]] buff in the base game's files named "18", with its own icon, and description reading: "''Moebius energy nullifies all attacks''". This effect is very similar to a the "''Nullify Most Attacks''" debuff introduced in {{XC3FR|sub}}.
+
+==Gallery==
+===Field Icons===
+&lt;gallery&gt;
+XC3 Buff Field.png|Buff Field icon
+XC3 Debuff Field.png|Debuff Field icon
+XC3 DOT Field.png|Damage over time Field icon
+XC3 Heal Field.png|Healing based Field icon
+XC3 Defender Field Icon.png|Icon for Field produced around Defender party members
+XC3 Blaze &amp; Regenerate Icon.png|Blaze &amp; Regenerate Icon, only used by [[Pride of Place]]
+&lt;/gallery&gt;
+
+=== Unused Icons===
+&lt;gallery&gt;
+XC3 Unused buff 1.png|Unused buff icon
+XC3 Unknown Reaction.png|Unused status reaction icon
+&lt;/gallery&gt;
+{{clr}}
+[[Category:XC3 Status]]</text>
+      <sha1>hqpva365afekwvw740jrf3t7roufwm8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Steady Striker</title>
+    <ns>0</ns>
+    <id>118899</id>
+    <revision>
+      <id>595283</id>
+      <parentid>592041</parentid>
+      <timestamp>2023-06-11T16:48:07Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5336" sha1="ei8900wzchtcsdppg0yqyj589iiqemm" xml:space="preserve">{{Infobox Gem
+| name     = Steady Striker
+| image    = Gem-speciality.png
+| effect   = [Passive]  Shortens auto-attack interval by ''(value)%''.
+| category = Speciality
+| max      = 40%
+}}
+'''Steady Striker''' is a Speciality [[Gem]] in {{XC3}}. It is the only gem that is not available in {{XC3FR|sublink}}, where it is replaced by [[Flowing Form]].
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Shorter Auto-Attack Interval
+|-
+!I
+|15%
+|-
+!II
+|17%
+|-
+!III
+|20%
+|-
+!IV
+|22%
+|-
+!V
+|25%
+|-
+!VI
+|27%
+|-
+!VII
+|30%
+|-
+!VIII
+|32%
+|-
+!IX
+|35%
+|-
+!X
+|40%
+|}
+
+== List of Gems ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required item/s is/are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Steady Striker I
+|[[Gemstone]]&lt;br /&gt;[[Dextrous Bunnit Tail]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Steady Striker II
+|Gemstone&lt;br /&gt;[[Golden Brog Oil]]&lt;br /&gt;[[Sharp Hox Horn]]&lt;br /&gt;[[Dark Fish Fossil]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Steady Striker III
+|Gemstone&lt;br /&gt;[[Ardun Horns]]&lt;br /&gt;[[Arachno Pincer]]&lt;br /&gt;[[Krammit Device Fragment]]&lt;br /&gt;[[Mallow-o'-the-Marsh]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Steady Striker IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Round Amoney Tentacle]]&lt;br /&gt;[[Agnian Dog Tag]]&lt;br /&gt;[[Quardun Shell]]&lt;br /&gt;[[Mobility Thruster]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Steady Striker V
+|Pure Gemstone&lt;br /&gt;[[Circular Velites Blade]] x 2&lt;br /&gt;[[Avis Sphere]] x 2&lt;br /&gt;[[Great Feris Horn Pair]] x 2&lt;br /&gt;[[Fire Pepper (XC3)|Fire Pepper]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Steady Striker VI
+|Pure Gemstone&lt;br /&gt;[[Equites Tank Wheel]] x 2&lt;br /&gt;[[Vang Membrane]] x 2&lt;br /&gt;[[Ories Horns]] x 2&lt;br /&gt;[[Anti-Grav Chassis]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Steady Striker VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Enpedia Launcher]] x 2&lt;br /&gt;[[Vvarga Razor Horn]] x 2&lt;br /&gt;[[Steelcrushing Rhinon Fang]] x 3&lt;br /&gt;[[Sharp Merfrey Tail]] x 3&lt;br /&gt;[[Aspid Fossil]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Steady Striker VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Igna Weapon]] x 15&lt;br /&gt;[[Ottil's Clambreaking Stone]] x 15&lt;br /&gt;[[Drague Everflame]] x 15&lt;br /&gt;Vvarga Razor Horn x 15&lt;br /&gt;[[Blue Chain (XC3)|Blue Chain]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Steady Striker IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Sagittarius Machine Rifle]] x 20&lt;br /&gt;[[Volff Meat]] x 20&lt;br /&gt;[[Horrish Propeller]] x 20&lt;br /&gt;[[Antol Jaws]] x 20&lt;br /&gt;[[Dance Apple (XC3)|Dance Apple]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Steady Striker X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Evil Drague Eye]] x 30&lt;br /&gt;[[Medooz Tentacle]] x 30&lt;br /&gt;[[Kananus Razor Horn]] x 30&lt;br /&gt;Vvarga Razor Horn x 30&lt;br /&gt;[[Myoot Beak]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+[[Category:XC3 Gems]]</text>
+      <sha1>ei8900wzchtcsdppg0yqyj589iiqemm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Steam Belt (XC3)</title>
+    <ns>0</ns>
+    <id>119013</id>
+    <revision>
+      <id>592874</id>
+      <parentid>592526</parentid>
+      <timestamp>2023-05-15T20:19:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="983" sha1="fdn8il77vuuophur23azdq04gl4p22d" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Steam Belt (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Steam Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Steam Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Steam Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Steam Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>fdn8il77vuuophur23azdq04gl4p22d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Steel Protection</title>
+    <ns>0</ns>
+    <id>118885</id>
+    <revision>
+      <id>595282</id>
+      <parentid>592029</parentid>
+      <timestamp>2023-06-11T16:45:44Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6342" sha1="07w4pdhc8m5nd9o8yu3guzln97kzjxa" xml:space="preserve">{{Infobox Gem
+| name     = Steel Protection
+| image    = Gem-defender.png
+| effect   = [Passive] Increases Block Rate by ''(value)'' percentage points.
+| category = Defender
+| max      = 30
+}}
+'''Steel Protection''' is a Defender [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Block Rate Increase
+|-
+!I
+|5
+|-
+!II
+|7
+|-
+!III
+|10
+|-
+!IV
+|12
+|-
+!V
+|15
+|-
+!VI
+|17
+|-
+!VII
+|20
+|-
+!VIII
+|22
+|-
+!IX 
+|25
+|-
+!X
+|30
+|}
+
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Steel Protection I
+|[[Gemstone]]&lt;br /&gt;[[Krabble Shield Pincer]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Steel Protection II
+| Gemstone&lt;br /&gt;[[Grebel Carapace]]&lt;br /&gt;[[Slender Flamii Bone]]&lt;br /&gt;[[Anarchy Orchid]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+| Steel Protection III
+|Gemstone&lt;br /&gt;[[Caterpile Antenna]]&lt;br /&gt;[[Garaffa Tenderloin]]&lt;br /&gt;[[Tirkin Service Medal]]&lt;br /&gt;[[Fossil Monkey Fossil]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Steel Protection IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Quardun Shell]]&lt;br /&gt;[[Tough Hox Pelt]]&lt;br /&gt;[[Springy Medooz Bell]]&lt;br /&gt;[[Blood Emerald]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+| Steel Protection V
+|Pure Gemstone&lt;br /&gt;[[Scorpox Exoskeleton]] x 2&lt;br /&gt;[[Auxilia Exo-Armor]] x 2&lt;br /&gt;[[Crustip Jet Spray]] x 2&lt;br /&gt;[[Thick Flange]]&lt;br /&gt;Ether Cylinder x 2 
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Steel Protection VI
+|Pure Gemstone&lt;br /&gt;[[Ories Headplate]] x 2&lt;br /&gt;[[Ropl Rock Fragment]] x 2&lt;br /&gt;[[Glistening Krodlax Scale]] x 2&lt;br /&gt;[[Matryos Carbon]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Steel Protection VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Mineral Darbus Bone]] x 2&lt;br /&gt;[[Metal Vokooku Shard]] x 2&lt;br /&gt;Grebel Carapace x 3&lt;br /&gt;[[Agnian Soldier's Armor]] x 3&lt;br /&gt;[[Bronze Wood (XC3)|Bronze Wood]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Steel Protection VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Kevesi Soldier's Armor]] x 15&lt;br /&gt;Agnian Soldier's Armor x 15&lt;br /&gt;Metal Vokooku Shard x 15&lt;br /&gt;[[Armored Plambus Wing]] x 15&lt;br /&gt;[[Dynamic Coating]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Steel Protection IX
+| Ultra Pure Gemstone x 3&lt;br /&gt;Auxilia Exo-Armor x 20&lt;br /&gt;Quardun Shell x 20&lt;br /&gt;[[Star-Shaped Droid Screw]] x 20&lt;br /&gt;[[Krammit Device Fragment]] x 20&lt;br /&gt;[[Demon Marble]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Steel Protection X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Flak Scrap Iron]] x 30&lt;br /&gt;Armored Plambus Wing x 30&lt;br /&gt;Krabble Shield Pincer x 30&lt;br /&gt;Metal Vokooku Shard x 30&lt;br /&gt;Auxilia Exo-Armor x 30&lt;br /&gt;Ether Cylinder x 3 
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Steel Protection I
+| [[Gemstone]]&lt;br /&gt;[[Krabble Shield Pincer]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Steel Protection II
+| Gemstone&lt;br /&gt;[[Crustip Jet Spray]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Steel Protection III
+| [[Pure Gemstone]]&lt;br /&gt;[[Ornate Moglum Coral]] x2&lt;br&gt;[[Arachno Pincer]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Steel Protection IV
+| Pure Gemstone&lt;br /&gt;[[Steel Urchon Scale]] x2&lt;br /&gt;[[Hard Eggshell]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Steel Protection V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Great Feris Horn Pair]]&lt;br&gt;[[Aries Fur]] x2&lt;br&gt;Hard Eggshell x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>07w4pdhc8m5nd9o8yu3guzln97kzjxa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Steelcleaver</title>
+    <ns>0</ns>
+    <id>118904</id>
+    <revision>
+      <id>595281</id>
+      <parentid>592030</parentid>
+      <timestamp>2023-06-11T16:45:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6200" sha1="2ycs24olwv0gf7sgc71vz9hg7imjcsj" xml:space="preserve">{{Infobox Gem
+| name     = Steelcleaver
+| image    = Gem-attacker.png
+| effect   = [Passive] Increases Attack by ''(value)''.
+| category = Attacker
+| max      = 70
+}}
+'''Steelcleaver''' is a Attacker [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Attack Increase
+|-
+!I
+|20
+|-
+!II
+|25
+|-
+!III
+|30
+|-
+!IV
+|35
+|-
+!V
+|40
+|-
+!VI
+|45
+|-
+!VII
+|50
+|-
+!VIII
+|55
+|-
+! IX
+|60
+|-
+!X
+|70
+|}
+
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Steelcleaver  I
+|[[Gemstone]]&lt;br /&gt;[[Piercing Rhogul Quill]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Steelcleaver II 
+|Gemstone&lt;br /&gt;[[Exploding Blant Seed]]&lt;br /&gt;[[Crustip Jet Spray]]&lt;br /&gt;[[Redrum Seed]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Steelcleaver III
+|Gemstone&lt;br /&gt;[[Elegant Ansel Feather]]&lt;br /&gt;[[Igna Weapon]]&lt;br /&gt;[[Ardun Horns]]&lt;br /&gt;[[Jagron Fossil]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Steelcleaver IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Krammit Viscera]]&lt;br /&gt;[[Sharp Hox Horn]]&lt;br /&gt;[[Quardun Fang]]&lt;br /&gt;[[Blood Emerald]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Steelcleaver V 
+|Pure Gemstone&lt;br /&gt;[[Sharp Merfrey Tail]] x 2&lt;br /&gt;[[Avis Mech Sword]] x 2&lt;br /&gt;[[Ories Horns]] x 2&lt;br /&gt;[[Thermal Parts]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Steelcleaver VI 
+|Pure Gemstone&lt;br /&gt;Ories Horns x 2&lt;br /&gt;[[Ropl Jaw]] x 2&lt;br /&gt;[[Sagittarius Machine Rifle]] x 2&lt;br /&gt;[[Giant Hornet Fossil]]&lt;br /&gt;Ether Cylinder x 2 
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Steelcleaver VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Kananus Razor Horn]] x 2&lt;br /&gt;[[Thick Rhinon Tail]] x 2&lt;br /&gt;[[Marrin Bone]] x 3&lt;br /&gt;[[Circular Velites Blade]] x 3&lt;br /&gt;[[Aspid Fossil]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Steelcleaver VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Serrated Aligo Fang]] x 15&lt;br /&gt;Quardun Fang x 15&lt;br /&gt;[[Mineral Darbus Bone]] x 15&lt;br /&gt;[[Royal Ardun Horn]] x 15&lt;br /&gt;[[Warrior Screw (XC3)|Warrior Screw]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Steelcleaver IX 
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Testudo Shoulder Gun]] x 20&lt;br /&gt;[[Explosive Plambus Powder]] x 20&lt;br /&gt;[[Enpedia Launcher]] x 20&lt;br /&gt;Kananus Razor Horn x 20&lt;br /&gt;[[Griffox Fossil]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Steelcleaver X
+|Ultra Pure Gemstone x 5&lt;br /&gt;Royal Ardun Horn x 30&lt;br /&gt;[[Great Feris Horn Pair]] x 30&lt;br /&gt;[[Zapneedle Marrin Carapace]] x 30&lt;br /&gt;Thick Rhinon Tail x 30&lt;br /&gt;[[Ulula Metal Fist]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Steelcleaver I
+| [[Gemstone]]&lt;br /&gt;[[Volff Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Steelcleaver II
+| Gemstone&lt;br /&gt;[[Ardun Horns]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Steelcleaver III
+| [[Pure Gemstone]]&lt;br /&gt;[[Ropl Jaw]] x2&lt;br /&gt;[[Testudo Shoulder Gun]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Steelcleaver IV
+| Pure Gemstone&lt;br /&gt;[[Great Feris Horn Pair]] x2&lt;br /&gt;[[Sagittarius Machine Rifle]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Steelcleaver V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Gyrinus Halo]]&lt;br&gt;Ropl Jaw x2&lt;br&gt;[[Magnificent Upa Lure]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>2ycs24olwv0gf7sgc71vz9hg7imjcsj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stone Belt</title>
+    <ns>0</ns>
+    <id>119014</id>
+    <revision>
+      <id>566904</id>
+      <parentid>551241</parentid>
+      <timestamp>2022-11-23T10:38:38Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="974" sha1="0m8wnwzna4u04jtfl45z7xpy4bzuvqz" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Stone Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Stone Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Stone Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Stone Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>0m8wnwzna4u04jtfl45z7xpy4bzuvqz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stoneclipper Gorse</title>
+    <ns>0</ns>
+    <id>119413</id>
+    <revision>
+      <id>574698</id>
+      <parentid>559472</parentid>
+      <timestamp>2023-01-30T05:59:16Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1444" sha1="34agvbpxutxy6l3ks4mrzoczws54kbv" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Stoneclipper Gorse
+|image        = XC3 Stoneclipper Gorse.png
+|caption      = Stoneclipper Gorse
+|type         = [[Scorpox]]
+|level        = 25
+|area         = [[Dannagh&#160;Desert (XC3)|Dannagh&#160;Desert]] ([[Bulik Brae]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 627
+|cp           = 106
+|sp           = 5
+|gold         = 495
+|hp           = 411,700
+|strength     = 369
+|healing      = 213
+|dexterity    = 92
+|agility      = 89
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 18%
+|guardrate-front = 5%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Stoneclipper Gorse''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Scorpox]] family, and can be found at level 25 at [[Bulik Brae]] in the [[Dannagh&#160;Desert (XC3)|Dannagh&#160;Desert]]. The [[Soulhacker#Enemy Skills|Drain Guard]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 65%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Stoneclipper gorse location.png
+Stoneclipper gorse.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>34agvbpxutxy6l3ks4mrzoczws54kbv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stonehoof Torphan</title>
+    <ns>0</ns>
+    <id>119500</id>
+    <revision>
+      <id>583319</id>
+      <parentid>574699</parentid>
+      <timestamp>2023-04-17T16:10:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583319</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1389" sha1="m9en1szxqxl8l5temge0p0wzyosnjpc" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Stonehoof Torphan
+|image        = XC3 Stonehoof Torphan.png
+|caption      = Stonehoof Torphan
+|type         = [[Aries]]
+|level        = 57
+|area         = [[Captocorn Peak]] ([[Piula Path]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,918
+|cp           = 124
+|sp           = 5
+|gold         = 1,080
+|hp           = 2,272,900
+|strength     = 924
+|healing      = 354
+|dexterity    = 192
+|agility      = 135
+|physdef      = -10%
+|ethdef       = 10%
+|critrate     = 12%
+|guardrate-front = 10%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Stonehoof Torphan''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Aries]] family, and can be found at level 57 on [[Piula Path]] on [[Captocorn Peak]]. The [[Soulhacker#Enemy Skills|Sense of Danger]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 25%
+|etherdebuff = 70%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Stonehoof torphan location.png
+Stonehoof torphan.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Aries]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>m9en1szxqxl8l5temge0p0wzyosnjpc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stony Krammit</title>
+    <ns>0</ns>
+    <id>121177</id>
+    <revision>
+      <id>595166</id>
+      <parentid>589761</parentid>
+      <timestamp>2023-06-11T15:06:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1526" sha1="2ouxynh29g0vpsqjw9rqp6f6ocparm0" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Stony Krammit
+|image        = Stony Krammit.jpg
+|caption      = Stony Krammit
+|category     = Normal Minor Enemy
+|type         = [[Krammit]]
+|level        = 29-30
+|area         = [[Old Cliffside Way]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Stony Krammits''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Krammit]] family, and can be found at level 29-30 at the [[Old Cliffside Way]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Stony Krammit
+|image        = Stony Krammit.jpg
+|caption      = Stony Krammit
+|category     = Normal Minor Enemy
+|type         = [[Krammit]]
+|level        = 8
+|area         = [[Vermilion Woods]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Stony Krammits''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Krammit]] family, and can be found at level 8 in [[Vermilion Woods]]
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Krammits]]
+[[Category:XC3FR Krammits]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>2ouxynh29g0vpsqjw9rqp6f6ocparm0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Storm Necklace</title>
+    <ns>0</ns>
+    <id>122610</id>
+    <revision>
+      <id>592875</id>
+      <parentid>592350</parentid>
+      <timestamp>2023-05-15T20:19:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1052" sha1="3dijfg0zn4fzf6lhrjx5meo88bxi8xv" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Storm Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 30% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Storm Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 32% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Storm Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 35% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Storm Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>3dijfg0zn4fzf6lhrjx5meo88bxi8xv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Story Exclusive Enemy (XC3)</title>
+    <ns>0</ns>
+    <id>118136</id>
+    <revision>
+      <id>534064</id>
+      <timestamp>2022-07-11T19:49:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>Created page with "{{for|other uses|Story Exclusive Enemy}} {{Spoiler}} '''Story Exclusive Enemies''' are special [[Enemy (XC3)|enemies]] in {{XC3}}. {{clr}}  {{xc3 stub}} [[Category:XC3 Enemies]] [[Category:XC3 Story Exclusive Enemies]]"</comment>
+      <origin>534064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="425wf7k63fslrb5ysvlbr3jv6t7m0ad" xml:space="preserve">{{for|other uses|Story Exclusive Enemy}}
+{{Spoiler}}
+'''Story Exclusive Enemies''' are special [[Enemy (XC3)|enemies]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]</text>
+      <sha1>425wf7k63fslrb5ysvlbr3jv6t7m0ad</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strange Keves Soldier</title>
+    <ns>0</ns>
+    <id>123046</id>
+    <revision>
+      <id>596173</id>
+      <parentid>595884</parentid>
+      <timestamp>2023-06-16T20:24:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1247" sha1="gwfkezelh9ydfoga0c2fj2jhl5q5qf3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Strange Keves Soldier
+|image        = 
+|caption      = Strange Keves Soldier
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 21
+|area         = [[Ribbi Flats]] ([[Precipice of Judgment]])
+|spawntime    = During ''[[The Kind Right Hand]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Strange Keves Soldier''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Keves Forces|Keves Soldier]], and is fought at level 21 at the [[Precipice of Judgment]] in [[Ribbi Flats]] during ''[[The Kind Right Hand]]''. He is then revealed to be [[Valdi]]. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>gwfkezelh9ydfoga0c2fj2jhl5q5qf3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strarc Toray</title>
+    <ns>0</ns>
+    <id>121745</id>
+    <revision>
+      <id>598104</id>
+      <parentid>579963</parentid>
+      <timestamp>2023-07-04T15:04:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1118" sha1="c8k4sfn88eke6ypgnk4vuisa01d919n" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Strarc Toray
+|image        = Strarc Toray.jpg
+|caption      = Strarc Toray
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 65-66
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 1|Ferronis Arsenal #1]],  [[Ferronis Arsenal 3|Ferronis Arsenal #3]], [[South Sector Passage]], [[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Strarc Torays''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 65-66 at [[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], the [[South Sector Passage]], and the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>c8k4sfn88eke6ypgnk4vuisa01d919n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strarc Zetoray</title>
+    <ns>0</ns>
+    <id>123242</id>
+    <revision>
+      <id>598177</id>
+      <parentid>579964</parentid>
+      <timestamp>2023-07-04T17:00:57Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="976" sha1="qi0ab3ypivm8qlzi84qeraduxwd5x7n" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Strarc Zetoray
+|image        = Strarc Zetoray.jpg
+|caption      = Strarc Zetoray
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 66-67
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], [[South Sector Passage]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Strarc Zetorays''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 66-67 at [[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], and the [[South Sector Passage]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qi0ab3ypivm8qlzi84qeraduxwd5x7n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strategos</title>
+    <ns>0</ns>
+    <id>118545</id>
+    <revision>
+      <id>597429</id>
+      <parentid>597117</parentid>
+      <timestamp>2023-06-29T12:56:04Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>597429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6714" sha1="swf9mh95ap7qxd55d7cjtm9wbl1j3rp" xml:space="preserve">{{Spoiler}}
+{{quote|An adroit, tactical Healer who uses special guns to aid allies in various ways, as well as weakening foes.|Class menu description}}
+[[File:XC3 Strategos Weapon Icon.png|thumb|The Strategos class icon]]
+'''Strategos''' is an [[Agnus|Agnian]] [[Healer]] [[Class (XC3)|class]] in {{XC3}}. 
+
+== Overview ==
+Strategos is the class of [[Isurd]]. It is a class that uses [[Blade (XC3)|Disc Launchers]] to assist allies in various ways, as well as weakening foes. 
+
+It is unlocked by completing the [[Hero Quest]] ''[[Unwavering Resolve]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Effervescent Heart]]''.
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|3,450
+|4,315
+|2,590
+|''Class Inheritor''
+|6,040
+|5,175
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 250
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 250
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 310
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 310
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 375
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 375
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 405
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 405 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 435
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Effervescent Heart]]''
+|-
+| 11 
+| 390
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 390
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 525
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 525
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 650
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 650 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 850
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 975
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Strategos class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 60% || 60% || 110% || 105% || 80% || 5% || 25%
+|-
+| 10 || 62% || 62% || 112% || 107% || 82% || 7% || 27%
+|-
+| 20 || 65% || 65% || 115% || 110% || 85% || 10% || 30%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 16 || 5% || 3%
+|-
+| 10 || 35 || 6% || 3%
+|-
+| 20 || 62 || 7% || 4%
+|-
+| 30 || 96 || 8% || 4%
+|-
+| 40 || 133 || 9% || 4%
+|-
+| 50 || 178 || 10% || 5%
+|-
+| 60 || 227 || 11% || 5%
+|-
+| 70 || 281 || 12% || 5%
+|-
+| 80 || 344 || 13% || 5%
+|-
+| 90 || 413 || 14% || 6%
+|-
+| 99 || 483 || 15% || 6%
+|}
+== Arts ==
+* '''[[Soulfire (XC3)|Soulfire]]''' ([[Battle Arts (XC3)|Talent Art]]), Heal all on hit/Atk down
+* [[No Love Lost (XC3)|No Love Lost]], Physical Def. down (Rank 1 Master Art)
+* [[Mirror Trap]], AOE / Counter Heal
+* [[Hornet]], Area heal on hit (Rank 10 Master Art)
+* [[Moondog]], Field / [[Regenerate (XC3)|Regenerate]] 
+* [[Earth Bind]], Bind
+
+=== Hero-Exclusive Arts ===
+* [[Gyreflow]], Field / Regenerate
+* [[Razor Wind]], Area heal on hit
+* [[Moonshadow]], [[Bind (XC3)|Bind]]
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 20.png]] '''Strengthening Gambit''': Extends duration of buff effects issued by 30-50%. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 10.png]] '''Prowess Gambit''': Buffing an ally boosts damage dealt by 20-30% (up to a maximum of 200%).
+* [[File:XC3 Skill Icon 20.png]] '''Sapping Gambit''': Extends duration timers of debuffs applied to enemies by 30-50%.
+* [[File:XC3 Skill Icon 22.png]] '''Preemption Gambit''': 60-100% chance to grant all allies Attack Up on a preemptive attack. (Rank 15 Master Skill)
+=== Stat Increases ===
+{| class="xc1 centered" style="width:100%;"
+!Class Rank
+!Prowess Gambit
+!Sapping Gambit
+!Strengthening Gambit
+!Preemption Gambit
+|-
+| 1
+| 20%
+| 30%
+| 30%
+| 60%
+|-
+| 5
+| 22%
+| 35%
+| 35%
+| 70%
+|-
+| 10
+| 25%
+| 40%
+| 40%
+| 80%
+|-
+| 15
+| 27%
+| 45%
+| 45%
+| 90%
+|-
+| 20
+| 30%
+| 50%
+| 50%
+| 100%
+|}
+
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Isurd Artwork.png|Isurd, a Strategos
+Strategos Noah.png|Noah as a Strategos
+Strategos Mio.png|Mio as a Strategos
+Strategos Eunie.png|Eunie as a Strategos
+Strategos Taion.png|Taion as a Strategos
+Strategos Lanz.png|Lanz as a Strategos
+Strategos Sena.png|Sena as a Strategos
+&lt;/gallery&gt;
+{{clr}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>swf9mh95ap7qxd55d7cjtm9wbl1j3rp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strider</title>
+    <ns>0</ns>
+    <id>123786</id>
+    <revision>
+      <id>597875</id>
+      <parentid>596174</parentid>
+      <timestamp>2023-07-02T16:37:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1746" sha1="ixjastr5w7ecxn9eqp6aenekhlg6bwq" xml:space="preserve">{{Infobox_NPC
+|name        = Strider
+|image       = Strider.png
+|personality = 
+|time_active = Anytime
+|gender      = Male
+|race        = [[Keves]]i human
+|age         = 7th Term
+|location    = [[Syra Hovering Reefs]] ([[Colony 11]])
+}}
+'''Strider''' is a NPC in {{XC3}}. Strider can be found in [[Colony 11]].
+
+== Overview ==
+Strider is a part of Colony 11's assault squad alongside [[Widow]] under the command of their captain [[Zoren]]. He is the scout of the squad, and very talented at tracking footprints.
+
+== Affinity ==
+* [[Widow]]
+* [[Zoren]]
+* [[Knoquehardt]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Strider
+|image        = 
+|caption      = Strider
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 66
+|area         = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime    = During ''[[Festival of War]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Strider''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is a [[Keves Forces|Keves Soldier]] who is fought at level 66 in the [[Colony 11, Training Pit]] at [[Syra Hovering Reefs]] during ''[[Festival of War]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>ixjastr5w7ecxn9eqp6aenekhlg6bwq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strike Bangle</title>
+    <ns>0</ns>
+    <id>122586</id>
+    <revision>
+      <id>592876</id>
+      <parentid>592312</parentid>
+      <timestamp>2023-05-15T20:19:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1069" sha1="t4bmmaph6p86o1mkyunkngvvyze0own" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Strike Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Strike Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Strike Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 24%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Strike Bangles''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>t4bmmaph6p86o1mkyunkngvvyze0own</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Strikechief Alfead</title>
+    <ns>0</ns>
+    <id>124001</id>
+    <revision>
+      <id>584823</id>
+      <parentid>574488</parentid>
+      <timestamp>2023-04-23T16:21:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1197" sha1="ohot0z88uet25s3j6cj5yfiseqn9soj" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Strikechief Alfead
+|image        = Strikechief Alfead.jpg
+|caption      = Strikechief Alfead
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = 98
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Spawned by [[King Krawkin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Strikechief Alfead''' is a Minor Enemy in {{XC3}}. It is a member of the [[Tirkin]] family, and can be found at level 98 at [[Demihuman Gutter]] in the [[Erythia Sea]], and is summoned by [[King Krawkin]]'s Royal Orders art. When summoned, it will use an art on the party and then immediately disappear from the battle.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ohot0z88uet25s3j6cj5yfiseqn9soj</sha1>
+    </revision>
+  </page>
+  </mediawiki>

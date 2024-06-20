@@ -1,0 +1,6 @@
+Art Name: Wide Slash
+
+Class: Zephyr
+
+Effect: Evade
+

@@ -1,0 +1,220 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Colnicas Ropl (XC3)</title>
+    <ns>0</ns>
+    <id>121010</id>
+    <revision>
+      <id>582109</id>
+      <parentid>573422</parentid>
+      <timestamp>2023-04-08T16:28:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="982" sha1="bpaavkrrgze58hcjsz7mpltbh2tmkj9" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Colnicas Ropl (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Colnicas Ropl
+|image        = 
+|caption      = Colnicas Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = 42
+|area         = [[Aetia Region]]&lt;br/ &gt;[[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Colnicas Ropl''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 42 at [[Everblight Plain]] in the [[Aetia Region]], and at [[Erythia Sea]] or [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bpaavkrrgze58hcjsz7mpltbh2tmkj9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Colorful Feather (XC3)</title>
+    <ns>0</ns>
+    <id>118932</id>
+    <revision>
+      <id>592741</id>
+      <parentid>592559</parentid>
+      <timestamp>2023-05-15T20:13:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1079" sha1="6sz46bs75kyy4neqi3fp57i64ect4tl" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Colorful Feather (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Colorful Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second. (Minor effect)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Colorful Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second. (Minor effect)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Colorful Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second. (Minor effect)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Colorful Feathers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>6sz46bs75kyy4neqi3fp57i64ect4tl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Comet Choker (XC3)</title>
+    <ns>0</ns>
+    <id>122585</id>
+    <revision>
+      <id>592742</id>
+      <parentid>592545</parentid>
+      <timestamp>2023-05-15T20:13:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592742</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1044" sha1="pt5tqofeq8liua8ietebbryj6knlvkq" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Comet Choker (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Comet Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Comet Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Comet Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt outdoors by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Comet Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>pt5tqofeq8liua8ietebbryj6knlvkq</sha1>
+    </revision>
+  </page>
+  </mediawiki>

@@ -1,0 +1,6 @@
+Skill Name: Capable Hands 
+
+Class: Flash Fencer
+
+Skill Buff or Effect:  Fills Talent Art recharge gauge by 100% at the start of battle. [Rank 15 Master Skill]
+

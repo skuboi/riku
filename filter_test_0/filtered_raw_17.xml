@@ -1,0 +1,938 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dalya Armu (XC3)</title>
+    <ns>0</ns>
+    <id>123353</id>
+    <revision>
+      <id>582519</id>
+      <parentid>579788</parentid>
+      <timestamp>2023-04-11T22:13:32Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="823" sha1="pnf9qn91whx9jv2kqv5w955g98hppwx" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Dalya Armu (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Dalya Armu
+|image        = 
+|caption      = Dalya Armu
+|category     = Minor Enemy
+|type         = [[Armu]]
+|level        = 21-22
+|area         = [[Rae-Bel Tableland]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Dalya Armus''' are Minor Enemies in {{XC3}}. They are members of the [[Armu]] family, and can be found at level 21-22 in the [[Rae-Bel Tableland]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Armus]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>pnf9qn91whx9jv2kqv5w955g98hppwx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Damage Link</title>
+    <ns>0</ns>
+    <id>125905</id>
+    <revision>
+      <id>588241</id>
+      <parentid>588240</parentid>
+      <timestamp>2023-05-03T06:28:26Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>588241</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="907" sha1="pslswha7pki1cyh7plvdbovyf11o2ko" xml:space="preserve">{{Infobox XC3 Status
+|title          = Damage Link
+|caption        = Relays dmg. taken to nearby allies.
+|image          = XC3 Damage Link.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 100%
+|rng-applicable = No
+|effect-title-1 = Base Link Radius
+|effect-value-1 = 5m
+}}
+'''Damage Link''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. Whenever a character affected by this debuff is damaged, nearby allies of that character will take the same amount of damage as they had.
+
+The amount of damage relayed is unaffected by equipment that increases debuff power; instead increasing debuff power only increases the radius over which damage is shared.
+==Distribution==
+===Arts===
+*[[Sword of Valor]] ([[Yumsmith]])
+*[[Sharpest Tool]] ([[Riku &amp; Manana]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>pslswha7pki1cyh7plvdbovyf11o2ko</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dampl Ardun</title>
+    <ns>0</ns>
+    <id>121782</id>
+    <revision>
+      <id>584300</id>
+      <parentid>559617</parentid>
+      <timestamp>2023-04-20T19:36:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>584300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="845" sha1="5ium299qj5xo4qoelgxi5uc4mgcjqsd" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Dampl Ardun
+|image        = 
+|caption      = Dampl Ardun
+|category     = Minor Enemy
+|type         = [[Ardun]]
+|level        = 40-41
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Dampl Arduns''' are Minor Enemies in {{XC3}}. They are members of the [[Ardun]] family, and can be found at level 40-41 at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Arduns]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5ium299qj5xo4qoelgxi5uc4mgcjqsd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dannagh Arachno</title>
+    <ns>0</ns>
+    <id>124251</id>
+    <revision>
+      <id>579024</id>
+      <parentid>576866</parentid>
+      <timestamp>2023-03-11T13:52:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>plural</comment>
+      <origin>579024</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1079" sha1="r68uya1hkdfqqy28gnmauofof556e82" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Dannagh Arachno
+|image        = XC3 Dannagh Arachno.png
+|caption      = Dannagh Arachno
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Arachno]]
+|level        = 19
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Great Idalla Ravine]])
+|spawntime    = During ''[[Champion of the Nopon]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Dannagh Arachnos''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Arachno]] family, and are encountered at level 19 at the [[Great Idalla Ravine]] in [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Champion of the Nopon]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 DLC Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>r68uya1hkdfqqy28gnmauofof556e82</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dannagh Scorpox</title>
+    <ns>0</ns>
+    <id>121077</id>
+    <revision>
+      <id>576627</id>
+      <parentid>559618</parentid>
+      <timestamp>2023-02-11T17:14:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="976" sha1="o91w1hktuowrj53j3guw1t1n0gy9vlz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Dannagh Scorpox
+|image        = XC3 Dannagh Scorpox.png
+|caption      = Dannagh Scorpox
+|category     = Quest Exclusive Enemy
+|type         = [[Scorpox]]
+|level        = 49
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Apex Wing]])
+|spawntime    = During ''[[Scant Supplies]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Dannagh Scorpoxes''' are Quest Exclusive Enemies in {{XC3}}. They are members of the [[Scorpox]] family, and can be found at level 49 at [[Apex Wing]] in the [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Scant Supplies]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>o91w1hktuowrj53j3guw1t1n0gy9vlz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dapper Sepiar</title>
+    <ns>0</ns>
+    <id>118676</id>
+    <revision>
+      <id>583284</id>
+      <parentid>574256</parentid>
+      <timestamp>2023-04-17T15:21:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583284</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1304" sha1="08nsm8h2t9h4ya83oak3lvpxu5vkjfr" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Dapper Sepiar
+|image        = XC3 Dapper Sepiar.png
+|caption      = Dapper Sepiar
+|type         = [[Urchon]]
+|level        = 22
+|area         = [[Rae-Bel Tableland]] ([[The Lace Subterranean]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 595
+|cp           = 520
+|sp           = 5
+|gold         = 432
+|hp           = 304,500
+|strength     = 377
+|healing      = 181
+|dexterity    = 70
+|agility      = 46
+|physdef      = 40%
+|ethdef       = 10%
+|critrate     = 18%
+|guardrate    = 20%
+}}
+'''Dapper Sepiar''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Urchon]] family, and can be found at level 22 at [[The Lace Subterranean]] in [[Rae-Bel Tableland]]. The Natural Guard [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = 50%
+|etherdebuff = 50%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Dapper sepiar location.png
+Dapper sepiar.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Urchons]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>08nsm8h2t9h4ya83oak3lvpxu5vkjfr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Darbus</title>
+    <ns>0</ns>
+    <id>117493</id>
+    <revision>
+      <id>601967</id>
+      <parentid>600719</parentid>
+      <timestamp>2023-07-22T12:20:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601967</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1054" sha1="k1lndia912k4bzhdsofpt5869twxvq1" xml:space="preserve">[[File:XC3 Slack-Jawed Zephal.png|thumb|Slack-Jawed Zephal]]
+'''Darbuses''' are a family of bipedal reptilian-like enemies in {{XC3}} and {{XC3FR|sublink}}.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Bigges Darbus]]
+* [[Lognate Darbus]]
+* [[Rabejan Darbus]]
+* [[Warriod Darbus]]
+
+=== Unique Monsters ===
+* [[Fang-King Clavein]]
+* [[Slack-Jawed Zephal]]
+
+=== Quest Exclusive Boss ===
+* [[Itiya Darbus]] (During ''[[The Big, Unseen Monster]]'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Rabejan Darbus]]
+
+=== Unique Monster ===
+* [[Gotthard, the Ethereal]] ([[Superboss]])
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Fang-King Clavein.png|Fang-King Clavein
+XC3 Itiya Darbus.png|Itiya Darbus
+GotthardTheEthereal.jpg|Gotthard, the Ethereal
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Darbuses]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Darbuses]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:XC3FR Humanoids]]
+[[Category:Darbuses]]
+[[Category:Species by Type]]</text>
+      <sha1>k1lndia912k4bzhdsofpt5869twxvq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dark Orb (XC3)</title>
+    <ns>0</ns>
+    <id>118935</id>
+    <revision>
+      <id>592749</id>
+      <parentid>592540</parentid>
+      <timestamp>2023-05-15T20:13:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1084" sha1="4i5geo88qfsl0rct1wqiuo0cnyltc2o" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Dark Orb (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Dark Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Dark Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Dark Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Dark Orbs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>4i5geo88qfsl0rct1wqiuo0cnyltc2o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Darkening Asha</title>
+    <ns>0</ns>
+    <id>119494</id>
+    <revision>
+      <id>596067</id>
+      <parentid>583285</parentid>
+      <timestamp>2023-06-16T20:19:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>596067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1573" sha1="htslwvw444i9b626k5m4x7025lwuguk" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Darkening Asha
+|image        = XC3 4 Blades in the Dark.png
+|caption      = Darkening Asha (Middle Left)
+|type         = [[Agnus Forces]]
+|level        = 65
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = After completing ''[[A Young Noble's Request]]''
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,680
+|cp           = 250
+|sp           = 5
+|gold         = 2,560
+|hp           = 972,000
+|strength     = 941
+|healing      = 3,272
+|dexterity    = 220
+|agility      = 183
+|physdef      = -15%
+|ethdef       = 25%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Darkening Asha''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. They are an [[Agnus Forces|Agnus Soldier]], and can be found at level 65 in the former&#160;[[Colony 15]] area in [[Erythia Sea]] after completing ''[[A Young Noble's Request]]''. They form the "4 Blades in the Dark" quartet with [[Fleeting Shikino]], [[Miraging Yuri]] and [[Ghosting Lulika]]. The Debuff Counter [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating them.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 25%
+|blowdown = 25%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+4 blades in the dark location.png
+4 blades in the dark asha.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>htslwvw444i9b626k5m4x7025lwuguk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Daze (XC3)</title>
+    <ns>0</ns>
+    <id>117061</id>
+    <revision>
+      <id>595485</id>
+      <parentid>585588</parentid>
+      <timestamp>2023-06-15T09:27:45Z</timestamp>
+      <contributor>
+        <username>Ridesdragons</username>
+        <id>15613341</id>
+      </contributor>
+      <minor/>
+      <comment>added master art tag to Myopic Screen for ease of reference</comment>
+      <origin>595485</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="755" sha1="grxq448m9wyq1ahx6v55x49z7b0el77" xml:space="preserve">{{for|the status in {{XC|-}}|Daze (XC1)}}
+[[File:XC3 Daze Icon.png|thumb|Daze Icon]]
+'''Daze''' is a status in {{XC3}} which stuns a target that has been inflicted with [[Topple (XC3)|Topple]]. While stunned, the target cannot dodge attacks, so attackers can hit the dazed target with 100% accuracy. Dazed enemies can be sent into the air spinning with [[Burst]] and will have [[Enraged]] effects removed (along with providing bonus item drops). 
+
+== Daze-inflicting Arts ==
+* [[Myopic Screen (XC3)|Myopic Screen]] ([[Medic Gunner]], Master Art)
+* [[Detonating Hit]] ([[Martial Artist]])
+* [[Shining Halo]] ([[Mio]], [[Ouroboros]])
+* [[Ether Collider]] ([[Eunie]], [[Ouroboros]])
+* [[Electric Skin]] ([[Soulhacker]])
+
+[[Category:XC3 Status]]
+
+{{xc3 stub}}</text>
+      <sha1>grxq448m9wyq1ahx6v55x49z7b0el77</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Death of 1,000 Cuts</title>
+    <ns>0</ns>
+    <id>117667</id>
+    <revision>
+      <id>597687</id>
+      <parentid>591880</parentid>
+      <timestamp>2023-07-01T22:11:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>597687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="543" sha1="pl8irdveeolrv59zqk8yin5lkut4c9y" xml:space="preserve">{{Infobox battle art
+|name        = Death of 1,000 Cuts
+|image       = Mio Ouroboros Chain Art Icon.png
+|who         = [[Mio]] ([[Ouroboros]])
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Greatly increases damage ratio and reduces [[Attacker]] and [[Healer]] aggro.
+|duration    = 
+}}
+'''Death of 1,000 Cuts''' is [[Mio]]'s [[Ouroboros]] [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Ouroboros Arts]]
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>pl8irdveeolrv59zqk8yin5lkut4c9y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Debria Volff</title>
+    <ns>0</ns>
+    <id>123980</id>
+    <revision>
+      <id>578743</id>
+      <parentid>559213</parentid>
+      <timestamp>2023-03-07T21:37:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>location info added</comment>
+      <origin>578743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1038" sha1="odcevdwo061u6ag1eunqa3ipot7m9r7" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Debria Volff
+|image        = 
+|caption      = Debria Volff
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Volff]]
+|level        = 31
+|area         = [[Eagus Wilderness]] ([[Piento Basin]])
+|spawntime    = During ''[[Yorde's Request]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Debria Volff''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Volff]] family, and is fought at level 31 at the [[Piento Basin]] in [[Eagus Wilderness]] during ''[[Yorde's Request]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>odcevdwo061u6ag1eunqa3ipot7m9r7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Debuff Barrier</title>
+    <ns>0</ns>
+    <id>125817</id>
+    <revision>
+      <id>587577</id>
+      <parentid>587122</parentid>
+      <timestamp>2023-05-02T12:27:36Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587577</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="731" sha1="jc43e9spz6ndj8h6dkwoly92x9p0a45" xml:space="preserve">{{Infobox XC3 Status
+|title          = Debuff Barrier
+|image          = XC3 Debuff Barrier.png
+|caption        = Nullifies set no. of enemy debuffs.
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base No. of Debuffs Blocked
+|effect-value-1 = 1
+}}
+'''Debuff Barrier''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It nullifies a number of debuffs that are applied on the affected character, after which the buff is removed.
+
+It has similar effects to the [[Debuff Immunity]] status effect in {{XC}}.
+
+==Distribution==
+===Arts===
+*[[Cure Bullet (XC3)|Cure Bullet]] ([[War Medic]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>jc43e9spz6ndj8h6dkwoly92x9p0a45</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Decoy (XC3)</title>
+    <ns>0</ns>
+    <id>125813</id>
+    <revision>
+      <id>587578</id>
+      <parentid>587121</parentid>
+      <timestamp>2023-05-02T12:28:28Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587578</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="885" sha1="chz7re1sdvyz234ogb5q673hxny7br0" xml:space="preserve">{{For|the buff in {{XCX|-}}|Decoy (XCX)}}
+{{Infobox XC3 Status
+|title          = Decoy
+|image          = XC3 Decoy.png
+|caption        = Evade attacks set no. of times.
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base No. of Attacks Evaded
+|effect-value-1 = 1
+}}
+'''Decoy''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It guarantees the affected character will evade a set number of attacks aimed at them, after which the buff is removed.
+
+== Distribution ==
+''The playable party has no means of attaining the buff outside of random methods.''
+
+=== Enemy-only Arts ===
+* Pew Pew ([[Pippito]] family)
+* Hazy Figure ([[Agnus Healer]]) &#8224;
+
+&#8224; The [[Hazy Figure]] [[Battle Arts (XC3)|Art]] used by the [[Tactician]] class does not grant Decoy.
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>chz7re1sdvyz234ogb5q673hxny7br0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Deepa Moramora</title>
+    <ns>0</ns>
+    <id>121032</id>
+    <revision>
+      <id>600364</id>
+      <parentid>559619</parentid>
+      <timestamp>2023-07-21T14:08:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */Moramora</comment>
+      <origin>600364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="832" sha1="ae2a1vc3m5cmkt87pfuja7pmpxm70kb" xml:space="preserve">{{Infobox Enemy
+|name         = Deepa Moramora
+|image        = 
+|caption      = Deepa Moramora
+|category     = Minor Enemy
+|type         = [[Moramora]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Deepa Moramoras''' are Minor Enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level ? at [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ae2a1vc3m5cmkt87pfuja7pmpxm70kb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Defenders' Gut-Check</title>
+    <ns>0</ns>
+    <id>124256</id>
+    <revision>
+      <id>576276</id>
+      <parentid>566955</parentid>
+      <timestamp>2023-02-09T13:11:13Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576276</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1426" sha1="ggf1ej0spm24xbv971jx59cgsvz6ucu" xml:space="preserve">{{Infobox quest
+|name          = Defenders' Gut-Check
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Mock battle with Levnises unfold near Colony 9! Key point is to defend allies from mighty attacks of!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|difficultyCB3 = 1
+|rewards       = 150-300 [[Noponstone]]s (Easy)&lt;br/&gt;300-600 [[Noponstone]]s (Normal)&lt;br/&gt;450-900 [[Noponstone]]s (Hard)
+}}
+'''Defenders' Gut-Check''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear A outfit for [[Noah]]. 
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 3
+|-
+| Level Restriction || Lv 20
+|}
+
+== Times ==
+{| class="xc1"
+| Rank || Time 
+|-
+| S || 3:00(Easy), 4:00(Normal), 6:30(Hard)
+|-
+|A
+|4:30(Easy), 6:00(Normal), 9:30(Hard)
+|-
+|B
+|6:00(Easy), 8:00(Normal), 12:30(Hard)
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[Avis]] x1 || 20
+|-
+| [[Equites]] x1 || 20
+|-
+| rowspan="2" | 2 || [[Sagittarius]] x1 || 22
+|-
+| [[Testudo]] x1 || 22
+|-
+| rowspan="2" | 3 || [[Ulula]] x 1|| 25
+|-
+| [[Centuris]] x1 || 25
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>ggf1ej0spm24xbv971jx59cgsvz6ucu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Defense Cuffs</title>
+    <ns>0</ns>
+    <id>118936</id>
+    <revision>
+      <id>592750</id>
+      <parentid>592412</parentid>
+      <timestamp>2023-05-15T20:13:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592750</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="90os4jw62o2iav8os52fg0f9ucyrtuz" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Defense Cuffs
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts aggro reduction by 25% when targeted by an enemy.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1330 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Defense Cuffs
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts aggro reduction by 30% when targeted by an enemy.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1330 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Defense Cuffs
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts aggro reduction by 35% when targeted by an enemy.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1330 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Defense Cuffs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>90os4jw62o2iav8os52fg0f9ucyrtuz</sha1>
+    </revision>
+  </page>
+  </mediawiki>

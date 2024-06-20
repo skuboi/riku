@@ -1,0 +1,6 @@
+Skill Name: Life-Saving Fists
+
+Class: Thaumaturge
+
+Skill Buff or Effect:  Heals self when auto-attack hits, to a maximum of 100% of Healing Power. [Rank 15 Master Skill]
+

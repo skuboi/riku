@@ -1,0 +1,6 @@
+Art Name: Advanced Cooldown
+
+Class: War Medic
+
+Effect: Field / Def. up
+

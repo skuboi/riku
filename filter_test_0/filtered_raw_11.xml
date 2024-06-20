@@ -1,0 +1,789 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Carbide Support</title>
+    <ns>0</ns>
+    <id>124392</id>
+    <revision>
+      <id>562070</id>
+      <timestamp>2022-10-20T15:03:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Carbide Support |image     =  |caption   = Boosts Agility by 35%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Red]] |sell      = [[Gold|G]] }} '''Carbide Supports''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3 stub}}  [[Category:XC3 Accessories]..."</comment>
+      <origin>562070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="556" sha1="kunt5c5131ntvf8q4d7ff84smhzi64e" xml:space="preserve">{{Infobox item
+|name      = Carbide Support
+|image     = 
+|caption   = Boosts Agility by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Carbide Supports''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>kunt5c5131ntvf8q4d7ff84smhzi64e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Carbide Temple Guard</title>
+    <ns>0</ns>
+    <id>124220</id>
+    <revision>
+      <id>561863</id>
+      <parentid>561595</parentid>
+      <timestamp>2022-10-18T19:11:49Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>561863</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" sha1="6d2h12jqd3yzew6syzbmpx101dov3e0" xml:space="preserve">{{Infobox item
+|name      = Carbide Temple Guard
+|image     = 
+|caption   = Boosts maximum HP by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Carbide Temple Guards''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>6d2h12jqd3yzew6syzbmpx101dov3e0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Carbon Gloves (XC3)</title>
+    <ns>0</ns>
+    <id>119035</id>
+    <revision>
+      <id>592729</id>
+      <parentid>592527</parentid>
+      <timestamp>2023-05-15T20:12:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1018" sha1="nsm5p92b6p81nmkcel4a2ewc236z1ga" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Carbon Gloves (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Carbon Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Carbon Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 31%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Carbon Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts Dexterity by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Carbon Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>nsm5p92b6p81nmkcel4a2ewc236z1ga</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Carrier Caterpile</title>
+    <ns>0</ns>
+    <id>123178</id>
+    <revision>
+      <id>582242</id>
+      <parentid>582239</parentid>
+      <timestamp>2023-04-09T17:18:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582242</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="957" sha1="4rdpvaw5vh7k2dl1mrmaeb9oh04ppe3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Carrier Caterpile
+|image        = Carrier Caterpile.jpg
+|caption      = Carrier Caterpile
+|category     = Normal Minor Enemy
+|type         = [[Caterpile]]
+|level        = 14 - 16
+|area         = [[Eagus Wilderness]] ([[Bennel Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Carrier Caterpiles''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Caterpile]] family, and can be found at level 14 - 16 in [[Bennel Cave]] in the [[Eagus Wilderness]].
+
+== Drops ==
+* [[Caterpile Antenna]]
+* [[Caterpile Syrup (XC3)|Caterpile Syrup]]
+
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Caterpiles]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>4rdpvaw5vh7k2dl1mrmaeb9oh04ppe3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cascade Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>118774</id>
+    <revision>
+      <id>582684</id>
+      <parentid>582683</parentid>
+      <timestamp>2023-04-12T23:30:43Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <minor/>
+      <origin>582684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="625" sha1="0mjyprfduufu5tu8j3p3o0avryecgaq" xml:space="preserve">{{Infobox location
+|name        = Cascade Ferronis Hulk
+|image       = Cascade Ferronis Hulk.jpg
+|caption     = Cascade Ferronis Hulk
+|type        = Rest Spot
+|located     = [[Great Cotte Falls]]
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Cascade Ferronis Hulk''' (Japanese: {{lang|ja|&#28381;&#38291;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Taki-ma no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}, located at [[Great Cotte Falls]]. This [[Ferronis Hulk]] is rebooted by completing ''[[The Cascade Hulk]]''. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Pentelas Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>0mjyprfduufu5tu8j3p3o0avryecgaq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Caterpile</title>
+    <ns>0</ns>
+    <id>5830</id>
+    <revision>
+      <id>601957</id>
+      <parentid>600715</parentid>
+      <timestamp>2023-07-22T12:19:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>601957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2804" sha1="2osih2fvlo4q7551vrkzdq6c771vwdo" xml:space="preserve">[[File:Cellar Bugworm.png|thumb|The Cellar Bugworm]]
+'''Caterpiles''' (Japanese: {{lang|ja|&#12461;&#12515;&#12500;&#12523;}}, ''Kyapiru'') are common caterpillar-like enemies in the {{XC|serieslink}}.
+
+== {{XC|-}} ==
+=== Normal Minor Enemies ===
+* [[Common Caterpile (normal)|Common Caterpile]]
+* [[Cute Caterpile]]
+* [[Eater Caterpile]]
+* [[Praying Caterpile]]
+* [[Royal Caterpile]]
+* [[Satorl Caterpile]]
+
+=== Story Exclusive Enemy ===
+* [[Common Caterpile (story)|Common Caterpile]]
+
+=== Unique Monsters ===
+* [[Cellar Bugworm]]
+* [[Verdant Bluchal]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Praying Caterpile]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Crawler Caterpile (XC2)|Crawler Caterpile]]
+* [[Ground Caterpile]]
+* [[Magnl Caterpile]]
+* [[Vashar Caterpile]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Bezille Caterpile]]
+* [[Garter Caterpile]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Chelta Caterpile (Dannagh Region)|Chelta Caterpile]] ([[Dannagh Region]])
+* [[Chelta Caterpile (Lasaria Region)|Chelta Caterpile]] ([[Lasaria Region]])
+* [[Dread Caterpile]]
+
+=== Quest Exclusive Enemy ===
+* [[Prado Caterpile]] (during ''[[Homegrown Inventor]]'')
+
+=== Unique Monster ===
+* [[Sleepwalker Mork]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Baccura Caterpile]]
+* [[Braying Caterpile]]
+* [[Carrier Caterpile]]
+* [[Crawler Caterpile (XC3)|Crawler Caterpile]]
+* [[Rotten Caterpile]]
+* [[Wolder Caterpile]]
+
+=== Unique Monster ===
+* [[Rambler Curalie]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Baccura Caterpile]]
+* [[Crawler Caterpile (XC3)|Crawler Caterpile]]
+* [[Larval Caterpile]]
+
+=== Unique Monster ===
+* [[Troglodyte Umir]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Caterpile.jpg
+Cute Caterpile.jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+VasharCaterpile.jpg
+Crawler Caterpile.png
+BezilleCaterpile.jpg
+Magnl Caterpile.png
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+DreadCaterpile.jpg
+Chelta.jpg
+SleepwalkerMork.jpg
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Rambler Curalie.png|Rambler Curalie
+Carrier Caterpile.jpg|Carrier Caterpile
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Baccura Caterpile FR.jpg|Baccura Caterpile
+Troglodyte Umir.jpg|Troglodyte Umir
+Larval Caterpile.jpg|Larval Caterpile
+&lt;/gallery&gt;
+
+[[de:Raup]]
+[[Category:XC Caterpiles]]
+[[Category:Bionis Life]]
+[[Category:XC Species]]
+[[Category:Insect Enemies]]
+[[Category:XCFC Species]]
+[[Category:XCFC Caterpiles]]
+[[Category:XC2 Caterpiles]]
+[[Category:XC2 Species]]
+[[Category:XC2 Insects]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Caterpiles]]
+[[Category:XC3 Caterpiles]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Caterpiles]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Caterpiles]]
+[[Category:Species by Type]]</text>
+      <sha1>2osih2fvlo4q7551vrkzdq6c771vwdo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cave Flier</title>
+    <ns>0</ns>
+    <id>121065</id>
+    <revision>
+      <id>598185</id>
+      <parentid>594369</parentid>
+      <timestamp>2023-07-04T17:10:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1598" sha1="cyfnev46buh0ps1e2j3io82p49mho0m" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Cave Flier
+|image        = Cave Flier XC3.jpg
+|caption      = Cave Flier
+|category     = Normal Minor Enemy
+|type         = [[Flier]]
+|level        = 23-24
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]&lt;br/&gt;[[Ribbi Flats]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Cave Fliers''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 23-24 in [[Dannagh Desert (XC3)|Dannagh Desert]] or at [[Ribbi Flats]] in the [[Fornis Region]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Cave Flier
+|image        = Cave Flier FR.jpg
+|caption      = Cave Flier
+|category     = Normal Minor Enemy
+|type         = [[Flier]]
+|level        = 19
+|area         = [[Yesterdale]]
+|spawntime    = Daytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Cave Fliers''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Flier]] family, and can be found at level 19 in [[Yesterdale]] during the day.
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3FR Fliers]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>cyfnev46buh0ps1e2j3io82p49mho0m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cave Skeeter (XC3)</title>
+    <ns>0</ns>
+    <id>123151</id>
+    <revision>
+      <id>596008</id>
+      <parentid>560544</parentid>
+      <timestamp>2023-06-16T19:45:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1105" sha1="e73csrxww8xwd7gwwn7svm8twqyp5c5" xml:space="preserve">{{for|the enemy in {{XC|-}}|Cave Skeeter (XC1)}}
+{{Infobox Enemy
+|name         = Cave Skeeter
+|image        = 
+|caption      = Cave Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Cave Skeeters''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Skeeter]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Skeeters]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>e73csrxww8xwd7gwwn7svm8twqyp5c5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cave Wisp</title>
+    <ns>0</ns>
+    <id>121812</id>
+    <revision>
+      <id>559599</id>
+      <parentid>546921</parentid>
+      <timestamp>2022-09-30T10:45:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559599</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="778" sha1="n60bktl64vo14jd33vzsx8vdw1j72sn" xml:space="preserve">{{Infobox Enemy
+|name         = Cave Wisp
+|image        = 
+|caption      = Cave Wisp
+|category     = Minor Enemy
+|type         = [[Wisp]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Cave Wisps''' are Minor Enemies in {{XC3}}. They are members of the [[Wisp]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Wisps]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>n60bktl64vo14jd33vzsx8vdw1j72sn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Centuris</title>
+    <ns>0</ns>
+    <id>117520</id>
+    <revision>
+      <id>595189</id>
+      <parentid>579874</parentid>
+      <timestamp>2023-06-11T15:22:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1931" sha1="cby3zbi4nesjnaz6vpdycgaot7f5txy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Centuris
+|image        = Centuris.jpg
+|caption      = Centuris
+|category     = Normal Minor Enemy
+|type         = [[Levnis]]
+|level        = 42-43
+|area         = [[Syra Hovering Reefs]]&lt;br /&gt;[[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Centurises''' are Minor Enemies in {{XC3}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 42 - 43 on the [[Syra Hovering Reefs]] and in [[Keves Castle]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Centuris
+|image        = Centuris FR.jpg
+|caption      = Centuris
+|category     = Normal Minor Enemy
+|type         = [[Levnis]]
+|level        = 39
+|area         = [[Vermilion Woods]] ([[Colony 5 Wreckage]])
+|spawntime    = After reaching the [[Black Mountains]]
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Centurises''' are Normal Minor Enemies in {{XC3FR}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 39 near the [[Colony 5 Wreckage]] in [[Vermilion Woods]] after reaching the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3FR Levnises]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>cby3zbi4nesjnaz6vpdycgaot7f5txy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ceramic Belt (XC3)</title>
+    <ns>0</ns>
+    <id>122576</id>
+    <revision>
+      <id>592730</id>
+      <parentid>592524</parentid>
+      <timestamp>2023-05-15T20:12:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="999" sha1="pamx8p4kc1d9deu6zpc63noiph8409b" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Ceramic Belt (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Ceramic Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Ceramic Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 31%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Ceramic Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts Attack by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 11,940 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Ceramic Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>pamx8p4kc1d9deu6zpc63noiph8409b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ceramic Underguard</title>
+    <ns>0</ns>
+    <id>122850</id>
+    <revision>
+      <id>566661</id>
+      <parentid>564974</parentid>
+      <timestamp>2022-11-22T10:47:21Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566661</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="986" sha1="hs23mwshw6abauktu5c4qz1mkue6w2f" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Ceramic Underguard
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Grants 90% resistance to Shackle Blocking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Ceramic Underguard
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Grants 95% resistance to Shackle Blocking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Ceramic Underguard
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Grants 100% resistance to Shackle Blocking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Ceramic Underguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>hs23mwshw6abauktu5c4qz1mkue6w2f</sha1>
+    </revision>
+  </page>
+  </mediawiki>

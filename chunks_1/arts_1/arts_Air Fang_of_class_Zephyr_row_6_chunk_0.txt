@@ -1,0 +1,6 @@
+Art Name: Air Fang
+
+Class: Zephyr
+
+Effect: Aggroed Up
+

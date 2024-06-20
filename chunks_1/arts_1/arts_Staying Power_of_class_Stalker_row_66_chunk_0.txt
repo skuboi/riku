@@ -1,0 +1,6 @@
+Art Name: Staying Power
+
+Class: Stalker
+
+Effect: Field / Art Follow-up
+

@@ -1,0 +1,6 @@
+Art Name: Moondog
+
+Class: Strategos
+
+Effect: Field / Regenerate
+

@@ -1,0 +1,6 @@
+Art Name: Jaws of Death
+
+Class: Lone Exile
+
+Effect: Atk up / Faster aggro
+

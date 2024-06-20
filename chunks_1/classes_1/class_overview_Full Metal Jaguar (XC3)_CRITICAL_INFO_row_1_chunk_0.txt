@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Full Metal Jaguar (XC3)
+
+Overview: Full Metal Jaguars specialize in attacking enemies in a wide area with twin guns. Consecutive hits deal increasing damage, however, a missed attack will reset the bonus so a high accuracy is needed to use the class effectively. It is Gray's class.
+
+It is unlocked by completing the Hero Quest A Gray Matter. The Class Rank maximum can be increased to 20 by completing the Ascension Quest Payback for Treason.
+
+Arts: {'Violent Streak': 'AOE/Evade/Pierce', 'Demolition': 'AOE/Pierce(%) (Rank 1 Master Art)', 'Dead Set': 'Removes aggro', 'Quickdraw': 'Evade / Front atk ↑ (Rank 10 Master Art)', 'Fatal Barrage': 'AOE / Back attack ↑', 'Superstorm': 'High acc. / Eva. down'}
+
+Class Skills: {'Bullet Symphony': 'Each attack that hits boosts damage dealt by 10-20% (max. 255%). Missing cancels the boost.', 'Shock Shot': 'Boosts damage against enemies performing Arts by 60-100%. (Rank 15 Master Skill)', 'Sixth Sense': 'Boosts accuracy against enemies performing Arts by 60-100%.', 'Positioning Pro': 'Increases the no. of positional arts that can be set to the Arts Palette by 1. (Rank 5 Master Skill)'}
+
+Hero Exclusive Arts: nan
+

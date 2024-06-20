@@ -1,0 +1,6 @@
+Skill Name: Wheel of Rebirth 
+
+Class: Thaumaturge
+
+Skill Buff or Effect:  Heals all allies using 900% of Healing Power when executing a Burst.
+

@@ -1,0 +1,450 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Four Devas</title>
+    <ns>0</ns>
+    <id>124274</id>
+    <revision>
+      <id>576287</id>
+      <parentid>562921</parentid>
+      <timestamp>2023-02-09T13:14:43Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576287</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1485" sha1="gu0b077zt6da8yn6cvg70c25xihnioe" xml:space="preserve">{{Infobox quest
+|name          = The Four Devas
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Apex of pinnacle of strongest foes in all of Aionios... Is ultimate challenge! Archsage shaking out of control...!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main Story completed
+|difficultyCB3 = 5
+|rewards       = 1800-2500 [[Noponstone]]s (Easy) &lt;br&gt;3600-5000 [[Noponstone]]s (Normal)&lt;br&gt;5400-7500 [[Noponstone]]s (Hard)
+}}
+'''The Four Devas''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will reward the player with an [[Accomplished Ring]].
+
+== Challenge Rules ==
+{| class="xc1"
+|Waves||4
+|-
+|Level Restriction||Lv 99
+|-
+|Other Rules||In this challenge, new waves will begin over time or when one enemy remains.
+|}
+
+== Enemies ==
+{| class="xc1"
+!Wave
+!Enemy
+!Level
+|-
+| 1 || [[Kilocorn Grandeps]] || 150
+|-
+| 2 || [[Perilwing Ryuho]] || 160
+|-
+| 3 || [[Dreadwyrm Nizoont]] || 170
+|-
+| 4 || [[Seraphic Ceratinia]] || 200
+|}
+
+== Trivia ==
+*"The Four Devas" is a common alternate translation of the [https://en.wikipedia.org/wiki/Four_Heavenly_Kings Four Heavenly Kings] of Buddhist religion.
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>gu0b077zt6da8yn6cvg70c25xihnioe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Indomitable</title>
+    <ns>0</ns>
+    <id>124390</id>
+    <revision>
+      <id>591902</id>
+      <parentid>581011</parentid>
+      <timestamp>2023-05-14T14:36:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591902</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="609" sha1="89uky0d63tjh9x7bom9rtkmfpno1rru" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = The Indomitable
+|image       = Strm order thumb017 0.png
+|who         = [[Cammuravi]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Increases damage ratio by 100-200 percentage points and grants Attack Up to all allies.
+|duration    = 
+|recharge    = 
+}}
+'''The Indomitable''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Cammuravi]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>89uky0d63tjh9x7bom9rtkmfpno1rru</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Kind Right Hand</title>
+    <ns>0</ns>
+    <id>120391</id>
+    <revision>
+      <id>595886</id>
+      <parentid>578852</parentid>
+      <timestamp>2023-06-16T16:01:30Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>link</comment>
+      <origin>595886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1416" sha1="l1xdp6tg9278m5fni3gvrdsafgigjs5" xml:space="preserve">{{Infobox quest
+|name        = The Kind Right Hand
+|image       = The Kind Right Hand.jpg 
+|description = "After climbing up a cliff that continues on to the Great Sword, the party fends off a Levnis-backed force."
+|giver       = 
+|location    = [[Ribbi Flats]] ([[Precipice of Judgment]])
+|time        = Story
+|prereqs     = 
+|reclevel    = Lv. 20
+|rewards     = 400 [[Colony 30]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;1160 [[Experience Points (XC3)|EXP]]&lt;br/&gt;1410 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Valdi]] as a [[Hero]]&lt;br/&gt;Wall Climbing as a [[Traversal Skill]]
+}}
+'''The Kind Right Hand''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Valdi]]. This quest is required to progress the story.
+
+== Objectives ==
+# ''Defeat the specified foe(s).''
+#* [[Strange Keves Soldier]]
+#* [[Velites]]
+#* [[Equites]]
+# ''Collect the specified thing(s).''
+#* [[Levnis Endoskeleton]] (1)
+#* [[Levnis Self-Charger]] (1)
+#* [[Levnis Auxiliary CPU]] (1)
+# ''Head for the specified location(s).''
+#* [[Elsie's Spout]]
+# ''Follow the specified character(s).''
+#* Valdi's [[Mechafriend|Mini-Levnis]]
+# ''Defeat the specified foe(s).''
+#* [[Incomplete Siege-Lev]]
+
+== Results ==
+''"With the [[Colony 30]] [[Flame Clock]] destroyed, Valdi fight to protect everyone began in earnest. He also vowed to help you, his new friends."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Valdi]]
+[[Category:Fornis Region Quests]]</text>
+      <sha1>l1xdp6tg9278m5fni3gvrdsafgigjs5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Tirking</title>
+    <ns>0</ns>
+    <id>123769</id>
+    <revision>
+      <id>577019</id>
+      <parentid>559326</parentid>
+      <timestamp>2023-02-15T22:42:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>577019</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1536" sha1="dz6fvjgsz7i5l0u2k1fkxzq7nz7g7ok" xml:space="preserve">{{Infobox NPC
+|name        = The Tirking
+|image       = Strm npc 140 0.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Tirkin]]
+|age         = 30
+|location    = [[High Maktha Wildwood]] ([[The Tirkinhold]])
+}}
+'''The Tirking''' is an NPC in {{XC3}} who can be found in [[The Tirkinhold]] at [[High Maktha Wildwood]]. He is the leader of the [[Tirkin]]s in [[Maktha Wildwood]].  
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = The Tirking
+|image        = 
+|caption      = The Tirking
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Tirkin]]
+|level        = 58
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = During ''[[The Hunt of Plenty]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''The Tirking''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a member of the [[Tirkin]] family, and is fought at level 58 in [[Low Maktha Wildwood]] during ''[[The Hunt of Plenty]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Tirkins]]
+[[Category:Pentelas Region NPCs]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>dz6fvjgsz7i5l0u2k1fkxzq7nz7g7ok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Two Saviors</title>
+    <ns>0</ns>
+    <id>126563</id>
+    <revision>
+      <id>590730</id>
+      <parentid>589702</parentid>
+      <timestamp>2023-05-09T18:59:53Z</timestamp>
+      <contributor>
+        <username>Gilgameshkun</username>
+        <id>995426</id>
+      </contributor>
+      <minor/>
+      <origin>590730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1459" sha1="ek11hrqh5056xmwkjqy926oi21avwqj" xml:space="preserve">{{Infobox quest
+|name          = The Two Saviors
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Here is ace from sleeve of Archsage: battle against two heroes of legend! Careful when to attack and defend!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main game and {{XC3FR|sublink}} completed
+|difficultyCB3 = 4
+|rewards       = 1050-1500 [[Noponstone]]s (Easy) &lt;br/&gt; [[Noponstone]]s (Normal)&lt;br/&gt; [[Noponstone]]s (Hard)
+}}
+'''The Two Saviors''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be accepted from the [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will reward the player with an [[Accomplished Earring]], while the first time completing it with any rank will unlock [[Shulk]] and [[Rex]] as [[Hero]]es in the main game.
+
+During this challenge, "[[Battle!!]]" from {{XC2}} plays.
+
+== Challenge Rules ==
+{| class="xc1"
+|Waves||1
+|-
+|Level Restriction||Lv 70
+|-
+|Other Rules||In this challenge, you will not be able to use Chain Attacks.
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[Shulk#Challenge Battle|Godcleaver Shulk]] || 80
+|-
+| [[Rex#Challenge Battle|Stoutheart Rex]] || 80
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>ek11hrqh5056xmwkjqy926oi21avwqj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Wrath of Ashera</title>
+    <ns>0</ns>
+    <id>120398</id>
+    <revision>
+      <id>578851</id>
+      <parentid>577167</parentid>
+      <timestamp>2023-03-08T21:57:49Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>578851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1631" sha1="1y6xdsnjiur8uf08h11cnxqd45xas1g" xml:space="preserve">{{Infobox quest
+|name        = The Wrath of Ashera
+|image       =The Wrath of Ashera.jpg 
+|description = "The commander of Colony 11, Ashera, invites the party to join her on her personal battlefield. They're not very excited about what's to come..."
+|giver       = [[Ashera]]
+|location    = [[Syra Hovering Reefs]]
+|time        = 
+|prereqs     = 
+|reclevel    = Lv. 36
+|rewards     = 400 [[Colony 11]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;2320 [[Experience Points (XC3)|EXP]]&lt;br/&gt;2480 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Ashera]] as a [[Hero]]
+}}
+'''The Wrath of Ashera''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Ashera]].
+
+== Objectives ==
+# ''Defeat the specified foe(s).''
+#* 7th [[Levnis]] Troop (7)
+#** [[Velites]] (3)
+#** [[Keves Sniper]] (2)
+#** [[Keves Trooper]] (2)
+# ''Head for the specified location(s).''
+#* [[Ashera]] at [[First Ixia Bridge]]
+# ''Defeat the specified foe(s).''
+#* Team Zoren (10)
+#** [[Zoren#Battle|Spearhead Zoren]]
+# ''Defeat the specified foe(s).''
+#* Team Easel (10)
+#** [[Easel#Battle|Fellplume Easel]]
+# ''Defeat the specified foe(s).''
+#* Team Clad (10)
+#** [[Clad#Battle|Tenacious Clad]]
+# ''Head for the specified location(s).''
+#* [[Colony 11]]
+# ''Defeat the specified foe(s).''
+#* R's Executioners (7)
+#** [[R#Battle|Moebius R]]
+# ''Head for the specified location(s).''
+#* Ashera at Colony 11
+
+== Results ==
+''"The party puts an end to the fight with Colony 11, but having learned the reason why Ashera fights as she does, Eunie anticipates further trouble ahead..."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Ashera]]
+[[Category:Keves Castle Region Quests]]</text>
+      <sha1>1y6xdsnjiur8uf08h11cnxqd45xas1g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Thermo Headgear</title>
+    <ns>0</ns>
+    <id>119018</id>
+    <revision>
+      <id>592885</id>
+      <parentid>592274</parentid>
+      <timestamp>2023-05-15T20:20:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1029" sha1="6d0xyr6ydrij56ir38mcep9ds493pa8" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Thermo Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 15 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Thermo Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 16 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Thermo Headgear
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Critical Rate by 17 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Thermo Headgears''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>6d0xyr6ydrij56ir38mcep9ds493pa8</sha1>
+    </revision>
+  </page>
+  </mediawiki>

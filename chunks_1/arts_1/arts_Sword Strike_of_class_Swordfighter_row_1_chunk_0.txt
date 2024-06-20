@@ -1,0 +1,6 @@
+Art Name: Sword Strike
+
+Class: Swordfighter
+
+Effect: Side Break
+

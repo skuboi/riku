@@ -1,0 +1,6 @@
+Art Name: Blessed Edge
+
+Class: Lapidarist
+
+Effect: Area heal on hit
+

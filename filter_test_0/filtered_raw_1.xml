@@ -1,0 +1,1328 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Accuracy Down</title>
+    <ns>0</ns>
+    <id>125907</id>
+    <revision>
+      <id>588243</id>
+      <parentid>580501</parentid>
+      <timestamp>2023-05-03T06:30:35Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>588243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="988" sha1="bkuga83bv771qh4h3uymzrvkcs9shq1" xml:space="preserve">{{Infobox XC3 Status
+|title          = Accuracy Down
+|caption        = Reduces Accuracy.
+|image          = XC3 Accuracy Down.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = Yes
+|effect-title-1 = Base Accuracy Decrease
+|effect-value-1 = 25%
+}}
+'''Accuracy Down''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It reduces the affected character's accuracy.
+==Distribution==
+===Arts===
+*[[Ether Cannon (XC3)|Ether Cannon]] ([[Medic Gunner]])
+*[[Water Jet]] ([[Soulhacker]]; requires Soul Hacking [[Wraithfin Segna]])
+*[[Hypno-Light]] (Soulhacker; requires Soul Hacking [[Heretical Saurow]], only applied on hit)
+*[[Night Breaker (XC3)|Night Breaker]] ([[Noah]] with [[Unlimited Sword]] in a [[Healer]] role)
+*[[Raptor Raid (XC3)|Raptor Raid]] ([[Eunie]]'s [[Ouroboros]])
+*[[Hot Cuisine]] ([[Riku &amp; Manana]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>bkuga83bv771qh4h3uymzrvkcs9shq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accuracy Up (XC3)</title>
+    <ns>0</ns>
+    <id>125742</id>
+    <revision>
+      <id>587587</id>
+      <parentid>587111</parentid>
+      <timestamp>2023-05-02T12:37:43Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587587</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="772" sha1="13ha7ygrar9le427ix7vx6rnijobvcb" xml:space="preserve">{{For|uses in {{XC2|-}}|Accuracy Up (XC2)}}
+{{Infobox XC3 Status
+|title          = Accuracy Up
+|image          = XC3 Accuracy Up.png
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Accuracy Boost
+|effect-value-1 = 25%
+}}
+'''Accuracy Up''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It improves the user's accuracy multiplicatively (note that accuracy is capped at 97% for any individual hit, barring the use of [[Chaotic Memory]] that can bypass the accuracy check under specific conditions).
+
+==Distribution==
+===Arts===
+*[[Dead Set]] ({{Link noparens|Full Metal Jaguar (XC3)}})
+*[[Driving Bullet]] ([[Sharpshooter]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>13ha7ygrar9le427ix7vx6rnijobvcb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Accurate Grace</title>
+    <ns>0</ns>
+    <id>118889</id>
+    <revision>
+      <id>595270</id>
+      <parentid>595259</parentid>
+      <timestamp>2023-06-11T16:36:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6346" sha1="gcbzlxujhr6hdx0271ck1wai0oqg30b" xml:space="preserve">{{Infobox Gem
+| name     = Accurate Grace
+| image    = Gem-attacker.png
+| effect   = [Passive] Increases Dexterity by ''(value)''.
+| category = Attacker
+| max      = 45
+}}
+'''Accurate Grace''' is an Attacker [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Dexterity Increase
+|-
+!I
+|20
+|-
+!II
+|22
+|-
+!III
+|25
+|-
+!IV
+|27
+|-
+!V
+|30
+|-
+!VI
+|33
+|-
+!VII
+|35
+|-
+!VIII
+|37
+|-
+! IX
+|40
+|-
+!X
+|45
+|}
+
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="sortable xc1 centered" width=100%
+! Name !!Ingredients
+! Rarity !!Coin Cost
+|-
+|Accurate Grace  I
+|[[Gemstone]]&lt;br /&gt;[[Slender Flamii Bone]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Accurate Grace II
+| Gemstone&lt;br /&gt;[[Ropl Rock Fragment]]&lt;br /&gt;[[Aspar Eyeball]]&lt;br /&gt;[[Ether Penguin Fossil]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Accurate Grace III
+|Gemstone&lt;br /&gt;[[Full-Bodied Ardun Meat]]&lt;br /&gt;[[Caterpile Antenna]]&lt;br /&gt;[[Moramora Bezoar]]&lt;br /&gt;[[Jagron Fossil]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Accurate Grace IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Tirkin Seasoning]]&lt;br /&gt;[[Rhogul Axe Crest (XC3)|Rhogul Axe Crest]]&lt;br /&gt;[[Ottil's Clambreaking Stone]]&lt;br /&gt;[[Mudclam]]&lt;br /&gt;Ether Cylinder 
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Accurate Grace V 
+|Pure Gemstone&lt;br /&gt;[[Ekidno Tail]] x 2&lt;br /&gt;[[Circular Speculatos Blade]] x 2&lt;br /&gt;[[Arachno Thread]] x 2&lt;br /&gt;[[Silent Wood (XC3)|Silent Wood]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+| Accurate Grace VI
+|Pure Gemstone&lt;br /&gt;[[Quality Red Krodlax Meat]] x 2&lt;br /&gt;[[Volffskin]] x 2&lt;br /&gt;[[Avis Sphere]] x 2&lt;br /&gt;[[Thinskin]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Accurate Grace VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Flak Simple Eye]] x 2&lt;br /&gt;[[Myoot Beak]] x 2&lt;br /&gt;[[Taos Wingtip]] x 3&lt;br /&gt;[[Shoox Earplate]] x 3&lt;br /&gt;[[Obsidian Berry]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Accurate Grace VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Krammit Device Fragment]] x 15&lt;br /&gt;[[Variable Centuris Claw]] x 15&lt;br /&gt;[[Antol Queen Compound Eye]] x 15&lt;br /&gt;[[Vokooku Backbone]] x 15&lt;br /&gt;[[Empress Lettuce]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Accurate Grace IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Centuris Legs]] x 20&lt;br /&gt;[[Refreshing Piranhax Meat]] x 20&lt;br /&gt;[[Elegant Ravoon Horn]] x 20&lt;br /&gt;[[Spiky Pagul Shell]] x 20&lt;br /&gt;[[Missing Tree (XC3)|Missing Tree]] x 10&lt;br /&gt;Ether Cylinder x 3 
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Accurate Grace X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Ulula Metal Fist]] x 30&lt;br /&gt;[[Piercing Rhogul Quill]] x 30&lt;br /&gt;[[Soft-Shelled Aligo Egg]] x 30&lt;br /&gt;[[Armored Plambus Wing]] x 30&lt;br /&gt;Centuris Legs x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Accurate Grace I
+| [[Gemstone]]&lt;br /&gt;[[Quadwing's Indulgence]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Accurate Grace II
+| Gemstone&lt;br /&gt;[[Aromatic Anlood Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Accurate Grace III
+| [[Pure Gemstone]]&lt;br /&gt;[[Vang Membrane]] x2&lt;br /&gt;Vang Membrane
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Accurate Grace IV
+| Pure Gemstone&lt;br /&gt;[[Luminescent Laia Fin]] x2&lt;br /&gt;[[Testudo Shoulder Gun]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Accurate Grace V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Great Feris Horn Pair]]&lt;br&gt;Aromatic Anlood Meat x2&lt;br&gt;Aromatic Anlood Meat x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>gcbzlxujhr6hdx0271ck1wai0oqg30b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Activity Amulet (XC3)</title>
+    <ns>0</ns>
+    <id>122598</id>
+    <revision>
+      <id>592696</id>
+      <parentid>592566</parentid>
+      <timestamp>2023-05-15T20:09:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1072" sha1="7f8gjlzufv5pt235hv53u9q261hu5jp" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Activity Amulet (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Activity Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Restores 2.5% of HP when a buff is applied.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Activity Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Restores 3% of HP when a buff is applied.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Activity Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Restores 3.5% of HP when a buff is applied.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Activity Amulets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>7f8gjlzufv5pt235hv53u9q261hu5jp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Adamantine Gauntlet</title>
+    <ns>0</ns>
+    <id>122582</id>
+    <revision>
+      <id>592697</id>
+      <parentid>592315</parentid>
+      <timestamp>2023-05-15T20:09:31Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592697</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1087" sha1="o4lhnx6wxsv6804ih8sa6zoeriplssc" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Adamantine Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10690 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Adamantine Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10690 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Adamantine Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 24%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10690 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Adamantine Gauntlets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>o4lhnx6wxsv6804ih8sa6zoeriplssc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aegis</title>
+    <ns>0</ns>
+    <id>71698</id>
+    <revision>
+      <id>603242</id>
+      <parentid>603172</parentid>
+      <timestamp>2023-07-24T22:50:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>603242</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22237" sha1="mrbk3li40j50ne3dd2y80gpwo99o3k7" xml:space="preserve">{{spoiler}}
+[[File:MalosMythraCores.png|thumb|240px|The Aegises Logos and Pneuma, the two remaining Trinity Processor cores]]
+The '''Aegises''' ({{lang|ja|&#22825;&#12398;&#32854;&#26479;}}, ''Ten no seihai'', lit. ''Heavenly Holy Grail'') are legendary [[Blade (XC2)|Blades]] in {{XC2}} and {{TTGC|sublink}}.
+
+== Characteristics ==
+Aegises are Blades born from the [[Core Crystal|cores]] of the [[Trinity Processor]]. The existence and power of the Aegises form the basis of the story.
+
+They bear Core Crystals similar in shape to the [[Conduit]], from which they draw their powers, though [[Mythra]] and [[Malos]] have different abilities. Mythra's abilities include foresight, while Malos can destroy matter. In her ascended state, Mythra is also capable of light speed travel. When using their full power, Aegises are able to rewrite the physical rules of their surroundings
+
+The shape of an Aegis' sword varies; Malos' resembles a [[Monado]], while [[Pneuma]]'s, Mythra's, and [[Pyra]]'s swords do not, although Pneuma's has a ring at the base of the blade, similar in design to a Monado and named Aegises. 
+
+Aegises do not follow many of the same rules as Blades awoken from normal Core Crystals. For example, they can live after their [[Driver]]'s death, while other Blades are reverted to their Cores. Aegises can also resonate with Blades of their own, as seen when Malos fights alongside [[Sever]]. An Aegis' Core Crystal also contains information about every living being's genetic code, which may explain why they can act as Drivers. 
+
+Aegises also exhibit a degree of control over the [[Artifice]]s; [[Amalthus]] refers to the Artifices as "servants of the Aegis." Mythra is able to control her own Artifice, [[Siren]], and during the [[Aegis War]], Malos commanded hundreds of Artifices, including one similar to Siren. Both are able to activate and control [[Artifice Aion]], though neither can control [[Artifice Ophion]] without the use of the [[Omega Fetter]].
+
+== Story ==
+{{main|Xenoblade Chronicles 2 (plot)}}
+=== Creation ===
+[[File:Trinity Processor.jpg|thumb|The cores of the Trinity Processor]]
+The Core Crystals that came to be known as the Aegises originated as the cores of the Trinity Processor, a powerful computer aboard the [[First Low Orbit Station]], Rhadamanthus, known as [[Ontos]], [[Logos]], and Pneuma. When [[Klaus]] activated the Conduit, the world was split in two, resulting in the creation of the world of [[Alrest]] and the world of the [[Bionis]] and [[Mechonis]]. Filled with guilt over his actions, Klaus began attempting to restore the world of, creating brand new life, and eventually becoming known by the people of Alrest as the [[Architect]]. When creating the Blades, the Architect planned to repurpose the three cores of the Trinity Processor with the task of relaying information to and from the Blades to help them adapt; however, as Ontos previously disappeared when the Conduit was activated, only Logos and Pneuma were left to monitor the Blades. All data collected by the Aegises are passed onto the Architect.
+
+=== Aegis War ===
+{{main|Aegis War}}
+Eons later, Amalthus, an [[Indoline]] who was disgusted by the world and the people who inhabit it, climbed the [[World Tree]] in hopes of finding the Architect. When he reached the top, he found [[Elysium]] empty, save the two cores of the Trinity Processor. He took them back to Alrest with him as proof that he reached Elysium. Once he returned, Amalthus awakened Logos, who became known as Malos. Inundated with Amalthus' hatred for the world, Malos developed similar sentiments and promptly began an assault on the world of Alrest under the guise of serving the Architect's will. Malos adopted the title of "the Aegis" for himself from an Indoline artifact said to embody the Architect's light.
+
+[[File:Mythra vs Malos.png|thumb|left|Mythra fights Malos]]
+Malos soon separated himself from Amalthus, no longer bound to him like most Blades were to their Drivers. In response, Amalthus searched the world for someone who could awaken Pneuma to counter Malos. While Prince [[Zettar]] of the [[Kingdom of Torna]] tried and failed to resonate with the core, his nephew [[Addam]] successfully awakened Pneuma, who took on a weaker form called Mythra. With both Mythra's aid and the recruitment of many other people from around Alrest, such as [[Lora]] and her Blade [[Jin]], Addam led a campaign against Malos that would later be known as the [[Aegis War]]. Though Mythra eventually defeated Malos, the world of Alrest suffered immense casualties, as three [[Titan]]s, including Torna and [[Coeia]], were killed in the process. In her anguish and despair after accidentally killing the Tornan Titan, Mythra created her alternate personality and "sister" Pyra before sealing herself away, while Addam plunged Pyra deep into the [[Cloud Sea]] until someone worthy of her power appeared.
+
+Amalthus, now Praetor of the [[Indoline Praetorium]] and unaware of Addam and Mythra's whereabouts, laid waste to the remaining [[Tornan]]s on [[Spessia]] in an effort to destroy the remaining Aegis out of fear of her power. The casualties included Lora, who was "eaten" by Jin; this made him a [[Flesh Eater]] and allowed the two a chance to stay together.
+
+[[File:MalosBurn.png|thumb|right|Malos burns]]
+Malos was assumed to have been slain by Mythra in a sea of fire during the war, though he managed to survive, albeit with significant damage to his Core Crystal. This damage caused him to lose many of his Aegis powers. Approximately five hundred years after the Aegis War, Malos returns to Alrest and finds a desolate Jin, now having a similar view of humanity as Malos, in a city during a heavy downpour, and the two decide to join together.
+
+=== Reawakening of the Aegis ===
+[[File:PyraSealed.png|thumb|left|Pyra sealed in the ancient ship]]
+Five hundred years after the Aegis War, the terrorist organization known as [[Torna (Organization)|Torna]], led by Malos and Jin, approaches [[Bana (XC2)|Chairman Bana]] of the [[Argentum Trade Guild]] in need of a [[Leftherian]] salvager for a high-paying job. [[Rex]] ultimately accepts the offer, and he helps bring up an [[Ancient Ship]]. Locked behind a seal that only a Leftherian can open is Pyra. Although Torna seeks Pyra for their own reasons, Rex inadvertently touches Pyra's sword, becoming her Driver, and is slain by Jin in response. Meeting in Pyra's dream of Elysium, Pyra offers to revive Rex by giving him half of her Core Crystal in exchange for him taking her to the real Elysium. Once Rex is revived, the two combat Malos and eventually escape. Rex slowly begins to learn bits and pieces of Pyra's past. Throughout their journeys, Rex and company encounter many who wish to either use Pyra's power for themselves, such as [[Dughall]], or destroy her altogether, such as King [[Eulogimenos]].
+
+=== Mythra Returns ===
+[[File:PyraTransform.png|thumb|Pyra transforming to Mythra in Olethro Ruins]]
+Malos, alongside [[Akhos]], meets [[Minoth|Cole]] in [[Fonsa Myma]] and offers him a way to rejuvenate his life force, but at a cost. Cole refuses, though his granddaughter [[Iona]] follows Malos and asks him to help. He then talks to Pyra in a dream in Elysium and reveals that to save Iona, she must come to the [[Olethro Playhouse]] alone. The party wakes up in the middle of the night and follows Pyra to the playhouse. [[Vandham (XC2)|Vandham]] sacrifices himself to allow Rex and Pyra to escape, though Rex refuses to let Vandham die in vain. In a last ditch effort, Mythra then awakens and uses Siren's power to destroy Akhos' and Malos' Blades. Malos then uses his remaining Aegis powers to escape the playhouse.
+
+The next day, Pyra reveals to the party that Malos is an Aegis as well and tells them about the Aegis War. Their quest to climb the World Tree and reach [[Elysium]] eventually sees them working with Amalthus once more, who supports Rex on his quest to save Alrest, though his motives seem somewhat unclear. Mythra states that Amalthus still hasn't gained her trust. After [[Haze|Fan la Norne]]'s death, Malos begins to question whether his hatred for the world is truly his own or someone else's.
+
+=== Taking of Pyra ===
+[[File:PyraBeam.png|thumb|left|Pyra uses Siren's targeting beam]]
+Rex and company then journey to [[Kingdom of Tantal|Tantal]], where the [[Omega Fetter]] is being kept. The Fetter can be used to control Ophion and potentially open the path to the World Tree. After Rex and company acquire the Omega Fetter, Torna intercepts them at [[Genbu Crown]], and Jin unleashes his true power and easily defeats Rex and Mythra. Before Jin is able to remove Rex's portion of the Aegis Core Crystal from his chest, Pyra threatens to kill herself using Siren's targeting ray if Jin kills him. Jin draws his sword, and Pyra willingly gives herself and the Omega Fetter over to Torna, much to the party's objection.
+
+[[File:MalosPyra.png|thumb|right|Malos steals Pyra's data]]
+On board the Marsanes, Malos tells Akhos that an Aegis Core contains data on all existing life forms; it is for this reason that Pyra gave up half of her Core to heal Rex's heart. He also reveals that Aegises can exist for a short time without their Cores, and that she likely would've given her full Core to Rex before having Siren kill her. Malos and Jin later take Pyra to the Cliffs of Morytha, where he begins stealing data from her Core to repair his own; in the process, he learns about Artifice Aion's existence. They also are able to use the Omega Fetter and make Ophion fall under their command.
+
+=== The Third Aegis Sword ===
+After the battle, King Eulogimenos calls in Rex to his [[Royal Audience Hall]] to inform him of a Tantalese legend. In a book recording the deeds of Addam, a third Aegis sword is mentioned. Addam himself was unable to control its power and thus sealed it away in an unknown location. [[Azurda]] leads Rex and the party back to [[Fonsett Village]], where he reveals that the Village was founded by Addam; Azurda was tasked with guarding the village, which holds the entrance to [[Spirit Crucible Elpys]], the location of the third Aegis Sword.
+
+[[File:AddamPyraSword.png|thumb|left|Addam and Pyra sealing the third sword]]
+The party ventures deeper inside Elpys, despite the powers of their Blades being weakened. At the [[Vault of Heroes]], they confront an endless wave of [[Phantasm|apparitions]] that take the form of Addam. After seeing Rex's pure motives, Addam speaks to him in a dream in the fields of Elysium, telling him that to be the true driver of the Aegis, he must take on all of her burdens. The third sword is presented to Rex, though it soon disappears from his hand.
+
+=== Confrontation at Morytha ===
+The group travels to the [[Cliffs of Morytha]], where Pyra is being kept. They soon run into Malos, who siphoned Pyra's Core Crystal to repair his damaged Core Crystal, stealing her memories in the process. Now having all of his Aegis Powers once again, he challenges the party to a battle with a Monado-like sword but is temporarily subdued by [[Nia]].
+
+[[File:PneumaAwaken.png|thumb|right|Pneuma awakens]]
+The party meets Jin and Malos again at the [[Gotrock Oracle Ruins]], where Malos hands over Pyra's seemingly lifeless corpse. During the battle against the two, Pyra and Mythra ask Rex to move on, believing Alrest would be better off without their dangerous powers. They also reveal their reason to reach Elysium: to beg the Architect for death. Rex refuses to break his promise and reassures them that together, they can find their place in the world. This causes him to become the Master Driver and summon the third Aegis Sword. Pyra reawakens and takes on a new form with long, green hair and a silver outfit, and has the Greek word "[[Pneuma#Etymology|&#960;&#957;&#949;&#8166;&#956;&#945;]]" written on her chest; she gives Rex a similar outfit. With this new power, they easily defeat Jin and Malos.
+
+Malos then reveals his true motives: by climbing the World Tree, he can kill the Architect and use Artifice Aion to destroy the world, claiming it to be an Aegis' responsibility to do so. Using the Omega Fetter, he commands Ophion to attack the party; Pyra summons Siren, and a brief skirmish between the two destroys the ruins, causing the party and Jin to fall down below. After landing in the [[Land of Morytha]], Mythra assumes her ascended state in order to heal Jin. While traveling through Morytha, Jin reveals Torna's and Amalthus' pasts.
+
+=== Climbing the World Tree ===
+[[File:MalosJin.png|thumb|left|Malos bids Jin goodbye]]
+Malos and the rest of Torna pilot the [[Marsanes]] down to the Land of Morytha and retrieve Jin, leaving the others to climb the World Tree from inside. When the party reaches the base of the World Tree, Pyra once again transforms into her ascended state and activates an elevator upward, stating it was instinctual. Jin and Malos eventually leave the Marsanes and continue climbing the World Tree as the remaining members of Torna fight off [[Indoline Praetorium|Indol]]. Jin eventually stays behind to fight Rex while Malos continues upward.
+
+Upon reaching the exterior of the World Tree, the party witnesses Indol's attack on the Marsanes. Using Fan la Norne's core crystal which he implanted in himself, Amalthus attempts to control Mythra to summon Siren and destroy the Marsanes, though Mythra resists, stating that Rex is her true Driver. With the help of [[Poppi &#945;|Poppi]], Rex and Mythra get close to Indol, and Mythra assumes her ascended state to attack Indol's amplification towers and prevent Amalthus from controlling Blades.
+
+When reaching the [[Megrez Gateway]], the party confronts Amalthus once more, where he reaffirms that it is the Aegis' job to destroy the world. The party realizes that Malos' beliefs and hatred of the world stems from Amalthus. Jin helps the party defeat Amalthus and tells Rex to stop Malos.
+
+=== Reaching Elysium ===
+[[File:PneumaRex.png|thumb|right|Pneuma and Rex prepare to fight]]
+Malos is the first to reach Elysium and meet the Architect, who addresses him as Logos. The Architect tells Malos that he is already dying, which causes Malos to spare his life and instead activate Aion, to which the Architect doesn't object.
+
+When the party reaches Elysium, the Architect reveals his identity as Klaus and explains the creation of Alrest and the Aegises. He also reveals Pyra and Mythra's true name, Pneuma. Klaus tells the party that his [[Zanza|other half]] will soon die, causing him and the [[Conduit]], which gives the Aegises their powers, to disappear. Given new hope by the unique bond shared by Rex and Pneuma, Klaus leaves the fate of Alrest in their hands and sends them off to stop Malos and Aion.
+
+[[File:MalosDie.png|thumb||left|Malos dies]]
+The party encounters Malos at the [[Aion Hangar]], where he reveals that although he may have developed a hatred for the world from Amalthus, his beliefs were strengthened through Jin's suffering. He powers up Aion and pilots it against Rex and Pneuma as the other Artifices, under Malos' command, attack Alrest. Through [[Infinity Blade (XC2)|directing]] a beam of Siren's particle cannon into the Aegis Sword, Rex and Pneuma defeat Aion and damage Malos' Core Crystal. Malos begins to fade away and the Artifices end their assault.
+
+=== Sacrifice ===
+[[File:PyraMythraWhole.png|thumb|Pyra and Mythra become separate entities]]
+After Malos passes on, the World Tree begins to collapse due to the Conduit's disappearance. To prevent the World Tree from destroying Alrest, Pneuma stays behind to use Aion's remaining power to self-destruct and destroy the World Tree, much to Rex's objection. Pneuma gives the remaining half of her Core Crystal to Rex, and the remaining party members evacuate the World Tree while Pneuma is supposedly killed in the explosion. Before her death, Malos' voice is heard, asking her how it was being alive.
+
+After reaching the new land revealed to them by the Architect, Pneuma's Core Crystal begins to flash in Rex's hand before summoning a large pillar of light. The light fades away to reveal Pyra and Mythra, alive, now in separate bodies.
+
+=== {{XC3FR|-}} ===
+At some point, Pyra and Mythra both gave birth to children and lived in Leftheria alongside their friends.
+
+At some point after [[Z]] used [[Origin]] to create [[Aionios]], Pyra and Mythra returned to their core Crystal for unknown reasons and disappeared. Pneuma's Core Crystal was eventually used as part of the [[Blade (XC3)|Ouroboros Knuckles]] in {{XC3FR|sublink}}, a pair of gauntlets that was originally owned by [[Ghondor (FR)|Ghondor]] and passed down to [[Matthew (FR)|Matthew]]. Meanwhile, Rex began using the Firelight Swords, two swords modeled after Pyra and Mythra's Aegis Swords that can be combined into a sword resembling Pneuma's Aegis Sword. Rex's Firelight Swords are among the few weapons capable of destroying [[Ferronis]] [[Flame Clock]]s.
+
+== In {{XC3|-}} ==
+=== As a Weapon Skin ===
+In {{XC3}}, scanning Pyra and Mythra's [[amiibo]]s will unlock weapon [[Clothing|skins]] of their respective Aegis Swords for the [[Swordfighter]] [[Class (XC3)|class]]'s [[Blade (XC3)|Veiled Sword]]. The Aegis Sword skins can also be unlocked by talking with [[Miibomii]] after completing the game and meeting the conditions of finishing the party's [[Soul Tree]]s for Pyra's and [[Blade Upgrade|upgrading the blades]] of the party for Mythra's.
+
+=== Lifesage's Anima Sword ===
+[[File:Divine Sword XC3.jpg|thumb|180px|Mio wielding the water Aegis Swords]]
+When a character uses the [[Lifesage]] class during battle, watery apparitions of Pyra and Mythra's Aegis Swords will appear behind them. When using [[Divine Sword (XC3)|Divine Sword]], the user will swing both Aegis Swords at the target at the end of the [[Battle Arts (XC3)|Talent Art]].
+
+== Etymology ==
+* Its Western name likely refers to the [[wikipedia:Aegis|aegis]], the mythological shield of the God Zeus in Greek Mythology. In some traditions, the shield was made from the skin of [[wikipedia:Amalthea (mythology)|Amaltheia]] (Greek: &#7944;&#956;&#940;&#955;&#952;&#949;&#953;&#945;, ''tender goddess''), the foster-mother of Zeus, from whom the name of Amalthus may come.
+* In Eastern versions, it is named the Heavenly [[wikipedia:Holy_Grail|Holy Grail]]. The Holy Grail is an item that first received its name in [[wikipedia:Bibliography_of_King_Arthur|Arthurian literature]], though its influence comes from the Last Supper of [[wikipedia:Jesus|Jesus Christ]] and his disciples, where it was meant to symbolize shedding his blood to forgive humanity. In Arthurian tales, Jesus' sipping of the grail gave it the ability to implant immortality or healing to those who drink from it.
+
+== Trivia ==
+* The USB Deluxe Edition of the [[Xenoblade 2 Original Soundtrack]] is a gold-colored USB stick shaped like an Aegis's core crystal, inscribed with &#960;&#957;&#949;&#965;&#956;&#945; (pneuma), based on the ancient Greek word [[wiktionary:&#960;&#957;&#949;&#8166;&#956;&#945;|&#960;&#957;&#949;&#8166;&#956;&#945;]]/[[wiktionary:&#960;&#957;&#949;&#973;&#956;&#945;|&#960;&#957;&#949;&#973;&#956;&#945;]].
+* Throughout {{XC2|-}}, all but the True Aegis Sword are broken; Pyra's is broken at the Ancient Ship and reforged upon her bonding with Rex; Mythra's is broken at Genbu's Crown and is recreated with the True Aegis as the base; and Malos' is destroyed after his defeat at the Aion Hangar.
+* The ability of the Aegises to rewrite physical rules is very similar to how Alvis describes the Monado in {{XC}}, as a "sword capable of disturbing the very fabric of existence".
+{{clr}}
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC2 Pyra artwork.png|Pyra
+XC2 Mythra Artwork.png|Mythra
+Pneuma Fullbody Upscaled.png|Pneuma, the true form of Mythra and Pyra
+XC2-Metsu-artwork.png|Malos, originally Logos, the counter to Pneuma
+Xenoblade-Chronicles-2-Characters-Art.jpg|Art depicting the Aegis
+Pyra's Fighter Spirit Artwork.png|Pyra's Fighter Spirit Artwork in {{SSBU|-}}
+Mythra's Smash Bros. Ultimate Fighter Spirit Artwork.png|Mythra's Fighter Spirit Artwork in {{SSBU|-}}
+Pyra-Mythra SSBU.png|Render of Pyra and Mythra in {{SSBU|-}}
+&lt;/gallery&gt;
+
+==== Weapons ====
+&lt;gallery&gt;
+Aegis Concept Art.PNG|Concept art of Pyra's sword
+Mythra aegis.jpg|Concept art of Mythra's sword
+XC2-Promotional-Aegis-sword.jpg|A real life replica of the Aegis used in promotions for {{XC2|-}}
+XC2-Aegis-artwork.jpg|The Aegis Swords of Pyra and Mythra
+Monolith Soft Aegis Sword Art.jpg|Monolith Soft recruitment artwork of Pyra and Mythra's Aegis Swords
+Monolith Soft Pyra Aegis Sword Art.jpg|Artwork of Pyra's Aegis Sword
+Monolith Soft Mythra Aegis Sword Art.jpg|Artwork of Mythra's Aegis Sword
+XC3 Nia Artwork.png|Artwork of Nia wielding water apparitions of Pyra and Mythra's Aegis Swords alongside her Catalyst Scimitar in {{XC3|-}}
+XC3FR Rex Official Artwork.png|Artwork of Rex wielding his Firelight Swords in {{XC3FR|sub}}
+XC3 Monado REX Aegis Sword.jpeg|Artwork of Pyra's Aegis Sword alongside the [[Monado Replica EX+|Monado REX+]] and [[Lucky Seven]]
+Model Aegis.png|In-game Model of Pyra's Aegis Sword
+Model Aegis II.png|In-game Model of Mythra's Aegis Sword
+XC2 Aegis Sword icon.png|The Aegis Sword's weapon icon in {{XC2|-}}
+XC2 Aegis Sword II icon.png|The Aegis Sword's weapon icon in {{TTGC|-}}
+Master Driver Class Icon.png|The Firelight Swords' weapon icon in {{XC3FR|-}}
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+NintendoSwitch XenobladeChronicles2 scrn09 E3.png|Mythra's sword
+Third Aegis Sword.png|Pneuma's sword
+Third Aegis Sword 2.png|Pneuma's sword
+Third-Sword.JPG|Rex wielding Pneuma's sword
+XC2 Malos' weapon 2.jpg|Malos's Aegis Sword
+XC2 Malos' weapon 6.png|Malos's Aegis Sword
+XC2 Malos' weapon 8.png|Malos's Aegis Sword
+XC3 Rex Screenshot.jpg|Rex's wielding the Firelight Swords in {{XC3FR|-}}
+XC3 Pyra amiibo Aegis Sword.png|Pyra amiibo and her Aegis Sword in {{XC3|-}}
+Noah Pyra Aegis Sword.jpg|Noah wielding Pyra's Aegis Sword in {{XC3|-}}
+XC3 Mythra amiibo Aegis Sword.png|Mythra amiibo and her Aegis Sword in {{XC3|-}}
+Mio Mythra Aegis Sword.jpg|Mio wielding Mythra's Aegis Sword in {{XC3|-}}
+SSBU DLC Pyra Mythra 11.jpg|Kirby wielding Pyra and Mythra's Aegis Swords in {{SSBU|-}}
+&lt;/gallery&gt;
+
+[[es:&#201;gida]]
+
+[[Category:XC2 Weapons]]
+[[Category:XC2 Plot]]
+[[Category:XC2 Blades]]
+[[Category:TTGC Plot]]
+[[Category:XC3 Weapons]]
+[[Category:XC3FR Weapons]]
+[[Category:Trinity Processor]]</text>
+      <sha1>mrbk3li40j50ne3dd2y80gpwo99o3k7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aeing Moramora</title>
+    <ns>0</ns>
+    <id>116814</id>
+    <revision>
+      <id>600361</id>
+      <parentid>583395</parentid>
+      <timestamp>2023-07-21T14:07:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>600361</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="852" sha1="mzxmo9zpng2lqp4wz3nbw9rt3p0j8rs" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Aeing Moramora
+|image        = Aeing Moramora.jpg
+|caption      = Aeing Moramora
+|category     = Normal Minor Enemy
+|type         = [[Moramora]]
+|level        = 26
+|area         = [[Urayan Tunnels]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Aeing Moramora''' are Normal Minor enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level 26 in the [[Urayan Tunnels]] near [[Raucous Ron]].
+
+
+== Drops ==
+* [[Moramora Bezoar]]
+* [[Thick Moramora Fin]]
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mzxmo9zpng2lqp4wz3nbw9rt3p0j8rs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Affection Necklace (XC3)</title>
+    <ns>0</ns>
+    <id>118907</id>
+    <revision>
+      <id>592698</id>
+      <parentid>592560</parentid>
+      <timestamp>2023-05-15T20:09:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1295" sha1="qnet4vuzra6im61whwjebamkjsrckbd" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Affection Necklace (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Affection Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Affection Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Affection Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Affection Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be purchased at the [[Lambda Commissary]], they are one of the items that can be used to complete the mission ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>qnet4vuzra6im61whwjebamkjsrckbd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Affection Ring (XC3)</title>
+    <ns>0</ns>
+    <id>118908</id>
+    <revision>
+      <id>592699</id>
+      <parentid>592562</parentid>
+      <timestamp>2023-05-15T20:09:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592699</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1142" sha1="m4w720m68v0twmkw9b81s59d39v0bj3" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Affection Ring (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Affection Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Reduces aggro generated from healing Arts by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Affection Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Reduces aggro generated from healing Arts by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Affection Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Reduces aggro generated from healing Arts by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4840 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Affection Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They reduce aggro generated from healing arts by 30%. 
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>m4w720m68v0twmkw9b81s59d39v0bj3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ag. Skirmisher Elite</title>
+    <ns>0</ns>
+    <id>121798</id>
+    <revision>
+      <id>596035</id>
+      <parentid>580272</parentid>
+      <timestamp>2023-06-16T20:17:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596035</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1302" sha1="ot85kyw38berbt1xfn46ltkyyn70vr5" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ag. Skirmisher Elite
+|image        = 
+|caption      = Ag. Skirmisher Elite
+|category     = Minor Enemy&lt;br /&gt;[[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = ?&lt;br /&gt;80
+|area         = [[Erythia Sea]]&lt;br /&gt;[[Syra Hovering Reefs]]
+|spawntime    = Anytime&lt;br /&gt;During ''[[From Atop Her Throne]]''
+|respawn      = Yes&lt;br /&gt;No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ag. Skirmisher Elites''' are enemies in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]]. Minor Enemies can be found at level ? in [[Erythia Sea]]. The [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] can be found at level 80 in [[Syra Hovering Reefs]] during ''[[From Atop Her Throne]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ot85kyw38berbt1xfn46ltkyyn70vr5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agam Grebel (XC3)</title>
+    <ns>0</ns>
+    <id>117941</id>
+    <revision>
+      <id>584324</id>
+      <parentid>584322</parentid>
+      <timestamp>2023-04-21T01:30:44Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>584324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2972" sha1="qui81wpz7ssqrm4fye3cc1dbafeyemi" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Agam Grebel (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Agam Grebel
+|image        = Agam Grebel XC3.png
+|caption      = Agam Grebel
+|category     = Normal Enemy
+|type         = [[Grebel]]
+|movement     = Ground
+|level        = 8-12
+|area         = [[Millick Meadows]] ([[Viliera Hill (XC3)|Viliera Hill]])
+|spawntime    = Anytime
+|respawn      = Yes
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agam Grebels''' are minor enemies in {{XC3}}. They are members of the [[Grebel]] family and can be found at level 8-12 on [[Viliera Hill (XC3)|Viliera Hill]] in [[Millick Meadows]].
+
+== Drops ==
+* [[Decorative Grebel Quill]]
+* [[Grebel Carapace]]
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Agam Grebel
+|image        = 
+|caption      = Agam Grebel
+|type         = [[Grebel]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 55
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 60,336
+|strength     = 295
+|healing      = 386
+|dexterity    = 175
+|agility      = 215
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+An '''Agam Grebel''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 55 on Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+
+=== Skills ===
+The Agam Grebel has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+
+=== Resistances ===
+{{XC3 Resistances}}
+{{clr}}
+
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|80%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Stepping Stone'''
+|Physical
+|One Target
+|1
+|250%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*Topple is only inflicted if target is suffering [[Break (XC3)|Break]].
+*Damage is boosted by 200% when attacking the target from behind.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Lazy Sway'''
+|Physical
+|One Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Burrowing Rocket'''
+|Physical
+|AOE around User
+|1
+|160%
+|Break
+|style="text-align:left;"|
+*Evades enemy attacks during the Art.
+|}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qui81wpz7ssqrm4fye3cc1dbafeyemi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ageshu</title>
+    <ns>0</ns>
+    <id>12214</id>
+    <revision>
+      <id>601913</id>
+      <parentid>600684</parentid>
+      <timestamp>2023-07-22T12:17:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1833" sha1="6xgj80wuu0hn40o12zzq88ela35aypm" xml:space="preserve">[[File:Tored Ageshu.jpg|thumb|Ageshu model]]
+'''Ageshu''' (Japanese: {{lang|ja|&#12450;&#12540;&#12465;&#12471;&#12517;}}, ''&#256;keshu'') are an uncommon family of&#160;wading bird-like enemies in the {{XC|serieslink}}. They move and behave very similarly to [[Flamii]], but have a more demonic appearance.
+
+Their appearance changes little between the two games; in {{XC}} Ageshu have blue lines on their wings and in {{XC2}} and {{XC3}} they do not, but they are otherwise identical.
+
+In each game they appear, they can only be found in one locality and nowhere else.
+
+== {{XC|-}} ==
+Ageshu only appear in [[Prison Island]]. Only two types of Ageshu exist. Both have the ability to inflict [[Instant Death]] with their talent art '''Killer Snipe IV'''.
+
+=== Normal Minor Enemy ===
+* [[Tored Ageshu]]
+
+=== Unique Monster ===
+* [[Cold Ageshu]]
+
+== {{XC2|-}} ==
+Ageshu are only found on [[Temperantia]], and do not appear in any [[Quest (XC2)|Quests]] or [[Challenge Battle Mode|Challenge Battles]].
+
+=== Normal Minor Enemy ===
+* [[Vallum Ageshu]]
+
+=== Unique Monster ===
+* [[Ravenwing Skull]]
+
+== {{XC3|-}} ==
+Ageshu can only be found in [[Low Maktha Wildwood]].
+
+=== Normal Minor Enemy ===
+* [[Etrekt Ageshu]]
+
+=== Quest Exclusive Enemy ===
+* [[Alaat Ageshu]] (During ''[[Learning from Lambda]]'')
+
+=== Unique Monster ===
+* [[Spartan Fennick]]
+
+== Gallery ==
+&lt;gallery&gt;
+Cold Ageshu.png|Cold Ageshu in {{XC|-}}
+Ravenwing Skull.png|Ravenwing Skull in {{XC2|-}}
+XC3 Spartan Fennick.png|Spartan Fennick in {{XC3|-}}
+&lt;/gallery&gt;
+[[Category:XC Species]]
+[[Category:XC Ageshus]]
+[[Category:Bionis Life]]
+[[Category:Bipedal Enemies]]
+[[Category:Sight Category]]
+[[Category:XC2 Species]]
+[[Category:XC2 Ageshus]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Ageshus]]
+[[Category:XC3 Aerial Life]]
+[[Category:Ageshus]]
+[[Category:Species by Type]]</text>
+      <sha1>6xgj80wuu0hn40o12zzq88ela35aypm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aggris Grebel</title>
+    <ns>0</ns>
+    <id>123216</id>
+    <revision>
+      <id>559502</id>
+      <parentid>553546</parentid>
+      <timestamp>2022-09-30T10:41:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559502</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" sha1="nd5i8avjdco7mtwer3iv0roux83s2cj" xml:space="preserve">{{Infobox Enemy
+|name         = Aggris Grebel
+|image        = 
+|caption      = Aggris Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Aggris Grebels''' are Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>nd5i8avjdco7mtwer3iv0roux83s2cj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aggy</title>
+    <ns>0</ns>
+    <id>121904</id>
+    <revision>
+      <id>601267</id>
+      <parentid>597007</parentid>
+      <timestamp>2023-07-22T09:58:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* In-Game Renders */</comment>
+      <origin>601267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5200" sha1="0t8ij2s86twjzt8q02vjplfwdf3i2cv" xml:space="preserve">{{Spoiler}}
+{{Infobox_NPC
+|name        = Aggy
+|image       = Aggy.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[City|Citizen]]
+|age         = 22
+|location    = [[Agnus Castle Region]] ([[Ascension Grounds]])
+}}
+'''Aggy''' is a character in {{XC3}}.
+
+== Overview ==
+Aggy is a [[Lost Numbers]] soldier, subordinate of [[Ghondor]], and ally of [[Oggy]].
+
+== Story ==
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Aggy
+|image        = XC3 Aggy Battle.jpg
+|caption      = Aggy
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = 45
+|area         = [[Li Garte Prison Camp]] ([[Central Cell]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 904
+|cp           = 30
+|sp           = 0
+|gold         = 0
+|hp           = 168,200
+|strength     = 293
+|healing      = 291
+|dexterity    = 127
+|agility      = 115
+|physdef      = 10%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Aggy''' is a [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Lost Numbers (enemy)|Lost Numbers]] soldier, and is fought alongside [[Ghondor]] and [[Oggy]] at level 45 in the [[Central Cell]] of [[Li Garte Prison Camp]]. Story progression will occur regardless of the outcome of the battle.
+=== Resistances ===
+{{XC3 Resistances
+|break = 20%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 25%
+|etherdebuff = 20%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack 1--&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Auto-attack 2--&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Blue Flame Wisdom'''
+|Stance
+|Self
+| -
+| -
+|
+|style="text-align:left;"|
+*During the stance, regenerate 0.5% of HP every 3.0s and boost Art recharge speed by 100%.
+*Immune to all reactions and combos when executing Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Windguard'''
+|Physical
+|One Target
+|1
+|250%
+|[[Break (XC3)|Break]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Waterfall Irruption'''
+|Physical
+|One Target
+|1
+|200%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Celestial Spearhead'''
+|Physical
+|One Target
+|1
+|300%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Topple is only inflicted if target is suffering from Break.
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Panther's Tornado'''
+|Physical
+|Frontward AOE
+|1
+|200%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Blue Flame Spear'''
+|Physical
+|AOE around User
+|1
+|350%
+|[[Target Lock]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Aggy
+|image        = 
+|caption      = Aggy
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 65
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 583,200
+|strength     = 1,233
+|healing      = 1,227
+|dexterity    = 294
+|agility      = 231
+|physdef      = 10%
+|ethdef       = 0%
+|critrate     = 20%
+|guardrate-front = 20%
+|guardrate-side = 10%
+|guardrate-back = 0%
+}}
+Aggy is fought at level 65 alongside [[Oggy#Challenge Battle Mode|Oggy]] at Stage 40 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+=== Skills ===
+Aggy has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+* Boosts Arts recharge speed by 25%.
+=== Resistances ===
+{{XC3 Resistances
+|break = 50%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 70%
+|etherdebuff = 70%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+=== Arts ===
+Aggy uses the same Arts set as in the story boss fight.
+{{clr}}
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Aggy Oggy Ghondor Concept.png|Aggy concept art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+XC3 Aggy Icon.png|Aggy's affinity chart icon
+Aggy Guest.png|Aggy's Guest Icon
+&lt;/gallery&gt;
+{{clr}}
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:Agnus Castle Region NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Lost Numbers]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>0t8ij2s86twjzt8q02vjplfwdf3i2cv</sha1>
+    </revision>
+  </page>
+  </mediawiki>

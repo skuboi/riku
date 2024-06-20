@@ -1,0 +1,6 @@
+Art Name: Electro Field
+
+Class: Lost Vanguard
+
+Effect: Field / Armor Veil
+

@@ -1,0 +1,6 @@
+Art Name: Recharge
+
+Class: Yumsmith
+
+Effect: Field / Crit. Rate up
+

@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Lone Exile
+
+Overview:  
+Lone Exiles are aggressive Defenders whose swift, deadly slash strikes draw foes in only to mow them down, and function similarly to [[Dunban]] in that they generate aggro primarily by inflicting large amounts of burst damage. While they gain further attack boosts at low health, they lack any inherent means of enhancing their survivability, which can be an issue in prolonged battles. It is the class of [[Ashera]].
+
+It is unlocked by completing the [[Hero Quest]] ''[[The Wrath of Ashera]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 after completing the Ascension Quest ''[[A Deep-Seated Scar]]''.
+
+Arts: {'Blossom Dance': 'High aggro/Pierce', 'Demon Slayer |Demon Slayer': 'High aggro', 'Eye of the Storm': 'Block / Spike' * Gale Slash |Gale Slash, AOE / Aggroed↑ (Rank 1 Master Art) * Soaring Tempest |Soaring Tempest, Launch |Launch (Rank 10 Master Art) * Jaws of Death |Jaws of Death, Atk up / Faster aggro'}
+
+Class Skills: {'Goading Attack': 'Boosts aggro generated from dealing damage by 30-60%.', 'Natural Selection': 'Reduces damage taken by 20-30% when HP is at 30% or lower. (Rank 5 Master Skill)', 'Maniac': 'Boosts damage dealt when attacking higher-level enemies by 30-50%. (Rank 15 Master Skill)', 'Returning the Favor': 'When nearby ally is attacked, deal 100-250% of attack in damage to enemy.'}
+
+Hero Exclusive Arts: {'Inferno Wheel': 'Aggroed↑', 'Ascension Blade': '[[Launch (XC3)|Launch]]', 'Wind Sickle': 'Dmg up at low HP'}
+

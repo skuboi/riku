@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Grand Marshal
+
+Overview: Grand Marshal is [[Shulk]]'s class. As a Grand Marshal, Shulk wields his [[Monado Replica EX+|Monado REX+]] from {{XCFC}} as his [[Blade (XC3)|Blade]].
+
+After completing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]'', Shulk can use the class in the main game as a [[Hero]], but the class cannot be used by anyone else.
+
+Arts: {'Monado Buster': 'AOE/Awakening |Awakened+/Pierce', 'Stream Edge': 'Break |Break', 'Heavy Rush': 'Awakened Boost', 'Slit Edge': 'AOE/Bleed |Bleed', 'Monado Rage': 'Target Lock', 'Monado Armor': 'Field/Armor Veil', 'Monado Purge': 'AOE/Aggroed+'}
+
+Class Skills: {'Right Back At You': 'When nearby ally is attacked, deal 100-200% of attack in damage to enemy.', 'Natural Born Warrior': 'Grants a small-large increase to damage dealt the more enemies target you (up to a maximum of 300%).', 'Sword of Reprisal': 'Deals 150-300% of Attack damage when you evade an attack.', 'Mechanical Rhythm': '5-15% chance for own attack to become a guaranteed hit and to evade enemy attacks during it.', "Gentleman's Valor": 'Grants Awakening when damage taken exceeds 40-20% of max HP. When using Shulk as a Hero in {{XC3|-}}, this skill replaces Sword of Reprisal. {{clr}}'}
+
+Hero Exclusive Arts: nan
+

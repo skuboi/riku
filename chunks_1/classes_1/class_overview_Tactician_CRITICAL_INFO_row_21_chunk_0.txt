@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Tactician
+
+Overview:  
+Tacticians specialize in supporting allies and disrupting [[Enemy (XC3)|enemies]] by using ether to disguise them. While putting enemies to sleep, he also reduces damage with [[Battle Arts (XC3)|arts]] making evasion easier for his companions. The [[Battle Arts (XC3)|Talent Art]] of Tactician is [[Tidal Wave]]. It is the initial class of [[Taion]].
+{{clr}}
+
+Arts: {'Tidal Wave': 'AOE / Heal all on hit', 'Dark Banner': 'AOE / Sleep |Sleep (Rank 1 Master Art)', 'Overfall |Overfall': 'Ether Def. down (Rank 10 Master Art)', 'Stormy Skies |Stormy Skies': 'AOE / Heal', 'Hazy Figure': 'Field / Eva. up', 'Avenging Eagle': 'AOE / Eva. down'}
+
+Class Skills: {'Ethereal Ability': 'Boosts damage dealt by ether Arts by 30-50%. (Rank 5 Master Skill)', 'Shieldrender': 'Adds 60-100% chance for attack to be unblockable.', 'Eternal Curse': 'Extends duration timers of debuffs applied to enemies by 30-50%.', 'Inevitable Evitability': '6-10% chance to evade enemy attack. (Rank 15 Master Skill)'}
+
+Hero Exclusive Arts: nan
+

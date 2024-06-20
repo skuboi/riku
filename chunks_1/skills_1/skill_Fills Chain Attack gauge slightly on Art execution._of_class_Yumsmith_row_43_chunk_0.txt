@@ -1,0 +1,4 @@
+Skill Name: Fills Chain Attack gauge slightly on Art execution.
+
+Class: Yumsmith
+

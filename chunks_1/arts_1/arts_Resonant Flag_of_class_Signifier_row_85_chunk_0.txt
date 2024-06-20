@@ -1,0 +1,6 @@
+Art Name: Resonant Flag
+
+Class: Signifier
+
+Effect: Share own buffs
+

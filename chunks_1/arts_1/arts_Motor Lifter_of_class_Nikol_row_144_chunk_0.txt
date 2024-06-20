@@ -1,0 +1,6 @@
+Art Name: Motor Lifter
+
+Class: Nikol
+
+Effect: Launch
+

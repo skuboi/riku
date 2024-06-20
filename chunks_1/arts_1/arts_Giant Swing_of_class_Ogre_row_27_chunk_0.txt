@@ -1,0 +1,6 @@
+Art Name: Giant Swing
+
+Class: Ogre
+
+Effect: Knockback
+

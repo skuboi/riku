@@ -1,0 +1,6 @@
+Skill Name: Flashing Punch 
+
+Class: Martial Artist
+
+Skill Buff or Effect:  Chained auto-attacks increase attack speed. Auto-attack interval is also shortened.
+

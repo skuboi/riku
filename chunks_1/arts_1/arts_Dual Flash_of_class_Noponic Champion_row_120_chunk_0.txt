@@ -1,0 +1,6 @@
+Art Name: Dual Flash
+
+Class: Noponic Champion
+
+Effect: High Aggro
+

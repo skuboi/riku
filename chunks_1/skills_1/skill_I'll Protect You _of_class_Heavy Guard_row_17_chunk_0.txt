@@ -1,0 +1,6 @@
+Skill Name: I'll Protect You 
+
+Class: Heavy Guard
+
+Skill Buff or Effect:  Reduces damage taken by allies in a fixed radius by 30%.
+

@@ -1,0 +1,3126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Seatiger Tridence</title>
+    <ns>0</ns>
+    <id>119491</id>
+    <revision>
+      <id>574687</id>
+      <parentid>574680</parentid>
+      <timestamp>2023-01-30T04:37:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1395" sha1="eeckcqiagx2p5xuwign90ttzfo3oj2g" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Seatiger Tridence
+|image        = XC3 Seatiger Tridence.png
+|caption      = Seatiger Tridence
+|type         = [[Shoox]]
+|level        = 77
+|area         = [[Erythia Sea]] ([[Patulia Bay]])
+|spawntime    = Nighttime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 3,453
+|cp           = 155
+|sp           = 5
+|gold         = 1,592
+|hp           = 4,258,000
+|strength     = 2,854
+|healing      = 814
+|dexterity    = 310
+|agility      = 316
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Seatiger Tridence''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Shoox]] family, and can be found at level 77 in [[Patulia Bay]] of [[Erythia Sea]] at night. The [[Ether Sphere (art)|Ether Sphere]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 65%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Seatiger tridence location.png
+Seatiger tridence.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Shooxes]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Time Dependent Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>eeckcqiagx2p5xuwign90ttzfo3oj2g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Seeth Ansel</title>
+    <ns>0</ns>
+    <id>123996</id>
+    <revision>
+      <id>576858</id>
+      <parentid>559312</parentid>
+      <timestamp>2023-02-14T16:10:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576858</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1084" sha1="sl85ajzn40keehxxd8zxji6wka9h1si" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Seeth Ansel
+|image        = 
+|caption      = Seeth Ansel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Ansel]]
+|level        = 40
+|area         = [[Great Sword's Hilt]] ([[Material Storage Warehouse]])
+|spawntime    = During ''[[Castle Access]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Seeth Ansels''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Ansel]] family, and four are fought at level 40 alongside the [[Planaa Ansel]] at the [[Material Storage Warehouse]] on the [[Great Sword's Hilt]] during ''[[Castle Access]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>sl85ajzn40keehxxd8zxji6wka9h1si</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Segaro Camill</title>
+    <ns>0</ns>
+    <id>123211</id>
+    <revision>
+      <id>559926</id>
+      <parentid>553541</parentid>
+      <timestamp>2022-09-30T10:57:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" sha1="ab1k2j1sbuemshg1g1yc2262gvo1uu6" xml:space="preserve">{{Infobox Enemy
+|name         = Segaro Camill
+|image        = 
+|caption      = Segaro Camill
+|category     = Minor Enemy
+|type         = [[Camill]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Segaro Camills''' are Minor Enemies in {{XC3}}. They are members of the [[Camill]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Camills]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ab1k2j1sbuemshg1g1yc2262gvo1uu6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Segaro Garaffa</title>
+    <ns>0</ns>
+    <id>121786</id>
+    <revision>
+      <id>594299</id>
+      <parentid>584151</parentid>
+      <timestamp>2023-05-27T13:43:37Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2633" sha1="s8mc56d7x05wtgz6gkojnhywt0nuak4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Segaro Garaffa
+|image        = Segaro Garaffa.jpg
+|caption      = Segaro Garaffa
+|category     = Minor Enemy
+|type         = [[Garaffa]]
+|level        = 40-42
+|area         = [[Great Sword's Base]]&lt;br/&gt;[[Li Garte Prison Camp]] ([[Perimeter Woodland]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Segaro Garaffas''' are Minor Enemies in {{XC3}}. They are members of the [[Garaffa]] family, and can be found at level 40-42 at the [[Great Sword's Base]] and in the [[Perimeter Woodland]] at [[Li Garte Prison Camp]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Segaro Garaffa
+|image        = 
+|caption      = Segaro Garaffa
+|type         = [[Garaffa]]
+|movement     = 
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 105
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+A Segaro Garaffa is fought at level 105 alongside a [[Lodmoro Plambus]] and a [[Cuyask Garaffa]] at Stage 80 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Segaro Garaffa
+|image        = Segaro Garaffa FR.jpg
+|caption      = Segaro Garaffa
+|category     = Normal Minor Enemy
+|type         = [[Garaffa]]
+|level        = 34
+|area         = [[Aurora Shelf]] ([[Zalmor's Thawtunnels]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Segaro Garaffas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Garaffa]] family, and can be found at level 34 in [[Zalmor's Thawtunnels]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Garaffas]]
+[[Category:XC3FR Garaffas]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>s8mc56d7x05wtgz6gkojnhywt0nuak4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Segiri</title>
+    <ns>0</ns>
+    <id>118521</id>
+    <revision>
+      <id>603150</id>
+      <parentid>600209</parentid>
+      <timestamp>2023-07-23T18:57:05Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added both voice links</comment>
+      <origin>603150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7948" sha1="fncqxg60rylxc6l34ul9qx2nqa67byi" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name           = Segiri
+|image          = Segiri portrait artwork.png
+|species        = [[Keves]]i human
+|aliases        = No. 7
+|age            = 3rd Term
+|gender         = Female
+|haircolor      = Gray
+|eyecolor       = Red
+|affiliation    = [[Colony 0]]
+|voiceactorjp   = [[Wikipedia:Ai Kayano|Ai Kayano]]
+|voiceactoreng  = [https://www.imdb.com/name/nm8414895/ Brigid Leahy]
+|appearances    = {{XC3}}
+}}
+'''Segiri''' (Japanese: {{lang|ja|'&#12394;&#12366;&#12426;}}, ''Nagiri''), also known as '''No. 7''', is a character in {{XC3}}.
+
+== Overview ==
+Segiri is the commander of [[Colony 0]], and she can be recruited as a [[Hero]] by completing the [[Hero Quest]] ''[[Inhumanity]]''. She is a [[Keves]]i human with [[Machina]] traits. Her class rank is increased to 20 after completing the Ascension Quest ''[[Invisible Bond]]''.
+
+== Personality ==
+Before meeting the [[Ouroboros]] group, she goes by her given name "No. 7", the incumbent commander of Colony 0. Unlike the other characters in [[Aionios]], her personality is very robotic with an example of her saying "Affirmative" instead of saying "Yes". Initially, she is so dependent on following orders that she can only act independently by envisioning herself as two people, one of which gives orders to the other. 
+
+Though projecting herself much like a robot, she is still much human and endearing, especially to her fellow colony members, whom she cares about deeply. She also quickly develops a strong bond with Sena, who helped will her to defy Consul [[F]]'s orders and strike him down.
+
+== Gameplay ==
+Segiri's class is an [[Attacker]] [[Class (XC3)|class]] named [[Machine Assassin]], which focuses on maximizing the effect of debuffs and can spread them to multiple enemies at once. 
+
+Segiri's [[Chain Attack (XC3)|Chain Art]] is [[Viscous Venom]], and her Heroic Chain bonus multiplies her TP by 150% when she completes a Chain Order.
+
+=== Base Stats ===
+These are Segiri's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Machine Assassin class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 433 || 23 || 21 || 31 || 22
+|-
+| 99 || 7,224 || 383 || 345 || 308 || 219
+|}
+
+=== General Stats ===
+These stats assume Segiri is at rank 20 in her class.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||346||48||5||37||16||20%||10%||20%||10%
+|-
+| 99, base||5,779||1,113||86||369||164||30%||20%||20%||10%
+|-
+| 99, with default accessories||5,779||1,335||86||369||164||30%||20%||20%||10%
+|}
+
+Segiri equips the following [[gem]]s:
+* [[Doublestrike]]
+* [[Swelling Scourge]], at level 20 onwards
+* [[Refined Incantation]], at level 40 onwards
+
+Segiri equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Steam Belt (XC3)|Steam Belt]]
+* [[Tear Amulet]], at level 30 onwards
+* [[Bloody Orb (XC3)|Bloody Orb]], at level 50 onwards
+{{clr}}
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Segiri
+| npc2 = No. 13
+| affinity = pink
+| caption = Invisible bond
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Segiri
+| npc2 = Ix
+| affinity = green
+| caption = Advisor
+| direction = right
+}}
+{{XC3 Affinity Link
+| npc1 = Segiri
+| npc2 = Fline
+| affinity = green
+| caption = Seven cheers for Segiri!
+| direction = left
+}}
+{{XC3 Affinity Link
+| npc1 = Segiri
+| npc2 = Biffteen
+| affinity = yellow
+| caption = Wishes well
+| direction = right
+}}
+{{XC3 Affinity Link
+| npc1 = Segiri
+| npc2 = No. 4
+| affinity = yellow
+| caption = Mourns
+| direction = right
+}}
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = No. 7
+|image        = 
+|caption      = No. 7
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 54
+|area         = [[Captocorn Peak]] ([[Colony 0]])
+|spawntime    = During ''[[Inhumanity]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''No. 7''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who pilots a [[Levnis|Ferron]] and is fought at level 54 in [[Colony 0]] at [[Captocorn Peak]] in the during ''[[Inhumanity]]''.
+{{clr}}
+
+=== Challenge Battle Mode ===
+&lt;tabber&gt;
+|-|Ferron x Ferron=
+{{Infobox XC3 Enemy
+|name         = No. 7 Segiri
+|image        = 
+|caption      = No. 7 Segiri
+|type         = [[Levnis]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 65
+|detection    = 
+|spawntime    = During ''[[Ferron x Ferron]]''
+|respawn      = No
+|hp           = 1,733,400
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''No. 7 Segiri''' is fought at level 65 alongside [[No. 13]] during the [[Challenge Battle Mode|Challenge Battle]] ''[[Ferron x Ferron]]''.
+
+|-|Heroes Frontline=
+{{Infobox XC3 Enemy
+|name         = No. 7 Segiri
+|image        = 
+|caption      = No. 7 Segiri
+|type         = [[Levnis]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 115
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 3,493,800
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''No. 7 Segiri''' is fought at level 115 during the second wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+&lt;/tabber&gt;
+{{clr}}
+
+== Etymology ==
+The name "Segiri" is coined by [[Sena]] after she had brought No. 7 some onigiri as a peace offering, as she did not wish to refer to her as a number.  Segiri is a combination of "Se" from her name, No. 7, and "giri" from the onigiri. 
+
+Similar portmanteaus exist for her names in other languages as well. For example, in Japanese, her name "Nagiri" comes from ''"Nana"'', the word for the number seven, and ''"giri"'' from onigiri. 
+
+== Trivia ==
+* Onigiri becomes her favorite food after having it introduced to her.
+* She is the youngest Hero in {{XC3|-}}.
+* The number seven is often seen as a lucky number in many cultures. This contrasts with No. 13, whose namesake is often seen as unlucky.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Segiri Hero Artwork.png
+Fiona Concept Art.png|Segiri's Concept Art (right)
+Segiri Concept Art.png|Segiri's Concept Art
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruitment artwork, with Segiri in her Ferron
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Segiri Hero Icon.png|Hero List Icon
+Segiri Chain Art Icon.png|Chain Art Icon
+Segiri Level Up Art.png|Level Up Art
+Icon chara 22.png
+Icon chara battle 23.png
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Segiri]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>fncqxg60rylxc6l34ul9qx2nqa67byi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Selurine Skeeter</title>
+    <ns>0</ns>
+    <id>122994</id>
+    <revision>
+      <id>559928</id>
+      <parentid>552317</parentid>
+      <timestamp>2022-09-30T10:57:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559928</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="rkufvx8uniwe96paa5c0hmi5n93ypt1" xml:space="preserve">{{Infobox Enemy
+|name         = Selurine Skeeter
+|image        = 
+|caption      = Selurine Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = ?
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Selurine Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level ? at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>rkufvx8uniwe96paa5c0hmi5n93ypt1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sena</title>
+    <ns>0</ns>
+    <id>116350</id>
+    <revision>
+      <id>598303</id>
+      <parentid>598112</parentid>
+      <timestamp>2023-07-04T19:51:58Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <minor/>
+      <comment>last concept finally scanned</comment>
+      <origin>598303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18281" sha1="q1bfp9lmataf7wf0hpm7g4tcg7qws5n" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Sena
+|image        = Sena portrait.png
+|species      = [[Agnus|Agnian]] human
+|gender       = Female
+|age          = 9th Term
+|haircolor    = Navy, appears to emit blue flames
+|eyecolor     = Greyish-brown
+|affiliation  = [[Colony Theta]] (formerly)&lt;br/&gt;[[Colony Omega]] (formerly)&lt;br/&gt;[[Colony Gamma]] (formerly)
+|voiceactorjp = [https://www.imdb.com/name/nm0766497/ Miyuki Sat&#244;]
+|voiceactoreng= [https://www.imdb.com/name/nm11072091/ Rebecca LaChance]
+|appearances  = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+{{Quote|Taion, all of you... I won't let this creep lay a finger on anyone!|Sena}}
+'''Sena''' (Japanese: {{lang|ja|&#12475;&#12490;}}, ''Sena'') is a playable character in {{XC3}}.
+
+== Overview ==
+Sena is a soldier from [[Agnus]] along with [[Mio]] and [[Taion]] and from [[Colony Gamma]]. She is an Agnian human with [[Blade (XC2)|Blade]] traits.
+
+== Personality ==
+Sena has worked alongside Mio, whom she loves like an older sister and affectionately calls her Mimi (Japanese: {{Lang|jp|&#12511;&#12458;&#12385;&#12419;&#12435;}}, ''Miochan''), for a while. She enjoys muscle training and has a cheerful and energetic personality, although she's shy and lacks confidence in herself around others.
+
+== Story ==
+=== Early Terms ===
+At some point, Sena assigned to [[Colony Theta]], where she met [[Mio]], who she became close friends with, and later became friends with [[Miyabi]] when Mio became an [[Off-seer]].
+
+Around her fourth term, Sena, along with Mio, Miyabi, and most of Colony Theta, were transferred to [[Colony Omega]] by [[Consul]] [[Y]], where they were subjected to daily examinations to further Y's research. One day, an accident caused toxic gas to be released from the colony's [[Flame Clock]]. Injured, Sena and Mio were carried to an escape pod by Miyabi and were able to escape before an explosion happened.
+
+At some point later, Sena and Mio were transferred to [[Colony Gamma]], where they would be paired up with [[Taion]], [[Hackt]], and [[Manana]], and become good friends with [[Kyrie]].
+
+=== Becoming Ouroboros ===
+Sena, Mio, and Taion are given a special mission to intercept a mysterious airship in [[Alfeto Valley]]. Sena and her team arrive at the airship's [[Gura Flava Lowlands|crash site]] at the same time as [[Noah]], [[Lanz]], and [[Eunie]]. As they battle, the airship's sole survivor, [[Guernica Vandham]], intervenes and stops the fighting, claiming he knows their "true enemy". However, he is shot by a [[Moebius D &amp; J|Moebius]], who, after killing both Hackt and [[Mwamba]], attacks both teams and quickly gains the upper hand until Guernica activates the [[Ouroboros Stone]] he was smuggling, imbuing both teams with its power and making them [[Ouroboros]]. After Moebius retreats, a mortally wounded Guernica instructs the party to head for the [[City]] at [[Swordmarch]] where they can find answers. Sena and her team then attempt to return to Colony Gamma, but are attacked by their former comrades. They decided to return to the crash site, where they decided to work together with Noah and his team. 
+
+== Gameplay ==
+Despite her petite figure, she has great strength, which allows her to wield her [[Blade (XC3)|Comet Mallet]] effortlessly. Sena's initial [[Class (XC3)|class]] is [[Ogre]].
+
+In a [[Chain Attack (XC3)|Chain Attack]], Sena starts with 15 TP by default. Her [[Chain Attack (XC3)|Chain Art]] is [[Bombshell Blitz]], which grants a 60-100% chance (depending on her level) for attacks in the Chain Attack to be unblockable.
+
+Sena starts at Rank 8 in her initial Ogre class, and has a common [[White Wraps]] equipped when in the player's party for the first time.
+
+=== Base Stats ===
+These are Sena's raw stats prior to modifications by class. They serve as a baseline for calculating Sena's stats in a class. Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 356 || 20 || 17 || 28 || 22
+|-
+| 99 || 7,125 || 398 || 346 || 282 || 216
+|}
+=== General Stats ===
+These stats assume Sena is at level 99, at rank 20 in each of these respective classes, and is not equipping any [[Skill (XC3)|Master Skills]], [[Gem]]s or [[Accessory (XC3)|Accessories]]. Boosts from skills innate to a class are indicated with round brackets, whereas boosts from having an [[Blade Upgrade|upgraded Blade]] are indicated with square brackets.
+{| class="xc1 centered" width="100%"
+! Class !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|[[Swordfighter]]||5,343||1,032||121||338 (+169)||183||20% (+10%)||10%||15%||15%
+|-
+|[[Zephyr]]||7,837||822||86||296||280 (+84)||20%||35%||35%||50% (+15%)
+|-
+|[[Medic Gunner]]||4,275||680||415 (+15)||296||162||10%||10%||15%||25%
+|-
+|[[Tactician]]||4,631||716||397||310||172||10%||15%||10%||30%
+|-
+|[[Heavy Guard]]||9,262||852||86||282||162||8%||35%||50% (+10%)||35%
+|-
+|[[Ogre]]||5,700||1,097 [+124]||86||282||183||20% [+4%]||15% [+3%]||20%||10%
+|-
+|[[Flash Fencer]]||5,343||1,022||86||338||237||30%||8%||15%||15%
+|-
+|[[War Medic]]||4,275||666||432||338||162||6%||8%||15%||25%
+|-
+|[[Guardian Commander]]||8,550||806||121||296||162||8%||40%||50%||35%
+|-
+|[[Thaumaturge]]||5,343||832||380||338||162||24%||12%||10%||30%
+|-
+|[[Yumsmith]]||5,700||981||121||366||162||20%||20%||15%||15%
+|- 
+|[[Full Metal Jaguar (XC3)|Full Metal Jaguar]]||4,987||986||155||366||237||10%||10%||15%||15%
+|-
+|[[Strategos]]||4,631||741||397||310||183||15%||6%||10%||30%
+|-
+|[[Stalker]]||4,987||991||86||366||280||30%||6%||15%||15%
+|-
+|[[Lone Exile]]||7,837||912||51||310||270||24%||30%||35%||50%
+|-
+|[[Incursor]]||5,343||1,052||69||296||216||35%||6%||20%||10%
+|-
+|[[Lost Vanguard]]||8,906||837||121||338||194||20%||45%||50%||35%
+|-
+|[[Signifer]]||4,275||852||259||296||194||16%||16%||10%||30%
+|-
+|[[Soulhacker]]&lt;br&gt;&lt;small&gt;(Power Soul)&lt;/small&gt;||5,343||1,097||51||296||162||15%||25%||20%||10%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Strike Soul)&lt;/small&gt;||5,343||1,037||103||338||205||15%||25%||15%||15%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Tough Soul)&lt;/small&gt;||8,906||958||51||267||140||15%||25%||45%||35%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Dodge Soul)&lt;/small&gt;||7,837||958||51||296||259||15%||25%||35%||45%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Heal Soul)&lt;/small&gt;||4,987||878||346||310||194||15%||25%||10%||30%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Balanced Soul)&lt;/small&gt;||4,631||938||259||296||194||15%||25%||10%||30%
+|-
+|[[Martial Artist]]||5,343||991||86||338||259||36%||16%||15%||15%
+|-
+|[[Troubadour]]||3,918||670||397||310||216||16%||8%||10%||30%
+|-
+|[[Seraph]]||5,700||1,178||51||282||183||25%||10%||20%||20%
+|-
+|[[Machine Assassin]]||5,700||1,132||86||338||162||30%||20%||20%||10%
+|-
+|[[Lifesage]]||4,631||857||449||338||237||20%||30%||15%||25%
+|-
+|[[Royal Summoner]]||4,631||1,188||207||366||237||30%||10%||15%||15% (+3%)
+|-
+|[[Noponic Champion]]||8,550||897||0||338||280||15%||35%||45%||40%
+|-
+|[[Lapidarist]]||3,918||867||415||324||237||35% (+7%)||6%||10%||15%
+|}
+
+== Ouroboros ==
+[[File:Ouroboros Sena.png|thumb|Sena's Ouroboros]]
+After becoming [[Ouroboros]], Sena is able to [[Interlink]] with [[Lanz]]. When Sena is in control, she is able to use arts that deal heavy damage.
+
+=== Base Stats ===
+These are Sena's Ouroboros's stats. The experience level of the Ouroboros which determines its stats (contrary to any displayed level in menus) is the average of Lanz and Sena's experience levels (fractions are rounded up).
+{| class="xc1 centered" width="100%"
+! Level !! Attack !! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate
+|-
+| 1, no Soul Tree || 50 || 22 || 37 || 27 || 25% || 10%
+|-
+| 99, no Soul Tree || 1,284 || 441 || 371 || 269 || 35% || 20%
+|-
+| 99, complete Soul Tree || 1,966 || 441 || 456 || 269 || 68% || 20%
+|}
+=== Arts ===
+* [[Hammer Revolution]] ([[Battle Arts (XC3)|Talent Art]]) - AOE/Pierce/Blowdown
+* [[Dino Upper]] - Blowdown
+* [[Mortal Bullet]] - Knockback/Annul reaction
+* [[Earth Crusher]] - Interlink Lv. 3: [[Launch (XC3)|Launch]] all
+* [[Flame Nova (XC3)|Flame Nova]] - Evade / [[Blaze (XC3)|Blaze]]
+* [[Wing Smash (XC3)|Wing Smash]] - Interlink Lv. 3: [[Smash (XC3)|Smash]] all
+* [[Hellbound (XC3)|Hellbound]] - AOE/Blowdown/P-Def. down
+
+Sena's Ouroboros Chain Art is [[Big Bang Implosion]], which greatly increases damage ratio and deals defense-bypassing damage.
+
+=== Skills ===
+* '''Merciless Pummeling''', 50-100% chance to deal extra damage when inflicting Knockback and Blowdown.
+* '''Extreme Pursuit''', Grans a small/large increase to damage dealt when attacking enemies during combos.
+* '''Utterly Crushing''', Negates enemy guard, with 60-100% chance to inflict [[Break (XC3)|Break]].
+* '''Explosive Spirit''', Own combo reactions boost damage dealt by 30-50% (up to a maximum of 500%).
+
+=== Soul Tree ===
+Below is an image showing the layout of Sena's Ouroboros [[Soul Tree]].
+[[File:XC3 Soul Tree Sena.jpeg|center|550px]]
+{{Clr}}&lt;br&gt;
+The below table contains a detailed breakdown of all nodes within the Soul Tree.
+
+''Note: Columns are numbered from left to right, i.e. column 1 is the leftmost column, and column 8 is the rightmost column. Nodes are listed in order of increasing column number, from top to bottom, ignoring order of unlocking.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:5%;"| Node
+!style="width:10%;"| Icon
+!style="width:20%;"| Name
+!style="width:35%;"| Description
+!style="width:20%;"| Prerequisite
+!style="width:10%;"| Cost
+|-
+!colspan="6"|Column 1
+|-
+|1
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|''None''
+|15 SP
+|-
+!colspan="6"|Column 2
+|-
+|2
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Merciless Pummeling
+|50% chance to deal extra damage when inflicting Knockback and Blowdown.
+|"Critical Plus" (Node 3)
+|40 SP
+|-
+|3
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 10 percentage points.
+|"Attack Plus" (Node 1)
+|20 SP
+|-
+|4
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Extreme Pursuit
+|Grants a small increase to damage dealt when attacking enemies during combos.
+|"Critical Plus" (Node 3)
+|40 SP
+|-
+!colspan="6"|Column 3
+|-
+|5
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Flame Nova
+|Evade / Blaze
+|"Utterly Crushing" (Node 10)
+|70 SP
+|-
+|6
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Wing Smash
+|Interlink Lv3: Smash all
+|"Merciless Pummeling" (Node 2) ''or'' "Critical Up" (Node 11)
+|45 SP
+|-
+|7
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Critical Plus" (Node 3)
+|40 SP
+|-
+|8
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Hellbound
+|AOE/Blowdown/P-Def. down
+|"Extreme Pursuit" (Node 4) ''or'' "Dexterity Plus" (Node 13)
+|45 SP
+|-
+|9
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Utterly Crushing
+|Negates enemy guard, with a 100% chance to inflict Break.
+|"Utterly Crushing" (Node 10) ''and'' "Explosive Spirit" (Node 14)
+|170 SP
+|-
+!colspan="6"|Column 4
+|-
+|10
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Utterly Crushing
+|Negates enemy guard, with a 60% chance to inflict Break.
+|"Critical Up" (Node 11)
+|60 SP
+|-
+|11
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 10%.
+|"Wing Smash" (Node 6) ''or'' "Earth Crusher" (Node 16)
+|30 SP
+|-
+|12
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 20%.
+|"Heat Control: Time" (Node 7) ''or'' "Attack Plus" (Node 17)
+|25 SP
+|-
+|13
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Plus
+|Increases Dexterity by 30.
+|"Hellbound" (Node 8) ''or'' "Merciless Pummeling" (Node 18)
+|30 SP
+|-
+|14
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Explosive Spirit
+|Own combo reactions boost damage dealt by 30% (up to a maximum of 500%).
+|"Dexterity Plus" (Node 13)
+|60 SP
+|-
+!colspan="6"|Column 5
+|-
+|15
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Earth Crusher" (Node 16)
+|70 SP
+|-
+|16
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Earth Crusher
+|Interlink Lv3: Launch all
+|"Critical Up" (Node 11) ''or'' "Attack Plus" (Node 17)
+|150 SP
+|-
+|17
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 75.
+|"Attack Up" (Node 12) ''or'' "Earth Crusher" (Node 16) ''or'' "Merciless Pummeling" (Node 18)
+|30 SP
+|-
+|18
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Merciless Pummeling
+|100% chance to deal extra damage when inflicting Knockback and Blowdown.
+|"Merciless Pummeling" (Node 2) ''and either'' "Dexterity Plus" (Node 13) ''or'' "Attack Plus" (Node 17)
+|150 SP
+|-
+|19
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Merciless Pummeling" (Node 18)
+|70 SP
+|-
+!colspan="6"|Column 6
+|-
+|20
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Wing Smash
+|Interlink Lv3: Smash all
+|"Wing Smash" (Node 6)" ''and'' "Heat Control: Arts Canceling" (Node 15)
+|190 SP
+|-
+|21
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 15 percentage points.
+|"Earth Crusher" (Node 16)
+|35 SP
+|-
+|22
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Hellbound
+|AOE/Blowdown/P-Def. down
+|"Hellbound" (Node 8)" ''and'' "Attack Plus" (Node 17)
+|150 SP
+|-
+|23
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Up
+|Boosts Dexterity by 15%.
+|"Merciless Pummeling" (Node 18)
+|30 SP
+|-
+|24
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Mortal Bullet
+|Knockbk/Annul reaction
+|"Heat Control: Time" (Node 19)
+|190 SP
+|-
+!colspan="6"|Column 7
+|-
+|25
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 25%.
+|"Wing Smash" (Node 20)
+|40 SP
+|-
+|26
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Extreme Pursuit
+|Grants a large increase to damage dealt when attacking enemies during combos.
+|"Extreme Pursuit" (Node 4) ''and'' "Critical Plus" (Node 21)
+|190 SP
+|-
+|27
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, but doing so will fill up the heat gauge slightly.
+|"Hellbound" (Node 22)
+|175 SP
+|-
+|28
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Flame Nova
+|Evade / Blaze
+|"Flame Nova" (Node 5) ''and'' "Dexterity Up" (Node 23)
+|190 SP
+|-
+|29
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 15%.
+|"Mortal Bullet" (Node 24)
+|40 SP
+|-
+!colspan="6"|Column 8
+|-
+|30
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Attack Up" (Node 25)
+|85 SP
+|-
+|31
+|[[File:XC3 Soul Tree Enhance Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Hammer Revolution
+|AOE/Pierce/Blowdown
+|"Explosive Spirit" (Node 32)
+|210 SP
+|-
+|32
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Explosive Spirit
+|Own combo reactions boost damage dealt by 50% (up to a maximum of 500%).
+|"Explosive Spirit" (Node 14) ''and'' "Unlock Arts Canceling" (Node 27)
+|190 SP
+|-
+|33
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Dino Upper
+|Blowdown
+|"Explosive Spirit" (Node 32)
+|210 SP
+|-
+|34
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Critical Up" (Node 29)
+|85 SP
+|}
+
+== Battle ==
+* [[Agnus Attacker (boss)]]
+{{clr}}
+
+== Trivia ==
+* The flames at the ends of Sena's hair, along with her hair color, bear a striking resemblance to [[Brighid]].
+* Sena shares her Japanese voice actress, Miyuki Sat&#244;, with [[Totoma]].&lt;ref&gt;https://twitter.com/XenobladeJP/status/1585182293827600384&lt;/ref&gt;
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Sena Artwork.png|Official Artwork
+XC3 Senna as a Crusher.jpg|Sena as an Ogre
+XC3 Sena Twitter.jpg|Artwork of Sena by Masatsugu Saito to celebrate the launch of {{XC3|-}}
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruitment artwork
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+Sena Concept 1.png|Sena Concept Art
+Sena Concept 2.png
+Sena Concept 3.png
+Sena Concept 4.png
+Sena Ouroboros Concept 1.png|Sena's Ouroboros Form Concept Art
+Sena Ouroboros Concept 2.png
+Sena Ouroboros Concept 3.png
+Sena Ouroboros Concept 4.png
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Sena Hero Icon.png|Hero List Icon
+Sena Chain Art Icon.png|Sena's Chain Art Icon
+Sena Ouroboros Chain Art Icon.png|Sena's Ouroboros Order Icon
+Sena Level Up Art.png|Sena's Level Up Art
+Sena Level Up Art 2.png|Sena's Level Up Art (Military Uniform)
+Icon chara 5.png
+Icon chara 31.png
+Icon chara battle 5.png
+Icon chara battle 33.png
+Strm ch thumb006 0.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Sena Screenshot.png|Sena in battle
+Lanz Sena Ouroboros fusion screenshot.jpeg|Sena and Lanz interlinking
+Three Agnus Soldiers.jpeg|Sena, Mio, and Taion wearing masks
+Sena Military Uniform.jpg|Sena in her Military Uniform
+Sena DLC Outfit 1 Screenshot.jpeg|One of Sena's Expansion Pass outfits
+SenaSwimsuit.jpg|Sena's Swimwear A outfit from the Expansion Pass
+SenaSwimwearB.jpg|Sena's Swimwear B outfit from the Expansion Pass
+Sena Brighid Outfit.png|Sena's Throwback A outfit from the Expansion Pass, based on Brighid's Main Outfit from {{XC2|-}}.
+Sena Brighid Outfit B.jpg|Sena's Throwback B outfit from the Expansion Pass, based on Brighid's Main Outfit from {{XC2|-}}.
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+[[es:Sena]]
+
+[[Category:XC3 Playable Characters]]
+[[Category:XC3 Ouroboros]]
+[[Category:Sena]]
+[[Category:XC3 Agnians]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>q1bfp9lmataf7wf0hpm7g4tcg7qws5n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sensitive Catullus</title>
+    <ns>0</ns>
+    <id>117469</id>
+    <revision>
+      <id>574747</id>
+      <parentid>574681</parentid>
+      <timestamp>2023-01-30T13:06:22Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574747</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1396" sha1="lbd81bdivohjcppxguok3r2tkbrizez" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sensitive Catullus
+|image        = XC3 Sensitive Catullus.jpeg
+|caption      = Sensitive Catullus
+|category     = Unique Monster
+|type         = [[Levnis]]
+|level        = 26
+|area         = [[Alfeto Valley]] ([[Sepulchral Cliffpath]])
+|spawntime    = Anytime after Chapter 1
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 676
+|cp           = 113
+|sp           = 5
+|gold         = 1,290
+|hp           = 406,350
+|strength     = 516
+|healing      = 231
+|dexterity    = 106
+|agility      = 79
+|physdef      = -5%
+|ethdef       = 15%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Sensitive Catullus''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is an [[Agnus|Agnian]] [[Levnis]] and can be found at level 26 on the [[Sepulchral Cliffpath]] in [[Alfeto Valley]] after Chapter 1. The [[Soulhacker#Enemy Skills|Systematic Defense]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 80%
+|blowdown = 80%
+|physdebuff = 25%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Sensitive catullus location.png
+Sensitive catullus.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lbd81bdivohjcppxguok3r2tkbrizez</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sequoia</title>
+    <ns>0</ns>
+    <id>121170</id>
+    <revision>
+      <id>597779</id>
+      <parentid>596099</parentid>
+      <timestamp>2023-07-02T16:29:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597779</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1445" sha1="a56vrpqa27gf84rzel37373twmq8l08" xml:space="preserve">{{Infobox_NPC
+|name        = Sequoia
+|image       = Strm npc 84 0.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Agnus|Agnian]] human
+|age         = 7th Term
+|location    = [[Elaice Highway]] ([[Colony Iota]])
+}}
+'''Sequoia''' is a NPC in {{XC3}}. Sequoia is from [[Colony Iota]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Sequoia
+|image        = 
+|caption      = Sequoia
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 40
+|area         = [[Great Cotte Falls]]
+|spawntime    = During ''[[Her Reasons]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sequoia''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is an [[Agnus Forces|Agnus Soldier]] who can be fought at level 40 at the [[Great Cotte Falls]] during ''[[Her Reasons]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>a56vrpqa27gf84rzel37373twmq8l08</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Seraph</title>
+    <ns>0</ns>
+    <id>118550</id>
+    <revision>
+      <id>597521</id>
+      <parentid>597116</parentid>
+      <timestamp>2023-06-30T12:16:46Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>597521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6972" sha1="97zmhl02kinpllidqw79fhwpgn6pcep" xml:space="preserve">{{Spoiler}}
+{{quote|A bold Attacker, trading wounds for augmentation of an already formidable offensive power.|Class menu description}}
+[[File:XC3 Seraph Weapon Icon.png|thumb|The Seraph class icon]]
+'''Seraph''' is an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Seraph is the class of [[Cammuravi]]. It employs the use of self-damaging Arts to greatly increase one's damage at lower health values.
+It is unlocked after completing the [[Hero Quest]] ''[[A Twist of Fate]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 by reaching rank 10 in both Seraph and [[Flash Fencer]] classes, and going to the now-unlocked lab in Colony Omega.
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|6,915
+|5,925
+|2,965
+|''Class Inheritor''
+|3,950
+|4,940
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 265
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 265
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 430
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 430 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 465
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Achieve Rank 10 with Seraph and [[Flash Fencer]], go to [[Colony Omega]], and have [[Ethel]] undergo the maturation process.
+|-
+| 11 
+| 395
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 395
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 520
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 520
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 645
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 645
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 845
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 970
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Seraph class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 75% || 120% || 10% || 90% || 80% || 15% || 5%
+|-
+| 10 || 77% || 125% || 12% || 95% || 82% || 17% || 7%
+|-
+| 20 || 80% || 130% || 15% || 100% || 85% || 20% || 10%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate.
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 21 || 15% || 5%
+|-
+| 10 || 47 || 16% || 5%
+|-
+| 20 || 85 || 17% || 6%
+|-
+| 30 || 131 || 18% || 6%
+|-
+| 40 || 183 || 19% || 7%
+|-
+| 50 || 244 || 20% || 8%
+|-
+| 60 || 311 || 21% || 8%
+|-
+| 70 || 385 || 22% || 9%
+|-
+| 80 || 470 || 23% || 9%
+|-
+| 90 || 565 || 24% || 10%
+|-
+| 99 || 661 || 25% || 10%
+|}
+== Arts ==
+* '''[[Empyrean Salvo (XC3)|Empyrean Salvo]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/[[Blaze (XC3)|Blaze]]/[[Awakening (XC3)|Awakened]]+
+* [[Crimson Lance]], Side [[Topple (XC3)|Topple]] (Rank 10 Master Art)
+* [[Flamelord]], Front attack &#8593; (Rank 1 Master Art)
+* [[Inferno Dance]], AOE/Dmg to self/[[Blaze (XC3)|Blaze]]
+* [[Leveling Fire]], Atk boost/Dmg to self
+* [[Dragon's Snarl]], High Crit. Rate/Dmg self
+
+=== Hero-Exclusive Arts ===
+* [[Sturm und Drang]], High Crit. Rate/Dmg self
+* [[Heavenly Spear]], AOE/Dmg to self/[[Blaze (XC3)|Blaze]]
+* [[Searing Fury]], Fast charge
+
+== Skills ==
+* [[File:XC3 Skill Icon 0.png]] '''Beast Mode''':  Grants [[Awakening (XC3)|Awakening]] when damage taken exceeds 45-25% of Max HP.
+* [[File:XC3 Skill Icon 10.png]] '''Universal Annihilation''':  Boosts damage to [[Topple (XC3)|toppled]] and [[Launch (XC3)|launched]] targets by 50-150%. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 42.png]] '''Greatest Warrior''':  Boosts damage by 25-35% for each enemy in battle (max. 200%). (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 10.png]] '''Got the Guts''': Boosts damage dealt by 60-100% when HP is at 80-85% or lower.
+
+=== Stat Increases===
+{| class="xc1 centered" style="width:80%;"
+! Class Rank 
+! Beast Mode
+! Got the Guts
+! Greatest Warrior
+! Universal Annihilation
+|-
+| 1
+| 45%
+| 60%, 80%
+| 25%
+| 50%
+|-
+| 5
+| 40%
+| 70%, 80%
+| 27%
+| 75%
+|-
+| 10 
+| 35%
+| 80%, 80%
+| 30%
+| 100%
+|-
+| 15
+| 30%
+| 90%, 85%
+| 33%
+| 125%
+|-
+| 20
+| 25%
+| 100%, 85%
+| 35%
+| 150%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Cammuravi Artwork.png|Cammuravi, a Seraph
+Seraph Noah.png|Noah as a Seraph
+Seraph Mio.png|Mio as a Seraph
+Seraph Eunie.png|Eunie as a Seraph
+Seraph Taion.png|Taion as a Seraph
+Seraph Lanz.png|Lanz as a Seraph
+Seraph Sena.png|Sena as a Seraph
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>97zmhl02kinpllidqw79fhwpgn6pcep</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Seraphic Ceratinia</title>
+    <ns>0</ns>
+    <id>119503</id>
+    <revision>
+      <id>582220</id>
+      <parentid>580614</parentid>
+      <timestamp>2023-04-09T16:11:31Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>artsspeffect 1</comment>
+      <origin>582220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11702" sha1="p7bxbiof0785z1fmrc1cuvkhxipdafw" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Seraphic Ceratinia
+|image        = XC3 Seraphic Ceratinia.png
+|caption      = Seraphic Ceratinia
+|movement     = Ground
+|type         = Unknown
+|area         = [[The Cavity]]
+|level        = 120
+|spawntime    = After defeating the other four Superbosses and discussing "Aionios' Strongest"
+|respawn      = Yes
+|detection    = 
+|exp          = 31,312
+|cp           = 784
+|sp           = 50
+|gold         = 18,400
+|hp           = 14,731,200
+|strength     = 3,015
+|healing      = 1,111
+|dexterity    = 523
+|agility      = 373
+|physdef      = 0%
+|ethdef       = 25%
+|critrate     = 20%
+|guardrate-front   = 15%
+|guardrate-side    = 10%
+|guardrate-back    = 10%
+}}
+'''Seraphic Ceratinia''' is one of the [[Superboss]]es in {{XC3}}. It is a [[Unique Monster (XC3)|Unique Monster]], but not a member of any particular family, and can be found at level 120 in the [[The Cavity]] of [[Swordmarch]]. It is the strongest enemy in the game and requires beating [[Kilocorn Grandeps]], [[Perilwing Ryuho]], [[Dreadwyrm Nizoont]], [[Levialord Empireo]], and gathering an info fragment in the [[City]] talking about it for the Discussion "Aionios' Strongest" to appear at a [[Rest Spot (XC3)|Rest Spot]]. After  these conditions have been met, Seraphic Ceratinia will spawn. The [[Transient Bond]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it. Through re-challenging, Seraphic Ceratinia's level can increase to a maximum at level 200.
+== Battle ==
+===Skills===
+Seraphic Ceratinia has several innate skills:
+*Shortens duration of debuffs on self by 75%.
+*Increases success rate of debuff effects by 50 percentage points.
+*Extends duration of debuff timers applied to enemies by 100%.
+=== Resistances ===
+{{XC3 Resistances
+|break = 90%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 90%
+|etherdebuff = Immune
+}}
+{{clr}}
+===Enraged===
+{|class="xc1 centered" style="width:70%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.&lt;br&gt;Boosts Arts recharge speed by 50%.&lt;br&gt;Boosts power of buff effects issued by self by 100%.
+|}
+===Arts===
+&lt;!-- Cooldowns assume a 100% recharge rate, which not all Arts are given - any recharge other than 100% is noted. --&gt;
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes&lt;!--
+!Cooldown --&gt;
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|250%
+|
+|style="text-align:left;"|
+*Accuracy and Critical Rate are boosted by 25%.&lt;!--
+|3.0s--&gt;
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|rowspan="2"| '''Ancestral War Cry'''
+|rowspan="2"|Buff
+|rowspan="2"|Self
+|rowspan="2"| -
+|rowspan="2"| -
+|[[Critical Rate Up]] / [[Accuracy Up (XC3)|Accuracy Up]]
+|rowspan="2" style="text-align:left;"| 
+*Buff durations are extended by 200%.&lt;!--
+*Art has a recharge rate of 70%.
+|rowspan="2"|35.0s--&gt;
+|When reduced to 40% HP during fights up to and including Lv 190
+|- &lt;!-- Arts Slot 7 --&gt;
+|[[Awakening (XC3)|Awakening]] / [[Pause Buff Timer]]
+|When reduced to 80% HP during fights at Lv 200
+|- &lt;!-- Arts Slot 1 --&gt;
+|rowspan="2"| '''Celestial Dash'''
+|rowspan="2"| Physical
+|rowspan="2"| Frontward AOE
+|rowspan="2"| 1
+|185%
+|[[Knockback (XC3)|Knockback]]
+|style="text-align:left;"|
+*Negates enemy guard; inflicts [[Break (XC3)|Break]] if guard is attempted.&lt;!--
+|rowspan="2"| 40.0s --&gt;
+|When reduced to 60% HP during fights up to and including Lv 190
+|- &lt;!-- Arts Slot 8 --&gt;
+|165%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Topple duration is extended by 50%.
+|Anytime during fights at Lv 200
+|- &lt;!-- Arts Slot 2 --&gt;
+|rowspan="2"| '''Ultra Play Bite'''
+|rowspan="2"| Physical
+|rowspan="2"| One Target
+|rowspan="2"| 1
+|rowspan="2"| 700%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Negates enemy guard; inflicts Break if guard is attempted.&lt;!--
+*Art has a recharge rate of 50%.
+|12.0s--&gt;
+|Anytime during Lv 120 fight
+|- &lt;!-- Arts Slot 9 --&gt;
+| [[Doom (XC3)|Doom]]
+| style="text-align:left;"|
+*Accuracy is boosted by 50%.&lt;!--
+*Art has a recharge rate of 50%.
+|18.0s --&gt;
+| Anytime during fights at or above Lv 125; at Lv 200, may use Art twice in a row
+&lt;!--
+|-  &lt;!-- Arts Slot 14 --&gt;&lt;!--
+|style="text-align:left;"| 
+*Accuracy is boosted by 50%.
+|10.0s
+|When reduced to 40% HP during fights at Lv 200 --&gt;
+|- &lt;!-- Arts Slot 3 --&gt;
+|rowspan="2"| '''Sensational Vortex'''
+|rowspan="2"| Ether
+|rowspan="2"| Frontward AOE
+|rowspan="2"| 1
+|170%
+|[[Blowdown (XC3)|Blowdown]]
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.&lt;!--
+*Art has a recharge rate of 50%.
+|rowspan="2"| 15.0s--&gt;
+|Anytime during fights up to and including Lv 160
+|- &lt;!-- Arts Slot 10 --&gt;
+|155%
+|[[Launch (XC3)|Launch]]
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Launch duration is extended by 50%.&lt;!--
+*Art has a recharge rate of 50%. --&gt;
+|Anytime during fights at or above Lv 170
+|- &lt;!-- Arts Slot 4 --&gt;
+|rowspan="2"| '''Transient Bond'''
+|rowspan="2"| Physical
+|rowspan="2"| AOE around User
+|rowspan="2"| 9
+|720%
+|rowspan="2"|
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Each hit can only damage a single target in range.&lt;!--
+*Art has a recharge rate of 50%.
+|rowspan="2"| 18.0s --&gt;
+|Anytime during fights up to and including Lv 140
+|- &lt;!-- Arts Slot 11 --&gt;
+|630%
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Each hit can only damage a single target in range, and applies 1 random debuff.&lt;!--
+*Art has a recharge rate of 50%. --&gt;
+|Anytime during fights between Lv 150 and Lv 190 inclusive; at Lv 200, doesn't use Art until reduced to 80% HP
+|- &lt;!-- Arts Slot 5 --&gt;
+|rowspan="2"| '''Star-Spangled Fan'''
+|rowspan="2"| Debuff
+|rowspan="2"| AOE around User
+|rowspan="2"|  -
+|rowspan="2"|  -
+|rowspan="2"| [[Phys Def Down (XC3)|Phys. Def. Down]] / [[Ether Defense Down (XC3)|Ether Defense Down]]
+|style="text-align:left;"|
+*Duration of ''buff'' effects issued by self is extended by 100%.&lt;!--
+|rowspan="2"| 30.0s --&gt;
+|When reduced to 80% HP during fights up to and including Lv 160
+|- &lt;!-- Arts Slot 12 --&gt;
+|style="text-align:left;"|
+*Duration of ''buff'' effects issued by self is extended by 100%.
+*Seals the [[Chain Attack (XC3)|Chain Attack]] gauge on Art execution.
+|When reduced to 80% HP during fights between Lv 170 and Lv 190 inclusive; at Lv 200, doesn't use Art until reduced to 60% HP
+|- &lt;!-- Arts Slot 6 --&gt;
+|rowspan="3"| '''Rite of Illumination'''
+|rowspan="3"| Ether
+|rowspan="3"| Frontward AOE
+|rowspan="3"| 3
+|rowspan="3"| 390%
+|rowspan="3"|
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to all reactions and combos during Art.
+*Ignores enemy defense.
+*Art is telegraphed 4.0s before execution.&lt;!--
+|rowspan="2"| 50.0s --&gt;
+|When reduced to 40% HP during fights between Lv 135 and Lv 190 inclusive
+|- &lt;!-- Arts Slot 13 --&gt;
+|rowspan="2" style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to all reactions and combos during Art.
+*Ignores enemy defense.
+|When reduced to 60% HP during fights at Lv 200
+|}
+=== Superboss Challenges ===
+After defeating it for the first time, Seraphic Ceratinia can be re-fought at increasing levels by selecting the "Challenge" option on its [[Named Grave]]. After defeating it at a given challenge level, it will appear at the next challenge level the next time it is challenged, until reaching its maximum level. Thus, only the initial Lv 120 version and the final Lv 200 challenge version can be refought.
+
+Seraphic Ceratinia has the following stats changed from its base Lv 120 version in each challenge version. Physical and Ether Defense, Critical Rate, Guard Rates and resistances are unchanged in these challenge versions. SP is not dropped from defeating it in a challenge, since the challenge counts as a refight.
+&lt;tabber&gt;
+Lv 125=
+&lt;h3 style="display:none;"&gt;Lv 125&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 15,498,000
+|atk   = 3,102
+|heal  = 1,158
+|dex   = 538
+|agil  = 384
+|exp   = 33,212
+|cp    = 803
+|gold  = 19,440
+}}
+|-|
+Lv 130=
+&lt;h3 style="display:none;"&gt;Lv 130&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 16,275,600
+|atk   = 3,192
+|heal  = 1,203
+|dex   = 552
+|agil  = 394
+|exp   = 35,112
+|cp    = 821
+|gold  = 20,480
+}}
+|-|
+Lv 135=
+&lt;h3 style="display:none;"&gt;Lv 135&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 17,067,600
+|atk   = 3,280
+|heal  = 1,251
+|dex   = 565
+|agil  = 403
+|exp   = 37,012
+|cp    = 839
+|gold  = 20,640
+}}
+|-|
+Lv 140= 
+&lt;h3 style="display:none;"&gt;Lv 140&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 17,812,800
+|atk   = 3,360
+|heal  = 1,296
+|dex   = 579
+|agil  = 414
+|exp   = 38,912
+|cp    = 857
+|gold  = 20,800
+}}
+|-|
+Lv 150= 
+&lt;h3 style="display:none;"&gt;Lv 150&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 19,040,400
+|atk   = 3,477
+|heal  = 1,390
+|dex   = 607
+|agil  = 433
+|exp   = 42,712
+|cp    = 894
+|gold  = 21,120
+}}
+|-|
+Lv 160= 
+&lt;h3 style="display:none;"&gt;Lv 160&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 20,192,400
+|atk   = 3,587
+|heal  = 1,482
+|dex   = 630
+|agil  = 450
+|exp   = 46,512
+|cp    = 930
+|gold  = 21,440
+}}
+|-|
+Lv 170= 
+&lt;h3 style="display:none;"&gt;Lv 170&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 21,330,000
+|atk   = 3,697
+|heal  = 1,575
+|dex   = 655
+|agil  = 469
+|exp   = 50,312
+|cp    = 967
+|gold  = 21,760
+}}
+|-|
+Lv 180= 
+&lt;h3 style="display:none;"&gt;Lv 180&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 22,449,600
+|atk   = 3,807
+|heal  = 1,668
+|dex   = 679
+|agil  = 486
+|exp   = 54,112
+|cp    = 1,003
+|gold  = 22,080
+}}
+|-|
+Lv 190= 
+&lt;h3 style="display:none;"&gt;Lv 190&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 23,558,400
+|atk   = 3,917
+|heal  = 1,759
+|dex   = 703
+|agil  = 503
+|exp   = 57,912
+|cp    = 1,040
+|gold  = 22,400
+}}
+|-|
+Lv 200= 
+&lt;h3 style="display:none;"&gt;Lv 200&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 24,649,200
+|atk   = 4,027
+|heal  = 1,852
+|dex   = 729
+|agil  = 520
+|exp   = 61,712
+|cp    = 1,076
+|gold  = 22,720
+}}
+&lt;/tabber&gt;
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Seraphic Ceratinia
+|image        = 
+|caption      = Seraphic Ceratinia
+|type         = Unknown
+|level        = 200
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|spawntime    = During ''[[The Four Devas]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 8,216,400
+|strength     = 2,658
+|healing      = 1,853
+|dexterity    = 701
+|agility      = 430
+|physdef      = 0%
+|ethdef       = 25%
+|critrate     = 5%
+|guardrate-front   = 15%
+|guardrate-side    = 10%
+|guardrate-back    = 10%
+}}
+Seraphic Ceratinia is fought at level 200 during the fourth wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[The Four Devas]]''.
+{{clr}}
+
+== Trivia == 
+* At level 200, Seraphic Ceratinia is tied with [[Strategizer Nitro]] from {{XC2}} as the highest level enemy in the {{XC|serieslink}}.
+* While not a member of any family, it draws upon various monsters for moves. For example, Celestial Dash is a reskin of the [[Ropl]] and [[Aligo]] family's Cursed Cuisine art.
+* Seraphic Ceratinia is the only Unique Monster in {{XC3}} to not use the battle theme "You Will Know Our Names - Finale", instead using "Ultimate Enemy" as its theme. Additionally, it is the only Unique Monster that gives the player a rematch option upon a party wipe, and the only Unique Monster to have an enclosed arena indicated by blue lines, both of which are usually reserved for [[Boss (XC3)|Story Bosses]].
+
+==Gallery==
+&lt;gallery&gt;
+Seraphic Ceratinia wings.png|Seraphic Ceratinia with its wings expanded.
+Seraphic ceratinia.png
+Seraphic ceratinia location.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>p7bxbiof0785z1fmrc1cuvkhxipdafw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sergeant's Headband</title>
+    <ns>0</ns>
+    <id>122590</id>
+    <revision>
+      <id>592846</id>
+      <parentid>592280</parentid>
+      <timestamp>2023-05-15T20:18:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592846</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1060" sha1="tbu7ga26l4d2po7pu0ieh0jhmlrkse1" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Sergeant's Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Physical Defense by 10 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Sergeant's Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Physical Defense by 11 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Sergeant's Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Increases Physical Defense by 12 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Sergeant's Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>tbu7ga26l4d2po7pu0ieh0jhmlrkse1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Serprond</title>
+    <ns>0</ns>
+    <id>74299</id>
+    <revision>
+      <id>602112</id>
+      <parentid>600814</parentid>
+      <timestamp>2023-07-22T12:28:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1696" sha1="gxgcdmbrgrh1iu12dxwmuhmk0bmejr0" xml:space="preserve">[[file:XC2 Perplexed Stoyan.jpg|thumb|Perplexed Stoyan]]
+'''Serpronds''' are a family of enemies in the {{XC|serieslink}}. They are flying aquatic enemies very similar to [[Marrin]]s.
+
+== {{XC2|-}} ==
+In {{XC2}}, Serpronds can often be encountered after [[Salvaging]]. One Serprond has a modelling mistake and appears as a Marrin (the [[Challenge Battle Enemy (XC2)|Challenge Battle Enemy]] [[Sword Serprond]]). 
+=== Normal Minor Enemies ===
+* [[Crane Serprond (XC2)|Crane Serprond]]
+* [[Eclipse Serprond]]
+* [[Straat Serprond]] (after salvaging)
+* [[Urobas Serprond]] (after salvaging)
+* [[Vaids Serprond (XC2)|Vaids Serprond]] (after salvaging)
+* [[Zeoth Serprond (XC2)|Zeoth Serprond]]
+
+=== Unique Monster ===
+* [[Perplexed Stoyan]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Deep Serprond]]
+* [[Sword Serprond]] (uses Marrin model)
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Abiddea Serprond]]
+* [[Crane Serprond (XC3)|Crane Serprond]]
+* [[Vaids Serprond (XC3)|Vaids Serprond]]
+* [[Zeoth Serprond (XC3)|Zeoth Serprond]]
+
+=== Quest-Exclusive Enemy ===
+* [[Delicious Serprond]] (During ''[[Unease]]'')
+
+=== Unique Monsters ===
+* [[Otherworldly Rodsin]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Crane Serprond (XC3)|Crane Serprond]]
+
+== Gallery ==
+&lt;gallery&gt;
+Crane Serprond.png|Crane Serprond
+ZeothSerprond.jpg|Zeoth Serprond
+SwordSerprond.jpg|Sword Serprond
+&lt;/gallery&gt;
+[[Category:XC2 Serpronds]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:XC3 Serpronds]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Serpronds]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Serpronds]]
+[[Category:Species by Type]]</text>
+      <sha1>gxgcdmbrgrh1iu12dxwmuhmk0bmejr0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Seymo Ottil</title>
+    <ns>0</ns>
+    <id>121168</id>
+    <revision>
+      <id>567933</id>
+      <parentid>566388</parentid>
+      <timestamp>2022-12-02T18:37:12Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <origin>567933</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1072" sha1="0tiydexgj6mna3l77tw7c30ix6x6zk2" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Seymo Ottil
+|image        = 
+|caption      = Seymo Ottil
+|category     = Minor Enemy
+|type         = [[Ottil]]
+|level        = 29-30
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Seymo Ottils''' are Minor Enemies in {{XC3}}. They are members of the [[Ottil]] family, and can be found at level 29-30 at [[Great Cotte Falls]] in the [[Pentelas Region]]. They commonly drop [[Ottil's Clambreaking Stone]] and [[Ottil's Treasured Bivavle]]. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ottils]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0tiydexgj6mna3l77tw7c30ix6x6zk2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shackle Arts</title>
+    <ns>0</ns>
+    <id>125903</id>
+    <revision>
+      <id>587567</id>
+      <parentid>587559</parentid>
+      <timestamp>2023-05-02T12:17:12Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="949" sha1="mv0vj0bliy4fdv1rwcrziq0bjxd8ngy" xml:space="preserve">{{Infobox XC3 Status
+|title          = Shackle Arts
+|caption        = Makes it impossible to use Arts.
+|image          = XC3 Shackle Arts.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = No
+}}
+'''Shackle Arts''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It prevents the affected character from using any Arts.
+
+The debuff can be guarded against through use of the [[Star Necklace]] and [[Moon Necklace]] [[Accessory (XC3)|Accessories]].
+
+==Distribution==
+''This debuff cannot be inflicted by the player's party.''
+===Enemy-only Arts===
+*Psychowave ([[Gyrinus]] family) &#8224;
+*Lord of the Ocean ([[Ravoon]] family)
+*Mind Blast ([[Queen of Keves (boss)|Queen of Keves]])
+*Primal Chronos ([[N]])
+
+&#8224; The [[Psychowave]] Art learned by [[Soulhacker]] does not inflict Shackle Arts.
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>mv0vj0bliy4fdv1rwcrziq0bjxd8ngy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shackle Blocking</title>
+    <ns>0</ns>
+    <id>125906</id>
+    <revision>
+      <id>588242</id>
+      <parentid>580496</parentid>
+      <timestamp>2023-05-03T06:29:10Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>588242</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" sha1="4hnjv3txr2jyac9lk2d0wfr01h08gcx" xml:space="preserve">{{Infobox XC3 Status
+|title          = Shackle Blocking
+|caption        = Makes it impossible to block.
+|image          = XC3 Shackle Blocking.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = Yes
+}}
+'''Shackle Blocking''' is a [[Status Effect]] in {{XC3}}. It prevents the affected character from guarding attacks.
+
+The debuff can be resisted by the [[Fiber Underguard]] and [[Ceramic Underguard]] [[Accessory (XC3)|Accessories]].
+
+==Distribution==
+===Arts===
+*[[Extended Slash]] ([[Yumsmith]])
+*[[Cavalry]] ([[Soulhacker]]; requires Soul Hacking [[Littlefort Morley]])
+*[[Titan Fists]] ([[Lanz]]'s [[Ouroboros]])
+*[[Final Say]] ([[Riku &amp; Manana]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>4hnjv3txr2jyac9lk2d0wfr01h08gcx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shackle Healing</title>
+    <ns>0</ns>
+    <id>125904</id>
+    <revision>
+      <id>587566</id>
+      <parentid>587564</parentid>
+      <timestamp>2023-05-02T12:15:52Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587566</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1368" sha1="k6xwgl9ztuyrxh468g81ets8paqu7kp" xml:space="preserve">{{Infobox XC3 Status
+|title          = Shackle Healing
+|caption        = Makes it impossible to heal HP.
+|image          = XC3 Shackle Healing.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = No
+}}
+'''Shackle Healing''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It prevents the affected character from being healed. This status's effects is similar to that of [[Nullify Heal]] from {{XC2}}.
+
+The debuff can be guarded against through use of the [[Charm Bangle (XC3)|Charm Bangle]] and [[Belemnite Bangle (XC3)|Belemnite Bangle]] [[Accessory (XC3)|Accessories]].
+
+==Distribution==
+''This debuff cannot be inflicted by the player's party.''
+===Enemy-only Arts===
+*Ice Breath ([[Aries]] and [[Ories]] families)
+*Butterfly Dust ([[Flier]] family) &#8224;
+*Vile Breath ([[Vokooku]] family)
+*Juicing the Fruit ([[Sharpwitted Tracy]], when between 50% and 25% HP)
+*Battle Pheromone ([[Spiky Aurelia]]) &#8224;
+*Compressive Shock ([[Slack-Jawed Zephal]])
+*Aquatic Impulse ([[Levialord Empireo]], Lv 180 only)
+*Beyond Death ([[Moebius D &amp; J]], in chapter 6)
+*Missile Burst ([[Moebius U]])
+*Accursed Dance ([[Moebius V]])
+&#8224; Arts of the same name learned by the [[Soulhacker]] class do not inflict Shackle Healing.
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>k6xwgl9ztuyrxh468g81ets8paqu7kp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shackle Ring</title>
+    <ns>0</ns>
+    <id>122620</id>
+    <revision>
+      <id>566871</id>
+      <parentid>551696</parentid>
+      <timestamp>2022-11-23T10:20:52Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566871</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1042" sha1="bh26n4nojr3bw8r91hs96dv3ob65by5" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Shackle Ring
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts effects of Arts with each different Art used within a set time.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Shackle Ring
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts effects of Arts with each different Art used within a set time.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Shackle Ring
+|image     = File:XC3 Accessory Ring.png
+|caption   = Boosts effects of Arts with each different Art used within a set time.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 24,700 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Shackle Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>bh26n4nojr3bw8r91hs96dv3ob65by5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shadow Mask</title>
+    <ns>0</ns>
+    <id>118996</id>
+    <revision>
+      <id>592847</id>
+      <parentid>592330</parentid>
+      <timestamp>2023-05-15T20:18:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592847</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1010" sha1="g9l2mg5n2i27tdder2tl8wb79ummtvz" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Shadow Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 70%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Shadow Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Shadow Mask
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Terrestrial Life by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Shadow Masks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>g9l2mg5n2i27tdder2tl8wb79ummtvz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shadow Vang (XC3)</title>
+    <ns>0</ns>
+    <id>117905</id>
+    <revision>
+      <id>595967</id>
+      <parentid>582205</parentid>
+      <timestamp>2023-06-16T18:47:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595967</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1660" sha1="dwvhyrscxoy5bs6tg6arb0wrvdb57xj" xml:space="preserve">{{for|the enemy in {{XC|-}}|Shadow Vang (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Shadow Vang
+|image        = Shadow Vang (XC3).png
+|caption      = Shadow Vang
+|type         = [[Vang]]
+|movement     = Air
+
+|tab1         = Alfeto Valley
+|category     = Normal Minor Enemy
+|level        = 9
+|area         = [[Alfeto Valley]] ([[Hermit's Alleyway (XC3)|Hermit's Alleyway]])
+|spawntime    = Anytime
+|respawn      = Yes
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+
+|tab2          = Millick Meadows
+|category2     = Normal Minor Enemy
+|level2        = 11, 23
+|area2         = [[Millick Meadows]] ([[Wraiths' Void]])
+|spawntime2    = Anytime
+|respawn2      = Yes
+|detection2    = 
+|exp2          = 
+|cp2           = 
+|sp2           = 
+
+}}
+'''Shadow Vangs''' are Normal Minor enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Vang]] family, and can be found at level 9 in [[Hermit's Alleyway (XC3)|Hermit's Alleyway]] in [[Alfeto Valley]] or level 11 and 23 in [[Wraiths' Void]] in [[Millick Meadows]].
+
+== Drops ==
+* [[Supersonic Vang Organ]]
+* [[Vang Membrane]]
+
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Vangs]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>dwvhyrscxoy5bs6tg6arb0wrvdb57xj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shania</title>
+    <ns>0</ns>
+    <id>119194</id>
+    <revision>
+      <id>597352</id>
+      <parentid>596945</parentid>
+      <timestamp>2023-06-28T03:56:56Z</timestamp>
+      <contributor>
+        <username>Robotortoise</username>
+        <id>4145737</id>
+      </contributor>
+      <comment>/* Gallery */ added Shania's paintings</comment>
+      <origin>597352</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16552" sha1="hd1vwcwq9yiqbqb9euz3m2an9njiwqx" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Shania
+|image         = Shania Concept Art cropped.png 
+|species       = [[Lost Numbers|Citizen]] (formerly)&lt;br/&gt;[[Moebius]]
+|age           = 18
+|gender        = Female
+|haircolor     = Brown
+|eyecolor      = Green
+|affiliation   = [[Lost Numbers]] (formerly)&lt;br/&gt;[[Consul]]s
+|voiceactorjp  = [[wikipedia:Haruka Terui|Haruka Terui]]
+|voiceactoreng = Louise Stewart
+|appearances   = {{XC3}}
+}}
+{{quote|What's so natural about the life you want? A life you only get one shot at? At any point, someone could come along and tell you "OK, that's it, time to go!"... It's madness wanting a world like that! The best world for us... is a world that at least gives us another go! We fail, we try again! We might do even better next time round!|Shania}}
+'''Shania Reid''' (Japanese: &#12471;&#12515;&#12490;&#12452;&#12450;&#12539;&#12522;&#12540;&#12489; ''Shanaia R&#299;do'') is a character in {{XC3}}.
+
+== Overview ==
+She served as a soldier for the [[Lost Numbers]] under the command of [[Monica Vandham]]. Tasked by the latter, she followed the party, completely oblivious of her presence, to monitor and report back their actions after the activation of the [[Ouroboros Stone]] by [[Guernica Vandham]] in [[Alfeto Valley]]. She is formally introduced alongside with Monica and the Lost Numbers when the party reaches [[Swordmarch]] and escorts them to the [[City]].
+
+She is descended from [[Panacea]], and very likely [[Sharla]] and possibly [[Reyn]] by extension.
+
+== Appearance ==
+[[File:Shania full shot.png|thumb|70px]]
+Shania is a young girl who is rather short despite being of adult age. She has fair skin, green eyes and light brown hair, worn in near shoulder-length twintails with her front bangs pinned back and held together with a hair clip. Her clothing consists of a cropped open vest, mini skirt and forearm guards that have a green military camouflage pattern and red strokes. Underneath, Shania has a skintight black, sleeveless, midthigh one-piece suit that also have matching red lines. In addition, she wears black, long sleeve fingerless arm gloves with red accents and dark colored combat boots with a rectangular metal piece on the toe tip.
+
+Shania's [[Blade (XC3)|Blade]] is a revolver-like pistol, a weapon that once belonged to her late sister, Titania.
+
+== Story ==
+=== Background ===
+{{quote|I'd known Shania since she was little. I always felt bad that she was being compared to her sister, Titania...but I was always told to mind my own business. I could see how tough it was to be a kid from the Six Houses. I should have tried to do more...|[[Playne]]}}
+[[File:FaX9LwZUIAAb1Xd.jpg|thumb|210px|Shania reflecting on her encounter with a Moebius]]
+Shania was born into one of the six founding houses of The City, House Reid, known for its emphasis on honor and status. Growing up, she was close friends with [[Ghondor]], a member of House Vandham. From a young age, Shania aspired to follow in the footsteps of her father and Ghondor's grandfather, Guernica Vandham, and become a hero who would protect the City and be respected and admired by her peers.
+
+However, her true passion was painting, something that both her father and Ghondor recognized and encouraged her to pursue. With the passing of her sister Titania, who was considered the family's pride, Shania was tasked with fulfilling the family's expectations and&#160;adopted her sister's Blade as her own to carry on the Reid's legacy.
+
+With the loss of her father, Shania lost a crucial source of support that prioritized her happiness over the family's reputation. Left alone with her critical and demanding mother, who never seemed satisfied with her efforts, Shania struggled to live up to her mother's impossibly high expectations and earn her approval. Despite her persistent efforts to impress her mother and make her proud, she was never able to find success and the constant disappointment from her mother took a toll on Shania's self-esteem and left her feeling unsupported and alone.
+
+As the Reid household's sole heir, Shania focused all of her attention on making it as one of the six candidates for the Ouroboros selection test but failed several times. She tried to emulate Ghondor, even copying her weapon and boxing bandages, believing it would help her succeed. This in turn frustrated Ghondor, as she did not like seeing Shania mimicking her and not being true to herself.
+
+Ghondor tried to steer Shania back to her passions and true self, but her advice came across as harsh and unsympathetic. Shania took Ghondor's words as a personal rejection and became fixated on proving her superiority to her friend. As Shania's obsession grew, Ghondor eventually gave up trying to reach her, feeling that her message was falling on deaf ears. The two grew distant and their friendship began to deteriorate.
+
+Despite all her efforts and struggles, she only managed to make it to eighth place out of 100 candidates. Though initially pleased with her accomplishment, her mother's disdain for not being selected as one of the top six shattered her self-esteem, leading her to abandon her love for painting, destroying her artwork and supplies in her bitter frustration.
+
+=== Awakening of the Ouroboros ===
+Shania eventually became convinced that the endless war of [[Aionios]] and the promise of being reborn in a clone body after death was preferable to a future in which people like herself supposedly wouldn't be able to live in peace, and was persuaded by [[X]] to submit to her jealousy and despair; she started spying on the Lost Numbers, eventually having a [[Flame Clock]] installed and openly betraying the party and the City to the [[Consul]]s. Following the defeat of [[N]] at [[Agnus Castle]] and the revelation that the City evaded its supposed destruction, she shoots herself.
+
+=== Becoming Moebius ===
+[[File:Shania breakdown.jpg|thumb|210px|Shania's breakdown after being cornered.]]
+Sometime later, Shania is resurrected and reawakens in a pool of water as the [[Consul]] S. She is greeted by X, who welcomes her into their ranks and shows her an image of Ghondor in the water's reflection, encouraging her to take revenge on the "faker". She attacks the City by freezing it in time so she can arrange its citizens as her "art", drawing the attention of Ghondor and the party at the [[Great Sword's Hilt]]. [[Sena]], Ghondor, and their allies defeat her, and she realizes that her friends and father genuinely appreciated her supposedly useless talent as she dies. Subsequently, while the party mourns her at the [[Remembrance Stones]], her mother arrives and shows no remorse for her passing, condemning her for dying as a mortal enemy of the City; this prompts threats from her rivals Ghondor and Monica, the latter of whom does so nonverbally and physically, upon which she flees.
+{{clr}}
+
+== Personality ==
+[[File:FaX9LwLVUAAp0ek.jpg|thumb|210px]]
+In her first appearance, Shania comes off as aloof and even somewhat impassive yet is helpful in assisting the main characters by guiding them to the City. She starts off as being soft-spoken and expresses very little in emotions in her introduction, with her face either having an indifferent or sullen expression.
+
+Because of the contempt she had for her own life, the concept of being in the endless cycle where one can be reborn after death and have a reset in life should their life end in failure appealed greatly to Shania. Joining in the endless cycle, where one is given another chance at life, enticed Shania to betray the Lost Numbers and join Moebius. Even going so far as betraying the entire City in a [[Annihilator|move]] that almost certainly would have destroyed her homeland and cause genocide to her people.
+
+After revealing her betrayal to the group and thwarting their plan to escape the [[Li Garte Prison Camp]], Shania's personality shows a shift into a more abrasive, callous, wrathful and maniacal one, contrasting starkly from how she previously conducted herself. Her voice becomes more aggressive and dramatic and she laughs maniacally while gloating when she believes she has the upper hand against Ghondor and the heroes.
+
+A deeper look into Shania reveals the root of her struggles are a deep-seated sense of low self-esteem, a feeling of loneliness, and a constant yearning for validation and approval from others, particularly from her mother and Ghondor.
+
+[[File:Shan paint.png|thumb|210px|Shania during her happier days]]
+Before her father's death, Shania, while still a timid and fragile person, was happier thanks in part to her father's support and encouragement of her artistic pursuits. However, after her father's passing, Shania was left alone with her mother, who placed a higher value on the reputation of the household name than on her daughter's happiness and well-being. This lack of emotional support and affection from her mother compounded Shania's feelings of misery and worthlessness.
+
+In addition to these personal challenges, Shania was also grappling with the immense pressure of being the sole heir to the Reid household following the death of her sister Titania. She was described as "the pitiable child of a downtrodden house," and her misery was only exacerbated as she failed to live up to her mother's overly high expectations. Despite her own personal achievements, such as placing eighth in the Ouroboros selection test, Shania's mother would destroy her enthusiasm by never being satisfied and only seeing disappointment. Her mother constantly compared her to others who were more successful, particularly Ghondor, further damaging Shania's self-esteem and confidence. This in turn led Shania into giving up her love for painting, likely seeing it as a useless activity that distracted her from becoming an Ouroboros candidate. It would also contribute to the straining of her relationship with former childhood friend and would push Shania to harbor intense jealousy and spite towards Ghondor. This jealously pushed her into an obsession of wanting to prove superiority over Ghondor.
+[[File:Ghondor shania painting.jpg|left|thumb|210px|Ghondor impressed with Shania's talent in painting.]]
+
+Shania's struggles are mirrored in Sena, who also struggles with loneliness and a desire for approval from others. Like Shania did with Ghondor, Sena latches onto someone more popular, talented and admired, in her case [[Mio]], in the hopes of receiving approval and succeeding. Both Mio and Ghondor try to encourage Sena and Shania to be themselves rather than imitate others, but their approaches differ significantly. Mio takes a more supportive and compassionate approach, while Ghondor adopts a harsh and brusque "tough love" approach that ultimately pushes Shania into resentment and a self-destructive obsession with surpassing her former friend. Ultimately, Shania's struggles and demise illustrates to Sena what her life could have been like if she had not had the support of a friend like Mio and serves as a poignant reminder to her of the importance of finding one's own identity.
+
+Shania is also paralleled with [[Joran]], as [[Lanz]] points out. Both were artistically talented and not meant for warfare, but were denied the chance to pursue their passion because the world they lived in would not allow such. In addition, both Shania and Joran despaired their respective lives due to the lack of choice they were given, which pushed them into joining Moebius. They were perfect candidates for [[Z]]'s vision of a world for the "meek and frail" who cannot choose, where there would be no losers as they would eventually become a "winner," given enough lifetimes until meeting a desired outcome, unaware that they would be given no such thing so long as Moebius prevented them from choosing.
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Shania
+| npc2 = Ghondor
+| affinity = green
+| caption = Be true to yourself
+| direction = left
+}}
+{{XC3 Affinity Link
+| npc1 = Shania
+| npc2 = Jansen
+| affinity = yellow
+| caption = Lost Numbers
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Shania
+| npc2 = Jansen
+| affinity = yellow
+| caption = Sympathy
+| direction = left
+| was = yellow
+| wasdirection = left
+}}
+
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius S
+|image        = consul-s.png
+|caption      = Moebius S
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 55
+|area         = [[City]] ([[Memorial Hall]])
+|spawntime    = During ''[[Side Story: Sena]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 3,616
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 2,891,100
+|strength     = 1,423
+|healing      = 351
+|dexterity    = 207
+|agility      = 157
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius S''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is a [[Moebius]] and is fought at level 55 at [[Memorial Hall]] in the [[City]] during ''[[Side Story: Sena]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Etymology ==
+Her name is of Native American origin, believed to be Ojibwa, meaning "I'm on my way." It is also a variant of "Shaina" of Yiddish origin, which means "beautiful."
+
+== Trivia ==
+* Shania and [[Z]] are the only Consuls who are never seen wearing a helmet or mask of any kind.
+* Shania shares notable similarities to [[w:c:xenosaga:Hammer (Xenogears)|Hammer]] from [[w:c:xenosaga:Xenogears|''Xenogears'']], a character who starts off as an ally assisting the main characters but betrays them during their attempts to make an escape (in ''Xenogears'', the party wants to escape from [[w:c:xenosaga:Solaris|Solaris]], a draconian society, while in {{XC3|-}}, the party wants escape from a prison camp). Both characters suffer from jealousy and a feeling of inadequacy and both characters die regretting their choices.
+* Since she wears her eyepatch on her right-eye, this implies that Shania is of [[Keves]]i origin, but it is revealed in {{XC3FR|sub}} that her house's founder was from the world of the [[Bionis]].
+* The soundtrack, "A Life Woven Together," plays during both of Shania's deaths.
+* In {{XC3|-}}, the number seven is thematic and is frequently referenced, both in obvious and subtle form. Meanwhile, the number eight resembles the Moebius Strip, or the infinite loop symbol. Shania making eighth place in the Ouroboros selection test is likely a reference to this as she eventually joins Moebius after being revived.
+* After completing  ''Side Story: Sena'', if the player has Monica in their party and visit the Remembrance Stone, she will have a unique dialogue about Shania's death, saying: "Shania&#8230; We can't leave your name here, but&#8230; Your desires, your hopes&#8230; We'll shoulder them for you." Additionally, when playing as Sena when facing off against X in the [[Origin Interior]], if ''Side Story: Sena'' has been completed, X will taunt Sena in a cheeky manner by inquiring about Shania's wellbeing. Sena retorts by refusing to disclose any information about Shania.
+* In the {{XC3|-}} artbook, Shania's page is located in the middle of the section dedicated to the [[Hero]] characters. It could be implied that she was originally planned to be a Hero (possibly temporary before her betrayal) but the idea was scrapped.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+060 shania.png
+Shania Artwork.png
+Shania concept saitom.png
+Consuls J S and C.jpg|Moebius S Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Shania Icon.png|Shania's affinity chart icon.
+Shania guest icon.png|Shania's guest icon.
+&lt;/gallery&gt;
+
+=== Shania's Paintings ===
+&lt;gallery&gt;
+XBC3_Shania_Sketch_Art.png|Shania's sketch painting.
+XBC3_Shania_Art.png|Shania's finished painting.
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Shania (1).jpg
+Shan sad.jpg
+Shania (2).jpg
+Shania laughing maniacally.jpg
+Shania5.jpg
+To hell with it all.jpg
+File:Shania pic.png
+Shan suici (2).jpg
+Shan suici (1).jpg
+Shania death.jpg
+Consul S.jpg|Shania as Consul S
+Consul S vs Ghondo.jpg|Shania fighting Ghondor
+Shania death2.jpg
+Shania father.jpg
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+[[Category:Lost Numbers]]
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:City Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 51-55 Enemies]]</text>
+      <sha1>hd1vwcwq9yiqbqb9euz3m2an9njiwqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sharkblade Nedd</title>
+    <ns>0</ns>
+    <id>119488</id>
+    <revision>
+      <id>574682</id>
+      <parentid>559461</parentid>
+      <timestamp>2023-01-30T04:19:33Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1403" sha1="m0yullpsh3ocwvcl6qoeqtsp9tceioj" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Sharkblade Nedd
+|image        = Sharkblade Nedd.jpg
+|caption      = Sharkblade Nedd
+|type         = [[Gyaark]]
+|level        = 67
+|area         = [[Erythia Sea]] ([[Daedal Isle]])
+|spawntime    = Day
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 3,134
+|cp           = 171
+|sp           = 5
+|gold         = 1,330
+|hp           = 2,908,700
+|strength     = 1,514
+|healing      = 438
+|dexterity    = 320
+|agility      = 168
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 38%
+|guardrate    = 0%
+}}
+'''Sharkblade Nedd''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Gyaark]] family, and can be found at level 67 west of [[Daedal Isle]] in the [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Positional Attacker]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Sharkblade nedd location.png|Location of Sharkblade Nedd
+Sharkblade nedd.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Gyaarks]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Time Dependent Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>m0yullpsh3ocwvcl6qoeqtsp9tceioj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sharpfang Necklace</title>
+    <ns>0</ns>
+    <id>118997</id>
+    <revision>
+      <id>592848</id>
+      <parentid>592363</parentid>
+      <timestamp>2023-05-15T20:18:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592848</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1101" sha1="jvxs63y6ray99nxpk06kiy7fc9if3ra" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Sharpfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targetting you by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Sharpfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targetting you by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Sharpfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targetting you by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Sharpfang Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>jvxs63y6ray99nxpk06kiy7fc9if3ra</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sharpscale Ragoon</title>
+    <ns>0</ns>
+    <id>119469</id>
+    <revision>
+      <id>583290</id>
+      <parentid>574347</parentid>
+      <timestamp>2023-04-17T15:26:54Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1439" sha1="r5mrf4kpygklphy3kk7v51xxn95g31z" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Sharpscale Ragoon
+|image        = XC3 Sharpscale Ragoon.png
+|caption      = Sharpscale Ragoon
+|type         = [[Merigna]]
+|level        = 66
+|area         = [[Erythia Sea]] ([[Oshia's Reef Ravine]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,589
+|cp           = 187
+|sp           = 5
+|gold         = 1,044
+|hp           = 1,588,400
+|strength     = 1,192
+|healing      = 515
+|dexterity    = 249
+|agility      = 261
+|physdef      = 15%
+|ethdef       = 10%
+|critrate     = 27%
+|guardrate    = 0%
+}}
+'''Sharpscale Ragoon''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Merigna]] family, and can be found at level 66 at [[Oshia's Reef Ravine]] in [[Erythia Sea]]. It forms the trio "Whirlpool Triumvirate" with [[Hardscale Gouran]] and [[Fairscale Marina]]. The Aquatic Warrior [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Whirlpool triumvirate location.png
+Whirlpool triumvirate ragoon.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Merignas]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>r5mrf4kpygklphy3kk7v51xxn95g31z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sharpshooter</title>
+    <ns>0</ns>
+    <id>122485</id>
+    <revision>
+      <id>597517</id>
+      <parentid>597435</parentid>
+      <timestamp>2023-06-30T07:02:35Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>shulk and rex's classes are also non-inheritable</comment>
+      <origin>597517</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3057" sha1="tmwzw41fzh0uxxv0fa8f6bb1mht4rqh" xml:space="preserve">[[File:XC3 Sharpshooter Weapon Icon.png|thumb|The Sharpshooter class icon]]
+'''Sharpshooter''' is a [[Keves]]i [[Attacker (XC3)|Attacker]] [[class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Sharpshooter is a simple attacking class that provides the party with additional damage and buffs.
+
+It is only used by [[Mwamba]], and cannot be inherited by [[Ouroboros]] members. It is one of three classes (and the only class apart from DLC) with this distinction.
+== Class Stats ==
+The Sharpshooter class grants the following multipliers to Mwamba's base stats, and sets his Physical and Ether Defense to the following values.
+
+In practice, these multipliers are always in effect, since Mwamba cannot change classes. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent. Although class multipliers are programmed for every Rank, only the Rank 10 values end up being used.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 80% || 95% || 50% || 110% || 90% || 10% || 10%
+|-
+| 10 || 82% || 97% || 55% || 115% || 92% || 12% || 12%
+|-
+| 20 || 85% || 100% || 60% || 120% || 95% || 15% || 15%
+|}
+=== Weapon Stats ===
+Mwamba's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on his [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine Mwamba's Critical Rate and Block Rate.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 16 || 5% || 5%
+|-
+| 10 || 34 || 5% || 5%
+|-
+| 20 || 61 || 6% || 6%
+|-
+| 30 || 95 || 6% || 6%
+|-
+| 40 || 132 || 7% || 7%
+|-
+| 50 || 176 || 8% || 8%
+|-
+| 60 || 225 || 8% || 8%
+|-
+| 70 || 278 || 9% || 9%
+|-
+| 80 || 340 || 9% || 9%
+|-
+| 90 || 409 || 10% || 10%
+|-
+| 99 || 478 || 10% || 10%
+|}
+
+== Arts ==
+*'''[[Bullet Rush]]''' (Talent Art), AOE/Unblockable (%)
+*'''[[Aero Burst]]''', Damage to [[Agnus]]&#8593;
+*'''[[Rising Blast]]''', Side Attack&#8593;
+*'''[[Hair Trigger (XC3)|Hair Trigger]]''', Crit. Rate Up
+*'''[[Driving Bullet]]''', AOE/Accuracy Up
+*'''[[Tri-Shot]]''', Damage to Machines&#8593;
+
+== Class Skills ==
+*'''Sniper''': Boosts Dexterity by 10-30%.
+*'''Clinical Mentality''': Reduces aggro generated when using Arts by 40-65%.
+*'''I'll Survive''': Boosts Evasion by 20-30% when HP is at 30% or lower.
+*'''Power Bullet''': Boosts damage dealt by 10-30% when HP is at 90% or higher.
+
+=== Stat Increases ===
+Only the Rank 10 value is used.
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Sniper
+!Clinical Mentality
+!I'll Survive
+!Power Bullet
+|-
+| 1
+| 10%
+| 40%
+| 20%
+| 10%
+|-
+| 5
+| 15%
+| 45%
+| 22%
+| 15%
+|-
+| 10
+| 20%
+| 50%
+| 25%
+| 20%
+|-
+| 15
+| 25%
+| 60%
+| 27%
+| 25%
+|-
+| 20
+| 30%
+| 65%
+| 30%
+| 30%
+|}
+
+== Trivia ==
+* A past incarnation of [[Eunie]] was a Sharpshooter in [[Colony 18]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>tmwzw41fzh0uxxv0fa8f6bb1mht4rqh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sharpwitted Tracy</title>
+    <ns>0</ns>
+    <id>118076</id>
+    <revision>
+      <id>583317</id>
+      <parentid>574683</parentid>
+      <timestamp>2023-04-17T16:08:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583317</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1367" sha1="dja6f9zd6t5b13m5s2gufe9bznbdkdc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sharpwitted Tracy
+|image        = Sharpwitted Tracy.png
+|caption      = Sharpwitted Tracy
+|category     = [[Unique Monster (XC3)|Unique Monster]]
+|type         = [[Camill]]
+|level        = 15
+|area         = [[Eagus Wilderness]] ([[Reith Valley]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 306
+|cp           = 88
+|sp           = 5
+|gold         = 339
+|hp           = 120,800
+|strength     = 290
+|healing      = 896
+|dexterity    = 63
+|agility      = 77
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 38%
+|guardrate    = 0%
+}}
+'''Sharpwitted Tracy''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Camill]] family and can be found at level 15 in [[Reith Valley]] in the [[Eagus Wilderness]]. The [[Soulhacker#Enemy Skills|Surprise Attack]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 50%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Sharpwitted tracy location.png
+Sharpwitted tracy.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Camills]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dja6f9zd6t5b13m5s2gufe9bznbdkdc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shell Cameo (XC3)</title>
+    <ns>0</ns>
+    <id>118998</id>
+    <revision>
+      <id>592849</id>
+      <parentid>592564</parentid>
+      <timestamp>2023-05-15T20:18:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592849</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1057" sha1="9zcc18dtba4zev8mwtu0d4l9y6xipq9" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Shell Cameo (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Shell Cameo
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts amount of HP restored to self by 10%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Shell Cameo
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts amount of HP restored to self by 11%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Shell Cameo
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts amount of HP restored to self by 12%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Shell Cameos''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>9zcc18dtba4zev8mwtu0d4l9y6xipq9</sha1>
+    </revision>
+  </page>
+  </mediawiki>

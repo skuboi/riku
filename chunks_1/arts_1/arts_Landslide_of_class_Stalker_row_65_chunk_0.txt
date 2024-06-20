@@ -1,0 +1,6 @@
+Art Name: Landslide
+
+Class: Stalker
+
+Effect: Launched_ / Evade
+

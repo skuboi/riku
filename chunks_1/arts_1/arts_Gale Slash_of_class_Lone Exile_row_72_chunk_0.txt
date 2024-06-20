@@ -1,0 +1,6 @@
+Art Name: Gale Slash
+
+Class: Lone Exile
+
+Effect: AOE / Aggroed_
+

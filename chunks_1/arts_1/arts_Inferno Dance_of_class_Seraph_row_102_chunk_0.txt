@@ -1,0 +1,6 @@
+Art Name: Inferno Dance
+
+Class: Seraph
+
+Effect: AOE/Dmg to self/Blaze
+

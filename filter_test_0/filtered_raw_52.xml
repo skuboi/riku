@@ -1,0 +1,530 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Poseidon Merigna</title>
+    <ns>0</ns>
+    <id>121853</id>
+    <revision>
+      <id>559872</id>
+      <parentid>546975</parentid>
+      <timestamp>2022-09-30T10:55:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559872</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="808" sha1="gpvuykd9pnruxdpvkkk3esscwbnylrs" xml:space="preserve">{{Infobox Enemy
+|name         = Poseidon Merigna
+|image        = 
+|caption      = Poseidon Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Poseidon Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>gpvuykd9pnruxdpvkkk3esscwbnylrs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Power Bangle</title>
+    <ns>0</ns>
+    <id>118989</id>
+    <revision>
+      <id>592832</id>
+      <parentid>592313</parentid>
+      <timestamp>2023-05-15T20:18:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1219" sha1="f3zftejhtj3a591g1jrtjjrmhuaok3i" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Power Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Power Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Power Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the front by 19%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Power Bangles''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be purchased at the [[Colony Iota Commissary]], they are one of the items that can be used to complete the mission ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>f3zftejhtj3a591g1jrtjjrmhuaok3i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Power Belt</title>
+    <ns>0</ns>
+    <id>122641</id>
+    <revision>
+      <id>566854</id>
+      <parentid>551689</parentid>
+      <timestamp>2022-11-23T07:47:39Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566854</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="980" sha1="nrpnpnjj3t7d33suagphrmzz4wqgzo1" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Power Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 50 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Power Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 55 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Power Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Launch resistance by 60 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 20,210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Power Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>nrpnpnjj3t7d33suagphrmzz4wqgzo1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Power Charge</title>
+    <ns>0</ns>
+    <id>125743</id>
+    <revision>
+      <id>596876</id>
+      <parentid>587586</parentid>
+      <timestamp>2023-06-21T13:19:26Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add sources in FR</comment>
+      <origin>596876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2303" sha1="idkcac4hd1zxlxtmwafwefh5jgr8ar6" xml:space="preserve">{{Infobox XC3 Status
+|title          = Power Charge
+|image          = XC3 Power Charge.png
+|type           = Buff
+|base-duration  = &lt;abbr title="Lasts until affected character uses a damaging Art, is incapacitated, or the battle ends"&gt;Indefinite&lt;/abbr&gt;
+|rng-applicable = Yes
+|effect-title-1 = Next Art Damage Bonus
+|effect-value-1 = 50%
+}}
+'''Power Charge''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It boosts the damage of the affected character's next Art.
+
+== Notes ==
+*Power Charge does not trigger upon a character's auto-attack, only when any Art that deals damage is used. Power Charge is also consumed on a character's Chain Art in a [[Chain Attack (XC3)|Chain Attack]], when their order is completed.
+*If the Art to be buffed by Power Charge is fused with another Art, both Arts will gain the bonuses of Power Charge.
+*The Power Charge's damage bonus is nearly independent of other damage bonuses, stacking additively only with [[Raging Force]], [[Element Genesis]], and [[Soulhacker#Enemy Skills|Accelerating Attacks]]'s damage bonuses.&lt;ref&gt;https://rocco.dev/blog/xenoblade-3-effects/&lt;/ref&gt;
+
+== Distribution ==
+=== Arts ===
+*[[Cross Impact (XC3)|Cross Impact]] ([[Flash Fencer]]; applied only on hit)
+*[[Dragon Decree]] ([[Soulhacker]]; requires Soul Hacking [[Hardscale Gouran]])
+*[[Toxic Gas]] (Soulhacker; requires Soul Hacking [[Spectral R&#233;my]]; applied only on hit)
+*[[Glorious Wing]] ([[Noah]]'s [[Ouroboros]])
+*[[Saber Siege]] ([[Ashera]]'s [[Chain Attack (XC3)|Chain Order]])
+*[[Galactic Flight]] ([[Fiona]]'s Chain Order)
+*[[Liberation Edge]] ([[Shulk]]'s Chain Order)
+====In {{XC3FR|sub}}====
+*[[Energy Boost]] and associated fusions ([[Matthew (FR)|Matthew]])
+*Liberation Edge (Default completion bonus of Shulk's Chain Order)
+=== Skills ===
+* [[Soulhacker#Enemy Skills|Counter Puncher]] (Soulhacker, requires Soul Hacking [[Fang-King Clavein]]; chance-based trigger on evading)
+
+=== Accessories ===
+* [[Fighting Headband]] (chance-based trigger on evading)
+
+====In {{XC3FR|sub}}====
+The following [[Accessory (XC3)|Manuals]] grant Power Charge as part of the completion bonus during a Chain Attack:
+* [[Tactics Manual, vol. 14]]
+* [[Tactics Manual, vol. 18]]
+* [[Strategy Manual, vol. 9]]
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>idkcac4hd1zxlxtmwafwefh5jgr8ar6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prayer Necklace</title>
+    <ns>0</ns>
+    <id>118990</id>
+    <revision>
+      <id>592833</id>
+      <parentid>592425</parentid>
+      <timestamp>2023-05-15T20:18:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592833</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="619" sha1="re7k5139v4odkf56h1wf8sr6gqab2v4" xml:space="preserve">&lt;div style="float: right;"&gt;
+{{Infobox item
+|name      = Prayer Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Grants Armor Veil to revived allies.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+&lt;/div&gt;
+'''Prayer Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be purchased at the [[Colony 9 Commissary]], they are one of the items that can be used to complete the mission ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>re7k5139v4odkf56h1wf8sr6gqab2v4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Predator Mask</title>
+    <ns>0</ns>
+    <id>125643</id>
+    <revision>
+      <id>577138</id>
+      <timestamp>2023-02-16T14:33:25Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Predator Mask |image     =  |caption   = Boosts damage dealt to Terrestrial Life by 110%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Predator Masks''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3 stub}}  C..."</comment>
+      <origin>577138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="580" sha1="st1gpi7y0b9ilcokafp5fz9brk6whg1" xml:space="preserve">{{Infobox item
+|name      = Predator Mask
+|image     = 
+|caption   = Boosts damage dealt to Terrestrial Life by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Predator Masks''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>st1gpi7y0b9ilcokafp5fz9brk6whg1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pressing Rafeel</title>
+    <ns>0</ns>
+    <id>119514</id>
+    <revision>
+      <id>574632</id>
+      <parentid>574547</parentid>
+      <timestamp>2023-01-29T22:05:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1427" sha1="9sejo7jc0hfhf68gfkph3732vmmeukb" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Pressing Rafeel
+|image        = XC3 Pressing Rafeel.png 
+|caption      = Pressing Rafeel
+|type         = [[Enpedia]]
+|level        = 69
+|area         = [[Origin Interior]] ([[Hangar, Lower Level (Origin)|Hangar, Lower Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 6,739
+|cp           = 310
+|sp           = 5
+|gold         = 3,312
+|hp           = 3,935,800
+|strength     = 2,021
+|healing      = 3,472
+|dexterity    = 262
+|agility      = 163
+|physdef      = 20%
+|ethdef       = -15%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Pressing Rafeel''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Enpedia]] family, and can be found at level 69 in the [[Hangar, Lower Level (Origin)|Hangar, Lower Level]] in the [[Origin Interior]]. The [[Soulhacker#Enemy Skills|Defense Mastery]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 90%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Pressing rafeel location.png
+Pressing rafeel.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enpedias]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9sejo7jc0hfhf68gfkph3732vmmeukb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pretty Fierce</title>
+    <ns>0</ns>
+    <id>124335</id>
+    <revision>
+      <id>576291</id>
+      <parentid>564955</parentid>
+      <timestamp>2023-02-09T13:16:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1256" sha1="beewa0w8v6zzowo3otwaugbeop9nq30" xml:space="preserve">{{Infobox quest
+|name         = Pretty Fierce
+|image        = XC3 Challenge Battle Mode.png
+|description  = "Cute and pretty monsters take stage! Might want to pet, but please refrain. First win, then can pet Archsage."
+|giver        = [[Nopon Archsage]]
+|location     = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs      = Chapter 6 started
+|difficultyCB3= 3
+|rewards      = 
+}}
+'''Pretty Fierce''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear B outfit for [[Mio]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 4
+|-
+| Level Restriction || Lv 50
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="1" | 1 || [[Little Armu]] x4 || 50
+|-
+| rowspan="2" | 2 || [[Chako Shoox]] || 52
+|-
+| [[Tiiko Shoox]] x3 || 52
+|-
+| rowspan="1" | 3 || [[Mukiri Ottil]] || 55
+|-
+| rowspan="3" | 4 || [[Leap Pippito (XC3)|Leap Pippito]] x2 || 55
+|-
+| [[Pixidan Pippito]] x2 || 53
+|-
+| [[Prithee Pippito]] x2 || 52
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>beewa0w8v6zzowo3otwaugbeop9nq30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Primate Triumvirate</title>
+    <ns>0</ns>
+    <id>124375</id>
+    <revision>
+      <id>576292</id>
+      <parentid>564590</parentid>
+      <timestamp>2023-02-09T13:16:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1194" sha1="4yhgyayrezi4zcw59uhsoe0kf46j9eh" xml:space="preserve">{{Infobox quest
+|name          = Primate Triumvirate
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Bad news! Colony 5 occupied by humongous Gogols! And when say humongous, mean huge!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main Story completed
+|difficultyCB3 = 5
+|rewards       = 1050-1500 [[Noponstone]]s (Easy) &lt;br&gt;2100-3000 [[Noponstone]]s (Normal)&lt;br&gt;3150-4500 [[Noponstone]]s (Hard)
+}}
+'''Primate Triumvirate''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will reward the player with an [[Accomplished Crown]].
+
+== Challenge Rules ==
+{| class="xc1"
+|Waves||3
+|-
+|Level Restriction||Lv 99
+|}
+
+== Enemies ==
+{| class="xc1"
+!Wave
+!Enemy
+!Level
+|-
+| 1 || [[Impish Langobard]] || 105
+|-
+| 2 || [[Jingoistic Gigantus]] || 100
+|-
+| 3 || [[Immovable Gonzalez (XC3)|Immovable Gonzalez]] || 110
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>4yhgyayrezi4zcw59uhsoe0kf46j9eh</sha1>
+    </revision>
+  </page>
+  </mediawiki>

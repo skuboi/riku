@@ -1,0 +1,1537 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Equites (boss)</title>
+    <ns>0</ns>
+    <id>128269</id>
+    <revision>
+      <id>596125</id>
+      <parentid>595941</parentid>
+      <timestamp>2023-06-16T20:22:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1329" sha1="42qrexmprbwqjy9l4m6f1abwun4tim3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Equites
+|image        = 
+|caption      = Equites
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 63
+|area         = [[Fornis Region]] ([[Elaice Highway]])
+|spawntime    = During ''[[Knowing Your Family]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Equites''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a [[Keves]]i [[Levnis]] from a group of [[Keves Forces]] called '''Colony 29 Raiders''' fought at level 63 in the [[Elaice Highway]] in the [[Fornis Region]] during ''[[Knowing Your Family]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>42qrexmprbwqjy9l4m6f1abwun4tim3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eraser Orb (XC3)</title>
+    <ns>0</ns>
+    <id>122617</id>
+    <revision>
+      <id>592758</id>
+      <parentid>592539</parentid>
+      <timestamp>2023-05-15T20:14:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592758</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1094" sha1="dfh6qgdbczombl3r6aibqw8c5tw1lhv" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Eraser Orb (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Eraser Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 70%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Eraser Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Eraser Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Eraser Orbs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>dfh6qgdbczombl3r6aibqw8c5tw1lhv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eregaa Anlood</title>
+    <ns>0</ns>
+    <id>123994</id>
+    <revision>
+      <id>582046</id>
+      <parentid>559223</parentid>
+      <timestamp>2023-04-07T22:09:57Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>added proper info</comment>
+      <origin>582046</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1115" sha1="egtjccb4v22sxoaegcwrmotfom31e3t" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Eregaa Anlood
+|image        = 
+|caption      = Eregaa Anlood
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Anlood]]
+|level        = 33
+|area         = [[High Maktha Wildwood]]
+|spawntime    = During ''[[Stolen Provisions]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Eregaa Anloods''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Anlood]] family, and can be found at level 33 near the [[Sparkling Pool Camp]] in [[High Maktha Wildwood]] during ''[[Stolen Provisions]]''. They drop the [[Luscious Fillet]]s needed to complete the [[Quest (XC3)|quest]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>egtjccb4v22sxoaegcwrmotfom31e3t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eruno Kananus</title>
+    <ns>0</ns>
+    <id>121727</id>
+    <revision>
+      <id>598173</id>
+      <parentid>579969</parentid>
+      <timestamp>2023-07-04T16:56:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="879" sha1="r7wvpov5bpzhhp5whngxv6z05acbuqw" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Eruno Kananus
+|image        = Eruno Kananus.jpg
+|caption      = Eruno Kananus
+|category     = Normal Minor Enemy
+|type         = [[Kananus]]
+|level        = 68-69
+|area         = [[Origin Interior]] ([[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Eruno Kananuses''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Kananus]] family, and can be found at level 68-69 at [[Central Defense]] in the [[Origin Interior]]. They commonly drop [[Obsidian Kananus Mane]] and [[Kananus Razor Horn]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Kananuses]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>r7wvpov5bpzhhp5whngxv6z05acbuqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eruno Myoot</title>
+    <ns>0</ns>
+    <id>121728</id>
+    <revision>
+      <id>598129</id>
+      <parentid>579958</parentid>
+      <timestamp>2023-07-04T15:48:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1007" sha1="qniw0itvn3wx03j4klc5c9u6kx864ds" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Eruno Myoot
+|image        = Eruno Myoot.jpg
+|caption      = Eruno Myoot
+|category     = Normal Minor Enemy
+|type         = [[Myoot]]
+|level        = 62-63
+|area         = [[Origin Interior]] ([[Amplifier No. 1]], [[Amplifier Section]], [[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Eruno Myoots''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Myoot]] family, and can be found at level 62-63 at [[Amplifier No. 1]], the [[Amplifier Section]], and [[Ferronis Arsenal 1|Ferronis Arsenals #1]] and [[Ferronis Arsenal 3|#3]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Myoots]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qniw0itvn3wx03j4klc5c9u6kx864ds</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eruno Vokooku</title>
+    <ns>0</ns>
+    <id>121729</id>
+    <revision>
+      <id>598101</id>
+      <parentid>579955</parentid>
+      <timestamp>2023-07-04T15:01:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>image</comment>
+      <origin>598101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="873" sha1="39yeslh82jtums8djad7l2pjk1xw4g3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Eruno Vokooku
+|image        = Eruno Vokooku.jpg
+|caption      = Eruno Vokooku
+|category     = Normal Minor Enemy
+|type         = [[Vokooku]]
+|level        = 64-65
+|area         = [[Origin Interior]] ([[North Shell Passage]], [[South Shell Passage]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Eruno Vokookus''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Vokooku]] family, and can be found at level 64-65 in the [[North Shell Passage]] and the [[South Shell Passage]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Vokookus]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>39yeslh82jtums8djad7l2pjk1xw4g3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ethel</title>
+    <ns>0</ns>
+    <id>116804</id>
+    <revision>
+      <id>600217</id>
+      <parentid>598025</parentid>
+      <timestamp>2023-07-20T17:39:38Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added ENG IMDB link</comment>
+      <origin>600217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13428" sha1="2p6wob7bsmuxuyd0rwp42tc3m3boq4o" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Ethel
+|image         = Ethel portrait artwork.png
+|species       = [[Keves]]i human
+|age           = 10th Term &lt;ref&gt;Before ending Chapter 4, after completing her ascension condition and during the final ending cutscene. &lt;/ref&gt;&lt;br/&gt;In Cradle&lt;ref&gt;Starting Chapter 5 and Cammuravi's Hero Quest not completed.&lt;/ref&gt;&lt;br/&gt;1st term&lt;ref&gt;Cammuravi's Hero Quest completed but has not completed her ascension condition.&lt;/ref&gt;
+|gender        = Female
+|haircolor     = Silver
+|eyecolor      = Blue
+|affiliation   = [[Colony 4]] (formerly)&lt;br/&gt;[[City]]
+|voiceactorjp  = [[wikipedia:Atsumi Tanezaki|Atsumi Tanezaki]] 
+|voiceactoreng = [https://www.imdb.com/name/nm10290759/ Lucy Doyle]
+|appearances   = {{XC3}}
+}}
+{{quote|Silvercoat Ethel...! She pushed her Colony, all the way to rank Silver, and in her third term at that.|Eunie}}
+'''Silvercoat Ethel''' (Japanese: {{Lang|jp|&#30333;&#37504;&#12398;&#12456;&#12475;&#12523;}}, ''Shirogane no Eseru''), is a character in {{XC3}}.
+
+== Overview ==
+Ethel is the commander of the [[Colony 4]], a [[Keves]]i [[Colony]].&lt;ref&gt;[https://topics.nintendo.co.jp/article/3ced4c9d-a5e1-43a3-b16e-0005971ed404 Nintendo]&lt;/ref&gt; She wields a pair of slender swords. She is famous for defeating three enemy colonies at once with only 100 soldiers at her command. She is called Silvercoat Ethel by all the forces of Keves. In the past, Ethel saved [[Noah]] and his friends from an [[Agnus|Agnian]] attack.&lt;ref&gt;https://twitter.com/NintendoAmerica/status/1522678213654233097&lt;/ref&gt; In battle, she wields [[Blade (XC3)|Dual Rapiers]] and is of the [[Flash Fencer]] [[Class (XC3)|class]].
+Ethel is temporarily recruited as a [[Hero]] after completing the [[Hero Quest]] ''[[No Want of Courage]]'', but cannot be used after the party leaves Colony 4.
+
+For Ethel to rejoin the party, a member of the party must reach [[Class Rank (XC3)|rank]] 10 with the Flash Fencer and [[Seraph]] classes. The party then must go inside the lab at [[Colony Omega]] with Cammuravi in the party. By having Ethel undergo the maturation process, she will be able to rejoin the party at rank 20.
+
+== Story ==
+Despite her prowess, Colony 4 was reduced to Dirt Rank after her refusal to kill her sworn rival [[Cammuravi]] after she was victorious in a [[Ferronis]] duel against him; his Ferronis' joints had collapsed due to a lapse in maintenance and she did not have an interest in winning what she believed to be a tainted victory. They both looked forward to a future opportunity to duel one another, not out of hatred but simply for their own satisfaction. 
+
+By hijacking her Iris, Ethel is brainwashed by the [[Consul]] [[K]] into seeing Noah and his party as shadowy monsters in order to goad her into killing them. Despite their attempts to flee, she forces them into battle against her. However, K's control over her begins to fail and she stands down before being knocked unconscious by K. Following his death and the destruction of Colony 4's [[Flame Clock]], Ethel learns the truth of the [[Ouroboros]] and pledges her support to them. She is unable to join them for long, however, as she insists on delivering a report of what happened (albeit a false one) to the [[Queen of Keves]] as part of her duties as commander. 
+
+When she arrives at [[Keves Castle]], [[N]] and the Queen reveal that they know she has been collaborating with Ouroboros and threaten to destroy Colony 4 with the [[Annihilator]] if she does not kill them. She is forced to work alongside Cammuravi and pilot a [[Ethel's Ferronis|specially made Ferronis]] in an attempt to kill Noah and his allies, but she and Cammuravi intentionally hold back to give them a fighting chance. Consuls [[O]] and [[P]] attempt to brainwash Cammuravi, but he instead gouges his own eye out to stop them from hijacking his Iris and declares that he will not be the Consuls' slave. The Consuls begin to drain her life force and Cammuravi's as punishment for their defiance, but they ultimately choose to die on their own terms in one last duel. 
+
+Her cradle is later stolen from Keves Castle by the [[Lost Numbers]], who keep it stored within their facility to deny it to the Kevesi forces. However, she is accidentally released by [[Cubibi]] during a game of hide-and-seek and joins the people of the [[City]]. At her insistence and the advice of the similarly revived Cammuravi (who she instinctively recognizes despite having no memory of her previous life), she travels to [[Colony Omega]] and has her growth accelerated to her final term, allowing her to fight with Noah and her allies once again.  
+
+Should the player have Ethel undergo her maturation process, she will later join Noah and his allies in their final battle against [[Z&#8734;]], alongside all of the other Heroes they encountered on their journey. She can be summoned by [[Melia]] and [[Nia]] to help fight against [[X&#8734;]] or [[Y&#8734;]]. Regardless of whether or not Ethel rejoins the party, she appears fully matured during the ending cutscene standing alongside other Kevesi commanders.
+{{clr}}
+
+== Gameplay ==
+Ethel's class is [[Flash Fencer]], a [[Keves]]i [[Attacker]] class. She specialises in felling foes quickly, with increased damage (as well as considerable recharge on her Talent Art) to start a battle.
+
+=== Arts ===
+* '''[[Saber Strike]]''' (Talent Art), [[Smash (XC3)|Smash]]
+* [[Cross Impact (XC3)|Cross Impact]], [[Power Charge]] on hit
+* [[Swallowtail (XC3)|Swallowtail]], Back Attack &#8593;
+* [[Silver Cyclone]], Side Crit. Rate+
+* [[Acceleration]], Auto-Atk spd. up/dmg up
+* [[Million Flash]], [[Bleed (XC3)|Bleed]]
+
+Her [[Battle Arts (XC3)|Chain Art]] is [[Wintry End]], which increases the damage ratio and grants Critical Rate Up to all allies. Her Heroic Chain bonus multiplies her own TP by 150% if she is the first to act in an order.
+
+=== Base Stats ===
+These are Ethel's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Flash Fencer class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 465 || 28 || 24 || 31 || 22
+|-
+| 99 || 6,638 || 404 || 343 || 311 || 223
+|}
+
+=== General Stats ===
+These stats assume Ethel is at rank 20 in her class.
+{| class="xc1 centered" width="100%"
+!Level!!HP!!Attack
+!Healing Power!!Dexterity!!Agility!! Critical Rate!!Block Rate!!Physical Defense!!Ether Defense
+|-
+|1, base||348 ||49|| 6||37 ||24||20%||4%||15% ||15%
+|-  
+|99, base||4,978|| 1,029||85||373||245 || 30%||8%||15%||15%
+|-  
+|99, with default accessories||4,978 ||1,029 ||85 ||373||245 ||40%||8%|| 15%||15% 
+|}
+
+Ethel equips the following gems:
+* [[Doublestrike]]
+* [[Empowered Combo]], at level 20 onwards
+* [[Analyze Weakness]], at level 40 onwards
+
+Ethel equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Spiked Pauldrons (XC3)|Spiked Pauldrons]]
+* [[Detector Headgear]], at level 30 onwards
+* [[Scale Mask]], at level 50 onwards
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Silvercoat Ethel
+|image        = Evil Ethel.jpg 
+|caption      = Silvercoat Ethel
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 16
+|area         = [[Eagus Wilderness]] ([[Hegemon's Seat]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 60,000
+|cp           = 300
+|hp           = 97,470
+|strength     = 145
+|dexterity    = 67
+|agility      = 56
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Silvercoat Ethel''' is a [[Boss (XC3)|Boss]]. She is a [[Keves Forces|Keves Soldier]] who is fought at level 16 at [[Hegemon's Seat]] in the [[Eagus Wilderness]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Silvercoat Ethel
+|image        = 
+|caption      = Silvercoat Ethel
+|type         = [[Keves Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 75
+|detection    = 
+|spawntime    = During ''[[Double Jeopardy]]''
+|respawn      = No
+|hp           = 2,697,240
+|strength     = 959
+|dexterity    = 301
+|agility      = 215
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+Silvercoat Ethel is fought at level 75 alongside [[Cammuravi#Challenge Battle Mode|Smoldering Cammuravi]] during the [[Challenge Battle Mode|Challenge Battle]] ''[[Double Jeopardy]]''.
+{{clr}}
+
+=== See also ===
+* [[Ethel's Ferronis]]
+
+== Quotes ==
+* ''"Whoever thought that we would join forces like this?"''
+* ''"I'll help myself."''
+* ''"To survive is to fight!"''
+* ''"Let's give them any assistance we can."''
+* ''"Come at me! I'm here!"''
+* ''"Mio... you dare!"''
+* ''"A route lies before us."''
+* ''"That's for you!"''
+* ''"I'm sorry."''
+* ''"No! I'm not done yet!"''
+* ''"We've found it at last."''
+* ''"Something we can use to our advantage."''
+* ''"There's an Ether Channel."''
+* ''"What shall we do?"''
+* ''"You're wide open!"''
+* ''"Such weakness!"''
+* ''"Get back!"''
+* ''"I could get used to eating with all of you."''
+* ''"Now we're getting somewhere!"''
+* ''"I'LL END YOU!"''
+* ''"What is that?"''
+* ''"It's NOT gonna work!"''
+* ''"I hope something of use is inside."''
+* ''"I have to act."''
+* ''"We must rest when we can."''
+* ''"I'm ready anytime!"''
+* ''"I entrust our future, to you!"''
+* ''"A worthy opponent indeed."''
+* ''"It seems you underestimated me!"''
+* ''"The enemy is coming to you!"''
+* ''"Oh. You really want to face that?"''
+* ''"I can hardly believe it still works."''
+* ''"Well spoken!"''
+* ''"Roger!"''
+* ''"Your plan worked!"''
+* ''"Just in time!"''
+* ''"Fighting by your side is an honor."''
+* ''"Nowhere to run! Prepare yourself!"''
+* ''"You heard the man; We could try a different approach!"''
+* ''"You won't get through!"''
+* ''"I'm here to spoil your fun!"''
+* ''"You won't have your way!"''
+* ''"May this victory spur us on."''
+* ''"Cammuravi would be quivering in fear right about now."''
+* ''"A moment's lapse here will cost your life."''
+* ''"You won't even see it coming!"''
+* ''"Break!"''
+* ''"Topple!"''
+* ''"Launch!"''
+* ''"Daze!"''
+* ''"Pulverize!"''
+* ''"Get back!"''
+* ''"Be gone!"''
+* ''"I'm armed and ready."''
+* ''"Stand in my way, and you die!"''
+* ''"Come at me all you like; I'll cut you down!"''
+* ''"Is that it?"''
+* ''"We're at the turning point!"''
+* ''"Ah.... Husks.... Would you mind, Noah?"''
+
+== Trivia ==
+[[File:XC3 Hero Select Screen.jpg|right|thumb|Hero selection screen during the "Xenoblade Chonicles 3 Direct", with Ethel's profile icon censored]]
+* Her fighting style is based off of Niten-Ichi-Ryu. Which is said to be the use of a short sword, and a longer sword.
+* Ethel's Japanese voice actress, Atsumi Tanezaki, also voices [[Agate]] in {{XC2}}.
+* Ethel is the only Hero that's unable to join the party without completing her ascension condition.
+* Possibly to avoid speculation of why she is unselectable, in the "Xenoblade Chronicles 3 Direct" and "Ask the Developer Vol. 6, Xenoblade Chronicles 3&#8211;Part 3" interview article &lt;ref&gt;[https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-3/]&lt;/ref&gt;, Ethel's profile icon is censored when showing the Hero selection menu &lt;ref&gt;[https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_2.0/c_scale,w_800/ncom/en_US/articles/2022/ask-the-developer-vol-6-xenoblade-chronicles-3/pop-up-assets/Switch_XC3_AskTheDev_Popup_09_NOA]&lt;/ref&gt;
+* Ethel does not have an ascension quest and shares the same ascension condition with Cammuravi. 
+* Ethel is the only hero to be shown in cradle and be reborn back to 1st term, she and [[Nimue]] are the only two characters in {{XC3|-}} to make their debut in their late term and then reappear in younger form.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Ethel Artwork.png|Official Artwork of Ethel
+XC3 Ethel Artwork.jpg
+XC3 Ethel Twitter.jpg|Artwork of Ethel by Masatsugu Saito to celebrate version 1.1.1 of {{XC3|-}}
+Ethel Concept Art.png|Ethel's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Ethel Hero Icon.png|Hero List Icon
+Ethel Chain Art Icon.png|Chain Art Icon
+Ethel Level Up Art.png|Level Up Art
+Icon chara 6.png
+Icon chara battle 6.png
+XC3 Ethel Icon.png|Ethel's Affinity Chart icon
+Ethel 2nd Icon.png|Young Ethel's Affinity Chart icon
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Ethel.jpg
+XC3 Ethel 01.jpg
+XC3 Ethel 03.jpg
+Ethel-xenoblade.webp
+Bolearis04.jpg
+Ethel01.jpg|Ethel's life force draining
+Ethel02.jpg
+Ethel03a.jpg
+Ethel03b.jpg|Ethel in her Ferronis
+Ethel's cradle.png|Ethel being reborn in her cradle
+Colony Omega cradle.jpeg| Ethel about to enter the cradle in Colony Omega
+&lt;/gallery&gt;
+
+==References==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Kevesi]]
+[[Category:Ethel]]
+[[Category:XC3 Heroes]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>2p6wob7bsmuxuyd0rwp42tc3m3boq4o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ethel's Ferronis</title>
+    <ns>0</ns>
+    <id>121173</id>
+    <revision>
+      <id>595840</id>
+      <parentid>579771</parentid>
+      <timestamp>2023-06-16T15:05:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>595840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1153" sha1="36apx971tov3n3nsmshyljzli42qa5z" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ethel's Ferronis
+|image        = Ethel Ferronis.jpg 
+|caption      = Ethel's Ferronis
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Ferronis]]
+|level        = 35
+|area         = [[High Maktha Wildwood]] ([[Engardo Pass]])
+|spawntime    = Anytime
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ethel's Ferronis''' is a [[Boss (XC3)|Boss]] in {{XC3}}. [[Ethel]] pilots this [[Ferronis]] made by the [[Consul]]s to have her and [[Cammuravi]] defeat [[Ouroboros]]. It is fought alongside [[Cammuravi's Ferronis]] at level 35 at [[Engardo Pass]] in [[High Maktha Wildwood]].
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Ethel02.jpg
+Ethel03a.jpg
+Ethel03b.jpg
+Ethel01.jpg|Ethel's last moment
+Ferronis destroyed.jpg|Ethel's and Cammuravi's Ferronis destroyed and left behind
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ferronis Enemies]]
+[[Category:Ethel]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>36apx971tov3n3nsmshyljzli42qa5z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ether Absolute</title>
+    <ns>0</ns>
+    <id>124371</id>
+    <revision>
+      <id>591886</id>
+      <parentid>581000</parentid>
+      <timestamp>2023-05-14T14:35:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="589" sha1="58ylcrt439ao2lofec9it31b12p3hhh" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = Ether Absolute
+|image       = Strm order thumb021 0.png
+|who         = [[Melia]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Reduces enemy ether defence by 30-50 percentage points during a Chain Attack.
+|duration    = 
+|recharge    = 
+}}
+'''Ether Absolute''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Melia]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>58ylcrt439ao2lofec9it31b12p3hhh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ether Anchor</title>
+    <ns>0</ns>
+    <id>125789</id>
+    <revision>
+      <id>587584</id>
+      <parentid>587114</parentid>
+      <timestamp>2023-05-02T12:34:24Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587584</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1651" sha1="jptbhngq4elyf1wlua0j2twirjqr8p8" xml:space="preserve">{{Infobox XC3 Status
+|title = Ether Anchor
+|caption = Nullifies set no. of combo reactions.
+|image = XC3 Ether Anchor.png
+|type = Buff
+|base-duration = 20.0s
+|max-duration = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base No. of Reactions Blocked
+|effect-value-1 = 1
+}}
+'''Ether Anchor''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It protects the affected character from being affected by reactions such as [[Knockback (XC3)|Knockback]] or any [[Combo]] while the buff is active. The buff will be removed prematurely if it has nullified enough reactions.
+
+== Notes ==
+*Reactions nullified through other means (such as by part of an Art effect) will not consume the buff. When using an [[Accessory (XC3)|accessory]] or [[Skill (XC3)|skill]] that grants reaction resistance at a rate less than 100%, the buff will be prioritized, nullifying the reaction without the accessory/skill. At a rate of 100%, however, the reaction will be nullified by the accessory/skill instead of the buff.
+*The [[Crystal Anklets]] and the [[Martial Artist#Class Skills|Feline Righting Reflex]] skill both cancel a [[Blowdown (XC3)|Blowdown]] or [[Launch (XC3)|Launch]] by playing a special recovery animation, without nullifying either reaction. If a character with either the Anklets or the skill equipped has the Ether Anchor buff and is hit by either of these reactions, the buff will be consumed and the character will not be sent flying; Feline Righting Reflex will also not grant [[Attack Up]] as a result.
+
+==Distribution==
+===Arts===
+*[[Shield Wall]] ([[Lost Vanguard]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>jptbhngq4elyf1wlua0j2twirjqr8p8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ether Defense Down (XC3)</title>
+    <ns>0</ns>
+    <id>125889</id>
+    <revision>
+      <id>587570</id>
+      <parentid>587556</parentid>
+      <timestamp>2023-05-02T12:20:20Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587570</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1901" sha1="bn73fbuf4fc0prlzqfq8vbdyc8x62b1" xml:space="preserve">{{for|mechanics in other games|Ether Defense Down}}
+{{Infobox XC3 Status
+|name           = Ether Defense Down
+|caption        = Reduces Ether Defense.
+|image          = XC3 Ether Defense Down.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = Yes
+|effect-title-1 = Base Ether Def. Decrease
+|effect-value-1 = 25% of magnitude (see Calculations)
+}}
+'''Ether Defense Down''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It reduces the affected character's ether defense.
+
+==Calculations==
+The way that Ether Defense Down interacts with a character's ether defense depends on the sign of the character's Ether Defense:
+*If the character's Ether Defense is zero, then Ether Defense Down has no effect on their Ether Defense (though it still counts as a debuff for Arts and skills that rely on debuffs).
+*If the character's Ether Defense is positive, then Ether Defense Down reduces the magnitude of positive Ether Defense. For example, a character with 20% Ether Defense will lose 5% with the base debuff, for a final Ether Defense of 15%.
+*If the character's Ether Defense is negative, then Ether Defense Down increases the magnitude of negative Ether Defense; for example, a -20% Ether Defense loses 5% for a final value of -25% with the base debuff.
+
+A calculation that combines these three cases can be obtained by taking the magnitude of Ether Defense:
+
+&lt;math&gt;EtherDef = BaseEtherDef - EtherDefDownStrength \times |BaseEtherDef|,&lt;/math&gt;
+
+where &lt;math&gt;BaseEtherDef&lt;/math&gt; is the initial Ether Defense and &lt;math&gt;EtherDefDownStrength&lt;/math&gt; is the strength of the debuff.
+
+==Distribution==
+===Arts===
+*[[Overfall (XC3)|Overfall]] ([[Tactician]])
+*[[Gatling Peck]] ([[Soulhacker]]; requires Soul Hacking [[Heavenrazor Egreet]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>bn73fbuf4fc0prlzqfq8vbdyc8x62b1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Etrekt Ageshu</title>
+    <ns>0</ns>
+    <id>121189</id>
+    <revision>
+      <id>584295</id>
+      <parentid>582896</parentid>
+      <timestamp>2023-04-20T19:26:21Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>584295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1140" sha1="0lwpsf9vyygwr80m35od5mtszkyfc6e" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Etrekt Ageshu
+|image        = 
+|caption      = Etrekt Ageshu
+|category     = Minor Enemy&lt;br/ &gt;[[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Ageshu]]
+|level        = 70-71&lt;br/ &gt;72
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = Anytime&lt;br/ &gt;During ''[[Arts and Crafts]]''
+|respawn      = Yes&lt;br/ &gt;No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Etrekt Ageshus''' are Minor Enemies in {{XC3}}. They are members of the [[Ageshu]] family, and can be found at level 70-71 in [[Low Maktha Wildwood]] in the [[Pentelas Region]]. One is fought at level 72 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Arts and Crafts]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Ageshus]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0lwpsf9vyygwr80m35od5mtszkyfc6e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eunie</title>
+    <ns>0</ns>
+    <id>116347</id>
+    <revision>
+      <id>599692</id>
+      <parentid>598111</parentid>
+      <timestamp>2023-07-15T14:59:35Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>good article format back, please try to use the "Source Mode" edition instead of the "Visual Mode".</comment>
+      <origin>599692</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19852" sha1="k7c7u0v8himx54pc1hrmaz0bwy3pvro" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Eunie
+|image         = Eunie portrait.png
+|caption       = Eunie in {{XC3|-}}
+|gender        = Female
+|species       = [[Keves]]i human
+|age           = 9th Term
+|haircolor     = Brown
+|eyecolor      = Blue
+|affiliation   = [[Colony 18]] (formerly)&lt;br/&gt;[[Colony 14]] (formerly)&lt;br/&gt;[[Colony 9 (XC3)|Colony 9]] (formerly)
+|voiceactorjp  = [[wikipedia:Megumi Han|Megumi Han]]
+|voiceactoreng = [https://www.imdb.com/name/nm9787450/ Kitty Archer] (Adult)&lt;br/&gt;[[wikipedia:Emily Carey|Emily Carey]] (Child)
+|appearances   = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+{{quote|"Ready", he says. From the moment I chose this muddy path I've been more than ready!|Eunie}}
+'''Eunie''' (Japanese: {{lang|ja|&#12518;&#12540;&#12491;}}, ''Y&#363;ni'') is a playable character in {{XC3}}.
+
+== Overview ==
+Along with her friends [[Noah]] and [[Lanz]], Eunie is a [[Keves]]i soldier stationed at [[Colony 9 (XC3)|Colony 9]]. She is a Kevesi human with [[High Entia]] traits.
+
+== Personality ==
+Eunie is a childhood friend of Noah and Lanz, and seems to excel at healing in battle. She has a sharp tongue, a foul mouth, and is quick to anger, which makes her come off as rude. She respects Noah, and has a close relationship with Lanz, where they can speak freely (although to outsiders it just looks like an exchange of insults); she describes herself as someone who prefers to take things at face value and makes no effort to hide her opinions on others. She has a strong sense of responsibility to her friends above all else.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1493844371422199813&lt;/ref&gt; She is easily swayed by her emotions, often causing her to act without thinking. Despite her headstrong and brash attitude, she is rather good at academics.
+
+Eunie is deeply frightened of [[Consul]] [[D]] when he first confronts her party. Though it is initially unknown to her, this is because a past version of her served as a sharpshooter in [[Colony 18]], which was destroyed by D shortly after it reached Gold rank. She was brutally killed by D at that time, and despite having her memories being wiped after her rebirth she begins to suffer flashbacks and nightmares after their initial encounter; these are only worsened after she finds her own husk during the party's travels. She also initially admired the [[Queen of Keves]], but stopped admiring her after discovering that she is simply a robotic duplicate of the real [[Melia]].
+
+== Story ==
+40 years prior to the story, Eunie was a sharpshooter for [[Colony 18]], which eventually reached Gold Rank. However, once it did, it was destroyed by Consul D, who killed its soldiers with his immense speed and strength. He then proceeded to brutally kill Eunie, and her remaining life force was drained by the [[Ferronis]], leaving her a husk.
+
+Many years later, Eunie was reborn, and became friends with Noah, Lanz, and [[Joran]]. Eventually, she started training with the other 1st termers at [[Colony 14]], until it was destroyed by Agnus forces. She then went on to work as Noah's bodyguard as a special forces unit alongside Lanz and [[Mwamba]] at Colony 9. After awakening as an [[Ouroboros]] following a top secret mission, she works alongside Noah, Lanz, and the former Agnus soldiers to reach [[Swordmarch]] and find a way to defeat the [[Moebius]].
+
+== Gameplay ==
+Eunie's initial [[Class (XC3)|class]] is the [[Medic Gunner]] class. Her [[Blade (XC3)|Blade]] is the Gunrod, which doubles as a gun and is able to heal allies in combat.
+
+In a [[Chain Attack (XC3)|Chain Attack]], Eunie starts with 25 TP by default. Her Chain Art is [[Pinion Primed]], which reduces the enemy's ether defense during the Chain Attack by 30-50 percentage points (depending on her level) upon completing her order.
+
+Eunie starts at Rank 5 in her initial Medic Gunner class when in the player's party for the first time.
+
+=== Base Stats ===
+These are Eunie's raw stats prior to modifications by class. They serve as a baseline for calculating Eunie's stats in a class. Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 318 || 17 || 20 || 30 || 22
+|-
+| 99 || 6,364 || 346 || 409 || 298 || 223
+|}
+
+=== General Stats ===
+These stats assume Eunie is at level 99, at rank 20 in each of these respective classes, and is not equipping any [[Skill (XC3)|Master Skills]], [[Gem]]s or [[Accessory (XC3)|Accessories]]. Boosts from skills innate to a class are indicated with round brackets, whereas boosts from having an [[Blade Upgrade|upgraded Blade]] are indicated with square brackets.
+{| class="xc1 centered" width="100%"
+! Class !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|[[Swordfighter]]||4,773||972||143||357 (+178)||189||20% (+10%)||10%||15%||15%
+|-
+|[[Zephyr]]||7,000||783||102||312||289 (+86)||20%||35%||35%||50% (+15%)
+|-
+|[[Medic Gunner]]||3,818||649 [+88]||490 (+15)||312||167||10% [+2%]||10% [+2%]||15%||25%
+|-
+|[[Tactician]]||4,136||682||470||327||178||10%||15%||10%||30%
+|-
+|[[Heavy Guard]]||8,273||810||102||298||167||8%||35%||50% (+10%)||35%
+|-
+|[[Ogre]]||5,091||1,035||102||298||189||20%||15%||20%||10%
+|-
+|[[Flash Fencer]]||4,773||965||102||357||245||30%||8%||15%||15%
+|-
+|[[War Medic]]||3,818||638||511||357||167||6%||8%||15%||25%
+|-
+|[[Guardian Commander]]||7,636||767||143||312||167||8%||40%||50%||35%
+|-
+|[[Thaumaturge]]||4,773||793||449||357||167||24%||12%||10%||30%
+|-
+|[[Yumsmith]]||5,091||924||143||387||167||20%||20%||15%||15%
+|- 
+|[[Full Metal Jaguar (XC3)|Full Metal Jaguar]]||4,454||929||184||387||245||10%||10%||15%||15%
+|-
+|[[Strategos]]||4,136||707||470||327||189||15%||6%||10%||30%
+|-
+|[[Stalker]]||4,454||934||102||387||289||30%||6%||15%||15%
+|-
+|[[Lone Exile]]||7,000||862||61||327||278||24%||30%||35%||50%
+|-
+|[[Incursor]]||4,773||990||81||312||223||35%||6%||20%||10%
+|-
+|[[Lost Vanguard]]||7,955||795||143||357||200||20%||45%||50%||35%
+|-
+|[[Signifer]]||3,818||808||306||312||200||16%||16%||10%||30%
+|-
+|[[Soulhacker]]&lt;br&gt;&lt;small&gt;(Power Soul)&lt;/small&gt;||4,773||1,029||61||312||167||15%||25%||20%||10%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Strike Soul)&lt;/small&gt;||4,773||977||122||357||211||15%||25%||15%||15%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Tough Soul)&lt;/small&gt;||7,955||908||61||283||144||15%||25%||45%||35%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Dodge Soul)&lt;/small&gt;||7,000||908||61||312||267||15%||25%||35%||45%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Heal Soul)&lt;/small&gt;||4,454||839||409||327||200||15%||25%||10%||30%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Balanced Soul)&lt;/small&gt;||4,136||891||306||312||200||15%||25%||10%||30%
+|-
+|[[Martial Artist]]||4,773||934||102||357||267||36%||16%||15%||15%
+|-
+|[[Troubadour]]||3,500||639||470||327||223||16%||8%||10%||30%
+|-
+|[[Seraph]]||5,091||1,110||61||298||189||25%||10%||20%||20%
+|-
+|[[Machine Assassin]]||5,091||1,067||102||357||167||30%||20%||20%||10%
+|-
+|[[Lifesage]]||4,136||818||531||357||245||20%||30%||15%||25%
+|-
+|[[Royal Summoner]]||4,136||1,120||245||387||245||30%||10%||15%||15% (+3%)
+|-
+|[[Noponic Champion]]||7,636||847||0||357||289||15%||35%||45%||40%
+|-
+|[[Lapidarist]]||3,500||825||490||342||245||35% (+7%)||6%||10%||15%
+|}
+
+== Ouroboros ==
+[[File:Taion Eunie Interlink.webp|thumb|Eunie's Ouroboros]]
+After becoming [[Ouroboros]], Eunie is able to [[Interlink]] with [[Taion]]. When Eunie is in control, she is able to use arts that can heal and buff the party. 
+
+=== Base Stats ===
+These are Eunie's Ouroboros's raw stats. The experience level of the Ouroboros which determines its stats (contrary to any displayed level in menus) is the average of Eunie and Taion's experience levels (fractions are rounded up).
+{| class="xc1 centered" width="100%"
+! Level !! Attack !! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate
+|-
+| 1, no Soul Tree || 43 || 26 || 41 || 27 || 20% || 15%
+|-
+| 99, no Soul Tree || 1,105 || 524 || 408 || 270 || 30% || 25%
+|-
+| 99, complete Soul Tree || 1,707 || 884 || 499 || 270 || 30% || 25%
+|}
+
+=== Arts ===
+* '''[[Sacred Cannon]]''' ([[Battle Arts (XC3)|Talent Art]]) - AOE/[[Moebius]] Up/Unblockable
+* [[Raptor Raid (XC3)|Raptor Raid]] - AOE/Acc. down/Evade
+* [[Typhoon Field]] - AOE/Area heal on hit
+* [[Lightning Arrow]] - Unblockable (%)/Knockback
+* [[Ether Collider]] - Interlink Lv. 3: [[Daze (XC3)|Daze]] all
+* [[Liberty Wing]] - Revive incapacitated
+* [[Feather Sanctuary]] - 1 random buff (party)
+
+Eunie's Ouroboros Chain Art is [[Brilliant Ascension]], which greatly increases damage ratio and fully heals all allies.
+
+=== Skills ===
+* '''Wings of Healing''', 25% chance to heal nearby allies upon taking damage, using 100-200% of Healing Power.
+* '''Unceasing Blessing''', Extends the buff duration for all allies by 50%/Pauses timer for all buffs on all allies.
+* '''Wings of Pursuit''', Deals damage to enemies in range each second, using 60-100% of Attack.
+* '''Shared Blessing''', Grants a small/large increase to damage dealt (max. 500%) for each buff active on all allies.
+
+=== Soul Tree ===
+Below is an image showing the layout of Eunie's Ouroboros [[Soul Tree]].
+[[File:XC3 Soul Tree Eunie.jpeg|center|550px]]
+{{Clr}}&lt;br&gt;
+The below table contains a detailed breakdown of all nodes within the Soul Tree.
+
+''Note: Columns are numbered from right to left, i.e. column 1 is the rightmost column, and column 8 is the leftmost column. Nodes are listed in order of increasing column number, from top to bottom, ignoring order of unlocking.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:5%;"| Node
+!style="width:10%;"| Icon
+!style="width:20%;"| Name
+!style="width:35%;"| Description
+!style="width:20%;"| Prerequisite
+!style="width:10%;"| Cost
+|-
+!colspan="6"|Column 1
+|-
+|1
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Healing Power Plus
+|Increases Healing by 50.
+|''None''
+|15 SP
+|-
+!colspan="6"|Column 2
+|-
+|2
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Wings of Healing
+|25% chance to heal nearby allies upon taking damage, using 100% of Healing Power.
+|"Attack Plus" (Node 3)
+|40 SP
+|-
+|3
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|"Healing Power Plus" (Node 1)
+|20 SP
+|-
+|4
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 20%.
+|"Attack Plus" (Node 3)
+|20 SP
+|-
+!colspan="6"|Column 3
+|-
+|5
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Feather Sanctuary
+|1 random buff (party)
+|"Wings of Healing" (Node 2) ''or'' "Heat Control: Time" (Node 11)
+|45 SP
+|-
+|6
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Ether Collider
+|Interlink Lv3: Daze all
+|"Wings of Healing" (Node 2)
+|45 SP
+|-
+|7
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Unceasing Blessing
+|Extends the buff duration for all allies by 50%.
+|"Attack Plus" (Node 3)
+|40 SP
+|-
+|8
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Wings of Pursuit
+|Deals damage to enemies in range each second, using 60% of Attack.
+|"Attack Up" (Node 4)
+|45 SP
+|-
+|9
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Shared Blessing
+|Grants a small increase to damage dealt (max. 500%) for each buff active on all allies.
+|"Attack Up" (Node 4) ''or'' "Healing Power Up" (Node 13)
+|45 SP
+|-
+!colspan="6"|Column 4
+|-
+|10
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Lightning Arrow
+|Unblockable (%)/Knockback
+|"Dexterity Plus" (Node 15)
+|150 SP
+|-
+|11
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Feather Sanctuary" (Node 5) ''or'' "Unceasing Blessing" (Node 7) ''or'' "Liberty Wing" (Node 12) ''or'' "Dexterity Plus" (Node 15)
+|40 SP
+|-
+|12
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Liberty Wing
+|Revive incapacitated
+|"Unceasing Blessing" (Node 7) ''or'' "Heat Control: Time" (Node 11) ''or'' "Healing Power Up" (Node 13)
+|60 SP
+|-
+|13
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Healing Power Up
+|Boosts Healing by 20%.
+|"Unceasing Blessing" (Node 7) ''or'' "Shared Blessing" (Node 9) ''or'' "Liberty Wing" (Node 12) ''or'' "Attack Plus" (Node 19)
+|25 SP
+|-
+|14
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Wings of Healing
+|25% chance to heal nearby allies upon taking damage, using 200% of Healing Power.
+|"Wings of Healing" (Node 2) ''and'' "Attack Plus" (Node 19)
+|150 SP
+|-
+!colspan="6"|Column 5
+|-
+|15
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Plus
+|Increases Dexterity by 30.
+|"Heat Control: Time" (Node 11) ''or'' "Ether Collider" (Node 21)
+|35 SP
+|-
+|16
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Wings of Pursuit
+|Deals damage to enemies in range each second, using 100% of Attack.
+|"Liberty Wing" (Node 12) ''or'' "Ether Collider" (Node 21)
+|150 SP
+|-
+|17
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, but doing so will fill up the heat gauge slightly.
+|"Ether Collider" (Node 21) ''or'' "Typhoon Field" (Node 23)
+|200 SP
+|-
+|18
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Healing Power Plus
+|Increases Healing by 75.
+|"Liberty Wing" (Node 12) ''or'' "Typhoon Field" (Node 23)
+|30 SP
+|-
+|19
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 75.
+|"Healing Power Up" (Node 13) ''or'' "Typhoon Field" (Node 23)
+|35 SP
+|-
+!colspan="6"|Column 6
+|-
+|20
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Ether Collider" (Node 21) ''or'' "Raptor Raid" (Node 26)
+|70 SP
+|-
+|21
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Ether Collider
+|Interlink Lv3: Daze all
+|"Ether Collider" (Node 6) ''and'' "Dexterity Plus" (Node 15) ''or'' "Wings of Pursuit" (Node 16) ''or'' "Unlock Arts Canceling" (Node 17) ''or'' "Heat Control: Time" (Node 20) ''or'' "Feather Sanctuary" (Node 22)
+|150 SP
+|-
+|22
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Feather Sanctuary
+|1 random buff (party)
+|"Feather Sanctuary" (Node 5) ''and'' "Ether Collider" (Node 21) ''or'' "Typhoon Field" (Node 23)
+|170 SP
+|-
+|23
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Typhoon Field
+|AOE/Area heal on hit
+|"Unlock Arts Canceling" (Node 17) ''or'' "Healing Power Plus" (Node 18) ''or'' "Attack Plus" (Node 19) ''or'' "Feather Sanctuary" (Node 22) ''or'' "Heat Control: Arts Canceling" (Node 24)
+|150 SP
+|-
+|24
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Typhoon Field" (Node 23) ''or'' "Liberty Wing" (Node 28)
+|65 SP
+|-
+!colspan="6"|Column 7
+|-
+|25
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Unceasing Blessing
+|Pauses the timer for all buffs on all allies.
+|"Dexterity Up" (Node 30)
+|230 SP
+|-
+|26
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Raptor Raid
+|AOE/Acc. down/Evade
+|"Heat Control: Time" (Node 20) ''or'' "Attack Up" (Node 32)
+|190 SP
+|-
+|27
+|[[File:XC3 Soul Tree Enhance Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Sacred Cannon
+|AOE/Moebius&#8593;/Unblockable
+|"Attack Up" (Node 32)
+|230 SP
+|-
+|28
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Liberty Wing
+|Revive incapacitated
+|"Heat Control: Arts Canceling" (Node 24) ''or'' "Attack Up" (Node 32)
+|190 SP
+|-
+|29
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Unceasing Blessing
+|Grants a large increase to damage dealt (max. 500%) for each buff active on all allies.
+|"Healing Power Up" (Node 34)
+|220 SP
+|-
+!colspan="6"|Column 8
+|-
+|30
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Up
+|Boosts Dexterity by 15%.
+|"Raptor Raid" (Node 26)
+|40 SP
+|-
+|31
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Attack Up" (Node 32)
+|85 SP
+|-
+|32
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 25%.
+|"Raptor Raid" (Node 26) ''or'' "Liberty Wing" (Node 28)
+|45 SP
+|-
+|33
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Attack Up" (Node 32)
+|95 SP
+|-
+|34
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Healing Power Up
+|Boosts Healing by 25%.
+|"Liberty Wing" (Node 28)
+|40 SP
+|}
+
+== Etymology ==
+Eunie may be a diminutive of [[wiktionary:Eunice|Eunice]], which derives from the Greek name [[wiktionary:&#917;&#8016;&#957;&#943;&#954;&#951;|&#917;&#8016;&#957;&#943;&#954;&#951;]] (Eun&#237;k&#275;) meaning "good victory". In the New Testament, [[wikipedia:Eunice (bible)|Eunice]] was the mother of Timothy, a companion of Saint Paul.
+{{clr}}
+
+== Trivia ==
+* Eunie is the only High Entia among the soldiers that has large white wings instead of them matching her hair color.
+** However, as can be seen in her concept art, and to an extent in-game, the tips of her feathers still match her hair color.
+* Eunie shares her Japanese voice actress, Megumi Han, with [[Cheerio]].&lt;ref&gt;https://twitter.com/XenobladeJP/status/1585182293827600384&lt;/ref&gt;
+* Oddly, Eunie lacks any power frames in her Throwback outfit, even though Noah and Lanz have power frames incorporated into theirs.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Eunie Artwork.png|Official Artwork
+XC3 Eunie as a Medic Gunner.jpg|Eunie as a Medic Gunner
+XC3 Eunie Twitter.jpg|Artwork of Eunie by Masatsugu Saito to celebrate the launch of {{XC3|-}}
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruitment artwork
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+Eunie Concept 1.png|Eunie Concept Art
+Eunie Concept 2.png
+Eunie Concept 3.png
+Eunie Concept 4.png
+Eunie Ouroboros Concept 1.png|Eunie's Ouroboros Form Concept Art
+Eunie Ouroboros Concept 2.png
+Eunie Ouroboros Concept 3.png
+Eunie Ouroboros Concept 4.png
+Weapon Concept 2.png|Concept art of Eunie's Blade
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Eunie Hero Icon.png|Hero List Icon
+Eunie Chain Art Icon.png|Eunie's Chain Art Icon
+Eunie Ouroboros Chain Art Icon.png|Eunie's Ouroboros Order Icon
+Eunie Level Up Art.png|Eunie's Level Up Art
+Eunie Level Up Art 2.png|Eunie's Level Up Art (Military Uniform)
+Icon chara 2.png
+Icon chara 28.png
+Icon chara battle 2.png
+Icon chara battle 30.png
+Strm ch thumb003 0.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Eunie Screenshot.png
+XC3 Eunie Screenshot 2.jpg
+XC3 Medic Gunner.jpg|Eunie using Healing Ring
+Eunie XC3 Screenshot 3.jpg
+Young Eunie.jpg|Young Eunie
+Eunie Military Uniform.jpg|Eunie in her Military Uniform
+Eunie DLC Outfit 1 Screenshot.jpeg|One of Eunie's Expansion Pass Outfits
+EunieSwimsuit.jpg|Eunie's Swimwear A oufit from the Expansion Pass
+EunieSwimwearB.jpg|Eunie's Swimwear B outfit from the Expansion Pass
+Eunie Melia Outfit.png|Eunie's Throwback A outfit from the Expansion Pass, based on a mix between [[Fiora]]'s Main Outfit as a Homs in {{XC|-}}, and Melia's Main Outfit from {{XCFC|-}}.
+Eunie Melia Outfit B.jpg|Eunie's Throwback B outfit from the Expansion Pass, based on a mix between Fiora's Main Outfit as a Homs in {{XC|-}}, and Melia's Main Outfit from {{XCFC|-}}.
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+[[es:Eunie]]
+
+[[Category:XC3 Playable Characters]]
+[[Category:Eunie]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Ouroboros]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>k7c7u0v8himx54pc1hrmaz0bwy3pvro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Evasion Down</title>
+    <ns>0</ns>
+    <id>125908</id>
+    <revision>
+      <id>588244</id>
+      <parentid>580503</parentid>
+      <timestamp>2023-05-03T06:32:01Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>588244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="780" sha1="mj52bzmn6btvkrfctwbo0rl6d9xowiy" xml:space="preserve">{{Infobox XC3 Status
+|title          = Evasion Down
+|caption        = Reduces Evasion.
+|image          = XC3 Evasion Down.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = Yes
+|effect-title-1 = Base Evasion Decrease
+|effect-value-1 = 25%
+}}
+'''Evasion Down''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It reduces the affected character's evasion.
+==Distribution==
+===Arts===
+*[[Avenging Eagle]] ([[Tactician]])
+*[[Superstorm]] ({{Link noparens|Full Metal Jaguar (XC3)}})
+*[[Hypno-Light]] ([[Soulhacker]]; requires Soul Hacking [[Heretical Saurow]], only applied on hit)
+*[[Showdown]] ([[Gray]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>mj52bzmn6btvkrfctwbo0rl6d9xowiy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Evasion Up (XC3)</title>
+    <ns>0</ns>
+    <id>125820</id>
+    <revision>
+      <id>587574</id>
+      <parentid>587124</parentid>
+      <timestamp>2023-05-02T12:24:36Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587574</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="609" sha1="dxr8yv7iqts3gemfaebk4n5k2vbzzlg" xml:space="preserve">{{For|other uses|Evasion Up}}
+{{Infobox XC3 Status
+|title          = Evasion Up
+|image          = XC3 Evasion Up.png
+|caption        = Improves Evasion.
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base Evasion Bonus
+|effect-value-1 = 10%
+}}
+'''Evasion Up''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It improves the evasion of the affected character.
+
+==Distribution==
+===Arts===
+*[[Hazy Figure]] ([[Tactician]]; field effect with effect value of 8%)
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>dxr8yv7iqts3gemfaebk4n5k2vbzzlg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Evolved Sentry</title>
+    <ns>0</ns>
+    <id>121792</id>
+    <revision>
+      <id>576709</id>
+      <parentid>559226</parentid>
+      <timestamp>2023-02-12T22:55:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1055" sha1="0sisufldzpasngksxhkal9gkqrpwbem" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Evolved Sentry
+|image        = 
+|caption      = Evolved Sentry
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 52
+|area         = [[Great Sword's Base]] ([[Hidden Weapon Lab]])
+|spawntime    = During ''[[Payback for Treason]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Evolved Sentry''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a [[Levnis]] that is fought at level 52 in the [[Hidden Weapon Lab]] at the [[Great Sword's Base]] during ''[[Payback for Treason]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0sisufldzpasngksxhkal9gkqrpwbem</sha1>
+    </revision>
+  </page>
+  </mediawiki>

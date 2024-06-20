@@ -1,0 +1,6 @@
+Art Name: Demon Slayer
+
+Class: Lone Exile
+
+Effect: High aggro
+

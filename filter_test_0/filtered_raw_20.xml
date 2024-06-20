@@ -1,0 +1,1129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Droids</title>
+    <ns>0</ns>
+    <id>120494</id>
+    <revision>
+      <id>601975</id>
+      <parentid>600725</parentid>
+      <timestamp>2023-07-22T12:20:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="883" sha1="8zl7m8tca19jl43zhmo4aw3ra690gqq" xml:space="preserve">{{Spoiler}}
+[[File:XC3 Armbenders.png|thumb|The Armbenders]]
+'''Droids''' are a family of enemies in {{XC3}}. They are only found in [[Origin]].
+{{clr}}
+
+== Normal Minor Enemies ==
+* [[Alsel Toray]]
+* [[Alsel Zetoray]]
+* [[Bruna Stamm]]
+* [[Bruna Zestamm]]
+* [[Giaru Stamm]]
+* [[Giaru Zestamm]]
+* [[Graaf Nos]]
+* [[Graaf Zoonos]]
+* [[Kef Stamm]]
+* [[Kef Zestamm]]
+* [[Kio Nos]]
+* [[Kio Zoonos]]
+* [[Lods Toray]]
+* [[Lods Zetoray]]
+* [[Strarc Toray]]
+* [[Strarc Zetoray]]
+* [[Wira Nos]]
+* [[Wira Zoonos]]
+
+== Unique Monsters ==
+* [[Artificial Optho]]
+* [[Cruelfist Rojou]]
+* [[Dishonest Karom]]
+* [[Ghostfist R&#243;is&#237;n]]
+* [[Phony Temnos]]
+* [[Trickfist Tuano]]
+* [[Vapid Roger]]
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Hollow Ones.png|Hollow Ones
+&lt;/gallery&gt;
+
+{{Xc3 stub}}
+[[Category:XC3 Species]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Machines]]
+[[Category:Droids]]
+[[Category:Species by Type]]</text>
+      <sha1>8zl7m8tca19jl43zhmo4aw3ra690gqq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drone Arachno</title>
+    <ns>0</ns>
+    <id>123983</id>
+    <revision>
+      <id>578745</id>
+      <parentid>559218</parentid>
+      <timestamp>2023-03-07T21:44:44Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Enemy data</comment>
+      <origin>578745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1106" sha1="mlf3f72nz8er04tonj113efe9fhoy7h" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Drone Arachno
+|image        = 
+|caption      = Drone Arachno
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Arachno]]
+|level        = 29
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Raptor Perch]])
+|spawntime    = During ''[[Fla'ran's Request]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Drone Arachnos''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Arachno]] family, and are fought alongside the [[Midona Arachno]] at level 29 at [[Raptor Perch]] in the [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Fla'ran's Request]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mlf3f72nz8er04tonj113efe9fhoy7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drum Gogol (XC3)</title>
+    <ns>0</ns>
+    <id>121089</id>
+    <revision>
+      <id>583221</id>
+      <parentid>559635</parentid>
+      <timestamp>2023-04-16T18:11:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="824" sha1="6mbd9v55v1gt3pda6gyg7dkwn4ghxsq" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Drum Gogol (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Drum Gogol
+|image        = 
+|caption      = Drum Gogol
+|category     = Normal Minor Enemy
+|type         = [[Gogol]]
+|level        = 43
+|area         = [[Elaice Highway]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Drum Gogols''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level 43 on [[Elaice Highway]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6mbd9v55v1gt3pda6gyg7dkwn4ghxsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dudan Quardun</title>
+    <ns>0</ns>
+    <id>121818</id>
+    <revision>
+      <id>559636</id>
+      <parentid>546931</parentid>
+      <timestamp>2022-09-30T10:46:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559636</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="axvegblzlsll0w754hv6h55wkg4lhze" xml:space="preserve">{{Infobox Enemy
+|name         = Dudan Quardun
+|image        = 
+|caption      = Dudan Quardun
+|category     = Minor Enemy
+|type         = [[Quardun]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Dudan Quarduns''' are Minor Enemies in {{XC3}}. They are members of the [[Quardun]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Quarduns]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>axvegblzlsll0w754hv6h55wkg4lhze</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dudan Quarmu</title>
+    <ns>0</ns>
+    <id>121819</id>
+    <revision>
+      <id>559637</id>
+      <parentid>546932</parentid>
+      <timestamp>2022-09-30T10:46:35Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559637</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="793" sha1="njpnk1ctmet3pnireu3wfxbvxbul3zi" xml:space="preserve">{{Infobox Enemy
+|name         = Dudan Quarmu
+|image        = 
+|caption      = Dudan Quarmu
+|category     = Minor Enemy
+|type         = [[Quarmu]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Dudan Quarmus''' are Minor Enemies in {{XC3}}. They are members of the [[Quarmu]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Quarmus]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>njpnk1ctmet3pnireu3wfxbvxbul3zi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Duel Igna (XC3)</title>
+    <ns>0</ns>
+    <id>121699</id>
+    <revision>
+      <id>594296</id>
+      <parentid>559638</parentid>
+      <timestamp>2023-05-27T13:34:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1856" sha1="jffn4csvfeu29q1tymzunftnp38fn0v" xml:space="preserve">{{for|other uses|Duel Igna}}
+{{Infobox XC3 Enemy
+|name         = Duel Igna
+|image        = 
+|caption      = Duel Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 42&lt;br/&gt;95
+|area         = [[Syra Hovering Reefs]]&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Duel Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 42 on the [[Syra Hovering Reefs]] in the [[Keves Castle Region]], or at level 95 in [[Rebellion Cave]] of [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Duel Igna
+|image        = Duel Igna FR.jpg
+|caption      = Duel Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 44
+|area         = [[Black Mountains]] ([[Raxeal Lavaflow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Duel Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 44 at [[Raxeal Lavaflow]] on the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>jffn4csvfeu29q1tymzunftnp38fn0v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Duel Merigna</title>
+    <ns>0</ns>
+    <id>121820</id>
+    <revision>
+      <id>559639</id>
+      <parentid>546934</parentid>
+      <timestamp>2022-09-30T10:46:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559639</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="hhynkcw5csyxwjvze5ogw3otnd544jk" xml:space="preserve">{{Infobox Enemy
+|name         = Duel Merigna
+|image        = 
+|caption      = Duel Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Duel Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>hhynkcw5csyxwjvze5ogw3otnd544jk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dunesea Marcellus</title>
+    <ns>0</ns>
+    <id>119414</id>
+    <revision>
+      <id>583288</id>
+      <parentid>574303</parentid>
+      <timestamp>2023-04-17T15:24:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1381" sha1="35d2o3z2zz1ro0qp4hktzs2sadlk9u3" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Dunesea Marcellus
+|image        = Dunesea Marcellus.png
+|caption      = Dunesea Marcellus
+|type         = [[Marrin]]
+|level        = 87
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Devil's Skillet]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 8,694
+|cp           = 1,000
+|sp           = 5
+|gold         = 6,349
+|hp           = 6,734,000
+|strength     = 2,252
+|healing      = 913
+|dexterity    = 267
+|agility      = 222
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Dunesea Marcellus''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Marrin]] family, and can be found at level 87 in the [[Devil's Skillet]] in the [[Dannagh Desert (XC3)|Dannagh Desert]]. The Strike Shirker [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 90%
+|physdebuff = 75%
+|etherdebuff = 90%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Dunesea marcellus location.png
+Dunesea marcellus.png
+&lt;/gallery&gt;
+
+{{clr}}
+
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Marrins]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>35d2o3z2zz1ro0qp4hktzs2sadlk9u3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>E</title>
+    <ns>0</ns>
+    <id>118606</id>
+    <revision>
+      <id>585465</id>
+      <parentid>583265</parentid>
+      <timestamp>2023-04-26T02:21:39Z</timestamp>
+      <contributor>
+        <username>Macdawg</username>
+        <id>28767241</id>
+      </contributor>
+      <origin>585465</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6274" sha1="ocb0hh2yjvt9iujl56g14yrra1vyyx2" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = E
+|image         = e (xenoblade).png
+|species       = [[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = 
+|eyecolor      = 
+|affiliation   = [[Consul]]s
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}
+}}
+'''Consul E''' is a character in {{XC3}}.
+
+== Overview ==
+E is the [[Consul]] of [[Colony Iota]].
+
+== Story ==
+At some point prior to the story, E was assigned to a [[Keves]]i [[Colony]] that fought against [[Colony Delta]], only to abandon the colony. He was later assigned to Colony Iota, knowing that [[Alexandria]] conspired to assassinate the previous commander, but did not do anything to stop it, though he informs [[Q]] about this. E is seen at [[Colony 14]]'s [[Homecoming Ceremony]], where 3 of his future enemies, [[Noah]], [[Eunie]], and [[Lanz]], as well as his future comrade [[Joran]] were in attendance.
+
+[[File:Consul screenshot.png|thumb|left|With H, P, and O]]
+E is present at [[Origin]], during a discussion between all the Consuls on the results of the conflict in [[Alfeto Valley]] after [[D]] and Joran, now known as J, return to Origin. As [[O]] and [[P]] discuss the emergence of [[Ouroboros]], E joins them in discussion, when [[H]] interjects, insisting that she should be allowed to go eliminate them herself. He reminds her that she had already had fun recently, when she destroyed [[Colony 8]], insisting he be allowed to go himself. This discussion is interrupted by [[Z]], and ultimately [[K]] is chosen to eliminate Ouroboros, though he was unsuccessful.
+
+Eventually, Ouroboros make their way to Colony Iota, where they encounter and defeat E, having been set up to do so by Alexandria, who had realized what the Consuls were up to with the intel she gathered. E attempts to fight Ouroboros, but is struck down.
+
+== Personality ==
+E, like most of his fellow Consuls, is arrogant and sociopathic. He demands to be addressed as "Master" E by both friend and foe alike. He views the world as a stage for a play and himself as a playwright. To him, everyone else, whether friend or foe, is a character for his work. In particular, he saw Alexandria as the perfect candidate to star in his masterpiece, planning to break her spirit and reforge her to his image. Unlike other Consuls, E does not appear to exert direct control over his subordinates. He instead gives them some leeway in the day-to-day operations and is amicable to negotiating additional resources for his assigned colony. However, he will also abandon a colony to destruction, as was the case with a Kevesi Colony he oversaw. At the moment of his death, E appeared to enter a state of delusion, imagining a crowd applauding a magnificent performance as a play closed. Alexandria mentions that he also had some shady hobbies and liked to talk.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius E
+|image        = Moebius E.jpg
+|caption      = Moebius E
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 42
+|area         = [[Elaice Highway]]
+|spawntime    = During ''[[Her Reasons]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,368
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 1,214,400
+|strength     = 817
+|healing      = 273
+|dexterity    = 176
+|agility      = 138
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius E''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and can be found at level 42 at [[Elaice Highway]] in the [[Fornis Region]] during ''[[Her Reasons]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 75%
+|etherdebuff = 90%
+}}
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius E
+|image        = XC3 Moebius E DLC Battle.jpg
+|caption      = Moebius E
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|type         = [[Moebius]]
+|level        = 72
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Stage of Destiny]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 5,696
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 629,640
+|strength     = 950
+|healing      = 452
+|dexterity    = 313
+|agility      = 237
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius E''' is fought at level 72 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]''.
+{{clr}}
+
+=== Archsage's Gauntlet ===
+{{Infobox XC3 Enemy
+|name         = Moebius E
+|image        = 
+|caption      = Moebius E
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Moebius]]
+|level        = 72, 88, 103
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = Moebius Interference during ''[[Gauntlet: Pro]]'' 
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+Moebius E can be summoned during the "Moebius Interference" event as a Minor Enemy during the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''. He can appear at level 72 on stages 14-16, at level 88 on stages 47-49, and at level 103 on stages 77-79.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Consul E and V.jpg|Consul E artwork
+&lt;/gallery&gt;
+
+{{clr}}
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing an infobox image]]</text>
+      <sha1>ocb0hh2yjvt9iujl56g14yrra1vyyx2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Easel</title>
+    <ns>0</ns>
+    <id>121760</id>
+    <revision>
+      <id>597811</id>
+      <parentid>596122</parentid>
+      <timestamp>2023-07-02T16:34:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2103" sha1="p81df53knl8aceqiz8m9o54q4juoa3f" xml:space="preserve">{{Infobox Character
+|name          = Easel
+|image         = Easel.png
+|species       = [[Keves]]i human
+|age           = 7th Term
+|gender        = Female
+|haircolor     = Red
+|eyecolor      = Blue
+|affiliation   = [[Syra Hovering Reefs]] ([[Colony 11]])
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}
+}}
+'''Easel''' is a character in {{XC3}}.
+
+== Overview ==
+Easel is a lieutenant of [[Colony 11]], and captain of the supply squad. [[Hexen]] and [[Branden]] are her subordinates. Additionally, she is one of the Three Ravens, along with her fellow lieutenants [[Zoren]] and [[Clad]]. As captain of the supply squad, she frequently goes on monster hunts and takes pride in being a hunter. As with the other lieutenants, she holds both respect and a grudge against [[Ashera]], and refers to her as her prey.
+
+== Affinity ==
+* [[Ashera]]
+* [[Clad]]
+* [[Zoren]]
+* [[Branden]]
+* [[Hexen]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Fellplume Easel
+|image        = 
+|caption      = Fellplume Easel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = ?,66
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = During ''[[Three Ravens at War]]'' and ''[[Festival of War]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Fellplume Easel''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is a [[Keves Forces|Keves Soldier]] who is fought at level ? and 66 at [[Syra Hovering Reefs]] in the [[Keves Castle Region]] during ''[[Three Ravens at War]]'', and ''[[Festival of War]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>p81df53knl8aceqiz8m9o54q4juoa3f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eastman</title>
+    <ns>0</ns>
+    <id>118160</id>
+    <revision>
+      <id>597812</id>
+      <parentid>596123</parentid>
+      <timestamp>2023-07-02T16:34:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1730" sha1="0abhmm2c2lzzwijwlehycia8nmo79qs" xml:space="preserve">{{Infobox NPC
+|name        = Eastman
+|image       = XC3 Eastman.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Keves]]i human
+|age         = 7th Term
+|location    = [[Yzana Plains]] ([[Colony 9 (XC3)|Colony 9]])
+}}
+'''Eastman''' is a NPC in {{XC3}} who can be found in [[Colony 9 (XC3)|Colony 9]]. He is part of [[Kite]]'s squad alongside [[Trish]] and [[Fox]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Eastman
+|image        = 
+|caption      = Eastman
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Keves Forces]]
+|level        = 28
+|area         = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime    = During ''[[Forgotten Supplies]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Eastman''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. He is a [[Keves Forces|Keves Soldier]] who is fought at level 28 at [[Murmur Rise]] in [[Millick Meadows]] during ''[[Forgotten Supplies]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>0abhmm2c2lzzwijwlehycia8nmo79qs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eclipse Marrin</title>
+    <ns>0</ns>
+    <id>121069</id>
+    <revision>
+      <id>598209</id>
+      <parentid>583218</parentid>
+      <timestamp>2023-07-04T17:26:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="962" sha1="qv8im5iqbgfoxa2hw1i90ygg0ykltb3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Eclipse Marrin
+|image        = Eclipse Marrin.jpg
+|caption      = Eclipse Marrin
+|category     = Normal Minor Enemy
+|type         = [[Marrin]]
+|level        = 55-56
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Raptor Perch]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Eclipse Marrins''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Marrin]] family, and can be found at level 55-56 near [[Raptor Perch]] in the [[Dannagh Desert (XC3)|Dannagh Desert]]. They drop [[Zapneedle Marrin Carapace]]s and [[Marrin Bone]]s when defeated.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Marrins]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qv8im5iqbgfoxa2hw1i90ygg0ykltb3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eclipse Soul</title>
+    <ns>0</ns>
+    <id>125910</id>
+    <revision>
+      <id>580506</id>
+      <timestamp>2023-03-25T15:07:30Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Spoiler}} {{Infobox XC3 Status |title = Eclipse Soul |caption = Makes allies attack one another. |image = File:XC3 Eclipse Soul.png |type = Debuff | attribute = Ether | base-duration = &lt;abbr title="The debuff does not have a defined duration, but lasts until the Art ends or soon after affected character is attacked"&gt;Indefinite&lt;/abbr&gt; | rng-applicable = No | effect-title-4 = Remarks | effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs...."</comment>
+      <origin>580506</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1343" sha1="rg63g30zw7wacdwn7yf4bjm5kodl9wm" xml:space="preserve">{{Spoiler}}
+{{Infobox XC3 Status
+|title = Eclipse Soul
+|caption = Makes allies attack one another.
+|image = File:XC3 Eclipse Soul.png
+|type = Debuff
+| attribute = Ether
+| base-duration = &lt;abbr title="The debuff does not have a defined duration, but lasts until the Art ends or soon after affected character is attacked"&gt;Indefinite&lt;/abbr&gt;
+| rng-applicable = No
+| effect-title-4 = Remarks
+| effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs.
+}}
+'''Eclipse Soul''' is a [[Status Effect]] in {{XC3}}. It causes the affected character to attack their own allies, and prevents the player from controlling them. The debuff can only be inflicted by [[Moebius M]] when she uses the Art of the same name, during the encounter at the end of Chapter 5. If a character in an [[Ouroboros]] form is targeted, both members of the Interlink will be affected.
+
+Characters affected by the debuff are temporarily considered to be out of the player's party, resulting in the loss of the battle if they are the only characters left alive.
+
+During Moebius M's first phase, the affected character(s) cannot be targeted, and the debuff will not appear in the battle interface. In the second phase, the debuff will be visible, and the affected character can be targeted to damage M and prematurely end the Art.
+[[Category:XC3 Status]]</text>
+      <sha1>rg63g30zw7wacdwn7yf4bjm5kodl9wm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eghi Rhogul</title>
+    <ns>0</ns>
+    <id>121214</id>
+    <revision>
+      <id>577260</id>
+      <parentid>577259</parentid>
+      <timestamp>2023-02-16T17:15:47Z</timestamp>
+      <contributor>
+        <username>Xolimpha</username>
+        <id>30499430</id>
+      </contributor>
+      <minor/>
+      <origin>577260</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1367" sha1="tlj5gbhjjbwiy624mda87opt26fayv1" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Eghi Rhogul
+|image        = Eghi Rhogul.png
+|caption      = Eghi Rhogul
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Rhogul]]
+|level        = 64
+|area         = [[Urayan Tunnels]]
+|spawntime    = During and after ''[[Happiness]]''
+|respawn      = Yes
+|movement     = 
+|detection    = Sight (Regardless of level difference)
+|exp          = 
+}}
+'''Eghi Rhoguls''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level 64 at [[Urayan Tunnels]] in the [[Pentelas Region]] during ''[[Happiness]]''; however, it also respawns after the quest and are the only boss in the game to do so. During and after ''Happiness'', the four Eghi Rhoguls and one [[Rabdar Rhogul]] [[Elite Monster]] guard one [[Cozy Rhogul Egggems]] in their nest.
+
+Despite being in the [[Great Cotte Falls]] area near the entrance to Urayan Tunnels, the map considers its location as part of Urayan Tunnels area.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tlj5gbhjjbwiy624mda87opt26fayv1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eilis</title>
+    <ns>0</ns>
+    <id>117946</id>
+    <revision>
+      <id>597814</id>
+      <parentid>596124</parentid>
+      <timestamp>2023-07-02T16:34:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597814</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1611" sha1="axuaswh21gkkv4ouhi72flfyh9t5lag" xml:space="preserve">{{Infobox NPC
+|name        = Eilis
+|image       = XC3 Eilis.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = 
+|age         = 8th Term
+|location    = [[Yzana Plains]] ([[Colony 9 (XC3)|Colony 9]])
+}}
+'''Eilis''' is an NPC in {{XC3}} who can be found in [[Colony 9 (XC3)|Colony 9]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Eilis
+|image        = XC3 Eilis Fight.png
+|caption      = Eilis
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Keves Forces]]
+|level        = 21
+|area         = [[Yzana Plains]]
+|spawntime    = During ''[[Where The Heart Is]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Eilis''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. She is a member of the [[Keves Forces]], and can be found at level 21 in the [[Yzana Plains]] during ''[[Where The Heart Is]]'' where she assists [[Zeon|Dutiful Zeon]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>axuaswh21gkkv4ouhi72flfyh9t5lag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ekidno</title>
+    <ns>0</ns>
+    <id>10205</id>
+    <revision>
+      <id>601979</id>
+      <parentid>600728</parentid>
+      <timestamp>2023-07-22T12:21:00Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{TTGC|-}} */</comment>
+      <origin>601979</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1859" sha1="3tzostz10dsyr7z3h52xw0jb61gizxg" xml:space="preserve">[[File:Ciconia ekidno.jpg|thumb|A Ciconia Ekidno]]
+'''Ekidnos''' (Japanese: {{lang|ja|&#12456;&#12461;&#12489;&#12490;}}, ''Ekidona'', lit. ''Echidna'') are a family of flying enemies in the {{XC|serieslink}}.
+
+== {{XC|-}} ==
+In {{XC}}, Ekidnos are found exclusively at [[Eryth Sea]] on [[Bionis]], and are sometimes used as beasts of burden by [[Hode]]s. There are several types of Ekidno.
+
+=== Normal Minor Enemies ===
+* [[Ciconia Ekidno]]
+* [[Pelargos Ekidno]]
+
+=== Quest Exclusive Enemies ===
+* [[Confusion Ekidno]] (during ''[[Hode Attack]]'')
+* [[Decay Ekidno]] (during ''[[Trouble at the Lighthouse]]'')
+
+=== Unique Monster ===
+* [[Cumulus Danaemos]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Ciconia Ekidno]] ([[Fogbeast]])
+
+== {{XC2|-}} ==
+=== Normal Minor Enemy ===
+* [[Skode Ekidno]]
+
+=== Quest Exclusive Boss ===
+* [[Celestial Bailey]] (DLC, during ''[[Merclibay's Mightiest]]'')
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Oone Ekidno]]
+
+=== Quest Exclusive Enemy ===
+* [[Tenax Ekidno]] (during ''[[Azurda SOS]]'')
+
+== {{XC3|-}} ==
+=== Normal Minor Enemy ===
+* [[Gladiis Ekidno]]
+
+=== Unique Monster ===
+* [[Blazing Karlos]]
+
+=== Quest Exclusive Boss ===
+* [[Memorial Ekidno]] (During ''[[My Memories]]'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Ciconia Ekidno.jpg
+Perlargos Ekidno.jpg
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+OoneEkidno.jpg
+TenaxEkidno.jpg
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:Bionis Life]]
+[[Category:XC Ekidnos]]
+[[Category:Flying Enemies]]
+[[Category:Sight Category]]
+[[Category:XCFC Species]]
+[[Category:XCFC Ekidnos]]
+[[Category:XC2 Species]]
+[[Category:XC2 Ekidnos]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Species]]
+[[Category:TTGC Ekidnos]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Ekidnos]]
+[[Category:XC3 Aerial Life]]
+[[Category:Ekidnos]]
+[[Category:Species by Type]]</text>
+      <sha1>3tzostz10dsyr7z3h52xw0jb61gizxg</sha1>
+    </revision>
+  </page>
+  </mediawiki>

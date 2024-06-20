@@ -1,0 +1,3548 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Andaris Crustip</title>
+    <ns>0</ns>
+    <id>122984</id>
+    <revision>
+      <id>559527</id>
+      <parentid>552307</parentid>
+      <timestamp>2022-09-30T10:42:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559527</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="801" sha1="2dv9j9bqa8c1ntj9jdnx1a3yth6uaga" xml:space="preserve">{{Infobox Enemy
+|name         = Andaris Crustip
+|image        = 
+|caption      = Andaris Crustip
+|category     = Minor Enemy
+|type         = [[Crustip]]
+|level        = ?
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Andaris Crustips''' are Minor Enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level ? at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>2dv9j9bqa8c1ntj9jdnx1a3yth6uaga</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ankle Ardun</title>
+    <ns>0</ns>
+    <id>121116</id>
+    <revision>
+      <id>559528</id>
+      <parentid>545444</parentid>
+      <timestamp>2022-09-30T10:42:31Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559528</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="casxxua63cnos9vebhwshhz0z5fibgx" xml:space="preserve">{{Infobox Enemy
+|name         = Ankle Ardun
+|image        = 
+|caption      = Ankle Ardun
+|category     = Minor Enemy
+|type         = [[Ardun]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Ankle Arduns''' are Minor Enemies in {{XC3}}. They are members of the [[Ardun]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arduns]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>casxxua63cnos9vebhwshhz0z5fibgx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Anlood</title>
+    <ns>0</ns>
+    <id>75950</id>
+    <revision>
+      <id>601919</id>
+      <parentid>600689</parentid>
+      <timestamp>2023-07-22T12:17:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>601919</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1968" sha1="dvfysknjotzliob0392hr0bimwdrhts" xml:space="preserve">[[file:RudoniAnlood.jpg|thumb|Rudoni Anlood]]
+'''Anloods''' are a family of enemies in the {{XC|serieslink}}. They resemble deer or goats.
+
+== {{XC2|-}} ==
+In {{XC2}}, Anloods can be found in the [[Kingdom of Uraya]], [[Empire of Mor Ardain]], [[Kingdom of Tantal]] and the [[Cliffs of Morytha]]. A pair can be observed rutting at the [[Nopon Pioneers' Spring]]. Anloods come in two colors; pure white in Tantal and tan/brown striped elsewhere.
+=== Normal Minor Enemies ===
+* [[Goldol Anlood]]
+* [[Klim Anlood]]
+* [[Rudoni Anlood (XC2)|Rudoni Anlood]]
+* [[Tomlok Anlood]]
+
+=== Unique Monster ===
+* [[Slasher Buffon]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Duff Anlood]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Anloods can be found in the [[Aetia Region]], [[Fornis Region]], [[Pentelas Region]], and [[Swordmarch]].
+
+=== Normal Minor Enemies ===
+* [[Abgran Anlood]]
+* [[Arpat Anlood]]
+* [[Demnd Anlood]]
+* [[Olkort Anlood]]
+* [[Rudoni Anlood (XC3)|Rudoni Anlood]]
+* [[Samide Anlood]]
+* [[Scape Anlood]]
+
+=== Quest Exclusive Enemies ===
+* [[Eregaa Anlood]] (During ''[[Stolen Provisions]]'')
+* [[Hungry Anlood]] (During ''[[The Harvest]]'')
+
+=== Unique Monster ===
+* [[Joyful Nimroog]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Demnd Anlood]]
+* [[Rudoni Anlood (XC3)|Rudoni Anlood]]
+* [[Scape Anlood]]
+
+=== Quest Exclusive Boss ===
+* [[Gigante Anlood]] (During ''[[A Melody Sustained]]'')
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Tomlok Anlood.png
+Klim Anlood.png
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Scape Anlood XC3.jpeg|Scape Anlood
+XC3 Joyful Nimroog.png|Joyful Nimroog
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Gigante Anlood.jpg|Gigante Anlood
+&lt;/gallery&gt;
+
+[[Category:XC2 Anloods]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Anloods]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Anloods]]
+[[Category:Species by Type]]</text>
+      <sha1>dvfysknjotzliob0392hr0bimwdrhts</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Annihilator</title>
+    <ns>0</ns>
+    <id>124965</id>
+    <revision>
+      <id>597209</id>
+      <parentid>594227</parentid>
+      <timestamp>2023-06-24T15:35:52Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <minor/>
+      <comment>rewording</comment>
+      <origin>597209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6364" sha1="ihd9npgc044v3bsy63hezh5ynlzo3fe" xml:space="preserve">{{Spoiler}}
+[[File:XC3 Annihilator Keves.PNG|thumb|Keves Castle Annihilator]]
+The '''Annihilator''' is a structure and weapon in {{XC3}}. It harnesses the power of [[Black Fog]] to weaponize the [[Annihilation Event]] phenomenon. There are two known in existence, one for each [[nation]]'s [[Castle]].
+{{clr}}
+
+== Design and Function ==
+[[File:XC3 Annihilator and Castle Blueprint.PNG|thumb|210px|left|Annihilator and Castle 3D Diagram]]
+The [[Keves]] Annihilator matches its castle in color design, prominently dark gray with gold highlights, and purple and blue lighting. It is attached to a circular rail on the exterior of [[Keves Castle]], held in place by the main housing, using the Auto Balancer to counteract the massive weight of the barrel. Consequently, this means that the entire weight of the barrel rests on the Auto Balancer, creating a major weak point in its construction. The Annihilator barrel itself is protected by four sections of an outer shell, which can retract to reveal the power converter. The sections of the outer shell can be seen emitting purple electricity which the central power converter draws upon to emit its projectile. The energy for the Annihilator is acquired by the Castle's [[Flame Clock]] absorbing the surrounding Black Fog. This energy is then condensed and stored in the center of the castle, in an area known as the neutralizer assembly, which renders the Black Fog inactive. Finally, the energy is transmitted through the outer rails and into the Annihilator. Due to the barrel needing a vast amount of energy, a massive refrigeration unit was installed on the ring to cool the incoming energy from the rail. The Annihilator has no limit to its range.
+
+The [[Agnus]] Annihilator also matches its Castle's design, being prominently white, with highlights of gold and red, while emitting a green light. The central power converter design is also the same as the Keves Annihilator's. However, there are a few other differences. Firstly, the barrel of the Annihilator is not attached to a rail like the one in Keves Castle, rather protruding and retracting from [[Agnus Castle]] itself. It also only has two sections of its outer shell, bearing a design resemblance to a [https://en.wikipedia.org//wiki/Railgun railgun].
+
+== Story ==
+[[File:Annihilator destroying Uraya.gif|thumb|210px|Annihilator firing on the Urayan Mountains]]
+The Annihilator is first seen when the party overlooks Keves Castle in [[Chapter 4 (XC3)|Chapter 4]], although too far away to be clearly seen. Later in that same cutscene [[Ethel]] and [[Bolearis]] are seen in a meeting with the [[Queen of Keves]] and [[Consul]] [[N]]. N is then seen interacting with a blue hologram under the Queen's orders which slowly turns green. Afterwards, the Annihilator is seen moving along a circular rail, in response to N's actions. Ethel and Bolearis are then shown a hologram projection of the Annihilator, which is shown shooting its projectile on the [[Uraya|Urayan Mountains]], causing a large Annihilation Effect which left a massive crater. The explosion is loud enough for the party to hear and feel nearby, causing them to be confused and worried. Ethel and Bolearis are in awe of its power, but are worried about the soldiers being deprived of life force for their Flame Clocks if it were to be used on Agnus. The Queen then states that they weren't planning on using it against Agnus, but rather Ethel's [[Colony 4]], as punishment for coming into contact with the [[Ouroboros]] and having their Flame Clock destroyed. However, they are given a chance to save the Colony by eliminating the Ouroboros. 
+
+[[File:XC3 Annihilator Exploding.PNG|thumb|210px|left|Annihilator Exploding]]
+Ethel then gives Bolearis the schematics of the Castle and Annihilator, who then managed to escape from the Castle. Meanwhile in [[High Maktha Wildwood]], [[Mio]] hears something in the bushes, which is revealed to be Bolearis, who gives the party the schematics. Mio then manages to connect the explosion and light they saw earlier to the Annihilator, and resolves to destroy it, along with the rest of the party. After making their way to the [[Keves Castle Region]], [[Noah]] and [[Taion]] discuss their infiltration plan, settling on sneaking into the castle, taking the maintenance hatch, and destroying the Auto Balancer. However once they reach the [[Annihilator Foundations]], they are blocked by [[Moebius D &amp; J]], which the party then fight. While in the middle of the fight, [[Riku]] and [[Manana]] notice the Annihilator drawing energy through the rails. But no matter how much the party tries, Moebius D &amp; J manage to stop them before they can destroy the Auto Balancer. But then [[Eunie]] comes up with a plan with the help of Taion, where they lured the [[Moebius]] to the Auto Balancer so that Eunie's Ouroboros form can fire fast moving but weak projectiles into it. That way when they transform into Taion's Ouroboros form, the projectiles stuck in the Auto Balancer turn into Taion's exploding Mondo, which promptly detonate and destroy the Auto Balancer, causing the Annihilator collapse under its own weight. While falling, the stored-up energy in the Annihilator causes the barrel itself to undergo the Annihilation Effect, which [[D]] and [[J]] get caught up in, although they survive.
+
+[[File:XC3 Agnus Annihilator.PNG|thumb|210px|Agnus Castle's Annihilator]]
+While the Keves Annihilator was destroyed, the Agnus Castle's Annihilator is later seen after the party defeats the [[Queen of Agnus]]. After its defeat, [[X]] activates the Castle's Annihilator and reveals to the party that it will fire on the [[City]] in [[Swordmarch]], whose location was revealed by [[Shania]]. It then fires on Swordmarch where Shania specified it to be shot, leaving a massive crater known as [[The Cavity]]. However, the City was not actually destroyed due to it having been a mobile [[Ferronis]], and already having been warned ahead of time by Mio and [[M]]. During the final battle against [[Z]], [[Nia]] uses the Annihilator after transforming Agnus Castle into a [[Ferronis]] to attack [[Origin]].
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Keves Annihilator Opened.PNG
+XC3 Agnus Annihilator Opened.PNG
+The Cavity 03.jpg|The Cavity of Swordmarch created by the Annihilator
+&lt;/gallery&gt;
+{{clr}}
+
+[[Category:XC3 Plot]]
+[[Category:XC3 Weapons]]
+[[Category:XC3 Objects]]</text>
+      <sha1>ihd9npgc044v3bsy63hezh5ynlzo3fe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Annon Rhinon</title>
+    <ns>0</ns>
+    <id>121185</id>
+    <revision>
+      <id>575957</id>
+      <parentid>559190</parentid>
+      <timestamp>2023-02-07T16:22:01Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>575957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1217" sha1="jevjcv3ip818xoyk8dbwjspnmr3j5fj" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Annon Rhinon
+|image        = Annon Rhinon.png 
+|caption      = Annon Rhinon
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Rhinon]]
+|level        = 33&lt;br /&gt;48
+|area         = [[High Maktha Wildwood]] ([[Colony Tau Entrance]])
+|spawntime    = During ''[[Natural Selection]]''&lt;br /&gt;During ''[[Survivors]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Annon Rhinons''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Rhinon]] family that are fought at the [[Colony Tau Entrance]] in [[High Maktha Wildwood]], with three being fought at level 33 during ''[[Natural Selection]]'' and twelve being fought at level 48 across three waves during ''[[Survivors]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Rhinons]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>jevjcv3ip818xoyk8dbwjspnmr3j5fj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ansel</title>
+    <ns>0</ns>
+    <id>5833</id>
+    <revision>
+      <id>601920</id>
+      <parentid>600690</parentid>
+      <timestamp>2023-07-22T12:17:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601920</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2619" sha1="260ghx5op804xviquvl9qtblce4b13p" xml:space="preserve">[[file:Eryth ansels.jpg|thumb|An Eryth Ansel]]
+'''Ansels''' (Japanese: {{lang|ja|&#12450;&#12531;&#12475;&#12523;}}, ''Anseru'') are an enemy family in the {{XC|serieslink}}. They are a flying enemy type of similar size and power to [[Rhogul]]s.
+
+== {{XC|-}} ==
+In {{XC}}, Ansels can be found on [[Bionis]] in [[Satorl Marsh]], in [[Makna Forest]], at [[Eryth Sea]], and on [[Valak Mountain]]. The most powerful Ansel is the Atomizek Ansel, which is level 46, and resides on Valak Mountain.
+
+=== Normal Minor Enemies ===
+* [[Atomis Ansel]]
+* [[Atomizek Ansel]]
+* [[Eryth Ansel]]
+* [[Makna Ansel]]
+
+=== Unique Monster ===
+* [[Agile Albatro]]
+
+=== Boss ===
+* [[Satorl Guardian]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Atomis Ansel]]
+* [[Makna Ansel]]
+
+== {{XC2|-}} ==
+In {{XC2}}, Ansels can be found in the [[Kingdom of Uraya]] and [[Cliffs of Morytha]].
+
+=== Normal Minor Enemies ===
+* [[Dirid Ansel]]
+* [[Riveral Ansel]]
+* [[Rooka Ansel]]
+* [[Segel Ansel]]
+* [[Zike Ansel]]
+
+=== Unique Monster ===
+* [[Machine-Gun Julio]]
+
+=== Quest Exclusive Boss ===
+* [[Dobus Ansel]] (During ''[[The Supply Situation]]'')
+
+== {{XC3|-}} ==
+In {{XC3}}, Ansels can be found in [[Aionios]].
+
+=== Normal Minor Enemies ===
+* [[Arogan Ansel]]
+* [[Brute Ansel]]
+* [[Hunter Ansel]]
+* [[Kanbat Ansel]]
+* [[Last Ansel]]
+* [[Mudtalon Ansel]]
+* [[Rabdar Ansel]]
+* [[Scarred Ansel]]
+* [[Shika Ansel]]
+* [[Sky Ansel]]
+* [[Smart Ansel]]
+* [[Sniper Ansel]]
+
+=== Quest Exclusive Enemies ===
+* [[Elsayer Ansel]] (During ''[[Securing Supplies]]'')
+* [[Larm Ansel]] (During ''[[Dorin and Bambam]]'')
+* [[Seeth Ansel]] (During ''[[Castle Access]]'')
+
+=== Unique Monsters ===
+* [[Terrorbird Zieger]]
+* [[Witchwind Kujjat]]
+
+=== Quest Exclusive Bosses ===
+* [[Forin Ansel]] (During ''[[I'm a Mechanic]]'')
+* [[Hantis Ansel]] (During ''[[Rules of the Hunt]]'')
+* [[Planaa Ansel]] (During ''[[Castle Access]]'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Atomis Ansel.jpg
+Satorl Guardian.jpg
+Atomizek Ansel.jpg
+Agile Albatro (Ansel).jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+DiridAnsel.jpg
+RookaAnsel.jpg
+SegelAnsel.jpg
+Riveral Ansel.png
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Sky Ansel.jpeg
+Larm Ansel.jpg
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC Ansels]]
+[[Category:XC Species]]
+[[Category:XCFC Ansels]]
+[[Category:XCFC Species]]
+[[Category:Bionis Life]]
+[[Category:Flying Enemies]]
+[[Category:Species Category]]
+[[Category:Sight Category]]
+[[Category:XC2 Species]]
+[[Category:XC2 Ansels]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Aerial Life]]
+[[Category:Ansels]]
+[[Category:Species by Type]]</text>
+      <sha1>260ghx5op804xviquvl9qtblce4b13p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Antal Ropl</title>
+    <ns>0</ns>
+    <id>121059</id>
+    <revision>
+      <id>581891</id>
+      <parentid>581759</parentid>
+      <timestamp>2023-04-06T20:13:38Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>581891</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1055" sha1="k7jj6i33wi5q0gr49jo03qi3eymv9hr" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Antal Ropl
+|caption      = Antal Ropl
+|image        = Antal Ropl.png
+|type         = [[Ropl]]
+|movement     = Ground
+|category     = Minor Enemy
+|level        = 15-17
+|area         = [[Eagus Wilderness]] ([[Reith Valley]]) &lt;br&gt;  [[Elaice Highway]] ([[Singbreeze Funnel]])
+|spawntime    = Anytime
+|respawn      = Yes
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Antal Ropl''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 15-17 at [[Reith Valley]] in the [[Eagus Wilderness]] and at [[Singbreeze Funnel]] in the [[Elaice Highway]].
+
+== Drops ==
+* [[Ropl Rock Fragment]]
+* [[Ropl Jaw]]
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Antal Ropl (Underground).png|Underground
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>k7jj6i33wi5q0gr49jo03qi3eymv9hr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Antol</title>
+    <ns>0</ns>
+    <id>3542</id>
+    <revision>
+      <id>601921</id>
+      <parentid>600691</parentid>
+      <timestamp>2023-07-22T12:17:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>601921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4155" sha1="sn21tc8nm4nm40enma25s40ylhyohz7" xml:space="preserve">[[file:Roguish Frengel.png|thumb|A yellow Antol]]
+The '''Antol''' (Japanese: {{lang|ja|&#12450;&#12531;&#12488;&#12523;}}, ''Antoru'') family is a common but minor family of spider-like creatures in the {{XC|serieslink}}. Their models remain unchanged in each game. '''Kings''' (Japanese: {{lang|ja|&#12461;&#12531;&#12464;}}, ''Kingu'') are giant Antols with two abdomens instead of one, similar to [[Arachno]] Queens.
+
+In {{TTGC}}, [[Cloud Arachno]]s mistakenly use an Antol model; as no other [[Arachno]]s appear in the game, this enemy was likely intended to be an Antol.
+
+== {{XC|-}} ==
+In {{XC}}, there are two main types of Antols, red and yellow Antols. Red Antols are sight enemies. Yellow Antols are normal enemies. Antols are found around [[Colony 9 (XC1)|Colony 9]], on [[Bionis' Leg]], outside the walls of [[Colony 6]], in [[Makna Forest]], on [[Valak Mountain]], and on the [[Fallen Arm]]. The strongest Antol is the [[Powerful Eligos]] on the [[Fallen Arm]] and is at level 80.
+
+=== Normal Minor Enemies ===
+* [[Aura Antol]]
+* [[Basin Antol]]
+* [[Clinger Antol]]
+* [[Ent Antol]]
+* [[Entma King]]
+* [[Flamme Antol]]
+* [[Leg Antol]]
+* [[Lubum Antol]]
+* [[Makna Antol]]
+* [[Prairie Antol]]
+* [[Ravine Antol]]
+* [[Red Antol]]
+* [[Ridge Antol]]
+* [[Rius Antol]]
+* [[Yellow Antol]]
+
+=== Unique Monsters ===
+* [[Barbaric Sitri]]
+* [[Clifftop Bayern]]
+* [[Powerful Eligos]]
+* [[Roguish Frengel]]
+
+== {{XCFC|sub}} ==
+In {{XCFC|sublink}}, Antols are found exclusively on the [[Bionis' Shoulder]].
+
+=== Normal Minor Enemies ===
+* [[Red Antol]]
+* [[Ridge Antol]]
+* [[Yellow Antol]]
+
+=== Quest Exclusive Enemies ===
+* [[Slobbering Antol]] (During ''[[Incensed Dekadeka]]'')
+* [[Vicejaw Antol]] (During ''[[No Armu Done]]'')
+
+=== Unique Monster ===
+* [[Grotesque Deimis]]
+
+=== Boss ===
+* [[Antol King]] ([[Fogbeast]])
+
+== {{XC2|-}} ==
+Antols are far less common in {{XC2}}, occurring almost exclusively in [[Temperantia]]. Only yellow and King Antols exist.
+
+=== Normal Minor Enemies ===
+* [[Demon Antol]]
+* [[Heggl Antol]]
+* [[Scura Antol]]
+
+=== Quest Exclusive Boss ===
+* [[Vacillus Antol]] (during ''[[A Phonex Tale]]'')
+
+== {{TTGC|-}} ==
+Antols appear exclusively in the [[Kingdom of Torna]], and again, only yellow and King varieties exist.
+=== Normal Minor Enemies ===
+* [[Greetz Antol]]
+* [[Survee Antol]]
+
+=== Quest Exclusive Enemy ===
+* [[Marrith Antol]] (during ''[[Homegrown Inventor]]'')
+
+=== Unique Monster ===
+* [[Interceptor Grace]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Antols appear exclusively in the [[Cadensia Region]].
+=== Normal Minor Enemies ===
+* [[Assassin Antol]]
+* [[General Antol]]
+* [[Master Antol]]
+* [[Mhamamia Antol]]
+
+=== Unique Monsters ===
+* [[Flyswatter Kamado]]
+* [[Spiky Aurelia]]
+
+=== Quest Exclusive Boss ===
+* [[Territorial Antol]] (During ''[[Promise to the Future]]'')
+
+== {{XC3FR|sub}} ==
+=== Quest Exclusive Boss ===
+* [[Treasure Antol]] (During ''[[Snow Man's Treasure]]'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Yellow Antols.jpg
+Red Antols.jpg
+Ent Antol.jpg
+Barbaric Sitri (Antol King).jpg
+&lt;/gallery&gt;
+
+=== {{XCFC|sub}} ===
+&lt;gallery&gt;
+XC1DE-Grotesque-Deimis.png|Grotesque Deimis
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+DemonAntol.jpg|Demon Antol
+VacillusAntol.jpg|Vacillus Antol
+HegglAntol.jpg|Heggl Antol
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+SurveeAntol.jpg|Survee Antol
+GreetzAntol.jpg|Greetz Antol
+InterceptorGrace.jpg|Interceptor Grace
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Flyswatter Kamado.png|Flyswatter Kamado
+XC3 Spiky Aurelia.png|Spiky Aurelia
+XC3 Territorial Antol.png|Territorial Antol
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Treasure Antol.jpg|Treasure Anrtol
+&lt;/gallery&gt;
+
+[[Category:Bionis Life]]
+[[Category:XC Species]]
+[[Category:XC Antols]]
+[[Category:XCFC Species]]
+[[Category:XCFC Antols]]
+[[Category:Mechonis Life]]
+[[Category:Insect Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Antols]]
+[[Category:XC2 Insects]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Antols]]
+[[Category:XC3 Species]]
+[[Category:XC3 Antols]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Antols]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Antols]]
+[[Category:Species by Type]]</text>
+      <sha1>sn21tc8nm4nm40enma25s40ylhyohz7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Apprentice Vambraces (XC3)</title>
+    <ns>0</ns>
+    <id>118909</id>
+    <revision>
+      <id>592702</id>
+      <parentid>592537</parentid>
+      <timestamp>2023-05-15T20:11:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592702</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1171" sha1="dbzma8luy6ceh711hl2nl2uy2deeo0d" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Apprentice Vambraces (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Apprentice Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Apprentice Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Apprentice Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking higher-level enemies by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Apprentice Vambracess''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>dbzma8luy6ceh711hl2nl2uy2deeo0d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arachno</title>
+    <ns>0</ns>
+    <id>6220</id>
+    <revision>
+      <id>601924</id>
+      <parentid>600693</parentid>
+      <timestamp>2023-07-22T12:17:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5993" sha1="dlykdyjrefnggv1nmg97m7f4h1w4aib" xml:space="preserve">[[File:White Spider.png|thumb|A Queen Arachno]]
+'''Arachnos''' (Japanese: {{lang|ja|&#12473;&#12497;&#12452;&#12489;}}, ''Supaido''; [[English dub pronunciations|English dub]]: {{IPA|/&#601;&#712;r&#230;kno&#650;/}}) are a type of four-legged, spider-like enemies in the {{XC|serieslink}}. '''Queens''' (Japanese: {{lang|ja|&#12463;&#12452;&#12540;&#12531;}}, ''Ku&#299;n'') are a much larger kind of Arachno with two abdomens instead of one, similar to [[Antol]] Kings.
+
+The [[Cloud Arachno]] uses an Antol model, and was likely intended to be an Antol enemy.
+
+== {{XC|-}} ==
+Many species of Arachnos are in the [[:Category:Sound Category|Sound Category]], meaning they attack if the party leader runs while nearby them. Some species can hatch from [[Pod]]s. When [[Reyn]] and [[Shulk]] are in [[Tephra Cave]], they comment on how it looks like they are [[Mechon]] parts inside the pods.
+
+=== Story ===
+[[File:Arachno Queen.png|thumb|The Arachno Queen]]
+In [[Tephra Cave]], multiple Arachnos attack Shulk and Reyn a short while after the [[Spring of Grief]]. Shulk has a vision where Reyn is killed by the [[Arachno Queen]]. Reyn runs away from the Arachnos, only to end up on the [[Arachno Queen's Nest]]. Shulk's vision is then about to come true, but a new symbol appears on the [[Monado]]. Shulk learns the Monado art, [[Monado Shield (XC1)|Shield]], which protects Reyn. A boss battle with the Arachno Queen and numerous Arachnos then commences.
+
+=== Types of Arachnos ===
+There are several high-level species of Arachnos found in [[Tephra Cave]]. Arachnos also can be found on [[Bionis' Leg]], in [[Satorl Marsh]], and on [[Valak Mountain]]. The most powerful Arachno is the [[Unique Monster (XC1)|Unique]] [[Firework Geldesia]] at level 98. It resides in Tephra Cave.
+
+==== Normal Minor Enemies ====
+* [[Admiral Arachno]]
+* [[Director Arachno (normal)|Director Arachno]]
+* [[General Arachno (XC1)|General Arachno]]
+* [[Jada Arachno]]
+* [[Jadals Arachno]]
+* [[Leg Arachno]]
+* [[Officer Arachno]]
+* [[Panasowa Arachno]]
+* [[Vilae Arachno]]
+* [[Worker Arachno (XC1)|Worker Arachno]]
+
+==== Quest Exclusive Enemies ====
+* [[Daughter Empress]] (during ''[[It Definitely Exist!]]'')
+* [[Deified Queen]] (during ''[[The Giants' Treasure]]'')
+* [[Devoted Arachno]] (during ''[[Clearing Obstructions]]'')
+* [[Greedy Arachno]] (during ''[[The Lost Pendant]]'')
+* [[Mythical Empress]] (during ''[[Legend of Mythical Empress]]'')
+* [[Resolute Arachno]] (during ''Clearing Obstructions'')
+* [[Zealous Arachno]] (during ''Clearing Obstructions'')
+
+==== Story Exclusive Enemies ====
+* [[Captain Arachno]]
+* [[Director Arachno (story)|Director Arachno]]
+* [[Soldier Arachno (XC1)|Soldier Arachno]]
+* [[Worker Arachno (story)|Worker Arachno]]
+
+==== Unique Monsters ====
+* [[Eternal Palsadia]]
+* [[Mysterious Barnaby]]
+* [[Plump Sprahda]]
+
+==== Quest Exclusive Unique Monsters ====
+* [[Dazzling Tolosnia]] (during ''[[The Blood of Bafalgar]]'')
+* [[Firework Geldesia]] (during ''[[Battling Brutes]]'')
+
+==== Boss ====
+* [[Arachno Queen]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Arachno Queen]]
+* [[Director Arachno]]
+* [[Worker Arachno (XC1)|Worker Arachno]]
+
+=== Unique Monster ===
+* [[Caustic Naquatra]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Empress Arachno]]
+* [[Hool Arachno]]
+* [[Nel Arachno]]
+* [[Pawn Arachno (XC2)|Pawn Arachno]]
+* [[Queen Arachno (XC2)|Queen Arachno]]
+* [[Regel Arachno]]
+* [[Reggl Arachno]]
+* [[Reener Arachno]]
+* [[Rook Arachno (XC2)|Rook Arachno]]
+
+=== Quest Exclusive Enemy ===
+* [[Maxos Arachno]] (DLC, during ''[[Shiny New Power]]'')
+
+=== Unique Monster ===
+* [[Glamorous Alfred]]
+
+=== Boss ===
+* [[Elder Arachno]]
+
+=== Quest Exclusive Bosses ===
+* [[Nanda Arachno]] (During ''[[Go for it, Electra!]]'')
+* [[Ravenous Arachno]] (During ''[[The Ties That Bind (XC2)|The Ties That Bind]]'')
+
+== {{TTGC|-}} ==
+=== Quest Exclusive Enemy ===
+* [[Cloud Arachno]] (During ''[[What Bars the Way]]'')
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Army Arachno]]
+* [[General Arachno (XC3)|General Arachno]]
+* [[Gradya Arachno]]
+* [[Pawn Arachno (XC3)|Pawn Arachno]]
+* [[Queen Arachno (XC3)|Queen Arachno]]
+* [[Rook Arachno (XC3)|Rook Arachno]]
+* [[Soldier Arachno (XC3)|Soldier Arachno]]
+* [[Worker Arachno (XC3)|Worker Arachno]]
+
+=== Quest Exclusive Enemies ===
+* [[Dannagh Arachno]] (DLC, during ''[[Champion of the Nopon]]'')
+* [[Savant Arachno]] (during ''[[A Nopon's Counsel]]'')
+
+=== Unique Monsters ===
+* [[Abysmal Rakshmi]]
+* [[Gracious Titania]]
+* [[Unobtrusive Liggy]]
+
+=== Quest Exclusive Bosses ===
+* [[Drone Arachno]]
+* [[Midona Arachno]]
+* [[Princess Arachno]] (During ''A Nopon's Counsel'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Army Arachno]]
+* [[General Arachno (XC3)|General Arachno]]
+* [[Gradya Arachno]]
+* [[Queen Arachno (XC3)|Queen Arachno]]
+* [[Radna Arachno]]
+* [[Soldier Arachno (XC3)|Soldier Arachno]]
+
+== Etymology ==
+* ''Arachno'' comes from ''[[wikipedia:Arachnid|Arachnid]]'', the class of animals containing spiders.
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Jada Arachno.jpg
+General Arachno.jpg
+Greedy Arachno.jpg
+Plump Sprahda.jpg
+Queen spider.jpg|Queen Arachno
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Elder Arachno &amp; Wulfric.png|Elder Arachno
+Hool Arachno.jpg|Hool Arachno
+RookArachno.jpg|Rook Arachno
+RegelArachno.jpg|Empress Arachno
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Pawn Arachno (XC3).jpg|Pawn Arachno
+Queen Arachno (XC3).jpg|Queen Arachno
+&lt;/gallery&gt;
+
+[[Category:Bionis Life]]
+[[Category:XC Species]]
+[[Category:XC Arachnos]]
+[[Category:XCFC Species]]
+[[Category:XCFC Arachnos]]
+[[Category:Sound Category]]
+[[Category:Insect Enemies]]
+[[Category:XC2 Arachnos]]
+[[Category:XC2 Species]]
+[[Category:XC2 Insects]]
+[[Category:XC2 Affinity Chart Enemies]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Arachnos]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Arachnos]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Arachnos]]
+[[Category:Species by Type]]</text>
+      <sha1>dlykdyjrefnggv1nmg97m7f4h1w4aib</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arcaphor Gogol</title>
+    <ns>0</ns>
+    <id>121869</id>
+    <revision>
+      <id>581296</id>
+      <parentid>559530</parentid>
+      <timestamp>2023-04-03T12:30:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="020cti9nvfkv47m4yozgizyrrxaten0" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Arcaphor Gogol
+|image        = 
+|caption      = Arcaphor Gogol
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Gogol]]
+|level        = 47
+|area         = [[Erythia Sea]]
+|spawntime    = During ''[[Doing It My Way]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Arcaphor Gogols''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Gogol]] family, and can be found at level 47 at [[Erythia Sea]] in the [[Cadensia Region]] during ''[[Doing It My Way]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>020cti9nvfkv47m4yozgizyrrxaten0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archbard Gulkin</title>
+    <ns>0</ns>
+    <id>121800</id>
+    <revision>
+      <id>559531</id>
+      <parentid>546905</parentid>
+      <timestamp>2022-09-30T10:42:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="d7b0apsh0tll85wm9hvzsowggpxq6pf" xml:space="preserve">{{Infobox Enemy
+|name         = Archbard Gulkin
+|image        = 
+|caption      = Archbard Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archbard Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>d7b0apsh0tll85wm9hvzsowggpxq6pf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archbard Tirkin</title>
+    <ns>0</ns>
+    <id>121117</id>
+    <revision>
+      <id>559532</id>
+      <parentid>557277</parentid>
+      <timestamp>2022-09-30T10:42:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559532</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="975" sha1="gkcja97pu1cwuhoa0pdeey1ktw3gn11" xml:space="preserve">{{Infobox Enemy
+|name         = Archbard Tirkin
+|image        = 
+|caption      = Archbard Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Fornis Region]]&lt;br /&gt;[[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archbard Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]] or at [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>gkcja97pu1cwuhoa0pdeey1ktw3gn11</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archbow Gulkin</title>
+    <ns>0</ns>
+    <id>121801</id>
+    <revision>
+      <id>559533</id>
+      <parentid>546906</parentid>
+      <timestamp>2022-09-30T10:42:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559533</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="lh5fk1jwl2h90mjbmhwku88r92kbryg" xml:space="preserve">{{Infobox Enemy
+|name         = Archbow Gulkin
+|image        = 
+|caption      = Archbow Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archbow Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>lh5fk1jwl2h90mjbmhwku88r92kbryg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archbow Tirkin</title>
+    <ns>0</ns>
+    <id>121178</id>
+    <revision>
+      <id>559534</id>
+      <parentid>557276</parentid>
+      <timestamp>2022-09-30T10:42:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="861" sha1="mrtpweabag8cym49ijyia2w0l6cksoi" xml:space="preserve">{{Infobox Enemy
+|name         = Archbow Tirkin
+|image        = 
+|caption      = Archbow Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archbow Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>mrtpweabag8cym49ijyia2w0l6cksoi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archer Tirkin (XC3)</title>
+    <ns>0</ns>
+    <id>121118</id>
+    <revision>
+      <id>559535</id>
+      <parentid>557908</parentid>
+      <timestamp>2022-09-30T10:42:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559535</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1019" sha1="l4fz4ozwp5ys6dnetw4kjjwtqgnepid" xml:space="preserve">{{for|the enemy in {{XC|-}}|Archer Tirkin (XC1)}}
+{{Infobox Enemy
+|name         = Archer Tirkin
+|image        = 
+|caption      = Archer Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Fornis Region]]&lt;br /&gt;[[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archer Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]] or at [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>l4fz4ozwp5ys6dnetw4kjjwtqgnepid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archknight Gulkin</title>
+    <ns>0</ns>
+    <id>121802</id>
+    <revision>
+      <id>559536</id>
+      <parentid>546907</parentid>
+      <timestamp>2022-09-30T10:42:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559536</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="808" sha1="pusdid31sy94dhw2fe2hseuqkw8kcrc" xml:space="preserve">{{Infobox Enemy
+|name         = Archknight Gulkin
+|image        = 
+|caption      = Archknight Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archknight Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>pusdid31sy94dhw2fe2hseuqkw8kcrc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archknight Tirkin</title>
+    <ns>0</ns>
+    <id>121179</id>
+    <revision>
+      <id>559537</id>
+      <parentid>557274</parentid>
+      <timestamp>2022-09-30T10:42:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559537</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="982" sha1="ind1go6yrpum5vfx170cb4lxzhwo7f8" xml:space="preserve">{{Infobox Enemy
+|name         = Archknight Tirkin
+|image        = 
+|caption      = Archknight Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Pentelas Region]]&lt;br /&gt;[[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archknight Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[High Maktha Wildwood]] in the [[Pentelas Region]], or at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ind1go6yrpum5vfx170cb4lxzhwo7f8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archpike Gulkin</title>
+    <ns>0</ns>
+    <id>121803</id>
+    <revision>
+      <id>559538</id>
+      <parentid>546909</parentid>
+      <timestamp>2022-09-30T10:42:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559538</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="h5fx0o1131y6b6k7wuk8znuq6u2md3t" xml:space="preserve">{{Infobox Enemy
+|name         = Archpike Gulkin
+|image        = 
+|caption      = Archpike Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archpike Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>h5fx0o1131y6b6k7wuk8znuq6u2md3t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archpike Tirkin</title>
+    <ns>0</ns>
+    <id>121119</id>
+    <revision>
+      <id>559539</id>
+      <parentid>557275</parentid>
+      <timestamp>2022-09-30T10:42:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559539</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="975" sha1="b5b5cqkkol8bkk0fgc0xtpvl1oad7d5" xml:space="preserve">{{Infobox Enemy
+|name         = Archpike Tirkin
+|image        = 
+|caption      = Archpike Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Fornis Region]]&lt;br /&gt;[[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Archpike Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]] or at [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>b5b5cqkkol8bkk0fgc0xtpvl1oad7d5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archsage's Aide, Blue</title>
+    <ns>0</ns>
+    <id>125660</id>
+    <revision>
+      <id>582594</id>
+      <parentid>577290</parentid>
+      <timestamp>2023-04-12T13:21:54Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>infobox</comment>
+      <origin>582594</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="516" sha1="9prtmgb0d0akptkvn87ax6i2xt5g5cp" xml:space="preserve">{{Infobox NPC
+|name        = Archsage's Aide, Blue
+|image       = Archsage's Aide, Blue.jpg
+|personality =
+|time_active = Anytime
+|gender      = 
+|race        = [[Nopon]]
+|age         = 
+|location    = [[Land of Challenge (XC3)|Land of Challenge]]
+}}
+'''Archsage's Aide, Blue''' is a NPC in {{XC3}}. He runs the [[Class Mastery Shop Blue]] shop located in the [[Land of Challenge (XC3)|Land of Challenge]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 DLC NPCs]]
+[[Category:XC3 Challenge Battle Mode]]
+[[Category:XC3 Nopon]]</text>
+      <sha1>9prtmgb0d0akptkvn87ax6i2xt5g5cp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archsage's Aide, Red</title>
+    <ns>0</ns>
+    <id>124882</id>
+    <revision>
+      <id>582595</id>
+      <parentid>570989</parentid>
+      <timestamp>2023-04-12T13:22:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>582595</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="f90tql6ftmy4yapfvk2xnpb9d62gict" xml:space="preserve">{{Infobox NPC
+|name        = Archsage's Aide, Red
+|image       = Archsage's Aide, Red.jpg
+|personality =
+|time_active = Anytime
+|gender      = 
+|race        = [[Nopon]]
+|age         = 
+|location    = [[Land of Challenge (XC3)|Land of Challenge]]
+}}
+'''Archsage's Aide, Red''' is a NPC in {{XC3}}. He runs the [[Class Mastery Shop Red]] shop located in the [[Land of Challenge (XC3)|Land of Challenge]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 DLC NPCs]]
+[[Category:XC3 Challenge Battle Mode]]
+[[Category:XC3 Nopon]]</text>
+      <sha1>f90tql6ftmy4yapfvk2xnpb9d62gict</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archsage's Flower Fan</title>
+    <ns>0</ns>
+    <id>125664</id>
+    <revision>
+      <id>578176</id>
+      <parentid>578021</parentid>
+      <timestamp>2023-02-24T15:00:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="701" sha1="nz5zg94xiy45yqlgx91d3eo9ypbv199" xml:space="preserve">{{Infobox item
+|name      = Archsage's Flower Fan
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts maximum HP, Attack and Healing Power by 30% and scatters flower petals on using quick move.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Nopon Archsage]]
+|sell      = N/A
+}}
+The '''Archsage's Flower Fan''' is a DLC [[Accessory (XC3)|Accessory]] in {{XC3}}. It is received from the [[Nopon Archsage]] after clearing all [[Challenge Battle Mode|Challenge Battles]] with S Rank. In [[New Game + (XC3)|New Game +]], the Nopon Archsage will reward the [[Humongous Nopon Doll]] instead.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>nz5zg94xiy45yqlgx91d3eo9ypbv199</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archsage's Gauntlet</title>
+    <ns>0</ns>
+    <id>125657</id>
+    <revision>
+      <id>582425</id>
+      <parentid>582336</parentid>
+      <timestamp>2023-04-11T08:05:24Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>moved gauntlet challenge battles section</comment>
+      <origin>582425</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="66651" sha1="mp1muokc3794yqzb4wd30r7kt8yg2au" xml:space="preserve">[[File:Archsage's Gauntlet Icon.png|thumb|210px|The Archsage's Gauntlet]]
+The '''Archsage's Gauntlet''' is a type of [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It becomes available after completing ''[[More Challenge Battles!]]''.
+
+== Overview ==
+The Archsage's Gauntlet consists of rogue-like challenges. Completing a Gauntlet run rewards Blue [[Noponstone]]s. At the start of each Gauntlet run, the player chooses one member of [[Ouroboros]] to fight several stages, and to clear each stage, all the enemies that appear must be defeated; the exact enemies that appear are randomized with each run. Enemies will increase in level every three stages (boss stages don't count toward this). On every tenth stage, the party will fight [[Boss (XC3)|bosses]], and the bosses encountered are the same every Gauntlet run. The score will rise as the player defeats enemies, and perform battle actions, such as [[Combo]]s.  
+
+If a Gauntlet is tackled with the difficulty set to Hard, [[Noah]] will be unable to use any arts with [[Lucky Seven]] unless the [[Lucky Seven License]] is obtained, meaning that [[Infinity Blade (XC3)|Infinity Blade]] and [[Unlimited Sword]] cannot be used until the License is purchased. 
+
+Due to only one member of Ouroboros being available during a Gauntlet run, [[Interlink]]ing is replaced with the Launch Charge. When activating Launch Charge, all enemies will be [[Launch (XC3)|launched]]. The Launch Charge guage rises as enemies are defeated, and up to three charges can be stored. Using Launch Charge also triggers Bonus Time, during which the score will build up faster than usual for 10 seconds. Attacks dealt to foes during this time will also contribute to the score. If a stage is completed without any party members being incapacitated, the player will receive a score multiplier, and this bonus maxes out after completing five KO-less stages in a row.
+
+There are multiple ways to increase the score:
+* Defeat enemies
+* Inflict [[Topple (XC3)|Topple]], [[Burst]], or [[Smash (XC3)|Smash]] on enemies.
+* Defeat enemies with [[Chain Attack (XC3)|Chain Attacks]].
+* Hit enemies with attacks during Bonus Time.
+* Receive certain boons through the Archsage's Whimsy.
+
+The following situations will add a multiplier to the score:
+* When successive stages have been completed without letting any party member get KO'd.
+* During Bonus Time.
+* When the effects of certain Emblems are active.
+
+The Nopwatch is another unique feature to the Archsage's Gauntlet. This gauge depletes over time, and when it runs out, the entire party will suffer three penalties. These penalties include greatly reduced HP recovery, rate of recharge, and ally revival speed. The Nopwatch gauge can be refilled by spending score in the shop in-between stages, but the cost will increase with successive acquisition.
+
+Recruited [[Hero]]es will use all the [[Battle Arts (XC3)|Arts]] they have access to, but during Chain Attacks, they'll only be able to use those they have assigned to the Arts Palette. Only Heroes unlocked in the main game can be used during a run.
+
+The Chain Gauge in the Gauntlet is harder to fill than in normal battles. Additionally, selecting a Hero's Chain Order during a Chain Attack will consume the Chain Gauge.
+
+== Gauntlet Challenge Battles ==
+{| class="xc1 centered sortable" width="100%"
+! Challenge Title
+! Difficulty
+! Stages
+! Lv. Restriction
+|-
+| [[Gauntlet: Beginner]]
+| data-sort-value="2" |[[File:CD2.png|x21px]]
+| 30
+| 30
+|-
+| [[Gauntlet: Intermediate]] &#8251;1
+| data-sort-value="4" |[[File:CD4.png|x21px]]
+| 50
+| 50
+|-
+| [[Gauntlet: Pro]] &#8251;2
+| data-sort-value="5" |[[File:CD5.png|x21px]]
+| 140
+| 70
+|}
+:&#8251;1 Challenge unlocked at chapter 6.&lt;br /&gt;
+:&#8251;2 Challenge unlocked after completing the game.
+{{clr}}
+
+== Gauntlet Shop ==
+The score can be used between stages in the shop to recruit up to six Heroes and purchase Emblems with special effects. The shop contents for each stage are chosen at random. 
+
+Shuffle Tickets can be used to change the shop line-up. These can be acquired by defeating fierce enemies at key stages or rarely encountered [[Lucky Monster]]s. Up to three Shuffle Tickets can be carried at once, and the number the player starts each run with will increase as the party allies with more Heroes in the main game.
+
+=== Shop Prices ===
+==== Recruit a Hero ====
+{| class="xc1
+!Hero No.
+!Default Price
+!Discount
+!Discount +1
+!Discount +2
+!Discount +3
+!Discount +4
+!Discount +5
+|-
+|#1
+|FREE
+|FREE
+|FREE
+|FREE
+|FREE
+|FREE
+|FREE
+|-
+|#2
+|FREE
+|FREE
+|FREE
+|FREE
+|FREE
+|FREE
+|FREE
+|-
+|#3
+|2500
+|2400
+|2350
+|2300
+|2200
+|2100
+|2000
+|-
+|#4
+|5000
+|4800
+|4700
+|4600
+|4400
+|4200
+|4000
+|-
+|#5
+|7500
+|7200
+|7050
+|6900
+|6600
+|6300
+|6000
+|-
+|#6
+|10000
+|9600
+|9400
+|9200
+|8800
+|8400
+|8000
+|}
+{{clr}}
+
+== Emblems ==
+Emblems are items that help the party with special effects. They can be purchased in the shop, and if an emblem that the party has already acquired is purchased at the shop, the Emblem's effect will be further amplified, up to +5. 
+
+Emblems can also be purchased at the [[Prize X-change Blue]] for Blue Noponstone. Previously unlocked Emblems can be strengthened too, up to a maximum of +2. Once upgraded, they'll show up in the Gauntlet shop in their already-strengthened state.
+
+When a locked Emblem is acquired in exchange for Blue Noponstone, that Emblem will be unlocked and available for purchase from the Gauntlet shop.
+
+Some emblems are cursed, meaning that the provided effect will give a buff and a debuff. 
+
+=== List of Emblems ===
+&lt;tabber&gt;
+|-|Base Level =
+{| class="xc1 centered sortable" width="100%"
+!Emblem
+!width="50px" | Rarity
+!width="200px" | Description
+!Effects
+!Score
+|-
+|Max HP Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts maximum HP greatly. Additionally, boosts Healing Power slightly.
+|Max HP Boost: 40%&lt;br/&gt;Healing Boost: 20%
+|2000
+|-
+|Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attack greatly.
+|Attack Boost: 40%
+|2000
+|-
+|Defense Up &#8251;
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Reduces damage taken by a set percentage. Additionally, boosts Healing Power slightly.
+|Less Damage Taken: 10%&lt;br/&gt;Healing Boost: 20%
+|2000
+|-
+|Dexterity Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Dexterity. Additionally, boosts Attack slightly.
+|Dexterity Boost: 30%&lt;br/&gt;Attack Boost: 20%
+|2000
+|-
+|Agility Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Agility. Additionally, boosts Max HP slightly.
+|Agility Boost: 30%&lt;br/&gt;Max HP Boost: 20%
+|2000
+|-
+|Healing Power Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Healing Power greatly. Additionally, boosts Max HP slightly.
+|Healing Boost: 40%&lt;br/&gt;Max HP Boost: 20%
+|2000
+|-
+|Auto-Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts auto-attack damage greatly, but slows recharge. (Curse)
+|Auto-Attack Damage Boost: 120%&lt;br/&gt;Slower Recharge: 10%
+|2000
+|-
+|Area Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Grants auto-attacks an area of effect. Additionally, boosts auto-attack damage slightly.
+|Wider Attack Area: 4m&lt;br/&gt;Auto-Attack Damage Boost: 10%
+|3500
+|-
+|Fast Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Speeds up the performance and frequency of auto-attacks, but slows recharge. (Curse)
+|Haste: 20%&lt;br/&gt;Slower Recharge: 10%
+|3500
+|-
+|Absorb HP 
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Makes auto-attacks absorb HP proportional to damage dealt. Also, boosts auto-attack damage slightly.
+|Absorb 0.4% HP&lt;br/&gt;Auto-Attack Damage Boost: 10%
+|4000
+|-
+|Debuffing Attack &#8251;
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance for auto-attacks to inflict a random debuff. Also boosts auto-attack damage slightly.
+|Inflict Debuff Chance: 1.0%&lt;br/&gt;Auto-Attack Damage Boost: 10%
+|3000
+|-
+|Damage Ratio Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increase the initial damage ratio of Chain Attacks, but slows Launch Charge buildup. (Curse)
+|Initial Damage Ratio Up: 150%&lt;br/&gt;Slow Charge Build: 10%
+|2000
+|-
+|Faster Chain Build
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Speeds up Chain Attack gauge buildup, but slows Launch Charge buildup. (Curse)
+|Chain Fills Faster: 30%&lt;br/&gt;Slow Charge Build: 10%
+|2500
+|-
+|Combo to Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge on executing Smash or Burst. Additionally, boosts Dexterity slightly.
+|Chain Attack Gain: 4%&lt;br/&gt;Dexterity Boost: 15%
+|1500
+|-
+|Refund Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge when a Chain Attack ends without fully depleting the gauge.
+|Restore Chain Attack: 25%
+|4000
+|-
+|Attack Up After Use &#8251;
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|After using a Chain Attack, greatly boosts Attack for the duration of the stage.
+|After Use: Attack Up 100%
+|2500
+|-
+|Debuff Rate Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Increases debuff success rate by a set value, but shortens debuff effect duration. (Curse)
+|Debuff % Up: 15%&lt;br/&gt;Shorter Debuffs: 15%
+|3000
+|-
+|Debuff Duration Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts debuff effect duration. Additionally, boosts Attack slightly.
+|Longer Debuffs: 25%&lt;br/&gt;Attack Boost: 20%
+|2000
+|-
+|Debuff to Break
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Break resistance for enemies suffering from a debuff by a set value. Additionally, boosts Dexterity slightly.
+|Break % Up: 15%&lt;br/&gt;Dexterity Boost: 15%
+|2000
+|-
+|Combo Duration Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts the duration of all combo reactions. Additionally, boosts Attack slightly.
+|Combo Time Up: 25%&lt;br/&gt;Attack Boost: 20%
+|2000
+|-
+|Combo to Attack &#8251;
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Boosts Attack based on the number of times Smash and Burst are performed during the stage.
+|Bonus Per Action: 40%
+|3000
+|-
+|Score Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts score gained in battle. (Curse)
+|Gain Score Faster: 5%&lt;br/&gt;Max HP Down: 30%
+|1000
+|-
+|Curse to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP slightly, but boosts Attack based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 8%&lt;br/&gt;Max HP Down: 20%
+|2500
+|-
+|Curse to Recharge
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Lowers Max HP slightly, but boosts recharge speed based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 2.0%&lt;br/&gt;Max HP Down: 20%
+|3000
+|-
+|Rescue to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts Attack each time an ally is revived during the stage. Stacks up to 10 times. (Curse)
+|Bonus Per Action: 20%&lt;br/&gt;Max HP Down: 35%
+|2500
+|-
+|Rescue Recharge &#8251;
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers Max HP, but partially recharges the party's Arts when an ally is revived. (Curse)
+|Recover Recharge: 20%&lt;br/&gt;Max HP Down: 35%
+|4000
+|-
+|Focus: Defenders
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Defenders' Max HP and Attack. Effect increases per Defender in party.
+|Max HP Up Per Member: 10%&lt;br/&gt;Attack Up Per Member: 20%
+|2500
+|-
+|Focus: Attackers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attackers' Max HP and Attack. Effect increases per Attacker in party.
+|Max HP Up Per Member: 15%&lt;br/&gt;Attack Up Per Member: 25%
+|2500
+|-
+|Focus: Healers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Healers' Max HP and Attack. Effect increases per Healer in party.
+|Max HP Up Per Member: 20%&lt;br/&gt;Attack Up Per Member: 15%
+|2500
+|-
+|Focus: Role Unity &#8251;
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team has 4+ of the same role, role recharge speed rises per person, but falls for other roles. (Curse)
+|Bonus Per Member: 4.0%&lt;br/&gt;Slow Other Roles: 15%
+|3000
+|-
+|Kevesi Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Kevesi, boosts score gained in battle. Effect increases per Kevesi.
+|Bonus Per Member: 2.0%
+|2500
+|-
+|Agnian Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Agnians, boosts score gained in battle. Effect increases per Agnian.
+|Bonus Per Member: 2.0%
+|2500
+|-
+|Other Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes three or more non-Kevesi/Agnians, boosts score gained in battle. Effect increases per person.
+|Bonus Per Member: 2.5%
+|2500
+|-
+|Kevesi Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Kevesi, boosts those members' Attack and party Launch Charge build. Effect increases per Kevesi.
+|Attack Up Per Member: 20%&lt;br/&gt;Charge Up Per Member: 1.5%
+|3000
+|-
+|Agnian Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Agnians, boosts those members' Attack and party Launch Charge build. Effect increases per Agnian.
+|Attack Up Per Member: 20%&lt;br/&gt;Charge Up Per Member: 1.5%
+|3000
+|-
+|Other Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 3+ non-Kevesi/Agnians, boosts their Attack and party Launch Charge build. Effect increases per person.
+|Attack Up Per Member: 30%&lt;br/&gt;Charge Up Per Member: 2.0%
+|3000
+|-
+|Boss HP Down &#8251;
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers bosses' starting HP, but slightly boosts non-bosses' Max HP. (Curse)
+|Reduce Boss Starting HP: 12%&lt;br/&gt;Non-Boss HP Up: 5%
+|2500
+|-
+|Small-Unit Tactics
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When team has under seven members, boosts recharge speed in proportion to no. of missing members.
+|Bonus Per Member: 7%
+|2500
+|-
+|Last-Ditch Effort
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When Nopwatch drops to 50% or lower, boosts Attack relative to watch depletion, starting at half of the depletion bonus.
+|Max Depletion Bonus: 70%
+|1500
+|-
+|Slow Nopwatch &#8251;
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Slows Nopwatch depletion speed.
+|Slow Watch Drain: 20%
+|3500
+|-
+|Moneybags
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Attack mods from Emblems for each 10,000 on your score. (Effect maxes out at 100,000.)
+|Bonus Per 10k: 25%
+|1500
+|-
+|Attract Events
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases event occurrence rate but lowers whimsy occurrence. (Curse) (No effect in Beginner.)
+|Event Rate Up 15%&lt;br/&gt;Whimsy Rate Down 10%
+|1000
+|-
+|Tickle Whimsy
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases whimsy occurrence rate but lowers event occurrence. (Curse) (No effect in Beginner.)
+|Whimsy Rate Up 15%&lt;br/&gt;Event Rate Down 10%
+|1000
+|-
+|Discount Card
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers shop prices
+|Lower Prices: 4%
+|4000
+|-
+|Ticket Line &#8251;
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance to receive a Shuffle Ticket when visiting the shop.
+|Shuffle Ticket Chance: 15%
+|2500
+|}
+
+|-|Emblem+1 =
+{| class="xc1 centered sortable" width="100%"
+!Emblem
+!width="50px" | Rarity
+!width="200px" | Description
+!Effects
+!Score
+|-
+|Max HP Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts maximum HP greatly. Additionally, boosts Healing Power slightly.
+|Max HP Boost: 80%&lt;br/&gt;Healing Boost: 40%
+|2250
+|-
+|Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attack greatly.
+|Attack Boost: 80%
+|2250
+|-
+|Defense Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Reduces damage taken by a set percentage. Additionally, boosts Healing Power slightly.
+|Less Damage Taken: 15%&lt;br/&gt;Healing Boost: 40%
+|2250
+|-
+|Dexterity Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Dexterity. Additionally, boosts Attack slightly.
+|Dexterity Boost: 60%&lt;br/&gt;Attack Boost: 40%
+|2250
+|-
+|Agility Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Agility. Additionally, boosts Max HP slightly.
+|Agility Boost: 60%&lt;br/&gt;Max HP Boost: 40%
+|2250
+|-
+|Healing Power Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Healing Power greatly. Additionally, boosts Max HP slightly.
+|Healing Boost: 80%&lt;br/&gt;Max HP Boost: 40%
+|2250
+|-
+|Auto-Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts auto-attack damage greatly, but slows recharge. (Curse)
+|Auto-Attack Damage Boost: 150%&lt;br/&gt;Slower Recharge: 12%
+|2250
+|-
+|Area Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Grants auto-attacks an area of effect. Additionally, boosts auto-attack damage slightly.
+|Wider Attack Area: 5m&lt;br/&gt;Auto-Attack Damage Boost: 20%
+|4000
+|-
+|Fast Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Speeds up the performance and frequency of auto-attacks, but slows recharge. (Curse)
+|Haste: 25%&lt;br/&gt;Slower Recharge: 12%
+|4000
+|-
+|Absorb HP 
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Makes auto-attacks absorb HP proportional to damage dealt. Also, boosts auto-attack damage slightly.
+|Absorb 0.5% HP&lt;br/&gt;Auto-Attack Damage Boost: 20%
+|4500
+|-
+|Debuffing Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance for auto-attacks to inflict a random debuff. Also boosts auto-attack damage slightly.
+|Inflict Debuff Chance: 1.2%&lt;br/&gt;Auto-Attack Damage Boost: 20%
+|3500
+|-
+|Damage Ratio Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increase the initial damage ratio of Chain Attacks, but slows Launch Charge buildup. (Curse)
+|Initial Damage Ratio Up: 180%&lt;br/&gt;Slow Charge Build: 12%
+|2250
+|-
+|Faster Chain Build
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Speeds up Chain Attack gauge buildup, but slows Launch Charge buildup. (Curse)
+|Chain Fills Faster: 40%&lt;br/&gt;Slow Charge Build: 13%
+|3000
+|-
+|Combo to Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge on executing Smash or Burst. Additionally, boosts Dexterity slightly.
+|Chain Attack Gain: 5%&lt;br/&gt;Dexterity Boost: 30%
+|1750
+|-
+|Refund Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge when a Chain Attack ends without fully depleting the gauge.
+|Restore Chain Attack: 30%
+|4500
+|-
+|Attack Up After Use
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|After using a Chain Attack, greatly boosts Attack for the duration of the stage.
+|After Use: Attack Up 150%
+|3000
+|-
+|Debuff Rate Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Increases debuff success rate by a set value, but shortens debuff effect duration. (Curse)
+|Debuff % Up: 20%&lt;br/&gt;Shorter Debuffs: 20%
+|3500
+|-
+|Debuff Duration Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts debuff effect duration. Additionally, boosts Attack slightly.
+|Longer Debuffs: 32%&lt;br/&gt;Attack Boost: 40%
+|2250
+|-
+|Debuff to Break
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Break resistance for enemies suffering from a debuff by a set value. Additionally, boosts Dexterity slightly.
+|Break % Up: 18%&lt;br/&gt;Dexterity Boost: 30%
+|2250
+|-
+|Combo Duration Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts the duration of all combo reactions. Additionally, boosts Attack slightly.
+|Combo Time Up: 30%&lt;br/&gt;Attack Boost: 40%
+|2250
+|-
+|Combo to Attack
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Boosts Attack based on the number of times Smash and Burst are performed during the stage.
+|Bonus Per Action: 45%
+|3500
+|-
+|Score Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts score gained in battle. (Curse)
+|Gain Score Faster: 7%&lt;br/&gt;Max HP Down: 40%
+|1250
+|-
+|Curse to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP slightly, but boosts Attack based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 12%&lt;br/&gt;Max HP Down: 24%
+|3000
+|-
+|Curse to Recharge
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Lowers Max HP slightly, but boosts recharge speed based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 2.4%&lt;br/&gt;Max HP Down: 24%
+|3500
+|-
+|Rescue to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts Attack each time an ally is revived during the stage. Stacks up to 10 times. (Curse)
+|Bonus Per Action: 24%&lt;br/&gt;Max HP Down: 40%
+|3000
+|-
+|Rescue Recharge
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers Max HP, but partially recharges the party's Arts when an ally is revived. (Curse)
+|Recover Recharge: 24%&lt;br/&gt;Max HP Down: 40%
+|4500
+|-
+|Focus: Defenders
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Defenders' Max HP and Attack. Effect increases per Defender in party.
+|Max HP Up Per Member: 12%&lt;br/&gt;Attack Up Per Member: 28%
+|3000
+|-
+|Focus: Attackers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attackers' Max HP and Attack. Effect increases per Attacker in party.
+|Max HP Up Per Member: 20%&lt;br/&gt;Attack Up Per Member: 35%
+|3000
+|-
+|Focus: Healers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Healers' Max HP and Attack. Effect increases per Healer in party.
+|Max HP Up Per Member: 25%&lt;br/&gt;Attack Up Per Member: 20%
+|3000
+|-
+|Focus: Role Unity
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team has 4+ of the same role, role recharge speed rises per person, but falls for other roles. (Curse)
+|Bonus Per Member: 4.5%&lt;br/&gt;Slow Other Roles: 18%
+|3500
+|-
+|Kevesi Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Kevesi, boosts score gained in battle. Effect increases per Kevesi.
+|Bonus Per Member: 2.3%
+|3000
+|-
+|Agnian Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Agnians, boosts score gained in battle. Effect increases per Agnian.
+|Bonus Per Member: 2.3%
+|3000
+|-
+|Other Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes three or more non-Kevesi/Agnians, boosts score gained in battle. Effect increases per person.
+|Bonus Per Member: 2.7%
+|3000
+|-
+|Kevesi Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Kevesi, boosts those members' Attack and party Launch Charge build. Effect increases per Kevesi.
+|Attack Up Per Member: 30%&lt;br/&gt;Charge Up Per Member: 2.0%
+|3500
+|-
+|Agnian Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Agnians, boosts those members' Attack and party Launch Charge build. Effect increases per Agnian.
+|Attack Up Per Member: 30%&lt;br/&gt;Charge Up Per Member: 2.0%
+|3500
+|-
+|Other Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 3+ non-Kevesi/Agnians, boosts their Attack and party Launch Charge build. Effect increases per person.
+|Attack Up Per Member: 40%&lt;br/&gt;Charge Up Per Member: 2.5%
+|3500
+|-
+|Boss HP Down
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers bosses' starting HP, but slightly boosts non-bosses' Max HP. (Curse)
+|Reduce Boss Starting HP: 15%&lt;br/&gt;Non-Boss HP Up: 6%
+|3000
+|-
+|Small-Unit Tactics
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When team has under seven members, boosts recharge speed in proportion to no. of missing members.
+|Bonus Per Member: 10%
+|3000
+|-
+|Last-Ditch Effort
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When Nopwatch drops to 50% or lower, boosts Attack relative to watch depletion, starting at half of the depletion bonus.
+|Max Depletion Bonus: 140%
+|1750
+|-
+|Slow Nopwatch
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Slows Nopwatch depletion speed.
+|Slow Watch Drain: 24%
+|4000
+|-
+|Moneybags
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Attack mods from Emblems for each 10,000 on your score. (Effect maxes out at 100,000.)
+|Bonus Per 10k: 30%
+|1750
+|-
+|Attract Events
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases event occurrence rate but lowers whimsy occurrence. (Curse) (No effect in Beginner.)
+|Event Rate Up 20%&lt;br/&gt;Whimsy Rate Down 14%
+|1250
+|-
+|Tickle Whimsy
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases whimsy occurrence rate but lowers event occurrence. (Curse) (No effect in Beginner.)
+|Whimsy Rate Up 20%&lt;br/&gt;Event Rate Down 14%
+|1250
+|-
+|Discount Card
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers shop prices
+|Lower Prices: 6%
+|4500
+|-
+|Ticket Line
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance to receive a Shuffle Ticket when visiting the shop.
+|Shuffle Ticket Chance: 17%
+|3000
+|}
+
+|-|Emblem+2 =
+{| class="xc1 centered sortable" width="100%"
+!Emblem
+!width="50px" | Rarity
+!width="200px" | Description
+!Effects
+!Score
+|-
+|Max HP Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts maximum HP greatly. Additionally, boosts Healing Power slightly.
+|Max HP Boost: 120%&lt;br/&gt;Healing Boost: 60%
+|2500
+|-
+|Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attack greatly.
+|Attack Boost: 120%
+|2500
+|-
+|Defense Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Reduces damage taken by a set percentage. Additionally, boosts Healing Power slightly.
+|Less Damage Taken: 20%&lt;br/&gt;Healing Boost: 60%
+|2500
+|-
+|Dexterity Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Dexterity. Additionally, boosts Attack slightly.
+|Dexterity Boost: 90%&lt;br/&gt;Attack Boost: 60%
+|2500
+|-
+|Agility Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Agility. Additionally, boosts Max HP slightly.
+|Agility Boost: 90%&lt;br/&gt;Max HP Boost: 60%
+|2500
+|-
+|Healing Power Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Healing Power greatly. Additionally, boosts Max HP slightly.
+|Healing Boost: 120%&lt;br/&gt;Max HP Boost: 60%
+|2500
+|-
+|Auto-Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts auto-attack damage greatly, but slows recharge. (Curse)
+|Auto-Attack Damage Boost: 180%&lt;br/&gt;Slower Recharge: 14%
+|2500
+|-
+|Area Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Grants auto-attacks an area of effect. Additionally, boosts auto-attack damage slightly.
+|Wider Attack Area: 6m&lt;br/&gt;Auto-Attack Damage Boost: 30%
+|4500
+|-
+|Fast Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Speeds up the performance and frequency of auto-attacks, but slows recharge. (Curse)
+|Haste: 30%&lt;br/&gt;Slower Recharge: 15%
+|4500
+|-
+|Absorb HP 
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Makes auto-attacks absorb HP proportional to damage dealt. Also, boosts auto-attack damage slightly.
+|Absorb 0.6% HP&lt;br/&gt;Auto-Attack Damage Boost: 30%
+|5000
+|-
+|Debuffing Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance for auto-attacks to inflict a random debuff. Also boosts auto-attack damage slightly.
+|Inflict Debuff Chance: 1.4%&lt;br/&gt;Auto-Attack Damage Boost: 30%
+|4000
+|-
+|Damage Ratio Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increase the initial damage ratio of Chain Attacks, but slows Launch Charge buildup. (Curse)
+|Initial Damage Ratio Up: 210%&lt;br/&gt;Slow Charge Build: 14%
+|2500
+|-
+|Faster Chain Build
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Speeds up Chain Attack gauge buildup, but slows Launch Charge buildup. (Curse)
+|Chain Fills Faster: 50%&lt;br/&gt;Slow Charge Build: 16%
+|3500
+|-
+|Combo to Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge on executing Smash or Burst. Additionally, boosts Dexterity slightly.
+|Chain Attack Gain: 6%&lt;br/&gt;Dexterity Boost: 45%
+|2000
+|-
+|Refund Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge when a Chain Attack ends without fully depleting the gauge.
+|Restore Chain Attack: 35%
+|5000
+|-
+|Attack Up After Use
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|After using a Chain Attack, greatly boosts Attack for the duration of the stage.
+|After Use: Attack Up 200%
+|3500
+|-
+|Debuff Rate Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Increases debuff success rate by a set value, but shortens debuff effect duration. (Curse)
+|Debuff % Up: 25%&lt;br/&gt;Shorter Debuffs: 25%
+|4000
+|-
+|Debuff Duration Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts debuff effect duration. Additionally, boosts Attack slightly.
+|Longer Debuffs: 40%&lt;br/&gt;Attack Boost: 60%
+|2500
+|-
+|Debuff to Break
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Break resistance for enemies suffering from a debuff by a set value. Additionally, boosts Dexterity slightly.
+|Break % Up: 21%&lt;br/&gt;Dexterity Boost: 45%
+|2500
+|-
+|Combo Duration Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts the duration of all combo reactions. Additionally, boosts Attack slightly.
+|Combo Time Up: 35%&lt;br/&gt;Attack Boost: 60%
+|2500
+|-
+|Combo to Attack
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Boosts Attack based on the number of times Smash and Burst are performed during the stage.
+|Bonus Per Action: 50%
+|4000
+|-
+|Score Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts score gained in battle. (Curse)
+|Gain Score Faster: 10%&lt;br/&gt;Max HP Down: 50%
+|1500
+|-
+|Curse to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP slightly, but boosts Attack based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 16%&lt;br/&gt;Max HP Down: 28%
+|3500
+|-
+|Curse to Recharge
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Lowers Max HP slightly, but boosts recharge speed based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 2.8%&lt;br/&gt;Max HP Down: 28%
+|4000
+|-
+|Rescue to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts Attack each time an ally is revived during the stage. Stacks up to 10 times. (Curse)
+|Bonus Per Action: 28%&lt;br/&gt;Max HP Down: 45%
+|3500
+|-
+|Rescue Recharge
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers Max HP, but partially recharges the party's Arts when an ally is revived. (Curse)
+|Recover Recharge: 28%&lt;br/&gt;Max HP Down: 45%
+|5000
+|-
+|Focus: Defenders
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Defenders' Max HP and Attack. Effect increases per Defender in party.
+|Max HP Up Per Member: 14%&lt;br/&gt;Attack Up Per Member: 36%
+|3500
+|-
+|Focus: Attackers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attackers' Max HP and Attack. Effect increases per Attacker in party.
+|Max HP Up Per Member: 25%&lt;br/&gt;Attack Up Per Member: 45%
+|3500
+|-
+|Focus: Healers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Healers' Max HP and Attack. Effect increases per Healer in party.
+|Max HP Up Per Member: 30%&lt;br/&gt;Attack Up Per Member: 25%
+|3500
+|-
+|Focus: Role Unity
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team has 4+ of the same role, role recharge speed rises per person, but falls for other roles. (Curse)
+|Bonus Per Member: 5.0%&lt;br/&gt;Slow Other Roles: 21%
+|4000
+|-
+|Kevesi Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Kevesi, boosts score gained in battle. Effect increases per Kevesi.
+|Bonus Per Member: 2.6%
+|3500
+|-
+|Agnian Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Agnians, boosts score gained in battle. Effect increases per Agnian.
+|Bonus Per Member: 2.6%
+|3500
+|-
+|Other Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes three or more non-Kevesi/Agnians, boosts score gained in battle. Effect increases per person.
+|Bonus Per Member: 3.0%
+|3500
+|-
+|Kevesi Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Kevesi, boosts those members' Attack and party Launch Charge build. Effect increases per Kevesi.
+|Attack Up Per Member: 40%&lt;br/&gt;Charge Up Per Member: 2.5%
+|4000
+|-
+|Agnian Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Agnians, boosts those members' Attack and party Launch Charge build. Effect increases per Agnian.
+|Attack Up Per Member: 40%&lt;br/&gt;Charge Up Per Member: 2.5%
+|4000
+|-
+|Other Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 3+ non-Kevesi/Agnians, boosts their Attack and party Launch Charge build. Effect increases per person.
+|Attack Up Per Member: 50%&lt;br/&gt;Charge Up Per Member: 3.0%
+|4000
+|-
+|Boss HP Down
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers bosses' starting HP, but slightly boosts non-bosses' Max HP. (Curse)
+|Reduce Boss Starting HP: 18%&lt;br/&gt;Non-Boss HP Up: 7%
+|3500
+|-
+|Small-Unit Tactics
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When team has under seven members, boosts recharge speed in proportion to no. of missing members.
+|Bonus Per Member: 13%
+|3500
+|-
+|Last-Ditch Effort
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When Nopwatch drops to 50% or lower, boosts Attack relative to watch depletion, starting at half of the depletion bonus.
+|Max Depletion Bonus: 210%
+|2000
+|-
+|Slow Nopwatch
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Slows Nopwatch depletion speed.
+|Slow Watch Drain: 28%
+|4500
+|-
+|Moneybags
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Attack mods from Emblems for each 10,000 on your score. (Effect maxes out at 100,000.)
+|Bonus Per 10k: 35%
+|2000
+|-
+|Attract Events
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases event occurrence rate but lowers whimsy occurrence. (Curse) (No effect in Beginner.)
+|Event Rate Up 25%&lt;br/&gt;Whimsy Rate Down 18%
+|2000
+|-
+|Tickle Whimsy
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases whimsy occurrence rate but lowers event occurrence. (Curse) (No effect in Beginner.)
+|Whimsy Rate Up 25%&lt;br/&gt;Event Rate Down 18%
+|2000
+|-
+|Discount Card
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers shop prices
+|Lower Prices: 8%
+|5000
+|-
+|Ticket Line
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance to receive a Shuffle Ticket when visiting the shop.
+|Shuffle Ticket Chance: 20%
+|3500
+|}
+
+|-|Emblem+3 =
+{| class="xc1 centered sortable" width="100%"
+!Emblem
+!width="50px" | Rarity
+!width="200px" | Description
+!Effects
+!Score
+|-
+|Max HP Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts maximum HP greatly. Additionally, boosts Healing Power slightly.
+|Max HP Boost: 180%&lt;br/&gt;Healing Boost: 80%
+|5000
+|-
+|Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attack greatly.
+|Attack Boost: 180%
+|5000
+|-
+|Defense Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Reduces damage taken by a set percentage. Additionally, boosts Healing Power slightly.
+|Less Damage Taken: 26%&lt;br/&gt;Healing Boost: 80%
+|5000
+|-
+|Dexterity Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Dexterity. Additionally, boosts Attack slightly.
+|Dexterity Boost: 135%&lt;br/&gt;Attack Boost: 80%
+|5000
+|-
+|Agility Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Agility. Additionally, boosts Max HP slightly.
+|Agility Boost: 135%&lt;br/&gt;Max HP Boost: 90%
+|5000
+|-
+|Healing Power Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Healing Power greatly. Additionally, boosts Max HP slightly.
+|Healing Boost: 180%&lt;br/&gt;Max HP Boost: 90%
+|5000
+|-
+|Auto-Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts auto-attack damage greatly, but slows recharge. (Curse)
+|Auto-Attack Damage Boost: 220%&lt;br/&gt;Slower Recharge: 16%
+|3000
+|-
+|Area Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Grants auto-attacks an area of effect. Additionally, boosts auto-attack damage slightly.
+|Wider Attack Area: 8m&lt;br/&gt;Auto-Attack Damage Boost: 40%
+|5000
+|-
+|Fast Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Speeds up the performance and frequency of auto-attacks, but slows recharge. (Curse)
+|Haste: 40%&lt;br/&gt;Slower Recharge: 20%
+|5000
+|-
+|Absorb HP 
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Makes auto-attacks absorb HP proportional to damage dealt. Also, boosts auto-attack damage slightly.
+|Absorb 0.7% HP&lt;br/&gt;Auto-Attack Damage Boost: 40%
+|6000
+|-
+|Debuffing Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance for auto-attacks to inflict a random debuff. Also boosts auto-attack damage slightly.
+|Inflict Debuff Chance: 1.7%&lt;br/&gt;Auto-Attack Damage Boost: 40%
+|4500
+|-
+|Damage Ratio Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increase the initial damage ratio of Chain Attacks, but slows Launch Charge buildup. (Curse)
+|Initial Damage Ratio Up: 250%&lt;br/&gt;Slow Charge Build: 16%
+|3000
+|-
+|Faster Chain Build
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Speeds up Chain Attack gauge buildup, but slows Launch Charge buildup. (Curse)
+|Chain Fills Faster: 65%&lt;br/&gt;Slow Charge Build: 19%
+|4000
+|-
+|Combo to Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge on executing Smash or Burst. Additionally, boosts Dexterity slightly.
+|Chain Attack Gain: 8%&lt;br/&gt;Dexterity Boost: 60%
+|2500
+|-
+|Refund Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge when a Chain Attack ends without fully depleting the gauge.
+|Restore Chain Attack: 42%
+|6000
+|-
+|Attack Up After Use
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|After using a Chain Attack, greatly boosts Attack for the duration of the stage.
+|After Use: Attack Up 260%
+|4000
+|-
+|Debuff Rate Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Increases debuff success rate by a set value, but shortens debuff effect duration. (Curse)
+|Debuff % Up: 32%&lt;br/&gt;Shorter Debuffs: 30%
+|4500
+|-
+|Debuff Duration Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts debuff effect duration. Additionally, boosts Attack slightly.
+|Longer Debuffs: 50%&lt;br/&gt;Attack Boost: 80%
+|3000
+|-
+|Debuff to Break
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Break resistance for enemies suffering from a debuff by a set value. Additionally, boosts Dexterity slightly.
+|Break % Up: 25%&lt;br/&gt;Dexterity Boost: 60%
+|3000
+|-
+|Combo Duration Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts the duration of all combo reactions. Additionally, boosts Attack slightly.
+|Combo Time Up: 45%&lt;br/&gt;Attack Boost: 80%
+|3000
+|-
+|Combo to Attack
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Boosts Attack based on the number of times Smash and Burst are performed during the stage.
+|Bonus Per Action: 60%
+|4500
+|-
+|Score Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts score gained in battle. (Curse)
+|Gain Score Faster: 13%&lt;br/&gt;Max HP Down: 60%
+|2000
+|-
+|Curse to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP slightly, but boosts Attack based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 24%&lt;br/&gt;Max HP Down: 32%
+|4000
+|-
+|Curse to Recharge
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Lowers Max HP slightly, but boosts recharge speed based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 3.5%&lt;br/&gt;Max HP Down: 32%
+|4500
+|-
+|Rescue to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts Attack each time an ally is revived during the stage. Stacks up to 10 times. (Curse)
+|Bonus Per Action: 35%&lt;br/&gt;Max HP Down: 50%
+|4000
+|-
+|Rescue Recharge
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers Max HP, but partially recharges the party's Arts when an ally is revived. (Curse)
+|Recover Recharge: 32%&lt;br/&gt;Max HP Down: 50%
+|6000
+|-
+|Focus: Defenders
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Defenders' Max HP and Attack. Effect increases per Defender in party.
+|Max HP Up Per Member: 17%&lt;br/&gt;Attack Up Per Member: 48%
+|4000
+|-
+|Focus: Attackers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attackers' Max HP and Attack. Effect increases per Attacker in party.
+|Max HP Up Per Member: 35%&lt;br/&gt;Attack Up Per Member: 60%
+|4000
+|-
+|Focus: Healers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Healers' Max HP and Attack. Effect increases per Healer in party.
+|Max HP Up Per Member: 45%&lt;br/&gt;Attack Up Per Member: 32%
+|4000
+|-
+|Focus: Role Unity
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team has 4+ of the same role, role recharge speed rises per person, but falls for other roles. (Curse)
+|Bonus Per Member: 6.0%&lt;br/&gt;Slow Other Roles: 24%
+|4500
+|-
+|Kevesi Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Kevesi, boosts score gained in battle. Effect increases per Kevesi.
+|Bonus Per Member: 3.0%
+|4000
+|-
+|Agnian Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Agnians, boosts score gained in battle. Effect increases per Agnian.
+|Bonus Per Member: 3.0%
+|4000
+|-
+|Other Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes three or more non-Kevesi/Agnians, boosts score gained in battle. Effect increases per person.
+|Bonus Per Member: 3.6%
+|4000
+|-
+|Kevesi Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Kevesi, boosts those members' Attack and party Launch Charge build. Effect increases per Kevesi.
+|Attack Up Per Member: 55%&lt;br/&gt;Charge Up Per Member: 3.2%
+|4500
+|-
+|Agnian Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Agnians, boosts those members' Attack and party Launch Charge build. Effect increases per Agnian.
+|Attack Up Per Member: 55%&lt;br/&gt;Charge Up Per Member: 3.2%
+|4500
+|-
+|Other Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 3+ non-Kevesi/Agnians, boosts their Attack and party Launch Charge build. Effect increases per person.
+|Attack Up Per Member: 65%&lt;br/&gt;Charge Up Per Member: 4.0%
+|4500
+|-
+|Boss HP Down
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers bosses' starting HP, but slightly boosts non-bosses' Max HP. (Curse)
+|Reduce Boss Starting HP: 22%&lt;br/&gt;Non-Boss HP Up: 8%
+|4000
+|-
+|Small-Unit Tactics
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When team has under seven members, boosts recharge speed in proportion to no. of missing members.
+|Bonus Per Member: 17%
+|4000
+|-
+|Last-Ditch Effort
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When Nopwatch drops to 50% or lower, boosts Attack relative to watch depletion, starting at half of the depletion bonus.
+|Max Depletion Bonus: 300%
+|2500
+|-
+|Slow Nopwatch
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Slows Nopwatch depletion speed.
+|Slow Watch Drain: 34%
+|5000
+|-
+|Moneybags
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Attack mods from Emblems for each 10,000 on your score. (Effect maxes out at 100,000.)
+|Bonus Per 10k: 42%
+|2500
+|-
+|Attract Events
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases event occurrence rate but lowers whimsy occurrence. (Curse) (No effect in Beginner.)
+|Event Rate Up 32%&lt;br/&gt;Whimsy Rate Down 22%
+|2000
+|-
+|Tickle Whimsy
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases whimsy occurrence rate but lowers event occurrence. (Curse) (No effect in Beginner.)
+|Whimsy Rate Up 32%&lt;br/&gt;Event Rate Down 22%
+|2000
+|-
+|Discount Card
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers shop prices
+|Lower Prices: 12%
+|6000
+|-
+|Ticket Line
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance to receive a Shuffle Ticket when visiting the shop.
+|Shuffle Ticket Chance: 25%
+|4000
+|}
+
+|-|Emblem+4 =
+{| class="xc1 centered sortable" width="100%"
+!Emblem
+!width="50px" | Rarity
+!width="200px" | Description
+!Effects
+!Score
+|-
+|Max HP Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts maximum HP greatly. Additionally, boosts Healing Power slightly.
+|Max HP Boost: 260%&lt;br/&gt;Healing Boost: 100%
+|8000
+|-
+|Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attack greatly.
+|Attack Boost: 240%
+|8000
+|-
+|Defense Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Reduces damage taken by a set percentage. Additionally, boosts Healing Power slightly.
+|Less Damage Taken: 32%&lt;br/&gt;Healing Boost: 100%
+|8000
+|-
+|Dexterity Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Dexterity. Additionally, boosts Attack slightly.
+|Dexterity Boost: 180%&lt;br/&gt;Attack Boost: 100%
+|8000
+|-
+|Agility Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Agility. Additionally, boosts Max HP slightly.
+|Agility Boost: 180%&lt;br/&gt;Max HP Boost: 120%
+|8000
+|-
+|Healing Power Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Healing Power greatly. Additionally, boosts Max HP slightly.
+|Healing Boost: 240%&lt;br/&gt;Max HP Boost: 120%
+|8000
+|-
+|Auto-Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts auto-attack damage greatly, but slows recharge. (Curse)
+|Auto-Attack Damage Boost: 260%&lt;br/&gt;Slower Recharge: 18%
+|4500
+|-
+|Area Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Grants auto-attacks an area of effect. Additionally, boosts auto-attack damage slightly.
+|Wider Attack Area: 10m&lt;br/&gt;Auto-Attack Damage Boost: 50%
+|7000
+|-
+|Fast Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Speeds up the performance and frequency of auto-attacks, but slows recharge. (Curse)
+|Haste: 50%&lt;br/&gt;Slower Recharge: 25%
+|7000
+|-
+|Absorb HP 
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Makes auto-attacks absorb HP proportional to damage dealt. Also, boosts auto-attack damage slightly.
+|Absorb 0.8% HP&lt;br/&gt;Auto-Attack Damage Boost: 50%
+|8500
+|-
+|Debuffing Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance for auto-attacks to inflict a random debuff. Also boosts auto-attack damage slightly.
+|Inflict Debuff Chance: 2.0%&lt;br/&gt;Auto-Attack Damage Boost: 50%
+|6500
+|-
+|Damage Ratio Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increase the initial damage ratio of Chain Attacks, but slows Launch Charge buildup. (Curse)
+|Initial Damage Ratio Up: 300%&lt;br/&gt;Slow Charge Build: 18%
+|4500
+|-
+|Faster Chain Build
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Speeds up Chain Attack gauge buildup, but slows Launch Charge buildup. (Curse)
+|Chain Fills Faster: 80%&lt;br/&gt;Slow Charge Build: 22%
+|6000
+|-
+|Combo to Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge on executing Smash or Burst. Additionally, boosts Dexterity slightly.
+|Chain Attack Gain: 10%&lt;br/&gt;Dexterity Boost: 75%
+|4000
+|-
+|Refund Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge when a Chain Attack ends without fully depleting the gauge.
+|Restore Chain Attack: 50%
+|8500
+|-
+|Attack Up After Use
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|After using a Chain Attack, greatly boosts Attack for the duration of the stage.
+|After Use: Attack Up 320%
+|6000
+|-
+|Debuff Rate Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Increases debuff success rate by a set value, but shortens debuff effect duration. (Curse)
+|Debuff % Up: 40%&lt;br/&gt;Shorter Debuffs: 35%
+|6500
+|-
+|Debuff Duration Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts debuff effect duration. Additionally, boosts Attack slightly.
+|Longer Debuffs: 60%&lt;br/&gt;Attack Boost: 100%
+|4500
+|-
+|Debuff to Break
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Break resistance for enemies suffering from a debuff by a set value. Additionally, boosts Dexterity slightly.
+|Break % Up: 30%&lt;br/&gt;Dexterity Boost: 75%
+|4500
+|-
+|Combo Duration Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts the duration of all combo reactions. Additionally, boosts Attack slightly.
+|Combo Time Up: 55%&lt;br/&gt;Attack Boost: 100%
+|4500
+|-
+|Combo to Attack
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Boosts Attack based on the number of times Smash and Burst are performed during the stage.
+|Bonus Per Action: 70%
+|6500
+|-
+|Score Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts score gained in battle. (Curse)
+|Gain Score Faster: 16%&lt;br/&gt;Max HP Down: 70%
+|3500
+|-
+|Curse to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP slightly, but boosts Attack based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 32%&lt;br/&gt;Max HP Down: 36%
+|6000
+|-
+|Curse to Recharge
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Lowers Max HP slightly, but boosts recharge speed based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 4.2%&lt;br/&gt;Max HP Down: 36%
+|6500
+|-
+|Rescue to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts Attack each time an ally is revived during the stage. Stacks up to 10 times. (Curse)
+|Bonus Per Action: 42%&lt;br/&gt;Max HP Down: 55%
+|6000
+|-
+|Rescue Recharge
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers Max HP, but partially recharges the party's Arts when an ally is revived. (Curse)
+|Recover Recharge: 36%&lt;br/&gt;Max HP Down: 55%
+|8500
+|-
+|Focus: Defenders
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Defenders' Max HP and Attack. Effect increases per Defender in party.
+|Max HP Up Per Member: 20%&lt;br/&gt;Attack Up Per Member: 60%
+|6000
+|-
+|Focus: Attackers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attackers' Max HP and Attack. Effect increases per Attacker in party.
+|Max HP Up Per Member: 45%&lt;br/&gt;Attack Up Per Member: 80%
+|6000
+|-
+|Focus: Healers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Healers' Max HP and Attack. Effect increases per Healer in party.
+|Max HP Up Per Member: 60%&lt;br/&gt;Attack Up Per Member: 40%
+|6000
+|-
+|Focus: Role Unity
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team has 4+ of the same role, role recharge speed rises per person, but falls for other roles. (Curse)
+|Bonus Per Member: 7.0%&lt;br/&gt;Slow Other Roles: 27%
+|6500
+|-
+|Kevesi Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Kevesi, boosts score gained in battle. Effect increases per Kevesi.
+|Bonus Per Member: 3.5%
+|6000
+|-
+|Agnian Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Agnians, boosts score gained in battle. Effect increases per Agnian.
+|Bonus Per Member: 3.5%
+|6000
+|-
+|Other Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes three or more non-Kevesi/Agnians, boosts score gained in battle. Effect increases per person.
+|Bonus Per Member: 4.2%
+|6000
+|-
+|Kevesi Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Kevesi, boosts those members' Attack and party Launch Charge build. Effect increases per Kevesi.
+|Attack Up Per Member: 70%&lt;br/&gt;Charge Up Per Member: 4.0%
+|6500
+|-
+|Agnian Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Agnians, boosts those members' Attack and party Launch Charge build. Effect increases per Agnian.
+|Attack Up Per Member: 70%&lt;br/&gt;Charge Up Per Member: 4.0%
+|6500
+|-
+|Other Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 3+ non-Kevesi/Agnians, boosts their Attack and party Launch Charge build. Effect increases per person.
+|Attack Up Per Member: 80%&lt;br/&gt;Charge Up Per Member: 5.0%
+|6500
+|-
+|Boss HP Down
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers bosses' starting HP, but slightly boosts non-bosses' Max HP. (Curse)
+|Reduce Boss Starting HP: 26%&lt;br/&gt;Non-Boss HP Up: 9%
+|6000
+|-
+|Small-Unit Tactics
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When team has under seven members, boosts recharge speed in proportion to no. of missing members.
+|Bonus Per Member: 21%
+|6000
+|-
+|Last-Ditch Effort
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When Nopwatch drops to 50% or lower, boosts Attack relative to watch depletion, starting at half of the depletion bonus.
+|Max Depletion Bonus: 400%
+|4000
+|-
+|Slow Nopwatch
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Slows Nopwatch depletion speed.
+|Slow Watch Drain: 40%
+|7000
+|-
+|Moneybags
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Attack mods from Emblems for each 10,000 on your score. (Effect maxes out at 100,000.)
+|Bonus Per 10k: 50%
+|4000
+|-
+|Attract Events
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases event occurrence rate but lowers whimsy occurrence. (Curse) (No effect in Beginner.)
+|Event Rate Up 40%&lt;br/&gt;Whimsy Rate Down 26%
+|3500
+|-
+|Tickle Whimsy
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases whimsy occurrence rate but lowers event occurrence. (Curse) (No effect in Beginner.)
+|Whimsy Rate Up 40%&lt;br/&gt;Event Rate Down 26%
+|3500
+|-
+|Discount Card
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers shop prices
+|Lower Prices: 16%
+|8500
+|-
+|Ticket Line
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance to receive a Shuffle Ticket when visiting the shop.
+|Shuffle Ticket Chance: 30%
+|6000
+|}
+
+|-|Emblem+5 =
+{| class="xc1 centered sortable" width="100%"
+!Emblem
+!width="50px" | Rarity
+!width="200px" | Description
+!Effects
+!Score
+|-
+|Max HP Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts maximum HP greatly. Additionally, boosts Healing Power slightly.
+|Max HP Boost: 360%&lt;br/&gt;Healing Boost: 120%
+|12000
+|-
+|Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attack greatly.
+|Attack Boost: 300%
+|12000
+|-
+|Defense Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Reduces damage taken by a set percentage. Additionally, boosts Healing Power slightly.
+|Less Damage Taken: 40%&lt;br/&gt;Healing Boost: 120%
+|12000
+|-
+|Dexterity Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Dexterity. Additionally, boosts Attack slightly.
+|Dexterity Boost: 240%&lt;br/&gt;Attack Boost: 120%
+|12000
+|-
+|Agility Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Agility. Additionally, boosts Max HP slightly.
+|Agility Boost: 240%&lt;br/&gt;Max HP Boost: 150%
+|12000
+|-
+|Healing Power Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Healing Power greatly. Additionally, boosts Max HP slightly.
+|Healing Boost: 300%&lt;br/&gt;Max HP Boost: 150%
+|12000
+|-
+|Auto-Attack Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts auto-attack damage greatly, but slows recharge. (Curse)
+|Auto-Attack Damage Boost: 300%&lt;br/&gt;Slower Recharge: 20%
+|6000
+|-
+|Area Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Grants auto-attacks an area of effect. Additionally, boosts auto-attack damage slightly.
+|Wider Attack Area: 12m&lt;br/&gt;Auto-Attack Damage Boost: 60%
+|9000
+|-
+|Fast Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Speeds up the performance and frequency of auto-attacks, but slows recharge. (Curse)
+|Haste: 60%&lt;br/&gt;Slower Recharge: 30%
+|9000
+|-
+|Absorb HP 
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Makes auto-attacks absorb HP proportional to damage dealt. Also, boosts auto-attack damage slightly.
+|Absorb 1.0% HP&lt;br/&gt;Auto-Attack Damage Boost: 60%
+|10500
+|-
+|Debuffing Attack
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance for auto-attacks to inflict a random debuff. Also boosts auto-attack damage slightly.
+|Inflict Debuff Chance: 2.5%&lt;br/&gt;Auto-Attack Damage Boost: 60%
+|8500
+|-
+|Damage Ratio Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increase the initial damage ratio of Chain Attacks, but slows Launch Charge buildup. (Curse)
+|Initial Damage Ratio Up: 350%&lt;br/&gt;Slow Charge Build: 20%
+|6000
+|-
+|Faster Chain Build
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Speeds up Chain Attack gauge buildup, but slows Launch Charge buildup. (Curse)
+|Chain Fills Faster: 100%&lt;br/&gt;Slow Charge Build: 25%
+|8000
+|-
+|Combo to Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge on executing Smash or Burst. Additionally, boosts Dexterity slightly.
+|Chain Attack Gain: 12%&lt;br/&gt;Dexterity Boost: 90%
+|5500
+|-
+|Refund Chain
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Partially fills the Chain Attack gauge when a Chain Attack ends without fully depleting the gauge.
+|Restore Chain Attack: 60%
+|10500
+|-
+|Attack Up After Use
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|After using a Chain Attack, greatly boosts Attack for the duration of the stage.
+|After Use: Attack Up 400%
+|8000
+|-
+|Debuff Rate Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Increases debuff success rate by a set value, but shortens debuff effect duration. (Curse)
+|Debuff % Up: 50%&lt;br/&gt;Shorter Debuffs: 40%
+|8500
+|-
+|Debuff Duration Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts debuff effect duration. Additionally, boosts Attack slightly.
+|Longer Debuffs: 70%&lt;br/&gt;Attack Boost: 120%
+|6000
+|-
+|Debuff to Break
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Break resistance for enemies suffering from a debuff by a set value. Additionally, boosts Dexterity slightly.
+|Break % Up: 35%&lt;br/&gt;Dexterity Boost: 90%
+|6000
+|-
+|Combo Duration Up
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts the duration of all combo reactions. Additionally, boosts Attack slightly.
+|Combo Time Up: 65%&lt;br/&gt;Attack Boost: 120%
+|6000
+|-
+|Combo to Attack
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Boosts Attack based on the number of times Smash and Burst are performed during the stage.
+|Bonus Per Action: 80%
+|8500
+|-
+|Score Up
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts score gained in battle. (Curse)
+|Gain Score Faster: 20%&lt;br/&gt;Max HP Down: 80%
+|5000
+|-
+|Curse to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP slightly, but boosts Attack based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 40%&lt;br/&gt;Max HP Down: 40%
+|8000
+|-
+|Curse to Recharge
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Lowers Max HP slightly, but boosts recharge speed based on the number of cursed Emblems held. (Curse)
+|Bonus Per Curse: 5.0%&lt;br/&gt;Max HP Down: 40%
+|8500
+|-
+|Rescue to Attack
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers Max HP, but boosts Attack each time an ally is revived during the stage. Stacks up to 10 times. (Curse)
+|Bonus Per Action: 50%&lt;br/&gt;Max HP Down: 60%
+|8000
+|-
+|Rescue Recharge
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers Max HP, but partially recharges the party's Arts when an ally is revived. (Curse)
+|Recover Recharge: 40%&lt;br/&gt;Max HP Down: 60%
+|10500
+|-
+|Focus: Defenders
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Defenders' Max HP and Attack. Effect increases per Defender in party.
+|Max HP Up Per Member: 25%&lt;br/&gt;Attack Up Per Member: 75%
+|8000
+|-
+|Focus: Attackers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Attackers' Max HP and Attack. Effect increases per Attacker in party.
+|Max HP Up Per Member: 60%&lt;br/&gt;Attack Up Per Member: 100%
+|8000
+|-
+|Focus: Healers
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Boosts Healers' Max HP and Attack. Effect increases per Healer in party.
+|Max HP Up Per Member: 80%&lt;br/&gt;Attack Up Per Member: 50%
+|8000
+|-
+|Focus: Role Unity
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team has 4+ of the same role, role recharge speed rises per person, but falls for other roles. (Curse)
+|Bonus Per Member: 8.0%&lt;br/&gt;Slow Other Roles: 30%
+|8500
+|-
+|Kevesi Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Kevesi, boosts score gained in battle. Effect increases per Kevesi.
+|Bonus Per Member: 4.0%
+|8000
+|-
+|Agnian Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes four or more Agnians, boosts score gained in battle. Effect increases per Agnian.
+|Bonus Per Member: 4.0%
+|8000
+|-
+|Other Prosperity
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|When team includes three or more non-Kevesi/Agnians, boosts score gained in battle. Effect increases per person.
+|Bonus Per Member: 5.0%
+|8000
+|-
+|Kevesi Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Kevesi, boosts those members' Attack and party Launch Charge build. Effect increases per Kevesi.
+|Attack Up Per Member: 85%&lt;br/&gt;Charge Up Per Member: 5.0%
+|8500
+|-
+|Agnian Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 4+ Agnians, boosts those members' Attack and party Launch Charge build. Effect increases per Agnian.
+|Attack Up Per Member: 85%&lt;br/&gt;Charge Up Per Member: 5.0%
+|8500
+|-
+|Other Zeal
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|When team includes 3+ non-Kevesi/Agnians, boosts their Attack and party Launch Charge build. Effect increases per person.
+|Attack Up Per Member: 100%&lt;br/&gt;Charge Up Per Member: 6.0%
+|8500
+|-
+|Boss HP Down
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Lowers bosses' starting HP, but slightly boosts non-bosses' Max HP. (Curse)
+|Reduce Boss Starting HP: 30%&lt;br/&gt;Non-Boss HP Up: 10%
+|8000
+|-
+|Small-Unit Tactics
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When team has under seven members, boosts recharge speed in proportion to no. of missing members.
+|Bonus Per Member: 25%
+|8000
+|-
+|Last-Ditch Effort
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|When Nopwatch drops to 50% or lower, boosts Attack relative to watch depletion, starting at half of the depletion bonus.
+|Max Depletion Bonus: 500%
+|5500
+|-
+|Slow Nopwatch 
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Slows Nopwatch depletion speed.
+|Slow Watch Drain: 50%
+|9000
+|-
+|Moneybags
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Boosts Attack mods from Emblems for each 10,000 on your score. (Effect maxes out at 100,000.)
+|Bonus Per 10k: 60%
+|5500
+|-
+|Attract Events
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases event occurrence rate but lowers whimsy occurrence. (Curse) (No effect in Beginner.)
+|Event Rate Up 50%&lt;br/&gt;Whimsy Rate Down 30%
+|5000
+|-
+|Tickle Whimsy
+| data-sort-value="1" | [[File:Rarity Common.png|42px]]
+|Greatly increases whimsy occurrence rate but lowers event occurrence. (Curse) (No effect in Beginner.)
+|Whimsy Rate Up 50%&lt;br/&gt;Event Rate Down 30%
+|5000
+|-
+|Discount Card
+| data-sort-value="3" | [[File:Rarity Legendary.png|42px]]
+|Lowers shop prices
+|Lower Prices: 20%
+|10500
+|-
+|Ticket Line
+| data-sort-value="2" | [[File:Rarity Rare.png|42px]]
+|Grants a chance to receive a Shuffle Ticket when visiting the shop.
+|Shuffle Ticket Chance: 35%
+|8000
+|}
+&lt;/tabber&gt;
+&#8251; Must be acquired in exchange for Blue Noponstone in order to appear in the Gauntlet Shop.
+
+== Events and Whimsy ==
+Occasionally, an event may occur at the start of a stage. Events can have all sorts of positive or negative effects, ranging from rare enemy spawns to extra enemy reinforcements. The effects of an event last until the end of the current stage.
+
+Sometimes, the Archsage's Whimsy will trigger after the player is finished shopping. The player will be forced to choose between two options, which will confer one of many possible effects. Shuffle Tickets can also be used to change the offered options.
+
+Events and the Archsage's Whimsy do not occur in ''[[Gauntlet: Beginner]]''.
+
+=== List of Events ===
+* '''Higher Enemy Value''': Amount of score obtained from enemies is increased.
+* '''Higher Enemy Value+''': Amount of score obtained from enemies is greatly increased.
+* '''Lower Enemy Value''': Amount of score obtained from enemies is decreased. 
+* '''No Enemy Value''': Enemies don't provide any score.
+* '''Nopwatch Stays Still''': The Nopwatch pauses.
+* '''Nopwatch Depletes Faster''': The Nopwatch depletion speed increases.
+* '''Launch Charge Fills Faster''': The Launch Charge gauge fills up faster.
+* '''Launch Charge Unusable''': The Launch Charge is disabled.
+* '''Lucky Monsters''': Lucky Monsters appear.
+* '''Many Lucky Monsters''': Many Lucky Monsters appear.
+* '''Moebius Intervention''': A random minor enemy is replaced with a [[Moebius]].
+** The following Moebius can be summoned from this event: [[B|Moebius B]], [[E|Moebius E]], [[G|Moebius G]], [[H|Moebius H]], [[Irma|Moebius I]], [[L|Moebius L]], [[Q|Moebius Q]], [[R|Moebius R]], [[U|Moebius U]], [[V|Moebius V]], and [[W|Moebius W]].
+* '''Enemy Rush''': The number of enemies is increased.
+* '''Lower Enemy Levels''': All enemies decrease in level.
+* '''Higher Enemy Levels''': All enemies increase in level.
+
+=== List of the Archsage's Whimsy ===
+{| class="xc1 centered sortable" width="100%"
+!Whimsy
+!Description
+|-
+|Winds of Fate
+|An event will occur in the next stage.
+|-
+|Fortune Smiles
+|A lucky event will occur in the next stage.
+|-
+|Mystery Beasts
+|Either lucky monsters or Moebius will pay you a visit in the next stage.
+|-
+|Level Shift
+|Enemy levels will be adjusted in the next stage.
+|-
+|Potluck
+|Value of points earned will be adjusted in the next stage.
+|-
+|Meet and Greet
+|There will be a better chance of Heroes appearing in the next shop.
+|-
+|Shopping Bonanza
+|More items will be available in the next shop.
+|-
+|Nopon Generosity
+|Only one item will be available at the next shop, but you can get it for free.
+|-
+|Legendary Shop
+|All items in the next shop will have Legendary rarity.
+|-
+|Rare Shop
+|All items in the next shop will have Rare rarity.
+|-
+|Common Shop
+|All items in the next shop will have Common rarity.
+|-
+|Handle With Care
+|All items in the next shop will have a cursed effect.
+|-
+|Nopwatch Inc.
+|Nopwatch recovery is guaranteed to appear in the next shop.
+|-
+|Ticket Swap
+|Receive a Shuffle Ticket, but lose one block of Launch Charge.
+|-
+|Charge Swap
+|Receive one block of Launch Charge, but lose one Shuffle Ticket.
+|-
+|Resupply Depot
+|Recover 30% of the Nopwatch.
+|-
+|Small Blessings
+|Add 500 to your score.
+|-
+|Treasure Hunt
+|Lose 30% of the Nopwatch, but add 2,000 to your score.
+|-
+|Buried Gold
+|Lose 80% of the Nopwatch, but add 5,000 to your score.
+|}
+{{clr}}
+
+{{Xc3 stub}}
+[[Category:XC3 Downloadable Content]]
+[[Category:XC3 Mechanics]]
+[[Category:XC3 Challenge Battle Mode]]</text>
+      <sha1>mp1muokc3794yqzb4wd30r7kt8yg2au</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archsage's Page, Blue</title>
+    <ns>0</ns>
+    <id>125661</id>
+    <revision>
+      <id>582597</id>
+      <parentid>577292</parentid>
+      <timestamp>2023-04-12T13:23:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>582597</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="516" sha1="ho4qgkd5w0zn9mqd4yl7x2nq288eb9h" xml:space="preserve">{{Infobox NPC
+|name        = Archsage's Page, Blue
+|image       = Archsage's Page, Blue.jpg
+|personality =
+|time_active = Anytime
+|gender      = 
+|race        = [[Nopon]]
+|age         = 
+|location    = [[Land of Challenge (XC3)|Land of Challenge]]
+}}
+The '''Archsage's Page, Blue''' is a NPC in {{XC3}}. He runs the [[Prize X-change Blue]] shop located in the [[Land of Challenge (XC3)|Land of Challenge]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Challenge Battle Mode]]
+[[Category:XC3 DLC NPCs]]
+[[Category:XC3 Nopon]]</text>
+      <sha1>ho4qgkd5w0zn9mqd4yl7x2nq288eb9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archsage's Page, Red</title>
+    <ns>0</ns>
+    <id>124881</id>
+    <revision>
+      <id>582596</id>
+      <parentid>577291</parentid>
+      <timestamp>2023-04-12T13:22:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>582596</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="8nyc8528pmsjn2a3w5v0h7cc5mv642x" xml:space="preserve">{{Infobox NPC
+|name        = Archsage's Page, Red
+|image       = Archsage's Page, Red.jpg
+|personality =
+|time_active = Anytime
+|gender      = 
+|race        = [[Nopon]]
+|age         = 
+|location    = [[Land of Challenge (XC3)|Land of Challenge]]
+}}
+The '''Archsage's Page, Red''' is a NPC in {{XC3}}. He runs the [[Prize X-change Red]] shop located in the [[Land of Challenge (XC3)|Land of Challenge]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Challenge Battle Mode]]
+[[Category:XC3 DLC NPCs]]
+[[Category:XC3 Nopon]]</text>
+      <sha1>8nyc8528pmsjn2a3w5v0h7cc5mv642x</sha1>
+    </revision>
+  </page>
+  </mediawiki>

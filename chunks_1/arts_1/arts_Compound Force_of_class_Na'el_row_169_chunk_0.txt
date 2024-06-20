@@ -1,0 +1,6 @@
+Art Name: Compound Force
+
+Class: Na'el
+
+Effect: AOE
+

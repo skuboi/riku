@@ -1,0 +1,6 @@
+Skill Name: We Can Do Better 
+
+Class: Signifier
+
+Skill Buff or Effect:  Restores 5% of HP when a buff is applied. [Rank 15 Master Skill]
+

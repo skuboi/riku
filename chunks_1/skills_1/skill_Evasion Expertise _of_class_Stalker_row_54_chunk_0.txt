@@ -1,0 +1,6 @@
+Skill Name: Evasion Expertise 
+
+Class: Stalker
+
+Skill Buff or Effect:  50% to evade ranged attacks. [Rank 5 Master Skill]
+

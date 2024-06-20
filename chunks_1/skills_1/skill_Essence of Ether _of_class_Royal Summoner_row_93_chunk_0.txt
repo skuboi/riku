@@ -1,0 +1,6 @@
+Skill Name: Essence of Ether 
+
+Class: Royal Summoner
+
+Skill Buff or Effect:  Boosts allies' damage by 30% and reduces enemy Block Rate by 15% (does not stack). [Rank 15 Master Skill]
+

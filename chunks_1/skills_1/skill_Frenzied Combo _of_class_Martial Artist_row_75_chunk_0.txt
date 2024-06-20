@@ -1,0 +1,6 @@
+Skill Name: Frenzied Combo 
+
+Class: Martial Artist
+
+Skill Buff or Effect:  On critical hit, recharge Art used by 30%. [Rank 15 Master Skill]
+

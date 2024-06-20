@@ -1,0 +1,966 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nullify Most Attacks</title>
+    <ns>0</ns>
+    <id>126761</id>
+    <revision>
+      <id>590278</id>
+      <parentid>589805</parentid>
+      <timestamp>2023-05-08T18:09:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>590278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="608" sha1="dttwdmoloynjmyiipddwlifmzxkntfn" xml:space="preserve">{{spoiler}}
+{{Infobox XC3 Status
+|title          = Nullify Most Attacks
+|image          = [[File:XC3FR Nullify All Attacks Icon.png]]
+|caption        = Nullifies attacks (with exceptions).
+|type           = Buff
+|rng-applicable = No
+}}
+'''Nullify Most Attacks''' is a [[Status Effect]] in {{XC3FR}}. It causes most attacks to miss the affected character. [[Alpha]] is able to gain this buff when using [[Monado Speed]].
+
+{{clr}}
+
+== Trivia ==
+* The icon for this buff is similar to the icon for [[Shulk]]'s [[Battle Arts (XC1)|Talent Art]], Activate Monado, in {{XC}}.
+
+{{fr stub}}
+
+[[Category:XC3FR Status]]</text>
+      <sha1>dttwdmoloynjmyiipddwlifmzxkntfn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Obliterator Centaurio</title>
+    <ns>0</ns>
+    <id>117441</id>
+    <revision>
+      <id>574737</id>
+      <parentid>574535</parentid>
+      <timestamp>2023-01-30T12:58:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574737</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1427" sha1="5im4vutdrlwcs73i1v70we83p1hqeov" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Obliterator Centaurio
+|image        = Obliterator Centaurio.jpg
+|caption      = Obliterator Centaurio
+|category     = Unique Monster
+|type         = [[Levnis]] (Gyrinus)
+|level        = 91
+|area         = [[Agnus Castle Barbican]] ([[Levnis Workyard]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 9,718
+|cp           = 317
+|sp           = 5
+|gold         = 12,276
+|hp           = 8,064,900
+|strength     = 2,910
+|healing      = 733
+|dexterity    = 452
+|agility      = 278
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Obliterator Centaurio''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is an [[Agnus|Agnian]] [[Levnis]] and can be found at level 91 at the [[Levnis Workyard]] in the [[Agnus Castle Barbican]]. The [[Psychowave]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 85%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Obliterator centaurio location.png
+Obliterator centaurio.png
+File:Obliterator Centaurio night.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5im4vutdrlwcs73i1v70we83p1hqeov</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ocean Day Parade</title>
+    <ns>0</ns>
+    <id>124334</id>
+    <revision>
+      <id>576289</id>
+      <parentid>564942</parentid>
+      <timestamp>2023-02-09T13:15:50Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1330" sha1="rglg5pbq6fqmatpblqlcgqubkdptmzo" xml:space="preserve">{{Infobox quest
+|name         = Ocean Day Parade
+|image        = XC3 Challenge Battle Mode.png
+|description  = "Archsage invite all sea denizens to harbor. Sea, spray and shiny sweat! Archsage anticipate great show!"
+|giver        = [[Nopon Archsage]]
+|location     = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs      = Chapter 6 started
+|difficultyCB3= 2
+|rewards      = 
+}}
+'''Ocean Day Parade''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear B outfit for [[Noah]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 5
+|-
+| Level Restriction || Lv 50
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[Vikt Krodlax]] || 50
+|-
+| [[Hemish Krodlax]] || 50
+|-
+| rowspan="2" | 2 || [[Lubon Quardun]] || 52
+|-
+| [[Lubon Quarmu]] || 52
+|-
+| rowspan="2" | 3 || [[Goran Moglum]] || 53
+|-
+| [[Broon Moglum]] || 53
+|-
+| rowspan="3" | 4 || [[Sailor Merigna]] || 54
+|-
+| [[Karifo Gyaark]] || 53
+|-
+| [[Pashfe Gyaark]] || 53
+|-
+| rowspan="1" | 5 || [[Ugend Ravoon]] || 55
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>rglg5pbq6fqmatpblqlcgqubkdptmzo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Oceanic Lucera</title>
+    <ns>0</ns>
+    <id>119476</id>
+    <revision>
+      <id>600376</id>
+      <parentid>574779</parentid>
+      <timestamp>2023-07-21T14:10:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>Moramora</comment>
+      <origin>600376</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1417" sha1="ixakmhnrkjhbnmq3n8dpe36pd4449us" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Oceanic Lucera
+|image        = XC3 Oceanic Lucera.png
+|caption      = Oceanic Lucera
+|type         = [[Moramora]]
+|level        = 73
+|area         = [[Erythia Sea]] ([[Anu Shoals]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 3,370
+|cp           = 478
+|sp           = 5
+|gold         = 2,372
+|hp           = 3,993,400
+|strength     = 1,412
+|healing      = 508
+|dexterity    = 323
+|agility      = 288
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Oceanic Lucera''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Moramora]] family, and can be found at level 73 at [[Anu Shoals]] in [[Erythia Sea]]. The [[Bomberhead]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 100%
+|knockback   = 100%
+|physdebuff  = 50%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Oceanic lucera location.png
+Oceanic lucera.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Moramoras]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ixakmhnrkjhbnmq3n8dpe36pd4449us</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Odolera Ropl (XC3)</title>
+    <ns>0</ns>
+    <id>121039</id>
+    <revision>
+      <id>559847</id>
+      <parentid>557850</parentid>
+      <timestamp>2022-09-30T10:54:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559847</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="834" sha1="n0kesw3066gnbu3179qjwip4lbd0x21" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Odolera Ropl (XC2)}}
+{{Infobox Enemy
+|name         = Odolera Ropl
+|image        = 
+|caption      = Odolera Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Odolera Ropl''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level ? at [[Millick Meadows]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>n0kesw3066gnbu3179qjwip4lbd0x21</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Oggy</title>
+    <ns>0</ns>
+    <id>121905</id>
+    <revision>
+      <id>601275</id>
+      <parentid>597008</parentid>
+      <timestamp>2023-07-22T09:58:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* In-Game Renders */</comment>
+      <origin>601275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5474" sha1="c6qx2c5qfxmexnmxyuz1pwq494p6otw" xml:space="preserve">{{Spoiler}}
+{{Infobox_NPC
+|name        = Oggy
+|image       = Oggy.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[City|Citizen]]
+|age         = 23
+|location    = [[Agnus Castle Region]] ([[Ascension Grounds]])
+}}
+'''Oggy''' is a character in {{XC3}}.
+
+== Overview ==
+Oggy is a [[Lost Numbers]] soldier, subordinate of [[Ghondor]], and ally of [[Aggy]].
+
+== Story ==
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Oggy
+| npc2 = Aggy
+| affinity = pink
+| caption = Sworn brothers
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Oggy
+| npc2 = Mini Tirkin
+| affinity = yellow
+| caption = I big bro Tirkin, kraa!
+| direction = left
+}}
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Oggy
+|image        = XC3 Oggy Battle.jpg
+|caption      = Oggy
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = 45
+|area         = [[Li Garte Prison Camp]] ([[Central Cell]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 904
+|cp           = 30
+|sp           = 0
+|gold         = 0
+|hp           = 168,200
+|strength     = 293
+|healing      = 291
+|dexterity    = 127
+|agility      = 115
+|physdef      = 10%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Oggy''' is a [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Lost Numbers (enemy)|Lost Numbers]] soldier, and is fought alongside [[Ghondor]] and [[Aggy]] at level 45 in the [[Central Cell]] of [[Li Garte Prison Camp]]. Story progression will occur regardless of the outcome of the battle.
+=== Resistances ===
+{{XC3 Resistances
+|break = 20%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 25%
+|etherdebuff = 20%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack 1--&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Auto-attack 2--&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Bright Flame Wisdom'''
+|Stance
+|Self
+| -
+| -
+|
+|style="text-align:left;"|
+*During the stance, regenerate 0.5% of HP every 3.0s and boost Art recharge speed by 100%.
+*Immune to all reactions and combos when executing Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Rock Grinder'''
+|Physical
+|One Target
+|1
+|250%
+|[[Break (XC3)|Break]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Mountain Smasher'''
+|Physical
+|One Target
+|1
+|200%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Spearquake'''
+|Physical
+|One Target
+|1
+|300%
+|[[Daze (XC3)|Daze]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Daze is only inflicted if target is suffering from [[Topple (XC3)|Topple]].
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Bestial Crash'''
+|Physical
+|Frontward AOE
+|1
+|200%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Bright Flame Spear'''
+|Physical
+|AOE around User
+|1
+|350%
+|[[Target Lock]]
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Oggy
+|image        = 
+|caption      = Oggy
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 65
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 524,880
+|strength     = 1,294
+|healing      = 1,227
+|dexterity    = 294
+|agility      = 231
+|physdef      = 10%
+|ethdef       = 0%
+|critrate     = 20%
+|guardrate-front = 20%
+|guardrate-side = 10%
+|guardrate-back = 0%
+}}
+Oggy is fought at level 65 alongside [[Aggy#Challenge Battle Mode|Aggy]] at Stage 40 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+=== Skills ===
+Oggy has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+* Boosts Arts recharge speed by 25%.
+=== Resistances ===
+{{XC3 Resistances
+|break = 50%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 70%
+|etherdebuff = 70%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+=== Arts ===
+Oggy uses the same Arts set as in the story boss fight.
+{{clr}}
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Aggy Oggy Ghondor Concept.png|Oggy Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+XC3 Oggy Icon.png|Oggy's Affinity chart icon
+Oggy Guest.png|Oggy's Guest Icon
+&lt;/gallery&gt;
+{{clr}}
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:Agnus Castle Region NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Lost Numbers]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>c6qx2c5qfxmexnmxyuz1pwq494p6otw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ogre</title>
+    <ns>0</ns>
+    <id>117280</id>
+    <revision>
+      <id>597110</id>
+      <parentid>597105</parentid>
+      <timestamp>2023-06-23T13:49:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>597110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7152" sha1="rv7mv6h5ucnayxdk96q40mue2x6958d" xml:space="preserve">{{quote|An Attacker who smashes through foes' defenses with a huge hammer and unstoppable Arts.|Class menu description}}
+[[File:XC3 Ogre Weapon Icon.png|thumb|180px|The Ogre class icon]]
+'''Ogre''' (Japanese: {{lang|ja|&#30772;&#30741;&#22763;}}, ''Hasai-shi'', Crusher) is an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Ogres specialize in smashing [[Enemy (XC3)|enemies]] vigorously with a super-heavy hammer, a powerful weapon with a heavy blow, and also has [[Battle Arts (XC3)|arts]] that can nullify enemy guards. Because of its high attack power, it is easily [[Aggro|targeted]] by enemies. The Talent Art of the Ogre class is [[Pressure Drop]]. It is the initial class of [[Sena]].
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|3,940
+|1,575
+|3,150
+|2,365
+|0 &#8224;
+|''Starting Class &#8225;''
+|}
+&lt;small&gt;&#8224; Acquired automatically in Chapter 2, after viewing the "Consul K" event (which occurs after resting at the [[Hillside Ferronis Hulk]] during the main story)&lt;/small&gt;&lt;br&gt;
+&lt;small&gt;&#8225; Sena starts at Rank 8 in the class when in the player's party for the first time.&lt;/small&gt; &lt;!-- Keves characters all start at Rank 5, while Agnus characters all start at Rank 8 --&gt;
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 140
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 140
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 175
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 175
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 225
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 225 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 245
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Side Story: Sena]]''
+|-
+| 11 
+| 320 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 320
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 425
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 425
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 535
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 535 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 640
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 640
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 690 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 800 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Ogre class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 75% || 110% || 20% || 90% || 80% || 15% || 5%
+|-
+| 10 || 77% || 115% || 22% || 95% || 82% || 17% || 7%
+|-
+| 20 || 80% || 120% || 25% || 100% || 85% || 20% || 10%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate.
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the character's current Class will be used instead for calculations.
+
+If the weapon is [[Blade Upgrade|upgraded]], all values in the table are increased by 20% (multiplicatively) for the character wielding it (fractions are rounded to the nearest integer). &lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 20 || 10% || 5%
+|-
+| 10 || 44 || 11% || 6%
+|-
+| 20 || 79 || 12% || 7%
+|-
+| 30 || 123 || 13% || 8%
+|-
+| 40 || 171 || 14% || 9%
+|-
+| 50 || 229 || 15% || 10%
+|-
+| 60 || 292 || 16% || 11%
+|-
+| 70 || 362 || 17% || 12%
+|-
+| 80 || 441 || 18% || 13%
+|-
+| 90 || 531 || 19% || 14%
+|-
+| 99 || 620 || 20% || 15%
+|}
+== Arts ==
+* '''[[Pressure Drop]]''' ([[Battle Arts (XC3)|Talent Art]]), [[Launch (XC3)|Launch]]
+* '''[[Big Impact (XC3)|Big Impact]]''', Front [[Blowdown (XC3)|Blowdown]]
+* '''[[Hammerhead (XC3)|Hammerhead]]''', Side Attack &#8593;
+* '''[[Giant Swing]]''', [[Knockback (XC3)|Knockback]] (Rank 1 Master Art)
+* '''[[Maximum Voltage (XC3)|Maximum Voltage]]''', Unblockable/Atk Up (Rank 10 Master Art)
+* '''[[Cannonball]]''', [[Daze (XC3)|Dazed]] &#8593;
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 28.png]] '''Fighting Prowess''':  Boosts damage dealt by physical Arts by 30-50%. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 10.png]] '''Insult to Injury''':  Boosts damage dealt when attacking [[Topple (XC3)|toppled]] enemies by 60-150%.
+* [[File:XC3 Skill Icon 10.png]] '''Dynamite Spirit''':  Boosts damage dealt by 20-60% when HP is at 90% or higher. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 14.png]] '''Fury Smash''':  Increases reaction success rate by 10-45 percentage points.
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Insult to Injury
+!Fury Smash
+!Fighting Prowess 
+!Dynamite Spirit
+|-
+| 1
+| 60%
+| 10%
+| 30%
+| 20%
+|-
+| 5
+| 70%
+| 15%
+| 35%
+| 30%
+|-
+| 10
+| 80%
+| 20%
+| 40%
+| 40%
+|-
+| 15
+| 135%
+| 30%
+| 45%
+| 50%
+|-
+| 20
+| 150%
+| 45%
+| 50%
+| 60%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Sena Artwork.png|Sena as an Ogre
+Ogre Noah.png|Noah as an Ogre
+Ogre Mio.png|Mio as an Ogre
+Ogre Eunie.png|Eunie as an Ogre
+Ogre Taion.png|Taion as an Ogre
+Ogre Lanz.png|Lanz as an Ogre
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>rv7mv6h5ucnayxdk96q40mue2x6958d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Olkort Anlood</title>
+    <ns>0</ns>
+    <id>123159</id>
+    <revision>
+      <id>559848</id>
+      <parentid>553459</parentid>
+      <timestamp>2022-09-30T10:54:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559848</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="772" sha1="6x39l1p4l5hlleb4dof46371911cvro" xml:space="preserve">{{Infobox Enemy
+|name         = Olkort Anlood
+|image        = 
+|caption      = Olkort Anlood
+|category     = Minor Enemy
+|type         = [[Anlood]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Olkort Anloods''' are Minor Enemies in {{XC3}}. They are members of the [[Anlood]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6x39l1p4l5hlleb4dof46371911cvro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Olkort Ellook</title>
+    <ns>0</ns>
+    <id>121849</id>
+    <revision>
+      <id>595148</id>
+      <parentid>581337</parentid>
+      <timestamp>2023-06-11T14:31:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1587" sha1="oc0d6oxzfuv8t2budnno7u35r8lo3yr" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Olkort Ellook
+|image        = Olkort Ellook FR.jpg
+|caption      = Olkort Ellook
+|category     = Normal Minor Enemy
+|type         = [[Ellook]]
+|level        = 53-54
+|area         = [[Erythia Sea]] ([[Farlaine Underpass]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Olkort Ellooks''' are Minor Enemies in {{XC3}}. They are members of the [[Ellook]] family, and can be found at level 53-54 in [[Farlaine Underpass]] in [[Erythia Sea]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Olkort Ellook
+|image        = Olkort Ellook FR.jpg
+|caption      = Olkort Ellook
+|category     = Normal Enemy
+|type         = [[Ellook]]
+|level        = 5-9
+|area         = [[Vermilion Woods]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Olkort Ellooks''' are normal enemies in {{XC3FR}}. They are members of the [[Ellook]] family, and can be found at level 5-9 in [[Vermilion Woods]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Ellooks]]
+[[Category:XC3FR Ellooks]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3FR Level 1-5 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>oc0d6oxzfuv8t2budnno7u35r8lo3yr</sha1>
+    </revision>
+  </page>
+  </mediawiki>

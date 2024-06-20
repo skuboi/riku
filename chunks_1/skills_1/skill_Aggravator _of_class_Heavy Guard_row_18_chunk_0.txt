@@ -1,0 +1,6 @@
+Skill Name: Aggravator 
+
+Class: Heavy Guard
+
+Skill Buff or Effect:  Accrues AggroÊevery second.
+

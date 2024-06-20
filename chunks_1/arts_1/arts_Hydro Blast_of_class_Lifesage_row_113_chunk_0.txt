@@ -1,0 +1,6 @@
+Art Name: Hydro Blast
+
+Class: Lifesage
+
+Effect: Pierce (%)/Blowdown
+

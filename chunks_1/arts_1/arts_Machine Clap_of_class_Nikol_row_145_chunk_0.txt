@@ -1,0 +1,6 @@
+Art Name: Machine Clap
+
+Class: Nikol
+
+Effect: Defense up
+

@@ -1,0 +1,6 @@
+Skill Name: Eternal Formation 
+
+Class: Medic Gunner
+
+Skill Buff or Effect:  Increases field effect duration by 50%. [Rank 15 Master Skill]
+

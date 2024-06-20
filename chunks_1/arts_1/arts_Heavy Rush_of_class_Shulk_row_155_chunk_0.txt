@@ -1,0 +1,6 @@
+Art Name: Heavy Rush
+
+Class: Shulk
+
+Effect: Awakened Boost
+

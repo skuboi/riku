@@ -1,0 +1,6 @@
+Art Name: Jackal Claw
+
+Class: Martial Artist
+
+Effect: High Crit. Rate/Evade
+

@@ -1,0 +1,1345 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Asylum Lining</title>
+    <ns>0</ns>
+    <id>122588</id>
+    <revision>
+      <id>592706</id>
+      <parentid>592282</parentid>
+      <timestamp>2023-05-15T20:11:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="970" sha1="sxax8z598h6poc0w6onmgharjzn4hrf" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Asylum Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 14180 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Asylum Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 14180 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Asylum Lining
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Ether Defense by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 14180 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Asylum Linings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>sxax8z598h6poc0w6onmgharjzn4hrf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Atoll Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>119158</id>
+    <revision>
+      <id>583055</id>
+      <parentid>569108</parentid>
+      <timestamp>2023-04-15T00:38:02Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>583055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="779" sha1="4maab2xq7n7obvdew1r9acq4bqhdrf0" xml:space="preserve">{{Infobox location
+|name        = Atoll Ferronis Hulk
+|image       = Atoll Ferronis Hulk.jpg
+|caption     = Atoll Ferronis Hulk
+|type        = [[Rest Spot (XC3)|Rest Spot]]
+|located     = [[Erythia Sea]] ([[Baldotas Atoll]])
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Atoll Ferronis Hulk''' (Japanese: {{lang|ja|&#29872;&#30977;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Kansh&#333; no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}. It is located on the [[Baldotas Atoll]] in [[Erythia Sea]]. To activate this [[Ferronis Hulk]], the party must complete the [[Quest (XC3)|quest]] ''[[The Atoll Hulk]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+File:Atoll Ferronis Hulk map.jpg
+&lt;/gallery&gt;{{xc3 stub}}
+
+[[Category:Cadensia Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>4maab2xq7n7obvdew1r9acq4bqhdrf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Attack Down</title>
+    <ns>0</ns>
+    <id>125053</id>
+    <revision>
+      <id>587572</id>
+      <parentid>587554</parentid>
+      <timestamp>2023-05-02T12:22:45Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587572</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1271" sha1="ppzovciyzdi2vw25hvflhlnn48q8k02" xml:space="preserve">{{Infobox XC3 Status
+|title          = Attack Down
+|caption        = Reduces damage dealt.
+|image          = XC3 Attack Down.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 15.0s
+|max-duration   = 30.0s
+|success-rate   = 75%
+|rng-applicable = Yes
+|effect-title-1 = Base Attack Decrease
+|effect-value-1 = 25%
+}}
+'''Attack Down''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It decreases enemy or player attack when it is cast. A separate debuff known as [[Flame Clock#Gameplay|Flame Clock Low, Attack Down]] exists during the first chapter when the party is still under the control of the Flame Clock.
+
+== Distribution ==
+=== Arts ===
+*[[Soulfire (XC3)|Soulfire]] ([[Strategos]])
+*[[Aquaball]] ([[Soulhacker]], upon defeating [[Covetous Gerondon]])
+*[[Dragon Tail]] ([[Noah]], [[Ouroboros]])
+*[[Surprise Beat]] ([[Valdi]])
+*[[Night Breaker (XC3)|Night Breaker]] (Noah in [[Unlimited Sword]] in a [[Defender (XC3)|Defender]] or [[Healer]] role)
+=== Enemy-only Arts ===
+*Snake Eyes ([[Aspar]] family) &#8224;
+*Sweet Juice ([[Blant]] family)
+*Agrius Knuckle ([[G|Moebius G]])
+
+&#8224; The [[Snake Eyes]] Art learned by Soulhacker does not inflict Attack Down.
+{{clr}}
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{Xc3 stub}}
+{{fr stub}}</text>
+      <sha1>ppzovciyzdi2vw25hvflhlnn48q8k02</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Attack Stone (XC3)</title>
+    <ns>0</ns>
+    <id>118912</id>
+    <revision>
+      <id>592707</id>
+      <parentid>592543</parentid>
+      <timestamp>2023-05-15T20:11:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1026" sha1="ewqyzafqg8klbmp7q1aircvo1zu8rml" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Attack Stone (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Attack Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts auto-attack damage by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Attack Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts auto-attack damage by 58%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Attack Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts auto-attack damage by 66%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Attack Stones''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ewqyzafqg8klbmp7q1aircvo1zu8rml</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Attack Up</title>
+    <ns>0</ns>
+    <id>125790</id>
+    <revision>
+      <id>587583</id>
+      <parentid>587115</parentid>
+      <timestamp>2023-05-02T12:33:38Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587583</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1225" sha1="oylzzrwu6lnx1gzeikshb0hlenkminz" xml:space="preserve">{{Infobox XC3 Status
+|title          = Attack Up
+|caption        = Boosts damage dealt.
+|image          = XC3 Attack Up.png
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base Attack Boost
+|effect-value-1 = 25%
+}}
+'''Attack Up''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It temporarily increases the character's damage dealt.
+
+The damage increase is additive with most other damage-enhancing effects in the game, such as accessories that increase damage dealt under certain conditions.
+
+==Distribution==
+
+===Arts===
+*[[Shadow Eye (XC3)|Shadow Eye]] ([[Swordfighter]])
+*[[Leaping Current]] ([[Thaumaturge]])
+*[[Battle Pheromone]] ([[Soulhacker]]; requires Soul Hacking [[Gracious Titania]])
+*[[Power Ring]] ([[Medic Gunner]]; field effect with effect value of 40%)
+*[[Profound Strength]] ([[Teach]])
+*[[Tyrant Wave]] ([[Lanz]]'s [[Chain Attack (XC3)|Chain Order]])
+*[[The Indomitable]] ([[Cammuravi]]'s Chain Order)
+
+===Skills===
+*Preemption Gambit ([[Strategos]]; chance-based trigger at battle start)
+*Feline Righting Reflex ([[Martial Artist]]; chance-based trigger)
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>oylzzrwu6lnx1gzeikshb0hlenkminz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aural Enhance Sensor</title>
+    <ns>0</ns>
+    <id>118913</id>
+    <revision>
+      <id>592708</id>
+      <parentid>592367</parentid>
+      <timestamp>2023-05-15T20:11:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" sha1="hxz3xf8md22tc03o0pyx2bt288jcu5q" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Aural Enhance Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Aural Enhance Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Aural Enhance Sensor
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts accuracy during the night by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Aural Enhance Sensors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>hxz3xf8md22tc03o0pyx2bt288jcu5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Auto-Balancer (XC3)</title>
+    <ns>0</ns>
+    <id>118217</id>
+    <revision>
+      <id>592709</id>
+      <parentid>592550</parentid>
+      <timestamp>2023-05-15T20:11:31Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="588" sha1="f0lfh6dn2xkr3cpe4itdm57g3zc6t8n" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Auto-Balancer (XC2)}}
+{{Infobox item
+|name      = Auto-Balancer
+|image     = XC3 Accessory Pack.png
+|caption   = When your attacks are blocked, you are not thrown off-balance.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9940 [[Gold|G]]
+}}
+'''Auto-Balancers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. An Auto-Balancer can be received for free if the Expansion Pass has been bought. 
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>f0lfh6dn2xkr3cpe4itdm57g3zc6t8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Automaton Sentry</title>
+    <ns>0</ns>
+    <id>117969</id>
+    <revision>
+      <id>564189</id>
+      <parentid>560015</parentid>
+      <timestamp>2022-11-04T02:03:29Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <origin>564189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2397" sha1="c9hdbyxoo60jbnchkmgfk5fm5jto6uc" xml:space="preserve">{{spoiler}}
+{{Infobox Enemy
+|name         = Automaton Sentry
+|image        = XC3 Automaton Sentry.png
+|caption      = Automaton Sentry
+
+|tab1         = Alfeto Valley
+|category     = Story Exclusive Enemy
+|type         = [[Levnis]]
+|level        = 6
+|area         = [[Alfeto Valley]]
+|spawntime    = During Chapter 1
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+
+|tab2         = Erythia Sea
+|category2    = Quest Exclusive Enemy
+|type2        = [[Levnis]]
+|level2       = ?
+|area2        = [[Erythia Sea]] ([[Vinisog Holm]])
+|spawntime2   = During ''[[Choices]]''
+|respawn2     = No
+|movement2    = 
+|detection2   = 
+|exp2         = 
+|cp2          = 
+|sp2          = 
+|gold2        = 
+|hp2          = 
+|strength2    = 
+|ether2       = 
+|dexterity2   = 
+|agility2     = 
+|physdef2     = 
+|ethdef2      = 
+|critrate2    = 
+|guardrate2   = 
+
+|tab3         = City
+|category3    = Quest Exclusive Enemy
+|type3        = [[Levnis]]
+|level3       = 50
+|area3        = [[City]] ([[Caelum Residential Quarter]])
+|spawntime3   = During ''[[Life in the City]]''
+|respawn3     = No
+|movement3    = 
+|detection3   = 
+|exp3         = 
+|cp3          = 
+|sp3          = 
+|gold3        = 
+|hp3          = 
+|strength3    = 
+|ether3       = 
+|dexterity3   = 
+|agility3     = 
+|physdef3     = 
+|ethdef3      = 
+|critrate3    = 
+|guardrate3   = 
+}}
+'''Automaton Sentries''' are enemies in {{XC3}}. They are [[Levnis]]es used by the [[Lost Numbers]], and can be found at level 6 in [[Alfeto Valley]] during Chapter 1. More are fought as [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] during ''[[Choices]]'' at level ? at [[Vinisog Holm]] in [[Erythia Sea]] and during ''[[Life in the City]]'' at level 50 in the [[Caelum Residential Quarter]] in the [[City]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:City Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>c9hdbyxoo60jbnchkmgfk5fm5jto6uc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Auxilia</title>
+    <ns>0</ns>
+    <id>117471</id>
+    <revision>
+      <id>596032</id>
+      <parentid>596002</parentid>
+      <timestamp>2023-06-16T20:12:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* In {{XC3FR|sub}} */</comment>
+      <origin>596032</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1676" sha1="damtdhe705tyx23ck3dgdstvljcwfrh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Auxilia
+|image        = XC3-Auxilla.png 
+|caption      = Auxilia
+|category     = Normal Enemy
+|type         = [[Levnis]]
+|level        = 36-37
+|area         = [[Syra Hovering Reefs]] ([[Ether Mine (XC3)|Ether Mine]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Auxilias''' are minor enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 36-37 at the [[Ether Mine (XC3)|Ether Mine]] on the [[Syra Hovering Reefs]], nearby [[Ambusher Tirion]].
+
+They are visually similar to [[Speculatos]] and [[Velites]], but have different hand augments that are more suited to ether collection than combat.
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Auxilia
+|image        =  
+|caption      = Auxilia
+|category     = Normal Enemy
+|type         = [[Levnis]]
+|level        = 40
+|area         = 
+|spawntime    = 
+|respawn      = 
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+Auxilias can be found at level 40.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3FR Levnises]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:The Ragmos Desolation Enemies]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>damtdhe705tyx23ck3dgdstvljcwfrh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avalanche Onslaught (XC3)</title>
+    <ns>0</ns>
+    <id>124386</id>
+    <revision>
+      <id>591873</id>
+      <parentid>591041</parentid>
+      <timestamp>2023-05-14T14:35:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="675" sha1="n70aavdtvgaccoemkl7qoxegllh3glm" xml:space="preserve">{{for|the Chain Art in {{XC3FR|sub}}|Avalanche Onslaught (FR)}}
+{{Spoiler}}
+{{Infobox battle art
+|name        = Avalanche Onslaught
+|image       = Strm order thumb031 0.png
+|who         = [[Ghondor]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = During chain attack, increases critical hit damage bonus by 50-150 percentage points.
+|duration    = 
+|recharge    = 
+}}
+'''Avalanche Onslaught''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Ghondor]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>n70aavdtvgaccoemkl7qoxegllh3glm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avee Rhogul</title>
+    <ns>0</ns>
+    <id>123776</id>
+    <revision>
+      <id>559552</id>
+      <parentid>557184</parentid>
+      <timestamp>2022-09-30T10:43:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559552</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="810" sha1="6ychwioz99dlsqp6uwptzra2ljpsqr7" xml:space="preserve">{{Infobox Enemy
+|name         = Avee Rhogul
+|image        = 
+|caption      = Avee Rhogul
+|category     = Minor Enemy
+|type         = [[Rhogul]]
+|level        = ?
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Avee Rhoguls''' are Minor Enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6ychwioz99dlsqp6uwptzra2ljpsqr7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avee Skwaror</title>
+    <ns>0</ns>
+    <id>121457</id>
+    <revision>
+      <id>596003</id>
+      <parentid>584275</parentid>
+      <timestamp>2023-06-16T19:45:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596003</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1061" sha1="jpd4vk4of7q6xjeo0y8rolm2xgi6qys" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Avee Skwaror
+|image        = Avee Skwaror.jpg
+|caption      = Avee Skwaror
+|category     = Minor Enemy
+|type         = [[Skwaror]]
+|level        = 31
+|area         = [[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Avee Skwarors''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Skwaror]] family, and can be found at level 31 in [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Skwarors]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>jpd4vk4of7q6xjeo0y8rolm2xgi6qys</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avee Volff</title>
+    <ns>0</ns>
+    <id>123775</id>
+    <revision>
+      <id>559554</id>
+      <parentid>557183</parentid>
+      <timestamp>2022-09-30T10:43:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559554</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="n6cn4p86go7oit26ewjx3xy2ql55q7d" xml:space="preserve">{{Infobox Enemy
+|name         = Avee Volff
+|image        = 
+|caption      = Avee Volff
+|category     = Minor Enemy
+|type         = [[Volff]]
+|level        = ?
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Avee Volffs''' are Minor Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>n6cn4p86go7oit26ewjx3xy2ql55q7d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avenger (XC3)</title>
+    <ns>0</ns>
+    <id>121031</id>
+    <revision>
+      <id>596119</id>
+      <parentid>576412</parentid>
+      <timestamp>2023-06-16T20:22:09Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>596119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1823" sha1="31nfm7c6vj1z2zkdc74ira2928tgnye" xml:space="preserve">{{for|the Poppiswap item in {{XC2|-}}|Avenger (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Avenger
+|image        =XC3_Avenger.jpg 
+|caption      = Avenger
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 55 (1st fight)&lt;br/&gt;56 (2nd fight)
+|area         = [[Everblight Plain]] ([[Rottswoe Battlescar]])
+|spawntime    = During ''[[Shadow of Enmity]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Avenger''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Keves Forces|Kevesi Soldier]], and is fought twice at [[Rottswoe Battlescar]] on [[Everblight Plain]] during ''[[Shadow of Enmity]]'', first at level 55 and then again at level 56.
+{{clr}}
+
+== Overview ==
+The Avenger is a Kevesi soldier who was the sole survivor of his colony in a battle against [[Colony Chi]] led by '''All-Slayer Oleg''',  also known as [[Teach]]. He seeks to avenge his comrades by killing Teach. 
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3_Avenger2.jpg|Avenger with Weapon
+Avenger_Flameclock.jpg|The Flame Clock of Avenger's destroyed Ferronis
+XC3 Avenger Icon.png|Avenger's unused Affinity Chart Icon
+&lt;/gallery&gt;
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>31nfm7c6vj1z2zkdc74ira2928tgnye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aviga Rhogul</title>
+    <ns>0</ns>
+    <id>123777</id>
+    <revision>
+      <id>578610</id>
+      <parentid>559555</parentid>
+      <timestamp>2023-03-06T19:35:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578610</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1287" sha1="1a3xpp9mmewrg5esc1lz2cq2aowzigl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Aviga Rhogul
+|image        = 
+|caption      = Aviga Rhogul
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Rhogul]]
+|level        = 50
+|area         = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Loch Ciel]])
+|spawntime    = During ''[[Extracurricular Lesson]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Aviga Rhogul''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Rhogul]] family, and is fought at level 50 alongside four [[Avee Rhogul]]s at [[Loch Ciel]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] during ''[[Extracurricular Lesson]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1a3xpp9mmewrg5esc1lz2cq2aowzigl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aviga Volff</title>
+    <ns>0</ns>
+    <id>123774</id>
+    <revision>
+      <id>559556</id>
+      <parentid>557182</parentid>
+      <timestamp>2022-09-30T10:43:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559556</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="807" sha1="s0clsxcrp24j5xrh0750zi63tvmcxd5" xml:space="preserve">{{Infobox Enemy
+|name         = Aviga Volff
+|image        = 
+|caption      = Aviga Volff
+|category     = Minor Enemy
+|type         = [[Volff]]
+|level        = ?
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Aviga Volffs''' are Minor Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>s0clsxcrp24j5xrh0750zi63tvmcxd5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avis</title>
+    <ns>0</ns>
+    <id>116780</id>
+    <revision>
+      <id>595976</id>
+      <parentid>595650</parentid>
+      <timestamp>2023-06-16T18:50:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595976</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1723" sha1="c94tlw7nem3ooev0opqwlo9ysue9g5o" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Avis
+|image        = 
+|caption      = Avis
+|category     = Normal Enemy
+|type         = [[Levnis]]
+|level        = 7 - 47
+|area         = [[Alfeto Valley]]&lt;br/&gt;[[Millick Meadows]]&lt;br/&gt;[[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Avis''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Agnus|Agnian]] [[Levnis]]es, and can be found at level 29 - 30 in the [[Millick Meadows]], level 7 - 34 in [[Alfeto Valley]], and level 47 in [[Erythia Sea]] and [[Captocorn Peak]].
+{{clr}}
+
+== Stats ==
+{{Enemy stats}}
+
+=== Arts ===
+{{Enemy arts|art1=Arm Shot}}
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Levnises]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>c94tlw7nem3ooev0opqwlo9ysue9g5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Avis Achates</title>
+    <ns>0</ns>
+    <id>117888</id>
+    <revision>
+      <id>585019</id>
+      <parentid>584939</parentid>
+      <timestamp>2023-04-24T07:54:26Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>no page for enemy's art</comment>
+      <origin>585019</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="997" sha1="o1m6n3dzdktpwxjzl36s835iyo7fe7v" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Avis Achates
+|image        = XC3 Avis Achates.png 
+|caption      = Avis Achates
+|category     = [[Story Exclusive Enemy (XC3)|Story Exclusive Enemy]]
+|type         = [[Levnis]]
+|level        = 6
+|area         = [[Alfeto Valley]]
+|spawntime    = Story Event
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Avis Achates''' are enemies in {{XC3}}. They are [[Agnus|Agnian]] [[Levnis]]es, and can be found at level 6 in [[Alfeto Valley]], as well as throughout the story in various cutscenes, such as various war scenes between Agnus and [[Keves]].
+{{clr}}
+
+== Stats ==
+{{Enemy arts|art1=Arm Shot|hits1=2|art2=Impulse Switch}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>o1m6n3dzdktpwxjzl36s835iyo7fe7v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Awakening (XC3)</title>
+    <ns>0</ns>
+    <id>125806</id>
+    <revision>
+      <id>587580</id>
+      <parentid>587119</parentid>
+      <timestamp>2023-05-02T12:30:45Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>don't think any enemies use this buff, could be wrong tho</comment>
+      <origin>587580</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1296" sha1="8dz2amcke2gr7xnmexiloc9gbezok51" xml:space="preserve">{{For|the aura in {{XC}}|Awakening (XC1)}}
+{{Infobox XC3 Status
+|title = Awakening
+|caption = Improves Atk, Def. and recharge rate.
+|image = XC3 Awakening.png
+|type = Buff
+|base-duration = 20.0s
+|max-duration = 40.0s
+|rng-applicable = No
+|effect-title-1 = Base Damage Bonus
+|effect-value-1 = 75%
+|effect-title-2 = Damage Reduction
+|effect-value-2 = 25%
+|effect-title-3 = Recharge Bonus
+|effect-value-3 = 50%
+}}
+'''Awakening''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It boosts the character's damage output, reduces their damage taken, as well as increases their Art recharge speed. 
+
+In {{XC3FR|sub}}, it can only be inflicted by performing a successful [[Unity|Unity Combo]] against a [[Launch (XC3)|launched]] enemy.
+
+Uniquely among all buffs, the damage reduction and recharge bonus are not affected by equipment that improves buff power (the damage bonus is affected as normal).
+
+== Distribution ==
+=== Arts ===
+*[[Deflector Field]] ([[Guardian Commander]]; requires getting hit to activate)
+===Skills===
+*[[Seraph#Skills|Beast Mode]] ([[Seraph]]; triggers upon accumulating damage)
+*[[Soulhacker#Enemy Skills|Battle Fever]] ([[Soulhacker]]; chance-based trigger on enemy defeat, requires Soul Hacking [[Fleeting Shikino]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>8dz2amcke2gr7xnmexiloc9gbezok51</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ayase</title>
+    <ns>0</ns>
+    <id>122348</id>
+    <revision>
+      <id>597715</id>
+      <parentid>596660</parentid>
+      <timestamp>2023-07-02T16:26:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1513" sha1="j5vi7uxu6scz15toztzaxtpdk0n1gli" xml:space="preserve">{{Infobox_NPC
+|name        = Ayase
+|image       = Strm npc 187 0.png
+|personality = 
+|time_active = Anytime
+|gender      = Female
+|race        = 
+|age         = 7th Term
+|location    = [[Colony Mu]]
+}}
+'''Ayase''' is a NPC in {{XC3}}. Ayase is from [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Ayase
+|image        = Ayase battle.png
+|caption      = Ayase
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}} 
+'''Ayase''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is from [[Agnus Forces]] and can be found at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>j5vi7uxu6scz15toztzaxtpdk0n1gli</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>B</title>
+    <ns>0</ns>
+    <id>118632</id>
+    <revision>
+      <id>603412</id>
+      <parentid>603410</parentid>
+      <timestamp>2023-07-26T14:13:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>cat.</comment>
+      <origin>603412</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3850" sha1="mopvzrfpcmp7z6a2wzjg6671x01y19a" xml:space="preserve">{{for|the playable character from {{XCX|-}}|Professor B}}
+{{spoiler}}
+{{Infobox Character
+|name          = B
+|image         = consul B.png
+|species       = [[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = 
+|eyecolor      = Red
+|affiliation   = [[Consul]]s
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}
+}}
+{{quote|Silence, maggots!|B}}
+'''B''' is a character in {{XC3}}.
+
+== Overview ==
+B is the [[Consul]] of [[Colony 9 (XC3)|Colony 9]].
+
+== Story ==
+He is first seen in the introductory cutscene, atop the [[Ferronis]] of Colony 9.
+
+As the Consul of Colony 9, he responds to [[D]]'s symbol in the air from the valley, and uses his Iris to get his Colony to attack and pursue [[Noah]], [[Eunie]], and [[Lanz]] when they attempted to make it back to the colony after the battle in [[Alfeto Valley]]. He is seen standing in the colony as the order is given.
+
+After [[K]]'s defeat in [[Colony 4]], the Consuls have a meeting. D insists K's reliance on his Iris is what lead to his demise, to which B insists that the plan was not a bad one, saying the fact that [[Black Fog]] being in the area was merely just bad luck. D chides B for his stake in his Iris, stating that it has a share of blind spots, before being called out for nearly being defeated himself by [[O]], [[P]] and [[H]]. B, along with the others, agreed to let [[Joran|J]] take on the [[Ouroboros]] next.
+
+[[File:Zeon vs B.gif|thumb|Zeon vs. B]]
+This conversation apparently had an impact on B, as he no longer made any attempt to use the Iris to control the residents of Colony 9. He approaches the party and attempts to persuade Zeon and his soldiers to attack Noah and the others with the promise of a promotion for doing their duty. However, when he tried to attack the party, [[Zeon]] defended them, and counterattacked him, distracting him while Noah and [[Mio]] took out the Colony's [[Flame Clock]]. He is ultimately defeated by the Ouroboros.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius B
+|image        = Moebius B.jpg
+|caption      = Moebius B
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 24
+|area         = [[Yzana Plains]] ([[Colony 9 (XC3)|Colony 9]])
+|spawntime    = During ''[[Where The Heart Is]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 1,088
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 502,500
+|strength     = 488
+|ether        = 166
+|dexterity    = 82
+|agility      = 68
+|physdef      = 30%
+|ethdef       = -15%
+|critrate     = 10%
+|guardrate-front   = 15%
+|guardrate-side    = 15%
+|guardrate-back    = 0%
+}}
+'''Moebius B''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and is fought at level 24 in [[Colony 9 (XC3)|Colony 9]] in [[Yzana Plains]] during ''[[Where The Heart Is]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 65%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 80%
+|etherdebuff = 75%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Consul B and I art.jpg|Consul B artwork
+&lt;/gallery&gt;
+{{clr}}
+
+== Quotes ==
+* ''"It's just bad luck. The plan was sound. If not for the black fog..."''
+* ''"Beg pardon. I forget! You drones have no aesthetic sense."''
+* ''"The one where these maggots surfaced!"''
+* ''"This is insubordination!"''
+* ''"It's futile, you know? You won't change anything. You think you have a future? Well, you don't. Only suffering and despair."''
+{{clr}}
+
+{{XC3CharNav}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 21-25 Enemies]]</text>
+      <sha1>mopvzrfpcmp7z6a2wzjg6671x01y19a</sha1>
+    </revision>
+  </page>
+  </mediawiki>

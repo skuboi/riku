@@ -1,0 +1,2930 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bombshell Blitz</title>
+    <ns>0</ns>
+    <id>117809</id>
+    <revision>
+      <id>591876</id>
+      <parentid>590854</parentid>
+      <timestamp>2023-05-14T14:35:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="556" sha1="lgmdsmv0a7ig7spxokoyuyg2l7tus1g" xml:space="preserve">{{Infobox battle art
+|name        = Bombshell Blitz
+|image       = Strm order thumb006 0.png
+|who         = [[Sena]]
+|class       = 
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Attacks during Chain Attack gain 70-100% chance to be unblockable.
+|duration    = 
+|recharge    = 
+}}
+'''Bombshell Blitz''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Sena]]'s Chain art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>lgmdsmv0a7ig7spxokoyuyg2l7tus1g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bond Crystal</title>
+    <ns>0</ns>
+    <id>122881</id>
+    <revision>
+      <id>566310</id>
+      <parentid>564969</parentid>
+      <timestamp>2022-11-19T08:34:41Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="955" sha1="ji8q2zka65auuhoad7xm565wvtrd3hk" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Bond Crystal
+|image     = File:XC3 Accessory Pack.png
+|caption   = Speeds up Interlink Level buildup by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Bond Crystal
+|image     = File:XC3 Accessory Pack.png
+|caption   = Speeds up Interlink Level buildup by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Bond Crystal
+|image     = File:XC3 Accessory Pack.png
+|caption   = Speeds up Interlink Level buildup by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,690 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Bond Crystals''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>ji8q2zka65auuhoad7xm565wvtrd3hk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bond Fragment</title>
+    <ns>0</ns>
+    <id>118921</id>
+    <revision>
+      <id>566311</id>
+      <parentid>551141</parentid>
+      <timestamp>2022-11-19T08:34:57Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566311</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="953" sha1="2gqagcrfid7l73ljbk7p2ykecx615h8" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Bond Fragment
+|image     = File:XC3 Accessory Pack.png
+|caption   = Speeds up Interlink Level buildup by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5330 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Bond Fragment
+|image     = File:XC3 Accessory Pack.png
+|caption   = Speeds up Interlink Level buildup by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5330 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Bond Fragment
+|image     = File:XC3 Accessory Pack.png
+|caption   = Speeds up Interlink Level buildup by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5330 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Bond Fragments''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>2gqagcrfid7l73ljbk7p2ykecx615h8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Boost Memory</title>
+    <ns>0</ns>
+    <id>122645</id>
+    <revision>
+      <id>592721</id>
+      <parentid>592461</parentid>
+      <timestamp>2023-05-15T20:12:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592721</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1042" sha1="p3enmhdqhch1sq3rt1nslfa92yn7goy" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Boost Memory
+|image     = XC3 Accessory Cap.png
+|caption   = Expands the window of opportunity for cancelling by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6450 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Boost Memory
+|image     = XC3 Accessory Cap.png
+|caption   = Expands the window of opportunity for cancelling by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6450 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Boost Memory
+|image     = XC3 Accessory Cap.png
+|caption   = Expands the window of opportunity for cancelling by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6450 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Boost Memories''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>p3enmhdqhch1sq3rt1nslfa92yn7goy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Borgen Taos</title>
+    <ns>0</ns>
+    <id>121061</id>
+    <revision>
+      <id>582227</id>
+      <parentid>582206</parentid>
+      <timestamp>2023-04-09T16:48:44Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>582227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="938" sha1="5qen2im50j3shzrkc1vs5hv79mdu1l4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Borgen Taos
+|image        = Borgen_Taos.png
+|caption      = Borgen Taos
+|category     = Normal Minor Enemy
+|type         = [[Taos]]
+|level        = 14
+|area         = [[Fornis Region]] ([[Eagus Wilderness]] )
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Borgen Taos''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Taos]] family, and can be found at level 14 near the [[Wall of the Great Hand]] in the [[Eagus Wilderness]].
+
+== Drops ==
+* [[Imperial Taos Egg]]
+* [[Taos Wingtip]]
+
+
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Borgen Taos (Flight).png|Flying
+&lt;/gallery&gt;
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Taos]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5qen2im50j3shzrkc1vs5hv79mdu1l4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Boss (XC3)</title>
+    <ns>0</ns>
+    <id>117287</id>
+    <revision>
+      <id>595945</id>
+      <parentid>595913</parentid>
+      <timestamp>2023-06-16T17:51:29Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>/* Hero Quest Bosses */</comment>
+      <origin>595945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18092" sha1="2b0pbamuv2rh3t8g7kg4oy67v0ldjcd" xml:space="preserve">{{for|other uses|Boss}}
+{{spoiler}}
+'''Bosses''' (Japanese: {{lang|ja|&#12508;&#12473;}}, ''Bosu'') are [[Enemy (XC3)|enemies]] in {{XC3}} and {{XC3FR|sublink}}. As with most games, they tend to appear at the end of a specific portion of the game, they are related to the story event (directly or not, like Quest ones). Bosses have unique names, they can be a character or a monster, they have high stats and potentially unique skills.
+
+Bosses can be identified by the emblem that appears behind the level on their field icon. If a Boss must be defeated for story progression, they will also have a special icon left of their name in their window frame.
+
+== {{XC3|-}} ==
+=== Story Bosses ===
+{| class="xc1 sortable"
+!Name
+!Level
+!Area
+!Location
+!Battle
+!Special
+|-
+|[[Ulula]]
+|4
+|[[Everblight Plain]]
+|
+|01
+|
+|-
+|[[Drifter Ropl]]
+|6
+|[[Alfeto Valley]]
+|
+|02
+|
+|-
+|[[Agnus Defender (boss)|Agnus Defender]]
+|8
+|[[Alfeto Valley]]
+|[[Gura Flava Lowlands]]
+|03
+|
+|-
+|[[Agnus Healer]]
+|8
+|[[Alfeto Valley]]
+|[[Gura Flava Lowlands]]
+|03
+|
+|-
+|[[Agnus Attacker (boss)|Agnus Attacker]]
+|8
+|[[Alfeto Valley]]
+|[[Gura Flava Lowlands]]
+|03
+|
+|-
+|[[Mysterious Enemy]]
+|10
+|[[Alfeto Valley]]
+|[[Gura Flava Lowlands]]
+|04
+|
+|-
+|[[Moebius (boss)|Moebius]]
+|10
+|[[Alfeto Valley]]
+|[[Gura Flava Lowlands]]
+|05
+|
+|-
+|[[Ethel|Silvercoat Ethel]]
+|16
+|[[Eagus Wilderness]]
+|[[Hegemon's Seat]]
+|06
+|Assisted by 1 [[Keves Blocker]], 1 Keves Sniper, 1 [[Keves Rescuer]]
+|-
+|[[K|Consul K]]
+|17
+|[[Eagus Wilderness]]
+|[[Hegemon's Seat]]
+|07
+|
+|-
+|[[K|Moebius K]]
+|17
+|[[Eagus Wilderness]]
+|[[Hegemon's Seat]]
+|08
+|
+|-
+|[[Hunter Volff]] (x3)
+|17
+|[[Eagus Wilderness]]
+|[[Metamural Garden]]
+|09
+|''[[No Want of Courage]]'' Hero Quest
+|-
+|[[Strange Keves Soldier]]
+|21
+|[[Ribbi Flats]]
+|[[Elsie's Spout]]
+|10
+|''[[The Kind Right Hand]]'' Hero Quest
+Assisted by 1 [[Velites]], 1 [[Equites]]
+|-
+|[[Incomplete Siege-Lev]]
+|22
+|[[Ribbi Flats]]
+|[[Colony 30]]
+|11
+|''[[The Kind Right Hand]]'' Hero Quest
+|-
+|[[Lepus]]
+|24
+|[[Rae-Bel Tableland]]
+|[[Old Kana Battlefield]]
+|12
+|
+|-
+|[[Princess Arachno]]
+|26
+|[[Urayan Tunnels]]
+|
+|13
+|''[[A Nopon's Counsel]]'' Hero Quest
+Assisted by 4 Savant Arachnos
+|-
+|[[Lambda Ferronis]]
+|28
+|[[Great Cotte Falls]]
+|
+|14
+|Assisted by 2 [[Avis]]
+|-
+|[[Joran|Consul J]]
+|29
+|[[Great Cotte Falls]]
+|
+|15
+|
+|-
+|[[Umber Drague]]
+|30
+|[[Great Cotte Falls]]
+|
+|16
+|
+|-
+|[[Agnus Fighter A]]
+|32
+|[[High Maktha Wildwood]]
+|
+|17
+|''[[Natural Selection]]'' Hero Quest
+|-
+|[[Agnus Fighter B]]
+|31
+|[[High Maktha Wildwood]]
+|
+|17
+|''[[Natural Selection]]'' Hero Quest
+|-
+|[[Agnus Fighter C]]
+|31
+|[[High Maktha Wildwood]]
+|
+|17
+|''[[Natural Selection]]'' Hero Quest
+|-
+|[[Agnus Fighter D]]
+|31
+|[[High Maktha Wildwood]]
+|
+|17
+|''[[Natural Selection]]'' Hero Quest
+|-
+|[[Agnus Fighter E]]
+|31
+|[[High Maktha Wildwood]]
+|
+|17
+|''[[Natural Selection]]'' Hero Quest
+|-
+|[[Annon Rhinon]] (x3)
+|33
+|[[High Maktha Wildwood]]
+|[[Colony Tau]]
+|18
+|''[[Natural Selection]]'' Hero Quest
+|-
+|[[Mysterious Raider]]
+|34
+|[[High Maktha Wildwood]]
+|
+|19
+|''[[Imminent Illusion]]'' Standard Quest
+|-
+|[[Ethel's Ferronis]]
+|35
+|[[High Maktha Wildwood]]
+|[[Engardo Pass]]
+|20
+|
+|-
+|[[Cammuravi's Ferronis]]
+|35
+|[[High Maktha Wildwood]]
+|[[Engardo Pass]]
+|20
+|
+|-
+|[[Moebius O &amp; P]]
+|36
+|[[High Maktha Wildwood]]
+|[[Engardo Pass]]
+|21
+|
+|-
+|[[Moebius D &amp; J]]
+|42
+|[[Keves Castle]]
+|[[Annihilator Foundations]]
+|22
+|
+|-
+|[[Queen of Keves (boss)|Queen of Keves]]
+|43
+|[[Keves Castle]]
+|[[Throne Room (XC3)|Throne Room]]
+|23
+|Battle ends after boss uses "Ether Protection" Art; HP cannot be completely depleted
+|-
+|[[Ghondor]]
+|47
+|[[Li Garte Prison Camp]]
+|[[Central Cell]]
+|24
+|Story advances regardless of battle outcome
+|-
+|[[Aggy]]
+|45
+|[[Li Garte Prison Camp]]
+|[[Central Cell]]
+|24
+|Story advances regardless of battle outcome
+|-
+|[[Oggy]]
+|45
+|[[Li Garte Prison Camp]]
+|[[Central Cell]]
+|24
+|Story advances regardless of battle outcome
+|-
+|[[Gyrinus]]
+|48
+|[[Agnus Castle Barbican]]
+|[[West Perimeter Gate]]
+|25
+|
+|-
+|[[M|Moebius M]]
+|49
+|[[Agnus Castle Barbican]]
+|[[West Perimeter Gate]]
+|26
+|Randomly takes control of party members
+|-
+|[[M|Moebius M]]
+|49
+|[[Agnus Castle Barbican]]
+|[[West Perimeter Gate]]
+|27
+|Randomly takes control of party members
+|-
+|[[N|Moebius N]]
+|50
+|[[Agnus Castle Barbican]]
+|[[West Perimeter Gate]]
+|28
+|
+|-
+|[[N|Moebius N]]
+|50
+|[[Agnus Castle]]
+|[[Ascension Grounds]]
+|29
+|
+|-
+|[[Queen of Agnus (boss)|Queen of Agnus]]
+|50
+|[[Agnus Castle]]
+|[[Ascension Grounds]]
+|30
+|
+|-
+|[[Miyabi|Glorysong Miyabi]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|31
+|''[[Side Story: Mio]]'' Ascension Quest
+|-
+|[[Cammuravi|Smoldering Cammuravi]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|31
+|''[[Side Story: Mio]]'' Ascension Quest
+|-
+|[[Mwamba]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|31
+|''[[Side Story: Mio]]'' Ascension Quest
+|-
+|[[Hackt]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|31
+|''[[Side Story: Mio]]'' Ascension Quest
+|-
+|[[Y|Moebius Y]]
+|54
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|32
+|''[[Side Story: Mio]]'' Ascension Quest
+|-
+|[[D|Moebius D]]
+|54
+|[[Captocorn Peak]]
+|[[Cloudkeep]]
+|33
+|
+|-
+|[[Joran|Moebius J]]
+|54
+|[[Captocorn Peak]]
+|[[Cloudkeep]]
+|33
+|
+|-
+|[[Moebius D &amp; J]]
+|55
+|[[Captocorn Peak]]
+|[[Cloudkeep]]
+|34
+|
+|-
+|[[Crys|Consul Crys]]
+|60
+|[[Keves Castle]]
+|[[Throne Room (XC3)|Throne Room]]
+|35
+|''[[Side Story: Noah]]'' Ascension Quest
+|-
+|[[Crys|Consul Crys]]
+|61
+|[[Keves Castle]]
+|[[Throne Room (XC3)|Throne Room]]
+|36
+|''[[Side Story: Noah]]'' Ascension Quest
+|-
+|[[N]]
+|68
+|[[Origin Interior]]
+|[[Eternal Prison]]
+|37
+|
+|-
+|[[N]]
+|68
+|[[Origin Interior]]
+|[[Eternal Prison]]
+|38
+|
+|-
+|[[Kurria Flak (boss)|Kurria Flak]] (x9)
+|68
+|[[Origin Interior]]
+|[[Hangar Zone]]
+|39
+|3 waves; 3 enemies per wave
+|-
+|[[X|Moebius X]]
+|70
+|[[Origin Interior]]
+|[[Defense Tower 2]]
+|40
+|Required if previously completed ''[[Side Story: Eunie]]'' Ascension Quest, otherwise optional
+|-
+|[[Y|Moebius Y]]
+|70
+|[[Origin Interior]]
+|[[Defense Tower 4]]
+|41
+|
+|-
+|[[Z]]
+|72
+|[[Origin Interior]]
+|[[Amphitheater]]
+|42
+|Defeat returns player to title screen
+|-
+|[[Z&#8734;]] (1st Phase)
+|75
+|[[Origin]]
+|???
+|43
+|Defeat returns player to title screen
+|-
+|[[X&#8734;]]
+|75
+|[[Origin]]
+|???
+|43
+|Only [[Keves]] party members initially participate; defeat returns player to title screen
+|-
+|[[Y&#8734;]]
+|75
+|[[Origin]]
+|???
+|43
+|Only [[Agnus]] party members initially participate; defeat returns player to title screen
+|-
+|[[Z&#8734;]] (Final Phase)
+|75
+|[[Origin]]
+|???
+|43
+|Defeat returns player to title screen
+|}
+
+=== Standard Quest Bosses ===
+
+=== Hero Quest Bosses ===
+{| class="xc1 sortable"
+!Name
+!Level
+!Area
+!Location
+!Quest
+!Special
+|-
+|[[Crys|Consul Crys]]
+|60
+|[[Keves Castle]]
+|[[Throne Room (XC3)|Throne Room]]
+|[[Side Story: Noah]]
+|
+|-
+|[[Crys|Consul Crys]]
+|61
+|[[Keves Castle]]
+|[[Throne Room (XC3)|Throne Room]]
+|[[Side Story: Noah]]
+|
+|-
+|[[Miyabi|Glorysong Miyabi]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|[[Side Story: Mio]]
+|
+|-
+|[[Cammuravi|Smoldering Cammuravi]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|[[Side Story: Mio]]
+|
+|-
+|[[Mwamba]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|[[Side Story: Mio]]
+|
+|-
+|[[Hackt]]
+|53
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|[[Side Story: Mio]]
+|
+|-
+|[[Y|Moebius Y]]
+|54
+|[[Captocorn Peak]]
+|[[Colony Omega]]
+|[[Side Story: Mio]]
+|
+|-
+|[[X|Consul X]]
+|47
+|[[Urayan Trail]]
+|[[Colony 5 Ferronis]]
+|[[Side Story: Eunie]]
+|
+|-
+|[[L|Moebius L]]
+|47
+|[[Urayan Trail]]
+|[[Colony 5 Ferronis]]
+|[[Side Story: Eunie]]
+|
+|-
+|[[Lepus]]
+|55
+|[[Erythia Sea]]
+|[[Farlaine Underpass]]
+|[[Side Story: Taion]]
+|Assisted by 2 [[Armadillo|Armadillos]]
+|-
+|[[V|Moebius V]]
+|56
+|[[Erythia Sea]]
+|[[Farlaine Underpass]]
+|[[Side Story: Taion]]
+|
+|-
+|[[Garvel]]
+|47
+|[[Great Sword's Base]]
+|[[Cradle Convoy Shelter]]
+|[[Side Story: Lanz]]
+|Assisted by 2 [[Equites]]
+|-
+|[[Layla]]
+|47
+|[[Great Sword's Base]]
+|[[Cradle Convoy Shelter]]
+|[[Side Story: Lanz]]
+|
+|-
+|[[Hoope]]
+|47
+|[[Great Sword's Base]]
+|[[Cradle Convoy Shelter]]
+|[[Side Story: Lanz]]
+|
+|-
+|[[H|Moebius H]]
+|48
+|[[Great Sword's Base]]
+|[[Cradle Convoy Shelter]]
+|[[Side Story: Lanz]]
+|
+|-
+|[[Shania|Moebius S]]
+|55
+|[[City]]
+|[[Virid Park]]
+|[[Side Story: Sena]]
+|
+|-
+|[[Hunter Volff]] (x3)
+|17
+|[[Eagus Wilderness]]
+|[[Metamural Garden]]
+|[[No Want of Courage]]
+|
+|-
+|[[Strange Keves Soldier]]
+|21
+|[[Ribbi Flats]]
+|[[Elsie's Spout]]
+|[[The Kind Right Hand]]
+|Assisted by 1 [[Velites]], 1 [[Equites]]
+|-
+|[[Incomplete Siege-Lev]]
+|22
+|[[Ribbi Flats]]
+|[[Colony 30]]
+|[[The Kind Right Hand]]
+|
+|-
+|[[Forin Ansel]] (x3)
+|42
+|[[Great Cotte Falls]]
+|
+|[[I'm a Mechanic]]
+|
+|-
+|[[Forin Skeeter]] (x5)
+|42
+|[[Dannagh Desert (XC3)|Dannagh Desert]]
+|[[Glam Rock]]
+|[[I'm a Mechanic]]
+|
+|-
+|[[Zeon|Dutiful Zeon]]
+|22
+|[[Yzana Plains]]
+|
+|[[Where The Heart Is]]
+|Assisted by [[Fox]], [[Roald]], [[Eilis]]
+|-
+|[[B|Moebius B]]
+|24
+|[[Yzana Plains]]
+|[[Colony 9 (XC3)|Colony 9]]
+|[[Where The Heart Is]]
+|
+|-
+|[[Rogue Ropl]] (x3)
+|49
+|[[Yzana Plains]]
+|[[Spongy Spud Patch]]
+|[[Reasons to Evolve]]
+|
+|-
+|[[Teach|Inscrutable Teach]]
+|26
+|[[Melnath's Shoulder (XC3)|Melnath's Shoulder]] 
+|[[Transcendent Retreat]]
+|[[Going Beyond Power]]
+|
+|-
+|[[G|Moebius G]]
+|27
+|[[Melnath's Shoulder (XC3)|Melnath's Shoulder]] 
+|[[Transcendent Retreat]]
+|[[Going Beyond Power]]
+|
+|-
+|[[Avenger (XC3)|Avenger]] 
+|55
+|[[Everblight Plain]]
+|[[Rottswoe Battlescar]]
+|[[Shadow of Enmity]]
+|Battle ends shortly after "Critical Vengeance" is used
+|-
+|[[Avenger (XC3)|Avenger]] 
+|56
+|[[Everblight Plain]]
+|[[Rottswoe Battlescar]]
+|[[Shadow of Enmity]]
+|
+|-
+|[[Princess Arachno]]
+|26
+|[[Urayan Tunnels]]
+|
+|[[A Nopon's Counsel]]
+|Assisted by 4 Savant Arachnos
+|-
+|[[Gray|Mystery Man]]
+|28
+|[[Millick Meadows]]
+|[[Murmur Rise]]
+|[[A Gray Matter]]
+|
+|-
+|[[Evolved Sentry]]
+|52
+|[[Great Sword's Base]]
+|[[Hidden Weapon Lab]]
+|[[Payback for Treason]]
+|
+|-
+|[[Broo]]
+|52
+|[[Great Sword's Base]]
+|[[Hidden Weapon Lab]]
+|[[Payback for Treason]]
+|Assisted by 1 [[Lost Protector]], 1 [[Lost Fighter]]
+|-
+|[[Yarmil]]
+|52
+|[[Great Sword's Base]]
+|[[Hidden Weapon Lab]]
+|[[Payback for Treason]]
+|
+|-
+|[[Armadillo]] (x2)
+|29
+|[[Great Cotte Falls]]
+|[[Cave at Pira Bluffs]]
+|[[Unwavering Resolve]]
+|
+|-
+|[[Agnus Fighter A]]
+|32
+|[[High Maktha Wildwood]]
+|
+|[[Natural Selection]]
+|
+|-
+|[[Agnus Fighter B]]
+|31
+|[[High Maktha Wildwood]]
+|
+|[[Natural Selection]]
+|
+|-
+|[[Agnus Fighter C]]
+|31
+|[[High Maktha Wildwood]]
+|
+|[[Natural Selection]]
+|
+|-
+|[[Agnus Fighter D]]
+|31
+|[[High Maktha Wildwood]]
+|
+|[[Natural Selection]]
+|
+|-
+|[[Agnus Fighter E]]
+|31
+|[[High Maktha Wildwood]]
+|
+|[[Natural Selection]]
+|
+|-
+|[[Annon Rhinon]] (x3)
+|33
+|[[High Maktha Wildwood]]
+|[[Colony Tau]]
+|[[Natural Selection]]
+|
+|-
+|[[Annon Rhinon]] (x4)
+|48
+|[[High Maktha Wildwood]]
+|[[Colony Tau]]
+|[[Survivors]]
+|
+|-
+|[[Annon Rhinon]] (x5)
+|48
+|[[High Maktha Wildwood]]
+|[[Colony Tau]]
+|[[Survivors]]
+|
+|-
+|[[Annon Rhinon]] (x3)
+|48
+|[[High Maktha Wildwood]]
+|[[Colony Tau]]
+|[[Survivors]]
+|
+|-
+|[[U|Moebius U]]
+|50
+|[[High Maktha Wildwood]]
+|[[Colony Tau]]
+|[[Survivors]]
+|
+|-
+|[[R|Moebius R]]
+|38
+|[[Syra Hovering Reefs]]
+|[[Colony 11]]
+|[[The Wrath of Ashera]]
+|
+|-
+|[[Ashera|Undying Blade Ashera]]
+|64
+|[[Syra Hovering Reefs]]
+|[[Hovering Reef 0]]
+|[[A Deep-Seated Scar]]
+|Battle will end after depleting 50% of boss's health
+|-
+|[[R|Moebius R]]
+|65
+|[[Syra Hovering Reefs]]
+|[[Hovering Reef 0]]
+|[[A Deep-Seated Scar]]
+|
+|-
+|[[W|Moebius W]]
+|65
+|[[Syra Hovering Reefs]]
+|[[Hovering Reef 0]]
+|[[A Deep-Seated Scar]]
+|
+|-
+|[[Fili]]
+|40
+|[[Dannagh Desert (XC3)|Dannagh Desert]]
+|[[Fetos Sandgarden]]
+|[[Her Reasons]]
+|Assisted by 1 [[Agnus Vanguard Elite]], 1 [[Agnus Skirmisher]], 1 [[Agnus Scout]], 1 [[Agnus Medic]]
+|-
+|[[Chelle]]
+|40
+|[[Rae-Bel Tableland]]
+|[[Lisza Garden]]
+|[[Her Reasons]]
+|Assisted by 1 [[Agnus Medic Elite]], 1 [[Agnus Skirmisher]], 1 [[Agnus Vanguard]], 1 [[Agnus Duoblade]]
+|-
+|[[Rhyza]]
+|40
+|[[Rae-Bel Tableland]]
+|[[Bittley Slope]]
+|[[Her Reasons]]
+|Assisted by 1 [[Agnus Duoblade Elite]], 1 [[Agnus Scout]], 1 [[Agnus Vanguard]], 1 [[Agnus Medic]]
+|-
+|[[Sequoia]]
+|40
+|[[Great Cotte Falls]]
+|
+|[[Her Reasons]]
+|Assisted by 1 [[Agnus Blaster Elite]], 1 [[Agnus Skirmisher]], 1 [[Agnus Vanguard]], 1 [[Agnus Medic]]
+|-
+|[[Alexandria|Craftmaiden Alexandria]]
+|41
+|[[Elaice Highway]]
+|[[Colony Iota]]
+|[[Her Reasons]]
+|Assisted by [[Fili]], [[Chelle]], [[Rhyza]] and [[Sequoia]] if they were not fought earlier in their respective squads
+|-
+|[[E|Moebius E]]
+|42
+|[[Elaice Highway]]
+|[[Colony Iota]]
+|[[Her Reasons]]
+|
+|-
+|[[Robobuddy]]
+|57
+|[[Ribbi Flats]]
+|[[Colony 30]]
+|[[Inescapable Past]]
+|
+|-
+|[[Q|Moebius Q]]
+|59
+|[[Rae-Bel Tableland]]
+|[[Old Kana Battlefield]]
+|[[Inescapable Past]]
+|Assisted by 2 [[Armadillo|Armadillos]]
+|-
+|[[Territorial Antol]] (x2)
+|61
+|[[Erythia Sea]]
+|[[Antol Pit]]
+|[[Promise to the Future]]
+|
+|-
+|[[Irma|Moebius I]]
+|47
+|[[Erythia Sea]]
+|[[Colony Mu]]
+|[[Transparent Dreams]]
+|Assisted by 3 [[False Volff]]s
+|-
+|Erythia Relay Force:&lt;br /&gt;[[Agnus Vanguard Elite (boss)|Agnus Vanguard Elite]] x5
+|56
+|[[Erythia Sea]]
+|[[Erythia Relay Base]]
+|[[A Farewell Reset]]
+|
+|-
+|[[Arcaphor Gogol]]
+|47
+|[[Erythia Sea]]
+|[[Cape Arcaphor]]
+|[[Doing It My Way]]
+|
+|-
+|[[Triton|Defiant Triton]]
+|48
+|[[Erythia Sea]]
+|[[Colony 15]]
+|[[Doing It My Way]]
+|Assisted by [[Orson]], [[Pergas]] and [[Torto]]
+|-
+|[[Memorial Ropl]]
+|62
+|[[Melnath's Shoulder (XC3)|Melnath's Shoulder]] 
+|[[Melnath's Pass, Lower]]
+|[[My Memories]]
+|
+|-
+|[[Memorial Rhogul]] (x3)
+|62
+|[[Great Cotte Falls]]
+|
+|[[My Memories]]
+|
+|-
+|[[Memorial Ekidno]]
+|62
+|[[Syra Hovering Reefs]]
+|[[Hovering Reef 2 (XC3)|Hovering Reef 2]]
+|[[My Memories]]
+|
+|-
+|[[Giant Gogol]] (x3)
+|62
+|[[Elaice Highway]]
+|[[Singbreeze Funnel]]
+|[[Knowing Your Family]]
+|
+|-
+|Colony 29 Raiders:&lt;br /&gt;[[Keves Blocker Elite (boss)|Keves Blocker Elite]]&lt;br /&gt;[[Keves Rescuer (boss)|Keves Rescuer]]&lt;br /&gt;[[Keves Sniper (boss)|Keves Sniper]]&lt;br /&gt;[[Equites (boss)|Equites]]&lt;br /&gt;[[Velites (boss)|Velites]]
+|63
+|[[Elaice Highway]]
+|[[Ag's Talon]]
+|[[Knowing Your Family]]
+|
+|-
+|[[Eghi Rhogul]] (x4)
+|64
+|[[Great Cotte Falls]]
+|
+|[[Happiness]]
+|
+|-
+|[[Mysterious Raider]] (x3)
+|52
+|[[Captocorn Peak]]
+|
+|[[Inhumanity]]
+|''[[The Illusion Returns]]'' Standard Quest
+|-
+|[[Segiri|No. 7]]
+|54
+|[[Captocorn Peak]]
+|[[Colony 0]]
+|[[Inhumanity]]
+|
+|-
+|[[No. 13]]
+|70
+|[[Dannagh Desert (XC3)|Dannagh Desert]]
+|[[Ecto Hollow]]
+|[[Invisible Bond]]
+|
+|-
+|[[Ag. Skirmisher Elite]]
+|80
+|[[Syra Hovering Reefs]]
+|
+|[[From Atop Her Throne]]
+|''[[Friction With Agnus]]'' Standard Quest&lt;br /&gt;Assisted by 2 [[Agnus Scout]]s, 2 [[Agnus Blaster]]s, 2 [[Agnus Duoblade]]s
+|-
+|[[Nopon Eater]]
+|48
+|[[Urayan Trail]]
+|[[Clifftop Ferronis Hulk]]
+|''[[The Hope of Noponkind]]''
+|
+|-
+|[[Nopon Eater]]
+|49&lt;br /&gt;50
+|[[Erythia Sea]]
+|[[Anu Shoals]]
+|''[[The Hope of Noponkind]]''
+|Fought Twice
+|-
+|[[Argent Ropl]]
+|51
+|[[Urayan Tunnels]]
+|
+|''[[For the Sake of Keepsakes]]''
+|
+|}
+
+== {{XC3FR|sub}} ==
+=== Story Bosses ===
+{| class="xc1 sortable"
+!Name
+!Level
+!Area
+!Location
+!Battle
+!Special
+|-
+|[[Vatura Flak]]
+|2
+|[[Vermilion Woods]]
+|
+|01
+|
+|-
+|[[Desperate Kevesi]]
+|6
+|[[Vermilion Woods]]
+|
+|02
+|
+|-
+|[[Desperate Agnian]]
+|6
+|[[Vermilion Woods]]
+|
+|02
+|
+|-
+|[[R (FR)#Battle|Moebius R]]
+|7
+|[[Vermilion Woods]]
+|
+|03
+|
+|-
+|[[Q (FR)#Battle|Moebius Q]]
+|7
+|[[Vermilion Woods]]
+|
+|03
+|
+|-
+|[[Ghondor (FR)#Battle|Ghondor]]
+|10
+|[[Erythia Sea]]
+|[[Hope's Rest]]
+|04
+|Battle will end after boss uses "[[Gigantic Beat]]" Talent Art; Battle is fought only with Lv. 1 [[Matthew (FR)|Matthew]] and [[Na'el]]
+|-
+|[[Ritteli Rhinon]]
+|14
+|[[Aurora Shelf]]
+|[[Echoes of Gran Dell Citadel]]
+|05
+|
+|-
+|[[Skarn Volff]] x2
+|16
+|[[Aurora Shelf]]
+|[[Panorama Camp]]
+|06
+|
+|-
+|[[Mystery Unit Captain]]
+|16
+|[[Aurora Shelf]]
+|[[Panorama Camp]]
+|07
+|Forced loss
+|-
+|[[Colony Eta Ferronis]]
+|18
+|[[Aurora Shelf]]
+|[[Diablada Cliffs]]
+|08
+|
+|-
+|[[W (FR)#Battle|Moebius W]]
+|19
+|[[Aurora Shelf]]
+|[[Diablada Cliffs]]
+|09
+|Boss will take only 1 damage per hit until both supporting Ferronis have been defeated
+|-
+|[[Kevesi Ferronis]]
+|19
+|[[Aurora Shelf]]
+|[[Diablada Cliffs]]
+|09
+|
+|-
+|[[Agnian Ferronis]]
+|19
+|[[Aurora Shelf]]
+|[[Diablada Cliffs]]
+|09
+|
+|-
+|[[Wickt Igna]]
+|23
+|[[Aurora Shelf]]
+|[[Exile Fortress Ruins]]
+|10
+|Assisted by 4 [[Anima Igna]]s
+|-
+|[[Diastone Feris]] (x2)
+|1
+|[[Erythia Sea]]
+|[[Corne Island]]
+|11
+|Battle is fought only with Lv. 1 [[Matthew (FR)|Matthew]] and [[Na'el]]
+|-
+|[[Na'el#Battle|Na'el / Alpha]]
+|33
+|[[The Ragmos Desolation]]
+|[[Raguel Lake]]
+|12
+|
+|-
+|[[N#In Future Redeemed|Moebius N]]
+|33
+|[[The Ragmos Desolation]]
+|[[Raguel Lake]]
+|13
+|Forced loss
+|-
+|[[Heidel Taos]]
+|37
+|[[Yesterdale]]
+|[[Gotrock Oracle Ruins]]
+|14
+|
+|-
+|[[Shulk#Battle|Godcleaver Shulk]]
+|38
+|[[Yesterdale]]
+|[[Gotrock Oracle Ruins]]
+|15
+|Battle is only fought with [[Nikol]] and [[Glimmer]]
+|-
+|[[Rex#Battle|Stoutheart Rex]]
+|38
+|[[Yesterdale]]
+|[[Gotrock Oracle Ruins]]
+|15
+|Battle is only fought with [[Nikol]] and [[Glimmer]]
+|-
+|[[N#In Future Redeemed|Moebius N]]
+|49
+|[[Black Mountains]]
+|[[Prison Terrace]]
+|16
+|
+|-
+|[[N#In Future Redeemed|Moebius N]]
+|49
+|[[City]]
+|
+|17
+|Battle is only fought with Lv 30 [[Na'el]]
+|-
+|[[Alpha#Battles|Alpha]]
+|49
+|[[Origin]]
+|
+|18
+|
+|-
+|[[Alpha#Battles|Alpha]]
+|50
+|[[Origin]]
+|
+|19
+|Declining to retry battle after being defeated, or choosing to give up, returns player to title screen
+|}
+
+=== Quest Exclusive Bosses ===
+{| class="xc1 sortable" width=100%
+!Name
+!Level
+!Area
+!Location
+!Quest
+!Special
+|-
+|[[???]]
+|39
+|[[The Ragmos Desolation]]
+|[[Raguel Lake]]
+|''[[Linka's Birthday]]''
+|It is an [[Amoney]]
+|-
+|[[Alif Aspar]]
+|37
+|[[Aurora Shelf]]
+|[[Abandoned Depot]]
+|''[[Abandoned Supplies]]''
+|
+|-
+|[[Allelutta Igna]]
+|21
+|[[Aurora Shelf]]
+|[[Exile Fortress Ruins]]
+|''[[Riku's Workshop (quest)|Riku's Workshop]]''
+|
+|-
+|[[Encounter Volff]] x3
+|28
+|[[Aurora Shelf]]
+|
+|''[[Where Is That Guy?]]''
+|
+|-
+|[[Nightmare Feris]]
+|28
+|[[Aurora Shelf]]
+|
+|''[[Hunt for the Kids]]''
+|[[Fogbeast]]
+|-
+|[[Omeg Ropl]] x3
+|37
+|[[Aurora Shelf]]
+|[[Abandoned Depot]]
+|''[[Abandoned Supplies]]''
+|
+|}
+
+[[Category:XC3 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3FR Enemies]]
+[[Category:XC3FR Bosses]]</text>
+      <sha1>2b0pbamuv2rh3t8g7kg4oy67v0ldjcd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bouyant Grebel</title>
+    <ns>0</ns>
+    <id>121009</id>
+    <revision>
+      <id>559581</id>
+      <parentid>545318</parentid>
+      <timestamp>2022-09-30T10:44:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559581</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="g5l4vvwu8a66hm6bb34yxtqp4owtr14" xml:space="preserve">{{Infobox Enemy
+|name         = Bouyant Grebel
+|image        = 
+|caption      = Bouyant Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Bouyant Grebels''' are Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>g5l4vvwu8a66hm6bb34yxtqp4owtr14</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bowchief Cornelius</title>
+    <ns>0</ns>
+    <id>124006</id>
+    <revision>
+      <id>584828</id>
+      <parentid>582320</parentid>
+      <timestamp>2023-04-23T16:28:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584828</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1259" sha1="g3bhisqrbbzmc95mwz0d2llwlfjj43y" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bowchief Cornelius
+|image        = King Krawkin Igna Enemy.jpg
+|caption      = Bowchief Cornelius
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 98
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Spawned by [[King Krawkin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Bowchief Cornelius''' is a Normal Minor Enemy in {{XC3}}. It is a member of the [[Igna]] family, and can be found at level 98 in the [[Demihuman Gutter]] of [[Erythia Sea]] when summoned by the [[Unique Monster (XC3)|Unique Monster]] [[King Krawkin]] when it uses the Royal Orders Art. When summoned, it will use an art on the party and then immediately disappear from the battle.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>g3bhisqrbbzmc95mwz0d2llwlfjj43y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bowchief Felix</title>
+    <ns>0</ns>
+    <id>124003</id>
+    <revision>
+      <id>584829</id>
+      <parentid>582321</parentid>
+      <timestamp>2023-04-23T16:28:12Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584829</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1247" sha1="kek2jo2qgrgnzbwmyp8ufsawihcx8bc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bowchief Felix
+|image        = King Krawkin Igna Enemy.jpg
+|caption      = Bowchief Felix
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 98
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Spawned by [[King Krawkin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Bowchief Felix''' is a Normal Minor Enemy in {{XC3}}. It is a member of the [[Igna]] family, and can be found at level 98 in the [[Demihuman Gutter]] of [[Erythia Sea]] when summoned by the [[Unique Monster (XC3)|Unique Monster]] [[King Krawkin]] when it uses the Royal Orders Art. When summoned, it will use an art on the party and then immediately disappear from the battle.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kek2jo2qgrgnzbwmyp8ufsawihcx8bc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bowchief Godwin</title>
+    <ns>0</ns>
+    <id>124007</id>
+    <revision>
+      <id>584830</id>
+      <parentid>582325</parentid>
+      <timestamp>2023-04-23T16:28:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1187" sha1="mbx7cntueh6ht1k26qbi2fvrijte867" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bowchief Godwin
+|image        = King Krawkin Igna Enemy.jpg
+|caption      = Bowchief Godwin
+|category     = Minor Enemy
+|type         = [[Igna]]
+|level        = 98
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Spawned by [[King Krawkin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Bowchief Godwin''' is a Normal Minor Enemy in {{XC3}}. It is a member of the [[Igna]] family, and can be found at level 98 in the [[Demihuman Gutter]] of [[Erythia Sea]], and is summoned by [[King Krawkin]]'s Royal Orders art. When summoned, it will use an art on the party and then immediately disappear from the battle.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mbx7cntueh6ht1k26qbi2fvrijte867</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bowlord Tirkin</title>
+    <ns>0</ns>
+    <id>121810</id>
+    <revision>
+      <id>582269</id>
+      <parentid>559582</parentid>
+      <timestamp>2023-04-09T19:03:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="882" sha1="i4mwtml05qlg90go3xm0yeiol3hqddy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bowlord Tirkin
+|image        = 
+|caption      = Bowlord Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Urayan Trail]]&lt;br/ &gt;[[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Bowlord Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? on the [[Urayan Trail]] in the [[Pentelas Region]] and in [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>i4mwtml05qlg90go3xm0yeiol3hqddy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Braided Belt</title>
+    <ns>0</ns>
+    <id>122609</id>
+    <revision>
+      <id>592722</id>
+      <parentid>592384</parentid>
+      <timestamp>2023-05-15T20:12:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1113" sha1="lj0hyfime86d79xm3yyornhkz4kxb4u" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Braided Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage damage dealt by 50% when attacking an enemy suffering from Bleed.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Braided Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage damage dealt by 55% when attacking an enemy suffering from Bleed.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Braided Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage damage dealt by 60% when attacking an enemy suffering from Bleed.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Braided Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>lj0hyfime86d79xm3yyornhkz4kxb4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Branden</title>
+    <ns>0</ns>
+    <id>123682</id>
+    <revision>
+      <id>597804</id>
+      <parentid>596120</parentid>
+      <timestamp>2023-07-02T16:34:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597804</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2095" sha1="91otqinu46h7vfvojxjovi91r6zwvmk" xml:space="preserve">{{Infobox_NPC
+|name        = Branden
+|image       = Branden.png
+|personality = 
+|time_active = Anytime
+|gender      = Male
+|race        = 
+|age         = 7th Term
+|location    = [[Syra Hovering Reefs]] ([[Colony 11]])
+}}
+'''Branden''' is a NPC in {{XC3}} who can be found in [[Colony 11]].
+
+== Overview ==
+Branden is a part of Colony 11's supply unit alongside [[Hexen]] under [[Easel]]. He is also the chef of Colony 11, and comparatively normal relative to the rest of the Colony, and has been shown to use diplomacy rather than violence to achieve his goals. He was a part of the elite Antares Squad of the [[Keves Castle]] guard in the past, along with [[Zoren]], Hexen, and [[Rattlejack]].
+
+== Affinity ==
+* [[Easel]]
+* [[Hexen]] 
+* [[Rattlejack]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Branden
+|image        = 
+|caption      = Branden
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 66
+|area         = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime    = During ''[[Festival of War]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Branden''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is part of the [[Keves Forces]] and is fought at level 66 in the [[Colony 11, Training Pit]] at [[Syra Hovering Reefs]] during ''[[Festival of War]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>91otqinu46h7vfvojxjovi91r6zwvmk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brave Assault</title>
+    <ns>0</ns>
+    <id>116948</id>
+    <revision>
+      <id>591877</id>
+      <parentid>580993</parentid>
+      <timestamp>2023-05-14T14:35:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="561" sha1="g1t59gi305krre5jetzdjm147f3fvje" xml:space="preserve">{{Infobox battle art
+|name        = Brave Assault
+|image       = Noah Chain Art Icon.png
+|who         = [[Noah]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Attacks during Chain Attack gain 70%-100% chance to bypass defense.
+|duration    = 
+|recharge    = 
+}}
+'''Brave Assault''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Noah]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>g1t59gi305krre5jetzdjm147f3fvje</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brave Vambraces</title>
+    <ns>0</ns>
+    <id>125647</id>
+    <revision>
+      <id>577144</id>
+      <timestamp>2023-02-16T14:37:47Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Brace Vambraces |image     =  |caption   = Boosts damage dealt when attack higher-level enemies by 65%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Brace Vambraces''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{..."</comment>
+      <origin>577144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="595" sha1="nroua075u0wr2ybxhutfpyn0j0zkwgl" xml:space="preserve">{{Infobox item
+|name      = Brace Vambraces
+|image     = 
+|caption   = Boosts damage dealt when attack higher-level enemies by 65%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Brace Vambraces''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>nroua075u0wr2ybxhutfpyn0j0zkwgl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Braying Caterpile</title>
+    <ns>0</ns>
+    <id>121156</id>
+    <revision>
+      <id>559583</id>
+      <parentid>545563</parentid>
+      <timestamp>2022-09-30T10:44:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559583</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="824" sha1="hdfj09qk1qt1dof9gduk14cdm1n4hod" xml:space="preserve">{{Infobox Enemy
+|name         = Braying Caterpile
+|image        = 
+|caption      = Braying Caterpile
+|category     = Minor Enemy
+|type         = [[Caterpile]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Braying Caterpiles''' are Minor Enemies in {{XC3}}. They are members of the [[Caterpile]] family, and can be found at level ? at [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Caterpiles]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>hdfj09qk1qt1dof9gduk14cdm1n4hod</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Break (XC3)</title>
+    <ns>0</ns>
+    <id>117057</id>
+    <revision>
+      <id>594422</id>
+      <parentid>584068</parentid>
+      <timestamp>2023-05-28T15:39:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <origin>594422</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2136" sha1="sunhlymaio64vfmjyokssbfxfvpdxnm" xml:space="preserve">{{for|mechanics from other games|Break}}
+[[File:XC3 Break Icon.png|thumb|Break Icon]]
+'''Break''' is a reaction status in {{XC3}} and {{XC3FR|sublink}}. When inflicted, it staggers the enemy, interrupting any ongoing attacks and allowing the enemy to be [[Topple (XC3)|Toppled]].
+
+The chances of Break being inflicted can be increased by Fury Smash, a class skill of the [[Ogre]] class, and enemy Break resistance can be reduced via [[Break Brooch]]es or [[Accomplished Vambraces]]. The duration of Break can be increased via the [[Chrome Scarf (XC3)|Chrome Scarf]], [[Unicorn Scarf (XC3)|Unicorn Scarf]] or [[Quantum Scarf (XC3)|Quantum Scarf]]. Party members can equip [[Assist Belt]]s, [[Harness Belt]]s or [[Survival Belt]]s to increase their own resistance to Break.
+
+== Break-inflicting Arts ==
+* [[Sword Strike (XC3)|Sword Strike]] ([[Swordfighter]]); Only inflicts Break when attacking from the side.
+* [[Flashback]] ([[Yumsmith]], Master Art); Only inflicts Break when attacking from the side.
+* [[Wok-a-Block]] ([[Riku &amp; Manana]]); Only inflicts Break when attacking from the side.
+* [[Glitter Stream]] ([[Incursor]]); Only inflicts Break when attacking from the side.
+* [[Etched Deep]] ([[Alexandria]]); Only inflicts Break when attacking from the side.
+* [[Tri-Slash]] ([[Noponic Champion]])
+* [[Starry Beat]] ([[Ino]])
+* [[Phantom Slash]] ([[Noah]], [[Ouroboros]]); Only inflicts Break when at [[Interlink]] Level 3.
+* [[Full Moon Drop]] ([[Mio]], Ouroboros); Only inflicts Break when at Interlink Level 3.
+* [[Hawk Shot]] ([[Soulhacker]]); Only inflicts Break when attacking from the side.
+* [[Winning Rush]] ([[Lanz]], Ouroboros); inflicts Break as part of a [[Launch (XC3)|Launch]] combo.
+* [[Final Lucky Seven]] (Noah); inflicts Break as part of a [[Smash (XC3)|Smash]] combo.
+== Break-inflicting Skills ==
+* [[Sena#Skills|Utterly Crushing]] ([[Sena]], Ouroboros); chance to inflict Break when attack would be guarded.
+
+== In {{XC3FR|sub}} ==
+=== Break-inflicting Arts ===
+* [[Backspin Punch]] ([[Matthew (FR)|Matthew]])
+* [[Stream Edge (XC1)|Stream Edge]] ([[Shulk]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>sunhlymaio64vfmjyokssbfxfvpdxnm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Break Brooch</title>
+    <ns>0</ns>
+    <id>118922</id>
+    <revision>
+      <id>592723</id>
+      <parentid>592460</parentid>
+      <timestamp>2023-05-15T20:12:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1071" sha1="0lojlgt0xhdjvxnxblb85aue2kl442t" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Break Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Lowers attack targets' Break resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9150 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Break Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Lowers attack targets' Break resistance by 22 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9150 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Break Brooch
+|image     = XC3 Accessory Medal.png
+|caption   = Lowers attack targets' Break resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9150 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Break Broochs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>0lojlgt0xhdjvxnxblb85aue2kl442t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brilliant Ascension</title>
+    <ns>0</ns>
+    <id>118436</id>
+    <revision>
+      <id>597680</id>
+      <parentid>591878</parentid>
+      <timestamp>2023-07-01T22:05:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>597680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="530" sha1="mfjnon6xz2z1b7mkr6y4flrtxlmylok" xml:space="preserve">{{Infobox battle art
+|name        = Brilliant Ascension
+|image       = Eunie Ouroboros Chain Art Icon.png
+|who         = [[Eunie]] ([[Ouroboros]])
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Greatly increases damage ratio and fully heals all allies.
+|duration    = 
+}}
+'''Brilliant Ascension''' is [[Eunie]]'s [[Ouroboros]] [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Ouroboros Arts]]
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>mfjnon6xz2z1b7mkr6y4flrtxlmylok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brimming Spirit</title>
+    <ns>0</ns>
+    <id>118887</id>
+    <revision>
+      <id>595272</id>
+      <parentid>592015</parentid>
+      <timestamp>2023-06-11T16:38:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595272</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6449" sha1="mlzwnjq0mtx12v0wpk6473ekilz8cx5" xml:space="preserve">{{Infobox Gem
+| name     = Brimming Spirit
+| image    = Gem-defender.png
+| effect   = [Passive] Boosts aggro generated when using Art by ''(value)%''.
+| category = Defender
+| max      = 45%
+}}
+'''Brimming Spirit''' is a Defender [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Aggro Increase
+|-
+!I
+|20%
+|-
+!II
+|22%
+|-
+!III
+|25%
+|-
+!IV
+|27%
+|-
+!V
+|30%
+|-
+!VI
+|32%
+|-
+!VII
+|35%
+|-
+!VIII
+|37%
+|-
+!IX
+|40%
+|-
+!X
+|45%
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Brimming Spirit I
+|[[Gemstone]]&lt;br /&gt;[[Rainbow Crustip Shell]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Brimming Spirit II
+|Gemstone&lt;br /&gt;[[Supersonic Vang Organ]]&lt;br /&gt;[[Fleshy Blant Petal]]&lt;br /&gt;[[Anarchy Orchid]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Brimming Spirit III
+|Gemstone&lt;br /&gt;[[Magnificent Upa Lure]]&lt;br /&gt;[[Noble Feris Mane]]&lt;br /&gt;[[Gold Arachno Queensilk]]&lt;br /&gt;[[Munchygrub Fossil]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Brimming Spirit IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Round Skwaror Crystal]]&lt;br /&gt;[[Marbled Quarmu Meat]]&lt;br /&gt;[[Red Piranhax Egg]]&lt;br /&gt;[[Shiny Rose]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Brimming Spirit V
+|Pure Gemstone&lt;br /&gt;[[Shoox Flower Whisker]] x 2&lt;br /&gt;[[Agnian Soldier's Armor]] x 2&lt;br /&gt;[[Elegant Ansel Feather]] x 2&lt;br /&gt;[[Jade Coral]]&lt;br /&gt;Ether Cylinder x 2 
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Brimming Spirit VI
+| Pure Gemstone&lt;br /&gt;Noble Feris Mane x 2&lt;br /&gt;[[Vollgull Mask]] x 2&lt;br /&gt;Elegant Ansel Feather x 2&lt;br /&gt;[[Perfume Herb]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Brimming Spirit VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Ornate Moglum Coral]] x 2&lt;br /&gt;[[Glowing Gyaark Fin]] x 2&lt;br /&gt;[[Mineral Darbus Bone]] x 3&lt;br /&gt;[[Perfumed Aries Hide]] x 3&lt;br /&gt;[[Curse Branch (XC3)|Curse Branch]]&lt;br /&gt;Ether Cylinder x 2 
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Brimming Spirit VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Rich Quarmu Sea Milk]] x 15&lt;br /&gt;Gold Arachno Queensilk x 15&lt;br /&gt;Glowing Gyaark Fin x 15&lt;br /&gt;Shoox Flower Whisker x 15&lt;br /&gt;[[Shimmer Leaf]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Brimming Spirit IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Avis Sphere]] x 20&lt;br /&gt;[[Rhogul Axe Crest (XC3)|Rhogul Axe Crest]] x 20&lt;br /&gt;[[Gyrinus Halo]] x 20&lt;br /&gt;[[Wisp Sun Bead (XC3)|Wisp Sun Bead]] x 20&lt;br /&gt;[[Green Diode (XC3)|Green Diode]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Brimming Spirit X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Geometric Myoot Gear]] x 30&lt;br /&gt;[[Rainbow Crustip Shell]] x 30&lt;br /&gt;[[Sweet Kapiba Lard]] x 30&lt;br /&gt;[[Merigna Amulet]] x 30&lt;br /&gt;[[Arachno Queen Egg]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Brimming Spirit I
+| [[Gemstone]]&lt;br /&gt;[[Volff Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Brimming Spirit II
+| Gemstone&lt;br /&gt;[[Tirkin Seasoning]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Brimming Spirit III
+| [[Pure Gemstone]]&lt;br /&gt;[[Shoox Flower Whisker]] x2&lt;br /&gt;[[Emblem Adornment]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Brimming Spirit IV
+| Pure Gemstone&lt;br /&gt;[[Rhogul Axe Crest (XC3)|Rhogul Axe Crest]] x2&lt;br /&gt;[[Fibrous Aspar Meat]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Brimming Spirit V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Nutrient-Rich Vollgull Egg]]&lt;br&gt;[[Armored Plambus Wing]] x2&lt;br&gt;[[Wisp Sun Bead (XC3)|Wisp Sun Bead]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>mlzwnjq0mtx12v0wpk6473ekilz8cx5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brish Aspar (XC3)</title>
+    <ns>0</ns>
+    <id>121157</id>
+    <revision>
+      <id>576766</id>
+      <parentid>559584</parentid>
+      <timestamp>2023-02-13T13:57:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="810" sha1="8n9kt8pehg6us9weonu6u4poq418os5" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Brish Aspar (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Brish Aspar
+|image        = 
+|caption      = Brish Aspar
+|category     = Minor Enemy
+|type         = [[Aspar]]
+|level        = ?
+|area         = [[Urayan Tunnels]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Brish Aspars''' are Minor Enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level ? in the [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8n9kt8pehg6us9weonu6u4poq418os5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brog</title>
+    <ns>0</ns>
+    <id>5931</id>
+    <revision>
+      <id>601945</id>
+      <parentid>600708</parentid>
+      <timestamp>2023-07-22T12:18:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4306" sha1="69b7c9hhug9q7u5flhbsdmpt7pjtwxw" xml:space="preserve">[[File:Gluttonous Eugen.png|thumb|The Gluttonous Eugen]]
+'''Brogs''' (Japanese: {{lang|ja|&#12464;&#12525;&#12483;&#12464;}}, ''Guroggu''; [[English dub pronunciations|English dub]]: {{IPA|/&#712;br&#594;&#609;/}}) are a family of frog-like monsters in the {{XC|serieslink}}. This species is close to the [[Rhana]]s but there are less Rhana types than Brog types. In all games, Brogs can usually be found in watery areas.
+
+== {{XC|-}} ==
+In {{XC}}, Brogs are found outside [[Colony 9 (XC1)|Colony 9]], in [[Tephra Cave]], on [[Bionis' Leg]], in [[Satorl Marsh]], and in [[Makna Forest]]. They come in green, purple, and white varieties. The most powerful Brog in the game is the [[Young Brog (XC1)|Young Brog]], found in Tephra Cave at level 95.
+
+=== Normal Minor Enemies ===
+* [[Big Brog]]
+* [[Cute Brog]]
+* [[Detox Brog (XC1)|Detox Brog]]
+* [[Heavy Brog (XC1)|Heavy Brog]]
+* [[Makna Brog]]
+* [[Noble Brog]]
+* [[Poison Brog (XC1)|Poison Brog]]
+* [[Singing Brog]]
+* [[Young Brog (XC1)|Young Brog]]
+
+=== Quest-Exclusive Enemies ===
+* [[Abnormal Brog]] (during ''[[The Greedy Monster]]'')
+* [[Lurker Brog]] (during ''[[A Young Captain's Rise]]'')
+
+=== Unique Monsters ===
+* [[Gentle Rodriguez]]
+* [[Gluttonous Eugen]]
+* [[White Eduardo]]
+
+== {{XCFC|sub}} ==
+In {{XCFC|sublink}}, Brogs are found exclusively on the [[Bionis' Shoulder]].
+
+=== Normal Minor Enemies ===
+* [[Noble Brog]]
+* [[Poison Brog (XC1)|Poison Brog]]
+
+=== Unique Monster ===
+* [[Booming Frederick]]
+{{clr}}
+
+== {{XC2|-}} ==
+In {{XC2}}, Brogs are mainly found in [[Gormott Province]], with a few in [[Temperantia]], the [[Leftherian Archipelago]], and the [[Kingdom of Uraya]]. They come in green, yellow, purple and red varieties. These Brogs look slightly different to the Brogs in {{XC|-}}.
+
+=== Normal Minor Enemies ===
+* [[Bobbile Brog (XC2)|Bobbile Brog]]
+* [[Cave Brog]]
+* [[Goliath Brog (XC2)|Goliath Brog]]
+* [[Pactusk Brog]]
+* [[Poison Brog (XC2)|Poison Brog]]
+* [[Small Brog]]
+
+=== Quest-Exclusive Enemy  ===
+* [[Vacuum Brog]] (During ''[[Into the Open Sky]]'')
+
+=== Unique Monster ===
+* [[Venal Montgomery]]
+
+=== Boss ===
+* [[Wormeater Brog]]
+{{clr}}
+
+== {{TTGC|-}} ==
+In {{TTGC}}, Brogs can be found both in [[Gormott (TTGC)|Gormott]] and the [[Kingdom of Torna]]. They come in green and yellow varieties.
+
+=== Normal Minor Enemy ===
+* [[Dormine Brog]]
+
+=== Quest-Exclusive Enemy  ===
+* [[Appet Brog]] (during ''[[Safety Measures]]'')
+
+=== Unique Monster ===
+* [[Handwringing Bigelow]]
+{{clr}}
+
+== {{XC3|-}} ==
+In {{XC3}}, Brogs can be found in many places across [[Aionios]].
+
+=== Normal Minor Enemies ===
+* [[Begest Brog]]
+* [[Bobbile Brog (XC3)|Bobbile Brog]]
+* [[Detox Brog (XC3)|Detox Brog]]
+* [[Goliath Brog (XC3)|Goliath Brog]]
+* [[Heavy Brog (XC3)|Heavy Brog]]
+* [[Princess Brog]]
+* [[Sweetless Brog]]
+* [[Young Brog (XC3)|Young Brog]]
+
+=== Unique Monsters ===
+* [[Indiscreet Gombaba]]
+* [[Ruthless Grokken]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Bobbile Brog (XC3)|Bobbile Brog]]
+
+=== Unique Monster ===
+* [[Prohibitor Giuseppe]]
+
+== Etymology ==
+''Brog'' and ''Crog'' are both simple analogues of ''frog'', while ''rhana'' comes from the latin genus name ''[https://en.wikipedia.org/wiki/Rana_(genus) rana]'' (pond frogs).
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Cute Brog.jpg
+White Eduardo.jpg
+Poison Brog.jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Wormeater Brog.jpg|Wormeater Brog
+PoisonBrog.jpg|Poison Brog
+Bobbile Brog.png|Bobbile Brog
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+HandwringingBigelow.jpg|Handwringing Bigelow
+AppetBrog.jpg|Appet Brog
+DormineBrog.jpg|Dormine Brog
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Indiscreet Gombaba.jpg|Indiscreet Gombaba
+XC3 Young Brog.jpg|Young Brog
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:XCFC Species]]
+[[Category:Species Category]]
+[[Category:Bionis Life]]
+[[Category:XC Brogs]]
+[[Category:XCFC Brogs]]
+[[Category:Amphibious Enemies]]
+[[Category:Sight Category]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Brogs]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Brogs]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Species]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Brogs]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Brogs]]
+[[Category:Species by Type]]</text>
+      <sha1>69b7c9hhug9q7u5flhbsdmpt7pjtwxw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bronze Choker</title>
+    <ns>0</ns>
+    <id>122857</id>
+    <revision>
+      <id>566316</id>
+      <parentid>566315</parentid>
+      <timestamp>2022-11-19T08:38:45Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>wrong image name</comment>
+      <origin>566316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="989" sha1="op7gdrsi173mqm24hqbfdn4wulwvvjk" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Bronze Choker
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Smash resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5490 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Bronze Choker
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Smash resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5490 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Bronze Choker
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Smash resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5490 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Bronze Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>op7gdrsi173mqm24hqbfdn4wulwvvjk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bronze Gauntlet</title>
+    <ns>0</ns>
+    <id>118923</id>
+    <revision>
+      <id>592724</id>
+      <parentid>592316</parentid>
+      <timestamp>2023-05-15T20:12:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592724</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1068" sha1="5dg4p470udkvdgxxmlxof9hzmgy0dmt" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Bronze Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Bronze Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Bronze Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking from the side by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6730 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Bronze Gauntlets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>5dg4p470udkvdgxxmlxof9hzmgy0dmt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bronze Temple Guard</title>
+    <ns>0</ns>
+    <id>118924</id>
+    <revision>
+      <id>592725</id>
+      <parentid>592254</parentid>
+      <timestamp>2023-05-15T20:12:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592725</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="973" sha1="iwoe47zgenw0m2dqdu4dkudzmusxkqq" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Bronze Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Bronze Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Bronze Temple Guard
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts maximum HP by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Bronze Temple Guards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>iwoe47zgenw0m2dqdu4dkudzmusxkqq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Broo</title>
+    <ns>0</ns>
+    <id>121791</id>
+    <revision>
+      <id>601268</id>
+      <parentid>577734</parentid>
+      <timestamp>2023-07-22T09:58:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Battle */</comment>
+      <origin>601268</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1545" sha1="esll7b3qdnrttmic5oa0i3oo508pv14" xml:space="preserve">{{Infobox_NPC
+|name        = Broo
+|image       = Strm npc 272 0.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Lost Numbers|Lost]] human
+|age         = 
+|location    = [[Great Sword's Base]]
+}}
+'''Broo''' is an NPC in {{XC3}}. She is a member of House Cassini and the leader of the hardliners.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Broo
+|image        = 
+|caption      = Broo
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = 52
+|area         = [[Great Sword's Base]] ([[Hidden Weapon Lab]])
+|spawntime    = During ''[[Payback for Treason]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Broo''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. She is a member of the [[Lost Numbers (enemy)|Lost Numbers]], and can be found at level 52 in the [[Hidden Weapon Lab]] at the [[Great Sword's Base]] during ''[[Payback for Treason]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Cadensia Region NPCs]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>esll7b3qdnrttmic5oa0i3oo508pv14</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Broon Moglum</title>
+    <ns>0</ns>
+    <id>121811</id>
+    <revision>
+      <id>595993</id>
+      <parentid>581335</parentid>
+      <timestamp>2023-06-16T19:37:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2178" sha1="1z9t82pibcfnxkp4bp35cq4rqj1gofk" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Broon Moglum
+|image        = XC3 Broon Moglum.jpg
+|caption      = Broon Moglum
+|category     = Minor Enemy
+|type         = [[Moglum]]
+|level        = 54-59
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Broon Moglums''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Moglum]] family, and can be found at level 54-59 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Broon Moglum
+|image        = 
+|caption      = Broon Moglum
+|type         = [[Moglum]]
+|movement     = 
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 110
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+A Broon Moglum is fought as a [[Boss (XC3)|Boss]] at level 110 alongside a [[Crane Serprond (XC3)|Crane Serprond]] and a [[Grilan Moglum]] at Stage 90 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moglums]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3FR Moglums]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1z9t82pibcfnxkp4bp35cq4rqj1gofk</sha1>
+    </revision>
+  </page>
+</mediawiki>

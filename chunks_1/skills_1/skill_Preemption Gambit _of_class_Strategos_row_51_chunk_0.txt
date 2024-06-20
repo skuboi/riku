@@ -1,0 +1,6 @@
+Skill Name: Preemption Gambit 
+
+Class: Strategos
+
+Skill Buff or Effect:  100% chance to grant all allies Attack Up on a preemptive attack. [Rank 15 Master Skill]
+

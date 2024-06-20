@@ -1,0 +1,6 @@
+Art Name: Overfall
+
+Class: Tactician
+
+Effect: Ether Def. down
+

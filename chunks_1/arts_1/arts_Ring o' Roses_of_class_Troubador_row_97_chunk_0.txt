@@ -1,0 +1,6 @@
+Art Name: Ring o' Roses
+
+Class: Troubador
+
+Effect: Field / Fast charge
+

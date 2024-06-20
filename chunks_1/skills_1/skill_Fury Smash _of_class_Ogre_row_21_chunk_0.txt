@@ -1,0 +1,6 @@
+Skill Name: Fury Smash 
+
+Class: Ogre
+
+Skill Buff or Effect:  Increases reaction success rate by 45 percentage points.
+

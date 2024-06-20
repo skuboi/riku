@@ -1,0 +1,1329 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rampaging Ardun (XC3)</title>
+    <ns>0</ns>
+    <id>123232</id>
+    <revision>
+      <id>560352</id>
+      <parentid>559889</parentid>
+      <timestamp>2022-10-03T16:35:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>560352</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="836" sha1="30y0055pawlmjguodrtvscx5okjqr6t" xml:space="preserve">{{for|the Boss in {{XC2|-}}|Rampaging Ardun (XC2)}}
+{{Infobox Enemy
+|name         = Rampaging Ardun
+|image        = 
+|caption      = Rampaging Ardun
+|category     = Minor Enemy
+|type         = [[Ardun]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rampaging Arduns''' are Minor Enemies in {{XC3}}. They are members of the [[Ardun]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Arduns]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>30y0055pawlmjguodrtvscx5okjqr6t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Randakk Scorpox</title>
+    <ns>0</ns>
+    <id>121073</id>
+    <revision>
+      <id>559890</id>
+      <parentid>545400</parentid>
+      <timestamp>2022-09-30T10:56:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559890</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="enmr42ubwpfoqoc84bzwjvgl08ajok7" xml:space="preserve">{{Infobox Enemy
+|name         = Randakk Scorpox
+|image        = 
+|caption      = Randakk Scorpox
+|category     = Minor Enemy
+|type         = [[Scorpox]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Randakk Scorpoxes''' are Minor Enemies in {{XC3}}. They are members of the [[Scorpox]] family, and can be found at level ? at [[Dannagh Desert (XC3)|Dannagh Desert]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>enmr42ubwpfoqoc84bzwjvgl08ajok7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Randster Igna</title>
+    <ns>0</ns>
+    <id>121092</id>
+    <revision>
+      <id>595204</id>
+      <parentid>559891</parentid>
+      <timestamp>2023-06-11T15:44:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1520" sha1="7bnytnahup81zhe0844qdpathmcw2dn" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Randster Igna
+|image        = Randster Igna.jpg
+|caption      = Randster Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 42
+|area         = [[Elaice Highway]] ([[Nid Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Randster Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 42 in [[Nid Cave]] on [[Elaice Highway]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Randster Igna
+|image        = Randster Igna.jpg
+|caption      = Randster Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 21
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Randster Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 21 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3FR Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>7bnytnahup81zhe0844qdpathmcw2dn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ranger Gulkin</title>
+    <ns>0</ns>
+    <id>121855</id>
+    <revision>
+      <id>559892</id>
+      <parentid>546977</parentid>
+      <timestamp>2022-09-30T10:56:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559892</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="jl4n0qjbnrjsvy8xyhbvjbcp2g8gmrg" xml:space="preserve">{{Infobox Enemy
+|name         = Ranger Gulkin
+|image        = 
+|caption      = Ranger Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Ranger Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>jl4n0qjbnrjsvy8xyhbvjbcp2g8gmrg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ranger Igna (XC3)</title>
+    <ns>0</ns>
+    <id>121705</id>
+    <revision>
+      <id>594295</id>
+      <parentid>560354</parentid>
+      <timestamp>2023-05-27T13:33:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1687" sha1="nnosy8w6tzmp1hf5t89c6invwtd57v7" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Ranger Igna (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Ranger Igna
+|image        = 
+|caption      = Ranger Igna
+|category     = Normal Enemy
+|type         = [[Igna]]
+|level        = 95
+|area         = [[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ranger Ignas''' are Normal Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 95 in [[Rebellion Cave]] in [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Ranger Igna
+|image        = Ranger Igna FR.jpg
+|caption      = Ranger Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 44
+|area         = [[Black Mountains]] ([[Raxeal Lavaflow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Ranger Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 44 at [[Raxeal Lavaflow]] on the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>nnosy8w6tzmp1hf5t89c6invwtd57v7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ranule Amoney</title>
+    <ns>0</ns>
+    <id>122993</id>
+    <revision>
+      <id>573459</id>
+      <parentid>573458</parentid>
+      <timestamp>2023-01-21T13:50:51Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573459</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="0ctlrbd28sl6dqrl60u7bdrz2hleazw" xml:space="preserve">{{Infobox Enemy
+|name         = Ranule Amoney
+|image        = 
+|caption      = Ranule Amoney
+|category     = Minor Enemy
+|type         = [[Amoney]]
+|level        = 49-51
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Ranule Amoneys''' are Minor Enemies in {{XC3}}. They are members of the [[Amoney]] family, and can be found at level 49-51 at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Amoneys]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]</text>
+      <sha1>0ctlrbd28sl6dqrl60u7bdrz2hleazw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rasheen Garaffa</title>
+    <ns>0</ns>
+    <id>121894</id>
+    <revision>
+      <id>600292</id>
+      <parentid>596020</parentid>
+      <timestamp>2023-07-21T10:40:48Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <origin>600292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1152" sha1="7eozgctrpvg6zd4m9pl3mgxrywe74ny" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rasheen Garaffa
+|image        = Rasheen Garaffa.jpg
+|caption      = Rasheen Garaffa
+|category     = Minor Enemy
+|type         = [[Garaffa]]
+|level        = 46-47
+|area         = [[Li Garte Prison Camp]] ([[Perimeter Woodland]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rasheen Garaffas''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Garaffa]] family, and can be found at level 46-47 in the [[Perimeter Woodland]] of [[Li Garte Prison Camp]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Garaffas]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Garaffas]]
+[[Category:XC3FR Weather Dependent Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>7eozgctrpvg6zd4m9pl3mgxrywe74ny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rattle Aspar</title>
+    <ns>0</ns>
+    <id>117148</id>
+    <revision>
+      <id>595965</id>
+      <parentid>583132</parentid>
+      <timestamp>2023-06-16T18:46:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1481" sha1="d1y5k8odetgzdrf13pntv03qt38ldr8" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rattle Aspar
+|image        = XC3 Rattle Aspar Screenshot.jpeg
+|caption      = Rattle Aspar
+|category     = Normal Minor Enemy&lt;br/ &gt;[[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Aspar]]
+|level        = 14 - 15&lt;br/ &gt;43
+|area         = [[Eagus Wilderness]] ([[Racine's Platter]]) 
+|spawntime    = Anytime&lt;br/ &gt;During ''[[Vampiric Rush]]''
+|respawn      = Yes&lt;br/ &gt;No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rattle Aspars''' are Normal Minor enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Aspar]] family, and can be found at level 14 - 15 at [[Racine's Platter]] in the [[Eagus Wilderness]]. One is also fought at level 43 during the second wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Vampiric Rush]]''.
+
+== Drops ==
+* [[Aspar Secretion]]
+* [[Aspar Eyeball]]
+
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Aspars]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>d1y5k8odetgzdrf13pntv03qt38ldr8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rattlejack's Levnis</title>
+    <ns>0</ns>
+    <id>123789</id>
+    <revision>
+      <id>581332</id>
+      <parentid>559305</parentid>
+      <timestamp>2023-04-03T16:11:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1083" sha1="qe3gmjpwpdsut47w8zhlb9iiy0mh348" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rattlejack's Levnis
+|image        = 
+|caption      = Rattlejack's Levnis
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 66
+|area         = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime    = During ''[[Festival of War]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rattlejack's Levnis''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is [[Rattlejack]]'s [[Levnis]] fought at level 66 in the [[Colony 11, Training Pit]] at [[Syra Hovering Reefs]] during ''[[Festival of War]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qe3gmjpwpdsut47w8zhlb9iiy0mh348</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Raucous Ron</title>
+    <ns>0</ns>
+    <id>118690</id>
+    <revision>
+      <id>574623</id>
+      <parentid>574599</parentid>
+      <timestamp>2023-01-29T20:26:43Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574623</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1280" sha1="gbskt15kwzdjlrivznxuff0f3nfx751" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Raucous Ron
+|image        = XC3 Raucous Ron.png
+|caption      = Raucous Ron
+|type         = [[Flier]]
+|level        = 27
+|area         = [[Urayan Tunnels]] ([[Roaring Spring]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 448
+|cp           = 62
+|sp           = 5
+|gold         = 537
+|hp           = 351,900
+|strength     = 337
+|healing      = 214
+|dexterity    = 99
+|agility      = 117
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Raucous Ron''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Flier]] family, and can be found at level 27 at [[Roaring Spring]] in the [[Urayan Tunnels]]. The [[Last Fencer]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Raucous ron location.png
+Raucous ron.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Fliers]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gbskt15kwzdjlrivznxuff0f3nfx751</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ravenous Babayaga</title>
+    <ns>0</ns>
+    <id>119486</id>
+    <revision>
+      <id>574626</id>
+      <parentid>574601</parentid>
+      <timestamp>2023-01-29T20:29:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574626</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1340" sha1="nj025sw2pme46fdcuza07od7mx69fe4" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Ravenous Babayaga
+|image        = XC3 Ravenous Babayaga.png 
+|caption      = Ravenous Babayaga
+|type         = [[Moglum]]
+|level        = 84
+|area         = [[Erythia Sea]] ([[Patulia Bay]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 4,602
+|cp           = 187
+|sp           = 5
+|gold         = 2,499
+|hp           = 5,844,000
+|strength     = 1,318
+|healing      = 679
+|dexterity    = 274
+|agility      = 239
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Ravenous Babayaga''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Moglum]] family, and can be found at level 84 in [[Patulia Bay]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Attack Heal]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|knockback = 75%
+|blowdown = 75%
+|physdebuff = Immune
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Ravenous babayaga location.png
+Ravenous babayaga.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Moglums]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>nj025sw2pme46fdcuza07od7mx69fe4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ravoon</title>
+    <ns>0</ns>
+    <id>119173</id>
+    <revision>
+      <id>602093</id>
+      <parentid>600802</parentid>
+      <timestamp>2023-07-22T12:27:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="svhdh33ysuckfq9yvkeo55iqn1hzhl6" xml:space="preserve">'''Ravoons''' are a family of aquatic enemies in {{XC3}} and {{XC3FR|sublink}}. They resemble large Sea dragons, and can be found throughout the [[Erythia Sea]].
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Ugend Ravoon]]
+
+=== Unique Monsters ===
+* [[Levialord Empireo]] ([[Superboss]])
+
+{{clr}}
+
+== {{XC3FR|sub}} ==
+There is only one Ravoon enemy in {{XC3FR|sub}}.
+* [[Thunderfish Duna-Roa]] ([[Superboss]])
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Levialord Empireo.png|Levialord Empireo
+thunderfishDunaRoa.jpg|Thunderfish Duna-Roa
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Ravoons]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Ravoons]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Ravoons]]
+[[Category:Species by Type]]</text>
+      <sha1>svhdh33ysuckfq9yvkeo55iqn1hzhl6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Reaping Anteel</title>
+    <ns>0</ns>
+    <id>119508</id>
+    <revision>
+      <id>583313</id>
+      <parentid>574602</parentid>
+      <timestamp>2023-04-17T16:03:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1410" sha1="gyiohx9sh2o06d8ib0w9mov6l8l4to9" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Reaping Anteel
+|image        = XC3 Reaping Anteel.png
+|caption      = Reaping Anteel
+|type         = [[Horrish]]
+|level        = 72
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 2|Ferronis Arsenal #2]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 4,450
+|cp           = 187
+|sp           = 5
+|gold         = 2,037
+|hp           = 3,434,400
+|strength     = 1,900
+|healing      = 528
+|dexterity    = 360
+|agility      = 306
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Reaping Anteel''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Horrish]] family, and can be found at level 72 on the east side of [[Ferronis Arsenal 2|Ferronis Arsenal #2]] in the [[Origin Interior]]. The [[Soulhacker#Enemy Skills|Healing Mastery]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Reaping anteel location.png
+Reaping anteel.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Horrishes]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gyiohx9sh2o06d8ib0w9mov6l8l4to9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rebul Pagul</title>
+    <ns>0</ns>
+    <id>123237</id>
+    <revision>
+      <id>559897</id>
+      <parentid>553573</parentid>
+      <timestamp>2022-09-30T10:56:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559897</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="772" sha1="728urkjjw553oeep4ivhd7e042oz5hr" xml:space="preserve">{{Infobox Enemy
+|name         = Rebul Pagul
+|image        = 
+|caption      = Rebul Pagul
+|category     = Minor Enemy
+|type         = [[Pagul]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rebul Paguls''' are Minor Enemies in {{XC3}}. They are members of the [[Pagul]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Paguls]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>728urkjjw553oeep4ivhd7e042oz5hr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Recovery Up (XC3)</title>
+    <ns>0</ns>
+    <id>125798</id>
+    <revision>
+      <id>587581</id>
+      <parentid>587117</parentid>
+      <timestamp>2023-05-02T12:31:45Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587581</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="908" sha1="fw13ocmc7ss7vkvesf7d0dqdumbulj9" xml:space="preserve">{{For|the gem in {{XC}}|Recovery Up (XC1)}}
+{{Infobox XC3 Status
+|title          = Recovery Up
+|image          = XC3 Recovery Up.png
+|caption        = Boosts amount of HP healed.
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base Recovery Boost
+|effect-value-1 = 50%
+}}
+'''Recovery Up''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It increases the HP healed whenever the affected character uses Arts or skills with healing effects.
+
+==Distribution==
+''The playable party has no means of attaining the buff outside of random methods. Though numerous skills and accessories replicate its effects, they are not listed here since they do not provide the buff.''
+
+===Enemy-only Arts===
+*Physical Boost ([[Keves Forces]] healers)
+*Battle Assist ([[Agnus Forces]] healers)
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>fw13ocmc7ss7vkvesf7d0dqdumbulj9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Red Schorl</title>
+    <ns>0</ns>
+    <id>125617</id>
+    <revision>
+      <id>595709</id>
+      <parentid>577062</parentid>
+      <timestamp>2023-06-16T11:32:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="536" sha1="h4iz8z8iossll8zciv0tboscvvnwql9" xml:space="preserve">{{Infobox item
+|name      = Red Schorl
+|image     = XC3 key item.png
+|caption   = "High-purity rose quartz crystal mined on Corne Island."
+|type      = Key Item
+|xc3rarity = Common
+|source    = [[Corne Island]], during ''[[For the Sake of Keepsakes]]''
+|sell      = N/A
+}}
+'''Red Schorl''' is a DLC [[Key Item]] in {{XC3}}. It can be obtained on [[Corne Island]] during the [[Quest (XC3)|Quest]] ''[[For the Sake of Keepsakes]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Key Items]]
+[[Category:XC3 Quest Items]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>h4iz8z8iossll8zciv0tboscvvnwql9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Reduce All</title>
+    <ns>0</ns>
+    <id>125916</id>
+    <revision>
+      <id>580540</id>
+      <parentid>580521</parentid>
+      <timestamp>2023-03-26T01:24:33Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>this does not work pre-chapter 6</comment>
+      <origin>580540</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1109" sha1="1hg24oo2tc5988orjbbj671oewfjw8n" xml:space="preserve">{{spoiler}}
+{{Infobox XC3 Status
+|title = Reduce All
+|caption = Reduces Dmg. / Acc. / Evas. / Def.
+|image = File:XC3 Reduce All.png
+|type = Debuff
+| attribute = Ether
+| base-duration = 60.0s
+| max-duration = 60.0s
+| rng-applicable = No
+| effect-title-1 = Base Attack Decrease
+| effect-value-1 = 30%
+| effect-title-2 = Base Defense Decrease
+| effect-value-2 = 50%
+| effect-title-3 = Base Accuracy/Evasion Decrease
+| effect-value-3 = 30%
+| effect-title-4 = Remarks
+| effect-value-4 = Debuff always succeeds, bypassing enemy resistances and immunities. Cannot be cleansed.
+}}
+'''Reduce All''' is a [[Status Effect]] in {{XC3}}. It reduces the affected character's attack, defense, accuracy and evasion, greatly weakening them.
+
+The debuff can only be inflicted through the use of the [[Origin Blade]] [[Talent Art]]. This Talent Art can be accessed by [[Noah]]'s [[Ouroboros]] when he Interlinks while [[Unlimited Sword]] is active, or when Interlinking at level 3 after unlocking Unlimited Sword, in which case the Talent Art is only available when the Ouroboros is close to overheating.
+[[Category:XC3 Status]]</text>
+      <sha1>1hg24oo2tc5988orjbbj671oewfjw8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Refined Blessing</title>
+    <ns>0</ns>
+    <id>118897</id>
+    <revision>
+      <id>595266</id>
+      <parentid>595258</parentid>
+      <timestamp>2023-06-11T16:32:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6329" sha1="9vat7rku39rahto95v8u05g1n54elt6" xml:space="preserve">{{Infobox Gem
+| name     = Refined Blessing
+| image    = Gem-healer.png
+| effect   = [Passive] Extends duration of buff effects issued by self by ''(value)%''.
+| category = Healer
+| max      = 50%
+}}
+'''Refined Blessing''' is a Healer [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Buff Boost Duration
+|-
+!I
+|25%
+|-
+!II
+|27%
+|-
+!III
+|30%
+|-
+!IV
+|33%
+|-
+!V
+|35%
+|-
+!VI
+|37%
+|-
+!VII
+|40%
+|-
+!VIII
+|42%
+|-
+!IX
+|45%
+|-
+!X
+|50%
+|}
+
+== List of Gems ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required item/s is/are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+| Refined Blessing I
+|[[Gemstone]]&lt;br /&gt;[[Red Piranhax Egg]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Refined Blessing II
+|Gemstone&lt;br /&gt;[[Rainbow Crustip Shell]]&lt;br /&gt;[[Flier Pollen]]&lt;br /&gt;[[Honey Lily]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Refined Blessing III
+|Gemstone&lt;br /&gt;[[Supersonic Vang Organ]]&lt;br /&gt;[[Magnificent Upa Lure]]&lt;br /&gt;[[Full-Bodied Ardun Meat]]&lt;br /&gt;[[Citribell]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Refined Blessing IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Krammit Device Fragment]]&lt;br /&gt;[[Gooey Upa Egg]]&lt;br /&gt;[[Rich-Smelling Anlood Bone]]&lt;br /&gt;[[Oil Lentil]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Refined Blessing V
+|Pure Gemstone&lt;br /&gt;[[Bitter Quadwing Powder]] x 2&lt;br /&gt;[[Eluca Tailtip]] x 2&lt;br /&gt;[[Sweet Pagul Body]] x 2&lt;br /&gt;[[Albinite]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Refined Blessing VI
+| Pure Gemstone&lt;br /&gt;[[Round Skwaror Crystal]] x 2&lt;br /&gt;[[Volff Meat]] x 2&lt;br /&gt;[[Equites Loading Core]] x 2&lt;br /&gt;[[Rockabye Basalt]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+| Refined Blessing VII 
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Marrin Bone]] x 2&lt;br /&gt;[[Antol Leg Chitin]] x 2&lt;br /&gt;[[Well-Aged Camill Juices]] x 3&lt;br /&gt;[[Amoney Flower Lure]] x 3&lt;br /&gt;[[Obsidian Berry]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Refined Blessing VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Tirkin Service Medal]] x 15&lt;br /&gt;Red Piranhax Egg x 15&lt;br /&gt;[[Star-Shaped Droid Screw]] x 15&lt;br /&gt;Eluca Tailtip x 15&lt;br /&gt;[[Fluffy Cloud Ear]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Refined Blessing IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Agnian Dog Tag]] x 20&lt;br /&gt;[[Round Amoney Tentacle]] x 20&lt;br /&gt;[[Silver Ravoon Bone]] x 20&lt;br /&gt;[[Zapneedle Marrin Carapace]] x 20&lt;br /&gt;[[Lagoonite]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+| Refined Blessing X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Fine Ageshu Wing]] x 30&lt;br /&gt;[[Volffskin]] x 30&lt;br /&gt;[[Thick Moramora Fin]] x 30&lt;br /&gt;[[Vokooku Backbone]] x 30&lt;br /&gt;Agnian Dog Tag x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Refined Blessing I
+| [[Gemstone]]&lt;br /&gt;[[Krammit Viscera]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Refined Blessing II
+| Gemstone&lt;br /&gt;[[Hard Eggshell]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Refined Blessing III
+| [[Pure Gemstone]]&lt;br /&gt;[[Refreshing Piranhax Meat]] x2&lt;br /&gt;[[Igna Rejuvenator]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Refined Blessing IV
+| Pure Gemstone&lt;br /&gt;[[Aromatic Anlood Meat]] x2&lt;br /&gt;[[Standard Decoration]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Refined Blessing V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Garaffa Electrical Organ]]&lt;br&gt;[[Luminescent Laia Fin]] x2&lt;br&gt;[[Tirkin Seasoning]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>9vat7rku39rahto95v8u05g1n54elt6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Refined Incantation</title>
+    <ns>0</ns>
+    <id>118892</id>
+    <revision>
+      <id>595265</id>
+      <parentid>592026</parentid>
+      <timestamp>2023-06-11T16:31:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6483" sha1="datf4pt0hjin7fwwfxgg01l41x3vcur" xml:space="preserve">{{Infobox Gem
+| name     = Refined Incantation
+| image    = Gem-attacker.png
+| effect   = [Passive] Extends duration timers of debuffs applied to enemies by ''(value)%''.
+| category = Attacker
+| max=50%
+}}
+'''Refined Incantation''' is an Attacker [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Debuff Timer Extension
+|-
+!I
+|25%
+|-
+!II
+|27%
+|-
+!III
+|30%
+|-
+!IV
+|33%
+|-
+!V
+|35%
+|-
+!VI
+|37%
+|-
+!VII
+|40%
+|-
+!VIII
+|42%
+|-
+!IX
+|45%
+|-
+!X
+|50%
+|}
+
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="sortable xc1 centered" width=100%
+!Name!!Ingredients
+!Rarity !!Coin Cost
+|-
+| Refined Incantation  I
+| [[Gemstone]]&lt;br /&gt;[[Bunnit Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Refined Incantation II
+|Gemstone&lt;br /&gt;[[Volffskin]]&lt;br /&gt;[[Aspar Secretion]]&lt;br /&gt;[[Ether Penguin Fossil]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Refined Incantation III
+|Gemstone&lt;br /&gt;[[Arachno Queen Egg]]&lt;br /&gt;[[Gooey Upa Egg]]&lt;br /&gt;[[Rare Urchon Egg]]&lt;br /&gt;[[Serenity Jet]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Refined Incantation IV
+| [[Pure Gemstone]]&lt;br /&gt;[[Treasured Gogol Liquor]]&lt;br /&gt;[[Agnian Soldier's Armor]]&lt;br /&gt;[[Powdered Skwaror Leaves]]&lt;br /&gt;[[Oil Lentil]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Refined Incantation V
+|Pure Gemstone&lt;br /&gt;[[Sharp Gyaark Tail]] x 2&lt;br /&gt;[[Mild Camill Powder]] x 2&lt;br /&gt;[[Rainbow Crustip Shell]] x 2&lt;br /&gt;[[Fire Pepper (XC3)|Fire Pepper]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Refined Incantation VI 
+|Pure Gemstone&lt;br /&gt;[[Bitter Quadwing Powder]] x 2&lt;br /&gt;[[Perfumed Aries Hide]] x 2&lt;br /&gt;[[Magnificent Upa Lure]] x 2&lt;br /&gt;[[Crimson Moonbloom]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Refined Incantation VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Enlightened Rhana Eyeball]] x 2&lt;br /&gt;[[Fine Ageshu Wing]] x 2&lt;br /&gt;[[Zapneedle Marrin Carapace]] x 3&lt;br /&gt;[[Merfrey Skull]] x 3&lt;br /&gt;[[Curse Branch (XC3)|Curse Branch]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Refined Incantation VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Decorative Grebel Quill]] x 15&lt;br /&gt;Treasured Gogol Liquor x 15&lt;br /&gt;[[Gastrates Ether Furnace]] x 15&lt;br /&gt;[[Gyrinus Halo]] x 15&lt;br /&gt;[[Oil Oyster Fossil]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Refined Incantation IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Kevesi Dog Tag]] x 20&lt;br /&gt;[[Well-Aged Camill Juices]] x 20&lt;br /&gt;[[Ulula Generator]] x 20&lt;br /&gt;Enlightened Rhana Eyeball x 20&lt;br /&gt;[[Warning Lamp (XC3)|Warning Lamp]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Refined Incantation X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Enpedia Headpiece]] x 30&lt;br /&gt;Merfrey Skull x 30&lt;br /&gt;Aspar Secretion x 30&lt;br /&gt;[[Electrified Vvarga Skull]] x 30&lt;br /&gt;[[Droid Tube]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Refined Incantation I
+| [[Gemstone]]&lt;br /&gt;[[Krammit Viscera]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Refined Incantation II
+| Gemstone&lt;br /&gt;[[Fibrous Aspar Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Refined Incantation III
+| [[Pure Gemstone]]&lt;br /&gt;Fibrous Aspar Meat x2&lt;br /&gt;[[Symbol Ornament]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Refined Incantation IV
+| Pure Gemstone&lt;br /&gt;[[Glowing Gyaark Fin]] x2&lt;br /&gt;[[Garaffa Electrical Organ]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Refined Incantation V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Luminescent Laia Fin]]&lt;br&gt;[[Decorative Grebel Quill]] x2&lt;br&gt;Fibrous Aspar Meat x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>datf4pt0hjin7fwwfxgg01l41x3vcur</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Regenerate (XC3)</title>
+    <ns>0</ns>
+    <id>125826</id>
+    <revision>
+      <id>587575</id>
+      <parentid>587573</parentid>
+      <timestamp>2023-05-02T12:25:22Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>587575</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1806" sha1="mog4w8d2alvbubhgqfflzrlhg9vhjgn" xml:space="preserve">{{For|the buff in {{XC}}|Regenerate (XC1)}}
+{{Spoiler}}
+{{Infobox XC3 Status
+|title          = Regenerate
+|caption        = Heals HP at fixed intervals.
+|image          = XC3 Regenerate.png
+|type           = Buff
+|base-duration  = 30.0s
+|max-duration   = 60.0s
+|rng-applicable = No
+|effect-title-1 = Base Healing Amount (per tick)
+|effect-value-1 = 1.5% of character's max HP (player's party)&lt;br&gt;0.25% of character's max HP (enemies)
+|effect-title-2 = Tick Duration
+|effect-value-2 = 1.5s
+}}
+'''Regenerate''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It periodically heals the affected character over time.
+
+== Distribution ==
+=== Arts ===
+* [[Autumn Rain]] ([[Troubadour]])
+* [[Sweet Breeze]] ([[Miyabi]])
+* [[Fleeting Form]] ([[Taion]]'s [[Ouroboros]])
+* [[Bullet Hail]] ([[Valdi]]'s [[Chain Attack (XC3)|Chain Order]])
+
+=== Field Effects ===
+There are four distinct versions of fields with Regenerate effects, each with different parameters based on the field setter's Healing Power (as opposed to the affected character's HP) and tick duration. They are grouped by parameter values.
+==== 100% of Healing Power every 2.0s ====
+* [[Pride of Place]] ([[Lapidarist]]; also has [[Blaze (XC3)|Blaze]] effect)
+
+==== 100% of Healing Power every 3.0s ====
+* [[Healing Ring]] ([[Medic Gunner]])
+
+==== 75% of Healing Power every 3.0s ====
+* [[Waterlily]] ([[Lifesage]])
+* [[Redeeming Bloom]] ([[Nia]])
+
+==== 50% of Healing Power every 2.0s ====
+* [[Moondog]] ([[Strategos]])
+* [[Heal Harmony]] ([[Signifer]])
+* [[Life Plant]] ([[Soulhacker]]; requires Soul Hacking [[Gorgeous Mandora]])
+* [[Power Raiser]] ([[Noah]], [[Unlimited Sword]] in a [[Healer]] role)
+* [[Gyreflow]] ([[Isurd]])
+* [[Unbreakable Heart]] ([[Fiona]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>mog4w8d2alvbubhgqfflzrlhg9vhjgn</sha1>
+    </revision>
+  </page>
+  </mediawiki>

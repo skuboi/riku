@@ -1,0 +1,6 @@
+Skill Name: Slicey-Dicey!
+
+Class: Yumsmith
+
+Skill Buff or Effect:  Boosts field damage dealt by 200%. [Rank 15 Master Skill]
+

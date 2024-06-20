@@ -1,0 +1,6 @@
+Art Name: Soaring Tempest
+
+Class: Lone Exile
+
+Effect: Launch
+

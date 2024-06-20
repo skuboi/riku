@@ -1,0 +1,6 @@
+Art Name: Demolition Bullet
+
+Class: Na'el
+
+Effect: Bind
+

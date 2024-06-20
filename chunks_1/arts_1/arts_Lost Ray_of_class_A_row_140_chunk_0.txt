@@ -1,0 +1,6 @@
+Art Name: Lost Ray
+
+Class: A
+
+Effect: AOE/Acc. down
+

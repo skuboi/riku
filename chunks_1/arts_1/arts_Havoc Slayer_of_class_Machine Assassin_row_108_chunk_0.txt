@@ -1,0 +1,6 @@
+Art Name: Havoc Slayer
+
+Class: Machine Assassin
+
+Effect: AOE / Spread debuffs
+

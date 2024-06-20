@@ -1,0 +1,6 @@
+Art Name: Power Ring
+
+Class: Medic Gunner
+
+Effect: Field / Atk up
+

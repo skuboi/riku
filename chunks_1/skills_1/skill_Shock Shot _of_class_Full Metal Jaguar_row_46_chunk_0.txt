@@ -1,0 +1,6 @@
+Skill Name: Shock Shot 
+
+Class: Full Metal Jaguar
+
+Skill Buff or Effect:  Boosts damage against enemies performing Arts by 100%. [Rank 15 Master Skill]
+

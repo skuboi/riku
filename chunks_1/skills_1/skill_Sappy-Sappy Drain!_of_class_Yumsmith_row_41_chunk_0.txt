@@ -1,0 +1,6 @@
+Skill Name: Sappy-Sappy Drain!
+
+Class: Yumsmith
+
+Skill Buff or Effect:  Increases success rate of debuff effects by 25 percentage points. [Rank 5 Master Skill]
+

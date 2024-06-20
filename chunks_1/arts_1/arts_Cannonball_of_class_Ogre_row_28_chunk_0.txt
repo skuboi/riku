@@ -1,0 +1,6 @@
+Art Name: Cannonball
+
+Class: Ogre
+
+Effect: Dazed_
+

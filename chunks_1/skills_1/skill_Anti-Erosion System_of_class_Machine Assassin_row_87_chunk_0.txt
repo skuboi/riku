@@ -1,0 +1,6 @@
+Skill Name: Anti-Erosion System
+
+Class: Machine Assassin
+
+Skill Buff or Effect:  Grants 50% resistance to all debuffs. [Rank 15 Master Skill]
+

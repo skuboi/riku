@@ -1,0 +1,6 @@
+Skill Name: Abundant Oceans 
+
+Class: Lifesage
+
+Skill Buff or Effect:  Reduces damage to allies by 15%, and boosts HP recovery by 15% (does not stack). [Rank 15 Master Skill]
+

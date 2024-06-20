@@ -1,0 +1,6 @@
+Art Name: Twin Moons
+
+Class: Troubador
+
+Effect: Remove buffs
+

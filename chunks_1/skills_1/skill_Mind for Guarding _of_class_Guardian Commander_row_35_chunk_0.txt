@@ -1,0 +1,6 @@
+Skill Name: Mind for Guarding 
+
+Class: Guardian Commander
+
+Skill Buff or Effect:  Increases damage reduction rate when blocking by 20 percentage points. [Rank 15 Master Skill]
+

@@ -1,0 +1,6 @@
+Art Name: Butterfly Blade
+
+Class: Zephyr
+
+Effect: High aggro
+

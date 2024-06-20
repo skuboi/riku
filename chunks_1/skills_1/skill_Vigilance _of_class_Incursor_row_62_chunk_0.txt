@@ -1,0 +1,6 @@
+Skill Name: Vigilance 
+
+Class: Incursor
+
+Skill Buff or Effect:  Boosts Critical Rate of auto-attacks by 150%. [Rank 5 Master Skill]
+

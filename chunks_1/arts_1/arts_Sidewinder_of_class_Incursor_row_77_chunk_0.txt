@@ -1,0 +1,6 @@
+Art Name: Sidewinder
+
+Class: Incursor
+
+Effect: AOE/Back Crit. Rate+
+

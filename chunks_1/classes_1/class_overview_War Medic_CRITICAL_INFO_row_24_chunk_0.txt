@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: War Medic
+
+Overview: War Medics specialize in combat support, such as recovery and strengthening the abilities of their companions. They have a [[Battle Arts (XC3)|Talent Art]] that can [[Hit Points (XC3)|heal]] all of their allies. War Medic is the class of [[Valdi]].
+
+It is unlocked by completing the [[Hero Quest]] ''[[The Kind Right Hand]]''. The [[Class Rank (XC3)|Class Rank]] limit can be increased to 20 by completing the Ascension Quest ''[[I'm a Mechanic]]''.
+
+Arts: {'Technical Heal': 'Heal party', 'Multi Blast': 'Area heal on hit (Rank 1 Master Art)', 'Heal Bullet |Heal Bullet': 'AOE / Heal', 'Advanced Cooldown': 'Field / Def. up (Rank 10 Master Art)', 'Cure Bullet |Cure Bullet': 'AOE/Clear debuffs/Debf. barrier', 'Vital Bullet': 'AOE / Delayed healing'}
+
+Class Skills: {'Recovery Engine': 'Removing debuffs boosts own Healing Power by 30-50% (up to a maximum of 150%).', 'Healing License': 'Boosts amount of HP healed from using healing Arts by 20-30%. (Rank 5 Master Skill)', 'Rescue License': 'Increases HP restored when reviving an ally by 20-40%.', 'Antibody System': 'Shortens duration of debuffs on self by 30-50%. (Rank 15 Master Skill)'}
+
+Hero Exclusive Arts: {'Trickshot': 'Area heal on hit', 'Hyper Reload': 'Field / Def. up', 'Surprise Beat': 'Atk down / Machines↑'}
+

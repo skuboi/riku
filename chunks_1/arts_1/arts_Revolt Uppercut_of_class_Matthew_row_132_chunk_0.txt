@@ -1,0 +1,6 @@
+Art Name: Revolt Uppercut
+
+Class: Matthew
+
+Effect: Evade/Cancel attack _
+

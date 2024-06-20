@@ -1,0 +1,6 @@
+Skill Name: Medical Mind 
+
+Class: Medic Gunner
+
+Skill Buff or Effect:  Boosts amount of HP healer from using healing Arts by 30%.
+

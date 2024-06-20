@@ -1,0 +1,3294 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jurass Blant</title>
+    <ns>0</ns>
+    <id>121191</id>
+    <revision>
+      <id>594674</id>
+      <parentid>594672</parentid>
+      <timestamp>2023-05-31T12:33:20Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="876" sha1="ev3iqrwxtt4drk69zeg5ca338zczl94" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Jurass Blant
+|image        = 
+|caption      = Jurass Blant
+|category     = Normal Minor Enemy
+|type         = [[Blant]]
+|level        = 95
+|area         = [[Low Maktha Wildwood]] ([[Cavern of Oblivion]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Jurass Blants''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Blant]] family, and can be found at level 95 in the [[Cavern of Oblivion]] in [[Low Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Blants]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ev3iqrwxtt4drk69zeg5ca338zczl94</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>K</title>
+    <ns>0</ns>
+    <id>118609</id>
+    <revision>
+      <id>595836</id>
+      <parentid>579693</parentid>
+      <timestamp>2023-06-16T15:01:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Screenshots */</comment>
+      <origin>595836</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7530" sha1="t5gk0tuqxqcfuw97zsy4p68wkk67fe7" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = K
+|image         = Consul K.png
+|species       = [[Moebius]]&lt;br /&gt;Human (formerly)
+|age           = 
+|gender        = Male
+|haircolor     = Gray
+|eyecolor      = Red
+|affiliation   = [[Consul]]s
+|appearances   = {{XC3}}
+|voiceactorjp  = [[wikipedia:Mitsuo Iwata|Mitsuo Iwata]]
+|voiceactoreng = [https://www.imdb.com/name/nm0583534/?ref_=ttfc_fc_cl_t95 Eric Meyers]
+}}
+{{quote|It's the big bad boss. Boo!|K}}
+'''K''' is a character in {{XC3}}.
+
+== Overview ==
+K is the [[Consul]] of Colony 4, Ethel describes his as a "particularly punctual sort of character."
+
+== Story ==
+[[File:Consul K Meeting.png|thumb|210px|left|K discussing business with Ethel and Borealis]]
+K first appears looking at [[D]]'s signal that [[Ouroboros]] has reemerged. He then has the other colonies turn on them like the other [[Consul]]s. K is present at [[Origin]] during an argument between the other Consuls. After [[Z]] interrupts their argument, [[N]] appears from the shadows to ask K if he will go to fight Ouroboros to which he agrees.
+
+Arriving at [[Colony 4]], K is greeted by [[Ethel]] and [[Bolearis]] but he is displeased by the dust and [[Weather (XC3)|fog]] surrounding the Colony, mockingly stating that the place befits its Dirt rank status. Inside his quarters, K reveals the reason for his visit to Ethel, requesting that she take care of some ''"vermin"'', a band of deserters from both sides. Ensuring their complete loyalty, K manipulates the Irises of Ethel and her soldiers so that they will see [[Noah]] and his allies as enemies as part of his plan.
+
+[[File:Nourish-Moebius.png|thumb|210px|K's Moebius form, consuming energy from Colony 4's Flame Clock]]
+While passing through the [[Eagus Wilderness]], Noah and his allies are hunted down by Ethel and Colony 4's [[Ferronis]]. The party retreat into an area filled with [[Black Fog]] which affects K's control over Ethel's Iris and allows her to see their true identities. Angered, K teleports in front of the party to fight them himself, deeming Ethel pathetic and striking her with lightning. Though K is easily defeated by the party in his base form, he transforms into his [[Moebius]] form and consumes the life energy from Colony 4's [[Flame Clock]], causing the party to stand down out of fear of hurting their friends. Noah hatches a plan to break the Flame Clock despite the risks but his and Mio's attempt is unsuccessful due to Noah's Blade being unable to cut through the Ferronis. With [[Riku]]'s encouragement, Noah tries again to break the Flame Clock, this time using [[Lucky Seven]] and is successful, much to K's utter surprise and confusion. With the Flame Clock broken, Noah and the party are able to easily defeat K who cries out in fear as he dies.
+
+[[File:K Unmasked.png|thumb|210px|left|right|K is unmasked]]
+After K's defeat, [[Lanz]] decides to remove his mask and the party are surprised to find that his face is old and wrinkled like [[Guernica Vandham]]'s, with [[Eunie]] questioning if this is what aging is like. As Ethel comes to her senses, K's body fades away and Noah, feeling K's essence brush past him, decides to send him off in spite of his evil acts in life, though the others were surprised he'd do that.
+{{clr}}
+
+== Legacy ==
+Because using his own Iris has led him to his own death, the other Consuls comments that K is a "one-trick pony". Furthermore, all of them have abandoned that method of controlling their colonies entirely. Although, [[B]] thought K's plan was sound and would've worked if he hadn't had the bad luck of there being Black Fog in the area.
+
+The artist [[Stefaan]] is revealed to have painted a portrait of K prior to his demise, having previously been a fan of the Consul. The Ouroboros take this portrait to the [[City]] to be appraised by [[Wellwell]] to help further Stefaan's artistic ambitions.
+{{clr}}
+
+== Battles ==
+&lt;div style="float: right;"&gt;&lt;tabber&gt;
+|-|Consul K =
+{{Infobox XC3 Enemy
+|name         = Consul K
+|image        = Consul K.jpg
+|caption      = Consul K
+|category     = Boss
+|type         = [[Consul (enemy)|Consul]]
+|level        = 17
+|area         = [[Eagus Wilderness]] ([[Colony 4]])
+|spawntime    = Anytime
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 504
+|cp           = 300
+|sp           = 0
+|gold         = 0
+|hp           = 99,000
+|strength     = 250
+|healing      = 125
+|dexterity    = 63
+|agility      = 41
+|physdef      = 30%
+|ethdef       = -10%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+
+|-|Moebius K =
+{{Infobox XC3 Enemy
+|name         = Moebius K
+|image        = Moebius K.jpg
+|caption      = Moebius K
+|category     = Boss
+|type         = [[Moebius]]
+|level        = 17
+|area         = [[Eagus Wilderness]] ([[Colony 4]])
+|spawntime    = Anytime
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 672
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 216,000
+|strength     = 314
+|healing      = 125
+|dexterity    = 63
+|agility      = 41
+|physdef      = 30%
+|ethdef       = -10%
+|critrate     = 0%
+|guardrate-front   = 15%
+|guardrate-side    = 15%
+|guardrate-back    = 0%
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Consul K''' is a [[Boss (XC3)|Boss]] who is a [[Consul (enemy)|Consul]] and is fought at level 17 at [[Colony 4]] in [[Eagus Wilderness]].
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 25%
+|etherdebuff = 30%
+}}
+'''Moebius K''' is a Boss who is a [[Moebius]] and is fought at level 17 at [[Colony 4]] in [[Eagus Wilderness]].
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 65%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius K
+|image        = XC3 Moebius K DLC Battle.jpg
+|caption      = Moebius K
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|type         = [[Moebius]]
+|level        = 73
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Stage of Destiny]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 5,824
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 1,188,280
+|strength     = 1,337
+|healing      = 458
+|dexterity    = 241
+|agility      = 146
+|physdef      = 30%
+|ethdef       = -10%
+|critrate     = 0%
+|guardrate-front   = 15%
+|guardrate-side    = 15%
+|guardrate-back    = 0%
+}}
+'''Moebius K''' is fought at level 73 during the second wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]''.
+{{clr}}
+
+== Trivia ==
+* Given K's elderly appearance when unmasked, it is likely that he was a member of the [[Lost Numbers]] prior to becoming a Consul, rather than a [[Keves]]i or [[Agnus|Agnian]] soldier.
+{{clr}}
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Consuls K and X.jpg|Consul and Moebius K concept art
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+K Homecoming.jpg|K fading
+&lt;/gallery&gt;
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Consul Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]</text>
+      <sha1>t5gk0tuqxqcfuw97zsy4p68wkk67fe7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kaalm Garaffa</title>
+    <ns>0</ns>
+    <id>121903</id>
+    <revision>
+      <id>579880</id>
+      <parentid>559730</parentid>
+      <timestamp>2023-03-21T16:44:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>level and location info</comment>
+      <origin>579880</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1067" sha1="laweg7t8tautsx403o7rm6hpj2bg5td" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kaalm Garaffa
+|image        = 
+|caption      = Kaalm Garaffa
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Garaffa]]
+|level        = 48
+|area         = [[Li Garte Prison Camp]] ([[Perimeter Woodland]])
+|spawntime    = During ''[[Third Day of Prison]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kaalm Garaffas''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Garaffa]] family, and three are fought at level 48 in the [[Perimeter Woodland]] of [[Li Garte Prison Camp]] during ''[[Third Day of Prison]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Garaffas]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>laweg7t8tautsx403o7rm6hpj2bg5td</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kallas Skwaror (XC3)</title>
+    <ns>0</ns>
+    <id>121106</id>
+    <revision>
+      <id>595980</id>
+      <parentid>582718</parentid>
+      <timestamp>2023-06-16T18:52:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595980</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1363" sha1="5xyc9y4lully7udcqft250ojkgdhyxj" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Kallas Skwaror (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Kallas Skwaror
+|image        = Kallas Skwaror (XC3).jpg
+|caption      = Kallas Skwaror
+|category     = Normal Minor Enemy
+|type         = [[Skwaror]]
+|level        = 21-22
+|area         = [[Ribbi Flats]] ([[Sparres Barr]])&lt;br /&gt;[[Dannagh Desert (XC3)|Dannagh Desert]] ([[Great Idalla Ravine]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kallas Skwarors''' are Normal Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Skwaror]] family, and can be found at level 21-22 at [[Sparres Barr]] in the [[Ribbi Flats]] and near [[Great Idalla Ravine]] in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+
+== Drops ==
+* [[Powdered Skwaror Leaves]]
+* [[Round Skwaror Crystal]]
+{{clr}}
+
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Skwarors]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>5xyc9y4lully7udcqft250ojkgdhyxj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kallow Aries</title>
+    <ns>0</ns>
+    <id>123778</id>
+    <revision>
+      <id>559732</id>
+      <parentid>557186</parentid>
+      <timestamp>2022-09-30T10:49:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="808" sha1="0piq7hld2ifv8ax3spcof5u05vncy3q" xml:space="preserve">{{Infobox Enemy
+|name         = Kallow Aries
+|image        = 
+|caption      = Kallow Aries
+|category     = Minor Enemy
+|type         = [[Aries]]
+|level        = ?
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Kallow Aries''' are Minor Enemies in {{XC3}}. They are members of the [[Aries]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Aries]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>0piq7hld2ifv8ax3spcof5u05vncy3q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kananus</title>
+    <ns>0</ns>
+    <id>120500</id>
+    <revision>
+      <id>602025</id>
+      <parentid>600756</parentid>
+      <timestamp>2023-07-22T12:23:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602025</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="450" sha1="suzev5ij6iosapxz7066zv97kllkyh5" xml:space="preserve">'''Kananuses''' are a family of enemies in {{XC3}}. They are beast like creatures found in [[Origin]], resembling [[Volff]]s.
+
+== Normal Minor Enemies ==
+*[[Eruno Kananus]]
+
+== Unique Monsters ==
+*[[Thaumawolf Bajeek]]
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+XC3 Thaumawolf Bajeek.png|Thaumawolf Bajeek
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Kananuses]]
+[[Category:XC3 Machines]]
+[[Category:Kananuses]]
+[[Category:Species by Type]]</text>
+      <sha1>suzev5ij6iosapxz7066zv97kllkyh5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kanata</title>
+    <ns>0</ns>
+    <id>122343</id>
+    <revision>
+      <id>597746</id>
+      <parentid>596663</parentid>
+      <timestamp>2023-07-02T16:27:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1447" sha1="ia4kac1aapedzuwtecto0xn2pew04fl" xml:space="preserve">{{Infobox_NPC
+|name        = Kanata
+|image       = XC3 Kanata Icon.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Agnus|Agnian]] human
+|age         = 5th Term
+|location    = [[Erythia Sea]] ([[Colony Mu]])
+}}
+'''Kanata''' is a NPC in {{XC3}}. Kanata is from [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Kanata
+|image        = Kanata battle.png
+|caption      = Kanata
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =
+}} 
+'''Kanata''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is an [[Agnus Forces|Agnus Soldier]] who is fought at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>ia4kac1aapedzuwtecto0xn2pew04fl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kanbat Ansel</title>
+    <ns>0</ns>
+    <id>121783</id>
+    <revision>
+      <id>559733</id>
+      <parentid>546878</parentid>
+      <timestamp>2022-09-30T10:50:00Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="rza3v961lc79giorhwlwt5cikn336rj" xml:space="preserve">{{Infobox Enemy
+|name         = Kanbat Ansel
+|image        = 
+|caption      = Kanbat Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Kanbat Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? at [[Great Sword's Base]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>rza3v961lc79giorhwlwt5cikn336rj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kanbat Rhogul</title>
+    <ns>0</ns>
+    <id>121713</id>
+    <revision>
+      <id>559734</id>
+      <parentid>557255</parentid>
+      <timestamp>2022-09-30T10:50:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559734</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="dbzea09cmn14hxeilcnpcmi3suuhhqi" xml:space="preserve">{{Infobox Enemy
+|name         = Kanbat Rhogul
+|image        = 
+|caption      = Kanbat Rhogul
+|category     = Minor Enemy
+|type         = [[Rhogul]]
+|level        = ?
+|area         = [[Great Sword's Hilt]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Kanbat Rhoguls''' are Minor Enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level ? at [[Great Sword's Hilt]] in the [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>dbzea09cmn14hxeilcnpcmi3suuhhqi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kapiba</title>
+    <ns>0</ns>
+    <id>75865</id>
+    <revision>
+      <id>602026</id>
+      <parentid>600757</parentid>
+      <timestamp>2023-07-22T12:23:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602026</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1528" sha1="96duv8n74swopwgp82ogi139fkuucd5" xml:space="preserve">[[file:Ruchik Kapiba.png|thumb|Ruchik Kapiba]]
+'''Kapibas''' are small enemies in the {{XC|serieslink}}. They look like the large rodent [[wikipedia:Capybara|Capybaras]], and come in yellow and white varieties. The latter are only found in the [[Kingdom of Tantal]] in {{XC2}}.
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Arno Kapiba]]
+* [[Grass Kapiba]]
+* [[Ruchik Kapiba]]
+
+=== Challenge Battle Mode Enemy===
+* [[Skopp Kapiba]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Arlo Kapiba]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Chapi Kapiba]]
+* [[Meroko Kapiba]]
+* [[Papillico Kapiba]]
+* [[Rhoden Kapiba]]
+
+=== Unique Monster ===
+* [[Craven Piggard]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Papillico Kapiba]]
+
+=== Quest Exclusive Boss ===
+* [[Rumo Kapiba]] (During ''[[Big Game: Rumo Kapiba]]'')
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Arno Kapiba.png|Arno Kapiba
+GrassKapiba.jpg|Grass Kapiba
+ScoppKapiba.jpg|Skopp Kapiba
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Lv3kapiba.jpg|Arlo Kapiba
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Craven Piggard.png|Craven Piggard
+Papillico Kapiba.jpg|Papillico Kapiba
+&lt;/gallery&gt;
+
+[[Category:XC2 Species]]
+[[Category:XC2 Kapibas]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Kapibas]]
+[[Category:XC3 Species]]
+[[Category:XC3 Kapibas]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Kapibas]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Kapibas]]
+[[Category:Species by Type]]</text>
+      <sha1>96duv8n74swopwgp82ogi139fkuucd5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Karifo Gyaark</title>
+    <ns>0</ns>
+    <id>121834</id>
+    <revision>
+      <id>564950</id>
+      <parentid>559735</parentid>
+      <timestamp>2022-11-07T05:52:01Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="838" sha1="90tyoczwcdyqakqwdanpe96ym7kfirm" xml:space="preserve">{{Infobox Enemy
+|name         = Karifo Gyaark
+|image        = 
+|caption      = Karifo Gyaark
+|category     = Minor Enemy
+|type         = [[Gyaark]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Karifo Gyaarks''' are Minor Enemies in {{XC3}}. They are members of the [[Gyaark]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Gyaarks]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>90tyoczwcdyqakqwdanpe96ym7kfirm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Karorii Ories</title>
+    <ns>0</ns>
+    <id>123779</id>
+    <revision>
+      <id>576618</id>
+      <parentid>559736</parentid>
+      <timestamp>2023-02-11T17:03:08Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576618</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="729" sha1="3adppmm1l3httcrlclmf5zq2aluvp1r" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Karorii Ories
+|image        = 
+|caption      = Karorii Ories
+|category     = Minor Enemy
+|type         = [[Ories]]
+|level        = ?
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Karorii Ories''' are Minor Enemies in {{XC3}}. They are members of the [[Ories]] family, and can be found at level ? on [[Captocorn Peak]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ories]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3adppmm1l3httcrlclmf5zq2aluvp1r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kassis Plambus</title>
+    <ns>0</ns>
+    <id>121835</id>
+    <revision>
+      <id>559737</id>
+      <parentid>546951</parentid>
+      <timestamp>2022-09-30T10:50:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559737</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="fu67a5epbiykjurltkbbpns7ucirk74" xml:space="preserve">{{Infobox Enemy
+|name         = Kassis Plambus
+|image        = 
+|caption      = Kassis Plambus
+|category     = Minor Enemy
+|type         = [[Plambus]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Kassis Plambuses''' are Minor Enemies in {{XC3}}. They are members of the [[Plambus]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Plambuses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>fu67a5epbiykjurltkbbpns7ucirk74</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kattl Krabble (XC3)</title>
+    <ns>0</ns>
+    <id>121159</id>
+    <revision>
+      <id>559738</id>
+      <parentid>558215</parentid>
+      <timestamp>2022-09-30T10:50:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="859" sha1="19m3yaew9kpz46ogtdrqt7cx226peqg" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Kattl Krabble (XC2)}}
+{{Infobox Enemy
+|name         = Kattl Krabble
+|image        = 
+|caption      = Kattl Krabble
+|category     = Minor Enemy
+|type         = [[Krabble]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Kattl Krabbles''' are Minor Enemies in {{XC3}}. They are members of the [[Krabble]] family, and can be found at level ? at [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Krabbles]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>19m3yaew9kpz46ogtdrqt7cx226peqg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kattl Krammit</title>
+    <ns>0</ns>
+    <id>121121</id>
+    <revision>
+      <id>582528</id>
+      <parentid>582508</parentid>
+      <timestamp>2023-04-12T07:44:19Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>582528</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="876" sha1="0iflol5vtnhu0qlit3g9izksjw5vjrk" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kattl Krammit
+|image        = Kattl Krammit.jpg
+|caption      = Kattl Krammit
+|category     = Normal Minor Enemy
+|type         = [[Krammit]]
+|level        = 21-22
+|area         = [[Rae-Bel Tableland]] ([[Dumas' Jaw]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kattl Krammits''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Krammit]] family, and can be found at level 21-22 at [[Dumas' Jaw]] on the [[Rae-Bel Tableland]].
+
+== Drops ==
+* [[Krammit Viscera]]
+* [[Krammit Device Fragment]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Krammits]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0iflol5vtnhu0qlit3g9izksjw5vjrk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keen Chicky-Chicky</title>
+    <ns>0</ns>
+    <id>119501</id>
+    <revision>
+      <id>583305</id>
+      <parentid>574496</parentid>
+      <timestamp>2023-04-17T15:51:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>583305</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1458" sha1="poevyynp1u48xb87u7jj9fd48sm2tap" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Keen Chicky-Chicky
+|image        = XC3 Keen Chicky-Chicky.png
+|caption      = Keen Chicky-Chicky
+|type         = [[Grebel]]
+|level        = 59
+|area         = [[Captocorn Peak]] ([[Nocclia Mire]])
+|spawntime    = After completing ''[[In Search of a Home]]''
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,411
+|cp           = 250
+|sp           = 5
+|gold         = 904
+|hp           = 1,898,100
+|strength     = 1,397
+|healing      = 535
+|dexterity    = 233
+|agility      = 277
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 15%
+|guardrate    = 0% 
+}}
+'''Keen Chicky-Chicky''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Grebel]] family, and can be found at level 59 at the former location of [[Colony 0]] in [[Nocclia Mire]] on [[Captocorn Peak]] after completing ''[[In Search of a Home]]''. The [[Burrowing Rocket]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = 50%
+|etherdebuff = 80%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Keen chicky-chicky location.png
+Keen chicky-chicky.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Grebels]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>poevyynp1u48xb87u7jj9fd48sm2tap</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kef Stamm</title>
+    <ns>0</ns>
+    <id>121736</id>
+    <revision>
+      <id>598123</id>
+      <parentid>579949</parentid>
+      <timestamp>2023-07-04T15:40:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="858" sha1="fvuxvlsm9uvcr53vtv89n9kz41xeqw7" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kef Stamm
+|image        = Kef Stamm.jpg
+|caption      = Kef Stamm
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 62-63
+|area         = [[Origin Interior]] ([[Amplifier No. 1]], [[Amplifier No. 2]], [[Amplifier Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kef Stamms''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 62-63 at [[Amplifier No. 1]], [[Amplifier No. 2]], and the [[Amplifier Section]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>fvuxvlsm9uvcr53vtv89n9kz41xeqw7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kef Zestamm</title>
+    <ns>0</ns>
+    <id>121737</id>
+    <revision>
+      <id>598133</id>
+      <parentid>579959</parentid>
+      <timestamp>2023-07-04T15:51:39Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="833" sha1="p9s8bb4isb4wfu14v1cfnxoyzq4doz8" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kef Zestamm
+|image        = Kef Zestamm.jpg
+|caption      = Kef Zestamm
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 63
+|area         = [[Origin Interior]] ([[Amplifier No. 1]], [[Amplifier No. 2: Lower Gate]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kef Zestamms''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 63 at [[Amplifier No. 1]] and [[Amplifier No. 2: Lower Gate]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>p9s8bb4isb4wfu14v1cfnxoyzq4doz8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Armadillo</title>
+    <ns>0</ns>
+    <id>123988</id>
+    <revision>
+      <id>575483</id>
+      <parentid>559259</parentid>
+      <timestamp>2023-02-05T15:52:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>575483</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2399" sha1="a4cyjprni1od1linipn8d8346zqodqh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Armadillo
+|image        = Keves Armadillo.jpg
+|caption      = Keves Armadillo
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 68
+|area         = [[Elaice Highway]] ([[Colony Iota Base Entrance]])
+|spawntime    = During ''[[Bearing Fruit]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 2025
+|cp           = 156
+|sp           = 0
+|gold         = 1829
+|hp           = 700,000
+|strength     = 1439
+|dexterity    = 307
+|agility      = 155
+|physdef      = -5%
+|ethdef       = 15%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+The '''Keves Armadillo''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a [[Keves]]i [[Levnis]] made from an [[Agnus|Agnian]] [[Armadillo]] that is sent to [[Colony Iota]] from [[Colony 30]] by [[Valdi]] as a gift, but upon arrival it attacks the colony due to a mistake. It is fought at level 68 at the [[Colony Iota Base Entrance]] on [[Elaice Highway]] during ''[[Bearing Fruit]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 0%
+|etherdebuff = 50%
+}}
+
+== Drops ==
+{{XC3 Enemy drops
+|item1   = [[Flame Bangle]]
+|type1   = [[Accessory (XC3)|Accessory]]
+|rarity  = 2
+|rate1   = 8%
+
+|item2   = [[Silver Choker]]
+|type2   = [[Accessory (XC3)|Accessory]]
+|rarity2 = 2
+|rate2   = 8%
+
+|item3   = [[Expanding Memory]]
+|type3   = [[Accessory (XC3)|Accessory]]
+|rarity3 = 2
+|rate3   = 8%
+
+|item4   = [[Metal Foot Protector]]
+|type4   = [[Accessory (XC3)|Accessory]]
+|rarity4 = 2
+|rate4   = 8%
+
+|item5   = [[Golden Headband (XC3)|Golden Headband]]
+|type5   = [[Accessory (XC3)|Accessory]]
+|rarity5 = 1
+|rate5   = 16%
+
+|item6   = [[Sturdy Anklets]]
+|type6   = [[Accessory (XC3)|Accessory]]
+|rarity6 = 1
+|rate6   = 16%
+
+|item7   = [[Crystal Earrings (XC3)|Crystal Earrings]]
+|type7   = [[Accessory (XC3)|Accessory]]
+|rarity7 = 1
+|rate7   = 16%
+
+|item8   = [[Smithy Gloves (XC3)|Smithy Gloves]]
+|type8   = [[Accessory (XC3)|Accessory]]
+|rarity8 = 1
+|rate8   = 16%
+
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Levnises]]</text>
+      <sha1>a4cyjprni1od1linipn8d8346zqodqh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Attacker</title>
+    <ns>0</ns>
+    <id>117950</id>
+    <revision>
+      <id>596144</id>
+      <parentid>585278</parentid>
+      <timestamp>2023-06-16T20:23:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Stats */cat.</comment>
+      <origin>596144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" sha1="dfbafgb0g41chblj3134dodjnb8un90" xml:space="preserve">{{spoiler}}
+{{Infobox XC3 Enemy
+|name         = Keves Attacker
+|image        = 
+|caption      = Keves Attacker
+|category     = Normal Enemy
+|type         = [[Keves Forces]]
+|level        = 8
+|area         = 
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Keves Attackers''' are enemies in {{XC3}}. They are [[Keves Forces|Keves Soldiers]], and are fought at level 8, attacking [[Noah]], [[Eunie]], and [[Lanz]] on orders from Consul [[B]] after the three "deserted" from fighting in the war against [[Agnus]].
+
+== Stats ==
+{{Enemy arts|art1=Flying Slash|art2=Round Edge}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dfbafgb0g41chblj3134dodjnb8un90</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Blaster</title>
+    <ns>0</ns>
+    <id>121160</id>
+    <revision>
+      <id>596145</id>
+      <parentid>595960</parentid>
+      <timestamp>2023-06-16T20:23:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1188" sha1="d9hmx8ycpuxvmp46h0hbbph72dvxi6p" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Blaster
+|image        = 
+|caption      = Keves Blaster
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = 14 - ?
+|area         = [[Eagus Wilderness]]&lt;br&gt;[[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Keves Blasters''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Keves Forces|Keves Soldiers]], and can be found at level 14 at [[Bennel Cave]] in the [[Eagus Wilderness]] and level ? at [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Keves Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>d9hmx8ycpuxvmp46h0hbbph72dvxi6p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Blocker</title>
+    <ns>0</ns>
+    <id>121014</id>
+    <revision>
+      <id>596146</id>
+      <parentid>595647</parentid>
+      <timestamp>2023-06-16T20:23:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="896" sha1="6ntzs9uvyi0ch0cvcdfkxni7u3cknsh" xml:space="preserve">{{Infobox Enemy
+|name         = Keves Blocker
+|image        = 
+|caption      = Keves Blocker
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Blockers''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6ntzs9uvyi0ch0cvcdfkxni7u3cknsh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Blocker Elite</title>
+    <ns>0</ns>
+    <id>121015</id>
+    <revision>
+      <id>596147</id>
+      <parentid>596033</parentid>
+      <timestamp>2023-06-16T20:23:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1285" sha1="875e6qnz785v7pi2wsem6wcvpjlzflg" xml:space="preserve">{{Infobox Enemy
+|name         = Keves Blocker Elite
+|image        = 
+|caption      = Keves Blocker Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Blocker Elites''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]], or at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Keves Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>875e6qnz785v7pi2wsem6wcvpjlzflg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Blocker Elite (boss)</title>
+    <ns>0</ns>
+    <id>128266</id>
+    <revision>
+      <id>596148</id>
+      <parentid>595938</parentid>
+      <timestamp>2023-06-16T20:23:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1328" sha1="qbkva3pic130kfd2fwn53aoh0kylcui" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Blocker Elite
+|image        = 
+|caption      = Keves Blocker Elite
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 63
+|area         = [[Fornis Region]] ([[Elaice Highway]])
+|spawntime    = During ''[[Knowing Your Family]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Keves Blocker Elite''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a member of a group of [[Keves Forces]] called '''Colony 29 Raiders''' fought at level 63 in the [[Elaice Highway]] in the [[Fornis Region]] during ''[[Knowing Your Family]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qbkva3pic130kfd2fwn53aoh0kylcui</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Deathsapper</title>
+    <ns>0</ns>
+    <id>123923</id>
+    <revision>
+      <id>596149</id>
+      <parentid>575459</parentid>
+      <timestamp>2023-06-16T20:23:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1014" sha1="kwyfsy7p4ucy5qd1m9u3vucsc3zgxcs" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Deathsapper
+|image        = XC3 Keves Deathsapper.png
+|caption      = Keves Deathsapper
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 60
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = During ''[[Past and Present]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Keves Deathsapper''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are [[Keves Forces|Keves Soldiers]], and can be found at level 60 in the [[Low Maktha Wildwood]] during ''[[Past and Present]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kwyfsy7p4ucy5qd1m9u3vucsc3zgxcs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Forces</title>
+    <ns>0</ns>
+    <id>123018</id>
+    <revision>
+      <id>602027</id>
+      <parentid>600758</parentid>
+      <timestamp>2023-07-22T12:23:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602027</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2859" sha1="95k4pz8mj01yk1bw92349e80dh43qgq" xml:space="preserve">{{spoiler}}
+[[File:XC3 Keves Screenshot.png|thumb|Soldiers of Keves]]
+Throughout {{XC3}} and {{XC3FR|sublink}}, the player will encounter various '''Keves Forces''' as enemies. They are members of [[Keves]].
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Guard Blaster Elite]]
+* [[Guard Blocker]]
+* [[Guard Blocker Elite]]
+* [[Guard Rescuer]]
+* [[Guard Rescuer Elite]]
+* [[Guard Sniper]]
+* [[Guard Trooper]]
+* [[Guard Trooper Elite]]
+* [[Guard Warrior]]
+* [[Guard Warrior Elite]]
+* [[Keves Attacker]]
+* [[Keves Blaster]]
+* [[Keves Blocker]]
+* [[Keves Blocker Elite]]
+* [[Keves Rescuer]]
+* [[Keves Rescuer Elite]]
+* [[Keves Sniper]]
+* [[Keves Sniper Elite]]
+* [[Keves Trooper]]
+* [[Keves Trooper Elite]]
+* [[Keves Warrior]]
+* [[Keves Warrior Elite]]
+
+=== Quest Exclusive Enemies ===
+* [[Eilis#Battle|Eilis]] (During ''[[Where The Heart Is]]'')
+* [[Fox#Battle|Fox]] (During ''[[Where The Heart Is]]'')
+* [[Roald#Battle|Roald]] (During ''[[Where The Heart Is]]'')
+
+=== Bosses ===
+* [[Mwamba#Battle|Mwamba]]
+* [[Queen of Keves (boss)#Battle|Queen of Keves]]
+* [[Ethel#Battle|Silvercoat Ethel]]
+* [[Strange Keves Soldier]]
+
+=== Quest Exclusive Bosses ===
+* [[Avenger (XC3)|Avenger]] (During ''[[Shadow of Enmity]]'')
+* Colony 29 Raiders (During ''[[Knowing Your Family]]''):
+** [[Keves Blocker Elite (boss)|Keves Blocker Elite]]
+** [[Keves Rescuer (boss)|Keves Rescuer]]
+** [[Keves Sniper (boss)|Keves Sniper]]
+* [[Zeon#Battle|Dutiful Zeon]] (During ''[[Where The Heart Is]]'')
+* [[Easel#Battle|Fellplume Easel]] (During ''[[Three Ravens at War]]'')
+* [[Garvel#Battle|Garvel]] (During ''[[Side Story: Lanz]]'')
+* [[Orson]] (During ''[[Doing It My Way]]'')
+* [[Pergas]] (During ''[[Doing It My Way]]'')
+* [[Zoren#Battle|Spearhead Zoren]] (During ''[[Three Ravens at War]]'')
+* [[Clad#Battle|Tenacious Clad]] (During ''[[Three Ravens at War]]'')
+* [[Torto]] (During ''[[Doing It My Way]]'')
+* [[Ashera#Battle|Undying Blade Ashera]] (During ''[[A Deep-Seated Scar]]'')
+
+=== Challenge Battle Mode Enemies ===
+* [[Valdi#Challenge Battle Mode|Artificer Valdi]]
+* [[Queen's Guard Captain]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Keves Blaster]]
+* [[Keves Blocker Elite]]
+* [[Keves Rescuer]]
+* [[Keves Sniper Elite]]
+* [[Keves Trooper]]
+* [[Keves Warrior]]
+
+=== Boss ===
+* [[Desperate Kevesi]]
+
+=== Quest Exclusive Bosses ===
+* [[Keves Patroller]] (During ''[[Regret and Resolve]]'')
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Keves Screenshot 2.jpeg|Keves Forces
+Desperate Kevesi.jpg|The Desperate Kevesi Nikol
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+{{Fr stub}}
+[[Category:Keves]]
+[[Category:XC3 Species]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3 Enemies by Category]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Keves Forces]]
+[[Category:XC3FR Humanoids]]
+[[Category:XC3FR Enemies by Category]]
+[[Category:Keves Forces]]
+[[Category:Species by Type]]</text>
+      <sha1>95k4pz8mj01yk1bw92349e80dh43qgq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Rescuer</title>
+    <ns>0</ns>
+    <id>118274</id>
+    <revision>
+      <id>596151</id>
+      <parentid>595963</parentid>
+      <timestamp>2023-06-16T20:23:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1266" sha1="4ujvqfs138lru0tn89yrjhj60c68400" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Rescuer
+|image        = 
+|caption      = Keves Rescuer
+|category     = Normal Minor Enemy
+|type         = [[Keves Forces]]
+|level        = 21
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Keves Rescuers''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Keves Forces|Keves Soldiers]], and can be found at various levels and locations throughout [[Aionios]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Keves Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>4ujvqfs138lru0tn89yrjhj60c68400</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Rescuer (boss)</title>
+    <ns>0</ns>
+    <id>128267</id>
+    <revision>
+      <id>596152</id>
+      <parentid>595939</parentid>
+      <timestamp>2023-06-16T20:23:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1310" sha1="gkjk8xatyd6ex32qwcop8emogtou6ye" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Rescuer
+|image        = 
+|caption      = Keves Rescuer
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 63
+|area         = [[Fornis Region]] ([[Elaice Highway]])
+|spawntime    = During ''[[Knowing Your Family]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Keves Rescuer''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a member of a group of [[Keves Forces]] called '''Colony 29 Raiders''' fought at level 63 in the [[Elaice Highway]] in the [[Fornis Region]] during ''[[Knowing Your Family]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gkjk8xatyd6ex32qwcop8emogtou6ye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Rescuer Elite</title>
+    <ns>0</ns>
+    <id>123783</id>
+    <revision>
+      <id>596153</id>
+      <parentid>559747</parentid>
+      <timestamp>2023-06-16T20:23:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1036" sha1="k3tiaorjg938zlu6q5m2hpnblmaruqp" xml:space="preserve">{{spoiler}}
+{{Infobox Enemy
+|name         = Keves Rescuer Elite
+|image        = 
+|caption      = Keves Rescuer Elite
+|category     = Normal Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Rescuers''' are enemies in {{XC3}}. They are [[Keves Forces]], and can be found at level ? in [[Dannagh Desert (XC3)|Dannagh Desert]], or at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>k3tiaorjg938zlu6q5m2hpnblmaruqp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Sniper</title>
+    <ns>0</ns>
+    <id>123006</id>
+    <revision>
+      <id>596154</id>
+      <parentid>559748</parentid>
+      <timestamp>2023-06-16T20:23:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="854" sha1="ekj47hw4xxwzbp5xbhic4vltplhxdc8" xml:space="preserve">{{Infobox Enemy
+|name         = Keves Sniper
+|image        = 
+|caption      = Keves Sniper
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Snipers''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Urayan Trail]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ekj47hw4xxwzbp5xbhic4vltplhxdc8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Sniper (boss)</title>
+    <ns>0</ns>
+    <id>128268</id>
+    <revision>
+      <id>596155</id>
+      <parentid>595940</parentid>
+      <timestamp>2023-06-16T20:23:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1307" sha1="kz0mbxdvo810yuhhmmsvy8c9wqc0iwm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Sniper
+|image        = 
+|caption      = Keves Sniper
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 63
+|area         = [[Fornis Region]] ([[Elaice Highway]])
+|spawntime    = During ''[[Knowing Your Family]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Keves Sniper''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a member of a group of [[Keves Forces]] called '''Colony 29 Raiders''' fought at level 63 in the [[Elaice Highway]] in the [[Fornis Region]] during ''[[Knowing Your Family]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kz0mbxdvo810yuhhmmsvy8c9wqc0iwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Sniper Elite</title>
+    <ns>0</ns>
+    <id>122988</id>
+    <revision>
+      <id>596158</id>
+      <parentid>596034</parentid>
+      <timestamp>2023-06-16T20:23:35Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1433" sha1="mnldg9h651wqtfzhnyluz3ab1f970qb" xml:space="preserve">{{Infobox Enemy
+|name         = Keves Sniper Elite
+|image        = 
+|caption      = Keves Sniper Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Yzana Plains]]&lt;br /&gt;[[Urayan Trail]]&lt;br /&gt;[[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Sniper Elites''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Yzana Plains]] in the [[Aetia Region]], or at [[Urayan Trail]] in the [[Pentelas Region]], or at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Keves Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>mnldg9h651wqtfzhnyluz3ab1f970qb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Trooper</title>
+    <ns>0</ns>
+    <id>116802</id>
+    <revision>
+      <id>596159</id>
+      <parentid>596015</parentid>
+      <timestamp>2023-06-16T20:23:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Stats */cat.</comment>
+      <origin>596159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1382" sha1="h9hta95zfhx2o5e9y8hi3u5fgahwott" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Keves Trooper
+|image        = 
+|caption      = Keves Trooper
+|category     = Normal Enemy
+|type         = [[Keves Forces]]
+|level        = 15 - 30
+|area         = [[Eagus Wilderness]]&lt;br&gt;[[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Keves Troopers''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Keves Forces|Keves Soldiers]], and can be found at level 15 at [[Bennel Cave]] in the [[Eagus Wilderness]] and level 30 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+== Stats ==
+{{Enemy arts|art1=Round Edge|art2=Flying Slash|art3=Physical Increase}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Keves Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>h9hta95zfhx2o5e9y8hi3u5fgahwott</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Trooper Elite</title>
+    <ns>0</ns>
+    <id>123784</id>
+    <revision>
+      <id>596160</id>
+      <parentid>559752</parentid>
+      <timestamp>2023-06-16T20:23:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="926" sha1="8lgc5ecxtdy49ve9cmuvyn6e7jd5in6" xml:space="preserve">{{Infobox Enemy
+|name         = Keves Trooper Elite
+|image        = 
+|caption      = Keves Trooper Elite
+|category     = Normal Enemy
+|type         = [[Keves Forces]]
+|level        = 30
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Trooper Elites''' are enemies in {{XC3}}. They are [[Keves Forces]], and can be found at level 30 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>8lgc5ecxtdy49ve9cmuvyn6e7jd5in6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Warrior</title>
+    <ns>0</ns>
+    <id>121836</id>
+    <revision>
+      <id>596161</id>
+      <parentid>596016</parentid>
+      <timestamp>2023-06-16T20:23:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1143" sha1="3cf9illw0sqnj2hurz0klwxtqvpydhs" xml:space="preserve">{{Infobox Enemy
+|name         = Keves Warrior
+|image        = 
+|caption      = Keves Warrior
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Warriors''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Keves Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>3cf9illw0sqnj2hurz0klwxtqvpydhs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Keves Warrior Elite</title>
+    <ns>0</ns>
+    <id>121161</id>
+    <revision>
+      <id>596162</id>
+      <parentid>559754</parentid>
+      <timestamp>2023-06-16T20:23:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="880" sha1="tm8wyxabjq4ixt96nt11klg05gueiqk" xml:space="preserve">{{Infobox Enemy
+|name         = Keves Warrior Elite
+|image        = 
+|caption      = Keves Warrior Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Keves Warrior Elites''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>tm8wyxabjq4ixt96nt11klg05gueiqk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kickitt Grebel</title>
+    <ns>0</ns>
+    <id>121043</id>
+    <revision>
+      <id>559755</id>
+      <parentid>545341</parentid>
+      <timestamp>2022-09-30T10:50:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559755</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="797" sha1="hy49wpr2bbuwbd0w4rrtugs2dbxehkv" xml:space="preserve">{{Infobox Enemy
+|name         = Kickitt Grebel
+|image        = 
+|caption      = Kickitt Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Kickitt Grebels''' are Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level ? at [[Captocorn Peak]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>hy49wpr2bbuwbd0w4rrtugs2dbxehkv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Killhappy Brijaidor</title>
+    <ns>0</ns>
+    <id>119467</id>
+    <revision>
+      <id>583306</id>
+      <parentid>574519</parentid>
+      <timestamp>2023-04-17T15:52:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583306</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1423" sha1="48glckughi7fpdx80p2it4mb0pla1s5" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Killhappy Brijaidor
+|image        = XC3 Killhappy Brijaidor.png
+|caption      = Killhappy Brijaidor
+|type         = [[Merfrey]]
+|level        = 79
+|area         = [[Erythia Sea]] ([[Vinisog Holm]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 4,603
+|cp           = 595
+|sp           = 5
+|gold         = 1,647
+|hp           = 4,873,000
+|strength     = 1,920
+|healing      = 513
+|dexterity    = 239
+|agility      = 263
+|physdef      = 25%
+|ethdef       = 0%
+|critrate     = 12%
+|guardrate    = 0% 
+}}
+'''Killhappy Brijaidor''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Merfrey]] family, and can be found at level 79 at the northern side of [[Vinisog Holm]] and behind the [[Vinisog Holm Camp]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Strength Support]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 85%
+|physdebuff = 50%
+|etherdebuff = Immune
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Killhappy brijaidor location.png
+Killhappy brijaidor.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Merfreys]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>48glckughi7fpdx80p2it4mb0pla1s5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kilocorn Grandeps</title>
+    <ns>0</ns>
+    <id>118143</id>
+    <revision>
+      <id>581531</id>
+      <parentid>581527</parentid>
+      <timestamp>2023-04-05T13:41:26Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>poison breath goes first in the "three breaths" combo</comment>
+      <origin>581531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9522" sha1="t9dl0palrss841h3ar5dz8grkt490a0" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kilocorn Grandeps
+|image        = XC3 Kilocorn Grandeps.png
+|caption      = Kilocorn Grandeps
+|type         = [[Ardun]]
+|level        = 95
+|area         = [[Rae-Bel Tableland]] ([[Dumas' Jaw]])
+|category     = [[Unique Monster (XC3)|Unique Monster]] ([[Superboss]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 8,104
+|cp           = 296
+|sp           = 25
+|gold         = 2,940
+|hp           = 7,288,750
+|strength     = 2,652
+|healing      = 587
+|dexterity    = 327
+|agility      = 166
+|physdef      = 70%
+|ethdef       = -35%
+|critrate     = 20%
+|guardrate-front = 30%
+|guardrate-side  = 20%
+|guardrate-back  = 20%
+}}
+'''Kilocorn Grandeps''' (Japanese: {{lang|ja|&#21315;&#21476;&#35282;&#12398;&#12464;&#12521;&#12531;&#12487;&#12503;&#12473;}}, ''Senkokaku no Gurandepusu'', lit. Millenary Horned Grandeps) is a [[Superboss]] in {{XC3}}. It is a [[Unique Monster (XC3)|Unique Monster]] and a member of the [[Ardun]] family and can be initially found at level 95 at [[Dumas' Jaw]] in [[Rae-Bel Tableland]]. The [[Soulhacker#Enemy Skills|Monarch's Heart]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it. Through re-challenging, Kilocorn Grandeps' level can be increased to a maximum at level 150.
+== Battle ==
+===Skills===
+Kilocorn Grandeps has several innate skills:
+*Shortens duration of debuffs on self by 50%.
+*Boosts damage from Toxin by 200%.
+=== Resistances ===
+{{XC3 Resistances
+|break = 100%
+|physdebuff = Immune
+|etherdebuff = 80%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+===Enraged===
+{|class="xc1 centered" style="width:70%;"
+!Trigger
+|Enemy is reduced to 80% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 25%.&lt;br&gt;Regenerates 0.2% of HP every 3.0s.&lt;br&gt;Negates enemy guard; inflicts [[Break (XC3)|Break]] if guard is attempted.
+|}
+===Arts===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|220%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|rowspan="3"| '''Horn Dance'''
+|rowspan="3"| Physical
+|rowspan="3"| AOE around User
+|rowspan="3"| 4
+|rowspan="2"| 130%
+| [[Knockback (XC3)|Knockback]] on first hit only
+|rowspan="2"|
+|Anytime at or below Lv 125
+|- &lt;!-- Arts Slot 6 --&gt;
+| Knockback on all hits
+| Anytime during Lv 130-145 fights; at Lv 150, used only when above 60% HP
+|- &lt;!-- Arts Slot 12 --&gt;
+|250%
+|[[Break (XC3)|Break]] &gt; [[Topple (XC3)|Topple]] &gt; [[Launch (XC3)|Launch]] &gt; [[Smash (XC3)|Smash]] from first through fourth hits. Each stage of the combo requires the corresponding earlier stage to be inflicted.
+|style="text-align:left"|
+*Accuracy is boosted by 25%.
+*Art is telegraphed with a 10.0s timer.
+|When reduced to 60% HP during Lv 150 fight
+|- &lt;!-- Arts Slot 1 --&gt;
+|rowspan="2"| '''Tank March'''
+|rowspan="2"| Physical
+|rowspan="2"| Frontward AOE
+|rowspan="2"| 3
+|rowspan="2"| 155%
+|Knockback on first two hits, Blowdown on third hit
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+|When reduced to 80% HP during fights at or below Lv 125; anytime during Lv 130-140 fights
+|-  &lt;!-- Arts Slot 7 --&gt;
+|Knockback on first two hits, Topple on third hit
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Topple duration is extended by 50%.
+|Anytime during Lv 150 fight
+|- &lt;!-- Arts Slot 2 --&gt;
+|rowspan="2"| '''Breath'''
+|rowspan="2"| Ether
+|rowspan="2"| Frontward AOE
+|rowspan="2"| 1
+|rowspan="2"| 90%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+|Anytime during fights at or below Lv 105
+|- &lt;!-- Arts Slot 8 / 13 --&gt;
+| [[Evasion Down]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Removes all buffs from target upon landing a hit.
+*At Lv 150, when reduced to 40% HP, the Art is telegraphed by a 3.0s timer, but followed up by Poison Breath and then Ice Breath in quick succession.
+|Anytime during fights at Lv 110 or above
+|- &lt;!-- Arts Slot 3 --&gt;
+|rowspan="2"| '''Ice Breath'''
+|rowspan="2"| Ether
+|rowspan="2"| Frontward AOE
+|rowspan="2"| 1
+|rowspan="2"| 125%
+|rowspan="2"| [[Freeze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 10%.
+|When reduced to 60% HP during Lv 95 fight; anytime during Lv 100-115 fights
+|- &lt;!-- Arts Slot 9 / 14 --&gt;
+|style="text-align:left;"|
+*Accuracy is boosted by 10%.
+*Removes all buffs from target upon landing a hit.
+|Anytime during fights at Lv 120 or above
+|- &lt;!-- Arts Slot 4 --&gt;
+|rowspan="2"| '''Poison Breath'''
+|rowspan="2"| Ether
+|rowspan="2"| Frontward AOE
+|rowspan="2"| 1
+|rowspan="2"| 135%
+| [[Toxin]]
+|style="text-align:left;"|
+*Accuracy is boosted by 10%.
+| When reduced to 40% HP during Lv 95 fights, or to 60% HP during Lv 100-115 fights
+|- &lt;!-- Arts Slot 10 / 15 --&gt;
+| Toxin / [[Resistance Down]]
+|style="text-align:left;"|
+*Accuracy is boosted by 10%.
+*Removes all buffs from target upon landing a hit.
+| When reduced to 60% HP during Lv 120-125 fights, or to 80% HP during Lv 130-150 fights
+|- &lt;!-- Arts Slot 5 --&gt;
+|rowspan="2"| '''Killer Dunk'''
+|rowspan="2"| Physical
+|rowspan="2"| AOE around User
+|rowspan="2"| 1
+|rowspan="2"| 180%
+|rowspan="2"| Knockback
+|style="text-align:left;"|
+*Art is telegraphed by a 4.0s timer.
+| When reduced to 40% HP during Lv 95 and Lv 110-125 fights, or to 60% HP during Lv 100-105 fights
+|- &lt;!-- Arts Slot 11 --&gt;
+|style="text-align:left;"|
+*Art is telegraphed by a 2.0s timer.
+| When reduced to 80% HP during fights at or above Lv 130
+|}
+
+=== Superboss Challenges ===
+After defeating it for the first time, Kilocorn Grandeps can be re-fought at increasing levels by selecting the "Challenge" option on its [[Named Grave]]. After defeating it at a given challenge level, it will appear at the next challenge level the next time it is challenged, until reaching its maximum level. Thus, only the initial Lv 95 version and the final Lv 150 challenge version can be refought.
+
+Kilocorn Grandeps has the following stats changed from its base Lv 95 version in each challenge version. Physical and Ether Defense, Critical Rate, Guard Rates and resistances are unchanged in these challenge versions. SP is not dropped from defeating it in a challenge, since the challenge counts as a refight.
+&lt;tabber&gt;
+Lv 100=
+&lt;h3 style="display:none;"&gt;Lv 100&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 7,881,650
+|atk   = 2,771
+|heal  = 617
+|dex   = 341
+|agil  = 173
+|exp   = 8,810
+|cp    = 304
+|gold  = 3,150
+}}
+|-|
+Lv 105=
+&lt;h3 style="display:none;"&gt;Lv 105&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 8,479,450
+|atk   = 2,862
+|heal  = 649
+|dex   = 352
+|agil  = 179
+|exp   = 9,516
+|cp    = 312
+|gold  = 3,360
+}}
+|-|
+Lv 110=
+&lt;h3 style="display:none;"&gt;Lv 110&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 9,006,200
+|atk   = 2,953
+|heal  = 679
+|dex   = 361
+|agil  = 184
+|exp   = 10,222
+|cp    = 320
+|gold  = 3,570
+}}
+|-|
+Lv 115= 
+&lt;h3 style="display:none;"&gt;Lv 115&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 9,510,900
+|atk   = 3,044
+|heal  = 711
+|dex   = 372
+|agil  = 189
+|exp   = 10,928
+|cp    = 328
+|gold  = 3,797
+}}
+|-|
+Lv 120= 
+&lt;h3 style="display:none;"&gt;Lv 120&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 10,025,400
+|atk   = 3,135
+|heal  = 741
+|dex   = 382
+|agil  = 195
+|exp   = 11,634
+|cp    = 335
+|gold  = 4,025
+}}
+|-|
+Lv 125= 
+&lt;h3 style="display:none;"&gt;Lv 125&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 10,547,250
+|atk   = 3,226
+|heal  = 772
+|dex   = 393
+|agil  = 200
+|exp   = 12,340
+|cp    = 343
+|gold  = 4,252
+}}
+|-|
+Lv 130= 
+&lt;h3 style="display:none;"&gt;Lv 130&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 11,076,450
+|atk   = 3,320
+|heal  = 802
+|dex   = 403
+|agil  = 205
+|exp   = 13,046
+|cp    = 351
+|gold  = 4,480
+}}
+|-|
+Lv 135= 
+&lt;h3 style="display:none;"&gt;Lv 135&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 11,615,450
+|atk   = 3,411
+|heal  = 834
+|dex   = 413
+|agil  = 210
+|exp   = 13,752
+|cp    = 359
+|gold  = 4,515
+}}
+|-|
+Lv 140= 
+&lt;h3 style="display:none;"&gt;Lv 140&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 12,122,600
+|atk   = 3,494
+|heal  = 864
+|dex   = 423
+|agil  = 216
+|exp   = 14,458
+|cp    = 367
+|gold  = 4,550
+}}
+|-|
+Lv 150= 
+&lt;h3 style="display:none;"&gt;Lv 150&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 12,958,050
+|atk   = 3,616
+|heal  = 927
+|dex   = 443
+|agil  = 226
+|exp   = 15,870
+|cp    = 382
+|gold  = 4,620
+}}
+&lt;/tabber&gt;
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Kilocorn Grandeps
+|image        = 
+|caption      = Kilocorn Grandeps
+|type         = [[Ardun]]
+|level        = 150
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|spawntime    = During ''[[The Four Devas]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 4,998,105
+|strength     = 1,182
+|healing      = 927
+|dexterity    = 444
+|agility      = 226
+|physdef      = 70%
+|ethdef       = -35%
+|critrate     = 5%
+|guardrate-front = 30%
+|guardrate-side  = 20%
+|guardrate-back  = 20%
+}}
+Kilocorn Grandeps is fought at level 150 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[The Four Devas]]''.
+=== Resistances ===
+{{XC3 Resistances
+|break = 85%
+|physdebuff = Immune
+|etherdebuff = 80%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Kilocorn grandeps location.png
+XC3 Millenary Horned Grandeps.jpg
+Kilocorn grandeps.png
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arduns]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>t9dl0palrss841h3ar5dz8grkt490a0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kinder Armu</title>
+    <ns>0</ns>
+    <id>121886</id>
+    <revision>
+      <id>559756</id>
+      <parentid>547025</parentid>
+      <timestamp>2022-09-30T10:50:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559756</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="804" sha1="1of3ma4cx8nk5w1i5diugm7ch3z2lkk" xml:space="preserve">{{Infobox Enemy
+|name         = Kinder Armu
+|image        = 
+|caption      = Kinder Armu
+|category     = Minor Enemy
+|type         = [[Armu]]
+|level        = ?
+|area         = [[Agnus Castle Barbican]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Kinder Armus''' are Minor Enemies in {{XC3}}. They are members of the [[Armu]] family, and can be found at level ? at [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Armus]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>1of3ma4cx8nk5w1i5diugm7ch3z2lkk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>King Krawkin</title>
+    <ns>0</ns>
+    <id>119490</id>
+    <revision>
+      <id>579037</id>
+      <parentid>571205</parentid>
+      <timestamp>2023-03-11T17:26:01Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>trivia</comment>
+      <origin>579037</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1652" sha1="k6j4089f3sj4q0okahq7tjuevbdrc9p" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = King Krawkin
+|image        = XC3 King Krawkin.png
+|caption      = King Krawkin
+|type         = [[Tirkin]]
+|level        = 102
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 5,383
+|cp           = 421
+|sp           = 5
+|gold         = 5,544
+|hp           = 3,643,200
+|strength     = 3,348
+|healing      = 1,355
+|dexterity    = 462
+|agility      = 290
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 15%
+|guardrate-front   = 20%
+|guardrate-side    = 0%
+|guardrate-back    = 100%
+}}
+'''King Krawkin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Tirkin]] family, and can be found at level 102 in the [[Demihuman Gutter]] in [[Erythia Sea]]. It forms the duo "The King-Kings" with [[Conqueror Deepwan]]. The [[Desperate Charge]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] upon defeating it.
+{{clr}}
+== Resistances ==
+{{XC3 Resistances
+|break       = 75%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+
+== Trivia ==
+* King Krawkin and Conqueror Deepwan are the only Unique Monsters in the {{XC|serieslink}} that are over level 100, but not labeled as [[Superboss]]es.
+
+== Gallery ==
+&lt;gallery&gt;
+The king-kings location.png
+The king-kings krawkin.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>k6j4089f3sj4q0okahq7tjuevbdrc9p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kio Nos</title>
+    <ns>0</ns>
+    <id>121738</id>
+    <revision>
+      <id>598118</id>
+      <parentid>579944</parentid>
+      <timestamp>2023-07-04T15:35:46Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="849" sha1="1zcamf3jm4n2youvt55qbmxtwsxti52" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kio Nos
+|image        = Kio Nos.jpg
+|caption      = Kio Nos
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 62-63
+|area         = [[Origin Interior]] ([[Amplifier No. 1]], [[Amplifier No. 2]], [[Amplifier Section]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kio Nos''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 62-63 at [[Amplifier No. 1]], [[Amplifier No. 2]], and the [[Amplifier Section]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1zcamf3jm4n2youvt55qbmxtwsxti52</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kio Zoonos</title>
+    <ns>0</ns>
+    <id>121739</id>
+    <revision>
+      <id>598136</id>
+      <parentid>579945</parentid>
+      <timestamp>2023-07-04T15:53:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="810" sha1="3y6rfcehbldun45tkgu318hdvjemk76" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kio Zoonos
+|image        = Kio Zoonos.jpg
+|caption      = Kio Zoonos
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 63-64
+|area         = [[Origin Interior]] ([[Amplifier No. 1]], [[Amplifier No. 2]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kio Zoonos''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 63-64 at [[Amplifier No. 1]] and [[Amplifier No. 2]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3y6rfcehbldun45tkgu318hdvjemk76</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Knightlord Tirkin</title>
+    <ns>0</ns>
+    <id>121107</id>
+    <revision>
+      <id>559759</id>
+      <parentid>557270</parentid>
+      <timestamp>2022-09-30T10:51:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559759</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="855" sha1="p3qo7wuye21lpe9o4cp6e03d0qhc762" xml:space="preserve">{{Infobox Enemy
+|name         = Knightlord Tirkin
+|image        = 
+|caption      = Knightlord Tirkin
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Knightlord Tirkins''' are Minor Enemies in {{XC3}}. They are members of the [[Tirkin]] family, and can be found at level ? at [[Ribbi Flats]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>p3qo7wuye21lpe9o4cp6e03d0qhc762</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Knockback (XC3)</title>
+    <ns>0</ns>
+    <id>117110</id>
+    <revision>
+      <id>594418</id>
+      <parentid>572466</parentid>
+      <timestamp>2023-05-28T15:34:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594418</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="506" sha1="mcrsi0lglbpvcwtvlj7nzbcyo27z6y1" xml:space="preserve">{{for|other uses|Knockback}}
+[[File:XC3 Knockback.png|thumb]]
+'''Knockback''' is a reaction status in {{XC3}} and {{XC3FR|sublink}}. It pushes targets away from the attacker, interrupting their current attack and preventing them from attacking while they regain balance. It can be inflicted by certain [[Battle Arts (XC3)|Battle Arts]] and by some enemy attacks.
+
+Certain enemies have resistance or immunity to the status.
+
+{{clr}}
+{{xc3 stub}}
+{{Fr stub}}
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>mcrsi0lglbpvcwtvlj7nzbcyo27z6y1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Knoquehardt's Levnis</title>
+    <ns>0</ns>
+    <id>123788</id>
+    <revision>
+      <id>580344</id>
+      <parentid>559261</parentid>
+      <timestamp>2023-03-24T20:34:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>580344</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1076" sha1="92fmxigroecivct47c3t400rb6ajr32" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Knoquehardt's Levnis
+|image        = 
+|caption      = Knoquehardt's Levnis
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 66
+|area         = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime    = During ''[[Festival of War]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Knoquehardt's Levnis''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. It is [[Knoquehardt]]'s [[Levnis]] fought at level 66 in the [[Colony 11, Training Pit]] at [[Syra Hovering Reefs]] during ''[[Festival of War]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>92fmxigroecivct47c3t400rb6ajr32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Knuckle Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>123189</id>
+    <revision>
+      <id>595157</id>
+      <parentid>559760</parentid>
+      <timestamp>2023-06-11T14:50:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1558" sha1="mkjoupbn9p7km9v5annq7gfv5cjyfmu" xml:space="preserve">{{for|the enemy in {{XC|-}}|Knuckle Bunnit (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Knuckle Bunnit
+|image        = Knuckle Bunnit FR.jpg
+|caption      = Knuckle Bunnit
+|category     = Normal Enemy
+|type         = [[Bunnit]]
+|level        = 43-44
+|area         = [[Rae-Bel Tableland]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Knuckle Bunnits''' are Normal Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 43-44 on [[Rae-Bel Tableland]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Knuckle Bunnit
+|image        = Knuckle Bunnit FR.jpg
+|caption      = Knuckle Bunnit
+|category     = Normal Enemy
+|type         = [[Bunnit]]
+|level        = 4
+|area         = [[Vermilion Woods]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Knuckle Bunnits''' are normal enemies in {{XC3FR}}. They are members of the [[Bunnit]] family, and can be found at level 4 in [[Vermilion Woods]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3FR Bunnits]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3FR Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>mkjoupbn9p7km9v5annq7gfv5cjyfmu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Knuckle Hox</title>
+    <ns>0</ns>
+    <id>123176</id>
+    <revision>
+      <id>582017</id>
+      <parentid>582010</parentid>
+      <timestamp>2023-04-07T19:05:20Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>582017</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="812" sha1="8gigwi9sexjg1iv9gy4299s4v4y89wy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Knuckle Hox
+|image        = Knuckle Hox.png
+|caption      = Knuckle Hox
+|category     = Normal Enemy
+|type         = [[Hox]]
+|level        = 13
+|area         = [[Eagus Wilderness]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Knuckle Hoxes''' are Minor Enemies in {{XC3}}. They are members of the [[Hox]] family and can be found at level 13 in [[Reith Valley]] in the [[Eagus Wilderness]].
+
+== Drops ==
+* [[Sharp Hox Horn]]
+* [[Tough Hox Pelt]]
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8gigwi9sexjg1iv9gy4299s4v4y89wy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kokto Skwaror</title>
+    <ns>0</ns>
+    <id>123001</id>
+    <revision>
+      <id>584259</id>
+      <parentid>559762</parentid>
+      <timestamp>2023-04-20T18:33:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="815" sha1="s8ohtrz9d5vtwu8jnb6hamdq8z00ufi" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Kokto Skwaror
+|image        = Kokto Skwaror.jpg
+|caption      = Kokto Skwaror
+|category     = Minor Enemy
+|type         = [[Skwaror]]
+|level        = 61-64
+|area         = [[Great Cotte Falls]]&lt;br/&gt;[[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Kokto Skwarors''' are Minor Enemies in {{XC3}}. They are members of the [[Skwaror]] family, and can be found at level 61-64 at [[Great Cotte Falls]] and in [[High Maktha Wildwood]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>s8ohtrz9d5vtwu8jnb6hamdq8z00ufi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Koror Vang</title>
+    <ns>0</ns>
+    <id>123194</id>
+    <revision>
+      <id>559763</id>
+      <parentid>553519</parentid>
+      <timestamp>2022-09-30T10:51:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="766" sha1="cq9k5s819who0nf5d65d1s82bpjw9ux" xml:space="preserve">{{Infobox Enemy
+|name         = Koror Vang
+|image        = 
+|caption      = Koror Vang
+|category     = Minor Enemy
+|type         = [[Vang]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Koror Vangs''' are Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level ? in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>cq9k5s819who0nf5d65d1s82bpjw9ux</sha1>
+    </revision>
+  </page>
+  </mediawiki>

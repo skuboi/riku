@@ -1,0 +1,6 @@
+Skill Name: Strengthening Gambit 
+
+Class: Strategos
+
+Skill Buff or Effect:  Extends durations of buff effects issued by delf by 50%. [Rank 5 Master Skill]
+

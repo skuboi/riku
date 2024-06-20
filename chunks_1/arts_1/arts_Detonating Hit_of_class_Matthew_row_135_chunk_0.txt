@@ -1,0 +1,6 @@
+Art Name: Detonating Hit
+
+Class: Matthew
+
+Effect: AOE
+

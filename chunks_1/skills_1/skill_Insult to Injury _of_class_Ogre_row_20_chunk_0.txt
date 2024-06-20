@@ -1,0 +1,6 @@
+Skill Name: Insult to Injury 
+
+Class: Ogre
+
+Skill Buff or Effect:  Boosts damage dealt when attacking toppled enemies by 150%.
+

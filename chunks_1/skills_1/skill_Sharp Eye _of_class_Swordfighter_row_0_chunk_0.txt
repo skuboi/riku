@@ -1,0 +1,6 @@
+Skill Name: Sharp Eye 
+
+Class: Swordfighter
+
+Skill Buff or Effect:  Boosts Dexterity by 50%.
+

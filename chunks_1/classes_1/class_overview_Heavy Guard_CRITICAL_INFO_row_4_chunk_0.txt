@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Heavy Guard
+
+Overview:  
+Heavy Guards specializes in [[Battle Arts (XC3)|arts]] that attract [[Enemy (XC3)|enemies]] while protecting allies with a huge shield-like weapon. With many means of attracting enemies, it is a powerful shield for the party. The [[Battle Arts (XC3)|Talent Art]] of the Heavy Guard is [[Mad Taunt (XC3)|Mad Taunt]]. It is the initial class of [[Lanz]].
+{{clr}}
+
+Arts: {'Mad Taunt': 'AOE / Taunt', 'Bull Rush': 'Topple |Topple', 'Variable Turret': 'Block attacks', 'Crash Out': 'AOE / High aggro (Rank 1 Master Art)', 'Uppercut Slash': 'High aggro', 'Solid Stance': 'Def. up / Atk down (Rank 10 Master Art)'}
+
+Class Skills: {'Defensive Soul': 'Boosts Physical Defense by 10-20%. (Rank 5 Master Skill)', "I'll Protect You": 'Reduces damage taken by allies in a fixed radius by 20-30%.', 'Tenacious Blocker': 'Boosts Block Rate by 30-50% when HP is at 30% or lower. (Rank 15 Master Skill)', 'Aggravator': 'Accrues Aggro every second.'}
+
+Hero Exclusive Arts: nan
+

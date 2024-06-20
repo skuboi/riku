@@ -1,0 +1,6 @@
+Art Name: Demolition
+
+Class: Full Metal Jaguar
+
+Effect: AOE/Pierce(%)
+

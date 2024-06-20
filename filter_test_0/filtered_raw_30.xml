@@ -1,0 +1,1928 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Grilan Moglum</title>
+    <ns>0</ns>
+    <id>121828</id>
+    <revision>
+      <id>594471</id>
+      <parentid>577412</parentid>
+      <timestamp>2023-05-28T20:17:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594471</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2401" sha1="gqtuvcpn6y7plu322b9kbwou1ukcsml" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Grilan Moglum
+|image        = 
+|caption      = Grilan Moglum
+|category     = Normal Minor Enemy
+|type         = [[Moglum]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Grilan Moglums''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Moglum]] family, and can be found at level ? in [[Erythia Sea]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Grilan Moglum
+|image        = 
+|caption      = Grilan Moglum
+|type         = [[Moglum]]
+|movement     = 
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 110
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+One Grilan Moglum is fought at level 110 alongside a [[Crane Serprond (XC3)|Crane Serprond]] and a [[Broon Moglum]] at Stage 90 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Grilan Moglum
+|image        = Grilan Moglum FR.jpg
+|caption      = Grilan Moglum
+|category     = Normal Minor Enemy
+|type         = [[Moglum]]
+|level        = 25
+|area         = [[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Grilan Moglums''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Moglum]] family, and can be found at level 25 in the waters around [[Colony 9 (XC1)|Colony 9]] in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Moglums]]
+[[Category:XC3FR Moglums]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3FR Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>gqtuvcpn6y7plu322b9kbwou1ukcsml</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Growsa Aspar (XC3)</title>
+    <ns>0</ns>
+    <id>118396</id>
+    <revision>
+      <id>599283</id>
+      <parentid>598227</parentid>
+      <timestamp>2023-07-09T16:57:21Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>FR image</comment>
+      <origin>599283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1568" sha1="7io5et81v85yh72cbopm7ehk8x7drxd" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Growsa Aspar (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Growsa Aspar
+|image        = Growsa Aspar XC3.jpg
+|caption      = Growsa Aspar
+|category     = Normal Enemy
+|type         = [[Aspar]]
+|level        = 24-25
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Growsa Aspar''' are enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level 24-25 in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Growsa Aspar
+|image        = Growsa Aspar FR.jpg
+|caption      = Growsa Aspar
+|category     = Normal Enemy
+|type         = [[Aspar]]
+|level        = 43
+|area         = [[Black Mountains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Growsa Aspar''' are normal enemies in {{XC3FR}}. They are members of the [[Aspar]] family, and can be found at level 43 on the [[Black Mountains]].
+{{clr}}
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3FR Aspars]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>7io5et81v85yh72cbopm7ehk8x7drxd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Blaster Elite</title>
+    <ns>0</ns>
+    <id>123202</id>
+    <revision>
+      <id>596129</id>
+      <parentid>559686</parentid>
+      <timestamp>2023-06-16T20:22:33Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="4w61ee9z6rbxh5qp393f9k8ovfrs4o9" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Blaster Elite
+|image        = 
+|caption      = Guard Blaster Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Blaster Elites''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]], and can be found at level ? in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>4w61ee9z6rbxh5qp393f9k8ovfrs4o9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Blocker</title>
+    <ns>0</ns>
+    <id>121707</id>
+    <revision>
+      <id>596130</id>
+      <parentid>559687</parentid>
+      <timestamp>2023-06-16T20:22:35Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="823" sha1="1t77y3b3ari7t85yukhwjjclo1uy24t" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Blocker
+|image        = 
+|caption      = Guard Blocker
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Blockers''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Keves Castle]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>1t77y3b3ari7t85yukhwjjclo1uy24t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Blocker Elite</title>
+    <ns>0</ns>
+    <id>123203</id>
+    <revision>
+      <id>596131</id>
+      <parentid>559688</parentid>
+      <timestamp>2023-06-16T20:22:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="8s1dh73s19ldg45fvqomu3kxkajqvp4" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Blocker Elite
+|image        = 
+|caption      = Guard Blocker Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Blocker Elites''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]], and can be found at level ? in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>8s1dh73s19ldg45fvqomu3kxkajqvp4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Rescuer</title>
+    <ns>0</ns>
+    <id>121708</id>
+    <revision>
+      <id>596132</id>
+      <parentid>559689</parentid>
+      <timestamp>2023-06-16T20:22:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="823" sha1="2i4ydn6ozl84mys30uo2ebh8t318ro2" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Rescuer
+|image        = 
+|caption      = Guard Rescuer
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Rescuers''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Keves Castle]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>2i4ydn6ozl84mys30uo2ebh8t318ro2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Rescuer Elite</title>
+    <ns>0</ns>
+    <id>121709</id>
+    <revision>
+      <id>596133</id>
+      <parentid>559690</parentid>
+      <timestamp>2023-06-16T20:22:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="841" sha1="3jtx8hfdnx675e8xuhx29fqpzt0g349" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Rescuer Elite
+|image        = 
+|caption      = Guard Rescuer Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Rescuer Elites''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Keves Castle]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>3jtx8hfdnx675e8xuhx29fqpzt0g349</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Sniper</title>
+    <ns>0</ns>
+    <id>121710</id>
+    <revision>
+      <id>596134</id>
+      <parentid>559691</parentid>
+      <timestamp>2023-06-16T20:22:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" sha1="88elgg6mbwh1t33xqpaw63gzt2nsz81" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Sniper
+|image        = 
+|caption      = Guard Sniper
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Snipers''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]] family, and can be found at level ? at [[Keves Castle]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>88elgg6mbwh1t33xqpaw63gzt2nsz81</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Trooper</title>
+    <ns>0</ns>
+    <id>123198</id>
+    <revision>
+      <id>596135</id>
+      <parentid>559692</parentid>
+      <timestamp>2023-06-16T20:22:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="803" sha1="9nmvi5v5hlvramqrdofgadndfzj4xxm" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Trooper
+|image        = 
+|caption      = Guard Trooper
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Troopers''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]], and can be found at level ? in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>9nmvi5v5hlvramqrdofgadndfzj4xxm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Trooper Elite</title>
+    <ns>0</ns>
+    <id>123200</id>
+    <revision>
+      <id>596136</id>
+      <parentid>559693</parentid>
+      <timestamp>2023-06-16T20:22:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="1votxztwy239whug0q0p2ps0d6n2a7q" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Trooper Elite
+|image        = 
+|caption      = Guard Trooper Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Trooper Elites''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]], and can be found at level ? in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>1votxztwy239whug0q0p2ps0d6n2a7q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Warrior</title>
+    <ns>0</ns>
+    <id>123199</id>
+    <revision>
+      <id>596137</id>
+      <parentid>559694</parentid>
+      <timestamp>2023-06-16T20:22:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="803" sha1="g3ct7v40d29dh5c24m3qav0qolwuj75" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Warrior
+|image        = 
+|caption      = Guard Warrior
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Warriors''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]], and can be found at level ? in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>g3ct7v40d29dh5c24m3qav0qolwuj75</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guard Warrior Elite</title>
+    <ns>0</ns>
+    <id>123201</id>
+    <revision>
+      <id>596138</id>
+      <parentid>559695</parentid>
+      <timestamp>2023-06-16T20:22:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="821" sha1="sm9l8f5xsuuddv7p1y0r9omt2s17d09" xml:space="preserve">{{Infobox Enemy
+|name         = Guard Warrior Elite
+|image        = 
+|caption      = Guard Warrior Elite
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Keves Castle Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Guard Warrior Elites''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]], and can be found at level ? in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>sm9l8f5xsuuddv7p1y0r9omt2s17d09</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guardchief Paramecia</title>
+    <ns>0</ns>
+    <id>124002</id>
+    <revision>
+      <id>584824</id>
+      <parentid>582324</parentid>
+      <timestamp>2023-04-23T16:21:57Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584824</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1205" sha1="tf9fk7i7wt4shoq9ndljt1mwy43iymq" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Guardchief Paramecia
+|image        = Guardchief Paramecia.jpg
+|caption      = Guardchief Paramecia
+|category     = Minor Enemy
+|type         = [[Tirkin]]
+|level        = 98
+|area         = [[Erythia Sea]] ([[Demihuman Gutter]])
+|spawntime    = Spawned by [[King Krawkin]]
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Guardchief Paramecia''' is a Minor Enemy in {{XC3}}. It is a member of the [[Tirkin]] family, and can be found at level 98 in the [[Demihuman Gutter]] in [[Erythia Sea]], and is summoned by [[King Krawkin]]'s Royal Orders art. When summoned, it will use an art on the party and then immediately disappear from the battle.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tf9fk7i7wt4shoq9ndljt1mwy43iymq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Guardian Commander</title>
+    <ns>0</ns>
+    <id>117341</id>
+    <revision>
+      <id>598089</id>
+      <parentid>597113</parentid>
+      <timestamp>2023-07-04T12:51:30Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>598089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7282" sha1="0ooywuv4jw6qvo0zafb0ohvly40bc98" xml:space="preserve">{{quote|A Defender whose skills shine even brighter in the face of adversity. A ray of hope on the field of battle.|Class menu description}}
+[[File:XC3 Guardian Commander Weapon Icon.png|thumb|180px|The Guardian Commander class icon]]
+'''Guardian Commander''' (Japanese: {{lang|ja|&#12460;&#12540;&#12487;&#12451;&#12450;&#12531;&#12467;&#12510;&#12531;&#12480;&#12540;}}, ''G&#257;dian komand&#257;'') is a [[Keves]]i [[Defender (XC3)|Defender]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1536243206710784001].&lt;/ref&gt;
+
+== Overview ==
+Guardian Commanders specialize in protecting their allies. They fight with the [[Blade (XC3)|Gutsy Gladius]], a sword and shield. Their abilities are enhanced by adversity, making them reliable companions to stand up to strongest [[Enemy (XC3)|enemies]]. Guardian Commander is the Class of [[Zeon]]. 
+
+It is unlocked after the [[Hero Quest]] ''[[Where The Heart Is]]'', and is upgraded with ''[[Reasons to Evolve]]''.
+
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|''Class Inheritor''
+|4,250
+|5,100
+|5,950
+|3,400
+|2,550
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 220
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 220
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 270
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 270
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 325
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 325
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 355 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 380
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Reasons to Evolve]]''
+|-
+| 11 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 470
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 470
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 590
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 590 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 705
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 705
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 760
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 880
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Guardian Commander class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 110% || 70% || 30% || 100% || 70% || 40% || 30%
+|-
+| 10 || 115% || 72% || 32% || 102% || 72% || 45% || 32%
+|-
+| 20 || 120% || 75% || 35% || 105% || 75% || 50% || 35%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 16 || 4% || 30%
+|-
+| 10 || 36 || 4% || 31%
+|-
+| 20 || 65 || 5% || 32%
+|-
+| 30 || 100 || 5% || 33%
+|-
+| 40 || 140 || 6% || 34%
+|-
+| 50 || 187 || 6% || 35%
+|-
+| 60 || 239 || 6% || 36%
+|-
+| 70 || 296 || 7% || 37%
+|-
+| 80 || 361 || 7% || 38%
+|-
+| 90 || 434 || 8% || 39%
+|-
+| 99 || 508 || 8% || 40%
+|}
+== Arts ==
+* '''[[Deflector Field]]''' ([[Battle Arts (XC3)|Talent Art]]) - Absorb damage/[[Awakening (XC3)|Awaken]]
+* [[Imperial Sword (XC3)|Imperial Sword]] - Awakened Boost
+* [[Shield Bash (XC3)|Shield Bash]] - [[Topple (XC3)|Topple]] (Rank 10 Master Art)
+* [[Falcon Swoop]] - AOE / Awakened Boost
+* [[Noble Taunt]] - Taunt (Rank 1 Master Art)
+* [[Grand Protection]] - Block Rate+/Atk Down
+
+=== Hero-Exclusive Arts ===
+* [[Proud Edge]], AOE / Awakened Boost
+* [[Celestial Strike]], Knockback/Awakened+
+* [[Victory Shift]], Block Rate+/Atk Down
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 6.png]] '''Mind for Guarding''': Increase damage reduction rate when blocking by 10-20 percentage points. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 12.png]] '''I'll Help''': Take attacks for nearby allies with low HP. Damage taken is reduced by 15-20%.
+* [[File:XC3 Skill Icon 32.png]] '''Soldier's Potential''': When HP is at 30% or lower, restore 0.6-1.4% HP each second.
+* [[File:XC3 Skill Icon 17.png]] '''Protector's Pride''': Boost recharge speed by 30-50% when non-Defenders are targeted. (Rank 5 Master Skill)
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:100%;"
+!Class Rank
+!I'll Help
+!Soldier's Potential
+!Protector's Pride
+!Mind for Guarding
+|-
+| 1
+| 15%
+| 0.6%
+| 30%
+| 10
+|-
+| 5
+| 16%
+| 0.8%
+| 35%
+| 12
+|-
+| 10
+| 17%
+| 1%
+| 40%
+| 15
+|-
+| 15
+| 18%
+| 1.2%
+| 45%
+| 17
+|-
+| 20
+| 20%
+| 1.4%
+| 50%
+| 20
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Zeon Artwork.png|Zeon, a Guardian Commander
+XC3 Noah as Guardian Commander.jpg|Noah as a Guardian Commander
+Guardian Commander Noah.png|Noah as a Guardian Commander
+Guardian Commander Mio.png|Mio as a Guardian Commander
+Guardian Commander Eunie.png|Eunie as a Guardian Commander
+Guardian Commander Taion.png|Taion as a Guardian Commander
+Guardian Commander Lanz.png|Lanz as a Guardian Commander
+Guardian Commander Sena.png|Sena as a Guardian Commander
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>0ooywuv4jw6qvo0zafb0ohvly40bc98</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gularth Armu</title>
+    <ns>0</ns>
+    <id>121885</id>
+    <revision>
+      <id>559696</id>
+      <parentid>547024</parentid>
+      <timestamp>2022-09-30T10:48:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="807" sha1="1tzjc7exes7991zwrepuh7800jctn3v" xml:space="preserve">{{Infobox Enemy
+|name         = Gularth Armu
+|image        = 
+|caption      = Gularth Armu
+|category     = Minor Enemy
+|type         = [[Armu]]
+|level        = ?
+|area         = [[Agnus Castle Barbican]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Gularth Armus''' are Minor Enemies in {{XC3}}. They are members of the [[Armu]] family, and can be found at level ? at [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Armus]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>1tzjc7exes7991zwrepuh7800jctn3v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gulkin</title>
+    <ns>0</ns>
+    <id>119082</id>
+    <revision>
+      <id>602011</id>
+      <parentid>600746</parentid>
+      <timestamp>2023-07-22T12:22:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Unique Monsters */</comment>
+      <origin>602011</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" sha1="ts4d43i6bgx2d1vgbwqwb766dpwljra" xml:space="preserve">[[File:Virtuous Gulkin.jpg|thumb|210px|A Gulkin]]
+'''Gulkins''' are a family of enemies in {{XC3}}. They share many similarities with [[Tirkin]].
+{{clr}}
+
+== Normal Minor Enemies ==
+* [[Archbard Gulkin]]
+* [[Archbow Gulkin]]
+* [[Archknight Gulkin]]
+* [[Archpike Gulkin]]
+* [[Javelin Gulkin]]
+* [[Minstrel Gulkin]]
+* [[Musketeer Gulkin]]
+* [[Ranger Gulkin]]
+
+== Unique Monsters ==
+* [[Heroic Gulkin]]
+* [[Virtuous Gulkin]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3 Humanoids]]
+[[Category:Gulkins]]
+[[Category:Species by Type]]</text>
+      <sha1>ts4d43i6bgx2d1vgbwqwb766dpwljra</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gushing Masquin</title>
+    <ns>0</ns>
+    <id>119405</id>
+    <revision>
+      <id>583298</id>
+      <parentid>574375</parentid>
+      <timestamp>2023-04-17T15:32:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583298</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1378" sha1="54ar4ebt81pxljaqhfrc9r6mbiqnu18" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Gushing Masquin
+|image        = XC3 Gushing Masquin.png
+|caption      = Gushing Masquin
+|type         = [[Piranhax]]
+|level        = 24
+|area         = [[Yzana Plains]] ([[Colony 9 (XC3)|Colony 9]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 380
+|cp           = 250
+|sp           = 5
+|gold         = 316
+|hp           = 251,250
+|strength     = 511
+|healing      = 151
+|dexterity    = 89
+|agility      = 116
+|physdef      = 15%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Gushing Masquin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Piranhax]] family, and can be found at level 24 near the river just east of [[Colony 9 (XC3)|Colony 9]] in [[Yzana Plains]]. The [[Soulhacker#Enemy Skills|Dodge Acceleration]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 35%
+|physdebuff = 25%
+|etherdebuff = 30%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Gushing masquin location.png
+Gushing masquin.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>54ar4ebt81pxljaqhfrc9r6mbiqnu18</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gust Bracelet</title>
+    <ns>0</ns>
+    <id>118959</id>
+    <revision>
+      <id>592786</id>
+      <parentid>592435</parentid>
+      <timestamp>2023-05-15T20:15:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592786</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1058" sha1="73u3ijt1sv1v71i8bkuigj555gtzqbe" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gust Bracelet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Master Arts will be 90% charged when starting a battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gust Bracelet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Master Arts will be 95% charged when starting a battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gust Bracelet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Master Arts will be 100% charged when starting a battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7950 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gust Bracelets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>73u3ijt1sv1v71i8bkuigj555gtzqbe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gust Vang (XC3)</title>
+    <ns>0</ns>
+    <id>121120</id>
+    <revision>
+      <id>560323</id>
+      <parentid>559697</parentid>
+      <timestamp>2022-10-03T16:15:06Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>for link</comment>
+      <origin>560323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="828" sha1="ouw22oo6ckz5gviu199jdhzbint96s1" xml:space="preserve">{{for|the enemy in {{XC|-}}|Gust Vang (XC1)}}
+{{Infobox Enemy
+|name         = Gust Vang
+|image        = 
+|caption      = Gust Vang
+|category     = Minor Enemy
+|type         = [[Vang]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Gust Vangs''' are Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level ? at [[Rae-Bel Tableland]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ouw22oo6ckz5gviu199jdhzbint96s1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gustav</title>
+    <ns>0</ns>
+    <id>125502</id>
+    <revision>
+      <id>597822</id>
+      <parentid>596139</parentid>
+      <timestamp>2023-07-02T16:34:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Affinity */cat.</comment>
+      <origin>597822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2117" sha1="tu8i4ms774b0gziizqrm69zdzq8ry13" xml:space="preserve">{{Infobox_NPC
+|name        = Gustav
+|image       = XC3 Gustav Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = 
+|age         = 7th Term
+|location    = [[Syra Hovering Reefs]] ([[Fort O'Virbus]])
+}}
+'''Gustav''' is a NPC in {{XC3}} who can be found in [[Fort O'Virbus]].
+
+== Overview ==
+Gustav is the superintendent of the [[Ether Mine (XC3)|Ether Mine]] on [[Hovering Reef 1 (XC3)|Hovering Reef 1]]. He used his position to secretly siphon ether in order to create an army of [[Levnis]]es, and commit an assault [[Agnus]] in hopes of sparking another war, but was ultimately unsuccessful in starting a war. 
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Gustav
+|image        = 
+|caption      = Gustav
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 71
+|area         = [[Fort O'Virbus]]
+|spawntime    = During ''[[The True Inspector]]''
+|respawn      = No
+|exp          = 
+|cp           = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Gustav''' is a is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are an [[Keves Forces|Keves Soldier]], and is fought at level 71 in [[Fort O'Virbus]] during ''[[The True Inspector]]''.
+
+{{clr}}
+== Affinity ==
+{{XC3 Affinity Link
+| npc1 = Gustav
+| npc2 = Heath
+| affinity = green
+| caption = Ridiculously strait-laced
+| direction = left
+}}
+{{XC3 Affinity Link
+| npc1 = Gustav
+| npc2 = Luciona
+| affinity = pink
+| caption = Devoted follower of 
+| direction = right
+}}
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 NPCs missing info]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>tu8i4ms774b0gziizqrm69zdzq8ry13</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gyaark</title>
+    <ns>0</ns>
+    <id>119170</id>
+    <revision>
+      <id>602012</id>
+      <parentid>600747</parentid>
+      <timestamp>2023-07-22T12:22:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602012</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="756" sha1="sbj0yefuij9ytwizifa3krgf03r4poz" xml:space="preserve">'''Gyaarks''' are a family of shark-like aquatic enemies in {{XC3}} and {{XC3FR|sublink}}.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Karifo Gyaark]]
+* [[Pashfe Gyaark]]
+
+=== Quest Exclusive Enemies ===
+* [[Delit Gyaark]] (During ''[[Doing It My Way]]'')
+
+=== Unique Monsters ===
+* [[Intrusive Neville]]
+* [[Sharkblade Nedd]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Pashfe Gyaark]]
+
+== Gallery ==
+&lt;gallery&gt;
+Sharkblade Nedd.jpg|Sharkblade Nedd
+XC3 Intrusive Neville.png|Intrusive Neville
+&lt;/gallery&gt;
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Gyaarks]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Gyaarks]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Gyaarks]]
+[[Category:Species by Type]]</text>
+      <sha1>sbj0yefuij9ytwizifa3krgf03r4poz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gyanna Aspar</title>
+    <ns>0</ns>
+    <id>121064</id>
+    <revision>
+      <id>576747</id>
+      <parentid>567125</parentid>
+      <timestamp>2023-02-13T01:55:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576747</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1035" sha1="ansy5dbcx6oy6j73ltau0320gcv5h6r" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Gyanna Aspar
+|image        = 
+|caption      = Gyanna Aspar
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Aspar]]
+|level        = 16
+|area         = [[Eagus Wilderness]] ([[Ricoth Wellspring]])
+|spawntime    = During ''[[Riku and Manana]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Gyanna Aspar''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. It is a member of the [[Aspar]] family, and can be found at level 16 at [[Ricoth Wellspring]] in the [[Eagus Wilderness]] during ''[[Riku and Manana]]''. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ansy5dbcx6oy6j73ltau0320gcv5h6r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gyrinus</title>
+    <ns>0</ns>
+    <id>121892</id>
+    <revision>
+      <id>581302</id>
+      <parentid>568182</parentid>
+      <timestamp>2023-04-03T12:41:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1377" sha1="i2oxgel7y3yw6hxwnitfrjiqq052lh5" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Gyrinus
+|image        = XC3 Gyrinus.jpg
+|caption      = Gyrinus
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 48
+|area         = [[Agnus Castle Barbican]]
+|spawntime    = Story
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Gyrinus''' is a [[Boss (XC3)|Boss]] in {{XC3}}. They are [[Agnus|Agnian]] [[Levnis]]es. Three Gyrinuses appear during [[Chapter 5 (XC3)|Chapter 5]] at [[Agnus Castle Barbican]] in the [[Cadensia Region]], but only a single level 48 one is fought. When they appear, they are described as the [[Agnus Castle|Castle]] Guard.
+{{clr}}
+
+== Etymology ==
+The name Gyrinus is possibly derived from the beetle family of the [https://en.wikipedia.org/wiki/Gyrinus same name].
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>i2oxgel7y3yw6hxwnitfrjiqq052lh5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>H</title>
+    <ns>0</ns>
+    <id>118607</id>
+    <revision>
+      <id>594942</id>
+      <parentid>594941</parentid>
+      <timestamp>2023-06-06T18:11:32Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <minor/>
+      <origin>594942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6174" sha1="mr29mq7we9nnouks9d9zz2kwomuy6cc" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = H
+|image         = Consul H.jpg
+|species       = [[Moebius]]
+|age           = 
+|gender        = Female
+|haircolor     = 
+|eyecolor      = Blue
+|affiliation   = [[Consul]]s
+|voiceactorjp  = [[wikipedia:Fumi Hirano|Fumi Hirano]]
+|voiceactoreng = [[wikipedia:Flora Montgomery|Flora Montgomery]]
+|appearances   = {{XC3}}
+}}
+{{Quote|You like my children? They're an anti-City special unit, one that I have diligently and lavished with love myself. It has been back-breaking to educate them so. They'll have to earn much, much more life for me before they're done. I hate failed investments. So you see... I'll take you brats out myself to protect mine!|H}}
+'''H''' is a character in {{XC3}}.
+
+== Overview ==
+H is a [[Consul]]. She leads her own [[H's Colony|Moebius-controlled colony]], and is fought during ''[[Side Story: Lanz]]''.
+
+== Story ==
+A few days prior to the battle in [[Alfeto Valley]], for unknown reasons- possibly just for her own amusement, H destroyed [[Colony 8]]. After doing so, she used some of its residents for her own experiments using a different type of flame clock in her own Colony, made up of hand picked soldiers.
+
+[[File:Consul screenshot.png|thumb|left|With E, P, and O]]
+H is present at [[Origin]], during a discussion between all the consuls on the results of the conflict in Alfeto Valley after [[D]] and [[Joran|J]] return to Origin. As [[O]], [[P]] and [[E]] discuss the recent awakening of [[Ouroboros]], H insists that this means she should be the one to deal with them, only for E to remind her that she already had her fun with her recent destruction of Colony 8, insisting that he be the one to take care of them instead. This discussion is ended by [[Z]] interjecting that they are being too noisy, and in the end, [[K]] is chosen by [[N]] over them both to go deal with the group. 
+
+After K's defeat and failure to wipe out Ouroboros in [[Colony 4]], the consuls again meet in Origin. While D is explaining why he had to retreat from his battle Ouroboros in the valley to O and P, H claims he is just making an excuse, to which he asks what she means. Before she can answer, however, J arrives to state he plans to go and deal with the group on his own.
+
+Sometime after the defeat of O and P, she decides to make her move. She discusses her plans to attack the [[City]] with [[Y]], who tells her she cannot gain life from them as they are not connected to any Flame Clock. She then tells him she will be using her special Flame Clock and the soldiers connected to it to make it possible. After which she sets a trap at the [[Cradle Convoy Shelter]], planting empty life pods, to attract the attention of the City.
+
+As H predicted, the City, along with [[Noah]] and the rest of Ouroboros fall into the trap, and her soldiers ambush them. After Noah and the others defeated the ambushing soldiers, H appeared on the scene, chiding her soldiers for their defeat, and deciding that it was up to her to defeat Noah but is ultimately defeated herself.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius H
+|image        = Moebius H.jpg
+|caption      = Moebius H
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 48
+|area         = [[Great Sword's Base]] ([[Cradle Convoy Shelter]])
+|spawntime    = During ''[[Side Story: Lanz]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,944
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 2,272,450
+|strength     = 1,047
+|healing      = 308
+|dexterity    = 162
+|agility      = 151
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Moebius H''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is a [[Moebius]], and is fought at level 48 at the [[Cradle Convoy Shelter]] in the [[Great Sword's Base]] during ''[[Side Story: Lanz]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+=== Archsage's Gauntlet ===
+{{Infobox XC3 Enemy
+|name         = Moebius H
+|image        = 
+|caption      = Moebius H
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Moebius]]
+|level        = 65, 73
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = Moebius Interference during ''[[Gauntlet: Pro]]'' 
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+In the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]'', Moebius H can be summoned during the "Moebius Interference" event as a Minor Enemy. She can appear at level 65 on stages 1-3 and at level 73 on stages 17-19.
+{{clr}}
+
+== Quotes ==
+* ''"In that case... I believe it's my turn next..."''
+* ''"Excuses are ten a penny."''
+* ''"Yes, I am aware. That's why I'll have my toy soldiers play a little game. The lives of the fallen will be amassed, in this... special Flame Clock, as a reward for the final lass or lad standing.''
+* ''"My, Ouroboros as well? I can't believe my luck. I suppose I ought to have prepared better still."''
+* ''"What is this? Nobody told me the Ouroboros whelps were so... horribly strong! Why did no one tell me?"''
+* ''"This simply isn't faaaaaaaaaaaaaair!"''
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Consuls W and H.jpg|Consul and Moebius H concept art
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing an infobox image]]</text>
+      <sha1>mr29mq7we9nnouks9d9zz2kwomuy6cc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HD Ether Cylinder+</title>
+    <ns>0</ns>
+    <id>123906</id>
+    <revision>
+      <id>584706</id>
+      <parentid>571492</parentid>
+      <timestamp>2023-04-22T16:58:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3562" sha1="482v8sptohwp502it5jymsnqgaoljft" xml:space="preserve">{{for|other Ether Cylinder varieties|Ether Cylinder}}
+{{Infobox item
+|name     = HD Ether Cylinders+
+|image    = 
+|caption  = HD Ether Cylinders+
+|type     = 
+|rarity   = 
+|source   = 
+|sell     = 1000 [[Gold|G]] (Must be sold to [[Totoma]])
+}}
+'''Handy-Dandy Ether Cylinders+''', or '''HD Ether Cylinders+''' for short, are special items in {{XC3}}.
+
+== Overview ==
+HD Ether Cylinders+ are used to upgrade [[Ino]]'s Battle abilities with [[Inoswap]]. Unlike normal [[Ether Cylinder (XC3)|Ether Cylinders]], they can only be filled at designated [[Ether Sphere (mechanic)|Ether Spheres]], which are typically guarded by monsters. After Ino is 100% upgraded with Inoswap, HD Ether Cylinders+ can be sold to [[Totoma]]. They can be sold one at a time, and in groups of 5, 10, and 50 HD Ether Cylinders+, with each cylinder being worth 1000 [[Gold|G]].
+
+== Upgrading ==
+After completing the [[Quest (XC3)|quest]] ''[[Going Full HD]]'', speaking to Totoma will allow the party to upgrade their HD Ether Cylinders+. Upgrading requires giving select items in order to raise completion to 100%. Higher grade cylinders can collect more High Ether from Ether Spheres.
+
+&lt;tabber&gt;
+Ver. 2.0 =
+{| class="xc1"
+! Name
+! Rarity
+! Gain
+|-
+| [[Sunny's Sampler Set]] || [[file:Rarity Common.png|42px]] || 100%
+|}
+|-|
+Ver. 3.0 =
+{| class="xc1 sortable"
+! Name
+! Rarity
+! Gain
+|-
+| [[Helix Tube (XC3)|Helix Tube]]
+| data-sort-value="3" | [[file:Rarity Legendary.png|42px]]
+| +25%
+|-
+| [[Warning Lamp (XC3)|Warning Lamp]]
+| data-sort-value="3" | [[file:Rarity Legendary.png|42px]]
+| +15%
+|-
+| [[Ever-Revolfin]]
+| data-sort-value="1" | [[file:Rarity Common.png|42px]]
+| +5%
+|-
+| [[Blue Chain (XC3)|Blue Chain]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +8%
+|-
+| [[Warrior Screw (XC3)|Warrior Screw]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +10%
+|-
+| [[Stinger Pile]]
+| data-sort-value="1" | [[file:Rarity Common.png|42px]]
+| +3%
+|-
+| [[Trippleg Joint]]
+| data-sort-value="1" | [[file:Rarity Common.png|42px]]
+| +5%
+|}
+|-|
+Ver. 4.0 =
+{| class="xc1 sortable"
+! Name
+! Rarity
+! Gain
+|-
+| [[Giant's Limb]]
+| data-sort-value="3" | [[file:Rarity Legendary.png|42px]]
+| +16%
+|-
+| [[Green Diode (XC3)|Green Diode]]
+| data-sort-value="3" | [[file:Rarity Legendary.png|42px]]
+| +27%
+|-
+| [[Android Gear (XC3)|Android Gear]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +4%
+|-
+| [[Thermal Parts]]
+| data-sort-value="1" | [[file:Rarity Common.png|42px]]
+| +3%
+|-
+| [[Shield Emitter]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +5%
+|-
+| [[Ocular Sensor]]
+| data-sort-value="1" | [[file:Rarity Common.png|42px]]
+| +2%
+|-
+| [[Fluid Cranker]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +10%
+|}
+|-|
+Ver. 5.0 =
+{| class="xc1 sortable"
+! Name
+! Rarity
+! Gain
+|-
+| [[Gastrates Ether Furnace]]
+| data-sort-value="3" | [[file:Rarity Legendary.png|42px]]
+| +32%
+|-
+| [[Auxilia Cylinder]]
+| data-sort-value="3" | [[file:Rarity Legendary.png|42px]]
+| +37%
+|-
+| [[Equites Loading Core]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +11%
+|-
+| [[Sagittarius Frame]]
+| data-sort-value="1" | [[file:Rarity Common.png|42px]]
+| +5%
+|-
+| [[Testudo Shoulder Gun]]
+| data-sort-value="1" | [[file:Rarity Common.png|42px]]
+| +3%
+|-
+| [[Avis Sphere]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +8%
+|-
+| [[Variable Centuris Claw]]
+| data-sort-value="2" | [[file:Rarity Rare.png|42px]]
+| +9%
+|}
+&lt;/tabber&gt;
+
+[[Category:XC3 Items]]
+[[Category:XC3 Mechanics]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>482v8sptohwp502it5jymsnqgaoljft</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hackt</title>
+    <ns>0</ns>
+    <id>119351</id>
+    <revision>
+      <id>597737</id>
+      <parentid>596074</parentid>
+      <timestamp>2023-07-02T16:27:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>597737</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2167" sha1="hhrqwosv7okuapq9zhb6m4ei8or1dpb" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Hackt
+|image        = XC3 Hackt Icon.png
+|species      = [[Agnus|Agnian]] human
+|gender       = Male
+|age          = 9th Term
+|haircolor    = Brown
+|eyecolor     = Brown
+|affiliation  = [[Colony Gamma]] (formerly)&lt;br/&gt;[[Colony Omega]] (formerly)&lt;br/&gt;[[Lost Numbers]]
+|voiceactorjp = 
+|voiceactoreng= 
+|appearances  = {{XC3}}
+}}
+'''Hackt''' (Japanese: {{lang|ja|&#12495;&#12463;&#12488;}}, ''Hakuto'') is a character in {{XC3}}.
+
+== Overview ==
+Hackt is an [[Agnus]] soldier from [[Colony Gamma]], and an acquaintance of [[Mio]], [[Sena]] and [[Taion]]. He is killed by the [[Mysterious Enemy]] in Chapter 1, but brought back to life by [[Y]] in Chapter 6. Following his release from Y's control, he moves to the [[City]] and becomes good friends with [[Mwamba]].
+
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Hackt
+|image        = Hackt.jpg
+|caption      = Hackt
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 53
+|area         = [[Captocorn Peak]] ([[Colony Omega]])
+|spawntime    = During ''[[Side Story: Mio]]''
+|respawn      = No
+|movement     = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Hackt''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is an [[Agnus Forces|Agnus Soldier]] who is fought at level 53 in [[Colony Omega]] on [[Captocorn Peak]] during ''[[Side Story: Mio]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hackt2.jpg|Hackt with Weapon
+Hackt3.jpg|Mysterious Enemy holding Hackt
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:XC3 Agnians]]
+[[Category:Lost Numbers]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>hhrqwosv7okuapq9zhb6m4ei8or1dpb</sha1>
+    </revision>
+  </page>
+  </mediawiki>

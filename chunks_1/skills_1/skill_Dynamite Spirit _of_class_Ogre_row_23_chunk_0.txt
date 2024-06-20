@@ -1,0 +1,6 @@
+Skill Name: Dynamite Spirit 
+
+Class: Ogre
+
+Skill Buff or Effect:  Boosts damage dealt by 60% when HP is at 90% or higher. [Rank 15 Master Skill]
+

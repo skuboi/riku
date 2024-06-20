@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Lost Vanguard
+
+Overview: ,== Overview ==
+Lost Vanguard is the class of [[Monica Vandham|Monica]]. The class focuses on guarding allies with their shield and their arts, while crushing enemies with their [[Blade (XC3)|Defense Mace]]. 
+
+It is unlocked by completing the [[Hero Quest]] ''[[Vandham's Heir]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Promise to the Future]]''.
+
+Arts: {'Thunder Steel': 'AOE/Bind |Bind/Machines↑ * Shockwave, Knockback mid-Art enemy * Taunt Pulse, Cont. dmg/Fast aggro * Mighty Beat |Mighty Beat, AOE/High Aggro/Smash |Smash (Rank 10 Master Art) * Shield Wall |Shield Wall, Block/Heal/Ether anchor (Rank 1 Master Art) * Electro Field, Field / Armor Veil'}
+
+Class Skills: {'Stay Right There': 'When taking damage, 10-20% chance to inflict Knockback on assailant.', "Come an' Get Me!": 'When blocking, deals 100-200% of Attack damage to enemy, drawing aggro. (Rank 15 Master Skill)', "Now That's Tactics!": 'At start of Chain Attack, increase TP by 5-10. (Rank 5 Master Skill)', 'Never Again!': 'Grants 10-20% chance to absorb attack dealt to allies within range.'}
+
+Hero Exclusive Arts: {'Geo Breaker': 'AOE/High Aggro/[[Smash (XC3)|Smash]]', 'Bolt Flinger': 'Field / Armor Veil', 'Lightning Strike': 'High aggro / [[Blowdown (XC3)|Blowdown]]'}
+

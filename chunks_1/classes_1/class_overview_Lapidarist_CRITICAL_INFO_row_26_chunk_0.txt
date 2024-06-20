@@ -1,0 +1,22 @@
+Parent Category: Class (Weapon)
+
+Title: Lapidarist
+
+Overview: Lapidarist is the class of Masha. It is unlocked upon completing the Hero Quest Lapidarist Extraordinaire, and is inherited by Mio. The class rank limit is increased to 20 upon completing For the Sake of Keepsakes. The Blades of the Lapidarist class are known as the Dazzling Rings, ring-shaped weapons similar to Mio's Dual Moonblades. Despite being classified as being part of the Lost Numbers, arts belonging to the Lapidarist class function like those of Kevesi classes.
+
+Arts: {'Pride of Place (Talent Art)': 'Field / Blaze & Regen',
+'Blessed Edge':  'Area heal on hit',
+'Rigid Slicer': 'AOE / Slow charge (Rank 1 Master Art)',
+'Prismatic Ring': 'Field / Arts heal',
+'Golden Heart': 'AOE / Fast charge',
+'Vivid Carve': 'Remove buffs (Rank 10 Master Art)'}
+
+Class Skills: {'Star Treatment': 'On critical hit, heal nearby allies to max of 70% of Healing Power.',
+'Beaming Edge': 'Boosts all allies' Critical Rate by 12-20% and critical hit damage by 30-50 perc. points. (Does not stack.) (Rank 15 Master Skill)',
+'Fascinator': 'Boosts damage dealt when in range of a field effect 50-70%.',
+'Ring à la Mode': 'Increases the maximum number of fields that can be set from 3 to 4. (Does not stack.) (Rank 5 Master Skill)'}
+
+Hero Exclusive Arts: {'Solid Silver': 'AOE / Slow charge',
+'Majestic Zone': 'Field / Arts heal',
+'Platinum Shards': 'Remove buffs'}
+

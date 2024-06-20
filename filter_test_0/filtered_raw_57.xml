@@ -1,0 +1,3217 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rex</title>
+    <ns>0</ns>
+    <id>68457</id>
+    <revision>
+      <id>601289</id>
+      <parentid>599586</parentid>
+      <timestamp>2023-07-22T10:00:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */</comment>
+      <origin>601289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="76579" sha1="085e50d5euxeoojadmilu5907us2r3w" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Rex
+|image         = &lt;tabber&gt;
+XC2 = [[File:Rex pic.png]]
+|-|
+XC3:FR = [[File:XC3FR Rex portrait.png]]
+&lt;/tabber&gt;
+|caption       = Rex
+|gender        = Male
+|age           = 15 ({{XC2|-}})&lt;ref&gt;2017-06-13, [https://nintendoeverything.com/xenoblade-chronicles-2-director-on-development-inspiration-for-the-world-and-setting-upcoming-dlc-more/ Tetsuya Takahashi about {{XC2}}. ''Nintendo Everything'', accessed on 2021-04-07&lt;/ref&gt;
+|species       = [[Leftherian]]
+|haircolor     = Brown
+|eyecolor      = Gold
+|affiliation   = [[Liberators]]
+|occupation    = [[Salvaging|Salvager]]&lt;br/&gt;Leader of the [[Liberators]]
+|voiceactorjp  = [[wikipedia:Hiro Shimono|Hiro Shimono]]
+|voiceactoreng = [[wikipedia:Al Weaver|Al Weaver]] (''XC2'')&lt;br/&gt;[https://www.imdb.com/name/nm0640758/ Fergus O'Donnell] (''XC3FR'')
+|appearances   = {{XC2}}&lt;br /&gt;{{TTGC}}&lt;br /&gt;{{XC3}}&lt;br /&gt;{{XC3FR|sublink}}
+|other         = {{SSBU}}
+}}
+{{quote|An entire horizon of white. A sea of clouds, and at its heart, the World Tree, piercing the heavens...|Rex}}
+'''Rex''' (Japanese: {{lang|ja|&#12524;&#12483;&#12463;&#12473;}}, ''Rekkusu''; [[English dub pronunciations|English dub]]: {{IPA|/&#712;&#633;&#603;ks/}}) is the main playable character and the male protagonist of {{XC2}}. He is a [[Driver]] who harnesses the power of a [[Blade (XC2)|Blade]] named [[Pyra]], also known as the legendary [[Aegis]]. Rex devotes himself into protecting her, and together with Pyra, he goes on a quest to find her long-lost home, [[Elysium]]. Due to the Aegis' duality, Rex can use the power of the other incarnation of the weapon, [[Mythra]].
+
+Rex was designed by Masatsugu Sait&#333;, the lead character designer for the game.
+
+== Personality ==
+Rex is an optimistic and easy-going, yet naive, young boy. He wishes to protect and support those close to him, to the point that he sends most of the money he obtains from salvaging to his home village. However, Rex tends to be careless and overconfident, which puts him and his companions in trouble from time to time.
+
+Since being a kid, Rex had a strong sense of justice and was against conflict and war; due to this, he wants to reach Elysium, as he believes that, by doing so, he can save humanity from its dying world. He fears causing suffering to others with his actions, usually blaming himself whenever someone is hurt or killed.
+
+As an adult, Rex is still free-spirited and optimistic, but he has shed his old naivety as a result of his many adventures and the later war with Moebius and can be far more blunt than he used to be when he is upset. Due to having no real family to speak of besides Azurda, he initially finds it difficult to get along with his daughter [[Glimmer]]. However, the two eventually begin to grow closer and Rex proclaims that he will do anything to keep her safe, even if it costs him his life.
+
+Rex and [[Shulk]] are shown to be close friends. The two leaders of the [[Liberators]] have complete trust in each other and know very well of how the other thinks.
+
+Rex is shown to have become a talented cook as an adult as shown during ''[[Cooking with Rex, Part 1|Cooking with Rex, Parts 1]], [[Cooking with Rex, Part 2|2]], and [[Cooking with Rex, Part 3|3]]'', as well as during ''[[Linka's Birthday]]''.
+
+== Appearance ==
+=== In {{XC2|-}} ===
+Rex is a young teen with short brown hair and golden eyes. After awakening Pyra, part of her [[Core Crystal]] appears on his chest in an X shape. Rex usually wears a blue, brown and gold salvager gear on a blue outfit which is completely covered when salvaging. He wears an anchor on his left arm and a diving helmet in which he usually carries [[Azurda]].
+
+As the Master Driver, Rex wears futuristic-looking white and green armor, matching [[Pneuma]]'s. It maintains the overall shape of Rex's initial armor, and is functional for salvaging.
+
+==== Alternate Costumes ====
+[[File:Rex alts.png|thumb|right|240px|Cloud Sea Shark, Cloud Sea King, Prototype Suit]]
+Rex has three alternate costumes which can be obtained as DLC [[Accessory (XC2)|Accessories]] via [[Challenge Battle Mode]]. These are:
+* [[Cloud Sea Shark Rex]]
+* [[Cloud Sea King Rex]]
+* [[Prototype Suit Rex]]
+{{clr}}
+
+=== In {{XC3|-}} ===
+Rex wears bluish village clothing as an adult. He also grows taller and develops a facial structure similar to [[Addam]]'s.
+
+=== In {{XC3FR|-}} ===
+In {{XC3FR|sublink}}, and as a [[Hero]] in {{XC3}}, Rex has a thin beard and wears a black coat with blue patterning over a gray compression shirt and wears black pants and a belt. He still wears his salvaging anchor on his left arm. During combat, he wields the Firelight Swords, blades similar but visually distinct from Pyra and Mythra's Aegis Swords. He can combine the two swords into a single blade, similar to [[Pneuma]]'s sword. He lost his left eye during the fight with Alpha.
+
+== Story ==
+=== {{XC2|-}} ===
+==== Early life ====
+The circumstances of Rex's birth and early years are unknown. He was around two years old when he and his mother washed up on the shores of [[Fonsett Village]]. His mother died upon arrival and his father's body was found elsewhere in the [[Leftherian Archipelago]] nearby; they were both buried in [[Oratory Knoll Cemetery]]. Rex grew up in Fonsett under care of [[Corinne]], raised by the townsfolk and the Titan Azurda, known to Rex as "Gramps". By the age of 15, Rex is living full-time [[On Gramps's Back|on the back of Azurda]] in the [[Cloud Sea]], where he earns a living as a [[Salvaging|Salvager]].
+
+==== The Driver of the Aegis ====
+[[File:XC2-Azurda.jpg|thumb|left|240px|Rex and Azurda]]
+While visiting the [[Argentum Trade Guild]] Rex is offered a high-paid salvaging job, requested by an organisation called [[Torna (Organization)|Torna]] through the [[Bana (XC2)|Chairman of Argentum]]. He accepts, joining the crew aboard the [[C.S.E.V. Maelstrom]] on the way to the [[Ancient Ship]]. Once there, Rex is ordered by [[Jin]], Torna's leader, to accompany them to the interior of the ship to open sealed doors only accessible by [[Leftherian]]s. Past the doors, Rex is the first to enter a room containing a sword and a chamber containing a young woman held in suspended animation. Rex approaches and accidentally touches the Core Crystal on the sword's hilt, and Jin stabs Rex through the heart, killing him.
+
+[[File:XC2-Rex-and-Pyra.jpg|thumb|240px|Rex meets Pyra]]
+Rex finds himself in an open green field, with the girl from the ship standing under a tree atop a hill ahead. Rex goes to her, and she introduces herself as Pyra, a Blade, and informs him to his horror that he has been killed; they are in her memory of the legendary Elysium. Pyra offers Rex half of her own life force to revive him, on the promise that he take her to the real Elysium at the top of the [[World Tree]]. After reviving, Rex and Pyra confront [[Malos]] in an attempt to save the other salvagers. [[Nia]], a member of Torna already shaken by Rex's death, joins them after disagreeing with Jin and Malos' capacity for murder. As the salvagers escape a [[Monoceros (XC2)|ship]] arrives belonging to Torna and fires on them, but Azurda appears, saving Rex, Nia, Pyra, and [[Dromarch]] and fleeing from the ship. He is wounded during the escape and the group wash up in the [[Gormott Province]] separated from each other.
+
+==== Wanted by the Ardainian Empire ====
+[[File:XCX2 E32017 Screenshot.jpg|thumb|240px|left|Rescuing Nia]]
+Rex wakes alone with Pyra. They find Azurda mortally wounded, but he is able to regenerate instead of dying, into a younger, nymph-like state able to fit in Rex's helmet. After reuniting with Nia, they set out to Nia's hometown of [[Torigoth]]. Nia is recognised as a member of Torna and thus a terrorist, and captured by [[Ardainian]] troops occupying Torigoth in order to lure Rex to them to confiscate Pyra due to her power as the Aegis. Rex allies with a local [[Nopon]] called [[Tora (XC2)|Tora]], who dislikes the occupation and is building his own Artificial Blade, [[Poppi &#945;|Poppi]]. With Tora's help, Rex and Pyra rescue Nia and the group leaves [[Gormott (Titan)|Gormott]] on a Titan ship bound for the World Tree. The group is attacked by [[Artifice Ophion|Ophion]], and their ship is destroyed upon being swallowed whole by the [[Uraya]]n Titan.
+
+==== Lessons on Life ====
+Within Uraya the party meet [[Vandham (XC2)|Vandham]], the leader of a mercenary group, who offers his help to them after battling them to test Rex's strength. He acts like a tutor to Rex, influencing his viewpoint on war and conflict when Vandham recognises that Rex is unaware of much about Blades and Driving. He escorts the group to [[Fonsa Myma]] to meet one of Vandham's acquaintances, [[Minoth|Cole]], who Vandham believes may know about climbing the World Tree. Pyra disappears to confront Malos and [[Akhos]] in [[Olethro Ruins (level)|Olethro Ruins]] when they kidnap Cole's granddaughter. Rex follows and tries to fight them but is unable to win, resulting in Vandham's death as he tries to save Rex. Rex tries to fight on despite this, forcing Mythra to awaken to protect him, overwhelming Malos and Akhos with her power before berating Rex's foolish attack. Rex breaks down over Vandham's death.
+
+==== Joining Forces with Mor Ardain and Tantal ====
+[[File:RexGraves.png|thumb|240px|Rex speaks to his parents' graves]]
+After Vandham's funeral, Rex inherits [[Roc's Core Crystal]] and the [[Garfont Village|Garfont]] [[Merc Group|mercenary company]]. Additionally, Pyra and Azurda reveal to the party that Malos is another Aegis. Following Cole's suggestion, the party decides to go to the [[Indoline Praetorium]] to meet Cole's original Driver, [[Amalthus]], via the [[Empire of Mor Ardain]]. In [[Mor Ardain]], they are attacked by [[M&#242;rag]] and [[Brighid]] due to a misunderstanding. Thanks to [[Niranira (XC2)|Niranira]], the situation gets cleared up. Rex and M&#242;rag then agree to join forces to prevent a sale of Artificial Blades to Torna. She joins the group and [[Haze|Fan la Norne]], the "Goddess of the Praetorium", meets them and guides them toward the Praetorium. They stop at Fonsett Village in Leftheria, where Rex shows Pyra his parent's graves, and promises again to take her to Elysium. At the final ship to Indol, [[Zeke]], who has confronted Rex and his group in Uraya and Mor Ardain under the guise of stealing Pyra, stands against them a third time, revealing himself as the [[Tantalese]] prince and an envoy of the Praetorium, joining the party.
+
+When Rex meets Praetor Amalthus in Indol, he is reminded him of Malos, although this is rationalized as due to Amalthus being Malos' Driver. During the party's stay in the Praetorium, a Titan weapon excavated by Mor Ardain in [[Temperantia]] is stolen by Jin to attack [[Urayan]] troops. The party go to stop him, but Fan la Norne is stabbed and killed. After the political tension born from Jin's actions calm down, Rex is informed by Amalthus that Ophion may be controlled with the [[Omega Fetter]] in the [[Kingdom of Tantal]]. After arriving there and saving Pyra from [[King Eulogimenos]], who tries to kill her as he assumes her presence a threat, the group travels down to the Omega Fetter in [[Genbu]]'s head. They are ambushed by Torna and defeated by Jin, revealing himself to be a Blade with control of elementary particles. He takes Pyra and the Fetter, and tells Rex that he is the one responsible for Pyra and Mythra's pain. Rex is left badly injured and unconscious, with the Aegis Sword broken, and spends the next few days recovering in bed at [[Anastatia's (landmark)|Anastatia's]] in [[Theosoir]].
+
+==== The Master Driver ====
+[[File:RexThirdSword.png|thumb|left|240px|Rex finds the third sword]]
+Being defeated and humiliated by Jin shatters Rex's self-esteem. After waking up, he explains to the others that he has given up and wants to go back to Argentum. Nia, Poppi and Brighid intervene, trying to make Rex realize that Pyra had been willing to sacrifice her life for his sake. The conversation is interrupted by Pandoria, who announces that King Eulogimenos has a message for Rex. The King informs Rex about the Third Aegis Sword, left behind by [[Addam]], and Azurda informs him of the location of the sword: the [[Spirit Crucible Elpys]]. There, the group confronts Addam's [[Phantasm]]s, and Nia reveals that she is a [[Flesh Eater]] as she finally trusts Rex with her identity. Addam's spirit recognizes Rex as worthy of the power of the Aegis, and tells him to understand the fear Pyra and Mythra carry in order to become her true Driver. Despite not being able to obtain the third sword as they had hoped, Rex is able to intuit Pyra's location thanks to his half of the Core Crystal they share. With new incentive, the group travels to the [[Cliffs of Morytha]] to save Pyra and Mythra and fulfil Rex's promise of taking them to Elysium.
+
+[[File:Third-Sword.JPG|thumb|240px|Rex becomes the Master Driver]]
+At the [[Gotrock Oracle Ruins]], Rex confronts Jin and Malos, who has regained his power as an Aegis by stealing the memories from Pyra's Core Crystal. During the battle, Rex speaks to Pyra's and Mythra's spirits, assuring them that he will protect them no matter what and not allow the world to burn a second time. This understanding of Pyra and Mythra's fear allows Rex to unlock their true power as Pneuma, with Rex becoming the Master Driver as a result. Combining their power, Rex and Pneuma are able to overpower Jin, but Rex, seeing the sadness in Jin's eyes, refuses to finish him. Malos then summons Ophion, who he had taken control of with the Omega Fetter, and attacks them. Pneuma responds by using [[Siren]] to battle Ophion. The battle of the two [[Artifice]]s destroys the ruins where they stand, causing the party and Jin to fall through the Cloud Sea below.
+
+==== Climbing the World Tree ====
+Rex wakes in the [[Land of Morytha]], below the Cloud Sea, with Mythra asleep by his side. After she wakes up, Rex informs her of the situation, and they search for the others. They find Jin first, heavily injured as his Core Crystal has cracked, struggling to defeat a [[Guldo]]. Rex puts their differences aside and helps him, forming a temporary alliance. After reuniting with Brighid, Poppi, and Azurda, the group continues toward the World Tree. The discover the decaying remains of the [[Torna (Titan)|Tornan Titan]], where Azurda and Jin reveal to the rest of them that Blades eventually become Titans. In the [[Womb Center]], Jin reveals to the group what happened to him following the Aegis War before the group is attacked by the [[Infernal Guldo]]. During the battle, the party reunites and defeats the monster. After, Rex notices something on the ground that the monster dropped and is shocked to realize that the monster might have once been human. After Jin leaves the party, they reach the entrance to the World Tree by its roots. Pneuma opens up the elevator, and they begin their final path to reach Elysium.
+
+[[File:RexJin.png|thumb|left|240px|Rex points his sword at Jin]]
+While the party climbs the World Tree, Amalthus appears, controlling [[Indol]], and attacks Torna's [[Marsanes]]. Amalthus uses his powers as a Driver of an Aegis (amplified by his half of Fan's Core Crystal) to take control of Mor Ardain, Genbu, and Uraya. He attempts to use Siren through Mythra, but Rex is able to use his own powers as the Master Driver to counter Amalthus'. Rex and Pneuma, with help from Poppi, manage to get near the Indoline Titan, and use Pneuma's powers to slow down time and destroy the amplification towers for Amalthus' powers. Near the upper level of the World Tree, Rex and the rest of the party come face to face again with Jin, who awaited them to test Rex's resolve one last time. Jin is unable to best Rex, who explains to Jin his admiration for Blades, and his wish to ask the [[Architect]] the reason why he created them, but Rex believes he already knows the answer. The moment is interrupted by Amalthus in a monstrous Blade Eater form, as he kills Patroka and Akhos. Driven by his desire to not let anyone other than himself meet the Architect, Amalthus threatens to cause the entire World Tree to collapse. Resolutions clear after hearing Rex's words, Jin sacrifices himself to kill Amalthus. The party stands in awe of Jin's act for a moment, and proceed to take the final elevator to Elysium.
+
+==== Tragedies of the Past ====
+[[File:PneumaRex.png|thumb|240px|Rex and Pneuma confront Malos]]
+Once the elevator stops, the party finds themselves in the [[First Low Orbit Station]], Rhadamanthus. They traverse some corridors until they finally arrive at Elysium. Instead of the grassy fields Rex had seen in Pyra's dream, they find desolated ruins. Rex, though disbelieving at the state of Elysium, leads the party towards a church in the distance. There, a voice welcomes them, and a passage appears leading below ground. Descending, Rex turns and finds himself alone; he is attacked by spectres of his companions, blaming him for everything they have lost. After fleeing these attacks he finds himself in Corinne's house with Pyra and Mythra, who confuse him by acting like each other. When Rex breaks down in tears Pyra asks the Architect to stop, as he was testing Rex to determine his true nature.
+
+Rex finds himself in the [[Architect's Room]] with the rest of the party and the Architect; an aged, mechanically augmented man missing his right half. The Architect tells them his name is [[Klaus]], and explains the creation of [[Alrest]], including the cycle of Blades and Titans. He tells the party that he was once a human who activated the [[Conduit]] to open gateways into other dimensions due to his lack of faith in mankind. His actions resulted in the world splitting in two. Klaus explains how the Aegises were originally the cores of the [[Trinity Processor]], known as [[Ontos]], [[Logos]], and Pneuma. The Trinity Processor was designed to monitor the Conduit and that the power Rex and Pneuma wield is that of the Conduit, and that once it disappears, they won't be able to use their power anymore. Rex thanks Klaus for giving them life, before the party enters the [[Aion Hangar]] to confront Malos.
+
+==== The True Elysium ====
+During the battle against [[Artifice Aion]], Rex explains to Malos that Jin never wanted to die, but rather to connect with Malos. After dealing a [[Infinity Blade (XC2)|fatal blow]] to Aion, causing Malos' Core Crystal to break, Rex understands Malos' life and states that if he had been his Driver, Malos' fate would have been different. Malos laughs, stating that there was only one Driver for him, before dying.
+
+[[File:RexCore.png|thumb|left|240px|Rex recieves Pneuma's core crystal]]
+As the Conduit disappears, the Orbital Stations begin to fall. The party, following Pneuma's instructions, head toward the what they assume to be the control room. Once they get there Rex realizes that Pneuma had just guided them towards the escape pods, planning to sacrifice herself to destroy the World Tree and the Orbital Station using the remains of Aion's energy to prevent its wreckage obliterating Alrest. Rex tries to stop her, offering to go with her, but his attempts are fruitless. He accepts Pneuma's decision, receiving the other half of her Core Crystal they were sharing and loses his Master Driver abilities in the process.
+
+[[File:RexAegis.png|thumb|240px|Pyra and Mythra reawaken]]
+The escape pod the party takes begins to disintegrate in the atmosphere, but Azurda is able to save the party by returning to his original Titan form thanks to Pneuma's previous preparations. Flying above the surface of Alrest, they see the Titans start to merge with the land, creating a new world, following Klaus's final command. While this happens, Pneuma's Core Crystal begins to glow in Rex's hand. In a flash of light, both Pyra and Mythra appear in front of Rex. After one final push from Nia, he takes a step forward towards them.
+
+=== {{TTGC|-}} ===
+Five hundred years prior to meeting Rex, during her final battle against Malos in the [[Aegis War]], Mythra's foresight shows her visions of Rex; resonating with Pyra, Driving Mythra when she first reawakens, holding his hands out to both Mythra and Pyra when he accepts their fear at the Cliffs of Morytha, and turning to smile while on Azurda's back.
+
+=== {{XC3FR|sub}} ===
+==== New Life With His Friends ====
+[[File:XB3Endingphotoofxb2cast.png|thumb|240px|Rex living in Leftheria with his companions]]
+Rex lived in Leftheria alongside his companions into his adulthood. At some point, Pyra, Mythra, and Nia are viewed with their children in a group photograph.
+
+==== The Two Worlds Draw Near ====
+A few decades after Malos' defeat, Alrest and the [[Bionis]], the two worlds that Klaus created by splitting the original apart with the Conduit, began to re-fuse back together, which would effectively destroy both. As the worlds drew closer, they began to devise a plan that would allow their worlds to survive destruction. Both worlds would construct one half of an ark known as [[Origin]] that contained all of their societies' knowledge and their citizens' literal souls, which would allow them to be reborn after their worlds were split apart and returned to their original forms. The Core Crystal of Ontos was a critical part of its construction.  
+However, Origin's AI had been affected by the digitized souls of the people within it, transforming it into the being called [[Z]]. Born from their fear of an uncertain future and their desire for stability, Z hijacked the intersection of the worlds. Rather than Origin preserving the worlds as planned, both original worlds were frozen in time during their attempt to merge back together, creating [[Aionios]]. Rex was among the few people not to be assimilated by Origin, with the reason for this being unknown. Around this time, Pyra and Mythra also returned to their core and disappeared.
+
+==== Forming the Liberators  ====
+[[File:Shulk Rex Fighting Alvis.jpg|thumb|240px|Rex and Shulk confronting Alpha]]
+Rex eventually meets [[Shulk]], and the two of them become close friends. Rex also begins wielding his [[Aegis|Firelight Swords]], replicas of Pyra and Mythra's swords, as his [[Blade (XC3)|Blades]]. At an unknown point in time, Ontos, now calling himself "[[Alpha]]", re-emerged to take control of Origin's systems for himself. Having determined that the future had no place for the beings of the old worlds, he planned to destroy Aionios while bringing the new lives born there to another world, where no traces of the past would remain.
+
+Rex and Shulk, alongside Z, confront Alpha in an attempt to drive him away. However, Alpha blows all three of them away without much effort, costing Rex his left eye. After this, Rex and Shulk agree to a ceasefire with Z until Alpha is defeated. Rex and Shulk later became the leaders of the [[Liberators]] and made [[Colony 9 (XC1)|Colony 9]] their base of operations. At some point, Rex became the mentor for [[Linka]]. 
+
+==== Meeting Ouroboros ====
+[[File:Triple Attack.jpg|thumb|left|240px|Rex, Shulk, and Matthew destroy Consul W]]
+When Glimmer and [[Nikol]] are about to be hit by a laser from [[W (FR)|W]]'s [[Kevesi Ferronis|fused]] [[Agnian Ferronis|Ferronis]], Rex steps in and protects them. After a long battle against W, Rex, Shulk, and [[Matthew (FR)|Matthew]] attack W and his Ferronis simultaneously, destroying the Moebius. He and Shulk then take everyone back to Colony 9, where they show them around and lead them to their [[Colony 9 Camp|lodgings]]. The next day, the party is informed of a distress signal coming from [[Raguel Lake]] on [[The Ragmos Desolation]], which they go to investigate. 
+
+[[File:A Rex Shulk.jpg|thumb|240px|Rex, Shulk, and A]]
+After setting up [[Lakeside Camp|camp by Raguel Lake]], Rex, Shulk, and [[A]] have a discussion about Alpha and what he intends to do, with A explaining that they are the manifestation of Ontos's discarded conscience that was unshackled from Alpha due to N's power and [[Ghondor (FR)|Ghondor]]'s dying act. When Shulk asks the reason for A's appearance, Rex explains as being due to the way the Trinity Processor was designed - Logos being the male persona, Pneuma being the female, and, as Rex describes it, Ontos being somewhere in between. 
+
+Their conversation is interrupted by the appearance of [[Na'el]], who is inhabited by Alpha. The party fights Alpha until [[N]] shows up and fights Alpha himself. The party then explains to Matthew that as long as Alpha exists, [[Moebius]] is not the primary target, and that N is not their enemy. Alpha, suffering severe damage, leaves and tells the party she will be waiting. [[Prison Island]] then releases energy that causes Origin to appear above the [[Cent-Omnia Region]].
+
+==== The Origin of the Worlds ====
+After returning to Colony 9, Rex and Shulk tell Matthew, Glimmer, and Nikol about the origins of Aionios, telling them about how, originally, their worlds were one and the same. This world boasted almost unthinkable prosperity and was home to countless people. However, one man, Klaus, messed it all up and caused the world to be split into two separate places. One was the world of the Bionis, and the other was Alrest. The two divided worlds began to evolve independently of each other, giving birth to new life. However, it wasn't all peaceful, with there being tyrannic empires and conflicts over limited resources. But despite all that, thanks to numerous generations of people fighting for the future, the worlds were eventually able to attain harmony.
+
+They then explain how the worlds began to return to how they once were. However, since they were composed of opposing types of matter, they would dissolve into light and cease to be when recombined. To escape destruction, the two worlds worked together to build Origin, a repository of data about everything, of memories and souls. Even if the worlds were annihilated, the Origin system would allow them to be revived. They explain how at the heart of Origin's workings is the Trinity Processor core, Ontos, or in other words, Alpha, and also how, Alpha had deemed the existence of all people from the two worlds obsolete and wanted to erase them. They then explain that Alpha is now gathering power and preparing to depart in the heart of Origin, called [[The Ark]], alongside the new lives, those of City people, gathered there for the purpose of taking them to a new world.
+
+Linka questions why Alpha would specifically choose Na'el to inhabit, to which Rex states its likely due to the fact that Na'el has [[Agnus|Agnian]] ancestry and in terms of hereditary traits, Core Crystals get dominance. Rex theorizes that it's because Alpha got injured when they fought or that she's got whatever he's lacking.
+
+==== Rex and Shulk's Test ====
+[[File:Shulk and Rex Ready to Fight.jpg|thumb|240px|Rex and Shulk fight Glimmer and Nikol]]
+The party then discusses what to do next, determining that Prison Island would be their best bet of reaching Origin, where Alpha is waiting. However, in order to get there, they need to [[Ether Lift Research|gather the resources]] needing to build an [[Ether Lift]] in order to travel vertically. Additionally, Nikol and Glimmer request to come with everyone to Origin, but Rex and Shulk adamantly refuse, deeming Nikol and Glimmer unworthy of challenging Alpha, telling them they must stay in the Colony. The party asks Riku about [[The Ouroboros Power|boosting their Ouroboros power]]. Riku informs them that they need some kind of "Trigger" to power up. In order to activate this trigger, Rex and Shulk volunteer to fight Nikol and Glimmer at the Gotrock Oracle Ruins. Nikol and Glimmer struggle a bit against the two, but are able to unlock more Ouroboros power to defeat Rex and Shulk, powering up the [[Ouroboros Stone]] in the process. Rex and Shulk then agree to let them tag along to Origin. With both matters dealt with, the party turns in for the night.
+
+Later that night, Rex and Glimmer having a small heart-to-heart. Glimmer asks Rex about his eye scar. He tells her that he got it during the fight with Alpha, saying he got sloppy and had to pay for it. However, Rex kind of likes the scar, telling her how someone he really looked up to, referring to Zeke, "had an eye thing too".
+
+Glimmer then asks Rex why he risks life and limb fighting to protect people he doesn't even know. Rex tells her that if through his fighting, someone in the world gets to smile, that's the type of world he wants to help create. He explains how as long as someone's alive, they're always connected to others, saying that it used to be called [[Affinity (XC2)|affinity]], or bonds.
+
+==== Avatars of Origin ====
+[[File:Rex Glimmer N.jpg|thumb|240px|Rex and Glimmer fighting N]]
+The next morning, the party leaves for the [[Black Mountains]], where Prison Island is located. Soon after, they finally arrive at the [[Prison Terrace]]. They are greeted by N, who reveals that the one keeping Na'el in this world is Matthew, which is why N's been trying to kill him. The party confronts him, and N's clash with Matthew reveals to them a memory from Origin, of N's attack on the City and Alpha's involvement with it. All of a sudden, Alpha shows up and sends a ray of lighting at N, shocking him. Alpha's power emanates a fog which consumes the party.
+
+The party arrives inside [[The Ark|a memory]] from Origin. The party looks around at the scenery of a house with a garden, with a view of a [[Land of Morytha|large city]] with tall buildings, with one tower reaching into the sky. Rex immediately recognizes the tower as the World Tree in its original form, and he and Shulk confirm that this is a memory of Klaus's world. The party then follows the sound of a piano, and find Na'el, who explains that the world could be like this if they went through with Alpha's plan. A then shows Na'el the Land of Morytha, the aftermath of Klaus' experiment and what Alpha's proposed new world would ultimately become if his plan succeeded. Matthew persuades her that she would be no different from Moebius if she continued to view the Kevesi and Agnians as "things" unworthy of life, and that they could live like the people of the City if they were only allowed to choose it. Na'el agrees to join the party and stop Alpha, but not before Alpha regains control of her and disappears.
+
+The party is then transported back to the Ark, where Alpha insists that the future has no need for the things of the past and that conscience is useless to the Trinity Processor. The party refuses to accept his goals, with Shulk and Rex recalling that Klaus trusted them with the future, and engage in combat with Alpha. After a while, Alpha tries to pull Matthew's soul in, but he resists and stays inside his body before N intervenes in the battle. Matthew expresses that for now, he's glad to have N at his side. Alpha unleashes his true form, that of a large humanoid figure with an empty, mask-like face. In a final effort to defeat Alpha, N grants Matthew the powers of his [[Lucky Seven|Sword of The End]] and instructs him to combine it with his Ouroboros Knuckles. Matthew's gauntlets begin to emit green energy, which Rex quickly recognizes to be Pneuma's power. This grants the party the true power of Ouroboros, resulting in Alpha's demise.
+
+[[File:Origin's New Avatars.jpg|thumb|left|240px|Rex, Shulk, and A become Origin's new avatars]]
+Shulk and Rex begin to fade, and they reveal that without Alpha, Origin requires a new avatar to keep Aionios stable, which will be themselves and A. The party expresses disagreement, but Rex assures the group that they will see them all again when the worlds are restored. Rex and Shulk grant their life force to their respective children, Glimmer and Nikol, and step forward into a large rift, telling them that the three of them will be waiting for them at the far edge of time. As they enter the rift, Shulk and Rex ask A if they had foreseen the current turn of events, but A states that their hopes have always been a constant in the flow of time.
+
+=== {{XC3|-}} ===
+==== Legacy as the Mentor of the City's Liberatrix ====
+[[File:HouseCassiniStatue.jpg|thumb|240px|Statue of Rex in the City's Memorial Hall]]
+When the [[City]] was rebuilt, a statue of Rex was placed in the [[Memorial Hall]] alongside the statues of Shulk, Matthew, Nikol, Glimmer, and Na'el. Though the statue is for Linka, the founder of House Cassini, she chose to have the statue depict her mentor instead, in his honor.
+
+==== The Worlds' Reconstruction ====
+After [[Z&#8734;]] is defeated and Origin is reactivated, Nia and Poppi happily look at a group photo of them with Rex and all their other friends, as the worlds of Alrest and the Bionis are reconstructed.
+{{clr}}
+
+== In {{XC2|-}} ==
+=== Heart-to-hearts ===
+Rex takes part in twenty [[Heart-to-Heart (XC2)|Heart-to-hearts]]; the most of any character in the game:
+* "[[A Tora and Poppi Production]]"
+* "[[Ardainian Technology]]"
+* "[[Before the Storm]]"
+* "[[Bold Adventures]]"
+* "[[Burgeoning Curiosity]]"
+* "[[By the Graveside]]"
+* "[[Constants]]"
+* "[[Dromarch's Wisdom]]"
+* "[[Eternal Rest]]"
+* "[[Five Centuries of Memory]]"
+* "[[Hard Life]]"
+* "[[Legendary Land]]"
+* "[[Life Goes On]]"
+* "[[Little Rex]]"
+* "[[Morytha the Unknown]]"
+* "[[Rub-a-Dub-Dub]]"
+* "[[The Real Gramps]]"
+* "[[Tora's Angst]]"
+* "[[Tora's Tribe]]"
+* "[[Unforgiving Terrain]]"
+
+=== General stats ===
+{| class="xc1 centered" width="100%"
+! Level !! Max HP !! Max Strength !! Max Ether !! Max Dexterity !! Max Agility !! Max Luck
+|-
+| 1 || 280 || 15 || 16 || 31 || 22 || 15
+|-
+| 99, no modifier || 6,994 || 368 || 388 || 310 || 215 || 366
+|-
+| 99, full affinity chart || 7,194 || 388 || 408 || 310 || 235 || 386
+|}
+
+==== Broadsword ====
+During the beginning of the game Rex wields a broadsword that acts similarly to the Aegis Sword. This weapon is unavailable in [[New Game Plus (XC2)|New Game Plus]] as Rex will instead start the game with most of his bonded Blades from the previous playthrough (including [[Pyra]]/[[Mythra]] at the very minimum).
+
+{| class="xc1 centered" width="100%"
+! Role
+! Element
+! Auto-attack
+! Stability
+! Critical Rate
+! Block Rate
+! Physical Defense
+! Ether Defense
+! Mod.
+|-
+| ATK
+| None
+| 15
+| 10
+| 5%
+| 0%
+| 0%
+| 0%
+| -
+|}
+
+==== Thought Cloud ====
+These are Rex's [[Idea Stat]]s at the beginning of the game.
+
+* Bravery - Lv. 0
+* Truth - Lv. 2
+* Compassion - Lv. 1
+* Justice - Lv. 0
+
+==== Default Blades ====
+These are Rex's default [[Blade (XC2)|Blades]] obtained by progressing through the game. These Blades are exclusive to Rex and cannot be used by anyone else.
+
+{| class="xc1" width="100%"
+! Name
+! Role
+! Element
+! Default [[Core Chip]]
+! Obtained
+|-
+| [[Pyra]]
+| ATK
+| [[File:XC2-element-fire.png|center|32px|Fire]]
+| [[Lead Chip]]
+| After defeating the [[Megalo Aligo]] in the [[Ancient Ship]] during Chapter 1.
+|-
+| [[Mythra]]
+| ATK
+| [[File:XC2-element-light.png|center|32px|Light]]
+| [[Iron Chip]]
+| During the battle against [[Malos]] and [[Akhos]] in [[Olethro Ruins (level)|Olethro Ruins]] during Chapter 3.
+|-
+| [[Roc]]
+| ATK
+| [[File:XC2-element-wind.png|center|32px|Wind]]
+| The same he had at the end of Chapter 3.
+| By resonating with [[Roc's Core Crystal]] during the [[Main Story Quest (XC2)|Main Story Quest]] ''[[Stop, Thief! (XC2)|Stop, Thief!]]'' in Chapter 4.
+|-
+| [[Nia]]
+| HLR
+| [[File:XC2-element-water.png|center|32px|Water]]
+| -
+| After defeating the [[Phantasm]]s in [[Spirit Crucible Elpys]] during Chapter 7.
+|-
+| [[Pneuma]]
+| ATK
+| [[File:XC2-element-light.png|center|32px|Light]]
+| -
+| During the battle against Malos and [[Jin]] in the [[Cliffs of Morytha]] during Chapter 7.
+|}
+
+Notes: during Chapter 2, Rex will automatically receive a Wind Common Blade with Knuckle Claws as weapon.
+
+=== Arts ===
+* Aegis Sword/Broadsword
+** '''[[Anchor Shot]]''', [[Topple (XC2)|Topple]] / [[HP Potion]] &#8251;
+** '''[[Sword Bash]]''', Back attack &#8593;
+** '''[[Double Spinning Edge]]''', Side attack &#8593;
+** '''[[Rolling Smash (XC2)|Rolling Smash]]''', AOE / Aggro down
+
+:&#8251; Anchor Shot does not have the Topple effect until an event in Chapter 3.
+
+* Catalyst Scimitar
+** '''[[Saber Slash (XC2)|Saber Slash]]''', HP Potion
+** '''[[Redemption (XC2)|Redemption]]''', Heal party
+** '''[[Hydro Blast (XC2)|Hydro Blast]]''', AOE / Knockback
+** '''[[Water Flower]]''', Pierce
+
+*  Twin Rings
+** '''[[Wide Slash (XC2)|Wide Slash]]''', Side attack &#8593;
+** '''[[Strong Saucer]]''', HP potion
+** '''[[Eightfold Edge]]''', Beasts &#8593;
+** '''[[Spin of Bravery]]''', AOE
+
+* Whipswords
+** '''[[Heat Rush]]''', Toppled &#8593;
+** '''[[Phantom Flame]]''', AOE / Evasion
+** '''[[Storm Spin]]''', AOE / Low HP &#8593;
+** '''[[Blazing Whip]]''', AOE / Aggro up
+
+* Big Bang Edge
+** '''[[Big Impact (XC2)|Big Impact]]''', AOE / Blowdown
+** '''[[Upper Edge]]''', [[Launch (XC2)|Launch]]
+** '''[[Electro Buster]]''', AOE / Toppled &#8593;
+** '''[[Voltaic Slash]]''', AOE / Machines &#8593;
+
+* Dual Scythes
+** '''[[Cyclone Smash]]''', Low HP &#8593;
+** '''[[Wild Scythe]]''', HP down / Evasion
+** '''[[Wing Smash (XC2)|Wing Smash]]''', [[Smash (XC2)|Smash]]
+** '''[[Vortex Edge]]''', AOE / Flying &#8593;
+
+* Greataxe
+** '''[[Strong Smash]]''', Toppled &#8593;
+** '''[[Axe Twist]]''', AOE / Aquatic &#8593;
+** '''[[Power Swipe]]''', Launch
+** '''[[Bold Tackle]]''', Critical recharge
+
+* Megalance
+** '''[[Strong Horn]]''', High HP &#8593;
+** '''[[Power Spike]]''', [[Break (XC2)|Break]] / Side Attack &#8593;
+** '''[[Heavy Hitter (XC2)|Heavy Hitter]]''', Aggro Down
+** '''[[Feral Spin]]''', AOE / Insects &#8593;
+
+* Ether Cannon
+** '''[[Daring Shot]]''', High HP &#8593;
+** '''[[Armor Crusher]]''', Pierce
+** '''[[Grenade Launcher]]''', AOE / Blowdown
+** '''[[Wild Volley]]''', AOE / Cancel attack &#8593;
+
+* Shield Hammer
+** '''[[Iron Wall]]''', Defense
+** '''[[Diving Swing]]''', AOE / Aggro up
+** '''[[Power Hammer]]''', Front attack &#8593;
+** '''[[Mighty Beat (XC2)|Mighty Beat]]''', Toppled &#8593;
+
+* Chroma Katana
+** '''[[Sword Uppercut]]''', Break
+** '''[[Feral Blade]]''', AOE / Aggro up
+** '''[[Breakdown]]''', Aggroed &#8593;
+** '''[[Dual Slash]]''', Evasion
+
+* Bitball
+** '''[[Touchdown]]''', HP Potion
+** '''[[Brave Throw]]''', Toppled &#8593;
+** '''[[Strong Shot]]''', Heal party on attack
+** '''[[Mighty Ball]]''', Launched &#8593;
+
+* Knuckle Claws
+** '''[[Feral Uppercut]]''', Blowdown / Cancel atk &#8593;
+** '''[[Grand Smash]]''', HP Potion
+** '''[[Mach Straight Punch]]''', Back attack &#8593;
+** '''[[Bullet Punch]]''', AOE
+
+==== New Game Plus Arts ====
+New weapons and Driver Arts are obtainable upon [[New Game Plus (XC2)|New Game Plus]], after finishing the game and installing [[Xenoblade Chronicles 2#Patch (Ver.1.3.0)|Patch (Ver.1.3.0)]].
+
+* Sword Tonfa
+** '''[[Gale Upper]]''', Low HP &#8593; / Blowdown
+** '''[[Wind Smash]]''', Aggroed &#8593;
+** '''[[Stormstarter]]''', AOE / Aggro Up
+** '''[[Hurricane Punch]]''', Knockback
+
+* Brilliant Twinblades
+** '''[[Thunderclap (XC2)|Thunderclap]]''', Side attack &#8593;
+** '''[[Haphazard Throw]]''', Cancel attack &#8593;
+** '''[[Cutting Edge]]''', Critical recharge
+** '''[[Rebel's Dagger]]''', AOE
+
+* Decimation Cannon
+** '''[[Flamecaster]]''', AOE / Front attack &#8593;
+** '''[[Mighty Missile]]''', Pierce
+** '''[[Grenade Burst]]''', AOE / Blowdown
+** '''[[Critical Trigger]]''', High HP &#8593;
+
+* Rockrending Gauntlets
+** '''[[Giant Straight]]''', Knockback
+** '''[[Wild Slugger]]''', Front attack &#8593;
+** '''[[Rock Bullet]]''', AOE / Aggro up
+** '''[[Terror Smash]]''', Aggroed &#8593;
+
+* Calamity Scythe
+** '''[[Revolt Smash]]''', Heal Party
+** '''[[Screw Reaper]]''', AOE / Aggro down
+** '''[[Rising Crescent]]''', Launch
+** '''[[Withering Assault]]''', HP potion
+
+* Cobra Bardiche
+** '''[[Earth Splitter]]''', Low HP &#8593;
+** '''[[Powerquake]]''', Break / Side attack &#8593;
+** '''[[Final Stone]]''', HP down / Evasion
+** '''[[Dust Up]]''', AOE / Insects &#8593;
+
+* Infinity Fans
+** '''[[Screw Cutter]]''', Aggroed &#8593;
+** '''[[Opened Fan]]''', Front attack &#8593;
+** '''[[Cross Edge]]''', Beasts &#8593;
+** '''[[Brave Wing]]''', AOE / Aggro up
+
+==== DLC Arts ====
+The following weapons are exclusive to the Expansion Pass.
+
+* Monado
+** '''[[Monado Shield (XC2)|Monado Shield]]''', Defense
+** '''[[Monado Storm]]''', AOE / Aggro Down
+** '''[[Monado Burst]]''', Back attack &#8593;
+** '''[[Monado Beat]]''', AOE / Toppled &#8593;
+
+* Knives
+** '''[[Wind Slicer]]''', High HP &#8593;
+** '''[[Skyward Edge]]''', HP Potion
+** '''[[Infinity Wing]]''', Cancel attack &#8593;
+** '''[[Screw Edge (Rex)|Screw Edge]]''', AOE / Critical Recharge
+
+* Uchigatana
+** '''[[Flash Uppercut]]''', Front Attack &#8593;
+** '''[[Night Breaker (XC2)|Night Breaker]]''', AOE / Aggro Up
+** '''[[Starfall (XC2)|Starfall]]''', Aggroed &#8593; / Smash
+** '''[[Victory Slash]]''', Evasion
+
+* Dual Swords
+** '''[[Dark Edge]]''', Back attack &#8593;
+** '''[[Trickshot (XC2)|Trickshot]]''', Cancel attack &#8593;
+** '''[[Mystic Slice]]''', Side attack &#8593;
+** '''[[Shadow Twist]]''', AOE / Evasion
+
+=== Favorite Items ===
+* [[Pouch]] item types: [[Drink]]s, [[Art]]
+* Pouch items: [[Pan-Fried Tartari]] ([[Meat]]s), [[Coral Reversi]] ([[Board Game]]s)
+
+=== Affinity Chart ===
+Rex's [[Affinity Chart (XC2)|Affinity Chart]] contains the following skills.
+
+{| class="xc1 centered" width="100%"
+! Tier !! Name !! Effect !! SP
+|-
+| rowspan="5" | 1
+| '''Muscle Builder'''
+| Increases Strength by 20.
+| 375
+|-
+| '''Reflex Response'''
+| Increases Agility by 20.
+| 250
+|-
+| '''Rapid Attack I'''
+| Allows use of the Driver Art assigned to [[File:Button-X.png|20px|X]] at the start of battle.
+| 750
+|-
+| '''Ether Studies'''
+| Increases Ether by 20.
+| 625
+|-
+| '''Rescue'''
+| Increases the HP restored when reviving a teammate by 15%.
+| 500
+|-
+| rowspan="5" | 2
+| '''Picture of Health'''
+| Increases HP restored to self (not using [[HP Potion]]s) by 10%.
+| 1,500
+|-
+| '''Arts Chain'''
+| Lets you use a Driver Art after canceling a Driver Art.
+| 3,000
+|-
+| '''Combo Enhance'''
+| Adds 20% to damage ratio after canceling an auto-attack.
+| 2,000
+|-
+| '''Rapid Attack II'''
+| Allows use of the Driver Art assigned to [[File:Button-Y.png|20px|Y]] at the start of battle.
+| 2,500
+|-
+| '''Gramps' Blessing'''
+| Increases Luck by 20.
+| 1,000
+|-
+| rowspan="5" | 3
+| '''Rapid Attack III'''
+| Allows use of the Driver Art assigned to [[File:Button-B.png|20px|B]] at the start of battle.
+| 5,000
+|-
+| '''Lively Lad'''
+| Increases maximum HP by 200.
+| 2,000
+|-
+| '''Ultimate Relay'''
+| Increases attack power ratio at the start of a [[Chain Attack (XC2)|Chain Attack]].
+| 4,000
+|-
+| '''Topple Champ'''
+| Extends Topple duration by 15%
+| 6,000
+|-
+| '''Drive to Win'''
+| Slightly fills the [[Party Gauge (XC2)|Party Gauge]] for each critical hit delivered.
+| 3,000
+|}
+
+==== Hidden Affinity Chart ====
+Rex's hidden [[Affinity Chart (XC2)|Affinity Chart]] contains the following skills.
+
+{| class="xc1 centered" width="100%"
+! Tier !! Name !! Effect !! SP
+|-
+| rowspan="5" | 1
+| '''Further Ether Studies'''
+| Boosts Ether by 10%.
+| 7,500
+|-
+| '''Shadow Strike'''
+| Increases damage dealt by a surprise attack by 50%.
+| 3,750
+|-
+| '''Cheer Up'''
+| Increases Affinity by 25% after winning a Special button challenge.
+| 2,500
+|-
+| '''Prediction'''
+| Increases Dexterity by 20.
+| 5,000
+|-
+| '''Fight or Flight'''
+| Reduces enemy Break resist.
+| 6,250
+|-
+| rowspan="5" | 2
+| '''Inherit Muscle'''
+| Boosts Strength by 10%.
+| 7,500
+|-
+| '''Herbalism'''
+| Boosts the effect of HP Potions by 20%.
+| 12,500
+|-
+| '''Eyes on the Prize'''
+| Boosts Agility by 10%.
+| 5,000
+|-
+| '''Combat Boost'''
+| Restores 3% HP when canceling an auto-attack with a Driver Art.
+| 15,000
+|-
+| '''Pre-empt Moves'''
+| Boosts Dexterity by 10%.
+| 10,000
+|-
+| rowspan="5" | 3
+| '''Solidarity'''
+| Slightly fills the Party Gauge when an "Excellent" is scored during a Special.
+| 15,000
+|-
+| '''Relentless Spirit'''
+| 50% chance to survive hit with 1 HP + 5 secs invincibility (once per battle).
+| 30,000
+|-
+| '''Heart Recharge'''
+| Boosts recharge for Specials after canceling by 20%.
+| 25,000
+|-
+| '''Child of Steel'''
+| Boosts maximum HP by 10%.
+| 20,000
+|-
+| '''Gramps' Auspices'''
+| Boosts Luck by 10%.
+| 10,000
+|}
+
+=== Master Driver ===
+Once Rex becomes a Master Driver in Chapter 7, he is able to use [[Pneuma]] in battle by pressing and holding the R button and then pressing the X button when he is at max affinity with Pyra and Mythra and the party gauge is full. He also gains the unique ability to use any Blade, even if he is not their Driver (excluding Poppi). Not only that, but his appearance and artwork change.
+
+== In {{XC3FR|-}} ==
+In {{XC3FR}}, Rex fights as a [[Master Driver]], an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]], and wields the [[Aegis|Firelight Swords]] as his [[Blade (XC3)|Blades]]. He is significantly damage-focused, with much of his kit revolving around landing critical hits.
+
+In a [[Chain Attack (XC3)|Chain Attack]], Rex starts with 15 TP by default, and can gain 5 more through a "TP Plus" skill in his Affinity Growth tree. Rex's Chain Art is [[Deliverance Hew]], with the default completion bonus being "Reduces enemy physical defense by 45 percentage points during Chain Attack".
+
+=== General Stats ===
+"Base" assumes minimum weapon level and no Affinity Growth. "Fully upgraded" assumes maximum weapon level and complete Affinity Growth.
+{| class="xc1 centered" width="100%"
+!Level!!HP
+!Attack
+!Healing Power!!Dexterity!!Agility!!Critical Rate!!Block Rate !!Physical Defense!!Ether Defense
+|-
+|1, base||306||81||10||41||25||19%||4%||15%||15%
+|-
+|99, base||5,095||583||170||418||251||19%||4%||15%||15%
+|-
+|99, fully upgraded||5,095||1,372||170||418||251||65%||8%||15%||15%
+|}
+
+=== Weapon Stats ===
+Rex's weapon can be upgraded in [[Riku's Workshop]] after the quest ''[[Riku's Workshop (quest)|Riku's Workshop]]'' has been completed.
+{| class="xc1 centered" width="100%"
+!style="width:12%;"|Weapon Level
+!Attack!!Critical Rate!!Block Rate!!Ingredients Required!!Item Rarity!![[Gold]] Cost
+|-
+|I||49||19%||4%|| -|| -|| -
+|-
+|II||71||20%||5%||[[Bladestone Fragment]]||[[File:Rarity Common.png|42px]]||2,200
+|-
+|III||97||21%||5%||Bladestone Fragment x2||[[File:Rarity Common.png|42px]]||3,700
+|-
+|IV||136||22%||5%||Bladestone Fragment x3&lt;br&gt;[[Testudo Shoulder Gun]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Rare.png|42px]]||5,300
+|-
+|V||179||23%||6%||[[Bladestone]]&lt;br&gt;[[Kevesi Soldier's Armor]] x3||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Rare.png|42px]]||6,500
+|-
+|VI||227||25%||6%||Bladestone x2&lt;br&gt;[[Luminescent Laia Fin]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Rare.png|42px]]||9,300
+|-
+|VII||281||26%||6%||Bladestone x3&lt;br&gt;Testudo Shoulder Gun||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||10,300
+|-
+|VIII||368||27%||7%||[[Exquisite Bladestone]]&lt;br&gt;[[Mineral Darbus Bone]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||16,800
+|-
+|IX||507||30%||7%||Exquisite Bladestone x3&lt;br&gt;[[Egel Horn]]||[[File:Rarity Common.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||31,000
+|-
+|X||686||32%||8%||[[Mysterious Fragment]]&lt;br&gt;[[Silver Ravoon Bone]]||[[File:Rarity Rare.png|42px]]&lt;br&gt;[[File:Rarity Legendary.png|42px]]||44,800
+|}
+
+=== Arts ===
+* '''[[Infinity Blade (XC2)|Infinity Blade]]''' (Talent Art), AOE/Pierce/Unblockable
+* '''[[Anchor Shot]]''', Front [[Topple (XC3)|Topple]]
+* '''[[Double Spinning Edge]]''', Gain charge on crit.
+* '''[[Dual Blast]]''', AOE/Side [[Launch (XC3)|Launch]]
+* '''[[Cross Blaze]]''', Crit.+ during enemy Art
+* '''[[Rolling Smash (XC2)|Rolling Smash]]''', AOE
+* '''[[Sword Bash]]''', [[Resistance Down]]
+
+==== Fusion Arts ====
+The below table shows the results of each possible fusion Art and their additional effects. They replace the Ouroboros Powers' effect, while the regular Arts' effects are unchanged.
+
+Regular Arts are listed in the top row, whereas Ouroboros Powers are listed in the first column. Their intersection in the table contains the resulting Fusion Art.
+{| class="xc1 centered" width="100%"
+! Fusion
+! Anchor Shot
+! Double Spinning Edge
+! Dual Blast
+|-
+! Cross Blaze
+| '''Blaze Shot'''&lt;br&gt;High Crit. Rate/Wounded&#8593;
+| '''Double Spinning Blaze'''&lt;br&gt;High Crit. Rate/Charge on hit
+| '''Dual Blaze'''&lt;br&gt;High Crit. Rate/Launched&#8593;
+|-
+! Rolling Smash
+| '''Rolling Shot'''&lt;br&gt;AOE/[[Break (XC3)|Break]]
+| '''Double Spinning Smash'''&lt;br&gt;AOE/Gain charge on hit
+| '''Rolling Blast'''&lt;br&gt;AOE/High HP: Dmg up
+|-
+! Sword Bash
+| '''Anchor Bash'''&lt;br&gt;Resistance Down/Toppled&#8593;
+| '''Heavy Purge'''&lt;br&gt;Res. down/Gain charge on hit
+| '''Purge Edge'''&lt;br&gt;AOE/Resistance down
+|}
+
+=== Skills ===
+* '''Raging Flame''', Boosts damage dealt by 4-8% when landing a critical hit (up to a maximum of 150%).
+* '''Lightspeed Blade''', On critical, ignore enemy defense. Also increases critical hit damage bonus by 30-50 percentage points.
+* '''Heroic Spirit''', If an ally is down/has low HP, deal 50-150% more damage and take 20-30% less damage.
+* '''Flash and Flame''', Increases Critical Rate by 10-20 percentage points and critical hit damage by 30-50 percentage points.
+
+=== Affinity Growth ===
+The below table contains a detailed breakdown of Rex's Affinity Growth tree.
+
+''Note: Nodes are listed from top to bottom, from left to right.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:7%;"| Icon
+!style="width:18%;"| Name
+!style="width:40%;"| Description
+!style="width:10%;"| Cost
+!style="width:15%;"| Prerequisites
+|-
+!colspan="5"|Affinity Growth Tier 1
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Anchor Shot
+|Power Multiplier: 110% -&gt; 130%&lt;br&gt;Recharge Gauge: 8 -&gt; 7
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Double Spinning Edge
+|Power Multiplier: 180% -&gt; 235%&lt;br&gt;Recharge Gauge: 7 -&gt; 6&lt;br&gt;On critical hit, recharges Art used by &lt;s&gt;20%&lt;/s&gt; '''25%'''.
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Dual Blast
+|Power Multiplier: 270% -&gt; 325%&lt;br&gt;Recharge Gauge: 9 -&gt; 8
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Rolling Smash
+|Type: Physical Attack&lt;br&gt;Area of Effect: Frontward AOE&lt;br&gt;Power Multiplier: 300%&lt;br&gt;Recharge Gauge: 26.6s (Time Recharge)
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Sword Bash
+|Type: Physical Attack&lt;br&gt;Area of Effect: One Target&lt;br&gt;Power Multiplier: 120%&lt;br&gt;Recharge Gauge: 30.0s (Time Recharge)&lt;br&gt;Buff/Debuff: Resistance Down
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Raging Flame
+|Boosts damage dealt by 4% when landing a critical hit (up to a maximum of 150%).
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Lightspeed Blade
+|On critical, ignore enemy defense. Also increases critical hit damage bonus by 30 percentage points.
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Initiative Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Initiative Effect: Launch
+|Starting the battle with an attack from the side inflicts Launch on the enemy.
+|5 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|5 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 10 percentage points.
+|5 AP
+|''None''
+|-
+!colspan="5"|Affinity Growth Tier 2 (1 [[Affinity Growth Unlock Kit]] required)
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Anchor Shot
+|Power Multiplier: 130% -&gt; 165%&lt;br&gt;Recharge Gauge: 7 -&gt; 5
+|30 AP
+|Anchor Shot powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Double Spinning Edge
+|Power Multiplier: 235% -&gt; 310%&lt;br&gt;Recharge Gauge: 6 -&gt; 4&lt;br&gt;On critical hit, recharges Art used by &lt;s&gt;25%&lt;/s&gt; '''30%'''.
+|30 AP
+|Double Spinning Edge powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Dual Blast
+|Power Multiplier: 325% -&gt; 400%&lt;br&gt;Recharge Gauge: 8 -&gt; 7
+|30 AP
+|Dual Blast powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Cross Blaze
+|Power Multiplier: 200% -&gt; 260%&lt;br&gt;Recharge Gauge: 20.0s -&gt; 17.3s&lt;br&gt;Boosts Critical Rate against enemies performing Arts by &lt;s&gt;50%&lt;/s&gt; '''70%'''.
+|25 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Rolling Smash
+|Power Multiplier: 300% -&gt; 360%&lt;br&gt;Recharge Gauge: 26.6s -&gt; 23.3s
+|25 AP
+|Rolling Smash learned
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Sword Bash
+|Power Multiplier: 120% -&gt; 140%&lt;br&gt;Recharge Gauge: 30.0s -&gt; 26.6s
+|25 AP
+|Sword Bash learned
+|-
+|[[File:FR Affinity Enhance Attacker Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Infinity Blade
+|Power Multiplier: 750% -&gt; 870%&lt;br&gt;Unblockable. Also deals damage that ignores defense.
+|40 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Heroic Spirit
+|If an ally is down/has low HP, deal 50% more damage and take 20% less damage.
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Flash and Flame
+|Increases Critical Rate by 10 percentage points and critical hit damage by 30 percentage points.
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Raging Flame
+|Boosts damage dealt by &lt;s&gt;4%&lt;/s&gt; '''6%''' when landing a critical hit (up to a maximum of 150%).
+|30 AP
+|Raging Flame learned
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Lightspeed Blade
+|On critical, ignore enemy defense. Also increases critical hit damage bonus by &lt;s&gt;30&lt;/s&gt; '''40''' percentage points.
+|30 AP
+|Lightspeed Blade learned
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Heroic Spirit
+|If an ally is down/has low HP, deal &lt;s&gt;50%&lt;/s&gt; '''100%''' more damage and take &lt;s&gt;20%&lt;/s&gt; '''25%''' less damage.
+|30 AP
+|Heroic Spirit learned
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Flash and Flame
+|Increases Critical Rate by &lt;s&gt;10&lt;/s&gt; '''15''' percentage points and critical hit damage by &lt;s&gt;30&lt;/s&gt; '''40''' percentage points.
+|30 AP
+|Flash and Flame learned
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, and raises Art damage by 25%.
+|45 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;TP Plus
+|At start of Chain Attack, increases TP by 5.
+|20 AP
+|''None''
+|-
+!colspan="5"|Affinity Growth Tier 3 (2 [[Affinity Growth Unlock Kit]]s required)
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Cross Blaze
+|Power Multiplier: 260% -&gt; 340%&lt;br&gt;Recharge Gauge: 17.3s -&gt; 14.6s&lt;br&gt;Boosts Critical Rate against enemies performing Arts by &lt;s&gt;70%&lt;/s&gt; '''100%'''.
+|35 AP
+|Cross Blaze powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Rolling Smash
+|Power Multiplier: 360% -&gt; 440%&lt;br&gt;Recharge Gauge: 23.3s -&gt; 19.3s
+|35 AP
+|Rolling Smash powered up once
+|-
+|[[File:FR Affinity Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Sword Bash
+|Power Multiplier: 140% -&gt; 180%&lt;br&gt;Recharge Gauge: 26.6s -&gt; 22.6s
+|35 AP
+|Sword Bash powered up once
+|-
+|[[File:FR Affinity Enhance Attacker Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Infinity Blade
+|Power Multiplier: 870% -&gt; 1050%&lt;br&gt;Unblockable. Also deals damage that ignores defense.
+|60 AP
+|Infinity Blade powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Raging Flame
+|Boosts damage dealt by &lt;s&gt;6%&lt;/s&gt; '''8%''' when landing a critical hit (up to a maximum of 150%).
+|40 AP
+|Raging Flame powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Lightspeed Blade
+|On critical, ignore enemy defense. Also increases critical hit damage bonus by &lt;s&gt;40&lt;/s&gt; '''50''' percentage points.
+|40 AP
+|Lightspeed Blade powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Heroic Spirit
+|If an ally is down/has low HP, deal &lt;s&gt;100%&lt;/s&gt; '''150%''' more damage and take &lt;s&gt;25%&lt;/s&gt; '''30%''' less damage.
+|40 AP
+|Heroic Spirit powered up once
+|-
+|[[File:FR Affinity Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Flash and Flame
+|Increases Critical Rate by &lt;s&gt;15&lt;/s&gt; '''20''' percentage points and critical hit damage by &lt;s&gt;40&lt;/s&gt; '''50''' percentage points.
+|40 AP
+|Flash and Flame powered up once
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Chain Gauge Up (Art)
+|&lt;abbr title="3 units (out of 900 to fill the gauge) per Art use"&gt;Fills Chain Gauge slightly on Art execution.&lt;/abbr&gt;
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Instant KO (Low HP)
+|1% chance to instantly defeat an enemy at 30% HP or lower (excluding bosses/uniques).
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Attack Up
+|Boosts Attack by 10%.
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 10%.
+|15 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Enemy Count Damage Up
+|Boosts damage dealt by 20% for every enemy in battle (max. 200%).
+|20 AP
+|''None''
+|-
+|[[File:FR Affinity Learn Other Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Unblockable
+|Adds 100% chance for attack to be unblockable.
+|20 AP
+|''None''
+|}
+
+=== Unity Pairings ===
+When Rex is paired with the following party members in Unity, they grant the skill shown and have the following Unity Combo finisher as shown in the below table. The Unity Order of which Rex is a part of is also named differently, depending on who he pairs with.
+
+Note that all Unity Orders have the same completion bonus of "Reduces enemy physical and ether defense by 30 percentage points during Chain Attack".
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:10%;"| Icon
+!style="width:10%;"| Character
+!style="width:30%;"| Skill
+!style="width:30%;"| Unity Combo
+!style="width:30%;"| Unity Order Name
+|-
+|[[File:FR Unity MatthewRex.png|50px]]
+|[[Matthew (FR)|Matthew]]
+|'''All But Fatal:''' Increases damage bonus when exploiting enemy weakness by &lt;abbr title="Base"&gt;30&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;60&lt;/abbr&gt; percentage points.
+|'''Mega Smash:''' Deals damage to enemies in range and inflicts Smash.
+|'''[[Deliverance Boomfist]]'''
+|-
+|[[File:FR Unity ARex.png|50px]]
+|[[A]]
+|'''Cleave Heaven and Earth:''' Boosts damage dealt to toppled and launched targets by &lt;abbr title="Base"&gt;100%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;150%&lt;/abbr&gt;.
+|'''Slash Bomb:''' Deals huge damage to target and inflicts Burst.
+|'''[[Deliverance Flash]]'''
+|-
+|[[File:FR Unity NikolRex.png|50px]]
+|[[Nikol]]
+|'''Maximum Output:''' &lt;abbr title="Boosts damage by 25% per buff at base, or 50% per buff when enhanced"&gt;Boosts damage dealt for each active buff.&lt;/abbr&gt;
+|'''Element Bomb:''' Deals huge damage to enemies in range and inflicts Blowdown.
+|'''[[Deliverance Engine]]'''
+|-
+|[[File:FR Unity GlimmerRex.png|50px]]
+|[[Glimmer]]
+|'''Divine Blades:''' Boosts all allies' Critical Rate by &lt;abbr title="Base"&gt;15%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;20%&lt;/abbr&gt; and critical hit damage by &lt;abbr title="Base"&gt;30&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;50&lt;/abbr&gt; perc. points. (Does not stack).
+|'''Sacred Ray:''' Deals huge damage to target and inflicts Burst.
+|'''[[Red-Hot Aegislight]]'''
+|-
+|[[File:FR Unity ShulkRex.png|50px]]
+|[[Shulk]]
+|'''Immortal Legend:''' Boosts damage dealt when attacking higher-level enemies by &lt;abbr title="Base"&gt;50%&lt;/abbr&gt;/&lt;abbr title="Enhanced"&gt;100%&lt;/abbr&gt;.
+|'''Tri-Calamity:''' Deals damage to target and inflicts Smash.
+|'''[[Sword of Liberation]]'''
+|}
+
+=== Battle ===
+{{Infobox XC3 Enemy
+|name         = Stoutheart Rex
+|image        = Stoutheart Rex.jpg
+|caption      = Stoutheart Rex
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Liberators (enemy)|Liberators]]
+|level        = 38
+|area         = [[Yesterdale]] ([[Gotrock Oracle Ruins]])
+|spawntime    = During ''[[The Ouroboros Power]]''
+|respawn      = No
+|movement     = Ground
+|exp          = 0
+|hp           = 53,200
+|strength     = 194
+|healing      = 249
+|dexterity    = 122
+|agility      = 77
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 35%
+|guardrate    = 0%
+}}
+'''Stoutheart Rex''' is fought as [[Boss (XC3)|Boss]] alongside [[Shulk#Battle|Godcleaver Shulk]] at level 38 at the [[Gotrock Oracle Ruins]] in [[Yesterdale]] during ''[[The Ouroboros Power]]''.
+
+==== Resistances ====
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 50%
+|etherdebuff = 70%
+}}
+{{clr}}
+
+==== Arts ====
+{|class="xc1 centered"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Effect
+|- &lt;!-- Auto-attack --&gt;
+|'''Auto-Attack'''
+|Physical
+|One Target
+|2
+|80%
+| -
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Double Spinning Edge'''
+|Physical
+|One Target
+|4
+|200%
+| -
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Dual Blast'''
+| Physical
+| Frontward AOE
+| 1
+| 180%
+| -
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Cross Blaze'''
+| Physical
+| One Target
+| 3
+| 270%
+| Boosts Critical Rate against enemies performing Arts by 50%.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Rolling Smash'''
+| Physical
+| Frontward AOE
+| 1
+| 200%
+| Extends [[Topple (XC3)|Topple]] duration by 50%.
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Sword Bash'''
+| Physical
+| One Target
+| 1
+| 170%
+| -
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Infinity Blade'''
+| Ether
+| Frontward AOE
+| 8
+| 400%
+| Unblockable. Also deals damage that ignores defense.
+|}
+{{clr}}
+
+==== Challenge Battle ====
+{{Infobox XC3 Enemy
+|name         = Stoutheart Rex
+|image        = Stoutheart Rex Challenge Battle.jpg
+|caption      = Stoutheart Rex
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|type         = [[Liberators (enemy)|Liberators]]
+|level        = 80
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[The Two Saviors]]''
+|respawn      = No
+|movement     = Ground
+|hp           = 5,195,700
+|strength     = 663
+|healing      = 499
+|dexterity    = 353
+|agility      = 230
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+Stoutheart Rex is fought alongside [[Shulk#Challenge Battle|Godcleaver Shulk]] at level 80 during the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]''.
+
+===== Resistances =====
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 75%
+|knockback   = 75%
+|physdebuff  = 50%
+|etherdebuff = 70%
+}}
+{{clr}}
+
+===== Arts =====
+{|class="xc1 centered"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Effect
+|- &lt;!-- Auto-attack --&gt;
+|'''Auto-Attack'''
+|Physical
+|One Target
+|2
+|100%
+| -
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Double Spinning Edge'''
+|Physical
+|One Target
+|4
+|220%
+| -
+|-
+|'''Assume Stance - Offensive'''
+|Stance
+|Self
+|0
+|0%
+| Deal 50% more damage but take 50% more damage.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Dual Blast'''
+| Physical
+| Frontward AOE
+| 1
+| 150%
+| -
+|-
+|'''Assume Stance - Defensive'''
+|Stance
+|Self
+|0
+|0%
+|style="text-align:left;"|
+* Deal 50% less damage but take 95% less damage.
+* Adds 100% chance to block enemy combo reactions.
+* 100% chance to heal using 350% of Healing Power upon taking damage.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Rolling Smash'''
+| Physical
+| Frontward AOE
+| 1
+| 180%
+| Extends [[Topple (XC3)|Topple]] duration by 200%.
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Sword Bash'''
+| Physical
+| One Target
+| 1
+| 250%
+| -
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Infinity Blade'''
+| Ether
+| Frontward AOE
+| 8
+| 275%
+| Unblockable. Also deals damage that ignores defense.
+|-
+|'''Assume Stance - Furious Attack'''
+| Stance
+| Self
+| -
+| -
+| Shortens auto-attack interval by 100%.
+|}
+{{clr}}
+
+== As a Hero in {{XC3|-}} ==
+After completing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]'', Rex is unlocked as a [[Hero]]. There are several gameplay differences between his appearances in {{XC3FR|sub}} and the main game:
+* The Ouroboros Powers [[Cross Blaze]] and [[Rolling Smash (XC2)|Rolling Smash]] have been converted into Agnian Arts with auto-attack-based cooldowns, to be consistent with other Heroes who only have Arts of one cooldown type. [[Sword Bash]] is unavailable.
+** The stats of the Arts at Rank 20 match the fully upgraded stats in {{XC3FR|sub}}, with the exception of the cooldown of Cross Blaze and Rolling Smash. This also holds true for Rex's skills, which are unchanged from {{XC3FR|sub}}.
+* His Heroic Chain is fixed to "Multiplies TP by 130% when first in line to attack, and makes all attacks critical", and his Chain Order's completion bonus is fixed to "Reduces enemy physical defense by 45/53/60/68/75 percentage points during Chain Attack" (the reduction is dependent on level).
+* Similar to other Heroes, Rex's [[Gem (XC3)|Gem]] loadout is fixed to the following:
+** [[Doublestrike]]
+** [[Steelcleaver]], from level 20 onwards
+** [[Analyze Weakness]], from level 40 onwards
+* Rex's default accessories are the following Common-variant accessories, which can be changed in post-game or [[New Game + (XC3)|New Game +]]:
+** [[Search Headgear]]
+** [[Optical Headband (XC3)|Optical Headband]], from level 30 onwards
+** [[Ceramic Belt (XC3)|Ceramic Belt]], from level 50 onwards
+* Compared to {{XC3FR|sub}}, Rex's base stats are scaled such that he has higher base stats at lower levels, though he will have the same base stats at level 99 in both {{XC3FR|sub}} and the main game (when excluding Affinity Growth). The base stats in the main game are shown in the below table.
+** Rex's weapon stats scale with his level (similar to all other characters in the main game) instead of being manually upgraded. However, since the level I weapon in {{XC3FR|sub}} is equivalent to the weapon at level 10 in the main game, his final Attack stat at level 1 is lower in the main game than in {{XC3FR|sub}} with a level I weapon. In contrast, the level X weapon in {{XC3FR|sub}} is equivalent to the weapon at level 99 in the main game.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||357||59 (+20)||12||41||25||18%||4%||15%||15%
+|-
+| 99, base||5,095||1,220 (+70)||170||418||251||32%||8%||15%||15%
+|-
+| 99, with default accessories||5,095||1,586 (+70)||170||418||251||46% [+20%]||8%||15%||15%
+|}
+Rex also has some differences with other Heroes in the main game:
+* Rex has no [[Hero Quest|Ascension Quest]]; he is [[Class Rank (XC3)|Rank]] 20 in his class when he joins the party. His class cannot be inherited or controlled by any playable character, and consequently does not grant any Master Arts or Skills.
+* ''[[Battle!!]]'' plays when he is used in battle if the "Special BGM" setting is enabled. 
+* As a DLC Hero, he will not appear in any story cutscenes, nor will he participate in the final boss battle, unless chosen as the party's Hero.
+{{clr}}
+
+== Games Collaboration ==
+[[File:XC2-BotW-Rex-costume.jpg|thumb|210px|Rex's costume worn by Link in {{BOTW|-}}]]
+A DLC for {{BOTW}} bringing "Rex's costume" to [[w:c:zelda:Link|Link]] was released on November 9, 2017. It offers the new side quest ''[[w:c:zelda:Collaboration: Xenoblade Chronicles 2|Collaboration: Xenoblade Chronicles 2]]'' where Link must discover three red treasures across [[w:c:zelda:Hyrule|Hyrule]], each of them containing the [[w:c:zelda:Salvager Headwear|Salvager Headwear]], [[w:c:zelda:Salvager Vest|Vest]] and [[w:c:zelda:Salvager Trousers|Trousers]]. These three pieces of Rex's costume individually grant Link the bonus effect Swim Speed Up, with a set bonus of Swim Dash Stamina Up if all three pieces are worn together.
+{{clr}}
+
+== In {{SSBU|-}} ==
+[[File:SSBU DLC 04.jpg|thumb|210px|Rex during Pyra's Final Smash in {{SSBU|-}}]]
+Rex's salvager costume complete with Azurda is available for Mii Fighters as bonus content from the fighters pass in {{SSBU}}. Rex's Spirit also appears on the Spirit Board and in Adventure Mode in the World of Dark's Sacred Realm. Additionally, Rex's Spirit can be enhanced into his Master Driver appearance. 
+
+Rex also appears as part of Pyra and Mythra's moveset. When Pyra and Mythra activate their Final Smashes, [[Burning Sword]] and [[Sacred Arrow]] respectively, Rex appears and slashes with the Aegis Sword to trap any opponents hit, and then Rex and Pyra or Mythra perform the attack together, appearing very similar to how the attacks are performed in {{XC2|-}}. Rex also appears appears during Pyra and Mythra's up taunt, during which he cheers on the active character while pumping his fist in a similar fashion to how he cheers during [[Blade Special]]s in {{XC2|-}}. Lastly, Rex appears during two of Pyra and Mythra's victory animations. 
+
+According to [[wikipedia:Masahiro Sakurai|Masahiro Sakurai]], Rex could not make the base roster due to it having been finalized before the release of {{XC2|-}}. The reason for why he could not be playable alongside Pyra and Mythra were due to hardware limitations of the Nintendo Switch, citing the detail across their models being a key factor.
+{{clr}}
+
+== Quotes ==
+=== {{XC2|-}} ===
+==== Story ====
+* ''"Listen, I swore to you. We're going to Elysium together! That's a promise. I'm going to Elysium for you. I'm doing all of this for you. We'll do it together! We'll find out together! We'll find your place in this world! Find out where we're headed... And see what our future holds. So believe me! I won't let the world burn a second time! So Pyra, Mythra... Join me!"''
+* ''"That's right. When a person dies, that's it for them. But their thoughts and memories will always be passed on to someone else. Isn't that the same with you Blades? Your past selves get passed down to someone else to become your new selves... Isn't that how you've always lived? We're no different!"''
+* ''"You're the one who won't change. That's exactly why you hate those who try to!"''
+* ''"It's so strange... I don't even know what I'm doing here any more... Everyone's all wrong... They all said I... But now...you two... Did...did I go wrong somewhere...?"''
+* ''"I'll punch him in his stupid face. And then... Probably get a drink with him or something. That's the sixth rule of the Salvager's Code. First have a punch-out, then drink to forget. Once you've forgotten, the friendship's all set! I'm not old enough to drink yet though..."''
+* ''"It will change! I will change it! That's the reason we've come all this way!"''
+* ''"I'm doing it...for myself. If it helps put smiles on people's faces... Helps them live their lives together... Then that's my role in this world!"''
+
+==== Salvager's Code ====
+During the course of the game Rex mentions seven rules of the Salvager's Code:
+* First rule: ''"Swim like a fish, drink like one too!"''
+* Second rule: ''"Always help others that help you!"''
+* Third rule: ''"Make a girl cry? That's not gonna fly. Make a girl smile? You pass the trial!"''
+* Fourth rule: ''"Open a chest, it might turn out great. Until then, it's just a crate."''
+* Fifth rule: ''"Always be-..."'' [Interrupted by Mythra]
+* Sixth rule: ''"First have a punch-out, then drink to forget. Once you've forgotten, the friendship's all set!"''
+* Seventh rule: ''"Never leave a debt unpaid!"''
+
+==== Gameplay ====
+*''"Let's show 'em a thing or three!"''
+*''"Treasure acquired."''
+
+=== {{XC3FR|-}} ===
+==== Story ====
+*''"Drop it, Shulk! Nothing's gonna get through to him! He's a heartless machine!"''
+*''"Leave it to Uncle Rex. I'll show 'em a thing or three!"''
+*''"If through my fighting&#8230;someone out there gets to smile&#8230; That's the kind of world I wanna help create."''
+*''"A long time ago, I made a decision here. That no matter what it cost me, if it's for the people that count on me&#8230;if it's to live up to their trust, I'd walk through hell and high water, and gladly."''
+
+==== Gameplay ====
+*''"Wipe them off the face of Aionios!"''
+
+=== {{XC2|-}} Post-Battle Dialogue ===
+{{:Post-Battle Dialogue (XC2)/Rex}}
+
+== Trivia ==
+* Malos points out Rex's eyes as a sign he should've been wary about when hiring him. Both Rex and Addam share a golden eye color, possibly implying that Rex is a descendant of Addam.
+* Rex's broadsword is called "Junk Sword", the same as Shulk's [[Junk Sword|initial weapon]] in {{XC}}.
+* Rex and Shulk have a similar origin; both are killed whilst on a quest to find their respective legendary swords and are resurrected to further the goal of the entity the sword belongs to.
+* Rex is the only major protagonist in the {{XC|serieslink}} to have his English voice actor change between games.
+
+== Gallery ==
+=== {{XC2|-}} ===
+==== Official Art ====
+&lt;gallery&gt;
+RexOfficialArt.png|Official artwork
+Rex art no core.png|Rex's official artwork without a core crystal
+RexMasterDriver.png|Official Artwork of Rex as a Master Driver
+Xenoblade-Chronicles-2-Characters-Art.jpg
+XC2-011.png|Rex and Pyra
+XC2-013.png|Rex
+XC2-014.png|Rex and Pyra
+XC2 &amp; TTGC Celebration Artwork.jpeg|Official Artwork of Rex alongside all the main characters of {{XC2|-}} and {{TTGC|-}}
+MS recruiting Artwork Masumi Senoo.jpg|Monolith Soft recruiting artwork of Rex, Pyra, Nia, and Tora
+MS recruiting Artwork Takahide Muto.jpg|Monolith Soft recruiting artwork of Rex and Pyra
+Masatsugu Saito XC2 Launch Artwork.jpg|{{XC2|-}} Launch Day Official Artwork from Masatsugu Saito
+XC2 5th Anniversary Celebration.jpg|{{XC2|-}} 5th Anniversary Celebration Wallpaper
+XC2 5th Anniversary Celebration 02.jpg|{{XC2|-}} 5th Anniversary Celebration Wallpaper
+Xenoblade-10th-Anniversary-artwork-only.jpg|Artwork commemorating the 10th anniversary of the {{XC|serieslink}}
+&lt;/gallery&gt;
+
+==== Concept Art ====
+&lt;gallery&gt;
+XC2-Rex-concept-art.jpg|Conceptual artwork of Rex
+Rex and Aegis Concept Art.PNG|Concept art of Rex and the Aegis
+Rex Salvaging Concept Art.PNG|Concept art of Rex salvaging in the Cloud Sea
+XC2-Rex-facial-expressions-artwork.jpg|Rex's facial expressions
+XC2-012.png|Conceptual artwork
+Concept Art.PNG|Early design
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+XC2-Rex-and-Jitchan.jpg|Rex and Azurda
+PyraFire.png|Rex and Pyra
+RexMythraDriving.png|Rex Driving Mythra
+XC2-Rex-vs-M&#242;rag.png|Rex confronting [[M&#242;rag]]
+Corvin bq3.png|Rex during [[Corvin]]'s Blade Quest
+XC2-Uraya-2.jpg|Rex and Floren looking at the [[Kingdom of Uraya]]'s luminescent forest
+CorinneRex.png|Rex as a child, with Corinne
+Rex Broadsword.png|Rex's Broadsword, used at the beginning of the game
+XC2-Rex-appearance-change.jpg|Rex's appearance evolution between two early build versions
+XC2 Land of Challenge 2.jpg|Rex meeting Shulk in the Land of Challenge
+XC2 Elma 2.jpg|Rex, Shulk, and Elma in the Land of Challenge
+&lt;/gallery&gt;
+
+=== {{XC3FR|-}} ===
+==== Official Art ====
+&lt;gallery&gt;
+XC3FR Rex Official Artwork.png|Official Artwork of Rex in {{XC3FR|-}}
+&lt;/gallery&gt;
+
+==== In-Game Renders ====
+&lt;gallery&gt;
+Rex Hero Icon.png|Hero List Icon
+Rex Level Up Art.png|Level Up Art
+Deliverance Hew.png|Chain Art Icon
+Deliverance Boomfist.png|Rex and Matthew Chain Art Icon
+Deliverance Flash.png|Rex and A Chain Art Icon
+Deliverance Engine.png|Rex and Nikol Chain Art Icon
+Red-Hot Aegislight.png|Rex and Glimmer Chain Art Icon
+Sword of Liberation.png|Rex and Shulk Chain Art Icon
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+XC3 Rex Screenshot.jpg|Rex before losing his eye in {{XC3FR|sub}}
+Rex Combined Firelight Sword.jpg|Rex wielding the combined form of his Firelight Swords
+XC3FR Rex 1.jpg
+XC3FR Rex 2.jpg
+Rex and Rinka.jpg|Rex with Linka
+Rex Infinity Blade FR.jpg|Rex using Infinity Blade
+Rex Glimmer Prison Island.jpg
+The way to the long break - 1.jpg|Rex, Shulk, and A become Origin's new avatars
+&lt;/gallery&gt;
+
+=== {{SSBU|-}} ===
+&lt;gallery&gt;
+SSBU DLC Pyra Mythra 3.jpg|Rex with Pyra and Mythra in {{SSBU|-}}
+SSBU DLC 04.jpg|Rex about to hit opponents with the Aegis Sword before using Burning Sword
+Mythra Shulk &amp; Rex.jpg|Rex with Mythra and Shulk in {{SSBU|-}}
+Rex Mii Costume.png|Rex Outfit in {{SSBU|-}}
+&lt;/gallery&gt;
+
+{{XC2CharNav}}
+{{XC3CharNav}}
+{{XC3FRCharNav}}
+
+[[es:Rex]]
+[[fr:Rex]]
+[[zh:&#33713;&#20811;&#26031;]]
+
+== References ==
+{{Reflist}}
+[[Category:Rex]]
+[[Category:XC2 Playable Characters]]
+[[Category:Drivers]]
+[[Category:XC2 Leftherians]]
+[[Category:Salvagers]]
+[[Category:XC3FR Playable Characters]]
+[[Category:Liberators]]
+[[Category:DLC Heroes]]
+[[Category:XC3FR Bosses]]
+[[Category:XC3FR Quest Exclusive Enemies]]
+[[Category:XC3FR Quest Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3FR Liberators Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:Super Smash Bros. Ultimate]]</text>
+      <sha1>085e50d5euxeoojadmilu5907us2r3w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhana</title>
+    <ns>0</ns>
+    <id>128630</id>
+    <revision>
+      <id>602095</id>
+      <parentid>600803</parentid>
+      <timestamp>2023-07-22T12:27:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2459" sha1="dmqeu9ve70fey7no0w8358wwo8hd7si" xml:space="preserve">[[File:Bizarre Ragoel.png|thumb|Bizarre Ragoel]]
+'''Rhanas''' (Japanese: {{lang|ja|&#12521;&#12540;&#12490;}}, ''R&#257;na'') are a family of frog-like monsters in the {{XC|serieslink}}. This species is close to the [[Brog]]s and there are less Rhana types than Brog types.
+
+== {{XC|-}} ==
+In {{XC}}, Rhanas are found at [[Eryth Sea]] and the quest-exclusive one at [[Colony 9 (XC1)|Colony 9]]. There is only one blue variety. The most powerful Rhana in the game is [[Bizarre Ragoel]], found in Eryth Sea at level 88. In all games, Rhanas can usually be found in watery areas.
+
+=== Normal Minor Enemy ===
+* [[Eryth Rhana]]
+
+=== Quest-Exclusive Enemy ===
+* [[Vicious Rhana]] (during ''[[Getting to Know Minnie]]'')
+
+=== Unique Monster ===
+* [[Bizarre Ragoel]]
+
+== {{XCFC|sub}} ==
+In {{XCFC|sublink}}, one Rhana type is found exclusively on the [[Bionis' Shoulder]].
+
+=== Normal Minor Enemy ===
+* [[Eryth Rhana]]
+{{clr}}
+
+== {{XC2|-}} ==
+In {{XC2}}, only one type of Rhanas is found in [[Temperantia]]. They look similar to the Rhanas in {{XC|-}}.
+
+=== Normal Minor Enemy ===
+* [[Brazay Rhana]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Alyf Crog]]
+
+: Note: This Rhana is denoted '''Crog''' as a type name, close to Brog, but this may be a mistake.
+{{clr}}
+
+== {{XC3|-}} ==
+In {{XC3}}, Rhanas can be found in [[Low Maktha Wildwood]] or [[Erythia Sea]].
+
+=== Normal Minor Enemies ===
+* [[Begest Rhana]]
+* [[Detox Rhana]]
+
+=== Quest Exclusive Enemy ===
+* [[Swaroog Rhana]] (During ''[[The Ultimate Vessel]]'')
+
+=== Unique Monsters ===
+* [[Covetous Gerondon]]
+
+== Etymology ==
+''Rhana'' comes from the latin genus name ''[https://en.wikipedia.org/wiki/Rana_(genus) rana]'' (pond frogs), while ''Brog'' and ''Crog'' are both simple analogues of ''frog''. 
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Eryth Rhana.jpg|A Rhana
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Brazay Rhana.jpg|Brazay Rhana
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Covetous Gerondon.png|Covetous Gerondon
+Covetous gerondon.png|Covetous Gerondon
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:XCFC Species]]
+[[Category:Species Category]]
+[[Category:Bionis Life]]
+[[Category:XC Rhanas]]
+[[Category:XCFC Rhanas]]
+[[Category:Amphibious Enemies]]
+[[Category:Sight Category]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Rhanas]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:XC3 Species]]
+[[Category:XC3 Rhanas]]
+[[Category:XC3 Aquatic Life]]
+[[Category:Rhanas]]
+[[Category:Species by Type]]</text>
+      <sha1>dmqeu9ve70fey7no0w8358wwo8hd7si</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhinon</title>
+    <ns>0</ns>
+    <id>74404</id>
+    <revision>
+      <id>602096</id>
+      <parentid>600804</parentid>
+      <timestamp>2023-07-22T12:27:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602096</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2120" sha1="a6m76wfdfuxkvfnppo8essgi1ulgejq" xml:space="preserve">[[file:Nomad Rhinon.png|thumb|Nomad Rhinon]]
+'''Rhinons''' are a family of enemies in the {{XC|serieslink}}. They are large rhinoceros-like quadrupeds often used by [[Igna]]s as beasts of war. 
+
+== {{XC2|-}} ==
+In {{XC2}}, Rhinons can be found in the [[Kingdom of Uraya]], [[Empire of Mor Ardain]], and [[Temperantia]].
+=== Normal Minor Enemies ===
+* [[Birial Rhinon]]
+* [[Quake Rhinon]]
+* [[Nomad Rhinon]]
+
+=== Ignas that ride Rhinons ===
+==== Minor Enemies ====
+* [[Gigalid Igna]]
+* [[Norgam Igna]]
+* [[Raider Igna]]
+* [[Rowda Igna]]
+* [[Venal Igna]]
+
+==== Quest-Exclusive Enemies ====
+* [[Blood-Crazed Stalker]] (DLC) (during ''[[A Mercenary's Honor]]'')
+* [[Gigalid Igna]] (DLC) (during ''[[Bright Spark]]'')
+
+==== Challenge Battle Enemies ====
+* [[Demon King Gilbert]]
+* [[Ryder Igna]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Rhinons can be found on [[Elaice Highway]] and at the [[Great Sword's Base]].
+=== Normal Minor Enemies ===
+* [[Armored Rhinon]]
+* [[Deinos Rhinon]]
+
+=== Quest-Exclusive Boss ===
+* [[Annon Rhinon]] (During ''[[Natural Selection]]'' &amp; ''[[Survivors]]'')
+
+=== Unique Monster ===
+* [[Foolhardy Saide]]
+
+=== Ignas that ride Rhinons ===
+==== Normal Minor Enemies ====
+* [[Pellurid Igna]]
+* [[Randster Igna]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Deinos Rhinon]]
+
+=== Boss ===
+* [[Ritteli Rhinon]]
+
+=== Ignas that ride Rhinons ===
+==== Normal Minor Enemies ====
+* [[Pellurid Igna]]
+* [[Randster Igna]]
+* [[Warmount Igna]]
+
+==== Unique Monster ====
+* [[Cavalier MacBright]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+QuakeRhinon.jpg|Quake Rhinon
+RaiderIgna.jpg|Raider Igna
+DemonKingGilbert.jpg|Demon King Gilbert
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Armored Rhinon.jpg|Armored Rhinon
+XC3 Deinos Rhinon.jpg|Deinos Rhinon
+XC3 Foolhardy Saide.png|Foolhardy Saide
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC2 Species]]
+[[Category:XC2 Rhinons]]
+[[Category:XC2 Beasts]]
+[[Category:XC3 Species]]
+[[Category:XC3 Rhinons]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Rhinons]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Rhinons]]
+[[Category:Species by Type]]</text>
+      <sha1>a6m76wfdfuxkvfnppo8essgi1ulgejq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhoden Kapiba</title>
+    <ns>0</ns>
+    <id>121716</id>
+    <revision>
+      <id>559899</id>
+      <parentid>557256</parentid>
+      <timestamp>2022-09-30T10:56:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559899</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="t7bgp8weix86zap4gac8sf4bqu47qve" xml:space="preserve">{{Infobox Enemy
+|name         = Rhoden Kapiba
+|image        = 
+|caption      = Rhoden Kapiba
+|category     = Minor Enemy
+|type         = [[Kapiba]]
+|level        = ?
+|area         = [[Great Sword's Hilt]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rhoden Kapibas''' are Minor Enemies in {{XC3}}. They are members of the [[Kapiba]] family, and can be found at level ? at [[Great Sword's Hilt]] in the [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Kapibas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>t7bgp8weix86zap4gac8sf4bqu47qve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhodhii Volff</title>
+    <ns>0</ns>
+    <id>121028</id>
+    <revision>
+      <id>559900</id>
+      <parentid>557208</parentid>
+      <timestamp>2022-09-30T10:56:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1023" sha1="4pmqi0hz4iun2ysxxkbgda13frzgmq4" xml:space="preserve">{{Infobox Enemy
+|name         = Rhodhii Volff
+|image        = 
+|caption      = Rhodhii Volff
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Volff]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rhodhii Volffs''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Volff]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]] during ''[[Shadow of Enmity]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>4pmqi0hz4iun2ysxxkbgda13frzgmq4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhodya Volff</title>
+    <ns>0</ns>
+    <id>123993</id>
+    <revision>
+      <id>559901</id>
+      <parentid>557207</parentid>
+      <timestamp>2022-09-30T10:56:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1020" sha1="h2kqyq5x7ec2101f1wh7qgqg1nfva0u" xml:space="preserve">{{Infobox Enemy
+|name         = Rhodya Volff
+|image        = 
+|caption      = Rhodya Volff
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Volff]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rhodya Volffs''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Volff]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]] during ''[[Shadow of Enmity]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>h2kqyq5x7ec2101f1wh7qgqg1nfva0u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhoen Quadwing (XC3)</title>
+    <ns>0</ns>
+    <id>121093</id>
+    <revision>
+      <id>560179</id>
+      <parentid>559902</parentid>
+      <timestamp>2022-10-02T16:29:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>For link</comment>
+      <origin>560179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="857" sha1="jwcyluer52uqxegt3qm6xuqh8xp799f" xml:space="preserve">{{for|the enemy in {{XC|-}}|Rhoen Quadwing (XC1)}}
+{{Infobox Enemy
+|name         = Rhoen Quadwing
+|image        = 
+|caption      = Rhoen Quadwing
+|category     = Minor Enemy
+|type         = [[Quadwing]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rhoen Quadwings''' are Minor Enemies in {{XC3}}. They are members of the [[Quadwing]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>jwcyluer52uqxegt3qm6xuqh8xp799f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhogul</title>
+    <ns>0</ns>
+    <id>10004</id>
+    <revision>
+      <id>602097</id>
+      <parentid>600805</parentid>
+      <timestamp>2023-07-22T12:27:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>602097</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3758" sha1="m56nbd3u1bgnwn6ambzgk6djjsrrrei" xml:space="preserve">[[file:Sunlight Schvaik.png|thumb|Sunlight Schvaik in {{XC|-}}]]
+'''Rhoguls''' (Japanese: {{lang|ja|&#12525;&#12540;&#12464;&#12523;}}, ''R&#333;guru'') are flying enemies resembling birds of prey in the {{XC|serieslink}}. They are similar in size and power to [[Ansel]]s, but are larger and have different beaks. Their appearance does not change between games.
+
+== {{XC|-}} ==
+In {{XC}}, Rhoguls are found on the [[Bionis' Leg]], around [[Colony 6]] and in [[Satorl Marsh]]. The Rhogul family includes:
+
+=== Normal Minor Enemies ===
+* [[Last Rhogul]]
+* [[Mist Rhogul]]
+* [[Satorl Rhogul]]
+* [[Sky Rhogul (XC1)|Sky Rhogul]]
+
+=== Quest Exclusive Enemy ===
+* [[Ancient Rhogulia]] (during ''[[Defend Colony 6 - Ancient]]'')
+
+=== Unique Monsters ===
+* [[Canyon Valencia]]
+* [[Sunlight Schvaik]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Satorl Rhogul]]
+
+=== Quest Exclusive Enemy ===
+* [[Bodacious Rhogul]] (During ''[[Ready, Setset, Go!]]'')
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Arogan Rhogul (XC2)|Arogan Rhogul]]
+* [[Dont Rhogul]]
+* [[Ligar Rhogul]]
+* [[Moskel Rhogul]]
+
+=== Quest Exclusive Enemy ===
+* [[Shika Rhogul (XC2)|Shika Rhogul]] (Ansel model, during ''[[Hero of the Nopon]]'')
+
+=== Unique Monsters ===
+* [[Sniping Brent]]
+* [[Tattooed Hugo]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Hunting Rhogul]]
+
+== {{TTGC|-}} ==
+A [[Unique Monster (XC2)|Unique]] Rhogul, the Golden Monster [[Hurricane Anise]], is found in the [[Kingdom of Torna]]. It is larger than normal Rhoguls and wears golden armor.
+
+=== Normal Minor Enemies ===
+* [[Apostle Rhogul]]
+* [[Arrah Rhogul]]
+* [[Salsh Rhogul]]
+* [[Sordis Rhogul]]
+* [[Tonbre Rhogul]]
+
+=== Unique Monster ===
+* [[Hurricane Anise]] ([[Superboss]])
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Arogan Rhogul (XC3)|Arogan Rhogul]]
+* [[Avee Rhogul]]
+* [[Brute Rhogul]]
+* [[Kanbat Rhogul]]
+* [[Merrosh Rhogul]]
+* [[Rabdar Rhogul]]
+* [[Shika Rhogul (XC3)|Shika Rhogul]]
+* [[Sky Rhogul (XC3)|Sky Rhogul]]
+* [[Smart Rhogul]]
+* [[Sniper Rhogul]]
+
+=== Quest Exclusive Enemies ===
+* [[Feyz Rhogul]] (During ''[[Side Story: Sena]]'')
+
+=== Unique Monsters ===
+* [[Heavenrazor Egreet]]
+* [[Soaring Virion]]
+
+=== Quest Exclusive Bosses ===
+* [[Aviga Rhogul]] (During ''[[Extracurricular Lesson]]'')
+* [[Eghi Rhogul]] (During ''[[A Warrior's Pride]]'')
+* [[Memorial Rhogul]] (During ''[[My Memories]]'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Baby Rhogul]]
+* [[Rabdar Rhogul]]
+* [[Smart Rhogul]]
+
+=== Unique Monster ===
+* [[Watchful Valencia]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Last Rhogul.jpg
+SunlightSchvaik.png
+Satorl Rhogul.jpg
+Canyon Valencia.png
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+HuntingRhogul.jpg|Hunting Rhogul
+Sniping-Brent-crop.jpg|Sniping Brent
+ShikaRhogul.jpg|Shika Rhogul (Ansel model)
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+SordisRhogul.jpg|Sordis Rhogul
+TonbreRhogul.jpg|Tonbre Rhogul
+Anise2.jpg|Hurricane Anise
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Eghi Rhogul.png|Eghi Rhogul
+Rabdar Rhogul.jpg|Rabdar Rhogul
+Sky Rhogul (XC3).png|Sky Rhogul
+XC3 Heavenrazor Egreet.png|Heavenrazor Egreet
+XC3 Soaring Virion.png|Soaring Virion
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Baby Rhogul.jpg|Baby Rhogul
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:Bionis Life]]
+[[Category:Flying Enemies]]
+[[Category:XC Rhoguls]]
+[[Category:Sight Category]]
+[[Category:XCFC Species]]
+[[Category:XCFC Rhoguls]]
+[[Category:XC2 Rhoguls]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Species]]
+[[Category:TTGC Rhoguls]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Rhoguls]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Rhoguls]]
+[[Category:Species by Type]]</text>
+      <sha1>m56nbd3u1bgnwn6ambzgk6djjsrrrei</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rhyza</title>
+    <ns>0</ns>
+    <id>117854</id>
+    <revision>
+      <id>597771</id>
+      <parentid>596097</parentid>
+      <timestamp>2023-07-02T16:28:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597771</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1495" sha1="178ax7zeym1n0c9xiwwtf97kcuprcsb" xml:space="preserve">{{spoiler}}
+{{Infobox_NPC
+|name        = Rhyza
+|image       = Strm npc 82 0.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = 
+|age         = 10th Term
+|location    = [[Elaice Highway]] ([[Colony Iota]])
+}}
+'''Rhyza''' (Japanese: {{Lang|jp|&#12521;&#12452;&#12478;&#12454;}}, ''raizou'') is an NPC in {{XC3}}. He is from [[Colony Iota]] on [[Elaice Highway]] and on his 10th [[Term]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Rhyza
+|image        = 
+|caption      = Rhyza
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 40
+|area         = [[Elaice Highway]]
+|spawntime    = During ''[[Her Reasons]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rhyza''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who can be found at level 40 on [[Elaice Highway]] after encountering [[Alexandria]] and her soldiers near [[Dies Arch]] during ''[[Her Reasons]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Fornis Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>178ax7zeym1n0c9xiwwtf97kcuprcsb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ribeega Scorpox</title>
+    <ns>0</ns>
+    <id>122997</id>
+    <revision>
+      <id>578482</id>
+      <parentid>559307</parentid>
+      <timestamp>2023-03-04T18:02:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578482</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1081" sha1="1sj4psf7tjumopb3kkjn90teo6dnffh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ribeega Scorpox
+|image        = XC3 Ribeega Scorpox.png
+|caption      = Ribeega Scorpox
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Scorpox]]
+|level        = 50
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Apex Wing]])
+|spawntime    = During ''[[Beyond Mercy and Revenge]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Ribeega Scorpox''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Scorpox]] family, and is fought at level 50 at the [[Apex Wing]] in the [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Beyond Mercy and Revenge]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1sj4psf7tjumopb3kkjn90teo6dnffh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rigid Support</title>
+    <ns>0</ns>
+    <id>122723</id>
+    <revision>
+      <id>592839</id>
+      <parentid>592430</parentid>
+      <timestamp>2023-05-15T20:18:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592839</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="538" sha1="p83d673yoa47ub3gp0cgr968wdgp5um" xml:space="preserve">{{Infobox item
+|name      = Rigid Support
+|image     = XC3 Accessory Shirt.png
+|caption   = On blocking, boosts recharge of one Art at random by 10%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Rigid Supports''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 90 [[Nopon Coin (Silver)|Silver Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>p83d673yoa47ub3gp0cgr968wdgp5um</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Riku</title>
+    <ns>0</ns>
+    <id>116534</id>
+    <revision>
+      <id>599642</id>
+      <parentid>597312</parentid>
+      <timestamp>2023-07-13T22:42:00Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>IMDB link</comment>
+      <origin>599642</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7335" sha1="ddyt7pdam5ug7d35ifzn61qupdclnta" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name           = Riku
+|image          = XC3 Riku portrait Artwork.png
+|description    = Riku
+|gender         = Male
+|age            = Unknown
+|species        = [[Nopon]]
+|haircolor      = Brown
+|eyecolor       = Blue
+|affiliation    = [[Liberators]] (formerly)&lt;br/&gt;[[City]] (formerly)&lt;br/&gt;[[Colony 14]] (formerly)&lt;br/&gt;[[Colony 9 (XC3)|Colony 9]] (formerly)
+|voiceactorjp   = [[wikipedia:Sayaka_Senbongi|Sayaka Senbongi]]
+|voiceactoreng  = [https://www.imdb.com/name/nm13871062/ Tarinn Callender]
+|appearances    = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}}
+}}
+{{Quote|Riku just Riku. Common variety Nopon.|Riku}}
+'''Riku''' (Japanese: {{lang|ja|&#12522;&#12463;}}, '''Riku''') is a character in {{XC3}} and {{XC3FR}}.
+
+==Overview==
+Riku &amp; [[Manana]] are unlocked as a [[Hero]] duo after completing the [[Hero Quest]] ''[[A Nopon's Counsel]]''. He and Manana together are also known as Peerless [[Riku &amp; Manana]] (Japanese: {{Lang|jp|&#25216;&#24039;&#12398;&#12522;&#12463;&amp;&#12510;&#12490;&#12490;}}, ''Gik&#333; no Riku &amp; Manana''). He is a mechanic for [[Keves]] who is in charge of power frame repair and maintenance of the [[Colony 9 (XC3)|Colony 9]] [[Ferronis]].&lt;ref&gt;[https://topics.nintendo.co.jp/article/3ced4c9d-a5e1-43a3-b16e-0005971ed404 Nintendo]&lt;/ref&gt; Although he is initially a noncombatant, he later chooses to fight together with Manana as a single unit. Riku is one of the seven wielders of an [[Ultimate Hammer]].
+
+==Story==
+==={{XC3FR|sub}}===
+Riku is the son of either [[Riki]] or [[Kino]], and is friends with [[Melia]], who he considers his Masterpon. At some point after [[Z]] used [[Origin]] to create [[Aionios]], Melia entrusted Riku with [[Lucky Seven]] to pass it along to someone who can be trusted with its power one day. Riku was among the few people who were not assimilated by Origin.
+
+At some point, Riku joined the [[Liberators]], settling in [[Colony 9 (XC1)|Colony 9]]. Riku also made a prosthetic arm replacement for [[Shulk]], who lost his right arm when he and [[Rex]] first confronted [[Alpha]]. Riku eventually sets up a [[Riku's Workshop|workshop]] in the [[Dunban's House|building]] that formerly belonged to [[Dunban]]. Riku also travels with the party on their journey to [[Prison Island]]. While resting at the [[Valak Peak Camp]], Riku advises Shulk that leaping [[Blade (XC3)|Blade]]-first into battle is best left to the young and reckless, words Riku learned from his masterpon, Melia. Riku tells Shulk how she had told him to give Lucky Seven to such a person someday. Riku says that "everyone" is in Lucky Seven and also with Shulk in his [[Monado Replica EX+|Monado REX+]]. After Alpha is vanquished, Riku and [[Nikol]] are shown working together to strengthen the [[Ouroboros Stone]], which in turn refines the [[Ouroboros Power]] to become the power to [[Interlink]].
+
+==={{XC3|-}}===
+Riku stayed with the [[City]] for a long time until he eventually insinuated himself into [[Keves]], moving to [[Colony 14]] and meeting [[Noah]], [[Eunie]], [[Lanz]], and [[Joran]]. One day, Riku gave Noah [[Lucky Seven]] to use when it is needed, having deemed Noah worthy of the sword. After Colony 14 was destroyed, Riku moved to [[Colony 9 (XC3)|Colony 9]] with Noah, Lanz, and Eunie. 
+
+When the party becomes [[Ouroboros]], he stays with them and teaches them how to augment their equipment and create [[Gem]]s.
+
+While passing through the [[Urayan Tunnels]], [[Manana]] jumps in to fight some [[Arachno]]s. Riku scolds her recklessness, failing to hide his concern for her. At the bottom of the first elevator, Riku requests everyone help him search mineral deposits for gemstones. While taking a break at the [[Ruins of Seebu Camp]], Riku admits to Manana that he really likes her cooking. When the party finds the gemstones, a [[Princess Arachno]] attacks them. Riku and Manana decide to fight together in order to give the others more support, leading to the Arachno being defeated and Riku obtaining the gemstone he really wanted.
+
+==Gameplay==
+{{main|Riku &amp; Manana}}
+At [[Rest Spot (XC3)|Rest Spots]], Riku can [[Gem Crafting|craft]] [[Gem]]s.
+
+=={{XC3FR|sub}}==
+===NPC===
+{{Infobox NPC
+|name        = Riku
+|image       = FR Riku Icon.png
+|personality = Talented Mechanic
+|time_active = 
+|gender      = Male
+|race        = [[Nopon]]
+|age         = ???
+|location    = [[Yesterdale]] ([[Riku's Workshop]])
+}}
+'''Riku''' is an NPC in {{XC3FR|sublink}}. He can be found in [[Riku's Workshop|his workshop]] in [[Yesterdale]] after reaching the [[Valak Peak Camp]]. His [[Community (FR)|Community]] is gained when talking to him after checking [[Lucky Seven]] in the workshop.
+{{clr}}
+
+==Plushes==
+[[Monolith Soft]] made handmade plushes of Riku &amp; Manana. They have weapons, and ''"they look so cool and kawaii!"'' &lt;ref&gt;https://twitter.com/XenobladeJP/status/1552915657691242496&lt;/ref&gt;
+
+==Etymology==
+The name "Riku" is derived from the Japanese word, &#38520;, meaning "land."
+
+==Trivia ==
+* Riku's Japanese voice actress, Sayaka Senbongi, also voices [[Vale]] in {{XC2}}.
+* Riku &amp; Manana, [[Nia]], and [[Melia]] are the only non-DLC Heroes in {{XC3|-}} that can never be fought by the party.
+*Riku is the only Nopon character in the {{XC|serieslink}} to have a major role in more than one game.
+*In {{XC3FR|sub}}, Riku states that his father was a travelling companion with [[Melia]], which may refer to [[Riki]], who travelled with her in {{XC}}, or [[Kino]], who travelled with her in {{XCFC|sublink}}.
+
+==Gallery==
+===Artwork===
+&lt;gallery&gt;
+Riku Official Artwork.png|Official Art
+XC3 Riku and Manana Artwork.png|Official Artwork of Riku and Manana
+Riku Solo Art.jpg
+Riku Manana XC3 EX Artwork.png|{{XC3|-}} Expansion Pass Artwork of Riku and Manana
+XC3 Riku &amp; Manana as Yamsmiths.jpg|Riku &amp; Manana as Yumsmiths
+Riku and Manana Concept Art.png|Riku's Concept Art
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruiting artwork, with Riku crafting gems with the Gem Man
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+&lt;/gallery&gt;
+
+===In-Game Renders===
+&lt;gallery&gt;
+Riku Hero Icon.png|Riku's Hero List Icon
+Riku Manana Hero Icon.png|Riku and Manana's Hero List Icon
+Riku &amp; Manana Chain Art Icon.png|Riku and Manana's Chain Order Icon
+Riku Manana Level Up Art.png|Riku and Manana's Level Up Art
+Icon chara 7.png
+Icon chara battle 7.png
+XC3 Riku Icon.png|Riku's unused Affinity Chart Icon
+&lt;/gallery&gt;
+
+===Screenshots===
+===={{XC3|-}}====
+&lt;gallery&gt;
+RikuManana.jpg|Riku with Manana
+XC3 Riku Screenshot 1.jpg
+XC3 Riku Screenshot 2.jpg
+XC3 Riku's Crafting.jpg
+XC3 Gem Crafting 01.jpg|Riku crafting Gems
+&lt;/gallery&gt;
+
+===={{XC3FR|sub}}====
+&lt;gallery&gt;
+XC3FR Riku Screenshot.jpg|Riku in {{XC3FR|sub}}
+XC3FR Riku and Shulk.jpg|Riku with Shulk
+Riku FR Ending.jpg|Riku seeing off Matthew
+Working on the Ouroboros Stone.jpg|Riku and Nikol working on the Ouroboros Stone
+&lt;/gallery&gt;
+
+===Merchandise===
+&lt;gallery&gt;
+XC3 Riku &amp; Manana plushes 01.jpg
+XC3 Riku &amp; Manana plushes 03.jpg
+XC3 Riku &amp; Manana plushes 04.jpg
+&lt;/gallery&gt;
+
+==Videos==
+&lt;gallery&gt;
+File:&#12522;&#12463;|Riku
+&lt;/gallery&gt;
+
+==References==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+{{XC3FRCharNav}}
+
+{{fr stub}}
+
+[[Category:Riku]]
+[[Category:XC3 Heroes]]
+[[Category:XC3 Nopon]]
+[[Category:XC3 Supporting Characters]]
+[[Category:Keves]]
+[[Category:Liberators]]
+[[Category:XC3FR Nopon]]
+[[Category:XC3FR Supporting Characters]]
+[[Category:Yesterdale NPCs]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>ddyt7pdam5ug7d35ifzn61qupdclnta</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Riku &amp; Manana</title>
+    <ns>0</ns>
+    <id>117191</id>
+    <revision>
+      <id>598036</id>
+      <parentid>594561</parentid>
+      <timestamp>2023-07-03T15:25:20Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>hero base stats</comment>
+      <origin>598036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4186" sha1="a2in113vrdjx9ibtorbtpgclkwn9u3p" xml:space="preserve">{{for|the Standard Quest|Riku and Manana}}
+{{spoiler}}
+{{Infobox Character
+|name           = Riku &amp; Manana
+|image          = XC3 Riku and Manana Artwork.png
+|species        = [[Nopon]]
+|age            = 
+|gender         = Male (Riku)&lt;br/&gt;Female (Manana)
+|haircolor      = 
+|eyecolor       = 
+|appearances    = {{XC3}}
+|voiceactorjp   = 
+|voiceactoreng  =
+}}
+'''Riku &amp; Manana''' are a duo of characters in {{XC3}}.
+
+== Overview ==
+They are the duo formed by [[Riku]] and [[Manana]] during battles as a [[Hero]]. They are unlocked as Heroes upon completing the [[Hero Quest]] ''[[A Nopon's Counsel]]'', which is required to progress the story. Their [[Class Rank (XC3)|Rank]] can be increased to 20 by completing the Ascension Quest ''[[Culinary Repertoire]]''.
+
+== Gameplay ==
+Riku &amp; Manana's class is the [[Attacker]] [[Class (XC3)|class]], [[Yumsmith]]. Their [[Blade (XC3)|Blade]] is known as the Variable Arms, which consists of Riku using an electric screwdriver and Manana using a cooking pot lid.
+
+=== Base Stats ===
+These are Riku &amp; Manana's raw stats prior to modifications by class. They serve as a baseline for calculating their stats in the Yumsmith class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 368 || 19 || 18 || 31 || 20
+|-
+| 99 || 7,369 || 382 || 364 || 309 || 197
+|}
+
+=== General Stats ===
+These stats assume Riku &amp; Manana are at rank 20 in their class.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1||294||38||6||40||15||15%||15%||15%||15%
+|-
+| 99||5,895||964||127||401||147||20%||20%||15%||15%
+|}
+
+Riku &amp; Manana equip the following gems:
+* [[Disperse Bloodlust]]
+* [[Swelling Scourge]], level 20 onwards
+* [[Refined Incantation]], level 40 onwards
+
+Riku &amp; Manana equip the following accessories as their default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game +]]. All equipped accessories assume their Common variant.
+* [[Break Brooch]]
+* [[Leather Gloves (XC3)|Leather Gloves]], level 30 onwards
+* [[Lustrous Armring]], level 50 onwards
+
+=== Arts ===
+* '''[[Sword of Valor|Sharpest Tool]]''' ([[Battle Arts (XC3)#Talent Arts|Talent Art]]), Damage Link
+* '''[[Wok-a-Block]]''', Side [[Break (XC3)|Break]]
+* '''[[Final Say]]''', Shackle block/Front atk&#8593;
+* '''[[Roasty-Toasty]]''', Continuous dmg field/[[Blaze (XC3)|Blaze]]
+* '''[[Ready-Steady]]''', Power+ within fields
+* '''[[Hot Cuisine]]''', Accuracy Down
+
+Riku &amp; Manana's [[Battle Arts (XC3)|Chain Art]] is [[Noogie Storm]], and their Heroic Chain bonus grants a 125% modifier to the next character who acts during the Chain Attack. However, this bonus is lost if the duo completes the Chain Order with their action.
+
+=== Class Skills ===
+* '''Bangsplosion!''', Boosts field dissolution damage by 200-300%.
+* '''Sappy-Sappy Drain!''', Increases success rate of debuff effects by 20-25 percentage points.
+* '''Slicey-Dicey!''', Boosts field damage dealt by 150-200%.
+* '''Preppy-Preppy Link!''', Fills Chain Attack gauge slightly on Art execution.
+
+== Trivia ==
+* Riku &amp; Manana, [[Nia]], and [[Melia]] are the only non-DLC Heroes in {{XC3|-}} that can never be fought by the party.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Riku Manana XC3 EX Artwork.png|{{XC3|-}} Expansion Pass Artwork of Riku and Manana
+XC3 Riku &amp; Manana as Yamsmiths.jpg|Riku &amp; Manana as Yumsmiths
+Riku and Manana Concept Art.png|Riku and Manana's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Riku Manana Hero Icon.png|Hero List Icon
+Strm order thumb014 0.png
+Strm ch body009 0.png
+Icon chara 7.png
+Icon chara battle 7.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+RikuManana.jpg|Riku and Manana
+&lt;/gallery&gt;
+
+=== Merchandise ===
+&lt;gallery&gt;
+XC3 Riku &amp; Manana plushes 02.jpg
+XC3 Riku &amp; Manana plushes 03.jpg
+XC3 Riku &amp; Manana plushes 04.jpg
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:Riku &amp; Manana]]
+[[Category:XC3 Heroes]]
+[[Category:XC3 Nopon]]</text>
+      <sha1>a2in113vrdjx9ibtorbtpgclkwn9u3p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roald</title>
+    <ns>0</ns>
+    <id>117942</id>
+    <revision>
+      <id>597868</id>
+      <parentid>596172</parentid>
+      <timestamp>2023-07-02T16:36:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597868</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1605" sha1="qcpwljscivycpcl52q2sv78z9lv4fwk" xml:space="preserve">{{Infobox NPC
+|name        = Roald
+|image       = Roald.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = 
+|age         = 10th Term
+|location    = [[Yzana Plains]] ([[Colony 9 (XC3)|Colony 9]])
+}}
+'''Roald''' is an NPC in {{XC3}} who can be found in [[Colony 9 (XC3)|Colony 9]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Roald
+|image        = XC3 Roald Fight.png
+|caption      = Roald
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Keves Forces]]
+|level        = 21
+|area         = [[Yzana Plains]]
+|spawntime    = During ''[[Where The Heart Is]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Roald''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. He is a member of the [[Keves Forces]], and can be found at level 21 in the [[Yzana Plains]] during ''[[Where The Heart Is]]'' where he assists [[Zeon|Dutiful Zeon]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>qcpwljscivycpcl52q2sv78z9lv4fwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Robnos Feris</title>
+    <ns>0</ns>
+    <id>117462</id>
+    <revision>
+      <id>584163</id>
+      <parentid>582113</parentid>
+      <timestamp>2023-04-20T14:35:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="970" sha1="9o4lpb58x4498jv0r3u2qiqsnq8z9o5" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Robnos Feris
+|image        = Robnos Feris.jpg
+|caption      = Robnos Feris
+|category     = Normal Minor Enemy
+|type         = [[Feris]]
+|level        = 44-49
+|area         = [[Rae-Bel Tableland]]&lt;br/ &gt;[[Li Garte Prison Camp]] ([[Perimeter Woodland]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Robnos Feris''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Feris]] family, and can be found at level 44-49 at [[Rae-Bel Tableland]] in the [[Fornis Region]] and in the [[Perimeter Woodland]] of [[Li Garte Prison Camp]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9o4lpb58x4498jv0r3u2qiqsnq8z9o5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Robnos Volff</title>
+    <ns>0</ns>
+    <id>121074</id>
+    <revision>
+      <id>598237</id>
+      <parentid>594189</parentid>
+      <timestamp>2023-07-04T17:41:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="856" sha1="56lzszrtnjq47u5mjn4rj0koenz4tof" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Robnos Volff
+|image        = Robnos Volff.jpg
+|caption      = Robnos Volff
+|category     = Normal Minor Enemy
+|type         = [[Volff]]
+|level        = 34-35
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Glam Rock]], [[Klondos Table]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Robnos Volffs''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level 34-35 to the east of [[Glam Rock]] in [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>56lzszrtnjq47u5mjn4rj0koenz4tof</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Robobuddy</title>
+    <ns>0</ns>
+    <id>123538</id>
+    <revision>
+      <id>576677</id>
+      <parentid>559308</parentid>
+      <timestamp>2023-02-12T18:31:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1136" sha1="7op28wptko2oyjiu2olrqirwnvx3qge" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Robobuddy
+|image        = Robobuddy.png 
+|caption      = Robobuddy
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 57
+|area         = [[Ribbi Flats]] ([[Colony 30 Maintenance Bay]])
+|spawntime    = During ''[[Inescapable Past]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Robobuddy''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is an [[Agnus|Agnian]] [[Levnis]] modified by [[Valdi]] in an attempt to make it his friend, but it ends up attacking him and the party due to being tampered with. It is fought at level 57 at the [[Colony 30 Maintenance Bay]] in [[Ribbi Flats]] during ''[[Inescapable Past]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Level 56-60 Enemies]]</text>
+      <sha1>7op28wptko2oyjiu2olrqirwnvx3qge</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rock Krammit</title>
+    <ns>0</ns>
+    <id>121856</id>
+    <revision>
+      <id>559906</id>
+      <parentid>546978</parentid>
+      <timestamp>2022-09-30T10:56:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559906</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="r503zi4tzx2sexfjlfy49z3f9m7bzpd" xml:space="preserve">{{Infobox Enemy
+|name         = Rock Krammit
+|image        = 
+|caption      = Rock Krammit
+|category     = Minor Enemy
+|type         = [[Krammit]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rock Krammits''' are Minor Enemies in {{XC3}}. They are members of the [[Krammit]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Krammits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>r503zi4tzx2sexfjlfy49z3f9m7bzpd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rockeater Ropl</title>
+    <ns>0</ns>
+    <id>117474</id>
+    <revision>
+      <id>559907</id>
+      <parentid>553441</parentid>
+      <timestamp>2022-09-30T10:56:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="708" sha1="907igrvab6dnjtz8qjpcd3xp8xmulkr" xml:space="preserve">{{Infobox Enemy
+|name         = Rockeater Ropl
+|image        = 
+|caption      = Rockeater Ropl
+|category     = Normal Enemy
+|type         = [[Ropl]]
+|level        = 27
+|area         =  
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rockeater Ropl''' are enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 27.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>907igrvab6dnjtz8qjpcd3xp8xmulkr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rockheart Ropl</title>
+    <ns>0</ns>
+    <id>121019</id>
+    <revision>
+      <id>559908</id>
+      <parentid>545385</parentid>
+      <timestamp>2022-09-30T10:56:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559908</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="acwkdnkmyfyxtmbowdd75mjncctwem0" xml:space="preserve">{{Infobox Enemy
+|name         = Rockheart Ropl
+|image        = 
+|caption      = Rockheart Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rockheart Ropl''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>acwkdnkmyfyxtmbowdd75mjncctwem0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rogue Ropl</title>
+    <ns>0</ns>
+    <id>123843</id>
+    <revision>
+      <id>581321</id>
+      <parentid>559309</parentid>
+      <timestamp>2023-04-03T15:48:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>infobox</comment>
+      <origin>581321</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1043" sha1="pe5nwvsprl1ff8hri0160f92ahvb7ih" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rogue Ropl
+|image        = 
+|caption      = Rogue Ropl
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Ropl]]
+|level        = 49
+|area         = [[Yzana Plains]] ([[Spongy Spud Patch]])
+|spawntime    = During ''[[Reasons to Evolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rogue Ropl''' are three [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Ropl]] family, and are fought at level 49 at the [[Spongy Spud Patch]] in [[Yzana Plains]] during ''[[Reasons to Evolve]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>pe5nwvsprl1ff8hri0160f92ahvb7ih</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rogue Tirkin</title>
+    <ns>0</ns>
+    <id>123984</id>
+    <revision>
+      <id>578521</id>
+      <parentid>559310</parentid>
+      <timestamp>2023-03-05T15:32:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1071" sha1="ql39k04a5efeoib638ban9hnfh3v3a1" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rogue Tirkin
+|image        = 
+|caption      = Rogue Tirkin
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Tirkin]]
+|level        = 39-40
+|area         = [[High Maktha Wildwood]] ([[Engardo Pass]])
+|spawntime    = During ''[[Rousing Bolearis]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rogue Tirkins''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Tirkin]] family, and six are fought at level 39-40 at [[Engardo Pass]] in [[High Maktha Wildwood]] during ''[[Rousing Bolearis]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ql39k04a5efeoib638ban9hnfh3v3a1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rood Volff</title>
+    <ns>0</ns>
+    <id>118121</id>
+    <revision>
+      <id>595790</id>
+      <parentid>582252</parentid>
+      <timestamp>2023-06-16T12:21:15Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <origin>595790</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="881" sha1="m9cbrtj80xek2p4ufs5s6khr0xx9mgc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rood Volff
+|image        = 
+|caption      = Rood Volff
+|category     = Normal Minor Enemy
+|type         = [[Volff]]
+|level        = 4
+|area         = [[Alfeto Valley]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rood Volff''' are normal minor enemies in {{XC3}}. They are members of the [[Volff]] family, and can be found at level 4 in [[Alfeto Valley]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>m9cbrtj80xek2p4ufs5s6khr0xx9mgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rook Arachno (XC3)</title>
+    <ns>0</ns>
+    <id>123196</id>
+    <revision>
+      <id>559910</id>
+      <parentid>557937</parentid>
+      <timestamp>2022-09-30T10:56:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="2382dkw8jcwcxu9c7bhihu9i1gfmuhg" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Rook Arachno (XC2)}}
+{{Infobox Enemy
+|name         = Rook Arachno
+|image        = 
+|caption      = Rook Arachno
+|category     = Minor Enemy
+|type         = [[Arachno]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rook Arachnos''' are Minor Enemies in {{XC3}}. They are members of the [[Arachno]] family, and can be found at level ? in the [[Syra Hovering Reefs]] of the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>2382dkw8jcwcxu9c7bhihu9i1gfmuhg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ropl</title>
+    <ns>0</ns>
+    <id>74395</id>
+    <revision>
+      <id>602100</id>
+      <parentid>600808</parentid>
+      <timestamp>2023-07-22T12:27:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2218" sha1="duky9ljgcdrj6z4lf3sb9gbtfdn3bht" xml:space="preserve">[[file:GneoRopl.jpg|thumb|Gneo Ropl]]
+'''Ropl''' are a family of enemies in the {{XC|serieslink}}. They are dinosaur-like monsters with two legs and a tail and crystals on their backs. They are similar in build to [[Aligo]]s, and come in gray and green varieties in {{XC2}}. A variety unique to the [[Kingdom of Torna]] is pale tan with green crystals.
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Colnicas Ropl (XC2)|Colnicas Ropl]]
+* [[Nebri Ropl]]
+* [[Odolera Ropl (XC2)|Odolera Ropl]]
+* [[Sarabashi Ropl (XC2)|Sarabashi Ropl]]
+* [[Valt Ropl (XC2)|Valt Ropl]]
+
+=== Unique Monster ===
+* [[Armored Brennan]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Gneo Ropl]]
+* [[Ventts Ropl]]
+
+=== Quest Exclusive Enemies ===
+* [[Dispare Ropl]]
+* [[Wandering Ropl]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Antal Ropl]]
+* [[Colnicas Ropl (XC3)|Colnicas Ropl]]
+* [[Dragguia Ropl]]
+* [[Grawn Ropl]]
+* [[Odolera Ropl (XC3)|Odolera Ropl]]
+* [[Rockeater Ropl]]
+* [[Rockheart Ropl]]
+* [[Sarabashi Ropl (XC3)|Sarabashi Ropl]]
+* [[Uzraif Ropl]]
+* [[Valt Ropl (XC3)|Valt Ropl]]
+
+=== Quest Exclusive Enemies ===
+* [[Memorial Ropl]] (During ''[[My Memories]]'')
+* [[Owja Ropl]] (During ''[[Leaders in Training]]'')
+
+=== Story Exclusive Enemy ===
+* [[Drifter Ropl]]
+
+=== Unique Monsters ===
+* [[Crystalline DuGarre]]
+* [[Petrivore Judomar]]
+
+=== Quest Exclusive Boss ===
+* [[Argent Ropl]] (DLC, during ''[[For the Sake of Keepsakes]]'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Dragguia Ropl]]
+* [[Grawn Ropl]]
+
+=== Quest Exclusive Boss ===
+* [[Omeg Ropl]] (During ''[[Abandoned Supplies]]'')
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+ArmoredBrennan.jpg|Armored Brennan
+Odolera Ropl.png|Odolera Ropl
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+VenttsRopl.jpg|Ventts Ropl
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Antal Ropl.png|Antal Ropl
+&lt;/gallery&gt;
+
+[[Category:XC2 Ropl]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Ropl]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Ropl]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Ropl]]
+[[Category:Species by Type]]</text>
+      <sha1>duky9ljgcdrj6z4lf3sb9gbtfdn3bht</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rossara Grebel</title>
+    <ns>0</ns>
+    <id>122191</id>
+    <revision>
+      <id>581764</id>
+      <parentid>559911</parentid>
+      <timestamp>2023-04-05T21:57:17Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581764</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="753" sha1="nmw3n5ftowqhi2t5ora4kpwupxx7arq" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Rossara Grebel
+|image        = Rossara Grebel.jpg
+|caption      = Rossara Grebel
+|category     = Normal Enemy
+|type         = [[Grebel]]
+|level        = 23 - 24
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Rossara Grebels''' are minor enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level 23 - 24 in [[Millick Meadows]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>nmw3n5ftowqhi2t5ora4kpwupxx7arq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rotten Caterpile</title>
+    <ns>0</ns>
+    <id>123233</id>
+    <revision>
+      <id>559912</id>
+      <parentid>553567</parentid>
+      <timestamp>2022-09-30T10:56:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559912</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="tbfewccl7myz74m3gluhz3urwt2fp82" xml:space="preserve">{{Infobox Enemy
+|name         = Rotten Caterpile
+|image        = 
+|caption      = Rotten Caterpile
+|category     = Minor Enemy
+|type         = [[Caterpile]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rotten Caterpiles''' are Minor Enemies in {{XC3}}. They are members of the [[Caterpile]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Caterpiles]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>tbfewccl7myz74m3gluhz3urwt2fp82</sha1>
+    </revision>
+  </page>
+  </mediawiki>

@@ -1,0 +1,6 @@
+Art Name: Terror Onslaught
+
+Class: Machine Assassin
+
+Effect: Back resistance down
+

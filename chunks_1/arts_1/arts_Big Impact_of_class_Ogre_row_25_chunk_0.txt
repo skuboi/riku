@@ -1,0 +1,6 @@
+Art Name: Big Impact
+
+Class: Ogre
+
+Effect: Front Blowdown
+

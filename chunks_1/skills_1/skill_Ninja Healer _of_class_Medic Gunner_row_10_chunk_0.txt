@@ -1,0 +1,6 @@
+Skill Name: Ninja Healer 
+
+Class: Medic Gunner
+
+Skill Buff or Effect:  Reduces aggro generated from healing Arts by 50%. [Rank 5 Master Skill]
+

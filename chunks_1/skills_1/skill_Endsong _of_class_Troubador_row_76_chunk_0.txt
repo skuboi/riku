@@ -1,0 +1,6 @@
+Skill Name: Endsong 
+
+Class: Troubador
+
+Skill Buff or Effect:  Recharges all allies' Arts by 100% when incapacitated.
+

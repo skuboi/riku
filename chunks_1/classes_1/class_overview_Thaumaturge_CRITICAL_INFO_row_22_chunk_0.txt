@@ -1,0 +1,14 @@
+Parent Category: Class (Weapon)
+
+Title: Thaumaturge
+
+Overview: Thaumaturge specialize in battering enemies with long combos, while they heal up their allies. The [[Blade (XC3)|Blade]] of the Thaumaturge class is the Martial Linkstaff. Thaumaturge is the class of [[Teach]]. 
+
+It is unlocked by completing the [[Hero Quest]] ''[[Going Beyond Power]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Shadow of Enmity]]''.
+
+Arts: {'Demise Thrust': 'Burst', 'Rank Splitter': 'AOE heal on hit', 'Violent Flurry': 'Chance to pierce (Rank 1 Master Art)', 'Divine Protection': 'Field / Armor Veil', 'Leaping Current': 'AOE/Clear debuffs/Atk+', 'Spearpoint Thrust': 'Bind |Bind (Rank 10 Master Art)'}
+
+Class Skills: {'Wheel of Rebirth': 'Heals all allies using 500-900% of Healing Power when executing a Burst.', 'Qinggong': 'Boosts evasion by 25-35% while moving.', 'Ultimate Qigong': "When landing a hit, deals damage as though enemy's physical defense was 30-50% lower. (Rank 5 Master Skill)", 'Life-Saving Fists': 'Heals self when auto-attack hits, to a maximum of 100% of Healing Power. (Rank 15 Master Skill)'}
+
+Hero Exclusive Arts: {'Furious Flash': '[[Bind (XC3)|Bind]]', 'Profound Strength': 'AOE/Clear Debuffs/Atk+', 'All-Slayer': 'Chance to pierce'}
+

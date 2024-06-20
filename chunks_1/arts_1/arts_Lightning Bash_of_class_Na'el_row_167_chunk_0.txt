@@ -1,0 +1,6 @@
+Art Name: Lightning Bash
+
+Class: Na'el
+
+Effect: AOE/Sleep
+

@@ -1,0 +1,6 @@
+Skill Name: Greatest Warrior 
+
+Class: Seraph
+
+Skill Buff or Effect:  Boosts damage by 35% for every enemy in battle (max. 200%). [Rank 5 Master Skill]
+

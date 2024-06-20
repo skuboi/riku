@@ -1,0 +1,1381 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Maroking Marrin</title>
+    <ns>0</ns>
+    <id>123986</id>
+    <revision>
+      <id>581990</id>
+      <parentid>567691</parentid>
+      <timestamp>2023-04-07T15:24:22Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Corrected wrong details</comment>
+      <origin>581990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1169" sha1="m5kpzsg1dguuj1hda4jyrb5j7xxgvr9" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Maroking Marrin
+|image        = 
+|caption      = Maroking Marrin
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Marrin]]
+|level        = 65
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Limoux Hill]])
+|spawntime    = During and after ''[[Happiness]]''
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Maroking Marrin''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. It is a member of the [[Marrin]] family, and can be found at level 65 at [[Limoux Hill]] in the [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Happiness]]''; however, it also respawns after the quest. During ''Happiness'', it drops [[Lucky Marrin Thickcuts]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Marrins]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>m5kpzsg1dguuj1hda4jyrb5j7xxgvr9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Marrin</title>
+    <ns>0</ns>
+    <id>75506</id>
+    <revision>
+      <id>602045</id>
+      <parentid>600772</parentid>
+      <timestamp>2023-07-22T12:24:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602045</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1368" sha1="ifxm9aqtgicwodsf9d7g63zslgcffkk" xml:space="preserve">[[file:Legarre.jpg|thumb|Legarre Marrin]]
+'''Marrins''' are a family of enemies in the {{XC|serieslink}}. They are flying fish-like creatures, similar to [[Serprond]]s.
+
+== {{XC2|-}} ==
+In {{XC2}}, Marrins often appear after [[Salvaging]].
+=== Normal Minor Enemies ===
+* [[Nekrino Marrin]] (after salvaging)
+* [[Obsi Marrin]]
+* [[Radyo Marrin]]
+* [[Rambl Marrin]]
+* [[Slayg Marrin]] (after salvaging)
+* [[Valkan Marrin]] (after salvaging)
+
+=== Quest Exclusive Enemy ===
+* [[Gluttonous Marrin]] (after salvaging)
+
+=== Unique Monster ===
+* [[Holy Lancer Efrain]]
+
+=== Quest Exclusive Boss ===
+* [[Torl Marrin]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Legarre Marrin]]
+
+=== Unique Monster ===
+* [[Ionospheric Mitchell]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Eclipse Marrin]]
+* [[Ossyan Marrin]]
+
+=== Unique Monster ===
+* [[Dunesea Marcellus]]
+
+=== Quest Exclusive Boss ===
+* [[Maroking Marrin]] (During ''[[Happiness]]'')
+
+== Gallery ==
+&lt;gallery&gt;
+TorlMarrin.jpg|Torl Marrin
+SlaygMarrin.jpg|Slayg Marrin
+XC2 Radyo Marrin.png|Radyo Marrin
+&lt;/gallery&gt;
+[[Category:XC2 Marrins]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Marrins]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Marrins]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aquatic Life]]
+[[Category:Marrins]]
+[[Category:Species by Type]]</text>
+      <sha1>ifxm9aqtgicwodsf9d7g63zslgcffkk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Marsh Flamii (XC3)</title>
+    <ns>0</ns>
+    <id>123153</id>
+    <revision>
+      <id>596017</id>
+      <parentid>564634</parentid>
+      <timestamp>2023-06-16T19:48:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596017</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1143" sha1="adttzsybut3bhklcx5z82akflx629gw" xml:space="preserve">{{for|the enemy in {{XC|-}}|Marsh Flamii (XC1)}}
+{{Infobox Enemy
+|name         = Marsh Flamii
+|image        = 
+|caption      = Marsh Flamii
+|category     = Minor Enemy
+|type         = [[Flamii]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Marsh Flamiis''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Flamii]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Flamiis]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Flamiis]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>adttzsybut3bhklcx5z82akflx629gw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Martial Artist</title>
+    <ns>0</ns>
+    <id>118548</id>
+    <revision>
+      <id>603289</id>
+      <parentid>600843</parentid>
+      <timestamp>2023-07-26T07:06:20Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>add stat increases</comment>
+      <origin>603289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9571" sha1="9bt46uu9yzat37dru9saxdm2m16cupw" xml:space="preserve">{{Spoiler}}
+{{quote|A martial artist Attacker who pounds foes into dust with a ceaseless torrent of blows.|Class menu description}}
+'''Martial Artist''' is an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]] in {{XC3}} and {{XC3FR|sublink}}. 
+
+== {{XC3|-}} ==
+=== Overview ===
+[[File:XC3 Martial Artist Weapon Icon.png|thumb|Martial Artist class icon in {{XC3|-}}]]
+Martial Artist is the class of [[Ghondor]], who wields the Turbo Cestus as her [[Blade (XC3)|Blade]]. The class focuses on pounding enemies into dust with a torrent of blows.  
+
+It is unlocked shortly after starting [[Chapter 6 (XC3)|Chapter 6]]. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the [[Hero Quest|Ascension Quest]] ''[[Knowing Your Family]]''.
+{{clr}}
+===Class Aptitude and Unlock Requirements===
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|2,850
+|4,750
+|6,650
+|5,700
+|3,800
+|''Class Inheritor''
+|}
+=== Class Rank Requirements ===
+{| class="xc1 centered" width="45%"
+! Rank
+!CP needed
+!Nopon Coin Cost
+|-
+|1
+| colspan="2" |None
+|-
+|2
+|285
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+|3
+|285
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+|4
+|350
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+|5
+|350
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+|6
+|420
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+|7
+|420
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+|8
+|460
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+|9
+|460
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+|10
+|495
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" |Complete ''[[Knowing Your Family]]''
+|-
+|11
+|400
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+|12
+|400
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+|13
+|530
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+|14
+|530
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+|15
+|660
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+|16
+|660
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+|17
+|795
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+|18
+|795
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+|19
+|860
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+|20
+|990
+|[[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+=== Class Stats ===
+The Martial Artist class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 70% || 100% || 20% || 110% || 110% || 10% || 10%
+|-
+| 10 || 72% || 105% || 22% || 115% || 115% || 12% || 12%
+|-
+| 20 || 75% || 110% || 25% || 120% || 120% || 15% || 15%
+|}
+==== Weapon Stats ====
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 18 || 24% || 8%
+|-
+| 10 || 39 || 25% || 9%
+|-
+| 20 || 71 || 26% || 10%
+|-
+| 30 || 110 || 28% || 10%
+|-
+| 40 || 153 || 29% || 11%
+|-
+| 50 || 205 || 30% || 12%
+|-
+| 60 || 260 || 31% || 13%
+|-
+| 70 || 323 || 32% || 14%
+|-
+| 80 || 395 || 34% || 14%
+|-
+| 90 || 474 || 35% || 15%
+|-
+| 99 || 554 || 36% || 16%
+|}
+=== Arts === 
+* '''[[Raging Force]]''' ([[Battle Arts (XC3)|Talent Art]]), Deplete Arts: Boost dmg
+* [[Detonating Hit]], Side [[Daze (XC3)|Daze]]
+* [[Focus]], Fast charge/Auto-atk spd+
+* [[Jackal Claw (XC3)|Jackal Claw]], High Crit. Rate/Evade
+* [[Impulse Wave]], AOE / Dmg+ per enemy
+* [[Destructive Charge]], Front atk &#8593; / Blowdown
+
+==== Hero-Exclusive Arts ====
+* [[Hyper Dropkick]], Front atk &#8593; / Blowdown
+* [[Comet Punch (XC3)|Comet Punch]], AOE/High Crit. Rate/Evade
+* [[Rampaging Fists]], Dmg up per enemy
+
+=== Class Skills ===
+* [[File:XC3 Skill Icon 10.png]] '''Storm and Stress''':  Each time you perform a cancel, boosts damage dealt by 10-20% (to a maximum of 150%).
+* [[File:XC3 Skill Icon 17.png]] '''Frenzied Combo''':  On critical hit, recharge Art used by 20-30%. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 13.png]] '''Flashing Punch''': Chained auto-attacks increase attack speed. Auto-attack interval is also shortened.
+* [[File:XC3 Skill Icon 40.png]] '''Feline Righting Reflex''':  Ignore Blowdown and Launch by somersaulting. Also has 60-100% chance to grant Attack Up. (Rank 5 Master Skill)
+==== Stat Increases ====
+{| class="xc1 centered" style="width:80%;"
+!Class Rank 
+!Storm and Stress
+!Frenzied Combo
+!&lt;abbr title="Increase in attack speed and reduction in auto-attack interval per stack, to a maximum of 100% for both"&gt;Flashing Punch&lt;/abbr&gt;
+!Feline Righting Reflex
+|-
+|1
+|10%
+|20%
+| 5%, 10%
+|60%
+|-
+|5
+| 12%
+|22%
+|7%, 12%
+|70%
+|-
+| 10
+| 15%
+|25%
+|10%, 15%
+|80%
+|-
+|15
+|17%
+| 27%
+|12%, 17%
+|90%
+|-
+|20
+|20%
+|30%
+|15%, 20%
+|100%
+|}
+
+== {{XC3FR|sub}} ==
+[[File:FR Martial Artist Class Icon.png|thumb|Matthew's Martial Artist class icon]]
+=== Overview ===
+In {{XC3FR|sublink}}, Martial Artist is the class of [[Matthew (FR)|Matthew]]. He wields the Ouroboros Knuckles as his [[Blade (XC3)|Blade]].
+=== Class Stats ===
+The Martial Artist class grants the following multipliers to Matthew's base stats, and sets his Physical and Ether Defense to the following values. In practice, these multipliers are always in effect, since Matthew cannot change classes.
+
+Internally, the Martial Artist class is programmed with 20 Ranks, just like classes in the main game, though there are no differences in multipliers between Ranks. Matthew is programmed to start at Rank 20 in this class; as a result, CP gains from enemies are not shown.
+{| class="xc1 centered" width="100%"
+! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 80% || 110% || 10% || 120% || 120% || 15% || 15%
+|}
+=== Weapon Stats ===
+{{Main|Matthew (FR)#Weapon Stats}}
+The Martial Artist weapon can be upgraded in [[Riku's Workshop]], and is not dependent on character Level unlike in the main game. This adds to Matthew's Attack stat and sets his Critical Rate and Block Rate.
+=== Arts === 
+* '''[[Gigantic Beat]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/Charge all Arts on hit
+* [[Backspin Punch]], [[Break (XC3)|Break]]
+* [[Mighty Strike]], Front atk &#8593; /Knockback
+* [[Revolt Uppercut]], Evade/Cancel attack &#8593;
+* [[Energy Boost]], [[Power Charge]]
+* [[Raging Force]], Chance to Pierce
+* [[Detonating Hit]], AOE
+
+=== Skills ===
+* [[File:XC3 Skill Icon 10.png]] '''Breaking Waves''': Each time you perform a cancel, boosts damage dealt by 10-20% (to a maximum of 150%).
+* [[File:XC3 Skill Icon 13.png]] '''Flashing Fists''': Chained auto-attacks increase attack speed. Auto-attack interval is also shortened. (Minor-Major effect.)
+* [[File:XC3 Skill Icon 0.png]] '''Giant-Killer''': Boosts damage dealt by 60-100% when fighting a [[Unique Monster (XC3)|unique]] or [[Boss (XC3)|boss]] monster.
+* [[File:XC3 Skill Icon 17.png]] '''Victor's Combo''': 10-12% chance to keep recharge when using Art.
+==== Stat Increases ====
+{| class="xc1 centered" style="width:80%;"
+!Upgrade Status
+!Breaking Waves
+!Flashing Fists
+!Giant-Killer
+!Victor's Combo
+|-
+|Not Upgraded
+|10%
+|Minor
+|60%
+|10%
+|-
+|Upgraded Once
+|15%
+|Medium
+|80%
+|11%
+|-
+|Upgraded Twice
+|20%
+|Major
+|100%
+|12%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Ghondor Artwork.png|Ghondor, a Martial Artist
+XC3FR Matthew.png|Matthew, a Martial Artist
+Martial Artist Noah.png|Noah as a Martial Artist
+Martial Artist Mio.png|Mio as a Martial Artist
+Martial Artist Eunie.png|Eunie as a Martial Artist
+Martial Artist Taion.png|Taion as a Martial Artist
+Martial Artist Lanz.png|Lanz as a Martial Artist
+Martial Artist Sena.png|Sena as a Martial Artist
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+{{fr stub}}
+[[Category:XC3 Classes]]
+[[Category:XC3FR Classes]]</text>
+      <sha1>9bt46uu9yzat37dru9saxdm2m16cupw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Martis Rings</title>
+    <ns>0</ns>
+    <id>122571</id>
+    <revision>
+      <id>592814</id>
+      <parentid>592287</parentid>
+      <timestamp>2023-05-15T20:17:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592814</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="474" sha1="c69ltnia3vjenxuvimnxdg4z9jmnsli" xml:space="preserve">{{Infobox item
+|name      = Martis Rings
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts Block Rate by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Container#Legacy of the Seven|Legacy of the Seven]] at [[Radial Outlook]]
+|sell      = N/A
+}}
+'''Martis Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>c69ltnia3vjenxuvimnxdg4z9jmnsli</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mask of Banishing</title>
+    <ns>0</ns>
+    <id>124397</id>
+    <revision>
+      <id>562075</id>
+      <timestamp>2022-10-20T15:06:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Mask of Banishing |image     =  |caption   = Boosts damage dealt when attacking from behind by 30%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Red]] |sell      = [[Gold|G]] }} '''Masks of Banishing''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3..."</comment>
+      <origin>562075</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="592" sha1="pw6ii6if1pfgj26qwtcx3ngnsnlu31b" xml:space="preserve">{{Infobox item
+|name      = Mask of Banishing
+|image     = 
+|caption   = Boosts damage dealt when attacking from behind by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Masks of Banishing''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>pw6ii6if1pfgj26qwtcx3ngnsnlu31b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Masrah Piranhax</title>
+    <ns>0</ns>
+    <id>122989</id>
+    <revision>
+      <id>595994</id>
+      <parentid>573460</parentid>
+      <timestamp>2023-06-16T19:38:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595994</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1114" sha1="l1uqd8g4690tb60y84izw4io8lb1jvu" xml:space="preserve">{{Infobox Enemy
+|name         = Masrah Piranhax
+|image        = 
+|caption      = Masrah Piranhax
+|category     = Minor Enemy
+|type         = [[Piranhax]]
+|level        = 51
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Masrah Piranhax''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Piranhax]] family, and can be found at level 51 at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3FR Piranhax]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>l1uqd8g4690tb60y84izw4io8lb1jvu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Massido Ardun (XC3)</title>
+    <ns>0</ns>
+    <id>118388</id>
+    <revision>
+      <id>595984</id>
+      <parentid>582357</parentid>
+      <timestamp>2023-06-16T18:53:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1194" sha1="a1r40vggk2s5ahv0a9y3efibe9jumva" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Massido Ardun (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Massido Ardun
+|image        = Massido Ardun (XC3).jpg
+|caption      = Massido Ardun
+|category     = Normal Minor Enemy
+|type         = [[Ardun]]
+|level        = 17 - 18
+|area         = [[Ribbi Flats]] ([[Sparres Barr]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Massido Arduns''' are Normal Minor enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Ardun]] family, and can be found at level 18 - 19 in [[Sparres Barr]] near [[Llyn Nyddwr Camp]].
+
+== Drops ==
+* [[Full-Bodied Ardun Meat]]
+* [[Ardun Horns]]
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arduns]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Arduns]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>a1r40vggk2s5ahv0a9y3efibe9jumva</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Massive Georges</title>
+    <ns>0</ns>
+    <id>119433</id>
+    <revision>
+      <id>583308</id>
+      <parentid>583307</parentid>
+      <timestamp>2023-04-17T15:54:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1342" sha1="hujnw6mfdyqyzrze066ig2zu5g45v5r" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Massive Georges
+|image        = XC3 Massive Georges.png
+|caption      = Massive Georges
+|type         = [[Aligo]]
+|level        = 37
+|area         = [[Great Cotte Falls]] ([[Hidden Freshwater Inlet]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,190
+|cp           = 140
+|sp           = 5
+|gold         = 640
+|hp           = 770,400
+|strength     = 649
+|healing      = 252
+|dexterity    = 143
+|agility      = 135
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Massive Georges''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Aligo]] family, and can be found at level 37  in the [[Hidden Freshwater Inlet]] at [[Great Cotte Falls]]. The [[Fin of Fear]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 50%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Massive georges location.png
+Massive georges.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Aligos]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hujnw6mfdyqyzrze066ig2zu5g45v5r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Master Antol</title>
+    <ns>0</ns>
+    <id>123224</id>
+    <revision>
+      <id>559807</id>
+      <parentid>553554</parentid>
+      <timestamp>2022-09-30T10:53:00Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559807</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="775" sha1="54jbsdw59kgycgm7tbsg0euza3gv14f" xml:space="preserve">{{Infobox Enemy
+|name         = Master Antol
+|image        = 
+|caption      = Master Antol
+|category     = Minor Enemy
+|type         = [[Antol]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Master Antols''' are Minor Enemies in {{XC3}}. They are members of the [[Antol]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Antols]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>54jbsdw59kgycgm7tbsg0euza3gv14f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Master Driver</title>
+    <ns>0</ns>
+    <id>126313</id>
+    <revision>
+      <id>603258</id>
+      <parentid>599639</parentid>
+      <timestamp>2023-07-25T13:37:39Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>603258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5432" sha1="eebl2dufv404qj4fc2s1aqlpw7vvjo6" xml:space="preserve">{{Spoiler}}
+{{quote|A twin-greatsword Attacker who minces foes with relentless strikes and savage, far-reaching critical hits.|Class menu description}}
+[[File:Master Driver Class Icon.png|thumb|The Master Driver class icon]]
+'''Master Driver''' is an [[Agnus|Agnian]] [[Attacker]] [[Class (XC3)|class]] in {{XC3FR}} and {{XC3}}.
+
+== Overview ==
+Master Driver is [[Rex]]'s class, based on his status as the [[Driver|Master Driver]] in {{XC2}}. As a Master Driver, Rex wields the [[Aegis|Firelight Swords]], two swords that are almost identical to [[Pyra]] and [[Mythra]]'s Aegis Swords, but with the Aegis [[Core Crystal]] absent from the swords. He can also combine the two swords into a third sword that closely resembles [[Pneuma]]'s Aegis Sword with the additional blades of energy that appear when charged with energy from [[Siren]]. Rex's [[Battle Arts (XC3)|arts]] in battle primarily consist of his Aegis Sword [[Battle Arts (XC2)|Driver Arts]] from {{XC2|-}}, along with two additional arts that each resemble arts used by [[Zeke]] and [[M&#242;rag]]. His Talent Art is [[Infinity Blade (XC2)|Infinity Blade]], the attack he and Pneuma used to defeat [[Malos]].
+
+The class focuses primarily on potent area of effect attacks that are especially effective at scoring critical hits.
+
+After completing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]'', Rex can use the class in the main game as a [[Hero]], but the class cannot be used by anyone else. The class functions the same, but doesn't have [[Sword Bash]] as an art.
+
+== Class Stats ==
+The Master Driver class grants the following multipliers to Rex's base stats, and sets his Physical and Ether Defense to the following values. In practice, these multipliers are always in effect, since Rex cannot change classes.
+
+Internally, the Master Driver class is programmed with 20 Ranks in both the main game and {{XC3FR|sub}}, though the multipliers between the two appearances are identical, and in both cases there are no differences in multipliers between Ranks. In {{XC3FR|sub}}, Rex is programmed to start at Rank 20 in this class; as a result, CP gains from enemies are not shown.
+{| class="xc1 centered" width="100%"
+! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 75% || 130% || 50% || 130% || 115% || 15% || 15%
+|}
+
+=== Weapon Stats ===
+{{Main|Rex#Weapon Stats}}
+In {{XC3FR|sub}}, the Master Driver's weapon can be upgraded in [[Riku's Workshop]], and is not dependent on character Level unlike in the main game, whereas in the main game, it does depend on character Level. In either case, the weapon stats add to Rex's Attack stat and sets his Critical Rate and Block Rate.
+
+The weapon levels in {{XC3FR|sub}} correspond to certain levels in the main game's weapon stat table. Their stats are interspersed with the main game's weapon table here; sorting by "FR Weapon Level" displays the {{XC3FR|sub}} weapon stats first.
+
+{| class="xc1 centered sortable" width="70%"
+! XC3 Char. Level !! FR Weapon Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || data-sort-value="11" | - || 22 || 18% || 4%
+|-
+| 10 || data-sort-value="1" | I || 49 || 19% || 4%
+|-
+| 16 || data-sort-value="2" | II || 71 || 20% || 5%
+|-
+| 20 || data-sort-value="11" | - || 88 || 21% || 5%
+|-
+| 22 || data-sort-value="3" | III || 97 || 21% || 5%
+|-
+| 30 || data-sort-value="4" | IV || 136 || 22% || 5%
+|-
+| 38 || data-sort-value="5" | V || 179 || 23% || 6%
+|-
+| 40 || data-sort-value="11" | - || 190 || 24% || 6%
+|-
+| 46 || data-sort-value="6" | VI || 227 || 25% || 6%
+|-
+| 50 || data-sort-value="11" | - || 253 || 25% || 6%
+|-
+| 54 || data-sort-value="7" | VII || 281 || 26% || 6%
+|-
+| 60 || data-sort-value="11" | - || 323 || 27% || 6%
+|-
+| 66 || data-sort-value="8" | VIII || 368 || 27% || 7%
+|-
+| 70 || data-sort-value="11" | - || 400 || 28% || 7%
+|-
+| 80 || data-sort-value="11" | - || 488 || 29% || 7%
+|-
+| 82 || data-sort-value="9" | IX || 507 || 30% || 7%
+|-
+| 90 || data-sort-value="11" | - || 587 || 31% || 8%
+|-
+| 99 || data-sort-value="10" | X || 686 || 32% || 8%
+|}
+
+== Arts ==
+* '''[[Infinity Blade (XC2)|Infinity Blade]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/Pierce/Unblockable
+* [[Anchor Shot]], Front [[Topple (XC3)|Topple]]
+* [[Double Spinning Edge]], Gain charge on crit.
+* [[Dual Blast]], AOE/Side [[Launch (XC3)|Launch]]
+* [[Cross Blaze]], Crit.+ during enemy Art
+* [[Rolling Smash (XC2)|Rolling Smash]], AOE
+* [[Sword Bash]], Resistance Down
+
+== Skills ==
+* [[File:XC3 Skill Icon 10.png]] '''Raging Flame''', Boosts damage dealt by 4-8% when landing a critical hit (up to a maximum of 150%).
+* [[File:XC3 Skill Icon 3.png]] '''Lightspeed Blade''', On critical, ignore enemy defense. Also increases critical hit damage bonus by 30-50 percentage points.
+* [[File:XC3 Skill Icon 0.png]] '''Heroic Spirit''', If an ally is down/has low HP, deal 50-150% more damage and take 20-30% less damage.
+* [[File:XC3 Skill Icon 3.png]] '''Flash and Flame''', Increases Critical Rate by 10-20 percentage points and critical hit damage by 30-50 percentage points.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3FR Rex Official Artwork.png|Rex, the Master Driver
+Rex Combined Firelight Sword.jpg|Rex wielding his combined Firelight Swords
+Rex Infinity Blade FR.jpg|Rex using Infinity Blade
+XC3FR Anchor Shot.jpg|Rex using Anchor Shot
+&lt;/gallery&gt;
+
+{{fr stub}}
+[[Category:Rex]]
+[[Category:XC3FR Classes]]
+[[Category:XC3 Classes]]</text>
+      <sha1>eebl2dufv404qj4fc2s1aqlpw7vvjo6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mastery Necklace</title>
+    <ns>0</ns>
+    <id>122602</id>
+    <revision>
+      <id>566827</id>
+      <parentid>551678</parentid>
+      <timestamp>2022-11-23T06:18:24Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566827</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="397" sha1="sgrzi5x4qw49r9o5x6h7g15gf0rgewg" xml:space="preserve">&lt;div style="float: right;"&gt;
+{{Infobox item
+|name      = Mastery Necklace
+|image     = File:XC3 Accessory Choker.png
+|caption   = Increases Class aptitude.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7640 [[Gold|G]]
+}}
+&lt;/div&gt;
+'''Mastery Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>sgrzi5x4qw49r9o5x6h7g15gf0rgewg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Materia Krabble (XC3)</title>
+    <ns>0</ns>
+    <id>122990</id>
+    <revision>
+      <id>559808</id>
+      <parentid>557902</parentid>
+      <timestamp>2022-09-30T10:53:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559808</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="853" sha1="gyk51sixh0pi7nz84ygpzs4aieq2abm" xml:space="preserve">{{for|the enemy in {{XC|-}}|Materia Krabble (XC1)}}
+{{Infobox Enemy
+|name         = Materia Krabble
+|image        = 
+|caption      = Materia Krabble
+|category     = Minor Enemy
+|type         = [[Krabble]]
+|level        = ?
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Materia Krabbles''' are Minor Enemies in {{XC3}}. They are members of the [[Krabble]] family, and can be found at level ? at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Krabbles]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>gyk51sixh0pi7nz84ygpzs4aieq2abm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mechapod Carthegia</title>
+    <ns>0</ns>
+    <id>123997</id>
+    <revision>
+      <id>579192</id>
+      <parentid>560151</parentid>
+      <timestamp>2023-03-13T21:40:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>579192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1042" sha1="0rv3w63r3ybartfccxfak43d0e1pdt6" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Mechapod Carthegia
+|image        = Mechapod Carthegia.jpg
+|caption      = Mechapod Carthegia
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 50
+|area         = [[Erythia Sea]] ([[Lavi Sandbar]])
+|spawntime    = During ''[[A Burning Curiosity, Part 2]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mechapod Carthegia''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is an [[Agnus|Agnian]] [[Levnis]], and is encountered at level 50 at [[Lavi Sandbar]] in [[Erythia Sea]] during ''[[A Burning Curiosity, Part 2]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0rv3w63r3ybartfccxfak43d0e1pdt6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Medic Gunner</title>
+    <ns>0</ns>
+    <id>117097</id>
+    <revision>
+      <id>597107</id>
+      <parentid>597102</parentid>
+      <timestamp>2023-06-23T13:47:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>597107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7452" sha1="5w6q7nd019t2dma1p9b89h077crp43y" xml:space="preserve">{{quote|A Healer who deploys fields to heal and buff allies across a large area.|Class menu description}}
+[[File:XC3 Medic Gunner Weapon Icon.png|thumb|Medic Gunner Class Icon]]
+'''Medic Gunner''' (Japanese: {{lang|ja|&#12513;&#12487;&#12451;&#12483;&#12463;&#12460;&#12531;&#12490;&#12540;}}, ''medikkugan'n&#257;'') is a [[Keves]]i [[Healer]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref&gt;[https://topics.nintendo.co.jp/article/a4c0a78d-e993-4fae-8c8e-62c5927040fa Xenoblade Notebook vol. 4: A thorough explanation of the Arts in ''Xenoblade 3''].&lt;/ref&gt;
+
+== Overview ==
+Medic Gunners specialize in healing. They have [[Battle Arts (XC3)|arts]] that deploys a circular field, granting recovery inside a wide area and strengthening companions who enter it. By healing too much, they can be easily targeted by the [[Enemy (XC3)|enemies]]. The Talent Art of the Medic Gunner class is [[Healing Ring]]. Medic Gunner is the initial class of [[Eunie]].
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|2,365
+|3,940
+|''Starting Class &#8224;''
+|0 &#8225;
+|1,575
+|3,150
+|}
+&lt;small&gt;&#8224; Eunie starts at Rank 5 in the class when in the player's party for the first time.&lt;/small&gt;&lt;br&gt; &lt;!-- Keves characters all start at Rank 5, while Agnus characters all start at Rank 8 --&gt;
+&lt;small&gt;&#8225; Acquired automatically in Chapter 2, after viewing the "Consul K" event (which occurs after resting at the [[Hillside Ferronis Hulk]] during the main story)&lt;/small&gt;
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 170
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 170
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 5 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 6 
+| 255
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 255
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 270
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 270 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 295
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| colspan="3" class="event" | Complete ''[[Side Story: Eunie]]''
+|-
+| 11 
+| 375 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 12 
+| 375
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 495
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 495
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 15 
+| 620
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 16 
+| 620 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 745
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 745
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 19 
+| 805 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 20 
+| 925 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Medic Gunner class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 55% || 55% || 110% || 100% || 70% || 5% || 20%
+|-
+| 10 || 57% || 57% || 115% || 102% || 72% || 10% || 22%
+|-
+| 20 || 60% || 60% || 120% || 105% || 75% || 15% || 25%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate.
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the character's current Class will be used instead for calculations.
+
+If the weapon is [[Blade Upgrade|upgraded]], all values in the table are increased by 20% (multiplicatively) for the character wielding it (fractions are rounded to the nearest integer). &lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 14 || 5% || 5%
+|-
+| 10 || 32 || 5% || 5%
+|-
+| 20 || 57 || 6% || 6%
+|-
+| 30 || 88 || 6% || 6%
+|-
+| 40 || 122 || 7% || 7%
+|-
+| 50 || 164 || 8% || 8%
+|-
+| 60 || 208 || 8% || 8%
+|-
+| 70 || 258 || 9% || 9%
+|-
+| 80 || 315 || 9% || 9%
+|-
+| 90 || 378 || 10% || 10%
+|-
+| 99 || 442 || 10% || 10%
+|}
+== Arts ==
+* '''[[Healing Ring]]''' ([[Battle Arts (XC3)|Talent Art]]) - Field / [[Regenerate (XC3)|Regenerate]]
+* '''[[Myopic Screen (XC3)|Myopic Screen]]''' - [[Daze (XC3)|Daze]] (Rank 1 Master Art)
+* '''[[Group Heal]]''' - AOE / Heal
+* '''[[Ether Cannon (XC3)|Ether Cannon]]''' - Accuracy down (Rank 10 Master Art)
+* '''[[Power Ring]]''' - Field / Atk Up
+* '''[[Vortex (XC3)|Vortex]]''' - AOE/Area heal on hit
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 20.png]] '''Eternal Formation''':  Increases field effect duration by 30-50%. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 2.png]] '''Medical Mind''':  Boosts amount of HP healed from using healing Arts by 20-30%.
+* [[File:XC3 Skill Icon 25.png]] '''Speedy Recovery''':  Boosts speed of ally revival by 20-40% and raises Healing by 5-15.
+* [[File:XC3 Skill Icon 12.png]] '''Ninja Healer''':  Reduces aggro generated from healing Arts by 30-50%. (Rank 5 Master Skill)
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Medical Mind
+!Speedy Recovery
+!Ninja Healer
+!Eternal Formation 
+|-
+| 1
+| 20%
+| 20%, 5
+| 10%
+| 30%
+|-
+| 5
+| 22%
+| 25%, 7
+| 15%
+| 35%
+|-
+| 10
+| 25%
+| 30%, 10
+| 20%
+| 40%
+|-
+| 15
+| 27%
+| 35%, 12
+| 35%
+| 45%
+|-
+| 20
+| 30%
+| 40%, 15
+| 50%
+| 50%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Eunie Artwork.png|Eunie as a Medic Gunner
+Medic Gunner Noah.png|Noah as a Medic Gunner
+Medic Gunner Mio.png|Mio as a Medic Gunner
+Medic Gunner Taion.png|Taion as a Medic Gunner
+Medic Gunner Lanz.png|Lanz as a Medic Gunner
+Medic Gunner Sena.png|Sena as a Medic Gunner
+XC3 Medic Gunner.jpg|Eunie using Healing Ring
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>5w6q7nd019t2dma1p9b89h077crp43y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Medica Pippito</title>
+    <ns>0</ns>
+    <id>123990</id>
+    <revision>
+      <id>576884</id>
+      <parentid>559274</parentid>
+      <timestamp>2023-02-14T22:18:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576884</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="986" sha1="qv3bvg5rvdkjbh1dx8wkbrgoszo7091" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Medica Pippito
+|image        = 
+|caption      = Medica Pippito
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Pippito]]
+|level        = 47
+|area         = [[Great Sword's Hilt]]
+|spawntime    = During ''[[Lovebirds]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Medica Pippitos''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level 47 on the [[Great Sword's Hilt]] during ''[[Lovebirds]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qv3bvg5rvdkjbh1dx8wkbrgoszo7091</sha1>
+    </revision>
+  </page>
+  </mediawiki>

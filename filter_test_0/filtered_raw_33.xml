@@ -1,0 +1,1556 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Househunter Carly</title>
+    <ns>0</ns>
+    <id>118683</id>
+    <revision>
+      <id>583301</id>
+      <parentid>574388</parentid>
+      <timestamp>2023-04-17T15:35:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1352" sha1="curjv3lb1mnjbf2t24rs8povf6n1a9q" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Househunter Carly
+|image        = XC3 Househunter Carly.png
+|caption      = Househunter Carly
+|type         = [[Krabble]]
+|level        = 21
+|area         = [[Alfeto Valley]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 313
+|cp           = 250
+|sp           = 5
+|gold         = 274
+|hp           = 234,500
+|strength     = 332
+|healing      = 145
+|dexterity    = 63
+|agility      = 56
+|physdef      = 15%
+|ethdef       = -10%
+|critrate     = 8%
+|guardrate-front = 0%
+|guardrate-side  = 0%
+|guardrate-back  = 75%
+}}
+'''Househunter Carly''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Krabble]] family, and can be found at level 21 near [[Forward Post Camp]] in [[Alfeto Valley]]. The [[Bubble Cloud]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|physdebuff = 25%
+|etherdebuff = 30%
+|knockback = 75%
+|blowdown = 75%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Househunter carly location.png
+Househunter carly.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Krabbles]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>curjv3lb1mnjbf2t24rs8povf6n1a9q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hox</title>
+    <ns>0</ns>
+    <id>5932</id>
+    <revision>
+      <id>602017</id>
+      <parentid>600752</parentid>
+      <timestamp>2023-07-22T12:23:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602017</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2151" sha1="hkp1sphvikbjwt8ynne0hailrjxpyyz" xml:space="preserve">[[file:Steeky.jpg|thumb|Steeky Hox in {{TTGC|-}}]]
+'''Hoxes''' (Japanese: {{lang|ja|&#12507;&#12483;&#12464;&#12473;}}, ''Hoggusu'') are a family of squirrel-like enemies in the {{XC|serieslink}}. They have no appearance change between games, and come in brown and white varieties.
+
+== {{XC|-}} ==
+They are commonly found on [[Bionis' Leg]], around [[Colony 6]], and on [[Valak Mountain]]. The strongest Hoxes are [[Dark Hox]]es at level 76, which reside on Bionis' Leg.
+
+=== Normal Minor Enemies ===
+* [[Dark Hox]]
+* [[Doom Hox]]
+* [[Easy Hox]]
+* [[Hard Hox (XC1)|Hard Hox]]
+* [[Morule Hox]]
+* [[Porcu Hox]]
+* [[Soft Hox]]
+* [[White Hox]]
+
+=== Quest Exclusive Enemies ===
+* [[Black Smoke Hox]] (During ''[[To Colony 6!]]'' and ''[[The Road Home]]'')
+* [[Lazy Hox]] (During ''[[A Selfish Girl's Mistake]]'')
+* [[White Smoke Hox]] (During ''To Colony 6!'' and ''The Road Home'')
+
+=== Unique Monster ===
+* [[Drifter Jutard]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Doom Hox]] ([[Fogbeast]])
+* [[Morule Hox]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Mogen Hox]]
+* [[Zaguin Hox]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Steeky Hox]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Alderra Hox]]
+* [[Hard Hox (XC3)|Hard Hox]]
+* [[Knuckle Hox]]
+* [[Nairoo Hox]]
+* [[Plane Hox]]
+* [[Ragora Hox]]
+* [[Ruffian Hox]]
+* [[Varran Hox]]
+
+=== Unique Monsters ===
+* [[Farseer Pirtett]]
+* [[Gallivanter Buckley]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Drifter Jutard 1.png|Drifter Jutard
+White Hox.jpg|White Hox model
+Easy Hox.jpg|Brown Hox model
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Mogen Hox.png|Mogen Hox
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Knuckle Hox.png|Knuckle Hox
+&lt;/gallery&gt;
+
+[[Category:Bionis Life]]
+[[Category:Species Category]]
+[[Category:XC Species]]
+[[Category:XC Hoxes]]
+[[Category:XCFC Species]]
+[[Category:XCFC Hoxes]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XC2 Species]]
+[[Category:XC2 Hoxes]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Hoxes]]
+[[Category:XC3 Species]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:Hoxes]]
+[[Category:Species by Type]]</text>
+      <sha1>hkp1sphvikbjwt8ynne0hailrjxpyyz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hugya Aspar</title>
+    <ns>0</ns>
+    <id>123219</id>
+    <revision>
+      <id>559708</id>
+      <parentid>553549</parentid>
+      <timestamp>2022-09-30T10:49:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="772" sha1="jr0xzci332pt034s6iqwk0121crr2wk" xml:space="preserve">{{Infobox Enemy
+|name         = Hugya Aspar
+|image        = 
+|caption      = Hugya Aspar
+|category     = Minor Enemy
+|type         = [[Aspar]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Hugya Aspars''' are Minor Enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>jr0xzci332pt034s6iqwk0121crr2wk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Humongous Nopon Doll</title>
+    <ns>0</ns>
+    <id>125684</id>
+    <revision>
+      <id>592796</id>
+      <parentid>592590</parentid>
+      <timestamp>2023-05-15T20:16:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592796</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="902" sha1="j037r30rexvoxieuqxqcm1krln2gys1" xml:space="preserve">{{for|other uses|Nopon Doll}}
+{{Infobox item
+|name      = Humongous Nopon Doll
+|image     = XC3 Accessory Pack.png
+|caption   = The whole party deals 10% less damage and takes 10% more damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Nopon Archsage]] (''XC3'')&lt;br /&gt;''[[Nopon Medals Needed]]'' (''FR'')
+|sell      = N/A
+}}
+The '''Humongous Nopon Doll''' is an [[Accessory (XC3)|Accessory]] in {{XC3}} and {{XC3FR|sublink}}. In {{XC3|-}}, it is received from the [[Nopon Archsage]] after clearing all [[Challenge Battle Mode|Challenge Battles]] with S Rank only in [[New Game + (XC3)|New Game +]], replacing the [[Archsage's Flower Fan]] as the reward. In {{XC3FR|sub}}, it is obtained as a reward for completing ''[[Nopon Medals Needed]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>j037r30rexvoxieuqxqcm1krln2gys1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hungry Anlood</title>
+    <ns>0</ns>
+    <id>123974</id>
+    <revision>
+      <id>578486</id>
+      <parentid>559247</parentid>
+      <timestamp>2023-03-04T18:18:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578486</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1049" sha1="8dpy2q89ee9ese14znz76py57r0lzeg" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hungry Anlood
+|image        = 
+|caption      = Hungry Anlood
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Anlood]]
+|level        = 34
+|area         = [[High Maktha Wildwood]] ([[Colony Tau Entrance]])
+|spawntime    = During ''[[The Harvest]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hungry Anloods''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Anlood]] family, and four are fought at level 34 at the [[Colony Tau Entrance]] in [[High Maktha Wildwood]] during ''[[The Harvest]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8dpy2q89ee9ese14znz76py57r0lzeg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hungry Quadwing</title>
+    <ns>0</ns>
+    <id>123976</id>
+    <revision>
+      <id>578488</id>
+      <parentid>559248</parentid>
+      <timestamp>2023-03-04T18:23:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578488</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1061" sha1="8qt6hqy5hm4hkleafnahmb42qbutlo9" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hungry Quadwing
+|image        = 
+|caption      = Hungry Quadwing
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Quadwing]]
+|level        = 34
+|area         = [[High Maktha Wildwood]] ([[Colony Tau Entrance]])
+|spawntime    = During ''[[The Harvest]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hungry Quadwings''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Quadwing]] family, and four are fought at level 34 at the [[Colony Tau Entrance]] in [[High Maktha Wildwood]] during ''[[The Harvest]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8qt6hqy5hm4hkleafnahmb42qbutlo9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hungry Skwaror</title>
+    <ns>0</ns>
+    <id>123975</id>
+    <revision>
+      <id>578487</id>
+      <parentid>559249</parentid>
+      <timestamp>2023-03-04T18:23:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578487</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1055" sha1="hkv9ewstl9h5o7kfelk5ikl3mwm2g42" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hungry Skwaror
+|image        = 
+|caption      = Hungry Skwaror
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Skwaror]]
+|level        = 34
+|area         = [[High Maktha Wildwood]] ([[Colony Tau Entrance]])
+|spawntime    = During ''[[The Harvest]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hungry Skwarors''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Skwaror]] family, and four are fought at level 34 at the [[Colony Tau Entrance]] in [[High Maktha Wildwood]] during ''[[The Harvest]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hkv9ewstl9h5o7kfelk5ikl3mwm2g42</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hunter Ansel</title>
+    <ns>0</ns>
+    <id>121830</id>
+    <revision>
+      <id>559709</id>
+      <parentid>546946</parentid>
+      <timestamp>2022-09-30T10:49:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="790" sha1="hdofh5pu5f75gfswqqrqgc5s7beub7z" xml:space="preserve">{{Infobox Enemy
+|name         = Hunter Ansel
+|image        = 
+|caption      = Hunter Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Hunter Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>hdofh5pu5f75gfswqqrqgc5s7beub7z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hunter Volff</title>
+    <ns>0</ns>
+    <id>123828</id>
+    <revision>
+      <id>580307</id>
+      <parentid>580286</parentid>
+      <timestamp>2023-03-24T20:25:09Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Four not three</comment>
+      <origin>580307</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1066" sha1="fwzs9hssrbm81u99v2bx4kxllhveygc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hunter Volff
+|image        = 
+|caption      = Hunter Volff
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Volff]]
+|level        = 17
+|area         = [[Eagus Wilderness]] ([[Metamural Garden]])
+|spawntime    = During ''[[No Want of Courage]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hunter Volffs''' are four [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Volff]] family, and are fought at level 17 at the [[Metamural Garden]] in the [[Eagus Wilderness]] during ''[[No Want of Courage]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>fwzs9hssrbm81u99v2bx4kxllhveygc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hyadet Enpedia</title>
+    <ns>0</ns>
+    <id>121734</id>
+    <revision>
+      <id>598168</id>
+      <parentid>579968</parentid>
+      <timestamp>2023-07-04T16:52:48Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="958" sha1="2gi2rlp14i43ajqroefcudnyuzawlz4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hyadet Enpedia
+|image        = Hyadet Enpedia.jpg
+|caption      = Hyadet Enpedia
+|category     = Normal Minor Enemy
+|type         = [[Enpedia]]
+|level        = 70-71
+|area         = [[Origin Interior]] ([[Defense Tower 1|Defense Tower #1]], [[Defense Tower 3|Defense Tower #3]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hyadet Enpedias''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Enpedia]] family, and can be found at level 70-71 at [[Defense Tower 1|Defense Tower #1]] and [[Defense Tower 3|Defense Tower #3]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enpedias]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>2gi2rlp14i43ajqroefcudnyuzawlz4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hybro Crustip</title>
+    <ns>0</ns>
+    <id>123005</id>
+    <revision>
+      <id>559711</id>
+      <parentid>552328</parentid>
+      <timestamp>2022-09-30T10:49:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="801" sha1="rn9mlddasirxuug7u9psz4i23u24hm5" xml:space="preserve">{{Infobox Enemy
+|name         = Hybro Crustip
+|image        = 
+|caption      = Hybro Crustip
+|category     = Minor Enemy
+|type         = [[Crustip]]
+|level        = ?
+|area         = [[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Hybro Crustips''' are Minor Enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level ? at [[Urayan Trail]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>rn9mlddasirxuug7u9psz4i23u24hm5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hyper Protector</title>
+    <ns>0</ns>
+    <id>122607</id>
+    <revision>
+      <id>592797</id>
+      <parentid>592293</parentid>
+      <timestamp>2023-05-15T20:16:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1044" sha1="qzako23pz084qgxntq9lugt0zjwtz9f" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Hyper Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 40% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Hyper Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 41% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Hyper Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 42% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Hyper Protectors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>qzako23pz084qgxntq9lugt0zjwtz9f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ice Headband (XC3)</title>
+    <ns>0</ns>
+    <id>118966</id>
+    <revision>
+      <id>592798</id>
+      <parentid>592532</parentid>
+      <timestamp>2023-05-15T20:16:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592798</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1051" sha1="749z30n03v3kq26eiwa4m01iqilwd25" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Ice Headband (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Ice Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Ice Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Ice Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts Critical Rate by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Ice Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They increase the user's Critical Rate.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>749z30n03v3kq26eiwa4m01iqilwd25</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Igna</title>
+    <ns>0</ns>
+    <id>6112</id>
+    <revision>
+      <id>602020</id>
+      <parentid>600753</parentid>
+      <timestamp>2023-07-22T12:23:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602020</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6116" sha1="mrjwkm5790ly5mac7tpbw6druhya3b1" xml:space="preserve">[[File:Exile fortress(2).jpg|thumb|A variety of Ignas in the [[Exile Fortress]] ]]
+'''Ignas''' (Japanese: {{lang|ja|&#12452;&#12464;&#12540;&#12490;}}, ''Ig&#363;na'') are a reptilian family of bipedal enemies in the {{XC|serieslink}}. Ignas are similar in appearance and may be related to [[Kromar]]s and [[Merigna]]s. They all have the same appearance, but different equipment, in {{XC}}, and vary in looks in {{XC2}}, where Ignas may be red or green and may have an orange frill on their head and neck, and in {{XC3}}.
+
+== {{XC|-}} ==
+Except for the [[Fiery Igna]]s who attack [[Colony 6]], Ignas are found exclusively in [[Satorl Marsh]]. The Fiery Ignas, at level 37, are the most powerful Igna. A group of [[Kindred Enemy|kindred]] Ignas can use [[Chain Attack (XC1)|Chain Attacks]].
+
+The behaviour, adornments and social structure of Ignas strongly suggest they are an intelligent race, but they can still be harmed by the [[Monado]] unlike the [[Homs]], [[Nopon]] and [[High Entia]].
+
+=== Normal Minor Enemies ===
+* [[Barbaro Igna]]
+* [[Duel Igna (XC1)|Duel Igna]]
+* [[Ether Igna]]
+* [[Fighter Igna]]
+* [[Guard Igna]]
+* [[Mistol Igna]]
+* [[Shield Igna (XC1)|Shield Igna]]
+
+=== Quest Exclusive Enemies ===
+* [[Deluded Igna]] (during ''[[The Giants' Key]]'')
+* [[Fiery Igna]] (during ''[[Defend Colony 6 - Reptile]]'')
+
+=== Unique Monsters ===
+* [[Aggressive Cornelius]]
+* [[Cautious Balteid]]
+* [[Reckless Godwin]]
+* [[Tumultuous Felix]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Barbaro Igna]]
+* [[Duel Igna (XC1)|Duel Igna]]
+* [[Ether Igna]]
+* [[Fighter Igna]]
+
+=== Quest Exclusive Enemy ===
+* [[Cutpurse Igna]] (during ''[[Priority Wunwun]]'')
+
+=== Unique Monsters ===
+* [[Deputy Seagal]]
+* [[Marquis Odesh]]
+
+== {{XC2|-}} ==
+Ignas can be found in the [[Kingdom of Uraya]] and [[Temperantia]]. Some of the high-level Ignas can be found riding [[Rhinon]]s.
+
+=== Normal Minor Enemies ===
+* [[Amost Igna]]
+* [[Archer Igna]]
+* [[Bagis Igna]]
+* [[Beat Igna]]
+* [[Boss Igna]]
+* [[Captain Igna]]
+* [[Duel Igna (XC2)|Duel Igna]]
+* [[Faros Igna]]
+* [[Flash Scout]]
+* [[Fort Igna]]
+* [[Gazzam Igna]]
+* [[Hooligan Igna]]
+* [[Mergen Igna]]
+* [[Norgam Igna]]
+* [[Raider Igna]]
+* [[Ranger Igna (XC2)|Ranger Igna]]
+* [[Razor Scout]]
+* [[Roiba Igna]]
+* [[Rowda Igna]]
+* [[Saber Igna]]
+* [[Shralk Igna]]
+* [[Shungle Igna]]
+* [[Snide Igna]]
+* [[Sparda Igna]]
+* [[Talent Runner]]
+* [[Tawa Igna]]
+* [[Telen Igna]]
+* [[Venal Igna]] (with [[Rhinon]])
+* [[Vool Igna]]
+* [[Wall Igna]]
+* [[Whispering Igna]]
+
+=== Quest Exclusive Enemies ===
+* [[Dross Igna]] (DLC, during ''[[Bright Spark]]'')
+* [[Gigalid Igna]] (DLC, during ''Bright Spark'')
+* [[Larm Igna]] (DLC, during ''Bright Spark'')
+* [[Maasti Igna]] (during ''[[Gotta Start Somewhere!]]'')
+* [[Odur Igna]] (during ''Gotta Start Somewhere!'')
+* [[Rood Igna]] (during ''Gotta Start Somewhere!'')
+* [[Riot Igna]] (DLC, during ''Bright Spark'')
+* [[Scram Igna]] (DLC, during ''Bright Spark'')
+* [[Trauv Igna]] (DLC, during ''Bright Spark'')
+
+=== Quest Exclusive Bosses ===
+* [[Blood-Crazed Stalker]] (with Rhinon, DLC, during ''[[A Mercenary's Honor]]'')
+* [[Sakryfyce Igna]] (DLC, during ''A Mercenary's Honor'')
+* [[Vyktym Igna]] (DLC, during ''A Mercenary's Honor'')
+
+=== Unique Monsters ===
+* [[Atrocious Hermes]] ([[Driver]] with [[Blade (XC2)|Blade]])
+* [[Decapitator Marvin]]
+* [[Demon King Gilbert]]
+* [[Judicial Kollin]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Buggle Igna]]
+* [[Duran Igna]]
+* [[Ryder Igna]]
+* [[Saranga Igna]]
+* [[Svelte Igna]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Arrow Igna]]
+* [[Bard Igna]]
+* [[Bloodthirsty Igna]]
+* [[Bowchief Cornelius]] (Summoned by [[King Krawkin]])
+* [[Bowchief Felix]] (Summoned by King Krawkin)
+* [[Bowchief Godwin]] (Summoned by King Krawkin)
+* [[Crazed Igna]]
+* [[Discordant Igna]]
+* [[Duel Igna (XC3)|Duel Igna]]
+* [[Heartkiller Igna]]
+* [[Minstrel Igna]]
+* [[Musketeer Igna]]
+* [[Pellurid Igna]]
+* [[Randster Igna]]
+* [[Ranger Igna (XC3)|Ranger Igna]]
+* [[Shielder Igna]]
+* [[Sword Igna]]
+* [[Troupechief Balteid]] (Summoned by King Krawkin)
+
+=== Unique Monsters ===
+* [[Conqueror Deepwan]]
+* [[Villainous Igna]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Arrow Igna]]
+* [[Blade Igna]]
+* [[Bloodthirsty Igna]]
+* [[Crazed Igna]]
+* [[Discordant Igna]]
+* [[Duel Igna (XC3)|Duel Igna]]
+* [[Heartbreak Igna]]
+* [[Heartkiller Igna]]
+* [[Longhorn Igna]]
+* [[Musketeer Igna]]
+* [[Pellurid Igna]]
+* [[Randster Igna]]
+* [[Ranger Igna (XC3)|Ranger Igna]]
+* [[Shield Igna (FR)|Shield Igna]]
+* [[Shielder Igna]]
+* [[Sniper Igna]]
+* [[Sword Igna]]
+* [[Warmount Igna]]
+
+=== Unique Monsters ===
+* [[Cavalier MacBright]] (with Rhinon)
+* [[Radicalized Godwin]]
+
+=== Quest Exclusive Bosses ===
+* [[Allelutta Igna]] (During ''[[Riku's Workshop (quest)|Riku's Workshop]]'')
+* [[Amina Igna]] (During ''Riku's Workshop'')
+* [[Atu Igna]] (During ''Riku's Workshop'')
+* [[Corporal Igna]] (During ''[[Takedown: Ignas]]'')
+* [[Lance Igna]] (During ''Takedown: Ignas'')
+* [[Plauss Igna]] (During ''Riku's Workshop'')
+* [[Private Igna]] (During ''Takedown: Ignas'')
+* [[Sergeant Igna]] (During ''Takedown: Ignas'')
+* [[Wickt Igna]] (During ''Riku's Workshop'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Barbo Igna.jpg
+Guard Igna.jpg
+Mistol Igna.jpg
+Shield Igna.jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+DrossIgna.jpg
+OdurIgna.jpg
+Demon King Gilbert.png
+DemonKingGilbert.jpg
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Conqueror Deepwan.png|Conqueror Deepwan
+XC3 Villainous Igna.png|Villainous Igna
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:Bipedal Enemies]]
+[[Category:XC Ignas]]
+[[Category:Bionis Life]]
+[[Category:XCFC Species]]
+[[Category:XCFC Ignas]]
+[[Category:Species Category]]
+[[Category:Sight Category]]
+[[Category:XC Humanoids]]
+[[Category:XC2 Species]]
+[[Category:XC2 Ignas]]
+[[Category:XC2 Humanoids]]
+[[Category:XC2 Affinity Chart Enemies]]
+[[Category:XC3 Species]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:XC3FR Humanoids]]
+[[Category:Ignas]]
+[[Category:Species by Type]]</text>
+      <sha1>mrjwkm5790ly5mac7tpbw6druhya3b1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Illumi Flier</title>
+    <ns>0</ns>
+    <id>117898</id>
+    <revision>
+      <id>584676</id>
+      <parentid>581401</parentid>
+      <timestamp>2023-04-22T15:57:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>584676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="776" sha1="9ttypimunw4wgrfnlc3lynv94197rqn" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Illumi Flier
+|image        = 
+|caption      = Illumi Flier
+|category     = Normal Enemy
+|type         = [[Flier]]
+|level        = 11-12
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Illumi Fliers''' are minor enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 11-12 in [[Millick Meadows]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9ttypimunw4wgrfnlc3lynv94197rqn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Illumi Skeeter (XC3)</title>
+    <ns>0</ns>
+    <id>123149</id>
+    <revision>
+      <id>580403</id>
+      <parentid>577451</parentid>
+      <timestamp>2023-03-24T20:52:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Challenge Battle Mode */redundant cat.</comment>
+      <origin>580403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1691" sha1="gfq21lwuf71cg72hw8hdmb266c2lhvv" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Illumi Skeeter (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Illumi Skeeter
+|image        = 
+|caption      = Illumi Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = 8
+|area         = [[Alfeto Valley]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Illumi Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level 8 in [[Alfeto Valley]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Illumi Skeeter
+|image        = 
+|caption      = Illumi Skeeter
+|type         = [[Skeeter]]
+|movement     = 
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+An Illumi Skeeter is fought at level 120 alongside a [[Jarack Vvarga]], an [[Illumi Wisp]], and a [[Kroda Flier]] at Stage 110 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gfq21lwuf71cg72hw8hdmb266c2lhvv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Illumi Wisp</title>
+    <ns>0</ns>
+    <id>123181</id>
+    <revision>
+      <id>598292</id>
+      <parentid>595163</parentid>
+      <timestamp>2023-07-04T18:07:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2513" sha1="qcyavbfavtlirqm0dtqo6ibpediu0hq" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Illumi Wisp
+|image        = Illumi Wisp XC3.jpg
+|caption      = Illumi Wisp
+|category     = Minor Enemy
+|type         = [[Wisp]]
+|level        = 13-14
+|area         = [[Eagus Wilderness]]
+|spawntime    = Nighttime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Illumi Wisps''' are Minor Enemies in {{XC3}}. They are members of the [[Wisp]] family, and can be found at level 13-14 in the [[Eagus Wilderness]] at night.
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Illumi Wisp
+|image        = 
+|caption      = Illumi Wisp
+|type         = [[Wisp]]
+|movement     = 
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+An Illumi Wisp is fought at level 120 alongside a [[Jarack Vvarga]], an [[Illumi Skeeter (XC3)|Illumi Skeeter]] and a [[Kroda Flier]] at Stage 110 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Illumi Wisp
+|image        = Illumi Wisp FR.jpg
+|caption      = Illumi Wisp
+|category     = Normal Enemy
+|type         = [[Wisp]]
+|level        = 7
+|area         = [[Vermilion Woods]] ([[Parvus Airspring]], [[Fairylight Fount]])
+|spawntime    = Nighttime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Illumi Wisps''' are normal enemies in {{XC3FR}}. They are members of the [[Wisp]] family, and can be found at level 7 at [[Parvus Airspring]] and [[Fairylight Fount]] in [[Vermilion Woods]] at night.
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Fornis Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Wisps]]
+[[Category:XC3FR Wisps]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>qcyavbfavtlirqm0dtqo6ibpediu0hq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Immaculate Necklace</title>
+    <ns>0</ns>
+    <id>122597</id>
+    <revision>
+      <id>592799</id>
+      <parentid>592416</parentid>
+      <timestamp>2023-05-15T20:16:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592799</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1084" sha1="0knmiidawqowk5gvgopseqe4hwagj88" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Immaculate Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Immaculate Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Immaculate Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Immaculate Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>0knmiidawqowk5gvgopseqe4hwagj88</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Immovable Gonzalez (XC3)</title>
+    <ns>0</ns>
+    <id>117391</id>
+    <revision>
+      <id>574553</id>
+      <parentid>574450</parentid>
+      <timestamp>2023-01-29T09:50:02Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>574553</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2817" sha1="13jk8krdwru7b9qa66hh88ng6o03f6c" xml:space="preserve">{{for|other uses|Immovable Gonzalez}}
+{{Infobox XC3 Enemy
+|name      = Immovable Gonzalez
+|image     = XC3-Gonzales.png
+|caption   = Immovable Gonzalez
+|type      = [[Gogol]]
+|movement  = Ground
+
+|area      = [[High Maktha Wildwood]] ([[Gogols' Tree]])
+|category  = [[Unique Monster (XC3)|Unique Monster]]
+|level     = 88
+|detection = 
+|spawntime = Anytime
+|respawn   = Yes
+|exp       = 4,394
+|cp        = 445
+|sp        = 5
+|gold      = 2,274
+|hp        = 6,595,000
+|strength  = 2,188
+|healing   = 748
+|dexterity = 362
+|agility   = 309
+|physdef   = 10%
+|ethdef    = -10%
+|critrate  = 15%
+|guardrate-front = 5%
+|guardrate-side = 0%
+|guardrate-back = 0% 
+}}
+'''Immovable Gonzalez''' (Japanese: &#19981;&#21205;&#12398;&#12468;&#12531;&#12470;&#12524;&#12473;, ''Fud&#333; no Gonzaresu'') is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Gogol]] family and can be found at level 88 at the [[Gogols' Tree]] in [[High Maktha Wildwood]]. The [[Wild Wave]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 90%
+|physdebuff = 25%
+|etherdebuff = Immune
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name      = Immovable Gonzalez
+|image     =
+|caption   = Immovable Gonzalez
+|type      = [[Gogol]]
+|movement  = Ground
+|area      = [[Land of Challenge (XC3)|Land of Challenge]]
+|category  = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level     = 110
+|detection = 
+|spawntime = During ''[[Primate Triumvirate]]''
+|respawn   = No
+|hp        = 8,271,000
+|strength  = 2,556
+|healing   = 930
+|dexterity = 457
+|agility   = 323
+|physdef   = 10%
+|ethdef    = -10%
+|critrate  = 5%
+|guardrate-front = 5%
+|guardrate-side = 0%
+|guardrate-back = 0% 
+}}
+Immovable Gonzalez is fought at level 110 in the third wave of the ''[[Primate Triumvirate]]'' [[Challenge Battle Mode|challenge]].
+{{clr}}
+== Trivia ==
+* It shares its name with the [[Immovable Gonzalez (XC1)|Immovable]] [[Immovable Gonzalez (XC2)|Gonzalez]] [[Unique Monster (XC1)|Unique]] [[Unique Monster (XC2)|Monsters]] from {{XC}} and {{XC2}}. All three are high-level Gogol Unique Monsters, however those from previous games are level 90 instead of 88. Also, like the Immovable Gonzalez from {{XC2|-}}, it is found sleeping in a wooded area.
+* This is the first version of Immovable Gonzalez whose body isn't physically obstructing a path that leads somewhere else.  Here, Gonzalez is located at a dead end and can be avoided entirely.
+
+== Gallery ==
+&lt;gallery&gt;
+Gogol's Tree.jpg
+Xc3 immovable gonzalez location.png
+Xc3 immovable gonzalez.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>13jk8krdwru7b9qa66hh88ng6o03f6c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Impish Langobard</title>
+    <ns>0</ns>
+    <id>119428</id>
+    <revision>
+      <id>583243</id>
+      <parentid>574454</parentid>
+      <timestamp>2023-04-16T20:19:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>583243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2283" sha1="tr6802s01sqx0ksf4e9vamqyh7jm2q2" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Impish Langobard
+|image        = XC3 Impish Langobard.png
+|caption      = Impish Langobard
+|type         = [[Gogol]]
+|level        = 74
+|area         = [[Elaice Highway]] ([[Great Liente Shelf]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,243
+|cp           = 445
+|sp           = 5
+|gold         = 1,812
+|hp           = 4,174,800
+|strength     = 1,623
+|healing      = 634
+|dexterity    = 297
+|agility      = 257
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 8%
+|guardrate-front = 5%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Impish Langobard''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Gogol]] family, and can be found at level 74 at the [[Great Liente Shelf]] on [[Elaice Highway]]. The [[Soulhacker#Enemy Skills|Non-Stop Barrage]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|physdebuff = 25%
+|etherdebuff = 85%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name      = Impish Langobard
+|image     =
+|caption   = Impish Langobard
+|type      = [[Gogol]]
+|movement  = Ground
+|area      = [[Land of Challenge (XC3)|Land of Challenge]]
+|category  = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level     = 105
+|detection = 
+|spawntime = During ''[[Primate Triumvirate]]''
+|respawn   = No
+|hp        = 5,018,450
+|strength  = 2,312
+|healing   = 889
+|dexterity = 445
+|agility   = 314
+|physdef   = 10%
+|ethdef    = -10%
+|critrate  = 10%
+|guardrate-front = 5%
+|guardrate-side = 0%
+|guardrate-back = 0% 
+}}
+Impish Langobard is fought at level 105 in the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Primate Triumvirate]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Impish langobard location.png
+Impish langobard.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Gogols]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tr6802s01sqx0ksf4e9vamqyh7jm2q2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Impregnable Sandhu</title>
+    <ns>0</ns>
+    <id>118684</id>
+    <revision>
+      <id>596076</id>
+      <parentid>574776</parentid>
+      <timestamp>2023-06-16T20:19:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>596076</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1517" sha1="g7mky3a3sekpq24fkx1gcvoec57v81x" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Impregnable Sandhu
+|image        = XC3 Agnian Assassins.png
+|caption      = Impregnable Sandhu (left)
+|type         = [[Agnus Forces]]
+|level        = 82
+|area         = [[Urayan Tunnels]] ([[Ruins of Seebu]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,072
+|cp           = 331
+|sp           = 5
+|gold         = 3,460
+|hp           = 4,692,000
+|strength     = 2,050
+|healing      = 663
+|dexterity    = 267
+|agility      = 260
+|physdef      = 25%
+|ethdef       = 10%
+|critrate     = 0%
+|guardrate-front = 30%
+|guardrate-side  = 0%
+|guardrate-back  = 0% 
+}}
+'''Impregnable Sandhu''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is part of the [[Agnus Forces]], and, alongside [[Godlike Krastor]], can be found at level 82 at [[Ruins of Seebu]] in [[Urayan Tunnels]]. It forms the "Agnian Assassins" duo with Godlike Krastor. The [[Soulhacker#Enemy Skills|Fiery Morale]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating them.
+== Resistances ==
+{{XC3 Resistances
+|break = 90%
+|physdebuff = 75%
+|etherdebuff = 80%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Agnian assassins location.png
+Agnian assassins sandhu.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Agnus Forces]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>g7mky3a3sekpq24fkx1gcvoec57v81x</sha1>
+    </revision>
+  </page>
+  </mediawiki>

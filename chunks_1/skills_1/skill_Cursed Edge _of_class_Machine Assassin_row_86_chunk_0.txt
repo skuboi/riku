@@ -1,0 +1,6 @@
+Skill Name: Cursed Edge 
+
+Class: Machine Assassin
+
+Skill Buff or Effect:  Boosts damage dealt by 70% when attacking a debuffed enemy. [Rank 5 Master Skill]
+

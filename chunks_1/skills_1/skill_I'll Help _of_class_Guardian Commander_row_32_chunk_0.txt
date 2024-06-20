@@ -1,0 +1,6 @@
+Skill Name: I'll Help 
+
+Class: Guardian Commander
+
+Skill Buff or Effect:  Take attacks for nearby allies with low HP. Damage is reduced by 20%.
+

@@ -1,0 +1,6 @@
+Art Name: Imperial Sword
+
+Class: Guardian Commander
+
+Effect: Awakened Boost
+

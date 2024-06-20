@@ -1,0 +1,6 @@
+Art Name: Destructive Charge
+
+Class: Martial Artist
+
+Effect: Front atk _ / Blowdown
+

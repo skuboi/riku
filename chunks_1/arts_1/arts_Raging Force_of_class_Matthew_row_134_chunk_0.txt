@@ -1,0 +1,6 @@
+Art Name: Raging Force
+
+Class: Matthew
+
+Effect: Chance to pierce
+

@@ -1,0 +1,6 @@
+Art Name: Heal Bullet
+
+Class: War Medic
+
+Effect: AOE / Heal
+

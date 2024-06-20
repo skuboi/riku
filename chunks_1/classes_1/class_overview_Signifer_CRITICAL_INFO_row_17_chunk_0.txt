@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Signifer
+
+Overview:  
+Signifers specialize in giving enhancement or support effects to allies. It is the class of [[Fiona]].
+
+It is unlocked by completing the [[Hero Quest]] ''[[Transparent Dreams]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[A Farewell Reset]]''.
+
+Arts: {'Cry of Faith': '2 random buffs (party)', 'Resonant Flag': 'Share own buffs (Rank 10 Master Art)', 'Illuminate': 'AOE / Dmg+ per buff', 'Aureole': '1 random buff (Rank 1 Master Art)', 'Heal Harmony': 'Field / Regenerate', 'Spirited Charge': 'Dmg up per buff'}
+
+Class Skills: {'Cheer Up, Everyone': 'Restore nearby allies\' HP on Art execution. Amount is equal to <abbr title="Playable characters">30-50%</abbr>/<abbr title="Fiona">40-60%</abbr> of user\'s Healing.', "We Can Do Better''' (Rank 15 Master Skill):  Restores 3-5% of HP when a buff is applied.\n* '''I've Got Your Backs": 'Extends duration of buff effects issued by 30-50%.'}
+
+Hero Exclusive Arts: {'Max Effort': '1 random buff', 'Unbreakable Heart': 'Field / Regenerate', 'Lightning Passion': 'Dmg up per buff'}
+

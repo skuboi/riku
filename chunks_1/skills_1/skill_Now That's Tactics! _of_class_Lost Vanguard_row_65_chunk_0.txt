@@ -1,0 +1,6 @@
+Skill Name: Now That's Tactics! 
+
+Class: Lost Vanguard
+
+Skill Buff or Effect:  At start of Chain Attack, increases TP by 10. [Rank 5 Master Skill]
+

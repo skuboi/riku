@@ -1,0 +1,1852 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lavender Potpourri (XC3)</title>
+    <ns>0</ns>
+    <id>122634</id>
+    <revision>
+      <id>566808</id>
+      <parentid>560070</parentid>
+      <timestamp>2022-11-23T04:46:19Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566808</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1028" sha1="gp0jsfqv1jdpsass4ic381wt2j9o6ij" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Lavender Potpourri (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Lavender Potpourri
+|image     = File:XC3 Accessory Pack.png
+|caption   = Grants 90% resistance to Target Lock.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Lavender Potpourri
+|image     = File:XC3 Accessory Pack.png
+|caption   = Grants 95% resistance to Target Lock.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Lavender Potpourri
+|image     = File:XC3 Accessory Pack.png
+|caption   = Grants 100% resistance to Target Lock.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Lavender Potpourris''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>gp0jsfqv1jdpsass4ic381wt2j9o6ij</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lavi Pagul</title>
+    <ns>0</ns>
+    <id>123989</id>
+    <revision>
+      <id>576881</id>
+      <parentid>559266</parentid>
+      <timestamp>2023-02-14T21:57:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1034" sha1="3fcr4m4o7wqftdqfhjfrpdsh6931wkl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Lavi Pagul
+|image        = 
+|caption      = Lavi Pagul
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Pagul]]
+|level        = 47
+|area         = [[Erythia Sea]] ([[Lavi Sandbar]])
+|spawntime    = During ''[[Romero and Joulietta]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Lavi Pagul''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Pagul]] family, and is fought at level 47 on [[Lavi Sandbar]] in [[Erythia Sea]] during ''[[Romero and Joulietta]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Paguls]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3fcr4m4o7wqftdqfhjfrpdsh6931wkl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Layla</title>
+    <ns>0</ns>
+    <id>123388</id>
+    <revision>
+      <id>597839</id>
+      <parentid>596163</parentid>
+      <timestamp>2023-07-02T16:35:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597839</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2015" sha1="jzfvpytp580z8yl70gu3ky5up2afq9g" xml:space="preserve">{{Infobox_NPC
+|name        = Layla
+|image       = XC3 Layla Icon.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Keves]]i human
+|age         = 2nd Term
+|location    = [[Eagus Wilderness]] ([[Colony 4]])
+}}
+'''Layla''' is a NPC in {{XC3}}.
+
+== Overview ==
+Layla can be found in [[Colony 4]] after completing ''[[Side Story: Lanz]]''. She was part of [[Garvel]]'s squad alongside and a childhood rival of [[Noah]] and his friends at [[Colony 14]]. She died during the war with [[Agnus]] after moving to [[Colony 8]], and was later reborn as a soldier of [[H's Colony]] alongside Garvel and [[Hoope]]. After [[Lanz]] and the party defeat [[Consul]] [[H]], she is freed from the control of her Colony's [[Flame Clock]] and is sent to [[Colony 4]] before being transferred to [[Colony 9 (XC3)|Colony 9]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Layla
+|image        = Team Garvel.png
+|caption      = Layla
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = Team Garvel
+|level        = 47
+|area         = [[Great Sword's Base]] ([[Cradle Convoy Shelter]])
+|spawntime    = During ''[[Side Story: Lanz]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Layla''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is a [[Keves Forces|Keves Soldier]] who is fought at level 47 at the [[Cradle Convoy Shelter]] at the [[Great Sword's Base]] during ''[[Side Story: Lanz]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:Fornis Region NPCs]]
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>jzfvpytp580z8yl70gu3ky5up2afq9g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lazure Headband (XC3)</title>
+    <ns>0</ns>
+    <id>118972</id>
+    <revision>
+      <id>566809</id>
+      <parentid>558829</parentid>
+      <timestamp>2022-11-23T04:46:46Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566809</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1044" sha1="5lujz9em4ay6fa5r58fq2t0u6qe57ne" xml:space="preserve">{{for|the Accessory in {{TTGC|-}}|Lazure Headband (TTGC)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Lazure Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze Resistance by 35 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5490 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Lazure Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze Resistance by 40 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5490 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Lazure Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze Resistance by 45 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5490 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Lazure Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>5lujz9em4ay6fa5r58fq2t0u6qe57ne</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lazure Vambraces (XC3)</title>
+    <ns>0</ns>
+    <id>118973</id>
+    <revision>
+      <id>592808</id>
+      <parentid>592554</parentid>
+      <timestamp>2023-05-15T20:17:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592808</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1107" sha1="1thr3h8r0kqwh9cvczzjbzjnyz7rbqx" xml:space="preserve">{{for|the Accessory in {{TTGC|-}}|Lazure Vambraces (TTGC)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Lazure Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts aggro generated from auto-attacks by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Lazure Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts aggro generated from auto-attacks by 35%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Lazure Vambraces
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts aggro generated from auto-attacks by 40%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Lazure Vambraces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>1thr3h8r0kqwh9cvczzjbzjnyz7rbqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lead Kneeguard</title>
+    <ns>0</ns>
+    <id>118974</id>
+    <revision>
+      <id>566811</id>
+      <parentid>551197</parentid>
+      <timestamp>2022-11-23T04:47:34Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="990" sha1="71zp2papdc5q7lg8yzzmf4omzo03kck" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Lead Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple resistance by 35 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Lead Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple resistance by 40 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Lead Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple resistance by 45 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Lead Kneeguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>71zp2papdc5q7lg8yzzmf4omzo03kck</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Leap Pippito (XC3)</title>
+    <ns>0</ns>
+    <id>123185</id>
+    <revision>
+      <id>564959</id>
+      <parentid>560321</parentid>
+      <timestamp>2022-11-07T06:04:29Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564959</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="867" sha1="hohhy6xvnl8xj88ry0xho6ssm6ctv24" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Leap Pippito (XC2)}}
+{{Infobox Enemy
+|name         = Leap Pippito
+|image        = 
+|caption      = Leap Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Leap Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level ? in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>hohhy6xvnl8xj88ry0xho6ssm6ctv24</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Learned Amulet</title>
+    <ns>0</ns>
+    <id>122631</id>
+    <revision>
+      <id>566812</id>
+      <parentid>551674</parentid>
+      <timestamp>2022-11-23T04:48:08Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="930" sha1="5ousmjfdsfne3s3d9yh0czseh97huxl" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Learned Amulet
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 60% resistance to Bind.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Learned Amulet
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 65% resistance to Bind.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Learned Amulet
+|image     = File:XC3 Accessory Choker.png
+|caption   = Grants 70% resistance to Bind.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Learned Amulets''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>5ousmjfdsfne3s3d9yh0czseh97huxl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Leather Gloves (XC3)</title>
+    <ns>0</ns>
+    <id>118975</id>
+    <revision>
+      <id>592809</id>
+      <parentid>592552</parentid>
+      <timestamp>2023-05-15T20:17:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592809</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1180" sha1="e5xs9vfredflntq4lfkgxttdlkt5dr7" xml:space="preserve">{{for|other uses|Leather Gloves}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Leather Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts accuracy by 2% each time an enemy evades an attack (up to a maximum of 50%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Leather Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts accuracy by 2.5% each time an enemy evades an attack (up to a maximum of 50%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Leather Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts accuracy by 3% each time an enemy evades an attack (up to a maximum of 50%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Leather Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>e5xs9vfredflntq4lfkgxttdlkt5dr7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Leather Wraps</title>
+    <ns>0</ns>
+    <id>122853</id>
+    <revision>
+      <id>592810</id>
+      <parentid>592324</parentid>
+      <timestamp>2023-05-15T20:17:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592810</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1068" sha1="aqq4452aomoe7wqddsd3ypzj07nuacx" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Leather Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Leather Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Leather Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 85%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Leather Wraps''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>aqq4452aomoe7wqddsd3ypzj07nuacx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Legendary Biter</title>
+    <ns>0</ns>
+    <id>119602</id>
+    <revision>
+      <id>566815</id>
+      <parentid>550662</parentid>
+      <timestamp>2022-11-23T04:50:17Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="807" sha1="hr10505z9n3gaa5ahq31ddqnif33rww" xml:space="preserve">{{spoiler}}
+{{Infobox item
+|name      = Legendary Biter
+|image     = File:XC3 Accessory Pack.png
+|caption   = Accrues Aggro every second. (Extra-major effect.)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Low Maktha Wildwood]] ([[Cavern of Oblivion]])
+|sell      = N/A
+}}
+The '''Legendary Biter''' is an [[Accessory (XC3)|Accessory]] in {{XC3}}. It can be obtained from a pedestal behind the [[Forgotten Trick Gate]] at the end of the [[Cavern of Oblivion]] in [[Low Maktha Wildwood]], guarded by the [[Dreadwyrm Nizoont]] [[Superboss]].
+{{clr}}
+
+== Trivia ==
+* The Legendary Biter looks like the [[Hunter Biter]] used by [[Riki]] in {{XC}}.
+
+== Gallery ==
+&lt;gallery&gt;
+Legendary Biter Screenshot.jpg|The Legendary Biter
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+[[Category:XC3 Accessories]]</text>
+      <sha1>hr10505z9n3gaa5ahq31ddqnif33rww</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lepus</title>
+    <ns>0</ns>
+    <id>121874</id>
+    <revision>
+      <id>584331</id>
+      <parentid>584326</parentid>
+      <timestamp>2023-04-21T02:00:26Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add base game fight data</comment>
+      <origin>584331</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6143" sha1="eviti0pqmmjxn1daenf2b43xk1hdauy" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Lepus
+|image        = 
+|caption      = Lepus
+|type         = [[Levnis]]
+
+|tab1         = Rae-Bel Tableland
+|category     = [[Boss (XC3)|Boss]]
+|level        = 24
+|area         = [[Rae-Bel Tableland]] ([[Old Kana Battlefield]])
+|spawntime    = Story
+|respawn      = No
+|detection    = 
+|exp          = 816
+|cp           = 72
+|sp           = 0
+|gold         = 0
+|hp           = 469,000
+|strength     = 477
+|healing      = 166
+|dexterity    = 77
+|agility      = 67
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 10%
+|guardrate    = 0%
+
+|tab2         = Erythia Sea
+|area2        = [[Erythia Sea]] ([[Farlaine Underpass]])
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 55
+|spawntime2   = During ''[[Side Story: Taion]]''
+|respawn2     = No
+|movement2    = 
+|detection2   = 
+|exp2         = 1,310
+|cp2          = 87
+|sp2          = 0
+|gold2        = 1,239
+|hp2          = 439,950
+|strength2    = 751
+|healing2     = 351
+|dexterity2   = 159
+|agility2     = 133
+|physdef2     = -10%
+|ethdef2      = 20%
+|critrate2    = 10%
+|guardrate2   = 0%
+}}
+'''Lepus''' are [[Boss (XC3)|Bosses]] in {{XC3}}. They are [[Agnus|Agnian]] [[Levnis]]es, and are first fought at level 24 at the [[Old Kana Battlefield]] in [[Rae-Bel Tableland]]. Two are also fought at level 55 at [[Farlaine Underpass]] in [[Erythia Sea]] during ''[[Side Story: Taion]]''.
+== Battle ==
+=== Resistances ===
+{{XC3 Resistances
+|break = 50%
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 0%
+|etherdebuff = 90%
+}}
+=== Enraged ===
+Only the Lepus fought at Rae-Bel Tableland will enrage.
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{clr}}
+=== Arts ===
+This Arts list and use conditions correspond to the Rae-Bel Tableland fight. The Erythia Sea Lepus can use all of these Arts at any time, except for Ground Breach, where only the first version with 300% power is used.
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|200%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Knuckle Launcher'''
+|Physical
+|One Target
+|2
+|450%
+|[[Knockback (XC3)|Knockback]] on both hits
+|style="text-align:left;"|
+*Critical Rate is boosted by 50%.
+*Immune to Knockback and [[Blowdown (XC3)|Blowdown]] during Art.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Hand Capture'''
+|Physical
+|One Target
+|2
+|400%
+|Grabs target during animation / [[Smash (XC3)|Smash]] on release
+|style="text-align:left;"|
+*Accuracy is boosted by 100%.
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 80% HP
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Fingers of Flame'''
+|Ether
+|Frontward AOE
+|1
+|250%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 3, 4 and 5 --&gt;
+|rowspan="2"| '''Ground Breach'''
+|rowspan="2"| Physical
+|rowspan="2"| AOE on Target
+|rowspan="2"| 1
+| 300%
+|rowspan="2"| Blowdown
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to all reactions and combos during Art.
+|When between 30% and 60% HP
+|-
+| 250%
+|style="text-align:left;"|Above notes, plus:
+*Art is telegraphed by a 10.0s timer, after which it may be used twice in a row.
+| Once per battle, when reduced to 30% HP
+|}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Lepus
+|image        = 
+|caption      = Lepus
+|type         = [[Levnis]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 60
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 922,240
+|strength     = 2,223
+|healing      = 762
+|dexterity    = 244
+|agility      = 181
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+A '''Lepus''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 60 on Stage 30 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+=== Skills ===
+The Lepus has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+* Boosts Arts recharge speed by 25%.
+=== Resistances ===
+{{XC3 Resistances
+|break = Immune
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 70%
+|etherdebuff = 70%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|200%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Knuckle Launcher'''
+|Physical
+|One Target
+|2
+|450%
+|[[Knockback (XC3)|Knockback]] on both hits
+|style="text-align:left;"|
+*Critical Rate is boosted by 50%.
+*Immune to Knockback and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Hand Capture'''
+|Physical
+|One Target
+|2
+|400%
+|Grabs target during animation / [[Smash (XC3)|Smash]] on release
+|style="text-align:left;"|
+*Accuracy is boosted by 100%.
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Fingers of Flame'''
+|Ether
+|Frontward AOE
+|1
+|250%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|}
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>eviti0pqmmjxn1daenf2b43xk1hdauy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lesser Volff</title>
+    <ns>0</ns>
+    <id>117885</id>
+    <revision>
+      <id>582027</id>
+      <parentid>582026</parentid>
+      <timestamp>2023-04-07T19:12:51Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>582027</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="859" sha1="h22qsei522t7xeloaw4gpfxbqte11mj" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Lesser Volff
+|image        = Lesser Volff.png
+|caption      = Lesser Volff
+|category     = Normal Minor Enemy 
+|type         = [[Volff]]
+|level        = 5 - 8
+|area         = [[Alfeto Valley]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Lesser Volff''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Volff]] family and can be found at level 5 - 8 near [[Forward Post Camp]] in [[Alfeto Valley]].
+
+== Drops ==
+* [[Volff Meat]]
+* [[Volffskin]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h22qsei522t7xeloaw4gpfxbqte11mj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Level (XC3)</title>
+    <ns>0</ns>
+    <id>116819</id>
+    <revision>
+      <id>598087</id>
+      <parentid>594779</parentid>
+      <timestamp>2023-07-03T22:41:37Z</timestamp>
+      <contributor>
+        <username>Xolimpha</username>
+        <id>30499430</id>
+      </contributor>
+      <minor/>
+      <comment>added level cap for players and enemies</comment>
+      <origin>598087</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5345" sha1="j9i25gydz83b2jktldighcsgbi8lzt5" xml:space="preserve">{{for|other uses|Level}}
+'''Level''' is a stat in {{XC3}} and {{XC3FR|sublink}}. It represents a character's or teams' or [[Enemy (XC3)|enemy]]'s overall strength, giving a general indication of how high their other stats are and how well they will do in combat. A character's or teams' level increases as they earn [[Experience Points (XC3)|Experience]] (EXP). The maximum level for party members is 99, and the maximum level for enemies is 200.
+{{clr}}
+
+==Danger Levels==
+[[File:XC3 Level Tags.jpg|250px|thumb|Varying colors of level tags of enemies when the party leader is level 50]]
+On the field, the color of the text showing the enemy's level gives a rough indication of the danger they represent, as measured by the relative difference in the levels of the party leader and the enemy.
+
+{| class="xc1 col-2-center"
+! Level difference !! Target color
+|-
+| Enemy's level is higher by 10 or more
+| style="background:red; color:white;" | '''Red'''
+|-
+| Enemy's level is higher by 5-9
+| style="background:yellow;" | '''Yellow'''
+|-
+| Enemy's level is within &#177;4
+| style="background:white;" | '''White'''
+|-
+| Enemy's level is lower by 5 or more
+| style="background:gray; color:white;" | '''Gray'''
+|}
+
+== Effects of level differences ==
+Most aggressive enemies (including [[Unique Monster (XC3)|Unique Monsters]]) will not attack if the party leader is at least 6 levels higher than the enemy. Notable exceptions include ambushing monsters, as well as generic [[Keves Forces|Kevesi]] and [[Agnus Forces|Agnian forces]], who will attack regardless of level difference. [[Boss (XC3)|Bosses]] and [[Quest Exclusive Enemy (XC3)|quest-exclusive enemies]] also attack regardless of level difference.
+
+The difference between a party member's level and an enemy's level affects a number of things in battle:  
+* EXP and CP earned from defeating the enemy, as well as progress earned towards unlocking classes
+*Damage dealt by the enemy's attacks
+*Party member's attack accuracy
+* Enemy's resistance to statuses such as [[Break (XC3)|Break]] and [[Topple (XC3)|Topple]]
+
+These effects are applied separately for each party member depending on their individual levels and are summarized in the table below. Not all enemies in the game have these modifiers applied to them: the following enemies do not gain level-dependent modifiers:
+*All [[Superboss]]es (in {{XC3|-}} only)
+*Enemies in the following challenge battles of [[Challenge Battle Mode]]:
+**''[[Primate Triumvirate]]''
+**''[[Heroes Frontline]]''
+**''[[The Four Devas]]''
+**All [[Archsage's Gauntlet]] challenges
+{| class="xc1 centered"
+!
+! colspan="3" |Enemy's level is higher
+! colspan="4" |Enemy's level is lower
+|-
+! width="10%" |Level difference 
+! width="20%" |EXP/CP earned, class unlocking progress
+! width="10%" | Enemy's damage
+! width="10%" |Enemy's resistance
+! width="10%" |EXP/CP earned
+! width="15%" |Class unlocking progress
+! width="10%" |Enemy's damage
+! width="15%" |Ally's attack accuracy
+|-
+!1
+|105%||100%||0%||95%||95%||100% ||110%
+|-
+!2
+|110% (EXP/CP)&lt;br&gt;112% (class unlock)||100%|| 0%||86%|| 74%||100%|| 115%
+|-
+! 3
+|117% ||105% ||0%||77%||48%||98%||122%
+|-
+!4
+| 124%||110% ||0%||69%|| 24%||96% || 129%
+|-
+! 5
+|134%||125%||0%|| 62%||12%||94%||138% 
+|-
+!6
+|145%||140%|| 0%||56%||0%|| 92%||147%
+|-
+!7
+|157%||160%||0%||50%||0%||90% ||158%
+|-
+!8
+|170%|| 180%||0%||45%||0%||88%||169%
+|-
+!9
+|184%||200%||0%|| 41%||0%||86%||182%
+|-
+!10
+|200% ||220% ||20% ||37%||0%||84% ||195%
+|-
+! 11
+|200%||240%||40%||33%||0%||82%||210%
+|-
+! 12
+|200% ||260%||60%||30%||0%||80%||225% 
+|-
+!13
+|200%||280%||80%|| 27%||0%||78%||242%
+|-
+! 14
+|200%||300%|| 100%||24%||0%|| 76%||259%
+|-
+!15
+|200%||320%||100%||22%||0%||74%||278%
+|-
+!16
+|200%||340%||100%||20%||0%||72%||297%
+|-
+!17
+|200%||360%||100%||18%||0%||70%||318%
+|-
+!18
+|200%||380%||100%||16%||0%||68%||339%
+|-
+!19
+|200%||400%||100%||14%||0%||66%||362%
+|-
+!20+
+|200%||450%||100%||13%||0%||64%||385%
+|}
+== Other effects of level ==
+In the main game only, a party member's level determines the number of [[Battle Arts (XC3)|Master Arts]], [[Skill (XC3)|Master Skills]], [[Gem]]s and [[Accessory (XC3)|Accessories]] that they can equip. Initially, only one of each can be equipped, with the following levels unlocking additional slots:
+*At level 20, the second Master Art slot and second Gem slot are unlocked, with the third of both unlocking at level 40.
+*At level 30, the second Master Skill slot and second Accessory slot are unlocked, with the third of both unlocking at level 50.
+
+These additional slots are permanent, even if the party member is later leveled down below these thresholds in post-game or [[New Game + (XC3)|New Game+]].
+
+For [[Heroes]], they automatically equip additional gems and accessories once the above level thresholds have been reached. Their level also affects the rating of the gems they equip; at level 1, their gems will be rank I, with their gems ranking up by one tier every 10 levels (11, 21, 31, etc.), except for rank X gems, which are equipped by Heroes starting at level 90 (not 91).
+
+A party member's level also determines the strength of their order's completion bonus in a [[Chain Attack (XC3)|Chain Attack]], with its effects improving at level 21 and every 20 levels afterwards (41, 61, 81).
+[[Category:XC3 Battle Flow]]
+[[Category:XC3FR Battle Flow]]
+[[Category:XC3 Stats]]
+[[Category:XC3FR Stats]]</text>
+      <sha1>j9i25gydz83b2jktldighcsgbi8lzt5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Levialord Empireo</title>
+    <ns>0</ns>
+    <id>119242</id>
+    <revision>
+      <id>582219</id>
+      <parentid>582194</parentid>
+      <timestamp>2023-04-09T16:10:51Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>artsspeffect 1</comment>
+      <origin>582219</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7357" sha1="t5n2vrd5trdf4juj70l1x8kjey0wd29" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Levialord Empireo
+|image        = XC3 Levialord Empireo.png 
+|caption      = Levialord Empireo
+|type         = [[Ravoon]]
+|category     = [[Unique Monster (XC3)|Unique Monster]] ([[Superboss]])
+|level        = 110
+|area         = [[Erythia Sea]] ([[The Aegis Sea]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Aquatic
+|exp          = 13,828
+|cp           = 360
+|sp           = 25
+|gold         = 8,670
+|hp           = 12,130,800
+|strength     = 2,953
+|healing      = 679
+|dexterity    = 476
+|agility      = 323
+|physdef      = -20%
+|ethdef       = 40%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+'''Levialord Empireo''' is a [[Superboss]] in {{XC3}}. It is a [[Unique Monster (XC3)|Unique Monster]] and a member of the [[Ravoon]] family, and can be found at level 110 in [[The Aegis Sea]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Power Pick-Me-Up]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it. Through re-challenging, Levialord Empireo's level can be increased to a maximum at level 180.
+
+== Battle ==
+=== Resistances ===
+{{XC3 Resistances
+|break = 105%
+|topple = 0%
+|daze = 0%
+|burst = 0%
+|launch = 0%
+|smash = 0%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 75%
+|etherdebuff = Immune
+}}
+{{clr}}
+=== Enraged ===
+{|class="xc1 centered" style="width:70%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 25%.&lt;br&gt;Boosts Art recharge speed by 50%.&lt;br&gt;Shortens durations of debuffs on self by 50%.
+|}
+===Arts===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|250%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|rowspan="2"|'''Aquatic Impulse'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|rowspan="2"|1
+|220%
+| [[Shackle Blocking]]
+|rowspan="2" style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Duration timers of debuffs applied to enemies is extended by 100%.
+| Anytime during fights up to and including Lv 170
+|- &lt;!-- Arts Slot 5, 10 (slots 10 is a fast-cooldown version of 5) --&gt;
+| 200%
+| [[Shackle Healing]]
+| Anytime during Lv 180 fights; used more frequently while above 90% HP
+|- &lt;!-- Arts Slot 1 --&gt;
+|rowspan="2"|'''Oceanic Halo'''
+|rowspan="2"|Ether
+|rowspan="2"|AOE around User
+|rowspan="2"|1
+|150%
+|[[Ether Defense Down (XC3)|Ether Defense Down]]
+|rowspan="2"|
+| Anytime during fights up to and including Lv 120
+|- &lt;!-- Arts Slot 6 --&gt;
+|140%
+|[[Resistance Down]] / Ether Defense Down
+| Anytime during Lv 125-170 fights; at Lv 180, not used until HP is reduced to 90%
+|- &lt;!-- Arts Slot 2 --&gt;
+|rowspan="2"|'''Daedalus Web'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|1
+|180%
+|rowspan="2"| [[Knockback (XC3)|Knockback]] on all hits
+|
+|When reduced to 80% HP during Lv 110 fight
+|- &lt;!-- Arts Slot 7 --&gt;
+|2
+|170%
+|style="text-align:left;"|
+*Removes all buffs from target upon landing a hit.
+|When reduced to 80% HP during Lv 115-170 fights, or to 90% HP during Lv 180 fight
+|- &lt;!-- Arts Slot 3 --&gt;
+|rowspan="3"|'''Arcing Leap'''
+|rowspan="3"|Physical
+|rowspan="3"|Frontward AOE
+|rowspan="3"| 2
+| 270%
+| rowspan="3"| [[Blowdown (XC3)|Blowdown]] on both hits
+|rowspan="2" style="text-align:left;"|
+*Immune to all reactions and combos during Art.
+|When reduced to 60% HP during Lv 110-130 fights
+|- &lt;!-- Arts Slot 8 --&gt;
+| rowspan="2"| 185%
+| When reduced to 60% HP during Lv 135-170 fights, or to 70% HP during Lv 180 fight
+|- &lt;!-- Arts Slot 11 --&gt;
+|style="text-align:left;"|
+*Immune to all reactions and combos during Art.
+*Has a longer range (40m vs 10m) compared to other versions of the Art, and recharges concurrently with the other version being used.
+| When reduced to 60% HP during Lv 150-170 fights, or to 70% HP during Lv 180 fight
+|- &lt;!-- Arts Slot 4 --&gt;
+|rowspan="2"|'''Lord of the Ocean'''
+|rowspan="2"|Debuff
+|rowspan="2"|AOE around User
+|rowspan="2"| -
+|rowspan="2"| -
+|rowspan="2"| [[Shackle Arts]]
+|
+|When reduced to 40% HP during Lv 135-170 fights
+|- &lt;!-- Arts Slot 9 --&gt;
+|style="text-align:left;"|
+*Duration timers of debuffs applied to enemies is extended by 50%.
+|When reduced to 50% HP during Lv 180 fight
+|- &lt;!-- Arts Slot 12 --&gt;
+|'''Ocean's Grace'''
+|Buff
+|Self
+| -
+| -
+|[[Power Charge]] / [[Accuracy Up (XC3)|Accuracy Up]]
+|
+|When reduced to 50% HP during Lv 180 fight
+|}
+=== Superboss Challenges ===
+After defeating it for the first time, Levialord Empireo can be re-fought at increasing levels by selecting the "Challenge" option on its [[Named Grave]]. After defeating it at a given challenge level, it will appear at the next challenge level the next time it is challenged, until reaching its maximum level. Thus, only the initial Lv 110 version and the final Lv 180 challenge version can be refought.
+
+Levialord Empireo has the following stats changed from its base Lv 110 version in each challenge version. Physical and Ether Defense, Critical Rate, Guard Rates and resistances are unchanged in these challenge versions. SP is not dropped from defeating it in a challenge, since the challenge counts as a refight.
+&lt;tabber&gt;
+Lv 115=
+&lt;h3 style="display:none;"&gt;Lv 115&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 12,810,600
+|atk   = 3,044
+|heal  = 711
+|dex   = 490
+|agil  = 331
+|exp   = 14,783
+|cp    = 369
+|gold  = 9,222
+}}
+|-|
+Lv 120=
+&lt;h3 style="display:none;"&gt;Lv 120&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 13,503,600
+|atk   = 3,135
+|heal  = 741
+|dex   = 503
+|agil  = 341
+|exp   = 15,738
+|cp    = 378
+|gold  = 9,775
+}}
+|-|
+Lv 125=
+&lt;h3 style="display:none;"&gt;Lv 125&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 14,206,500
+|atk   = 3,226
+|heal  = 772
+|dex   = 517
+|agil  = 350
+|exp   = 16,693
+|cp    = 387
+|gold  = 10,327
+}}
+|-|
+Lv 130= 
+&lt;h3 style="display:none;"&gt;Lv 130&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 14,919,300
+|atk   = 3,320
+|heal  = 802
+|dex   = 531
+|agil  = 360
+|exp   = 17,648
+|cp    = 396
+|gold  = 10,880
+}}
+|-|
+Lv 135= 
+&lt;h3 style="display:none;"&gt;Lv 135&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 15,645,300
+|atk   = 3,411
+|heal  = 834
+|dex   = 543
+|agil  = 368
+|exp   = 18,603
+|cp    = 404
+|gold  = 10,965
+}}
+|-|
+Lv 140= 
+&lt;h3 style="display:none;"&gt;Lv 140&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 16,328,400
+|atk   = 3,494
+|heal  = 864
+|dex   = 557
+|agil  = 378
+|exp   = 19,558
+|cp    = 413
+|gold  = 11,050
+}}
+|-|
+Lv 150= 
+&lt;h3 style="display:none;"&gt;Lv 150&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 17,453,700
+|atk   = 3,616
+|heal  = 927
+|dex   = 583
+|agil  = 395
+|exp   = 21,468
+|cp    = 431
+|gold  = 11,220
+}}
+|-|
+Lv 160= 
+&lt;h3 style="display:none;"&gt;Lv 160&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 18,509,700
+|atk   = 3,731
+|heal  = 988
+|dex   = 606
+|agil  = 411
+|exp   = 23,378
+|cp    = 448
+|gold  = 11,390
+}}
+|-|
+Lv 170= 
+&lt;h3 style="display:none;"&gt;Lv 170&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 19,552,500
+|atk   = 3,845
+|heal  = 1,050
+|dex   = 630
+|agil  = 428
+|exp   = 25,288
+|cp    = 466
+|gold  = 11,560
+}}
+|-|
+Lv 180= 
+&lt;h3 style="display:none;"&gt;Lv 180&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 20,578,800
+|atk   = 3,959
+|heal  = 1,112
+|dex   = 653
+|agil  = 444
+|exp   = 27,198
+|cp    = 484
+|gold  = 11,730
+}}
+&lt;/tabber&gt;
+
+== Gallery ==
+&lt;gallery&gt;
+Levialord empireo location.png
+Levialord empireo.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Ravoons]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>t5n2vrd5trdf4juj70l1x8kjey0wd29</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Levnis</title>
+    <ns>0</ns>
+    <id>118572</id>
+    <revision>
+      <id>602035</id>
+      <parentid>600764</parentid>
+      <timestamp>2023-07-22T12:24:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Trivia */</comment>
+      <origin>602035</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3329" sha1="q07kxedfnpytqbj5ajctbnp3fro9na9" xml:space="preserve">{{Spoiler}}
+[[File:Obliterator Centaurio night.png|thumb|210px|An Agnian Gyrinus Levnis]]
+'''Levnises''' are machines used for combat by [[Keves]] and [[Agnus]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+[[File:StronghammerDorga.jpg|thumb|210px|A Kevesi Gastrates Levnis]]
+Kevesi Levnises are usually piloted by a living soldier, while some Agnian Levnises are able to function autonomously. Kevesi Levnises typically operate on the ground and use a black and blue color scheme, while Agnian Levnises are capable of hovering and use a white and green color scheme.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Auxilia]]
+* [[Avis]]
+* [[Centuris]]
+* [[Equites]]
+* [[Gastrates]]
+* [[Sagittarius]]
+* [[Speculatos]]
+* [[Testudo]]
+* [[Velites]]
+
+=== Quest Exclusive Enemies ===
+* [[Armadillo]]
+* [[Automaton Sentry]]
+* [[Lepus]]
+* [[Ulula]]
+
+=== Story Exclusive Enemies ===
+* [[Avis Achates]]
+* [[Gyrinus]]
+
+=== Unique Monsters ===
+* [[Ambusher Tirion]] (Speculatos)
+* [[Besieger Sheritt]] (Centuris)
+* [[Bushwhacker Farritt]] (Ulula)
+* [[Determined Vatslav]] (Speculatos)
+* [[Forsaken Arbiter]] (Velites)
+* [[Infiltrator Garnach]] (Gastrates)
+* [[Mobile Vespa]] (Equites)
+* [[Navigator Helios]] (Testudo)
+* [[Obliterator Centaurio]] (Gyrinus)
+* [[Protector Revelta]] (Sagittarius)
+* [[Sensitive Catullus]] (Avis)
+* [[Taskmaster Imperion]] (Ulula)
+* [[Thunderclap Dalton]] (Speculatos)
+* [[Turbulent Martinez]] (Speculatos)
+* [[Vengeful Dominator]] (Velites)
+
+=== Bosses ===
+* [[Gyrinus]]
+
+=== Quest Exclusive Bosses ===
+* Colony 29 Raiders (During ''[[Knowing Your Family]]''):
+** [[Equites (boss)|Equites]]
+** [[Velites (boss)|Velites]]
+* [[Dorrick]] (During ''[[The Final Cog]]'')
+* [[Evolved Sentry]] (During ''[[Payback for Treason]]'')
+* [[Ferron Unit]] (During ''[[Inhumanity]]'')
+* [[Incomplete Siege-Lev]] (During ''[[The Kind Right Hand]]'')
+* [[Keves Armadillo]] (During ''[[Bearing Fruit]]'')
+* [[Knoquehardt's Levnis]] (During ''[[Festival of War]]'')
+* [[Mechapod Carthegia]] (During ''[[A Burning Curiosity, Part 2]]'')
+* [[Mysterious Raider]] (During ''[[Imminent Illusion]]'', ''[[Severed Connection]]'', ''[[Writer's Block]]'', &amp; ''[[The Illusion Returns]]'')
+* [[Robobuddy]] (During ''[[Inescapable Past]]'')
+* [[Segiri#Battle|No. 7]] (During ''[[Inhumanity]]'')
+* [[No. 13#Battle|No. 13]] (During ''[[Invisible Bond]]'')
+* [[Rattlejack's Levnis]] (During ''Festival of War'')
+
+=== Challenge Battle Mode Bosses ===
+* [[Segiri#Challenge Battle Mode|No. 7 Segiri]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Auxilia]]
+* [[Avis]]
+* [[Centuris]]
+* [[Equites]]
+* [[Sagittarius]]
+* [[Testudo]]
+* [[Testudo Scout]]
+
+=== Unique Monsters ===
+* [[Naberius Invictus]]
+* [[Peacebringer Divalo]] ([[Superboss]])
+* [[Perambulator Moritz]]
+* [[Stronghammer Dorga]] (Superboss)
+
+=== Quest Exclusive Bosses ===
+* [[Patrol Equites]] (During ''[[Regret and Resolve]]'')
+* [[Prototype Automaton]] (During ''[[The Running Automaton]]'')
+
+== Trivia ==
+* The designs of the Kevesi and Agnian Levnises appear to be based on [[Mechon|Faced Mechon]] and [[Artifice]]s, respectively.
+
+{{Xc3 stub}}
+{{Fr stub}}
+[[Category:XC3 Species]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Machines]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Levnises]]
+[[Category:XC3FR Machines]]
+[[Category:Levnises]]
+[[Category:Species by Type]]</text>
+      <sha1>q07kxedfnpytqbj5ajctbnp3fro9na9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Liar Vang (XC3)</title>
+    <ns>0</ns>
+    <id>121162</id>
+    <revision>
+      <id>594319</id>
+      <parentid>559777</parentid>
+      <timestamp>2023-05-27T14:08:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594319</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1635" sha1="edonkwhnfyiqe02438ov880q4bwzao8" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Liar Vang (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Liar Vang
+|image        = 
+|caption      = Liar Vang
+|category     = Normal Minor Enemy
+|type         = [[Vang]]
+|level        = 23-24
+|area         = [[Urayan Tunnels]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Liar Vangs''' are Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level 23-24 in the [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Liar Vang
+|image        = Liar Vang FR.jpg
+|caption      = Liar Vang
+|category     = Normal Minor Enemy
+|type         = [[Vang]]
+|level        = 33
+|area         = [[Aurora Shelf]] ([[Zalmor's Thawtunnels]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Liar Vangs''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Vang]] family, and can be found at level 33 in [[Zalmor's Thawtunnels]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3FR Vangs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>edonkwhnfyiqe02438ov880q4bwzao8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Liberation Edge</title>
+    <ns>0</ns>
+    <id>127589</id>
+    <revision>
+      <id>591889</id>
+      <parentid>591060</parentid>
+      <timestamp>2023-05-14T14:35:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591889</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="900" sha1="9udjf84c0956qbgsb7qf4n3t3wfd5qh" xml:space="preserve">{{Infobox battle art
+|name        = Liberation Edge
+|image       = Liberation Edge.png
+|who         = [[Shulk]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = &lt;abbr title="Default completion bonus; can be changed using accessories"&gt;Increases damage ratio by 100 percentage points and grants Power Charge to all allies.&lt;/abbr&gt; &lt;small&gt;(''FR'')&lt;/small&gt;&lt;br&gt;Increases damage ratio by 50-100 percentage points and grants Power Charge to all allies. &lt;small&gt;(''XC3'')&lt;/small&gt;
+|duration    = 
+|recharge    = 
+}}
+'''Liberation Edge''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3FR|sublink}} and {{XC3}}. It is [[Shulk]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{fr stub}}
+{{xc3 stub}}
+
+[[Category:XC3FR Chain Arts]]
+[[Category:XC3 Chain Arts]]
+[[Category:XC3FR Shulk's Arts]]</text>
+      <sha1>9udjf84c0956qbgsb7qf4n3t3wfd5qh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lifebearer</title>
+    <ns>0</ns>
+    <id>118893</id>
+    <revision>
+      <id>595269</id>
+      <parentid>592022</parentid>
+      <timestamp>2023-06-11T16:35:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6302" sha1="sef7xjzgytg7mz83b2oy4njqdahgty2" xml:space="preserve">{{Infobox Gem
+| name     = Lifebearer
+| image    = Gem-healer.png
+| effect   = [Passive] Increases Healing by ''(value)''.
+| category = Healer
+| max      = 45
+}}
+'''Lifebearer''' is a Healer [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Healing Increase
+|-
+!I
+|20
+|-
+!II
+|22
+|-
+!III
+|25
+|-
+!IV
+|27
+|-
+!V
+|30
+|-
+!VI
+|33
+|-
+!VII
+|35
+|-
+!VIII
+| 37
+|-
+!IX 
+|40
+|-
+!X
+|45
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Lifebearer I
+|[[Gemstone]]&lt;br /&gt;[[Flier Nectar Jelly]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Lifebearer II 
+|Gemstone&lt;br /&gt;[[Large Flamii Egg]]&lt;br /&gt;[[Volff Meat]]&lt;br /&gt;[[Powdered Wheat]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Lifebearer III
+|Gemstone&lt;br /&gt;[[Sweet Kapiba Lard]]&lt;br /&gt;[[Fresh Armu Milk (XC3)|Fresh Armu Milk]]&lt;br /&gt;[[Caterpile Syrup (XC3)|Caterpile Syrup]]&lt;br /&gt;[[Twooth Clover]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+| Lifebearer IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Red Piranhax Egg]]&lt;br /&gt;[[Golden Brog Oil]]&lt;br /&gt;[[Ottil's Treasured Bivavle|Ottil's Treasured Bivalve]]&lt;br /&gt;[[Aldae Evridae]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Lifebearer V
+|Pure Gemstone&lt;br /&gt;[[Gastrates Ether Furnace]] x 2&lt;br /&gt;[[Quality Red Krodlax Meat]] x 2&lt;br /&gt;[[Fatty Serprond Fillet]] x 2&lt;br /&gt;[[Silent Wood (XC3)|Silent Wood]]&lt;br /&gt; Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Lifebearer VI 
+|Pure Gemstone&lt;br /&gt;[[Aries Fur]] x 2&lt;br /&gt;[[Skeeter Honey]] x 2&lt;br /&gt;[[Full-Bodied Ardun Meat]] x 2&lt;br /&gt;[[Heavy Pomegranate]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Lifebearer VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[White Rhana Liver]] x 2&lt;br /&gt;[[Gulkin Seaweed Snack]] x 2&lt;br /&gt;[[Imperial Taos Egg]] x 3&lt;br /&gt;Fatty Serprond Fillet x 3&lt;br /&gt;[[Golden Beetroot (XC3)|Golden Beetroot]]&lt;br /&gt;Ether Cylinder x 2 
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Lifebearer VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Gulkin Shell Amulet]] x 15&lt;br /&gt;Caterpile Syrup x 15&lt;br /&gt;[[Preserved Gogol Snack]] x 15&lt;br /&gt;Aries Fur x 15&lt;br /&gt;[[Thousand Carrot]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+| Lifebearer IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Tirkin Seasoning]] x 20&lt;br /&gt;[[Arachno Queen Egg]] x 20&lt;br /&gt;[[Horrish Amplifier]] x 20&lt;br /&gt;[[Ornate Moglum Coral]] x 20&lt;br /&gt;[[Royal Red Scallop]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Lifebearer X 
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Silver Ravoon Bone]] x 30&lt;br /&gt;Large Flamii Egg x 30&lt;br /&gt;Imperial Taos Egg x 30&lt;br /&gt;[[Moglum Lamp]] x 30&lt;br /&gt;[[Quadwing's Indulgence]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Lifebearer I
+| [[Gemstone]]&lt;br /&gt;[[Bunnit Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Lifebearer II
+| Gemstone&lt;br /&gt;[[Preserved Gogol Snack]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Lifebearer III
+| [[Pure Gemstone]]&lt;br /&gt;[[Imperial Taos Egg]] x2&lt;br /&gt;[[Powdered Skwaror Leaves]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Lifebearer IV
+| Pure Gemstone&lt;br /&gt;[[Arachno Queen Egg]] x2&lt;br /&gt;[[Tirkin Seasoning]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Lifebearer V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Gastrates Gun Turret]]&lt;br&gt;[[Blessed Pippito Light]] x2&lt;br&gt;[[Nest Treacle]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>sef7xjzgytg7mz83b2oy4njqdahgty2</sha1>
+    </revision>
+  </page>
+  </mediawiki>

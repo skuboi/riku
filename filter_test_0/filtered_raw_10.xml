@@ -1,0 +1,1528 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bruna Stamm</title>
+    <ns>0</ns>
+    <id>121725</id>
+    <revision>
+      <id>598161</id>
+      <parentid>579973</parentid>
+      <timestamp>2023-07-04T16:44:46Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="fqa8fy06cd1xaupujemhay8iiymlb04" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bruna Stamm
+|image        = Bruna Stamm.jpg
+|caption      = Bruna Stamm
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 68-69
+|area         = [[Origin Interior]] ([[Hangar Zone]], [[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Bruna Stamms''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 68-69 in the [[Hangar Zone]] and [[Central Defense]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>fqa8fy06cd1xaupujemhay8iiymlb04</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bruna Zestamm</title>
+    <ns>0</ns>
+    <id>121726</id>
+    <revision>
+      <id>598176</id>
+      <parentid>579974</parentid>
+      <timestamp>2023-07-04T16:59:18Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="776" sha1="43wtwbsdapeaa2wkal9xa3ah5qyj77g" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bruna Zestamm
+|image        = Bruna Zestamm.jpg
+|caption      = Bruna Zestamm
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 69
+|area         = [[Origin Interior]] ([[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Bruna Zestamms''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 69 at the [[Central Defense]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>43wtwbsdapeaa2wkal9xa3ah5qyj77g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brutal Orb</title>
+    <ns>0</ns>
+    <id>125648</id>
+    <revision>
+      <id>577145</id>
+      <timestamp>2023-02-16T14:38:55Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Brutal Orb |image     =  |caption   = Boosts damage dealt while an ally is incapacitated by 125%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Brutal Orbs''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3 stub}}..."</comment>
+      <origin>577145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="585" sha1="2n2m7l8o2c9a7p39ni9tz4qr80szqaf" xml:space="preserve">{{Infobox item
+|name      = Brutal Orb
+|image     = 
+|caption   = Boosts damage dealt while an ally is incapacitated by 125%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Brutal Orbs''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>2n2m7l8o2c9a7p39ni9tz4qr80szqaf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brute Ansel</title>
+    <ns>0</ns>
+    <id>123156</id>
+    <revision>
+      <id>559588</id>
+      <parentid>553450</parentid>
+      <timestamp>2022-09-30T10:44:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="763" sha1="5g86f4nbuxqyj0pluvvj3bfnghr2nak" xml:space="preserve">{{Infobox Enemy
+|name         = Brute Ansel
+|image        = 
+|caption      = Brute Ansel
+|category     = Minor Enemy
+|type         = [[Ansel]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Brute Ansels''' are Minor Enemies in {{XC3}}. They are members of the [[Ansel]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>5g86f4nbuxqyj0pluvvj3bfnghr2nak</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brute Memory</title>
+    <ns>0</ns>
+    <id>122725</id>
+    <revision>
+      <id>592726</id>
+      <parentid>592441</parentid>
+      <timestamp>2023-05-15T20:12:35Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592726</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="580" sha1="5zklfhnr7hzam732wpx8p5mw3dn9j5d" xml:space="preserve">{{Infobox item
+|name      = Brute Memory
+|image     = XC3 Accessory Cap.png
+|caption   = 100% chance to survive a KO with 1 HP and five seconds of invincibility (once per battle, does not stack).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Brute Memories''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 30 [[Nopon Coin (Gold)|Gold Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>5zklfhnr7hzam732wpx8p5mw3dn9j5d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brute Rhogul</title>
+    <ns>0</ns>
+    <id>122985</id>
+    <revision>
+      <id>573454</id>
+      <parentid>559589</parentid>
+      <timestamp>2023-01-21T12:58:04Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="828" sha1="2uvd940blh8lon7chou196m72yzmh34" xml:space="preserve">{{Infobox Enemy
+|name         = Brute Rhogul
+|image        = 
+|caption      = Brute Rhogul
+|category     = Minor Enemy
+|type         = [[Rhogul]]
+|level        = 24
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Brute Rhoguls''' are Minor Enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level 24 at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3 Level 21-25 Enemies]]</text>
+      <sha1>2uvd940blh8lon7chou196m72yzmh34</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Budding Francis</title>
+    <ns>0</ns>
+    <id>118620</id>
+    <revision>
+      <id>583277</id>
+      <parentid>581065</parentid>
+      <timestamp>2023-04-17T15:16:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1429" sha1="a99izgiawc4v77j7sxh15r6qexpco5u" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Budding Francis
+|image        = XC3 Budding Francis.png
+|caption      = Budding Francis
+|category     = Unique Monster
+|type         = [[Amoney]]
+|level        = 32
+|area         = [[Great Cotte Falls]] ([[Titan Rock]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Swimming
+|detection    = 
+|exp          = 1,280
+|cp           = 700
+|sp           = 5
+|gold         = 972
+|hp           = 660,000
+|strength     = 607
+|healing      = 347
+|dexterity    = 108
+|agility      = 89
+|physdef      = -5%
+|ethdef       = 25%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Budding Francis''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Amoney]] family and can be found at level 32 near [[Titan Rock]] in [[Great Cotte Falls]]. The "Spiritual Absorber" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 25%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+==Gallery==
+&lt;gallery&gt;
+Budding francis location.png
+Budding francis.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Amoneys]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>a99izgiawc4v77j7sxh15r6qexpco5u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Buffeting Necklace</title>
+    <ns>0</ns>
+    <id>118925</id>
+    <revision>
+      <id>592727</id>
+      <parentid>592351</parentid>
+      <timestamp>2023-05-15T20:12:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592727</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1068" sha1="hy40vgh3lc7nlt2f182fpou77nh5bi7" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Buffeting Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 20% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Buffeting Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 21% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Buffeting Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 22% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Buffeting Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>hy40vgh3lc7nlt2f182fpou77nh5bi7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bullet Hail</title>
+    <ns>0</ns>
+    <id>117813</id>
+    <revision>
+      <id>591879</id>
+      <parentid>580996</parentid>
+      <timestamp>2023-05-14T14:35:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="565" sha1="1gjlqn4pyxngtcscd2eo6w43itja43r" xml:space="preserve">{{Infobox battle art
+|name        = Bullet Hail
+|image       = Strm_order_thumb022_0.png
+|who         = [[Valdi]]
+|class       = [[War Medic]]
+|attribute   = Ether Attack
+|target      = 
+|distance    = 
+|numhits     = 4
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Heals all allies for 40% HP and grants them Regenerate.
+|duration    = 
+|recharge    = 
+}}
+'''Bullet Hail''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Valdi]]'s Chain art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>1gjlqn4pyxngtcscd2eo6w43itja43r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bunez Vollgull</title>
+    <ns>0</ns>
+    <id>121925</id>
+    <revision>
+      <id>589190</id>
+      <parentid>561901</parentid>
+      <timestamp>2023-05-05T01:29:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>589190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="988" sha1="cyspren3kc0nrq8ae2h1m3s8mle1h1d" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Bunez Vollgull
+|image        = XC3 Bunez Vollgull.png
+|caption      = Bunez Vollgull
+|category     = Minor Enemy
+|type         = [[Vollgull]]
+|level        = 65-66
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    =  
+}}
+'''Bunez Vollgulls''' are Minor Enemies in {{XC3}}. They are members of the [[Vollgull]] family, and can be found at level 65-66 in [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Vollgulls]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>cyspren3kc0nrq8ae2h1m3s8mle1h1d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bunnit</title>
+    <ns>0</ns>
+    <id>3247</id>
+    <revision>
+      <id>601950</id>
+      <parentid>600712</parentid>
+      <timestamp>2023-07-22T12:19:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4817" sha1="6rf6xox8ld2tkqohbnb0dlrtbosqrzc" xml:space="preserve">[[File:Plane Bunnit.png|thumb|A Plane Bunnit]]
+'''Bunnits''' (Japanese: {{lang|ja|&#12496;&#12491;&#12483;&#12488;}}, ''Banitto'') are a very common species of enemy in the {{XC|serieslink}}. They resemble rabbit-like creatures but with a prehensile appendage on the end of their long tails.
+
+== {{XC|-}} ==
+They are similar to [[Bunniv]] and [[Bunnia]], but they are found specifically at [[Colony 9 (XC1)|Colony 9]], [[Bionis' Leg]] or [[Kneecap Hill]] in [[Tephra Cave]]. In other words, Bunnits are suited to grassy habitats. Bunnits have a tail with a hand on the end, which can either be used to grab things, hit opponents, or generally act like a hand or arm. The tail-arm may hold a weapon, depending on the type of Bunnit.
+
+=== Normal Minor Enemies ===
+* [[Arm Bunnit (XC1)|Arm Bunnit]]
+* [[Craft Bunnit]]
+* [[Hand Bunnit (XC1)|Hand Bunnit]]
+* [[Junk Bunnit]]
+* [[Knuckle Bunnit (XC1)|Knuckle Bunnit]]
+* [[Little Bunnit (XC1)|Little Bunnit]]
+* [[Maker Bunnit]]
+* [[Plane Bunnit]]
+* [[Slugger Bunnit (XC1)|Slugger Bunnit]]
+* [[Wood Bunnit (XC1)|Wood Bunnit]]
+
+=== Quest Exclusive Enemy ===
+* [[Fiendish Bunnit]] (during ''[[Pestering Paola]]'')
+
+=== Unique Monsters ===
+* [[Evil Rhangrot]]
+* [[Speedy Ramshyde]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Little Bunnit (XC1)|Little Bunnit]]
+* [[Wood Bunnit (XC1)|Wood Bunnit]]
+
+=== Unique Monster ===
+* [[Phlegmatic Jamir]]
+
+== {{XC2|-}} ==
+Bunnits occur primarily in [[Gormott Province]], although can also be found on other [[Titan]]s. Unlike in {{XC|-}}, Bunnits appear in a variety of colors and encompass enemies that resemble Bunnivs and Bunnias too.
+
+=== Normal Minor Enemies ===
+* [[Clap Bunnit]]
+* [[Flow Bunnit]]
+* [[Fubbl Bunnit]]
+* [[Levma Bunnit]]
+* [[Little Bunnit (XC2)|Little Bunnit]]
+* [[Nairoo Bunnit (XC2)|Nairoo Bunnit]]
+* [[River Bunnit]]
+* [[Ruffian Bunnit (XC2)|Ruffian Bunnit]]
+* [[Sandi Bunnit]]
+* [[Snowdol Bunnit]]
+* [[Spanner Bunnit]]
+* [[Wood Bunnit (XC2)|Wood Bunnit]]
+
+=== Story Exclusive Enemy ===
+* [[Fact Bunnit (XC2)|Fact Bunnit]]
+
+=== Unique Monster ===
+* [[Moonlighting Elwyn]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Lector Bunnit]]
+* [[Mighty Bunnit]]
+
+== {{TTGC|-}} ==
+Bunnits occur both in the [[Kingdom of Torna]] and [[Gormott (TTGC)|Gormott]]. No white Bunnits are seen.
+
+=== Normal Minor Enemies ===
+* [[Evoke Bunnit]]
+* [[Foray Bunnit]]
+* [[Noggle Bunnit]]
+* [[Pinch Bunnit]]
+
+=== Unique Monster ===
+* [[Ravine Bunnit]]
+
+== {{XC3|-}} ==
+Bunnits appear throughout [[Aionios]].
+
+=== Normal Minor Enemies ===
+* [[Alderra Bunnit]]
+* [[Arm Bunnit (XC3)|Arm Bunnit]]
+* [[Dingaa Bunnit]]
+* [[Exxuno Bunnit]]
+* [[Fact Bunnit (XC3)|Fact Bunnit]]
+* [[Gragran Bunnit]]
+* [[Grapple Bunnit]]
+* [[Grave Bunnit]]
+* [[Hand Bunnit (XC3)|Hand Bunnit]]
+* [[Hitter Bunnit]]
+* [[Island Bunnit]]
+* [[Knuckle Bunnit (XC3)|Knuckle Bunnit]]
+* [[Little Bunnit (XC3)|Little Bunnit]]
+* [[Machinok Bunnit]]
+* [[Mizruto Bunnit]]
+* [[Naberius Bunnit]]
+* [[Nairoo Bunnit (XC3)|Nairoo Bunnit]]
+* [[Ragora Bunnit]]
+* [[Ruffian Bunnit (XC3)|Ruffian Bunnit]]
+* [[Slugger Bunnit (XC3)|Slugger Bunnit]]
+* [[Varran Bunnit]]
+* [[Voppa Bunnit]]
+* [[Wood Bunnit (XC3)|Wood Bunnit]]
+
+=== Unique Monsters ===
+* [[Puzzled Raquinu]]
+* [[Sycophantic Lilith]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Alderra Bunnit]]
+* [[Knuckle Bunnit (XC3)|Knuckle Bunnit]]
+* [[Little Bunnit (XC3)|Little Bunnit]]
+* [[Nairoo Bunnit (XC3)|Nairoo Bunnit]]
+* [[Wood Bunnit (XC3)|Wood Bunnit]]
+
+=== Quest Exclusive Bosses ===
+* [[Obster Bunnit]] (During ''[[Georgie's Ask]]'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Junk Bunnit.jpg|Junk Bunnit
+Wood Bunnit.jpg|Wood Bunnit
+Little Bunnit.jpg|Little Bunnit
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Lector Bunnit.jpg|Lector Bunnit
+MoonlightingElwyn.jpg|Moonlighting Elwyn
+Levma Bunnit.png|Levma Bunnit
+Sandi Bunnit.png|Sandi Bunnit
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Pinch Bunnit.jpg|Pinch Bunnit
+Noggle Bunnit.jpg|Noggle Bunnit
+Evoke Bunnit.jpg|Evoke Bunnit
+Foray Bunnit.jpg|Foray Bunnit
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Puzzled Raquinu.png|Puzzled Raquinu
+XC3 Syncophantic Lilith.png|Sycophantic Lilith
+Little Bunnit (XC3).png|Little Bunnit
+Wood Bunnit (XC3).png|Wood Bunnit
+Hand Bunnit (XC3).png|Hand Bunnit
+&lt;/gallery&gt;
+
+[[de:Hasit]]
+[[Category:XC Species]]
+[[Category:XCFC Species]]
+[[Category:Bionis Life]]
+[[Category:XC Bunnits]]
+[[Category:XCFC Bunnits]]
+[[Category:Quadrupedal Enemies]]
+[[Category:XC2 Bunnits]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:XC2 Affinity Chart Enemies]]
+[[Category:TTGC Species]]
+[[Category:TTGC Bunnits]]
+[[Category:TTGC Beasts]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Bunnits]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Bunnits]]
+[[Category:Species by Type]]</text>
+      <sha1>6rf6xox8ld2tkqohbnb0dlrtbosqrzc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bunnit Choker (XC3)</title>
+    <ns>0</ns>
+    <id>118926</id>
+    <revision>
+      <id>592728</id>
+      <parentid>592556</parentid>
+      <timestamp>2023-05-15T20:12:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592728</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1061" sha1="io3sk4x05gat8d8i5nje8link9lghdg" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Bunnit Choker (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Bunnit Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts aggro reduction over time by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Bunnit Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts aggro reduction over time by 65%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Bunnit Choker
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts aggro reduction over time by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Bunnit Chokers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>io3sk4x05gat8d8i5nje8link9lghdg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Buoyant Grebel</title>
+    <ns>0</ns>
+    <id>123174</id>
+    <revision>
+      <id>596006</id>
+      <parentid>559591</parentid>
+      <timestamp>2023-06-16T19:45:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596006</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1058" sha1="63sys7hctpbdfmo5asoj3y5cgc34rll" xml:space="preserve">{{Infobox Enemy
+|name         = Buoyant Grebel
+|image        = 
+|caption      = Buoyant Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Buoyant Grebels''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Grebel]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Grebels]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>63sys7hctpbdfmo5asoj3y5cgc34rll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Burst</title>
+    <ns>0</ns>
+    <id>117826</id>
+    <revision>
+      <id>595605</id>
+      <parentid>595486</parentid>
+      <timestamp>2023-06-15T17:53:35Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595605</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="h8xatft0twbjr3m6eki3uvd33qmc0lb" xml:space="preserve">[[File:XC3 Burst Icon.png|thumb|Burst Icon]]
+'''Burst''' is a reaction status in {{XC3}} and {{XC3FR|sublink}}. When an enemy affected by [[Daze (XC3)|Daze]], or [[Launch (XC3)|Launch]] in {{XC3FR|sub}}, is afflicted by the Burst status, it is launched a short distance away, causing it to drop several items and temporarily removing its [[Enraged]] effects (should they be present).
+
+== Burst-inflicting Arts ==
+* [[Dominion Flower]] ([[Mio]] Only)
+* [[Demise Thrust]] ([[Thaumaturge]])
+* [[Way Home]] ([[Troubadour]], Master Art)
+* [[Lurking Spider]] ([[Taion]], [[Ouroboros]])
+* [[Psychowave]] ([[Soulhacker]], acquired by defeating [[Obliterator Centaurio]])
+
+== In {{XC3FR|sub}} ==
+=== Burst-inflicting Arts ===
+* Monado Crash [[Unity|Unity Combo]]
+* Slash Bomb Unity Combo
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>h8xatft0twbjr3m6eki3uvd33qmc0lb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bushwhacker Farritt</title>
+    <ns>0</ns>
+    <id>119447</id>
+    <revision>
+      <id>581064</id>
+      <parentid>581053</parentid>
+      <timestamp>2023-03-31T12:54:31Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <origin>581064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1473" sha1="j3b3jm1n1m73fvw89039ecbqsf2898q" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Bushwhacker Farritt
+|image        = XC3 Bushwhacker Farritt.png
+|caption      = Bushwhacker Farritt
+|type         = [[Levnis]]
+|level        = 48
+|area         = [[Urayan Trail]] ([[Mountain Front: Agnus]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 3,238
+|cp           = 805
+|sp           = 5
+|gold         = 5,075
+|hp           = 1,450,500
+|strength     = 1,047
+|healing      = 400
+|dexterity    = 168
+|agility      = 151
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Bushwhacker Farritt''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is an [[Agnus|Agnian]] [[Levnis]], and can be found at level 48 near [[Mountain Front: Agnus]] on the [[Urayan Trail]]. The "Reserve Life" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune 
+|physdebuff  = 60%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Bushwacker farritt location.png
+Bushwacker farritt.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>j3b3jm1n1m73fvw89039ecbqsf2898q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cadine Grebel</title>
+    <ns>0</ns>
+    <id>123175</id>
+    <revision>
+      <id>559592</id>
+      <parentid>553496</parentid>
+      <timestamp>2022-09-30T10:44:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559592</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="772" sha1="dl7b7b6txmb131f5npe4zhdrvq673ha" xml:space="preserve">{{Infobox Enemy
+|name         = Cadine Grebel
+|image        = 
+|caption      = Cadine Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Cadine Grebels''' are Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>dl7b7b6txmb131f5npe4zhdrvq673ha</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Caelum Feris</title>
+    <ns>0</ns>
+    <id>121085</id>
+    <revision>
+      <id>559593</id>
+      <parentid>545412</parentid>
+      <timestamp>2022-09-30T10:44:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559593</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="789" sha1="dnszmxbp6nnyinah7y980epcmdtpbw7" xml:space="preserve">{{Infobox Enemy
+|name         = Caelum Feris
+|image        = 
+|caption      = Caelum Feris
+|category     = Minor Enemy
+|type         = [[Feris]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Caelum Feris''' are Minor Enemies in {{XC3}}. They are members of the [[Feris]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>dnszmxbp6nnyinah7y980epcmdtpbw7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Calm Camill</title>
+    <ns>0</ns>
+    <id>121062</id>
+    <revision>
+      <id>598277</id>
+      <parentid>595237</parentid>
+      <timestamp>2023-07-04T18:01:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1570" sha1="is38fe6c58hx46917mkvhrea5khewte" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Calm Camill
+|image        = Calm Camill XC3.jpg
+|caption      = Calm Camill
+|category     = Normal Minor Enemy
+|type         = [[Camill]]
+|level        = 13-14
+|area         = [[Eagus Wilderness]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Calm Camills''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Camill]] family, and can be found at level 13-14 in the [[Eagus Wilderness]] of the [[Fornis Region]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Calm Camill
+|image        = Calm Camill FR.jpg
+|caption      = Calm Camill
+|category     = Normal Minor Enemy
+|type         = [[Camill]]
+|level        = 9-12
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Calm Camills''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Camill]] family, and can be found at level 9-12 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Camills]]
+[[Category:XC3FR Camills]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3FR Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>is38fe6c58hx46917mkvhrea5khewte</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Camill</title>
+    <ns>0</ns>
+    <id>75808</id>
+    <revision>
+      <id>601954</id>
+      <parentid>600714</parentid>
+      <timestamp>2023-07-22T12:19:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601954</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1596" sha1="khh5fheszo4stunjjxqcvucbj5gs0m1" xml:space="preserve">[[file:LeafCamil.jpg|thumb|Leaf Camill]]
+'''Camills''' are equine enemies in the {{XC|serieslink}}. They resemble a horse and bird-like hybrid creature with a slender face, and come in green and blue varieties.
+
+== {{XC2|-}} ==
+In {{XC2}}, Camills can only be found in [[Gormott Province]] and the [[Leftherian Archipelago]]. All Camills are normal minor enemies.
+
+* [[Garnia Camill]]
+* [[Leaf Camill]]
+
+== {{TTGC|-}} ==
+In {{TTGC}}, Camills reside in both the [[Lasaria Region]] of the [[Kingdom of Torna]] and [[Gormott (TTGC)|Gormott]]. All Camills are normal minor enemies, and only the green variety are seen.
+
+* [[Ingle Camill]]
+* [[Nemus Camill]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Camills appear in the world of [[Aionios]].
+
+=== Normal Minor Enemies ===
+* [[Calm Camill]]
+* [[Glaw Camill]]
+* [[Ormide Camill]]
+* [[Segaro Camill]]
+* [[Sodorio Camill]]
+* [[Solshiss Camill]]
+
+=== Unique Monster ===
+* [[Sharpwitted Tracy]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Calm Camill]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+GarniaCamill.jpg|Garnia Camill (blue)
+Nemus.jpg|Nemus Camill (green)
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Glaw Camill.png|Glaw Camill
+Sharpwitted Tracy.png|Sharpwitted Tracy
+&lt;/gallery&gt;
+
+[[Category:XC2 Beasts]]
+[[Category:XC2 Species]]
+[[Category:XC2 Camills]]
+[[Category:TTGC Species]]
+[[Category:TTGC Camills]]
+[[Category:TTGC Beasts]]
+[[Category:XC3 Species]]
+[[Category:XC3 Camills]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Camills]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Camills]]
+[[Category:Species by Type]]</text>
+      <sha1>khh5fheszo4stunjjxqcvucbj5gs0m1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cammuravi</title>
+    <ns>0</ns>
+    <id>116809</id>
+    <revision>
+      <id>600216</id>
+      <parentid>598057</parentid>
+      <timestamp>2023-07-20T17:38:29Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added ENG IMDB link</comment>
+      <origin>600216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9717" sha1="2mmv9uv54hs1tgoagoz6xqno6w6numk" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Cammuravi
+|image        = Cammuravi portrait artwork.png
+|species      = [[Agnus|Agnian]] human
+|age          = 10th Term
+|gender       = Male
+|haircolor    = Brown, Orange
+|eyecolor     = Red
+|affiliation  = [[Colony Delta]] (formerly)&lt;br/&gt;[[Colony Omega]] (formerly)&lt;br/&gt;[[City]]
+|voiceactorjp = [[wikipedia:Taiten Kusunoki|Taiten Kusunoki]]
+|voiceactoreng= [https://www.imdb.com/name/nm3598161/ Shai Matheson]
+|appearances  = {{XC3}}
+}}
+'''Smoldering Cammuravi''' (Japanese: {{Lang|jp|&#32005;&#34030;&#12398;&#12459;&#12512;&#12490;&#12499;}}, ''Guren no Kamunabi''), is a character in {{XC3}}.
+
+== Overview ==
+Cammuravi is the commander of the [[Agnus|Agnian]] [[Colony Delta]].&lt;ref&gt;[https://topics.nintendo.co.jp/article/3ced4c9d-a5e1-43a3-b16e-0005971ed404 Nintendo]&lt;/ref&gt; He is a mighty general who values respect in combat, and his fiery passion on the battlefield has earned him the name "Smoldering Cammuravi". He wields a fiery spear during combat.&lt;ref&gt;https://twitter.com/nintendoeurope/status/1523951004802330625&lt;/ref&gt;
+
+He and [[Ethel]] are sworn rivals, but despite their opposing sides they have come to respect each others' prowess in battle.
+
+Cammuravi is unlocked as a [[Hero]] after completing the [[Hero Quest]] ''[[A Twist of Fate]]''. His [[Class Rank (XC3)|Class Rank]] is increased to 20 by reaching rank 10 in both Seraph and [[Flash Fencer]] classes, and going to the now-unlocked lab in Colony Omega.
+
+== Story ==
+At one point in the past, Ethel bested him in a [[Ferronis]] duel but refused to kill him, as his Ferronis' joints had failed due to a lack of maintenance and she wished to have a fair fight with him. Colony 4 was reduced to Dirt rank to punish her for this. 
+
+Cammuravi is forced to work with Ethel to kill Noah and his allies, using specially made [[Cammuravi's Ferronis|Ferronis]] made by the [[Consul]]s, but when the Consuls [[O]] and [[P]] notice that they are holding back they try to hack Cammuravi's Iris just as [[K]] did with Ethel. However, he gouges out his own eye to stop them from taking control of his mind and declares that he will not be the Consuls' slave. The Consuls begin draining his and Ethel's life force as punishment for defying them, but they ultimately choose to die on their own terms in a final duel. 
+
+He is later reborn and rapidly aged to his final term as part of [[Y]]'s experiments and is forced to fight the party alongside [[Miyabi]], [[Hackt]] and [[Mwamba]]. After he is freed from Y's control, the party and the [[Lost Numbers]] bring him back to the [[City]] where they learn that the reborn Ethel has escaped from her pod. Cammuravi helps the party track down Ethel and feeling a sense of obligation, decides to look after her. Despite having no knowledge of his past life, he instinctively recognizes Ethel when they meet again. After Ethel matures back to her tenth term form, Cammuravi mutters Ethel's old nickname "Silvercoat" upon seeing fully matured Ethel, despite neither of them knew what it means, and Cammuravi also do not understand why he has a sensational feeling.
+
+Cammuravi later joins Noah and his allies in their final battle against [[Z&#8734;]], where alongside all of the other [[Hero]]es they encountered on their journey, he can be summoned by [[Melia]] and [[Nia]] to help fight against [[X&#8734;]] or [[Y&#8734;]].
+
+== Personality ==
+Cammuravi is an honorable warrior. He dutifully completes his assignments no matter what they may be. However, his dream of having a duel to the death with Ethel overrides his sense of responsibility, as he openly resisted the Consul's control in order to have that final duel. This dream left a lingering memory in his next life, as Cammuravi found himself inexplicably drawn towards the re-born Ethel. Cammuravi carries himself in a calm demeanor and frequently meditates to pass the time or remain calm. He has a fear of heights and flying.
+
+== Gameplay ==
+His class is [[Seraph]], an [[Agnus]] [[Attacker]] class. He specializes in doing massive damage with his [[Blade (XC3)|Heatshimmer Spear]], at the cost of dealing damage to himself as well.
+
+=== Arts ===
+*'''[[Empyrean Salvo (XC3)|Empyrean Salvo]]''', AOE / [[Blaze (XC3)|Blaze]] / Awakened+ (Talent Art)
+*'''[[Crimson Lance]]''', Side [[Topple (XC3)|Topple]]
+*'''[[Sturm und Drang]]''', High Crit. Rate/Dmg self
+*'''[[Heavenly Spear]]''', AOE/Dmg to self/Blaze
+*'''[[Leveling Fire]]''', Attack boost/Damage to self
+*'''[[Searing Fury]]''', Fast Recharge
+
+His [[Chain Attack (XC3)|Chain Art]] is [[The Indomitable]], which grants attack up to all allies, and increases damage ratio by X%, where X increases with Cammuravi's level. His Heroic Chain bonus multiplies [[Tactical Points|TP]] by 200% when first in line to attack, but TP returns to pre-action state upon reactivation.
+
+=== Base Stats ===
+These are Cammuravi's raw stats prior to modifications by class. They serve as a baseline for calculating his stats in the Seraph class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 274 || 16 || 13 || 32 || 20
+|-
+| 99 || 6,839 || 402 || 320 || 324 || 197
+|}
+
+=== General Stats ===
+These stats assume Cammuravi is at rank 20 in his class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Cammuravi has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||219||41 (+20)||1||32 (+20)||17||15%||5%||20%||10%
+|-
+| 99, base||5,471||1,183 (+70)||48||324 (+45)||167||25%||10%||20%||10%
+|-
+| 99, with default accessories||5,471||1,183 (+70)||48||324 (+45)||167||30%||10%||20%||10%
+|}
+
+Cammuravi equips the following gems:
+* [[Steelcleaver]]
+* [[Accurate Grace]], at level 20 onwards
+* [[Analyze Weakness]], at level 40 onwards
+
+Cammuravi equips the following accessories as his default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Whirlwind Necklace]]
+* [[Ice Headband (XC3)|Ice Headband]], at level 30 onwards
+* [[Diamond (XC3)|Diamond]], at level 50 onwards
+
+== Affinity ==
+* [[Ethel]]
+* [[Travis]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Smoldering Cammuravi
+|image        = 
+|caption      = Smoldering Cammuravi
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 53
+|area         = [[Captocorn Peak]] ([[Colony Omega]])
+|spawntime    = During ''[[Side Story: Mio]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 30,000
+|cp           = 150
+|hp           = 316,440
+|strength     = 462
+|dexterity    = 162
+|agility      = 174
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Smoldering Cammuravi''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is an [[Agnus Forces|Agnus Soldier]] who is fought at level 53 in [[Colony Omega]] on [[Captocorn Peak]] during ''[[Side Story: Mio]]''.
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Smoldering Cammuravi
+|image        = 
+|caption      = Smoldering Cammuravi
+|type         = [[Agnus Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 75
+|detection    = 
+|spawntime    = During ''[[Double Jeopardy]]''
+|respawn      = No
+|hp           = 2,332,200
+|strength     = 625
+|dexterity    = 275
+|agility      = 215
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+Smoldering Cammuravi is fought at level 75 alongside [[Ethel#Challenge Battle Mode|Silvercoat Ethel]] during the [[Challenge Battle Mode|Challenge Battle]] ''[[Double Jeopardy]]''.
+{{clr}}
+
+=== See also ===
+* [[Cammuravi's Ferronis]]
+
+== Etymology ==
+Cammuravi may be a reference to [[wikipedia:Hammurabi|Hammurabi]], the sixth king of the First Babylonian dynasty of the Amorite tribe, and well known for the [[wikipedia:Code of Hammurabi|Code of Hammurabi]].  
+
+His Japanese name, Kamunabi, may also be a reference to the word &#31070;&#22856;&#20633;, meaning the mountains and forests where the gods are said to dwell in.
+
+== Trivia == 
+* Cammuravi and Ethel are the only non-DLC Heroes in {{XC3|-}} to not have an Ascension Quest. Both are also the only two Heroes to share the same Ascension condition. 
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Cammuravi Artwork.jpeg
+XC3 Cammuravi Artwork.png|Official Artwork Of Cammuravi
+Cammuravi Concept art.png|Cammuravi's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Cammuravi Hero Icon.png|Hero List Icon
+Strm order thumb017 0.png
+Cammuravi Level Up Art.png
+Icon chara 10.png
+Icon chara battle 10.png
+Strm npc 239 0.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Cammuravi Trailer.png
+Cammuravi01.jpg
+Cammuravi02.jpg
+Cammuravi03.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:Cammuravi]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Heroes]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>2mmv9uv54hs1tgoagoz6xqno6w6numk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cammuravi's Ferronis</title>
+    <ns>0</ns>
+    <id>121172</id>
+    <revision>
+      <id>595839</id>
+      <parentid>579770</parentid>
+      <timestamp>2023-06-16T15:05:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>595839</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1181" sha1="cv3yprhct2ksdi5ec8f5e3qft890ctr" xml:space="preserve">{{Spoiler}}
+{{Infobox XC3 Enemy
+|name         = Cammuravi's Ferronis
+|image        = Cammuravi Ferronis.jpg 
+|caption      = Cammuravi's Ferronis
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Ferronis]]
+|level        = 35
+|area         = [[High Maktha Wildwood]] ([[Engardo Pass]])
+|spawntime    = Anytime
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Cammuravi's Ferronis''' is a [[Boss (XC3)|Boss]] in {{XC3}}. [[Cammuravi]] pilots this [[Ferronis]] made by the [[Consul]]s to have him and [[Ethel]] defeat [[Ouroboros]]. It is fought alongside [[Ethel's Ferronis]] at level 35 at [[Engardo Pass]] in [[High Maktha Wildwood]].
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Cammuravi02.jpg
+Cammuravi03.jpg
+Cammuravi01.jpg|Cammuravi's last moment
+Ferronis destroyed.jpg|Ethel and Cammuravi's Ferronis destroyed and left behind
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ferronis Enemies]]
+[[Category:Cammuravi]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>cv3yprhct2ksdi5ec8f5e3qft890ctr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Candela Taos</title>
+    <ns>0</ns>
+    <id>123226</id>
+    <revision>
+      <id>596007</id>
+      <parentid>584184</parentid>
+      <timestamp>2023-06-16T19:45:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596007</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1070" sha1="0scszgfnfqop1xyrsiocxcysee9hkby" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Candela Taos
+|image        = Candela Taos.jpg
+|caption      = Candela Taos
+|category     = Normal Enemy
+|type         = [[Taos]]
+|level        = 46-51
+|area         = [[Great Sword's Base]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Candela Taos''' are Normal Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Taos]] family, and can be found at level 46-51 at the [[Great Sword's Base]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Taos]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Taos]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>0scszgfnfqop1xyrsiocxcysee9hkby</sha1>
+    </revision>
+  </page>
+  </mediawiki>

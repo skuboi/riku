@@ -1,0 +1,2451 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wing Necklace</title>
+    <ns>0</ns>
+    <id>119032</id>
+    <revision>
+      <id>592908</id>
+      <parentid>592434</parentid>
+      <timestamp>2023-05-15T20:21:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592908</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1066" sha1="phuqzs78b4nr31lokcd8yt5xc7m9rv7" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Wing Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Recovers 40% of recharge for own Arts upon reviving an ally.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1730 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Wing Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Recovers 45% of recharge for own Arts upon reviving an ally.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1730 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Wing Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Recovers 50% of recharge for own Arts upon reviving an ally.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1730 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Wing Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>phuqzs78b4nr31lokcd8yt5xc7m9rv7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wintry End</title>
+    <ns>0</ns>
+    <id>124381</id>
+    <revision>
+      <id>591907</id>
+      <parentid>581015</parentid>
+      <timestamp>2023-05-14T14:36:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="586" sha1="npadac8w3riyumymls3m0fff3payuke" xml:space="preserve">{{Infobox battle art
+|name        = Wintry End
+|image       = Strm order thumb013 0.png
+|who         = [[Ethel]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Increases damage ratio by 100-200 percentage points and grants Critical Rate Up to all allies.
+|duration    = 
+|recharge    = 
+}}
+'''Wintry End''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Ethel]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>npadac8w3riyumymls3m0fff3payuke</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wira Nos</title>
+    <ns>0</ns>
+    <id>121747</id>
+    <revision>
+      <id>598146</id>
+      <parentid>579961</parentid>
+      <timestamp>2023-07-04T16:14:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1100" sha1="o6i7mi6ogm461juwzpgdohzqxcw7tj3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Wira Nos
+|image        = Wira Nos.jpg
+|caption      = Wira Nos
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 65-67
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], [[South Sector Passage]], [[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Wira Nos''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 65-67 at [[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], the [[South Sector Passage]], and the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>o6i7mi6ogm461juwzpgdohzqxcw7tj3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wira Zoonos</title>
+    <ns>0</ns>
+    <id>121748</id>
+    <revision>
+      <id>598095</id>
+      <parentid>579962</parentid>
+      <timestamp>2023-07-04T14:55:19Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1112" sha1="os3p4j6okpjyl1jlz1k64yi0a8fazgc" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Wira Zoonos
+|image        = Wira Zoonos.jpg
+|caption      = Wira Zoonos
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 65-67
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], [[South Sector Passage]], [[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Wira Zoonos''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 65-67 at [[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 3|Ferronis Arsenal #3]], the [[South Sector Passage]], and the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>os3p4j6okpjyl1jlz1k64yi0a8fazgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wisp</title>
+    <ns>0</ns>
+    <id>6140</id>
+    <revision>
+      <id>602157</id>
+      <parentid>600839</parentid>
+      <timestamp>2023-07-22T12:30:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2228" sha1="97xxmovpurqdxbnpjrzgp9lpba8r3qj" xml:space="preserve">[[File:Night Wisp.jpg|thumb|Wisp model]] 
+'''Wisps''' (Japanese: {{lang|ja|&#12521;&#12531;&#12503;&#12473;}}, ''Ranpusu'') are flying enemies in the {{XC|serieslink}}. They resemble fireflies or wasps, and mainly come out at night. They light up in the night air, making it easier to spot them from a distance. They are similar in size to [[Skeeter]]s and [[Flier]]s. All Wisps have the same appearance.
+
+== {{XC|-}} ==
+Wisps are found in [[Tephra Cave]], on [[Bionis' Leg]], outside [[Colony 6]], and on the [[Fallen Arm]].
+
+The most powerful Wisp is the Femuny Wisp, which is level 90, and resides in Tephra Cave. There are several species of Wisps.
+
+=== Normal Minor Enemies ===
+* [[Bunker Wisp]]
+* [[Colony Wisp]]
+* [[Femuny Wisp]]
+* [[Flash Wisp]]
+* [[Light Wisp]]
+* [[Night Wisp]]
+* [[Tramont Wisp]]
+
+=== Quest Exclusive Enemies ===
+* [[Bright Wisp]] (during ''[[Power Up!]]'')
+* [[Dim Wisp]] (during ''[[Jackson the Poet]]'')
+
+=== Unique Monster ===
+* [[Night Cardamon]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Light Wisp]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemy ===
+* [[Sugar Wisp]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Nesting Wisp]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Klaret Wisp]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Amity Wisp]]
+* [[Illumi Wisp]]
+* [[Kroda Wisp]]
+* [[Cave Wisp]]
+
+=== Unique Monster ===
+* [[Crafty Anskey]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Illumi Wisp]]
+
+== Gallery ==
+&lt;gallery&gt;
+Night wisp.png|Night Wisp in {{XC|-}}
+KlaretWisp.jpg|Klaret Wisp in {{TTGC|-}}
+&lt;/gallery&gt;
+
+[[Category:Flying Enemies]]
+[[Category:XC Wisps]]
+[[Category:Bionis Life]]
+[[Category:Species Category]]
+[[Category:Insect Enemies]]
+[[Category:Mechonis Life]]
+[[Category:XC Species]]
+[[Category:XCFC Species]]
+[[Category:XCFC Wisps]]
+[[Category:XC2 Wisps]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:XC2 Insects]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Wisps]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:TTGC Insects]]
+[[Category:XC3 Species]]
+[[Category:XC3 Wisps]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Wisps]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Wisps]]
+[[Category:Species by Type]]</text>
+      <sha1>97xxmovpurqdxbnpjrzgp9lpba8r3qj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Witchwind Kujjat</title>
+    <ns>0</ns>
+    <id>119409</id>
+    <revision>
+      <id>574731</id>
+      <parentid>574724</parentid>
+      <timestamp>2023-01-30T12:55:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574731</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1497" sha1="7n68pmdz28hyxsgb6lcesitc475g7e6" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Witchwind Kujjat
+|image        = XC3 Witchwind Kujjat.png
+|caption      = Witchwind Kujjat
+|type         = [[Ansel]]
+|level        = 59
+|area         = [[Everblight Plain]] ([[Rottswoe Battlescar]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 2,333
+|cp           = 148
+|sp           = 5
+|gold         = 1,130
+|hp           = 1,406,000
+|strength     = 1,396
+|ether        = 463
+|dexterity    = 292
+|agility      = 302
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+'''Witchwind Kujjat''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ansel]] family, and can be found at level 59 east of the [[Battlescar Ferronis Hulk]] at the [[Rottswoe Battlescar]] on [[Everblight Plain]]. The [[Trick Dart]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 40%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = 75%
+}}
+{{clr}}
+== Skills ==
+Witchwind Kujjat has a hidden innate skill:
+*Increases success rate of debuff effects by 25 percentage points.
+== Gallery ==
+&lt;gallery&gt;
+Witchwind kujjat location.png
+Witchwind kujjat.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ansels]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7n68pmdz28hyxsgb6lcesitc475g7e6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wizda Quadwing</title>
+    <ns>0</ns>
+    <id>121196</id>
+    <revision>
+      <id>594675</id>
+      <parentid>594669</parentid>
+      <timestamp>2023-05-31T12:34:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="828" sha1="h3sntznrdluyy8rzylop9oq5wdhmosz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Wizda Quadwing
+|image        = 
+|caption      = Wizda Quadwing
+|category     = Minor Enemy
+|type         = [[Quadwing]]
+|level        = 71-72
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Wizda Quadwings''' are Minor Enemies in {{XC3}}. They are members of the [[Quadwing]] family, and can be found at level 71-72 at [[Low Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h3sntznrdluyy8rzylop9oq5wdhmosz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wolder Caterpile</title>
+    <ns>0</ns>
+    <id>123215</id>
+    <revision>
+      <id>560001</id>
+      <parentid>553545</parentid>
+      <timestamp>2022-09-30T11:00:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>560001</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="nn5pd1m4twgsmp6tpcirwn6tlnquyp4" xml:space="preserve">{{Infobox Enemy
+|name         = Wolder Caterpile
+|image        = 
+|caption      = Wolder Caterpile
+|category     = Minor Enemy
+|type         = [[Caterpile]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Wolder Caterpiles''' are Minor Enemies in {{XC3}}. They are members of the [[Caterpile]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Caterpiles]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>nn5pd1m4twgsmp6tpcirwn6tlnquyp4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wood Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>117881</id>
+    <revision>
+      <id>594370</id>
+      <parentid>581981</parentid>
+      <timestamp>2023-05-27T14:56:12Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594370</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1668" sha1="1qsr9spfzgpotq6rma2fh2at8rld26u" xml:space="preserve">{{for|other uses|Wood Bunnit}}
+{{Infobox XC3 Enemy
+|name         = Wood Bunnit
+|image        = Wood Bunnit (XC3).png
+|caption      = Wood Bunnit
+|category     = Normal Enemy
+|type         = [[Bunnit]]
+|level        = 3
+|area         = [[Everblight Plain]]&lt;br/&gt;[[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Wood Bunnits''' are minor enemies in {{XC3}}. They are members of the [[Bunnit]] family and can be found at level 3 south of [[Riccalo Pond]] on the [[Everblight Plain]] and near [[Colony 9 Front Gate]] in [[Yzana Plains]].
+
+== Drops ==
+* [[Bunnit Meat]]
+* [[Dextrous Bunnit Tail]]
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Wood Bunnit
+|image        = Wood Bunnit FR.jpg
+|caption      = Wood Bunnit
+|category     = Normal Minor Enemy
+|type         = [[Bunnit]]
+|level        = 19
+|area         = [[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Wood Bunnits''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Bunnit]] family, and can be found at level 19 in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3FR Bunnits]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1qsr9spfzgpotq6rma2fh2at8rld26u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Work Belt</title>
+    <ns>0</ns>
+    <id>119033</id>
+    <revision>
+      <id>592909</id>
+      <parentid>592339</parentid>
+      <timestamp>2023-05-15T20:21:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592909</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="981" sha1="15le9efmi8a0kinyb4ri8etfk8rct98" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Work Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 70%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Work Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Work Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Work Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>15le9efmi8a0kinyb4ri8etfk8rct98</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Work Gloves</title>
+    <ns>0</ns>
+    <id>119034</id>
+    <revision>
+      <id>592910</id>
+      <parentid>592307</parentid>
+      <timestamp>2023-05-15T20:21:09Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1009" sha1="rw8lf54d6tep4t89re2wcflgaph89r6" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Work Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 10% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Work Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 11% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Work Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 12% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Work Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>rw8lf54d6tep4t89re2wcflgaph89r6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Worker Arachno (XC3)</title>
+    <ns>0</ns>
+    <id>121098</id>
+    <revision>
+      <id>560358</id>
+      <parentid>560003</parentid>
+      <timestamp>2022-10-03T16:40:57Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>for link</comment>
+      <origin>560358</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="854" sha1="q7j239reluug05xlaobtv1kno90mjn9" xml:space="preserve">{{for|the enemy in {{XC|-}}|Worker Arachno (XC1)}}
+{{Infobox Enemy
+|name         = Worker Arachno
+|image        = 
+|caption      = Worker Arachno
+|category     = Minor Enemy
+|type         = [[Arachno]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Worker Arachnos''' are Minor Enemies in {{XC3}}. They are members of the [[Arachno]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>q7j239reluug05xlaobtv1kno90mjn9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>World Ender</title>
+    <ns>0</ns>
+    <id>112526</id>
+    <revision>
+      <id>548198</id>
+      <parentid>544343</parentid>
+      <timestamp>2022-08-25T15:55:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>548198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1066" sha1="fi1jirehwsw30eere1ll7zycdacd23c" xml:space="preserve">{{Spoiler}}
+{{Infobox Equipment
+| name     = World Ender
+| image    = XC1DE-Melia-5.jpg
+| caption  = A staff that presages the end of an old age and heralds a new one.
+| type     = [[Melia's Staff]]
+| attack   = 245-340
+| physical = 0
+| ether    = 0
+| critical = 10%
+| block    = 3%
+| slots    = 1
+| sell     = 180 [[Gold|G]]
+}}
+The '''World Ender''' is a weapon in {{XCFC}}. It is a [[Weapons (XC1)#Weapon Lists|staff]] wielded by [[Melia]], obtained upon starting the game. It has a unique [[Appearance]].
+
+== Sources ==
+Starting gear in {{XCFC|sub}}.
+
+== In {{XC3|-}} ==
+In {{XC3}}, the World Ender reappears as the [[Blade (XC3)|Blade]] used by the [[Royal Summoner]] [[Class (XC3)|class]], referred to as the '''Elemental Staff'''. Melia also uses it to control the [[Keves Castle]] [[Ferronis]].
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Melia Official Artwork.png|Official Artwork of Melia using World Ender in {{XC3|-}}
+Royal Summoner Class Icon.png|Blade Icon of the Elemental Staff
+&lt;/gallery&gt;
+
+[[es:Devastamundos]]
+
+[[Category:XCFC Staves]]
+[[Category:XC3 Weapons]]</text>
+      <sha1>fi1jirehwsw30eere1ll7zycdacd23c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wraithfin Segna</title>
+    <ns>0</ns>
+    <id>119422</id>
+    <revision>
+      <id>574729</id>
+      <parentid>574726</parentid>
+      <timestamp>2023-01-30T12:53:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1318" sha1="c9uw2rysfl5cygl9stfr3wcmr2sjvcw" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Wraithfin Segna
+|image        = XC3 Wraithfin Segna.png
+|caption      = Wraithfin Segna
+|type         = [[Piranhax]]
+|level        = 24
+|area         = [[Rae-Bel Tableland]] ([[Riez Tarn]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 380
+|cp           = 60
+|sp           = 5
+|gold         = 316
+|hp           = 385,250
+|strength     = 466
+|healing      = 151
+|dexterity    = 89
+|agility      = 99
+|physdef      = 15%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Wraithfin Segna''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Piranhax]] family, and can be found at level 24 in the big lake of [[Riez Tarn]] in [[Rae-Bel Tableland]]. The [[Water Jet]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 35%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Wrathfin segna location.png
+Wrathfin segna.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Piranhax]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>c9uw2rysfl5cygl9stfr3wcmr2sjvcw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wynonna</title>
+    <ns>0</ns>
+    <id>123793</id>
+    <revision>
+      <id>597885</id>
+      <parentid>596180</parentid>
+      <timestamp>2023-07-02T16:38:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1885" sha1="j3ttxcri94sxyyznxo7k2e6vufmc50d" xml:space="preserve">{{Infobox_NPC
+|name        = Wynonna
+|image       = Wynonna.png
+|personality = 
+|time_active = Anytime after ''[[The Castle Guard]]''
+|gender      = Female
+|race        = 
+|age         = 7th Term
+|location    = [[Syra Hovering Reefs]] ([[Fort O'Virbus]])
+}}
+'''Wynonna''' is a NPC in {{XC3}}.
+
+== Overview ==
+Wynonna can be found in [[Fort O'Virbus]]. She is the captain of the Khatorl Squad of the [[Keves Castle]] Guard, and has a rivalry with [[Heath]], the captain of the Soltnar Squad. She has a more objective view of combat, causing tension with the more principled Heath. 
+{{clr}}
+
+==Battle==
+{{Infobox XC3 Enemy
+|name         = Wynonna
+|image        = XC3 Wynonna Battle.png
+|caption      = Wynonna
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 65
+|area         = [[Syra Hovering Reefs]] ([[Gardin Defense Base]])
+|spawntime    = During ''[[The Castle Guard]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Wynonna''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is part of the [[Keves Forces]] and is fought at level 65 in [[Gardin Defense Base]] at [[Syra Hovering Reefs]] during ''[[The Castle Guard]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>j3ttxcri94sxyyznxo7k2e6vufmc50d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>X</title>
+    <ns>0</ns>
+    <id>121001</id>
+    <revision>
+      <id>603293</id>
+      <parentid>603288</parentid>
+      <timestamp>2023-07-26T10:11:29Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>inter-wiki hyperlinks + no PoV on article</comment>
+      <origin>603293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7740" sha1="onz6xx75vy6r3icprxikk2wyoqwg0vq" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = X
+|image         = XC3 Consul X no helmet.jpg
+|species       = [[Moebius]]
+|age           = 
+|gender        = Female
+|haircolor     = White
+|eyecolor      = Blood Orange
+|affiliation   = [[Consul]]s
+|appearances   = {{XC3}}
+|voiceactorjp  = Marika Kono
+|voiceactoreng = Jessica Preddy
+}}
+'''X''' (Japanese: &#12456;&#12483;&#12463;&#12473; ''Ekkusu'') is an antagonist in {{XC3}}. She is a member of Moebius.
+
+== Overview ==
+Alongside with [[Y]] and [[Z]], X is one of the original and first [[Consul]]s.
+
+== Appearance ==
+[[File:Consul X.jpg|left|thumb|240px|X when she is masked.]]
+X has the appearance of a small girl with fair skin and white colored hair styled into a bob cut with long bangs that typically cover much of the right side of her face and eye. She has bright blood orange-colored eyes, with thick eyelashes. Similar to Y and Z, X has a purple scar across her face. In addition, she has a butterfly-like aura hair ornament on the left side of her head.
+
+When she is wearing her Consul mask, X's helmet resembles the Latin letter 'X'.
+{{clr}}
+
+== Story ==
+She is one of the original Moebius alongside Y, and Z. She can either be encountered first at [[Colony 5]] during ''[[Side Story: Eunie]]'', or at [[Agnus Castle]] during [[Chapter 5 (XC3)|Chapter 5]]. Although, she is first seen telling [[P]] and [[O]] that [[N]] wanted to see them, as he had an idea on how they could get rid of [[Ouroboros]], though they were unsuccessful.
+
+During ''Side Story: Eunie'', she attacks Colony 5 alongside [[L]]. She explains to the party about the truth of the Colony ranking system, and that those who make it to Gold rank are killed.
+
+During the main story, she is first seen using her staff to cancel the [[Interlink]] between [[Lanz]] and [[Sena]], preventing their suicide attack against N, he was actually surprised at her appearance but she said this was under [[Z]]'s orders. She is next seen during [[Mio]]'s [[Homecoming Ceremony]], though it was revealed afterwards [[M]] swapped her mind with Mio and sacrificed herself so she could live. After the party are freed from their bonds and beat N, she sends the [[Queen of Agnus (boss)|false Queen of Agnus]] to attack them. After the queen was defeated, X then activates the Castle's [[Annihilator]] to attack the [[City]], having gotten the location from [[Shania]], before fleeing. Although, also courtesy of M and Mio, the City was warned and moved.
+
+She is last seen in [[Origin]], where she fights the party in her Moebius form, before being killed. A being known as [[X&#8734;]] that resembles X is also fought during the final battle against Z.
+
+== Battle ==
+&lt;div style="float: right;"&gt;&lt;tabber&gt;
+|-|Urayan Trail =
+{{Infobox XC3 Enemy
+|name         = Consul X
+|image        = X first fight.jpg
+|caption      = Consul X
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Consul (enemy)|Consul]]
+|level        = 47
+|area         = [[Urayan Trail]] ([[Loska Plateau]])
+|spawntime    = During ''[[Side Story: Eunie]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2492
+|cp           = 350
+|sp           = 0
+|gold         = 0
+|hp           = 1,206,400
+|strength     = 598
+|healing      = 303
+|dexterity    = 174
+|agility      = 121
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+
+|-|Origin Interior =
+{{Infobox XC3 Enemy
+|name         = Moebius X
+|image        = Moebius_x.png
+|caption      = Moebius X
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 70
+|area         = [[Origin Interior]] ([[Defense Tower 2|Defense Tower #2]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 8160
+|cp           = 600
+|sp           = 0
+|gold         = 0
+|hp           = 4,752,800
+|strength     = 1487
+|healing      = 439
+|dexterity    = 316
+|agility      = 220
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Consul X''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Consul (enemy)|Consul]] and is fought at level 47 at [[Loska Plateau]] on [[Urayan Trail]] during ''[[Side Story: Eunie]]''. She fights alongside [[L#Battle|Moebius L]].  The battle will end once L is defeated.  
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 65%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+
+'''Moebius X''' is a Boss who is a [[Moebius]] and is fought at level 70 in [[Defense Tower 2|Defense Tower #2]] in the [[Origin Interior]]. This boss is only available if ''Side Story: Eunie'' was completed first.
+
+===Resistances===
+{{XC3 Resistances
+|break       = 85%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius X
+|image        = XC3 Moebius X DLC battle.jpg
+|caption      = Moebius X
+|type         = [[Moebius]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 75
+|detection    = 
+|spawntime    = During ''[[Stage of Destiny]]''
+|respawn      = No
+|hp           = 861,900
+|strength     = 729
+|healing      = 469
+|dexterity    = 341
+|agility      = 237
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 10%
+|guardrate    = 0%
+}}
+Moebius X is fought at level 75 alongside [[Y|Moebius Y]] during the fourth wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]''.
+{{clr}}
+
+{{Infobox XC3 Enemy
+|name         = Consul X
+|image        = 
+|caption      = Consul X
+|type         = [[Consul (enemy)|Consul]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 115
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+Consul X is fought at level 115 alongside [[Joran|Consul J]] at Stage 100 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+{{clr}}
+
+== Trivia ==
+* X shares her English voice actor, Jessica Preddy, with [[Vale]] and [[Zenobia]] from {{XC2}}.
+* X will have different dialogue during ''[[Chapter 5 (XC3)|Chapter 5]]'' and ''Side Story: Eunie'' depending on which order the party encounters her during these quests.
+* X's physical appearance somewhat resembles [[w:c:xenosaga:Wilhelm|Wilhelm]]'s, a major character from ''[[w:c:xenosaga:xenosaga|Xenosaga]]''.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Consuls K and X.jpg|Consul and Moebius X concept art
+Weapon Concept 3.png|Concept art for X's Scythe and Staff
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+Consul X Masked.jpeg
+&lt;/gallery&gt;
+
+{{clr}}
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Consul Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>onz6xx75vy6r3icprxikk2wyoqwg0vq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Xenoblade Chronicles 3</title>
+    <ns>0</ns>
+    <id>116326</id>
+    <revision>
+      <id>600236</id>
+      <parentid>600235</parentid>
+      <timestamp>2023-07-20T20:42:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Undo revision 600235 by [[Special:Contributions/SakuDio|SakuDio]] These are the patch notes for the update, so that&#8217;s why it says &#8220;quest&#8221;</comment>
+      <origin>600236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30823" sha1="e3p2cxz1jio9c6ayak7iyn6mpt00n8o" xml:space="preserve">{{spoiler}}
+{{Infobox Media
+|name         = {{XC3|-}}
+|image        = XC3 box art.jpg
+|developer    = [[Monolith Soft]]
+|publisher    = Nintendo
+|date         = [[File:JP.jpg|Japan]] July 29, 2022 &lt;br /&gt;
+[[File:EUR.png|Europe|30px]] July 29, 2022&lt;br /&gt;
+[[File:Australian flag icon.png|Australia|30px]] July 29, 2022&lt;br /&gt;
+[[File:USA Canada flag icon.jpg|Canada/United States|30px]] July 29, 2022&lt;br /&gt;
+[[File:CHT flag icon.png|China/Hong-Kong/Taiwan|30px]] July 29, 2022
+|genre        = Role Playing
+|modes        = Single-player
+|platform     = Nintendo Switch
+|gamesize     = 13.7 GB
+|languages    = American English, British English, Canadian French, French, German, Italian, Japanese, Korean, Latin American Spanish, Simplified Chinese, Spanish, Traditional Chinese
+|rating       = [[wikipedia:Computer Entertainment Rating Organization|CERO]]: C&lt;br /&gt;
+[[wikipedia:PEGI|PEGI]]: 12&lt;br /&gt;
+[[wikipedia:Australian Classification Board|ACB]]: M&lt;br /&gt;
+[[wikipedia:ESRB|ESRB]]: T
+}}
+'''''Xenoblade Chronicles 3''''', known in Japan as '''''Xenoblade 3''''' (Japanese: {{lang|ja|&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;&#65299;}}, ''Zenobureido 3'') is a role-playing video game published by Nintendo and developed by [[Monolith Soft]] for the Nintendo Switch. The game was announced during the Nintendo Direct presentation on February 9, 2022. The game was released worldwide on July 29, 2022.
+
+It is the third main entry in the {{XC|trilogylink}}.
+
+== Categories ==
+{| border="0" cellpadding="0" cellspacing="5" style="width: 360px"
+|[[:Category:XC3 Characters|Characters]]
+|[[:Category:XC3 Quests|Quests]]
+|[[:Category:XC3 Enemies|Enemies]]
+|[[:Category:XC3 Places|Places]]
+|[[:CategorY:XC3 Races|Races]]
+|-
+|[[:Category:XC3 Items|Items]]
+|[[:Category:XC3 Classes|Classes]]
+|[[:Category:XC3 Accessories|Accessories]]
+|[[:Category:XC3 NPCs|NPCs]]
+|[[:Category:XC3 Arts|Arts]]
+|}
+
+== Gameplay ==
+[[file:Noah Mio Interlink.png|thumb|180px|Noah and Mio's Ouroboros]]
+{{XC3|-}} uses a similar approach to gameplay mechanics as {{XC}}, {{XC2}} and {{XCX}}, such as the freedom to explore the world of [[Aionios]], the ability to run to virtually anywhere seen in the distance, and a semi-action-based battle system with the return of an [[Battle Arts (XC3)|Arts]] battle system which involves both [[Auto-Attack (XC3)|auto-attacks]] and a cooldown timer for each Art.
+
+In this installment, soldiers of [[Keves]] and [[Agnus]] can materialize the weapons they utilize in battle, known as [[Blade (XC3)|Blades]], at will. Each soldier's Blade is a reflection of them, so they might take different forms such as swords, guns, shields, or spears. Moreover, three pairs of main playable characters can utilize the [[Interlink]] system during a battle to combine them into a larger form, called [[Ouroboros]], when certain conditions are met, making them significantly more powerful with special abilities. As the story progresses, the party will meet and be able to recruit a seventh party member during battle, called a [[Hero]], as a guest but not controllable character.
+{{clr}}
+
+[[File:XC3 Attacker Defender Healer.jpg|thumb|left|180px|Attacker, Defender and Healer system]]
+The battle system brings a more strategic dimension with the [[Tactics]] system and [[Role]]s that are broadly classified into three categories: [[Attacker]], [[Defender (XC3)|Defender]], and [[Healer]]. Each of them has different abilities and skills. Attackers specialize in attacking and inflicting heavy damage from the enemy's flanks and back. However, their high attack power makes them vulnerable to enemy attacks, so it is important to be able to fight from an advantageous position while dodging enemy attacks. Healers specialize in healing the party. Additionally, only healers are able to revive incapacitated party members. Another strategic option is the [[Quick Move]] allowing the played character to temporarily retract and move a certain distance at high speed.
+
+Similarly to {{TTGC}}, the character controlled by the player can be swapped with another while exploring the world. Additionally, unlike in {{TTGC|-}}, the player can switch between characters during battle.
+{{clr}}
+
+== Story ==
+{{main|Xenoblade Chronicles 3 (plot)}}
+
+{{XC3|-}} has a story that connects the future of the worlds of {{XC|-}} and {{XC2|-}}.&lt;ref&gt;https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Xenoblade-Chronicles-3-2168340.html#Overview&lt;/ref&gt; It is centered around two hostile nations, Keves and Agnus. Six soldiers hailing from these nations, headed by the two protagonists [[Noah]] and [[Mio]], take part in a grand tale with life as its central theme.&lt;ref&gt;https://www.nintendo.com/whatsnew/detail/2022/an-introduction-to-xenoblade-chronicles-3-from-executive-director-tetsuya-takahashi/&lt;/ref&gt;
+
+== Characters ==
+; Main Characters
+{| align="center" style="text-align:center;"
+|[[File:Noah portrait.png|link=Noah|75px]]
+|[[File:Mio portrait.png|link=Mio|75px]]
+|[[File:Eunie portrait.png|link=Eunie|75px]]
+|[[File:Taion portrait.png|link=Taion|75px]]
+|[[File:Lanz portrait.png|link=Lanz|75px]]
+|[[File:Sena portrait.png|link=Sena|75px]]
+|-
+|'''[[Noah]]'''
+|'''[[Mio]]'''
+|'''[[Eunie]]'''
+|'''[[Taion]]'''
+|'''[[Lanz]]'''
+|'''[[Sena]]'''
+|}
+
+; Heroes
+{| align="center" style="text-align:center;"
+|[[File:Ethel portrait artwork.png|link=Ethel|75px]]
+|[[File:XC3 Valdi Portrait Art.png|link=Valdi|75px]]
+|[[File:XC3 Zeon portrait art.png|link=Zeon|75px]]
+|[[File:XC3 Gray Portrait Art.png|link=Gray|75px]]
+|[[File:XC3 Riku portrait Artwork.png|link=Riku|75px]]
+|[[File:XC3 Manana portrait Artwork.png|link=Manana|75px]]
+|-
+|'''[[Ethel]]'''
+|'''[[Valdi]]'''
+|'''[[Zeon]]'''
+|'''[[Gray]]'''
+|'''[[Riku]]'''
+|'''[[Manana]]'''
+|-
+|[[File:Teach portrait artwork.png|link=Teach|75px]]
+|[[File:Isurd portrait artwork.png|link=Isurd|75px]]
+|[[File:XC3 Alexandria Portrait Art.png|link=Alexandria|75px]]
+|[[File:Juniper Twitter Art.png|link=Juniper|75px]]
+|[[File:XC3 Ashera Portrait Art.png|link=Ashera|75px]]
+|[[File:Monica Vandham portrait artwork.png|link=Monica Vandham|75px]]
+|-
+|'''[[Teach]]'''
+|'''[[Isurd]]'''
+|'''[[Alexandria]]'''
+|'''[[Juniper]]'''
+|'''[[Ashera]]'''
+|'''[[Monica Vandham|Monica]]'''
+|-
+|[[File:XC3 Fiona Portrait Art.png|link=Fiona|75px]]
+|[[File:XC3 Ghondor Portrait Art.png|link=Ghondor|75px]]
+|[[File:XC3 Miyabi portrait.png|link=Miyabi|75px]]
+|[[File:XC3 Triton portrait.png|link=Triton|75px]]
+|[[File:Segiri portrait artwork.png|link=Segiri|75px]]
+|[[File:Cammuravi portrait artwork.png|link=Cammuravi|75px]]
+|-
+|'''[[Fiona]]'''
+|'''[[Ghondor]]'''
+|'''[[Miyabi]]'''
+|'''[[Triton]]'''
+|'''[[Segiri]]'''
+|'''[[Cammuravi]]'''
+|-
+|[[File:Hero Melia.png|link=Melia|75px]]
+|[[File:Hero Nia.png|link=Nia|75px]]
+|[[File:Ino infobox pic.png|link=Ino|75px]]
+|[[File:Masha portrait artwork.png|link=Masha|75px]]
+|[[File:XC3FR Shulk portrait.png|link=Shulk|75px]]
+|[[File:XC3FR Rex portrait.png|link=Rex|75px]]
+|-
+|'''[[Melia]]'''
+|'''[[Nia]]''' 
+|'''[[Ino]]''' 
+|'''[[Masha]]'''
+|'''[[Shulk]]'''
+|'''[[Rex]]'''
+|}
+
+== Downloadable Content ==
+=== Updates ===
+Several free updates have been released for the game on the Nintendo Switch system. These are downloaded automatically when the game is launched if the console has a working internet connection. Each update can expand the game content or fix bugs and glitches.
+
+==== Version 1.1.0 ====
+The version 1.1.0 update was released on July 28th, 2022. It included the following changes:
+* Added the ability to receive items distributed via the Expansion Pass.
+** After downloading the Expansion Pass, an "Expansion Pass" option will be added to the Main Menu, letting you receive the distributed items.
+* The Main Menu can now be opened by pressing the X button during gameplay.
+* Several issues have been fixed in order to ensure a more comfortable gaming experience.
+
+==== Version 1.1.1 ====
+The version 1.1.1 update was released on September 7th, 2022. It included the following changes:
+* Changed the behaviour of [[Perilwing Ryuho]] so that it cannot be defeated if it's located in an area that cannot be reached during intended story progression.
+* Fixed an issue where the first battle in [[Teach]]'s [[Hero Quest|Ascension Quest]], ''[[Shadow of Enmity]]'', would not end.
+* Fixed an issue in the quest ''[[The Illusion Returns]]'' where the battle against the [[Mysterious Raider]]s would not end.
+* Fixed an issue where the [[Gogol Vuaga]] and [[Gogol Dalm]] items, required for some [[Collectopaedia (XC3)|Collectopaedia Cards]], could not be obtained.
+* Fixed an issue where the effects of dishes other than the Baked Spongy Spud and Kerfluffled Torpedo Wrap would not be applied correctly.
+* Fixed an issue causing the Talent Art button not to appear and preventing players from pressing it in certain circumstances. If you have already encountered this issue, you can fix it by loading the save data after updating the game.
+* Fixed an issue where the word "Verkaufen": in the [[Shop (XC3)|Shop]] menu would overlap with the text right next to it when the language was set to German.
+* Various other issues have been fixed in order to improve the gameplay experience.
+
+==== Version 1.2.0 ====
+The version 1.2.0 update was released on October 13th, 2022. It included the following changes:
+* Added function to receive Expansion Pass Vol. 2.
+* The availability of "[[Soyprimo Sauce]]" was previously restricted outside the progress of a certain quest, so now the [[City Caravan]] shop located in the [[City]] will sell Soyprimo Sauce.
+* Increased the effect time bonus for Fusion Arts using the [[Flash Fencer]]'s "[[Acceleration]]" Art.
+* Fixed Collectopedia items "Gogol Dalm", and "[[Gogol Olipple]]", previously unavailable in Ver. 1.1.1, so that they can now be acquired.
+* Fixed an issue in which a character's audio of falling in battle would play over the sound of them falling down before the screen faded to black.
+* Fixed additional issues to improve the gameplay experience.
+
+==== Version 1.2.1 ====
+The version 1.2.1 update was released on October 20th, 2022. It included the following changes:
+* Addressed several issues to improve game play experience.
+
+==== Version 1.3.0 ====
+The version 1.3.0 update was released on February 15th, 2023. It included the following changes:
+* Added function to receive Expansion Pass Vol. 3.
+* Fixed an issue where some enemy models were placed where the name and enemy did not match.
+** Issues where some [[Testudo]]s were called "[[Armadillo]]", and some Armadillos were called "[[Velites]]s", respectively.
+* Fixed an issue where leveling from [[Class Rank (XC3)|Class Rank]] 9 to 10 when clearing the [[Z&#8734;|final battle]] would not unlock Appearances that should be unlocked.
+** In the event that this has already occurred, downloading the update will fix the issue, unlocking the appearance.
+* Fixed an issue where completing the Collectopedia cards for [[Roald]], [[Fla'ran]], and [[Zooza]] would cause them to display the initial reward.
+* Fixed an issue in Challenge Battles where lowering the Effects volume in Audio Settings would still cause battle sounds and footsteps to sound comparatively loud.
+* Fixed an issue where sliding down a rope using a specific timing would cause party members to continuously be KO'd and resurrected.
+* Fixed an issue where pressing buttons using a specific timing during a loading screen would cause the Battle Menu to appear after launching the game.
+* Fixed an issue where successfully completing Mio's Chain Order would not cause Attacker and Healer aggro to decrease.
+* Fixed additional issues to improve the gameplay experience.
+
+==== Version 2.0.0 ====
+The version 2.0.0 update was released on April 25th, 2023. It included the following changes:
+* Added functionality to receive Expansion Pass Wave 4.
+* Fixed an issue where starting a new game after acquiring swimwear would make the player unable to receive the swimwear.
+** In the event that this issue is already affecting your game, updating the title will cause the swimwear to already be acquired.
+* Fixed an issue where a character's status display in battle would remain the same as when interlinked.
+
+==== Version 2.1.0 ====
+The version 2.1.0 update was released on July 20th, 2023. It included the following changes:
+* Added amiibo functionality to the game for "[[Pyra]]" and "[[Mythra]]" amiibo. By scanning the amiibo in "System" &gt; "amiibo" in the Menu Screen, you will be able to use the following special clothing items:
+** Pyra amiibo - Aegis Sword: Pyra (Limited to Swordfighter)
+** Mythra amiibo - Aegis Sword: Mythra (Limited to Swordfighter)
+* A Nopon NPC, [[Miibomii]], has appeared at [[Llyn Nyddwr Camp]] in the Fornis region. Meeting certain criteria while playing the game will also let you obtain the aforementioned Pyra and Mythra amiibo items from Miibomii.
+* Fixed the following issues for Expansion Pass Wave 4, {{XC3FR|sub}}:
+** Increased the percentage chance to re-acquire Battle Manuals, Tactics Manuals, and Strategy Manuals.
+** Fixed an issue where players were unable to re-attempt the [[Alpha|final battle]] after experiencing a party wipe.
+** Fixed an issue where some players were unable to complete the [[Chapter 2 (FR)|Chapter 2]] quest, "Pursue Glimmer", who's thought to have headed north-west.
+{{clr}}
+
+=== Expansion Pass ===
+[[File:XC3 Expansion Pass Artwork.jpeg|thumb|180px|{{XC3|-}} Expansion Pass]]
+The {{XC3|-}} Expansion Pass released across four waves of updates. They were released on July 29, 2022, October 13, 2022, February 15, 2023, and April 25, 2023 respectively. 
+
+==== Adventure Support Pack ====
+[[File:XC3 Expansion Pass Vol 1.jpeg|thumb|180px|{{XC3|-}} Expansion Pass Vol. 1]] 
+July 29, 2022: Adds a series of helpful items.
+* [[Accessory (XC3)|Accessories]]
+** [[Iron Temple Guard]] x 1
+** [[Circlet of Wisdom]] x 1
+** [[Silver Belt (XC3)|Silver Belt]] x 1
+** [[Auto-Balancer (XC3)|Auto-Balancer]] x 1
+** [[Glass Memory]] x 1
+** [[Nopon Strap]] x 1
+* Helpful [[Nopon Coin (XC3)|Nopon Coin]]: [[Nopon Coin (Silver)]] x30, [[Nopon Coin (Gold)]] x10
+* [[Clothing|Outfit]] color variants: 
+** "Noah - Color #02", "Mio - Color #02", "Eunie - Color #02", "Taion - Color #02", "Lanz - Color #02", "Sena - Color #02"
+
+==== New Hero &amp; Intense Enemy Battles ====
+[[File:XC3 Expansion Pass Vol 2.jpeg|thumb|180px|{{XC3|-}} Expansion Pass Vol. 2]]
+October 13, 2022: Adds a Challenge Battle Mode and a new Hero.
+* New [[Challenge Battle Mode#Xenoblade Chronicles 3|Challenge Battle Mode]]. Overcome a variety of challenges, collect crystals, and exchange them for valuable accessories and new outfits.
+* New hero character ([[Ino]]) and accompanying quests.
+* New character fashion outfits:
+** Swimsuits
+
+==== New Hero &amp; More Tough Challenges ====
+[[File:XC3 Expansion Pass Vol 3.jpg|thumb|180px|{{XC3|-}} Expansion Pass Vol. 3]]
+February 15, 2023: Adds a Challenge Battle and a new Hero.
+* New Challenge Battle "[[Archsage's Gauntlet]]". Select only one character and battle wave after wave of enemies to earn rewards.
+* New hero character ([[Masha]]) and accompanying quests.
+* New character fashion outfits:
+** "Throwback" outfits, which reference outfits belonging to characters from {{XC|-}} and {{XC2|-}}
+
+==== {{XC3FR|-}} ====
+{{main|Xenoblade Chronicles 3: Future Redeemed}}
+[[File:XC3FR Artwork.jpg|thumb|180px|{{XC3FR|-}}]]
+April 25, 2023: {{XC3FR|sub}}, a brand new original story scenario.
+
+{{quote|Set before the events of Xenoblade Chronicles 3, join a cast of new and familiar characters in this original story scenario that connects all three instalments in the Xenoblade Chronicles series. Future Redeemed also features new battle mechanics, such as Unity Combo, where two characters can attack in unison|{{XC3FR|sub}} announcement}}
+{{clr}}
+
+== Merchandise ==
+[[File:XC3 Collector Edition in EU.jpg|thumb|150px|The Special Edition in European Union]]
+Several tie-in products have been or will be released. These include:
+* A Collector's Edition of the game including cover art by Masatsugu Saito with the following extras:
+** A 250-page full-color softcover art booklet
+** A Steelbook(TM)/Special Metal Game Case
+* Smartphone wallpapers to freely download from My Nintendo
+* A Japanese "Perfect Guide" of 304 pages was published by Kadokawa on September 30th, 2022.
+* Six Acrylic stands of the six main characters were released on November 2022.
+* A 1/7 scale Mio figure made by Good Smile Company.
+
+=== Amiibo ===
+[[File:XC3 Monado Amiibo Screenshot.jpg|thumb|150px|Unlocking the Monado weapon skin through amiibo]]
+{{XC3|-}} is compatible with [[amiibo]]. Scanning an amiibo figure will allow the player to receive helpful in-game items. Additionally, scanning the [[Shulk]], [[Pyra]], and [[Mythra]] amiibos for the first time will unlock weapon skins of the [[Monado]] and Pyra and Mythra's [[Aegis|Aegis Swords]] for the [[Swordfighter]] [[Class (XC3)|class]]. Up to three amiibo can be scanned per day.
+Amiibo for Noah and Mio Amiibo have been announced as well. Their release dates and functions have yet to be revealed.
+
+=== Plushes ===
+[[Monolith Soft]] made handmade plushes of Riku &amp; Manana. They have weapons, and ''"they look so cool and kawaii!"'' &lt;ref&gt;https://twitter.com/XenobladeJP/status/1552915657691242496&lt;/ref&gt;
+
+=== Nintendo Switch Online Icon Elements ===
+{{XC3|-}} themed profile icon elements available with Nintendo Switch Online from July 29th, 2022 to September 1st, 2022. More profile icon elements based on the {{XC|series}} were made available from May 26th, 2023 to June 29th, 2023, including elements based on {{XC|-}}, {{XCDE}}, {{XC2|-}}, {{TTGC}}, and {{XC3FR|sub}}.
+
+==== List of Character Elements ====
+===== Wave 1 =====
+* [[Noah]]
+* [[Mio]]
+* Noah ([[Ouroboros]])
+* Mio (Ouroboros)
+* [[Riku]]
+* [[Juniper]]
+* [[Valdi]]
+* [[Blade (XC3)|Veiled Sword]]
+* [[Term]] Tattoo
+
+===== Wave 2 =====
+* [[Eunie]]
+* [[Taion]]
+* Eunie (Ouroboros)
+* Taion (Ouroboros)
+* [[Manana]]
+* [[Guernica Vandham|Guernica]]
+* [[Alexandria]]
+* [[Ashera]]
+
+===== Wave 3 =====
+* [[Lanz]]
+* [[Sena]]
+* Lanz (Ouroboros)
+* Sena (Ouroboros)
+* [[Ethel]]
+* [[Cammuravi]]
+* [[Isurd]]
+* [[Ghondor]]
+
+===== Wave 4 =====
+* Noah (Hero List)
+* Mio (Hero List)
+* Eunie (Hero List)
+* Taion (Hero List)
+* Lanz (Hero List)
+* Sena (Hero List)
+* [[Zeon]]
+* [[Fiona]]
+
+===== Wave 5 =====
+* [[Queen of Keves]]
+* [[Queen of Agnus]]
+* [[Monica Vandham]]
+* [[Gray]]
+* [[Miyabi]]
+* [[Teach]]
+* [[Segiri]]
+* [[Monado]]
+
+===== Wave 6 =====
+Wave 6 consisted of the main characters, and the Hero List icons, from {{XC3FR|sub}}, as well as the two DLC Heroes in the main game along with their Hero List icons.
+* [[Matthew (FR)|Matthew]]
+* [[A]]
+* [[Nikol]]
+* [[Glimmer]]
+* [[Shulk]]
+* [[Rex]]
+* [[Na'el]]
+* [[Ino]]
+* [[Masha]]
+* [[Alpha]]
+* Matthew (Hero List)
+* A (Hero List)
+* Nikol (Hero List)
+* Glimmer (Hero List)
+* Shulk (Hero List)
+* Rex (Hero List)
+* Na'el (Hero List)
+* Ino (Hero List)
+* Masha (Hero List)
+
+===== Wave 7 =====
+Wave 7 consisted of the playable characters from {{XC|-}} and {{XCDE|sublink}}.
+* Shulk ({{XC|-}})
+* [[Fiora]] ({{XC|-}})
+* Mecha-Fiora ({{XC|-}})
+* [[Reyn]] ({{XC|-}})
+* [[Sharla]] ({{XC|-}})
+* [[Dunban]] ({{XC|-}})
+* Melia ({{XC|-}})
+* [[Riki]] ({{XC|-}})
+* [[Mumkhar]] ({{XC|-}})
+* Shulk ({{XCDE|sub}})
+* Reyn ({{XCDE|sub}})
+* Fiora ({{XCDE|sub}})
+* Mecha-Fiora ({{XCDE|sub}})
+* Sharla ({{XCDE|sub}})
+* Dunban ({{XCDE|sub}})
+* Melia ({{XCDE|sub}})
+* Riki ({{XCDE|sub}})
+* [[Alvis]] ({{XCDE|sub}})
+* Shulk ({{XC2|-}})
+* Fiora ({{XC2|-}})
+
+===== Wave 8 =====
+Wave 8 consisted of major characters from {{XC2|-}} and {{TTGC|-}}.
+* Rex
+* [[Pyra]]
+* [[Mythra]]
+* [[Nia]] ([[Driver]])
+* [[Dromarch]]
+* [[Tora (XC2)|Tora]]
+* [[Poppi &#945;]]
+* [[Poppi QT]]
+* [[Poppi QT&#960;]]
+* [[M&#242;rag]]
+* [[Brighid]]
+* [[Zeke]]
+* [[Pandoria]]
+* [[Vandham (XC2)|Vandham]]
+* [[Roc]]
+* [[Jin]] (Masked)
+* [[Malos]]
+* [[Akhos]]
+* [[Patroka]]
+* [[Mikhail]]
+* [[Pneuma]]
+* Nia (Blade)
+* [[Lora]]
+* Jin (Unmasked)
+* [[Addam]]
+* [[Hugo (TTGC)|Hugo]]
+
+===== Wave 9 =====
+Wave 9 consisted of Hero List Icons of the following characters:
+* Riku
+* Manana
+* Valdi
+* Juniper
+* Alexandria
+* Ashera
+* Ethel
+* Cammuravi
+* Isurd
+* Ghondor
+* Fiona
+* Zeon
+* Monica
+* Gray
+* Miyabi
+* Teach
+* Segiri
+* [[Triton]]
+
+===== Wave 10 =====
+Wave 10 consisted of some of the [[Consul]]s as well as Melia and Nia in both their Queen and Hero outfits, along with their Hero List Icons. 
+* Triton
+* [[N]]
+* [[M]]
+* [[Z]]
+* Melia (Queen of Keves)
+* Nia (Queen of Agnus)
+* Melia (Hero)
+* Nia (Hero)
+* Melia (Hero List)
+* Nia (Hero List)
+
+==== List of Icon Backgrounds ====
+* {{XC3|-}}'s Key Artwork
+* [[Yzana Plains]]
+* [[Millick Meadows]]
+* [[Eagus Wilderness]]
+* [[Ribbi Flats]]
+* [[Rae-Bel Tableland]]
+* [[Great Cotte Falls]]
+* [[Uraya|Urayan Mountains]]
+* [[Keves]] Symbol
+* [[Agnus]] Symbol
+* Swordfighter &amp; Zephyr (Gray)
+* Swordfighter &amp; Zephyr (Red)
+* Medic Gunner &amp; Tactican (Yellow)
+* Medic Gunner &amp; Tactican (Orange)
+* Heavy Guard &amp; Ogre (Blue)
+* Heavy Guard &amp; Ogre (Turquoise)
+{{clr}}
+
+== Gallery ==
+=== Characters ===
+&lt;gallery&gt;
+XC3 Noah Artwork.png|[[Noah]], one of the main protagonists
+XC3 Mio Artwork.png|[[Mio]], one of the main protagonists
+XC3 Eunie Artwork.png|[[Eunie]], a party member
+XC3 Taion Artwork.png|[[Taion]], a party member
+XC3 Lanz Artwork.png|[[Lanz]], a party member
+XC3 Sena Artwork.png|[[Sena]], a party member
+Melia XC3 Sprite.png|The Queen of Keves
+Nia XC3 Sprite.png|The Queen of Agnus
+XC3 Guernica Vandham Artwork.png|Guernica Vandham
+XC3 Ethel Artwork.png|Silvercoat [[Ethel]]
+XC3 Cammuravi Artwork.png|Smoldering [[Cammuravi]]
+XC3 Riku and Manana Artwork.png|[[Riku]] and [[Manana]], [[Hero]] party members
+XC3 Valdi Artwork.png|[[Valdi]], a Hero
+XC3 Zeon Artwork.png|[[Zeon]], a Hero
+XC3 Juniper Artwork.png|[[Juniper]], a Hero
+XC3 Ashera Artwork.png|[[Ashera]], a Hero
+XC3 Fiona Artwork.png|[[Fiona]], a Hero
+XC3 Alexandria Artwork.png|[[Alexandria]], a Hero
+XC3 Gray Artwork.png|[[Gray]], a Hero
+XC3 N Artwork.png|[[N]], a Consul
+XC3 D Artwork.png|[[D]], a Consul
+XC3 Isurd Artwork.png|[[Isurd]], a Hero
+&lt;/gallery&gt;
+
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Key Artwork.jpg|Key Art
+XC3 Monado REX Aegis Sword.jpeg|Expansion Pass Artwork without the logo
+&lt;/gallery&gt;
+
+=== Locations ===
+&lt;gallery&gt;
+XC3 Title Screen Without Logo.jpeg|Swordmarch and the Urayan Mountains
+XC3 Fallen Arm Screenshot.png|The remnants of the Fallen Arm
+XC3 Leftherian Titan Screenshot.png|A Leftherian Titan
+XC3 Mechonis Sword Screenshot.jpg|Swordmarch
+XC3 Erythia Sea Screenshot 01.png|Erythia Sea
+XC3 Aionios Screenshot.png
+XC3 Aionios Screenshot 2.png
+XC3 Aionios Screenshot 3.png
+XC3 Aionios Screenshot 4.jpeg|A Ferronis from Keves
+XC3 Aionios Screenshot 5.jpeg|A Ferronis from Agnus
+XC3 Aionios Screenshot 6.jpeg
+XC3 Aionios Screenshot 7.jpeg
+XC3 Aionios Screenshot 8.jpeg
+&lt;/gallery&gt;
+
+=== {{XC3FR|-}} ===
+&lt;gallery&gt;
+XC3 Rex Screenshot.jpg|Rex
+XC3 Shulk Screenshot.jpg|Shulk
+Alvis XC3 Screenshot.jpg|Alpha
+Shulk Rex Fighting Alvis.jpg|Shulk and Rex Fighting Alpha
+XC3 Expansion Story World Screenshot.jpg|Cent-Omnia region aerial view
+XC3 Expansion Pass Screenshot 01.jpg
+&lt;/gallery&gt;
+
+=== Logos ===
+&lt;gallery&gt;
+XC3 Logo.png|The Japanese logo of {{XC3|-}} in gray
+XC3 Logo 4.png|The Japanese logo of {{XC3|-}} in black
+XC3 Logo 5.png|The English logo of {{XC3|-}} in gray
+XC3 Logo 2.png|The English logo of {{XC3|-}} in black
+&lt;/gallery&gt;
+
+=== Merchandise ===
+&lt;gallery&gt;
+XC3 Smartphone wallpapers.jpg|Phone wallpapers from ''My Nintendo'' featuring the main cast
+XC3 Perfect Guide.jpg|The Perfect Guide in Japan
+XC3 Acrylic stands 01.jpg|Acrylic stands
+XC3 Acrylic stands 02.jpg|Acrylic stands
+XC3 Acrylic stands 03.jpg|Acrylic stands
+XC3 Acrylic stands 04.jpg|Acrylic stands
+XC3 Acrylic stands 05.jpg|Acrylic stands
+XC3 Famitsu Art.jpg|Cover art of ''Weekly Famitsu August 11, 2022 Issue (1756)'' featuring Mio
+XC3 Nintendo DREAM.jpg|Cover art of ''Nintendo DREAM 2022 September Issue'' featuring the main cast
+XC3 Riku &amp; Manana plushes 01.jpg
+XC3 Riku &amp; Manana plushes 02.jpg
+XC3 Riku &amp; Manana plushes 03.jpg
+XC3 Riku &amp; Manana plushes 04.jpg
+XC3 Mio Figure.jpg|The Mio Figma
+XC3 Mio Figma.jpg
+XC3 Mio Figma 02.jpg
+XC3 Mio Figma 03.jpg
+XC3 Mio Figma 04.jpg
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+File:Xenoblade Chronicles 3 - Fight to Live! (Ouroboros Arrives) - Nintendo Switch
+File:Xenoblade Chronicles 3 - Fight to Live! (A Common Destiny) - Nintendo Switch
+File:Xenoblade Chronicles 3 - Fight to Live! (Value of Life) - Nintendo Switch
+File:Xenoblade Chronicles 3 - A Journey for New and Returning Players
+File:Xenoblade Chronicles 3 Expansion Pass Wave 2 &#8211; Nintendo Direct 9.13.22 &#8211; Nintendo Switch|Expansion Pass Wave 2 &#8211; Nintendo Direct 9.13.22
+&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;3 &#12456;&#12461;&#12473;&#12497;&#12531;&#12471;&#12519;&#12531;&#12539;&#12497;&#12473; &#36861;&#21152;&#12467;&#12531;&#12486;&#12531;&#12484; &#31532;2&#24382; -Nintendo Direct 2022.9.13-|Expansion Pass Wave 2 &#8211; Nintendo Direct 9.13.22 in Japan
+File:Xenoblade Chronicles 3 - Accolades Trailer - Nintendo Switch|Accolades trailer
+File:Xenoblade Chronicles 3 - Mio Trailer - Nintendo Switch
+File:Xenoblade Chronicles 3 - Noah Trailer - Nintendo Switch
+File:Xenoblade Chronicles 3 &#8211; Out now! (Nintendo Switch)
+File:Xenoblade Chronicles 3 &#8211; Overview trailer (Nintendo Switch)|English overview trailer (Nintendo of Europe)
+File:&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;3 CM4|Japanese Commercial 4
+File:&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;3 CM3|Japanese Commercial 3
+File:&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;3 CM2|Japanese Commercial 2
+File:&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;3 CM1|Japanese Commercial 1
+File:&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;3 &#32057;&#20171;&#26144;&#20687;|Japanese overview trailer
+File:Fight to live and live to fight in Xenoblade Chronicles 3! (Nintendo Switch)|Fight to live and live to fight! video from Nintendo South Africa
+File:Xenoblade Chronicles 3 - Direct Teaser Trailer
+File:Xenoblade Chronicles 3 Direct - Nintendo Switch
+File:Xenoblade Chronicles 3 &#8211; Aionios (Nintendo Switch)
+File:Xenoblade Chronicles 3 - Release Date Revealed &#8211; Nintendo Switch|Release Date Revealed trailer
+File:Xenoblade Chronicles 3 is coming this September! (Nintendo Switch)|Initial reveal trailer
+File:Xenoblade3 (&#12476;&#12494;&#12502;&#12524;&#12452;&#12489;3) -Nintendo Direct 2022.2.10-|Japanese reveal trailer
+&lt;/gallery&gt;
+
+== External links ==
+* [https://www.nintendo.com/games/detail/xenoblade-chronicles-3-switch/ Official North American website]
+** [https://www.nintendo.com/whatsnew/detail/2022/an-introduction-to-xenoblade-chronicles-3-from-executive-director-tetsuya-takahashi/ Tetsuya Takahashi first interview]
+** [https://store-jp.nintendo.com/list/software/BC_HAC_R_AZ3HA.html Official North American store]
+** [https://my.nintendo.com/rewards/dd5ece5725dbfce2 Smartphone wallpapers freely available on My Nintendo]
+** [https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-1/ Ask the Developer Vol. 6, Xenoblade Chronicles 3&#8211;Part 1], published July 26 2022
+** [https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-2/ Ask the Developer Vol. 6, Xenoblade Chronicles 3&#8211;Part 2], published July 27 2022
+** [https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-3/ Ask the Developer Vol. 6, Xenoblade Chronicles 3&#8211;Part 3], published July 28 2022
+** [https://en-americas-support.nintendo.com/app/answers/detail/a_id/59259 How to Update Xenoblade Chronicles 3]
+* [https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Xenoblade-Chronicles-3-2168340.html Official UK website]
+** [https://www.nintendo.co.uk/News/2022/July/Ask-the-Developer-Vol-6-Xenoblade-Chronicles-3-Chapter-1-2244637.html Ask the Developer Vol. 6, Xenoblade Chronicles 3 &#8211; Chapter 1], published July 26 2022
+** [https://www.nintendo.co.uk/News/2022/July/Ask-the-Developer-Vol-6-Xenoblade-Chronicles-3-Chapter-2-2245434.html Ask the Developer Vol. 6, Xenoblade Chronicles 3 &#8211; Chapter 2], published July 27 2022
+** [https://www.nintendo.co.uk/News/2022/July/Ask-the-Developer-Vol-6-Xenoblade-Chronicles-3-Chapter-3-2245603.html Ask the Developer Vol. 6, Xenoblade Chronicles 3 &#8211; Chapter 3], published July 28 2022
+** [https://www.nintendo.co.uk/News/2022/July/10-spoiler-free-tips-for-Xenoblade-Chronicles-3-beginners-2244178.html 10 spoiler-free tips for Xenoblade Chronicles 3 beginners], published July 29 2022
+* [https://www.nintendo.fr/Jeux/Nintendo-Switch/Xenoblade-Chronicles-3-2168340.html Official French website]
+* [https://www.nintendo.co.jp/switch/az3ha/ Official Japanese website]
+** [https://store-jp.nintendo.com/list/software/BC_HAC_R_AZ3HA.html Official Japanese store]
+** [https://topics.nintendo.co.jp/article/3ced4c9d-a5e1-43a3-b16e-0005971ed404 Xenoblade Notebook vol. 1: ''Xenoblade 3'' release date is set for July 29. Introducing elements revealed in the latest video, such as combat in which the main characters "fuse" with each other], published on April 20 2022
+** [https://topics.nintendo.co.jp/article/cf9c46c9-8f98-40f9-989d-3422b90eb8ca Xenoblade Notebook vol. 2: Introducing the basics of battles in ''Xenoblade 3''], published on April 28 2022
+** [https://topics.nintendo.co.jp/article/bb9adc0d-9cbe-475f-83ca-f72d53052764 Xenoblade Notebook vol. 3: Introducing how to travel through ''Xenoblade 3''], published on May 19 2022
+** [https://topics.nintendo.co.jp/article/a4c0a78d-e993-4fae-8c8e-62c5927040fa Xenoblade Notebook vol. 4: A thorough explanation of the Arts in ''Xenoblade 3''], published on June 2 2022
+** [https://topics.nintendo.co.jp/article/f86dd1d6-9eff-45ca-b244-fdb1174b4c84 Xenoblade Notebook vol. 5: Introducing the help for adventures in ''Xenoblade 3'' (Heroes)], published on June 16 2022
+** [https://topics.nintendo.co.jp/article/95795fc0-a0ce-470c-bb98-9456adba1a99 Xenoblade Notebook vol. 6], published June 23 2022
+** [https://topics.nintendo.co.jp/article/41a14f0e-6052-4373-b98a-e589dd13ab63 Xenoblade Notebook vol. 7], published July 8 2022
+** [https://topics.nintendo.co.jp/article/dec68671-d6ac-4982-abec-93cb91a1dcb4 Xenoblade Notebook vol. 8], published July 15 2022
+** [https://www.nintendo.co.jp/interview/az3ha/index.html Xenoblade 3 developers' interview, chapter 1], published July 26 2022
+** [https://www.nintendo.co.jp/interview/az3ha/02.html Xenoblade 3 developers' interview, chapter 2], published July 27 2022
+** [https://www.nintendo.co.jp/interview/az3ha/03.html Xenoblade 3 developers' interview, chapter 3], published July 28 2022
+** [https://topics.nintendo.co.jp/article/91ee6187-b909-40d3-9b9c-570fb490487b Xenoblade Notebook vol. 9], published July 29 2022
+** [https://topics.nintendo.co.jp/article/f4616e76-9e36-4f6c-9297-5797b271be9d Xenoblade Notebook vol. 10], published July 29 2022
+** [http://www.empty.co.jp/products_others_201.html The six Acrylic Stands presentation]
+** [https://empty2010.tokyo/collections/zenoblade The six Acrylic Stands reservations]
+
+== References ==
+&lt;references /&gt;
+
+{{DISPLAYTITLE:&lt;span style="font-style:italic;"&gt;Xenoblade Chronicles 3&lt;/span&gt;}}
+
+[[Category:Games]]
+[[Category:Xenoblade Chronicles 3]]
+[[es:Xenoblade Chronicles 3]]
+[[Category:Xenoblade Chronicles series]]</text>
+      <sha1>e3p2cxz1jio9c6ayak7iyn6mpt00n8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Xenoblade Wiki</title>
+    <ns>0</ns>
+    <id>1461</id>
+    <revision>
+      <id>603177</id>
+      <parentid>599677</parentid>
+      <timestamp>2023-07-24T15:19:42Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>Italian wiki does not exist anymore (on Fandom)</comment>
+      <origin>603177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11386" sha1="6qt787t9vhaibyisnpevdetpgpbyosp" xml:space="preserve">&lt;mainpage-leftcolumn-start /&gt;
+&lt;div style="text-align:center; font-size:150%; margin: 0.5em 0;"&gt;'''Welcome to the ''Xenoblade'' Wiki'''&lt;/div&gt;
+
+The ''Xenoblade'' Wiki is a fan-produced encyclopedia about the '''[[Xenoblade Chronicles (series)|''Xenoblade Chronicles'' series]]''' of Japanese role-playing games developed by [[Monolith Soft]] and published by Nintendo. The games feature exploration, real-time combat, and cinematic cutscenes.
+
+&lt;choose&gt;
+&lt;option&gt;&lt;center&gt;[[File:Xenoblade-10th-Anniversary.jpg|450px|link=Xenoblade Chronicles (series)]]&lt;/center&gt;&lt;/option&gt;
+&lt;option&gt;&lt;center&gt;[[File:XBWal.jpg|center|540px|link=Xenoblade Chronicles]]&lt;/center&gt;&lt;/option&gt;
+&lt;option&gt;&lt;center&gt;[[File:Adexxenoml.jpg|540px|link=Xenoblade Chronicles X]]&lt;/center&gt;&lt;/option&gt;
+&lt;option&gt;&lt;center&gt;[[File:Xenoblade 2.png|540px|link=Xenoblade Chronicles 2]]&lt;/center&gt;&lt;/option&gt;
+&lt;option&gt;&lt;center&gt;[[File:Xenoblade 2 Torna box art full with logo.webp|540px|link=Xenoblade Chronicles 2: Torna ~ The Golden Country]]&lt;/center&gt;&lt;/option&gt;
+&lt;option&gt;&lt;center&gt;[[File:XCFC artwork with logo.jpg|540px|link=Xenoblade Chronicles: Future Connected]]&lt;/center&gt;&lt;/option&gt;
+&lt;option&gt;&lt;center&gt;[[File:XC3 Key Artwork.jpg|540px|link=Xenoblade Chronicles 3]]&lt;/center&gt;&lt;/option&gt;
+&lt;option&gt;&lt;center&gt;[[File:XC3FR Artwork.jpg|540px|link=Xenoblade Chronicles 3: Future Redeemed]]&lt;/center&gt;&lt;/option&gt;
+&lt;/choose&gt;
+&lt;br/ &gt;
+
+'''{{XC}}''' takes place on the remains of two enormous titans, the [[Bionis]] and the [[Mechonis]]. The story focuses on [[Shulk]] and the [[Monado]], a mysterious sword capable of defeating the invading army of [[Mechon]].
+
+In '''{{XCX}}''', humanity tries to build itself a new home after the destruction of the Earth. They must explore the planet [[Mira]] and battle alien creatures, both on foot and in transforming vehicles called [[Skell]]s.
+
+In '''{{XC2}}''', people live on the backs of huge creatures called [[Titan]]s. The story follows [[Rex]] and his new friend [[Pyra]], a living weapon known as a [[Blade (XC2)|Blade]], as they attempt to reach the fabled [[Elysium]].
+
+'''{{TTGC}}''' is a prequel to {{XC2|-}}, taking place 500 years earlier. It tells the story of [[Jin]], [[Mythra]], and their friends during the [[Aegis War]].
+
+'''{{XCFC|sublink}}''' is an epilogue to {{XC|-}}, taking place one year later. Melia, Shulk, [[Kino]] and [[Nene]] travel across [[Bionis' Shoulder]] to reach the remains of [[Alcamoth]].
+
+'''{{XC3}}''' takes place in [[Aionios]], where the worlds of [[Bionis]] and [[Alrest]] have come together. The story follows [[Noah]], [[Mio]], and their friends as they attempt to end the endless war between the nations of [[Keves]] and [[Agnus]].
+
+'''{{XC3FR|sublink}}''' is a prequel to {{XC3|-}}, taking place many years earlier. It tells the story of [[Matthew (FR)|Matthew]], [[A]], and their friends after the destruction of the [[City]].
+&lt;hr /&gt;
+
+&lt;center&gt;
+'''[[Xenoblade Wiki:About|About this wiki]] &#8226; [[Xenoblade Wiki:Policies/Code of Conduct|Code of Conduct]] &#8226; [[Xenoblade Wiki:Manual of Style|Manual of style]] &#8226; [[Xenoblade Wiki:FAQs/Main FAQ|FAQ]] &#8226; [[Special:Recentchanges|Recent changes]] &#8226; [[Special:Forum|Forums]]'''
+&lt;/center&gt;
+
+== Universe ==
+&lt;div style="text-align:center;"&gt;
+=== {{XC|-}} ===
+&lt;div style="display:flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap;"&gt;
+&lt;div&gt;[[File:X1.jpg|90px|link=Xenoblade Chronicles]]&lt;br&gt;&lt;small&gt;{{XC}}&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:X3.jpg|90px|link=:Category:XC Characters]]&lt;br&gt;&lt;small&gt;[[:Category:XC Characters|Characters]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:X8.jpg|90px|link=:Category:XC Places]]&lt;br&gt;&lt;small&gt;[[:Category:XC Places|Places]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:X6.png|90px|link=:Category:XC Enemies]]&lt;br&gt;&lt;small&gt;[[:Category:XC Enemies|Enemies]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:X5.jpg|90px|link=Weapons (XC1)]]&lt;br&gt;&lt;small&gt;[[Weapons (XC1)|Weapons]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Shulk BackSlash.png|90px|link=Battle Arts (XC1)]]&lt;br&gt;&lt;small&gt;[[Battle Arts (XC1)|Arts]]&lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+=== {{XCX|-}} ===
+&lt;div style="display:flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap;"&gt;
+&lt;div&gt;[[File:XCX Main Page Icon.png|90px|link=Xenoblade Chronicles X]]&lt;br&gt;&lt;small&gt;{{XCX}}&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:G img tsukamoto01-0.png|90px|link=:Category:XCX Characters]]&lt;br&gt;&lt;small&gt;[[:Category:XCX Characters|Characters]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Primordial Wilderness-0.jpg|90px|link=:Category:XCX Places]]&lt;br&gt;&lt;small&gt;[[:Category:XCX Places|Places]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Overed.jpg|90px|link=:Category:XCX Enemies]]&lt;br&gt;&lt;small&gt;[[:Category:XCX Enemies|Enemies]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Holofigure weapon icon.png|90px|link=Weapons (XCX)]]&lt;br&gt;&lt;small&gt;[[Weapons (XCX)|Weapons]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Agni Gatling.png|90px|link=Battle Arts (XCX)]]&lt;br&gt;&lt;small&gt;[[Battle Arts (XCX)|Arts]]&lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+=== {{XC2|-}} ===
+&lt;div style="display:flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap;"&gt;
+&lt;div&gt;[[File:XBC2-T.jpg|90px|link=:Xenoblade Chronicles 2]]&lt;br&gt;&lt;small&gt;{{XC2}}&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:12.png|90px|link=:Category:XC2 Characters]]&lt;br&gt;&lt;small&gt;[[:Category:XC2 Characters|Characters]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:World Tree artwork.png|90px|link=:Category:XC2 Places]]&lt;br&gt;&lt;small&gt;[[:Category:XC2 Places|Places]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:MoonlightingElwyn.jpg|90px|link=:Category:XC2 Enemies]]&lt;br&gt;&lt;small&gt;[[:Category:XC2 Enemies|Enemies]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC2 Aegis Sword icon.png|90px|link=Weapons (XC2)]]&lt;br&gt;&lt;small&gt;[[Weapons (XC2)|Weapons]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC2 art phys-4 rear 0.png|90px|link=Battle Arts (XC2)]]&lt;br&gt;&lt;small&gt;[[Battle Arts (XC2)|Arts]]&lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+=== {{TTGC|-}} ===
+&lt;div style="display:flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap;"&gt;
+&lt;div&gt;[[File:TornaArtCrop.png|90px|link=:Xenoblade Chronicles 2: Torna ~ The Golden Country]]&lt;br&gt;&lt;small&gt;{{TTGC}}&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:TornaPhotoCrop.png|90px|link=:Category:TTGC Characters]]&lt;br&gt;&lt;small&gt;[[:Category:TTGC Characters|Characters]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:GoldenTwinMesaCrop.png|90px|link=:Category:TTGC Places]]&lt;br&gt;&lt;small&gt;[[:Category:TTGC Places|Places]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:CursedBuloofoCrop.png|90px|link=:Category:TTGC Enemies]]&lt;br&gt;&lt;small&gt;[[:Category:TTGC Enemies|Enemies]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC2 Nodachi icon.png|90px|link=Weapons (XC2)#Torna ~ The Golden Country]]&lt;br&gt;&lt;small&gt;[[Weapons (XC2)#Torna ~ The Golden Country|Weapons]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:TTGC art switch.png|90px|link=Battle Arts (XC2)#Torna ~ The Golden Country]]&lt;br&gt;&lt;small&gt;[[Battle Arts (XC2)#Torna ~ The Golden Country|Arts]]&lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+=== {{XCFC|sub}} ===
+&lt;div style="display:flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap;"&gt;
+&lt;div&gt;[[File:XCFC Main Page Icon 1.jpg|90px|link=:Xenoblade Chronicles: Future Connected]]&lt;br&gt;&lt;small&gt;{{XCFC|sublink}}&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XCFC Main Page Icon 2.jpg|90px|link=:Category:XCFC Characters]]&lt;br&gt;&lt;small&gt;[[:Category:XCFC Characters|Characters]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XCFC Main Page Icon 3.jpg|90px|link=:Category:XCFC Places]]&lt;br&gt;&lt;small&gt;[[:Category:XCFC Places|Places]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XCFC Main Page Icon 4.png|90px|link=:Category:XCFC Enemies]]&lt;br&gt;&lt;small&gt;[[:Category:XCFC Enemies|Enemies]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XCFC Main Page Icon 5.png|90px|link=Weapons (XC1)#Future Connected]]&lt;br&gt;&lt;small&gt;[[Weapons (XC1)#Future Connected|Weapons]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Glad Taunt.png|90px|link=Battle Arts (XC1)#Future Connected]]&lt;br&gt;&lt;small&gt;[[Battle Arts (XC1)#Future Connected|Arts]]&lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+=== {{XC3|-}} ===
+&lt;div style="display:flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap;"&gt;
+&lt;div&gt;[[File:XC3 Main Page Icon 1.png|90px|link=Xenoblade Chronicles 3]]&lt;br&gt;&lt;small&gt;{{XC3}}&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3 Main Page Icon 2.png|90px|link=:Category:XC3 Characters]]&lt;br&gt;&lt;small&gt;[[:Category:XC3 Characters|Characters]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3 Main Page Icon 3.png|90px|link=:Category:XC3 Places]]&lt;br&gt;&lt;small&gt;[[:Category:XC3 Places|Places]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3 Main Page Icon 4.png|90px|link=:Category:XC3 Enemies]]&lt;br&gt;&lt;small&gt;[[:Category:XC3 Enemies|Enemies]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3 Main Page Icon 5.png|90px|link=Blade (XC3)]]&lt;br&gt;&lt;small&gt;[[Blade (XC3)|Weapons]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3 Art Keves phys.png|90px|link=Battle Arts (XC3)]]&lt;br&gt;&lt;small&gt;[[Battle Arts (XC3)|Arts]]&lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;div style="display:flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap;"&gt;
+&lt;div&gt;[[File:XC3FR_Main_Page_Icon_1.jpg|90px|link=Xenoblade Chronicles 3: Future Redeemed]]&lt;br&gt;&lt;small&gt;{{XC3FR|sublink}}&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3FR_Main_Page_Icon_2.png|90px|link=:Category:XC3FR Characters]]&lt;br&gt;&lt;small&gt;[[:Category:XC3FR Characters|Characters]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:Yesterdale Crop.jpg|90px|link=:Category:XC3FR Places]]&lt;br&gt;&lt;small&gt;[[:Category:XC3FR Places|Places]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3FR_Main_Page_Icon_4.jpg|90px|link=:Category:XC3FR Enemies]]&lt;br&gt;&lt;small&gt;[[:Category:XC3FR Enemies|Enemies]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:FR Martial Artist Class Icon.png|90px|link=Blade (XC3)]]&lt;br&gt;&lt;small&gt;[[Blade (XC3)#Future Redeemed|Weapons]]&lt;/small&gt;&lt;/div&gt;
+&lt;div&gt;[[File:XC3 Art Agnus phys.png|90px|link=Battle Arts (XC3)]]&lt;br&gt;&lt;small&gt;[[Battle Arts (XC3)#Future Redeemed|Arts]]&lt;/small&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+{{clr}}
+&lt;mainpage-endcolumn /&gt;
+
+&lt;mainpage-rightcolumn-start /&gt;
+
+== Getting Started ==
+This wiki is created by fans, for fans, and can be edited by anyone! See [[Special:Community|the Community page]] for our rules and information on how you can help out.
+
+Editing on this wiki requires a FANDOM account. [[Special:UserSignup|Signup here]] if you don't have one.
+
+== Join us on Discord ==
+{{DiscordBanner
+| id = 451104276522074114
+| invite = 86z3wM9
+| style = 2
+}}
+
+== Recent News ==
+{{Xenoblade Wiki:News Archive}}
+&lt;div align="right" class="noprint"&gt;
+'''[[Xenoblade Wiki:News Archive|More news &#8594;]]'''&lt;br /&gt;
+&lt;span class="plainlinks"&gt;'''[http://xenoblade.fandom.com/wiki/Xenoblade_Wiki:News_Archive?action=edit Add news]'''&lt;/span&gt;
+&lt;/div&gt;
+{{clr}}
+
+== Affiliates ==
+{| style="width:100%;font-size:95%;text-align:center;"
+| style="width:100%; border-top:1px solid #6495ed; border-left:1px solid #6495ed; border-right:1px solid #6495ed;" |
+'''Also by Monolith Soft'''
+|-
+| style="width:100%;border:1px solid #6495ed; border-radius: 7px;" |
+[[File:XS Wiki banner.png|center|190px|link=w:c:xenosaga]]&lt;center&gt;'''''Xenosaga Wiki'''''&lt;/center&gt;
+|-
+| style="width:100%;border:1px solid #6495ed; border-radius: 7px;" |
+[[File:Canvas sized.png|center|190px|link=w:c:batenkaitos]]&lt;center&gt;'''''Baten Kaitos Wiki'''''&lt;/center&gt;
+|-
+| style="height:15px;" |
+|-
+| style="width:100%; border-top:1px solid #6495ed; border-left:1px solid #6495ed; border-right:1px solid #6495ed;" |
+'''Operation Rainfall'''
+|-
+| style="width:100%;border:1px solid #6495ed; border-radius: 7px;" |
+[[File:TLSAffiliate.png|center|190px|link=w:c:laststory]]&lt;center&gt;'''''The Last Story Wiki'''''&lt;/center&gt;
+|-
+| style="width:100%;border:1px solid #6495ed; border-radius: 7px;" |
+[[File:PTAffiliate.png|center|190px|link=w:c:pandorastower]]&lt;center&gt;'''''Pandora's Tower Wiki'''''&lt;/center&gt;
+|}
+&lt;mainpage-endcolumn /&gt;
+&lt;br clear="all" /&gt;
+{{w:FooterJRPGGames}}
+__NOTOC__ &lt;!-- This removes the table of contents --&gt;
+__NOEDITSECTION__ &lt;!-- This removes the section edit links --&gt;
+
+[[fr:Wiki_Xenoblade]]
+[[es:Wikia_Xenoblade]]
+[[de:Xenoblade_Wiki]]
+[[tr:Xenoblade_Wiki]]
+[[zh:&#39318;&#39029;]]
+[[Category:Xenoblade Wiki]]</text>
+      <sha1>6qt787t9vhaibyisnpevdetpgpbyosp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Xera</title>
+    <ns>0</ns>
+    <id>122258</id>
+    <revision>
+      <id>597797</id>
+      <parentid>596105</parentid>
+      <timestamp>2023-07-02T16:29:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1553" sha1="9axd37ja606q87mwbukllm11ma84r82" xml:space="preserve">{{Infobox NPC
+|name        = Xera
+|image       = Strm npc 222 0.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Agnus|Agnian]] human
+|age         = 9th Term
+|location    = [[Agnus Castle Region]]
+}}
+'''Xera''' is an NPC in {{XC3}} who can be found in the [[Agnus Castle Region]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Xera
+|image        = 
+|caption      = Xera
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 57
+|area         = [[Agnus Castle Region]] ([[Ascension Grounds]])
+|spawntime    = During ''[[The Three Fiends]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Xera''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. She is an [[Agnus Forces|Agnus Soldier]] who is fought alongside [[Tohma]] and [[Jhodor]] at level 57 on the [[Ascension Grounds]] in the [[Agnus Castle Region]] if the party chooses to fight them during ''[[The Three Fiends]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Agnus Castle Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Agnus Castle Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>9axd37ja606q87mwbukllm11ma84r82</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>X&#8734;</title>
+    <ns>0</ns>
+    <id>121750</id>
+    <revision>
+      <id>580669</id>
+      <parentid>569621</parentid>
+      <timestamp>2023-03-28T15:25:52Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Added DLC note</comment>
+      <origin>580669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1618" sha1="rl5c0xh0sq500svpi13zo12zqe5x3wn" xml:space="preserve">{{Spoiler}}
+{{Infobox XC3 Enemy
+|name         = X&#8734;
+|image        = X&#8734;.jpg
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 75
+|area         = [[Origin]]
+|spawntime    = Story
+|respawn      = No
+|movement     = Stationary
+|detection    = 
+|exp          = 3,800
+|cp           = 250
+|sp           = 0
+|gold         = 0
+|hp           = 993,720
+|strength     = 997
+|healing      = 469
+|dexterity    = 223
+|agility      = 172
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''X&#8734;''' is a [[Boss (XC3)|Boss]] in {{XC3}}. It is a [[Moebius]] fought at level 75 in [[Origin]]. During the battle, only [[Noah]], [[Lanz]], and [[Eunie]] will be usable. The equipped Hero may also be available during the battle, which will prevent that Hero from participating in the fight against [[Y&#8734;]]. This enemy is fought during the second phase of the final Boss fight against [[Z&#8734;]]. Several [[Hero]]es (except for [[Ino]] and [[Masha]]) are summoned by [[Melia]] and [[Nia]] to aid the party when X&#8734;'s HP depletes enough. Whenever the player uses a [[Battle Arts (XC3)|Talent Art]], a random Hero will follow up with their own Talent Art. Once defeated, the rest of the party will fight Y&#8734;.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 75%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 71-75 Enemies]]</text>
+      <sha1>rl5c0xh0sq500svpi13zo12zqe5x3wn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Y</title>
+    <ns>0</ns>
+    <id>118614</id>
+    <revision>
+      <id>598316</id>
+      <parentid>587994</parentid>
+      <timestamp>2023-07-05T01:16:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>598316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7682" sha1="5gdspf0pbxyzmsfzavv1eytm5x0uejh" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Y
+|image         = XC3 Consul Y portrait.jpg 
+|species       = [[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = White
+|eyecolor      = Red
+|affiliation   = [[Consul]]s
+|voiceactorjp  = Tetsu Inada
+|voiceactoreng = Colin McFarlane
+|appearances   = {{XC3}}
+}}
+{{quote|The brilliance doth please. For ceaseless eons, we Moebius have abidden apace with this world. Yet with drawn-out abiding, many lost sight of the pith thereof... dissipating slowly, as doth the world. The brilliance of life is exigent. More dazzling than now... If we wish... to save the world...|Y}}
+'''Y''' is a character in {{XC3}}.
+
+== Overview ==
+Y is a [[Consul]] and the inventor of the [[Flame Clock]]s, this was his gift as an "Avatar" of [[Z]]. He oversees [[Colony Omega]] and uses its residents as test subjects for his deranged "research". Along with [[X]] and Z, he is one of the original Consuls. At some point, [[Mio]], [[Miyabi]], and [[Sena]] were assigned to his colony. One of his experiments went awry, killing most of the colony members leaving Mio, Sena, and unbeknownst to the former two, Miyabi as the sole three survivors.
+{{clr}}
+
+== Story ==
+Y appears in Origin to discuss Ouroboros's progress. He later reappears after [[N]]'s defeat at the Agnian castle to declare his intent to take charge of the fight against Ouroboros.
+
+He is one of the original Moebius alongside X and Z. He considered the Flame Clocks given to [[Ethel]] and [[Cammuravi]] one of his finest creations. 
+
+Y is encountered at Colony Omega, [[Mio]] and [[Sena]]'s old colony, in ''[[Side Story: Mio]]'' during [[Chapter 6 (XC3)|Chapter 6]]. The violet Flame Clock he made is a special kind, it allowed him to revive [[Miyabi]], [[Mwamba]], [[Hackt]], and Cammuravi close to their [[Homecoming Ceremony]], but seemingly devoid of their memories. He made them fight against [[Ouroboros]] but seeing Miyabi playing her [[Flute|flute]], Mio and [[Noah]] decided to do the same, allowing the others fight. The music and [[Lucky Seven|sword of the end]] freed the four from Y's control and even restored their past memories. This made Y furious, and he turned into his Moebius form to attack Ouroboros, who say he is even "chunkier" than [[K]]. [[Taion]] immobilized him allowing Noah to destroy the Flame Clock. Y said he was impressed, he told them to spread their brilliance through the world, and he'd be watching eagerly before disappearing.
+
+During ''[[Side Story: Lanz]]'', Y talks with [[H]] about her plans to attack the [[City]] telling her that the residents won't give her life due to not being connected to a Flame Clock. However, H told him will be using a special green one that Y was going to get rid of, he first called it lunacy but takes it back. Unfortunately for them, that Flame Clock was also destroyed and H herself was defeated.
+
+Y is last seen at [[Defense Tower 4|Defense Tower #4]] in [[Origin]], where he stands as Z's last line of defense, fighting the party in his Moebius form, before being killed. A being known as [[Y&#8734;]] that resembles Y is also fought during the final battle against Z.
+
+== Personality ==
+Similar to other Moebius, Y is arrogant and views mortal lives as little more than food for Moebius or research subjects for his experiments. Y is fanatically reverent of Z, considering himself and the other Moebius to be extensions of Z's will. He is very level-headed and rarely loses his temper except for events that contradict his expectations, particularly when Ouroboros is able to override the established laws of life and death Z created.
+
+Y is dedicated to improving Moebius's life and is fascinated at how strong a person's lifeforce can become in the moments prior to their demise. However, he is dismissive and unconcerned with memories and emotion, believing them to be external factors that get "tacked on" during life and free will to be an "undesirable side-effect" in his experiments. Y is nihilistic and believes life is devoid of any inherent meaning.
+
+== Battle ==
+&lt;div style="float: right;"&gt;&lt;tabber&gt;
+|-|Captocorn Peak =
+{{Infobox XC3 Enemy
+|name         = Moebius Y
+|image        = Moebius Y1.jpg
+|caption      = Moebius Y
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 54
+|area         = [[Captocorn Peak]] ([[Colony Omega]])
+|spawntime    = During ''[[Side Story: Mio]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 5,280
+|cp           = 600
+|sp           = 0
+|gold         = 0
+|hp           = 3,763,400
+|strength     = 761
+|healing      = 344
+|dexterity    = 175
+|agility      = 116
+|physdef      = 40%
+|ethdef       = -30%
+|critrate     = 0%
+|guardrate-front   = 15%
+|guardrate-side    = 15%
+|guardrate-back    = 0%
+}}
+
+|-|Origin Interior =
+{{Infobox XC3 Enemy
+|name         = Moebius Y
+|image        = Moebius Y2.jpg
+|caption      = Moebius Y
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 70
+|area         = [[Origin Interior]] ([[Defense Tower 4|Defense Tower #4]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 8,160
+|cp           = 600
+|sp           = 0
+|gold         = 0
+|hp           = 5,666,800
+|strength     = 991
+|healing      = 439
+|dexterity    = 231
+|agility      = 160
+|physdef      = 30%
+|ethdef       = -30%
+|critrate     = 0%
+|guardrate-front   = 15%
+|guardrate-side    = 15%
+|guardrate-back    = 0%
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Moebius Y''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and is fought at level 54 in [[Colony Omega]] on [[Captocorn Peak]] during ''[[Side Story: Mio]]''. He is later fought as a Boss at level 70 in [[Defense Tower 4|Defense Tower #4]] in the [[Origin Interior]].
+=== Resistances ===
+{{XC3 Resistances
+|break       = 90%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = Immune
+|etherdebuff = 85%
+}}
+
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Moebius Y
+|image        = XC3 Moebius Y DLC Battle.jpg
+|caption      = Moebius Y
+|type         = [[Moebius]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 75
+|detection    = 
+|spawntime    = During ''[[Stage of Destiny]]''
+|respawn      = No
+|exp          = 9,120
+|cp           = 600
+|sp           = 0
+|gold         = 0
+|hp           = 1,581,840
+|strength     = 575
+|healing      = 469 
+|dexterity    = 249
+|agility      = 161
+|physdef      = 40%
+|ethdef       = -30%
+|critrate     = 0%
+|guardrate-front   = 15%
+|guardrate-side    = 15%
+|guardrate-back    = 0%
+}}
+Moebius Y is fought at level 75 alongside [[X|Moebius X]] during the fourth wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]''.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3-Consul Y.png|Official Artwork of Y
+XC3-Moebius Y Artwork.png|Official Artwork of Moebius Y
+Consul Y &amp; L.jpg|Full Concept art of Y
+XC3 Consul Y no helmet.jpg|Y without his helmet
+Consul Y.jpg|Y with his helmet
+Consul Y02.jpg|Y and Miyabi
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]</text>
+      <sha1>5gdspf0pbxyzmsfzavv1eytm5x0uejh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Yaghini Aspar</title>
+    <ns>0</ns>
+    <id>121076</id>
+    <revision>
+      <id>598189</id>
+      <parentid>560004</parentid>
+      <timestamp>2023-07-04T17:20:52Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="827" sha1="qnbbm1ejd6su1v2p7ssp6mvwv368l3v" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Yaghini Aspar
+|image        = Yaghini Aspar.jpg
+|caption      = Yaghini Aspar
+|category     = Normal Minor Enemy
+|type         = [[Aspar]]
+|level        = 36
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Glam Rock]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Yaghini Aspars''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level 36 on [[Glam Rock]] in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qnbbm1ejd6su1v2p7ssp6mvwv368l3v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Yarmil</title>
+    <ns>0</ns>
+    <id>121793</id>
+    <revision>
+      <id>601276</id>
+      <parentid>577566</parentid>
+      <timestamp>2023-07-22T09:58:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Affinity */</comment>
+      <origin>601276</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1782" sha1="sy1epmm89vq40b22ybr2h8gm3qmutaa" xml:space="preserve">{{Infobox_NPC
+|name        = Yarmil
+|image       = XC3 Yarmil Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = 
+|age         = 27
+|location    = [[Great Sword's Base]]
+}}
+'''Yarmil''' is an NPC in {{XC3}} who can be found in the [[Great Sword's Base]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Yarmil
+|image        = 
+|caption      = Yarmil
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = 52
+|area         = [[Great Sword's Base]] ([[Hidden Weapon Lab]])
+|spawntime    = During ''[[Payback for Treason]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Yarmil''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a member of the [[Lost Numbers (enemy)|Lost Numbers]], and can be found at level 52 in the [[Hidden Weapon Lab]] at the [[Great Sword's Base]] during ''[[Payback for Treason]]''.
+{{clr}}
+
+== Affinity ==
+{{XC3 Affinity Link
+| npc1 = Yarmil
+| npc2 = Broo
+| affinity = blue
+| caption = Their plan failed
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Yarmil
+| npc2 = Rozana
+| affinity = blue
+| caption = Traitor
+| direction = right
+}}
+{{xc3 stub}}
+
+[[Category:Cadensia Region NPCs]]
+[[Category:City NPCs]]
+[[Category:Lost Numbers]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>sy1epmm89vq40b22ybr2h8gm3qmutaa</sha1>
+    </revision>
+  </page>
+  </mediawiki>

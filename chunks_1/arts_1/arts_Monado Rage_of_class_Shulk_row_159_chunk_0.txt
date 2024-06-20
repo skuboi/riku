@@ -1,0 +1,6 @@
+Art Name: Monado Rage
+
+Class: Shulk
+
+Effect: Target Lock
+

@@ -1,0 +1,6 @@
+Skill Name: Fighting Prowess 
+
+Class: Ogre
+
+Skill Buff or Effect:  Boosts damage dealt by physical Arts by 50%. [Rank 5 Master Skill]
+

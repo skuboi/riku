@@ -1,0 +1,6 @@
+Skill Name: Tenacious Blocker 
+
+Class: Heavy Guard
+
+Skill Buff or Effect:  Boosts Block Rate by 50% when HP is at 30% or lower. [Rank 15 Master Skill]
+

@@ -1,0 +1,6 @@
+Art Name: Summon Element
+
+Class: Royal Summoner
+
+Effect: AOE/Summon Elementals
+

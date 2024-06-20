@@ -1,0 +1,6 @@
+Art Name: Shockwave
+
+Class: Lost Vanguard
+
+Effect: Knockback mid-Art enemy
+

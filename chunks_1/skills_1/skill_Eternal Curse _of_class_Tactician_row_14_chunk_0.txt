@@ -1,0 +1,6 @@
+Skill Name: Eternal Curse 
+
+Class: Tactician
+
+Skill Buff or Effect:  Extends duration timers of debuffs applied to enemies by 50%.
+

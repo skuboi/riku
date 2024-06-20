@@ -1,0 +1,6 @@
+Art Name: Glitter Stream
+
+Class: Incursor
+
+Effect: SideÊBreak
+

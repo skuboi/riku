@@ -1,0 +1,1303 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Golden Headband (XC3)</title>
+    <ns>0</ns>
+    <id>122639</id>
+    <revision>
+      <id>566730</id>
+      <parentid>565396</parentid>
+      <timestamp>2022-11-22T16:00:30Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1050" sha1="fb1ie73qzdxm4ijhita2jb1mj4n0376" xml:space="preserve">{{for|the Accessory in {{TTGC|-}}|Golden Headband (TTGC)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Golden Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze resistance by 50 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,200 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Golden Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze resistance by 55 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,200 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Golden Headband
+|image     = File:XC3 Accessory Cap.png
+|caption   = Increases Daze resistance by 60 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,200 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Golden Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>fb1ie73qzdxm4ijhita2jb1mj4n0376</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Goliath Brog (XC3)</title>
+    <ns>0</ns>
+    <id>121040</id>
+    <revision>
+      <id>559673</id>
+      <parentid>557900</parentid>
+      <timestamp>2022-09-30T10:47:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559673</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="835" sha1="f99ano701l9i8z53kywzhylw88ar6pl" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Goliath Brog (XC2)}}
+{{Infobox Enemy
+|name         = Goliath Brog
+|image        = 
+|caption      = Goliath Brog
+|category     = Minor Enemy
+|type         = [[Brog]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Goliath Brogs''' are Minor Enemies in {{XC3}}. They are members of the [[Brog]] family, and can be found at level ? at [[Captocorn Peak]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>f99ano701l9i8z53kywzhylw88ar6pl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Goran Moglum</title>
+    <ns>0</ns>
+    <id>121826</id>
+    <revision>
+      <id>564947</id>
+      <parentid>559674</parentid>
+      <timestamp>2022-11-07T05:51:08Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564947</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="835" sha1="g89ernptucr2b34rpvo1lbv0tsyqmx8" xml:space="preserve">{{Infobox Enemy
+|name         = Goran Moglum
+|image        = 
+|caption      = Goran Moglum
+|category     = Minor Enemy
+|type         = [[Moglum]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Goran Moglums''' are Minor Enemies in {{XC3}}. They are members of the [[Moglum]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Moglums]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>g89ernptucr2b34rpvo1lbv0tsyqmx8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gorgeous Mandora</title>
+    <ns>0</ns>
+    <id>119438</id>
+    <revision>
+      <id>581773</id>
+      <parentid>574371</parentid>
+      <timestamp>2023-04-05T22:06:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1348" sha1="ohkbgbyt8e040jv803tee8bao7umugz" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Gorgeous Mandora
+|image        = XC3 Gorgeous Mandora.png
+|caption      = Gorgeous Mandora
+|type         = [[Blant]]
+|level        = 96
+|area         = [[Low Maktha Wildwood]] ([[Cavern of Oblivion]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 5,092
+|cp           = 445
+|sp           = 5
+|gold         = 2,556
+|hp           = 8,197,200
+|strength     = 2,064
+|healing      = 4,752
+|dexterity    = 400
+|agility      = 263
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Gorgeous Mandora''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Blant]] family, and can be found at level 96 in the [[Cavern of Oblivion]] in [[Low Maktha&#160;Wildwood]]. The [[Life Plant]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|physdebuff = 60%
+|etherdebuff = 90%
+|knockback = 90%
+|blowdown = 90%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Gorgeous mandora location.png
+Gorgeous mandora.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Blants]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ohkbgbyt8e040jv803tee8bao7umugz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Graaf Nos</title>
+    <ns>0</ns>
+    <id>121732</id>
+    <revision>
+      <id>598154</id>
+      <parentid>579970</parentid>
+      <timestamp>2023-07-04T16:39:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="fmrncpbdfb28xa90ndxjyu5lsr1e5qo" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Graaf Nos
+|image        = Graaf Nos.jpg
+|caption      = Graaf Nos
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 68-69
+|area         = [[Origin Interior]] ([[Hangar Zone]], [[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Graaf Nos''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 68-69 in the [[Hangar Zone]] and [[Central Defense]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>fmrncpbdfb28xa90ndxjyu5lsr1e5qo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Graaf Zoonos</title>
+    <ns>0</ns>
+    <id>121733</id>
+    <revision>
+      <id>598151</id>
+      <parentid>579971</parentid>
+      <timestamp>2023-07-04T16:35:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="769" sha1="5te9s4smd55lon236jg5fh4dao0b3e9" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Graaf Zoonos
+|image        = Graaf Zoonos.jpg
+|caption      = Graaf Zoonos
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 68-69
+|area         = [[Origin Interior]] ([[Hangar Zone]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Graaf Zoonos''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 68-69 in the [[Hangar Zone]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5te9s4smd55lon236jg5fh4dao0b3e9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gracious Titania</title>
+    <ns>0</ns>
+    <id>119435</id>
+    <revision>
+      <id>574373</id>
+      <parentid>561727</parentid>
+      <timestamp>2023-01-28T03:51:39Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1409" sha1="01n1lxnhpcg6udr64e1aksrnr3v6ynf" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Gracious Titania
+|image        = XC3 Gracious Titania.png
+|caption      = Gracious Titania
+|type         = [[Arachno]]
+|level        = 50
+|area         = [[Urayan Tunnels]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,450
+|cp           = 679
+|sp           = 5
+|gold         = 2,208
+|hp           = 1,572,000
+|strength     = 717
+|healing      = 376
+|dexterity    = 176
+|agility      = 182
+|physdef      = 20%
+|ethdef       = 0%
+|critrate     = 12%
+|guardrate-front = 10%
+|guardrate-side = 10%
+|guardrate-back = 0%
+}}
+'''Gracious Titania''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Arachno]] family, and can be found at level 50 in the [[Urayan Tunnels]], accessed by taking the rope slide near the [[Roaring Spring]]. The [[Battle Pheromone]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 65%
+|physdebuff = 50%
+|etherdebuff = Immune
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Gracious titania location.png
+Gracious titania.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Arachnos]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>01n1lxnhpcg6udr64e1aksrnr3v6ynf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gradya Arachno</title>
+    <ns>0</ns>
+    <id>123223</id>
+    <revision>
+      <id>599280</id>
+      <parentid>596025</parentid>
+      <timestamp>2023-07-09T16:55:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>599280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1598" sha1="mi8dpfrxtjf4fvcnbnt186gp5ztb3lr" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Gradya Arachno
+|image        = 
+|caption      = Gradya Arachno
+|category     = Normal Minor Enemy
+|type         = [[Arachno]]
+|level        = 63
+|area         = [[Erythia Sea]] ([[Lavi Sandbar]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Gradya Arachnos''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Arachno]] family, and can be found at level 63 on [[Lavi Sandbar]] in [[Erythia Sea]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Gradya Arachno
+|image        = Gradya Arachno FR.jpg
+|caption      = Gradya Arachno
+|category     = Normal Enemy
+|type         = [[Arachno]]
+|level        = 43
+|area         = [[Black Mountains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Gradya Arachnos''' are normal enemies in {{XC3FR}}. They are members of the [[Arachno]] family, and can be found at level 43 on the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3FR Arachnos]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>mi8dpfrxtjf4fvcnbnt186gp5ztb3lr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gragran Bunnit</title>
+    <ns>0</ns>
+    <id>121719</id>
+    <revision>
+      <id>582042</id>
+      <parentid>561173</parentid>
+      <timestamp>2023-04-07T21:51:35Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582042</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="798" sha1="tgv1lcxj7gwtpbebt5soa4u7uaiuxs3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Gragran Bunnit
+|image        = 
+|caption      = Gragran Bunnit
+|category     = Normal Minor Enemy
+|type         = [[Bunnit]]
+|level        = 87
+|area         = [[The Cavity]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Gragran Bunnits''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 87 in [[The Cavity]] of [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tgv1lcxj7gwtpbebt5soa4u7uaiuxs3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grand Design</title>
+    <ns>0</ns>
+    <id>118183</id>
+    <revision>
+      <id>591887</id>
+      <parentid>562041</parentid>
+      <timestamp>2023-05-14T14:35:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="509" sha1="j7sicycbbgvxm1wt2nz4s2mtiq95gw9" xml:space="preserve">{{Infobox battle art
+|name        = Grand Design
+|image       = Strm_order_thumb010_0.png
+|who         = [[Taion]] ([[Ouroboros]])
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = ?
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Greatly increases damage ratio and fully heals all allies.
+|duration    = 
+}}
+
+'''Grand Design''' is [[Taion]]'s [[Ouroboros]] [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Ouroboros Arts]]
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>j7sicycbbgvxm1wt2nz4s2mtiq95gw9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grand Marshal</title>
+    <ns>0</ns>
+    <id>126342</id>
+    <revision>
+      <id>603257</id>
+      <parentid>597260</parentid>
+      <timestamp>2023-07-25T13:35:27Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons. for some reason, natural born warrior has a different icon in base game, idk why</comment>
+      <origin>603257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4749" sha1="8iqa5c9y0mdpk6r1j9zcolzhn34igzj" xml:space="preserve">{{Spoiler}}
+{{quote|A Defender who preempts and evades enemy attacks, holding their own even in attack and support.|Class menu description}}
+[[File:Grand Marshal Class Icon.png|thumb|The Grand Marshal class icon]]
+'''Grand Marshal''' is a [[Keves]]i [[Defender (XC3)|Defender]] [[Class (XC3)|class]] in {{XC3FR}} and {{XC3}}.
+
+== Overview ==
+Grand Marshal is [[Shulk]]'s class. As a Grand Marshal, Shulk wields his [[Monado Replica EX+|Monado REX+]] from {{XCFC}} as his [[Blade (XC3)|Blade]].
+
+After completing the [[Challenge Battle Mode|Challenge Battle]] ''[[The Two Saviors]]'', Shulk can use the class in the main game as a [[Hero]], but the class cannot be used by anyone else.
+
+== Class Stats ==
+The Grand Marshal class grants the following multipliers to Shulk's base stats, and sets his Physical and Ether Defense to the following values. In practice, these multipliers are always in effect, since Shulk cannot change classes.
+
+Internally, the Grand Marshal class is programmed with 20 Ranks in both the main game and {{XC3FR|sub}}, though the multipliers between the two appearances are identical, and in both cases there are no differences in multipliers between Ranks. In {{XC3FR|sub}}, Shulk is programmed to start at Rank 20 in this class; as a result, CP gains from enemies are not shown.
+{| class="xc1 centered" width="100%"
+! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 110% || 95% || 60% || 110% || 125% || 40% || 40%
+|}
+=== Weapon Stats ===
+{{Main|Shulk#Weapon Stats}}
+In {{XC3FR|sub}}, the Grand Marshal's weapon can be upgraded in [[Riku's Workshop]], and is not dependent on character Level unlike in the main game, whereas in the main game, it does depend on character Level. In either case, the weapon stats add to Shulk's Attack stat and sets his Critical Rate and Block Rate.
+
+The weapon levels in {{XC3FR|sub}} correspond to certain levels in the main game's weapon stat table. Their stats are interspersed with the main game's weapon table here; sorting by "FR Weapon Level" displays the {{XC3FR|sub}} weapon stats first.
+
+{| class="xc1 centered sortable" width="70%"
+! XC3 Char. Level !! FR Weapon Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || data-sort-value="11" | - || 18 || 8% || 20%
+|-
+| 10 || data-sort-value="1" | I || 39 || 9% || 21%
+|-
+| 16 || data-sort-value="2" | II || 58 || 9% || 22%
+|-
+| 20 || data-sort-value="11" | - || 72 || 10% || 22%
+|-
+| 22 || data-sort-value="3" | III || 79 || 10% || 22%
+|-
+| 30 || data-sort-value="4" | IV || 111 || 10% || 23%
+|-
+| 38 || data-sort-value="5" | V || 146 || 11% || 24%
+|-
+| 40 || data-sort-value="11" | - || 155 || 11% || 24%
+|-
+| 46 || data-sort-value="6" | VI || 185 || 12% || 25%
+|-
+| 50 || data-sort-value="11" | - || 207 || 12% || 25%
+|-
+| 54 || data-sort-value="7" | VII || 229 || 12% || 26%
+|-
+| 60 || data-sort-value="11" | - || 269 || 13% || 26%
+|-
+| 66 || data-sort-value="8" | VIII || 300 || 13% || 27%
+|-
+| 70 || data-sort-value="11" | - || 326 || 14% || 27%
+|-
+| 80 || data-sort-value="11" | - || 398 || 15% || 28%
+|-
+| 82 || data-sort-value="9" | IX || 413 || 15% || 28%
+|-
+| 90 || data-sort-value="11" | - || 479 || 15% || 29%
+|-
+| 99 || data-sort-value="10" | X || 559 || 16% || 30%
+|}
+
+== Arts ==
+* '''[[Monado Buster]]''' (Talent Art), AOE/[[Awakening (XC3)|Awakened]]+/Pierce
+* '''[[Stream Edge (XC1)|Stream Edge]]''', [[Break (XC3)|Break]]
+* '''[[Heavy Rush]]''', Awakened Boost
+* '''[[Slit Edge (XC1)|Slit Edge]]''', AOE/[[Bleed (XC3)|Bleed]]
+* '''[[Monado Rage]]''', [[Target Lock]]
+* '''[[Monado Armor]]''', Field/[[Armor Veil]]
+* '''[[Monado Purge]]''', AOE/Aggroed+
+
+== Skills ==
+* [[File:XC3 Skill Icon 18.png]] '''Right Back At You''', When nearby ally is attacked, deal 100-200% of attack in damage to enemy.
+* [[File:XC3 Skill Icon 2.png]] '''Natural Born Warrior''', Grants a small-large increase to damage dealt the more enemies target you (up to a maximum of 300%).
+* [[File:XC3 Skill Icon 18.png]] '''Sword of Reprisal''', Deals 150-300% of Attack damage when you evade an attack.
+* [[File:XC3 Skill Icon 9.png]] '''Mechanical Rhythm''', 5-15% chance for own attack to become a guaranteed hit and to evade enemy attacks during it.
+* [[File:XC3 Skill Icon 18.png]] '''Gentleman's Valor''', Grants Awakening when damage taken exceeds 40-20% of max HP. When using Shulk as a Hero in {{XC3|-}}, this skill replaces Sword of Reprisal.
+{{clr}}
+
+== Trivia ==
+[[File:XC3 Skill Icon 10.png|thumb|Base game icon]]
+*Oddly, the skill Natural Born Warrior has a different icon in {{XC3|-}}, compared to {{XC3FR|sub}}.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3FR Shulk Official Artwork.png|Shulk, a Grand Marshal
+&lt;/gallery&gt;
+
+{{fr stub}}
+[[Category:XC3FR Classes]]
+[[Category:XC3 Classes]]</text>
+      <sha1>8iqa5c9y0mdpk6r1j9zcolzhn34igzj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grandclaw Crustip</title>
+    <ns>0</ns>
+    <id>121827</id>
+    <revision>
+      <id>559679</id>
+      <parentid>546942</parentid>
+      <timestamp>2022-09-30T10:48:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559679</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="6hotkl6z9zdwp3qoi5cafmtjpwx1rxa" xml:space="preserve">{{Infobox Enemy
+|name         = Grandclaw Crustip
+|image        = 
+|caption      = Grandclaw Crustip
+|category     = Minor Enemy
+|type         = [[Crustip]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Grandclaw Crustips''' are Minor Enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6hotkl6z9zdwp3qoi5cafmtjpwx1rxa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Graphite Kneeguard</title>
+    <ns>0</ns>
+    <id>118958</id>
+    <revision>
+      <id>566731</id>
+      <parentid>565397</parentid>
+      <timestamp>2022-11-22T16:05:28Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566731</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="lkbz5ulxds6v0w0nmlwdj7eih56zeb8" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Graphite Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple Resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Graphite Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple Resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Graphite Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple Resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Graphite Kneeguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>lkbz5ulxds6v0w0nmlwdj7eih56zeb8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grapple Bunnit</title>
+    <ns>0</ns>
+    <id>121013</id>
+    <revision>
+      <id>559680</id>
+      <parentid>545322</parentid>
+      <timestamp>2022-09-30T10:48:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="pt4kqrr2x9rl77rqawb5n7qo88m0gh7" xml:space="preserve">{{Infobox Enemy
+|name         = Grapple Bunnit
+|image        = 
+|caption      = Grapple Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Grapple Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>pt4kqrr2x9rl77rqawb5n7qo88m0gh7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grauw Crustip</title>
+    <ns>0</ns>
+    <id>123780</id>
+    <revision>
+      <id>559681</id>
+      <parentid>557188</parentid>
+      <timestamp>2022-09-30T10:48:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559681</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="1pdttdepu7a78exnri4xy52chn5eb0q" xml:space="preserve">{{Infobox Enemy
+|name         = Grauw Crustip
+|image        = 
+|caption      = Grauw Crustip
+|category     = Minor Enemy
+|type         = [[Crustip]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Grauw Crustips''' are Minor Enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level ? in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>1pdttdepu7a78exnri4xy52chn5eb0q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grave Bunnit</title>
+    <ns>0</ns>
+    <id>117960</id>
+    <revision>
+      <id>559682</id>
+      <parentid>541110</parentid>
+      <timestamp>2022-09-30T10:48:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="njn5atgw56l5aoytahnifnmx3w16y0e" xml:space="preserve">{{Infobox Enemy
+|name         = Grave Bunnit
+|image        = 
+|caption      = Grave Bunnit
+|category     = Normal Enemy
+|type         = [[Bunnit]]
+|level        = 5
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 18
+|wp           = 
+|sp           = 
+}}
+'''Grave Bunnits''' are enemies in {{XC3}}. &lt;ref&gt;[https://youtu.be/WnXdsKL-45s]&lt;/ref&gt; They are members of the [[Bunnit]] family, and can be found at level 5 in [[Yzana Plains]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>njn5atgw56l5aoytahnifnmx3w16y0e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grawn Ropl</title>
+    <ns>0</ns>
+    <id>121700</id>
+    <revision>
+      <id>595959</id>
+      <parentid>559683</parentid>
+      <timestamp>2023-06-16T18:44:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595959</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1077" sha1="o1hbiafxtnipxwrrrtz7d9x6lbx90lt" xml:space="preserve">{{Infobox Enemy
+|name         = Grawn Ropl
+|image        = 
+|caption      = Grawn Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Grawn Ropl''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Ropl]] family, and can be found at level ? at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Ropl]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>o1hbiafxtnipxwrrrtz7d9x6lbx90lt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gray</title>
+    <ns>0</ns>
+    <id>117408</id>
+    <revision>
+      <id>601271</id>
+      <parentid>600212</parentid>
+      <timestamp>2023-07-22T09:58:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */</comment>
+      <origin>601271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7457" sha1="5uwufrctfowy9a772lf7o9dwl0uiu3f" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Gray
+|image        = XC3 Gray Portrait Art.png
+|species      = [[City|Citizen]]
+|gender       = Male
+|age          = 60
+|haircolor    = Gray
+|eyecolor     = Blue
+|affiliation  = [[Lost Numbers]]
+|appearances  = {{XC3}}
+|voiceactorjp = [[wikipedia:Shigeru Chiba|Shigeru Chiba (Masaharu Maeda)]]
+|voiceactoreng= [[wikipedia:Shaun Dooley|Shaun Dooley]]
+}}
+'''Ashenpelt Gray''' (Japanese: {{lang|ja|&#28784;&#29436;&#12398;&#12464;&#12524;&#12452;}}, ''Gurei'') is a character in {{XC3}}.&lt;ref&gt;https://twitter.com/NintendoEurope/status/1547491112423772161&lt;/ref&gt;
+
+== Overview ==
+He can be recruited as a [[Hero]]. He is a gruff, gun-wielding soldier of few words whose right eye is covered with an eyepatch, and is shrouded in mystery. He is a member of the [[Lost Numbers]] and is from the [[City]]. His wife is [[Rozana]].
+
+Gray is recruited by completing the [[Hero Quest]] ''[[A Gray Matter]]''. His [[Class Rank (XC3)|Class Rank]] can be increased to 20 by completing the Ascension Quest ''[[Payback for Treason]]''.
+
+== Story ==
+Prior to meeting the party, Gray was a member of the Lost Numbers who undertook secretive solo missions on behalf of the City. Despite his nature as a lone wolf, he is known to have fought on the frontlines with [[Guernica Vandham]], resulting in the two of them becoming close friends.
+
+Depending on the player's actions, he can either meet Noah's party at the start of their journey or when they are gathering Origin shards.
+
+Gray later joins Noah and his allies in their final battle against [[Z&#8734;]], where alongside all of the other [[Hero]]es they encountered on their journey, he can be summoned by [[Melia]] and [[Nia]] to help fight against [[X&#8734;]] or [[Y&#8734;]].
+
+== Gameplay ==
+His [[Class (XC3)|class]] is [[Full Metal Jaguar (XC3)|Full Metal Jaguar]], an [[Attacker]] class. Gray dishes out damage over a wide area and even uses drones to bolster his offensive capabilities. He is an adaptable hero whose attacks become more sophisticated and powerful the more he hits [[Enemy (XC3)|enemies]].
+
+Gray's [[Battle Arts (XC3)|Chain Art]] is [[Ruthless Persecution]], and his Heroic Chain bonus will multiply the damage ratio increase when an order that Gray takes part in is completed by 1.5x.
+
+=== Base Stats ===
+These are Gray's raw stats prior to modifications by class. They serve as a baseline for calculating his stats in the Full Metal Jaguar class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 455 || 28 || 25 || 32 || 21
+|-
+| 99 || 6,499 || 404 || 361 || 323 || 209
+|}
+
+=== General Stats ===
+These stats assume Gray is at rank 20 in his class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Gray has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1||318||48||11||41 (+20)||23||5%||5%||15%||15%
+|-
+| 99||4,549||993||162||419 (+45)||229||10%||10%||15%||15%
+|}
+
+Gray equips the following gems:
+* [[Empowered Combo]]
+* [[Accurate Grace]], at level 20 onwards
+* [[Analyze Weakness]], at level 40 onwards
+
+Gray equips the following accessories as his default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Bunnit Choker (XC3)|Bunnit Choker]]
+* [[Long-Range Memory]], at level 30 onwards
+* [[Smithy Gloves (XC3)|Smithy Gloves]], at level 50 onwards
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Mystery Man
+|image        = XC3 Gray screenshot 02.jpg
+|caption      = Mystery Man
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|level        = 28
+|area         = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime    = During ''[[A Gray Matter]]''
+|respawn      = No
+|movement     = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    =
+}}
+The '''Mystery Man''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Lost Numbers (enemy)|Lost Numbers]] soldier &#8251; fought at level 28 at [[Murmur Rise]] in [[Millick Meadows]] during ''[[A Gray Matter]]''.
+
+&#8251; Despite Gray being a member of the [[Lost Numbers]], this boss is considered a member of the [[Keves Forces]] by the game, as the Keves Forces icon is displayed instead of the Lost Numbers icon.
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Ashenpelt Gray
+|image        = XC3 Gray DLC Fight.jpg
+|caption      = Ashenpelt Gray
+|type         = [[Lost Numbers (enemy)|Lost Numbers]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 110
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 2,757,000
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Ashenpelt Gray''' is fought at level 110 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+
+{{clr}}
+
+== Trivia ==
+* Gray's Japanese voice actor, Shigeru Chiba (Masaharu Maeda), also voices [[Azurda]] in {{XC2}}.
+* Gray is the only [[City]] Hero that can be recruited without the prerequisite of arriving to the City in Chapter 5.
+* Gray may be one of the "Houseless," Cityfolk who cannot trace their ancestry back to any of the [[Memorial Hall|Founders]], as he is notably the only City character whose eyepatch lacks any house symbol, and which house he belongs to is never mentioned. Of course, this could also be a developer oversight.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Gray Artwork.png|Official Artwork of Gray
+XC3 Gray (no mask) Artwork.png|Official Artwork of Gray without his mask
+XC3 Gray as a Full Metal Jaguar.jpg|Gray as a Full Metal Jaguar
+Gray Concept Art.png|Gray's Concept Art
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruitment artwork
+XC3 Gray portrait Artwork.png|Portrait with mask
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Gray Hero Icon.png|Hero List Icon
+Gray Chain Art Icon.png|Gray's Chain Order Icon
+Gray Level Up Art.png|Level Up Art
+Icon chara 24.png
+Icon chara battle 25.png
+Strm npc 236 0.png|Gray's Affinity Chart Icon
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Gray screenshot 01.jpg
+XC3 Gray screenshot 03.jpg
+XC3 Gray screenshot 04.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Gray]]
+[[Category:Lost Numbers]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Lost Numbers Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>5uwufrctfowy9a772lf7o9dwl0uiu3f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grebel</title>
+    <ns>0</ns>
+    <id>74417</id>
+    <revision>
+      <id>602006</id>
+      <parentid>600743</parentid>
+      <timestamp>2023-07-22T12:22:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>602006</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1810" sha1="ahiw6u38vpxdot7h8zrg8gdls2m1igt" xml:space="preserve">[[file:FersGrebel.jpg|thumb|Fers Grebel]]
+'''Grebels''' are a family of enemies in the {{XC|serieslink}}. They are burrowing mouse-like creatures with insectoid features, and come in two colors of green.
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Agam Grebel (XC2)|Agam Grebel]]
+* [[Diggel Grebel (XC2)|Diggel Grebel]]
+* [[Gamen Grebel]]
+* [[Trilut Grebel (XC2)|Trilut Grebel]]
+
+=== Quest Exclusive Enemy ===
+* [[Bodom Grebel (XC2)|Bodom Grebel]] (during ''[[Pest Control 2]]'')
+
+=== Unique Monster ===
+* [[Excavator Darius]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Fers Grebel]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Agam Grebel (XC3)|Agam Grebel]]
+* [[Aggris Grebel]]
+* [[Bodom Grebel (XC3)|Bodom Grebel]]
+* [[Buoyant Grebel]]
+* [[Cadine Grebel]]
+* [[Diggel Grebel (XC3)|Diggel Grebel]]
+* [[Kickitt Grebel]]
+* [[Misterio Grebel]]
+* [[Ordo Grebel]]
+* [[Rossara Grebel]]
+* [[Shenk Grebel]]
+* [[Trilut Grebel (XC3)|Trilut Grebel]]
+* [[Troll Grebel]]
+
+=== Unique Monster ===
+* [[Keen Chicky-Chicky]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Buoyant Grebel]]
+* [[Gotthard-Kin Grebel]] (Summoned by [[Gotthard, the Ethereal]])
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Agam Grebel.jpg|Agam Grebel
+BodomGrebel.jpg|Bodom Grebel
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Agam Grebel XC3.png|Agam Grebel
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Gotthard-Kin Grebel.jpg|Gotthard-Kin Grebel
+&lt;/gallery&gt;
+
+[[Category:XC2 Grebels]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Grebels]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Grebels]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Grebels]]
+[[Category:Species by Type]]</text>
+      <sha1>ahiw6u38vpxdot7h8zrg8gdls2m1igt</sha1>
+    </revision>
+  </page>
+  </mediawiki>

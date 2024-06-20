@@ -1,0 +1,6 @@
+Art Name: Quickdraw
+
+Class: Full Metal Jaguar
+
+Effect: Evade / Front atk _
+

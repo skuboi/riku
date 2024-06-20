@@ -1,0 +1,2043 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dimwitted Tirkin</title>
+    <ns>0</ns>
+    <id>119443</id>
+    <revision>
+      <id>574299</id>
+      <parentid>565463</parentid>
+      <timestamp>2023-01-27T10:07:09Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1382" sha1="bcvytx4k4cpsq5newzg2e1t4mgxtwnb" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Dimwitted Tirkin
+|image        = XC3 Dimwitted Tirkin.png
+|caption      = Dimwitted Tirkin
+|type         = [[Tirkin]]
+|level        = 45
+|area         = [[High Maktha Wildwood]] ([[The Tirkinhold]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,387
+|cp           = 421
+|sp           = 5
+|gold         = 1,938
+|hp           = 1,135,350
+|strength     = 1,341
+|healing      = 285
+|dexterity    = 156
+|agility      = 141
+|physdef      = 25%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate-front  = 30%
+|guardrate-side   = 0%
+|guardrate-back   = 0%
+}}
+'''Dimwitted Tirkin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Tirkin]] family, and can be found at level 45 at [[The Tirkinhold]] in [[High Maktha&#160;Wildwood]]. The Royal Aide [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Dimwitted tirkin location.png
+Dimwitted tirkin.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bcvytx4k4cpsq5newzg2e1t4mgxtwnb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dingaa Bunnit</title>
+    <ns>0</ns>
+    <id>121712</id>
+    <revision>
+      <id>559630</id>
+      <parentid>557253</parentid>
+      <timestamp>2022-09-30T10:46:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559630</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="juyu0iib1ewtod8kby4q1ej1ps0075b" xml:space="preserve">{{Infobox Enemy
+|name         = Dingaa Bunnit
+|image        = 
+|caption      = Dingaa Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Great Sword's Hilt]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Dingaa Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Great Sword's Hilt]] in the [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>juyu0iib1ewtod8kby4q1ej1ps0075b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Discordant Igna</title>
+    <ns>0</ns>
+    <id>121088</id>
+    <revision>
+      <id>594290</id>
+      <parentid>559631</parentid>
+      <timestamp>2023-05-27T13:26:49Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1862" sha1="32xudzx7nava37gu3fh2g4xxr4pp4ae" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Discordant Igna
+|image        = 
+|caption      = Discordant Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 44&lt;br/&gt;96-98
+|area         = [[Elaice Highway]] ([[Nid Cave]])&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Discordant Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 44 in [[Nid Cave]] on [[Elaice Highway]], or at level 96-98 in [[Rebellion Cave]] in [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Discordant Igna
+|image        = Discordant Igna FR.jpg
+|caption      = Discordant Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 44
+|area         = [[Black Mountains]] ([[Raxeal Lavaflow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Discordant Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 44 at [[Raxeal Lavaflow]] on the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>32xudzx7nava37gu3fh2g4xxr4pp4ae</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Discordant Merigna</title>
+    <ns>0</ns>
+    <id>121817</id>
+    <revision>
+      <id>559632</id>
+      <parentid>546930</parentid>
+      <timestamp>2022-09-30T10:46:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="814" sha1="7qme3tf68bpd3bimiw85d1nspfm260u" xml:space="preserve">{{Infobox Enemy
+|name         = Discordant Merigna
+|image        = 
+|caption      = Discordant Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Discordant Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>7qme3tf68bpd3bimiw85d1nspfm260u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dishonest Karom</title>
+    <ns>0</ns>
+    <id>119512</id>
+    <revision>
+      <id>574643</id>
+      <parentid>574300</parentid>
+      <timestamp>2023-01-30T01:24:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574643</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1543" sha1="0l4j0mguu50m3csfpbf5cm33jj4dpez" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Dishonest Karom
+|image        = XC3 Hollow Ones.png
+|caption      = Dishonest Karom (Middle Right)
+|type         = [[Droids]]
+|level        = 69
+|area         = [[Origin Interior]] ([[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,314
+|cp           = 239
+|sp           = 5
+|gold         = 552
+|hp           = 1,878,450
+|strength     = 976
+|healing      = 903
+|dexterity    = 234
+|agility      = 217
+|physdef      = 25%
+|ethdef       = 10%
+|critrate     = 0%
+|guardrate-front   = 20%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Dishonest Karom''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Droids]] family, and can be found at level 69 in the [[Origin Interior]], in the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]]. It forms the quatuor "Hollow Ones" with [[Artificial Optho]], [[Vapid Roger]] and [[Phony Temnos]]. The [[Evasive Posture]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = 25%
+|etherdebuff = 60%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hollow ones location.png
+Hollow ones karom.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0l4j0mguu50m3csfpbf5cm33jj4dpez</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Disparre Skwaror</title>
+    <ns>0</ns>
+    <id>124253</id>
+    <revision>
+      <id>579116</id>
+      <parentid>561304</parentid>
+      <timestamp>2023-03-13T17:58:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>579116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1063" sha1="apyedro6q5syu5ikc735mgcbiptalr4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Disparre Skwaror
+|image        = XC3 Disparre Skwaror.png
+|caption      = Disparre Skwaror
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Skwaror]]
+|level        = 20
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Ypsil Hill]])
+|spawntime    = During ''[[Champion of the Nopon]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Disparre Skwarors''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Skwaror]] family, with three being encountered at level 20 on [[Ypsil Hill]] in [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Champion of the Nopon]]''.
+{{clr}}
+{{xc3 stub}}
+
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 DLC Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>apyedro6q5syu5ikc735mgcbiptalr4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Disperse Bloodlust</title>
+    <ns>0</ns>
+    <id>118902</id>
+    <revision>
+      <id>595273</id>
+      <parentid>592016</parentid>
+      <timestamp>2023-06-11T16:38:52Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6382" sha1="r29dtn4vmoizh4c76wevd3wehkqlgvx" xml:space="preserve">{{Infobox Gem
+| name     = Disperse Bloodlust
+| image    = Gem-speciality.png
+| effect   = [Passive] Reduces aggro generated when using Art by ''(value)%''.
+| category = Speciality
+| max      = 45%
+}}
+'''Disperse Bloodlust''' is a Speciality [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Aggro Decrease
+|-
+!I
+|20%
+|-
+!II
+|22%
+|-
+!III
+|25%
+|-
+!IV
+|27%
+|-
+!V
+|30%
+|-
+!VI
+|32%
+|-
+!VII
+|35%
+|-
+!VIII
+|37%
+|-
+!IX
+|40%
+|-
+!X
+|45%
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Disperse Bloodlust I
+|[[Gemstone]]&lt;br /&gt;[[Volffskin]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Disperse Bloodlust II
+|Gemstone&lt;br /&gt;[[Aspar Eyeball]]&lt;br /&gt;[[Rhogul Axe Crest (XC3)|Rhogul Axe Crest]]&lt;br /&gt;[[Kaleidoscelery]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Disperse Bloodlust III
+|Gemstone&lt;br /&gt;[[Noble Feris Mane]]&lt;br /&gt;[[Sweet Kapiba Lard]]&lt;br /&gt;[[Gooey Upa Egg]]&lt;br /&gt;[[Quinini]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Disperse Bloodlust IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Amoney Flower Lure]]&lt;br /&gt;[[Springy Medooz Bell]]&lt;br /&gt;[[Soft-Shelled Aligo Egg]]&lt;br /&gt;[[Million-Leaf Dill]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Disperse Bloodlust V
+|Pure Gemstone&lt;br /&gt;[[Variable Centuris Claw]] x 2&lt;br /&gt;[[Giant Serprond Scale]] x 2&lt;br /&gt;[[Ories Headplate]] x 2&lt;br /&gt;[[Black Blossom (XC3)|Black Blossom]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Disperse Bloodlust VI
+|Pure Gemstone&lt;br /&gt;[[Anlood Antler]] x 2&lt;br /&gt;[[Rich-Smelling Anlood Bone]] x 2&lt;br /&gt;[[Avis Mech Sword]] x 2&lt;br /&gt;[[Blue Sorghum]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Disperse Bloodlust VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Enpedia Headpiece]] x 2&lt;br /&gt;[[Obsidian Kananus Mane]] x 2&lt;br /&gt;[[Antol Queen Compound Eye]] x 3&lt;br /&gt;[[Ekidno Jawbone]] x 3&lt;br /&gt;[[Wraithwood (XC3)|Wraithwood]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Disperse Bloodlust VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;Aspar Eyeball x 15&lt;br /&gt;Amoney Flower Lure x 15&lt;br /&gt;[[Vollgull Mask]] x 15&lt;br /&gt;[[Evil Drague Eye]] x 15&lt;br /&gt;[[Buloofo Fossil]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Disperse Bloodlust IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;Giant Serprond Scale x 20&lt;br /&gt;[[Supersonic Vang Organ]] x 20&lt;br /&gt;[[Royal Ardun Horn]] x 20&lt;br /&gt;[[Quardun Fang]] x 20&lt;br /&gt;[[Bloody Doomcap]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Disperse Bloodlust X
+|Ultra Pure Gemstone x 5&lt;br /&gt;Vollgull Mask x 30&lt;br /&gt;[[Fleshy Blant Petal]] x 30&lt;br /&gt;Antol Queen Compound Eye x 30&lt;br /&gt;[[Antol Queen Shell]] x 30&lt;br /&gt;[[Ories Horns]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Disperse Bloodlust I
+| [[Gemstone]]&lt;br /&gt;[[Flier Nectar Jelly]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Disperse Bloodlust II
+| Gemstone&lt;br /&gt;[[Caterpile Antenna]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Disperse Bloodlust III
+| [[Pure Gemstone]]&lt;br /&gt;[[Sweet Kapiba Lard]] x2&lt;br /&gt;[[Nest Treacle]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Disperse Bloodlust IV
+| Pure Gemstone&lt;br /&gt;[[Scorpox Exoskeleton]] x2&lt;br /&gt;[[Egel Horn]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Disperse Bloodlust V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Luminescent Laia Fin]]&lt;br&gt;Caterpile Antenna x2&lt;br&gt;[[Crustip Jet Spray]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>r29dtn4vmoizh4c76wevd3wehkqlgvx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Diver Moramora</title>
+    <ns>0</ns>
+    <id>121698</id>
+    <revision>
+      <id>600367</id>
+      <parentid>559633</parentid>
+      <timestamp>2023-07-21T14:08:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */Moramora</comment>
+      <origin>600367</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="tblbtoxhmc82yg0y54xsu5j169obp3a" xml:space="preserve">{{Infobox Enemy
+|name         = Diver Moramora
+|image        = 
+|caption      = Diver Moramora
+|category     = Minor Enemy
+|type         = [[Moramora]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Diver Moramoras''' are Minor Enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level ? at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>tblbtoxhmc82yg0y54xsu5j169obp3a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Divining Hairgrip</title>
+    <ns>0</ns>
+    <id>122848</id>
+    <revision>
+      <id>566689</id>
+      <parentid>565373</parentid>
+      <timestamp>2022-11-22T11:01:36Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="434" sha1="6pfovkihgfrwbno1bul95f4ooeugynb" xml:space="preserve">&lt;div style="float: right;"&gt;
+{{Infobox item
+|name      = Divining Hairgrip
+|image     = File:XC3 Accessory Cap.png
+|caption   = 90% chance to avoid waking enemy from Sleep when auto-attack hits.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/div&gt;
+'''Divining Hairgrips''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>6pfovkihgfrwbno1bul95f4ooeugynb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Doing It My Way</title>
+    <ns>0</ns>
+    <id>120402</id>
+    <revision>
+      <id>577174</id>
+      <parentid>575898</parentid>
+      <timestamp>2023-02-16T15:07:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>577174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1744" sha1="fxuko5y0jn34ay64t3q6uiatg809anq" xml:space="preserve">{{Infobox quest
+|name        = Doing It My Way
+|image       = Doing It My Way.jpg 
+|description = "On the Erythia Sea, the party finds itself going head-to-head with a Moebius who goes by the name of Triton."
+|giver       = [[Triton]]
+|location    = [[Erythia Sea]] ([[Hargan Point]])
+|time        = 
+|prereqs     = [[Ishan Isle]] visited
+|reclevel    = Lv. 46
+|rewards     = 400 [[Colony 15]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;3320 [[Experience Points (XC3)|EXP]]&lt;br/&gt; 3230 [[Gold|G]]&lt;br/&gt; 10 [[Soul Tree|SP]]&lt;br/&gt; [[Triton]] as a [[Hero]]
+}}
+'''Doing It My Way''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Triton]].
+
+== Objectives ==
+# ''Talk with the specified character(s).''
+#* [[Ronja]]
+# ''Defeat the specified foe(s).''
+#* [[Delit Gyaark]] (4)
+# ''Talk with the specified character(s).''
+#* Ronja
+# ''Talk with the specified character(s).''
+#* [[Lhukavu]]
+# ''Hold a discussion at a rest spot.''
+#* Booty?
+# ''Collect the specified thing(s).''
+#* [[Yum-Yum Coconut]]
+#* [[Ancient Taos Fossil]]
+#* [[Millennial Tree Amber]]
+# ''Talk with the specified character(s).''
+#* Lhukavu
+# ''Talk with the specified character(s).''
+#* [[Kio]]
+# ''Investigate the specified object(s).''
+#* Footprints
+# ''Follow the trail.''
+#* Monster Tracks
+#* Monster Tracks
+# ''Defeat the specified foe(s).''
+#* [[Arcaphor Gogol]]
+# ''Head for the specified location(s).''
+#* [[Colony 15]]
+# ''Defeat the specified foe(s).''
+#* [[Triton#Battle|Defiant Triton]]
+#* [[Torto]]
+#* [[Pergas]]
+#* [[Orson]]
+
+== Results ==
+''"Triton had long wanted to free his friends from the Flame Clock's grip. The party, though initially reluctant, have let him join their ranks."''
+{{clr}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Triton]]
+[[Category:Cadensia Region Quests]]</text>
+      <sha1>fxuko5y0jn34ay64t3q6uiatg809anq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Doom (XC3)</title>
+    <ns>0</ns>
+    <id>122932</id>
+    <revision>
+      <id>580088</id>
+      <parentid>580087</parentid>
+      <timestamp>2023-03-23T07:11:43Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>link</comment>
+      <origin>580088</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="949" sha1="0jh7x5qmfkb3ztrc2yg5ui847u66dpf" xml:space="preserve">{{for|the status in ''Xenoblade Chronicles 2''|Doom (XC2)}}
+'''Doom''' is a status effect in {{XC3}}. When applied, it instantly kills the afflicted character. If applied against [[Interlink]]ed characters, they will immediately enter Overheated status. All [[Boss (XC3)|Boss]]es, [[Unique Monster (XC3)|Unique Monster]]s and [[Challenge Battle Enemy (XC3)|Challenge Battle Enemies]] are immune to Doom, but it works against [[Normal Monster]]s and [[Elite Monster]]s. It is comparable to [[Instant Death]] from [[Xenoblade Chronicles|the first game]].
+
+== Distribution ==
+=== Arts ===
+* [[Dimension Ripper]]
+=== Skills ===
+* An unnamed skill in Noah's [[Unlimited Sword]] stance when he assumes an [[Attacker]] role gives him a 3% chance to inflict Doom on each hit.
+=== Enemy-only Arts ===
+* Ultra Play Bite ([[Seraphic Ceratinia]]; Lv 125 or higher)
+* Farewell, My Puppet ([[Moebius J]])
+* Crazed Headhunt ([[Moebius X]])
+
+[[Category:XC3 Status]]</text>
+      <sha1>0jh7x5qmfkb3ztrc2yg5ui847u66dpf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Doomfang Caum</title>
+    <ns>0</ns>
+    <id>119423</id>
+    <revision>
+      <id>579111</id>
+      <parentid>579110</parentid>
+      <timestamp>2023-03-13T17:19:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>location</comment>
+      <origin>579111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1300" sha1="gv1p7iy59rp3y5c6u0qypcmxih6dsg4" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Doomfang Caum
+|image        = Doomfang Caum.png
+|caption      = Doomfang Caum
+|type         = [[Feris]]
+|level        = 50
+|area         = [[Rae-Bel Tableland]] ([[Pinasa Highland]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,462
+|cp           = 364
+|sp           = 5
+|gold         = 920
+|hp           = 1,467,200
+|strength     = 884
+|healing      = 292
+|dexterity    = 176
+|agility      = 142
+|physdef      = 5%
+|ethdef       = -10%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Doomfang Caum''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Feris]] family, and can be found at level 50 at the [[Pinasa Highland]] of&#160;[[Rae-Bel Tableland]]. The Megashout [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 25%
+|etherdebuff = 80%
+|knockback = 75%
+|blowdown = 75%
+}}
+
+== Item Drops ==
+== Gallery ==
+&lt;gallery&gt;
+Doomfang caum location.png
+Doomfang caum.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Feris]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gv1p7iy59rp3y5c6u0qypcmxih6dsg4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dorrick</title>
+    <ns>0</ns>
+    <id>120178</id>
+    <revision>
+      <id>585387</id>
+      <parentid>585382</parentid>
+      <timestamp>2023-04-25T15:21:26Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add all missing data from reconstruction (this can be easily found on the QST tables in datamine)</comment>
+      <origin>585387</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7286" sha1="87c8qvbjrsnm37xcywtwixm0gj3zurh" xml:space="preserve">{{Spoiler}}
+'''Dorrick''' is a special [[Levnis]] in {{XC3}} that is gradually built across 10 stages by [[Valdi]] and the [[Nopon]] of [[Colony 30]]. The project is initiated in ''[[Big Friendly Friend]]'' and is completed in ''[[The Final Cog]]''. The stages of Dorrick are advanced by giving [[Repapa]] the desired materials and doing the occasional quest. It is controlled through [[Mechafriend]].
+
+During the unveiling of the completed Dorrick, it is taken over by [[Pulipuli]], who unleashes it on the party.
+
+== Dorrick Project Phases ==
+&lt;tabber&gt;
+|-|Phase 3 =
+After progress reaches 100%, ''[[Missing Parts]]'' must be completed.
+{| class="xc1"
+! Name
+! Materials
+! Gain
+|-
+| Parched Jalapenjet 
+| [[Parched Branch]] x3&lt;br/&gt;[[Jalapenoki]] x3&lt;br/&gt;[[Serenity Jet]] x6
+| +15%
+|-
+| Rubber Sphercuit
+| [[Rubber Wood]] x5&lt;br/&gt;[[Spheric Rock]] x2&lt;br/&gt;[[Surge Circuit]] x5
+| +15%
+|-
+| Hornedrum
+| [[Giant Hornet Fossil]] x3&lt;br/&gt;[[Woodrum]] x4
+| +10%
+|-
+| Dessigold Conductor
+| [[Dessica Bean]] x2&lt;br/&gt;[[Goldleaf Cypress]] x1&lt;br/&gt;[[Assembly Conductor]] x8
+| +40%
+|-
+| Tearaway Limb
+| [[Tearaway Oak]] x5&lt;br/&gt;[[Giant's Limb]] x1
+| +30%
+|-
+| Variarite Melon
+| [[Varicini]] x1&lt;br/&gt;[[Bezoarite]] x4&lt;br/&gt;[[White Melonball]] x7
+| +20%
+|-
+| Fleet Pillowstone
+| [[Fleet Shimeji]] x1&lt;br/&gt;[[Pillowshroom]] x2&lt;br/&gt;[[Beaconstone]] x4
+| +15%
+|-
+| Riik Stoneoak
+| [[Riik Fossil]] x5&lt;br/&gt;[[Grandcoat Stoneoak]] x1
+| +25%
+|}
+
+|-|Phase 4 =
+After progress reaches 100%, ''[[The True Culprit?]]'' must be completed.
+{| class="xc1"
+! Name
+! Materials
+! Gain
+|-
+| Stingwraith Stabilizer
+| [[Stinger Pile]] x4&lt;br/&gt;[[Wraithwood (XC3)|Wraithwood]] x2&lt;br/&gt;[[Hexa-Stabilizer]] x4
+| +20%
+|-
+| Matryzy Lime
+| [[Matryos Carbon]] x2&lt;br/&gt;[[Squeezy Lime]] x8
+| +10%
+|-
+| Bispworm Midjade
+| [[Bismuth Slab (XC3)|Bismuth Slab]] x7&lt;br/&gt;[[Syrup Spruce]] x2&lt;br/&gt;[[Earthwormwood]] x1;&lt;br/&gt;[[Mudclam]] x5&lt;br/&gt;[[Vagrant Jade]] x1
+| +30%
+|-
+| Aqua Stinger
+| [[Dessica Bean]] x2&lt;br/&gt;[[Goldleaf Cypress]] x1&lt;br/&gt;[[Assembly Conductor]] x8
+| +10%
+|-
+| Naillennial Shroom
+| [[Nail Stone (XC3)|Nail Stone]] x7&lt;br/&gt;[[Millennial Clay]] x1&lt;br/&gt;[[Pentashroom]] x1
+| +40%
+|-
+| Filling Noirsalts
+| [[Filling Onion]] x1&lt;br/&gt;[[Salty Soil (XC3)|Salty Soil]] x1&lt;br/&gt;[[Muscat Noir]] x2
+| +20%
+|-
+| Shepherd's Limesteel
+| [[Shepherd's Purse (XC3)|Shepherd's Purse]] x1&lt;br/&gt;[[Squeezy Lime]] x1&lt;br/&gt;[[Clusterelle]] x3&lt;br/&gt;[[Poison Steel]] x2
+| +10%
+|-
+| Mini Atmorine
+| [[Minionion]] x5&lt;br/&gt;[[Green Nectarine]] x1&lt;br/&gt;[[Atmos Sapphire]] x3
+| +10%
+|}
+
+|-|Phase 5 =
+After progress reaches 100%, ''[[I'm a Mechanic]]'' must be completed.
+{| class="xc1"
+! Name
+! Materials
+! Gain
+|-
+| Lagoon Chain
+| [[Lagoonite]] x1&lt;br/&gt;[[Blue Chain (XC3)|Blue Chain]] x2
+| +30%
+|-
+| Prop-Palm Screw
+| [[Prop Branch]] x2&lt;br/&gt;[[Ten-Term Palm]] x8&lt;br/&gt;[[Warrior Screw (XC3)|Warrior Screw]] x4
+| +20%
+|-
+| Electric Cricket Sorghum
+| [[Electric Cricket Fossil]] x2&lt;br/&gt;[[Blue Sorghum]] x5
+| +10%
+|-
+| Ocean Gear
+| [[Ocean Polyp]] x2&lt;br/&gt;[[Android Gear (XC3)|Android Gear]] x4
+| +15%
+|-
+| Anti-Thermal Chassis
+| [[Anti-Grav Chassis]] x2&lt;br/&gt;[[Thermal Parts]] x2
+| +10%
+|-
+| Ruby Thirstdish
+| [[Thirstweed]] x1&lt;br/&gt;[[Dish Philodendron]] x1&lt;br/&gt;[[Gyanna Fossil]] x2&lt;br/&gt;[[Ruby Pineapple (XC3)|Ruby Pineapple]] x1
+| +35%
+|-
+| Sunny Splendorchid
+| [[Sunny Aloe]] x1&lt;br/&gt;[[Splendorshell]] x1&lt;br/&gt;[[Anarchy Orchid]] x3
+| +30%
+|-
+| Spore Urchon
+| [[Splodespore]] x10&lt;br&gt;[[Urchon Fossil]] x10
+| +15%
+|}
+
+|-|Phase 6 =
+After progress reaches 100%, ''[[There's No Ether!!!]]'' must be completed.
+{| class="xc1"
+! Name
+! Materials
+! Gain
+|-
+| Galapearl Tube
+| [[Galaxy Swirl]] x2&lt;br/&gt;[[Pearl Snail]] x2&lt;br/&gt;[[Helix Tube (XC3)|Helix Tube]] x1
+| +30%
+|-
+| Armored Flaskcoating
+| [[Flaskform Aquapolyp]] x2&lt;br/&gt;[[Armored Chestnut]] x3&lt;br/&gt;[[Dynamic Coating]] x2
+| +20%
+|-
+| Vivid Conductor
+| [[Vivid Alexandrite]] x7&lt;br/&gt;[[Assembly Conductor]] x2
+| +25%
+|-
+| Magimono Stone
+| [[Magitech Core]] x1&lt;br/&gt;[[Monochromagnetite]] x4&lt;br/&gt;[[Greedstone]] x6
+| +20%
+|-
+| Sunfire Danderald
+| [[Fire Apricot]] x1&lt;br/&gt;[[Sundialflower]] x2&lt;br/&gt;[[Chrysanthemany]] x1&lt;br/&gt;[[Strong Dandelion (XC3)|Strong Dandelion]] x3&lt;br/&gt;[[Blood Emerald]] x3
+| +20%
+|-
+| Thinskin Polysnail
+| [[Thinskin]] x5&lt;br/&gt;[[Polychromium]] x3&lt;br/&gt;[[Pearl Snail]] x2
+| +15%
+|-
+| Darkmunch Ponibyss
+| [[Dark Fish Fossil]] x4&lt;br/&gt;[[Munchygrub Fossil]] x1&lt;br/&gt;[[Ponio Fossil]] x2&lt;br/&gt;[[Abyss Lazuli]] x3
+| +15%
+|-
+| Maxihelix Glitter
+| [[Maximushroom]] x1&lt;br/&gt;[[Helix Conch]] x1&lt;br/&gt;[[Glitter Radish]] x3
+| +35%
+|}
+
+|-|Phase 7 =
+{| class="xc1"
+! Name
+! Materials
+! Gain
+|-
+| Airy Circuit
+| [[Airy Whelk]] x4&lt;br/&gt;[[Surge Circuit]] x3
+| +10%
+|-
+| Raznaiti Stabilizer
+| [[Razzle Basil]] x1&lt;br/&gt;[[Delicate Bell]] x1&lt;br/&gt;[[Naiti-Nait]] x2&lt;br/&gt;[[Hexa-Stabilizer]] x5
+| +30%
+|-
+| Dreamethyst Flange
+| [[Amethyst Melon (XC3)|Amethyst Melon]] x2&lt;br/&gt;[[Dream Lemon]] x3&lt;br/&gt;[[Thick Flange]] x7
+| +20%
+|-
+| Poppergreen Engine
+| [[Popper Pumpkin]] x2&lt;br/&gt;[[Green Nectarine]] x4&lt;br/&gt;[[Jazz Engine]] x1
+| +15%
+|-
+| Fool's Poison Flame
+| [[Poison Ivy (XC3)|Poison Ivy]] x4&lt;br/&gt;[[Flammethyst]] x2&lt;br/&gt;[[Fool's Chrome]] x4
+| +25%
+|-
+| Red Carrot Ingot
+| [[Red Nameko]] x5&lt;br/&gt;[[Ingot Carrot]] x5
+| +20%
+|-
+| Obscurian Sensor
+| [[Obscurian]] x1&lt;br/&gt;[[Ocular Sensor]] x5
+| +10%
+|-
+| Thicksurge Stabilizer
+| [[Thick Flange]] x2&lt;br&gt;[[Surge Circuit]] x3&lt;br&gt;[[Hexa-Stabilizer]] x4
+| +10%
+|}
+
+|-|Phases 8 &amp; 9 =
+After progress reaches 100%, ''[[Dorrick is Online!]]'' must be completed.
+{| class="xc1"
+! Name
+! Materials
+! Gain
+|-
+| Rainbow Chewheart
+| [[Chewy Radish (XC3)|Chewy Radish]] x4&lt;br/&gt;[[Rainbow Boronia]] x3&lt;br/&gt;[[Heart Peach (XC3)|Heart Peach]] x1
+| +20%
+|-
+| Neo-Mirac Shrinkseed
+| [[Neo Walnut]] x2&lt;br/&gt;[[Miraculite]] x1&lt;br/&gt;[[Shrinking Orchid]] x2&lt;br/&gt;[[Cling Seed]] x4
+| +35%
+|-
+| Frag Marble
+| [[Frag Coral]] x4&lt;br/&gt;[[Demon Marble]] x3
+| +25%
+|-
+| Ocean Generator
+| [[Ocean Polyp]] x4&lt;br/&gt;[[Twin Generators]] x3
+| +10%
+|-
+| Delicate Juice-Limb
+| [[Juicy Melon (XC3)|Juicy Melon]] x4&lt;br/&gt;[[Delicate Bell]] x2&lt;br/&gt;[[Giant's Limb]] x3
+| +40%
+|-
+| Jade Aspid
+| [[Jade Coral]] x5&lt;br/&gt;[[Aspid Fossil]] x2
+| +10%
+|-
+| Golden Tude
+| [[Golden Beetroot (XC3)|Golden Beetroot]] x4&lt;br/&gt;[[Tude Fossil]] x4
+| +15%
+|-
+| Ushlime Minibark
+| [[Heavy Pomegranate]] x4&lt;br&gt;[[Limelightstone]] x10&lt;br&gt;[[Usherine]] x10&lt;br&gt;[[Minionion]] x3&lt;br&gt;[[Vermilion Bark (XC3)|Vermilion Bark]]
+| +50%
+|}
+&lt;/tabber&gt;
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Dorrick
+|image        = Dorrick Boss.jpg
+|caption      = Dorrick
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 70
+|area         = [[Ribbi Flats]] ([[Terra Wastelands]])
+|spawntime    = During ''[[The Final Cog]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Dorrick''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a [[Levnis]] controlled by [[Pulipuli]], and is fought at level 70 in the [[Terra Wastelands]] in [[Ribbi Flats]] during ''[[The Final Cog]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>87c8qvbjrsnm37xcywtwixm0gj3zurh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Double Jeopardy</title>
+    <ns>0</ns>
+    <id>124338</id>
+    <revision>
+      <id>576281</id>
+      <parentid>562913</parentid>
+      <timestamp>2023-02-09T13:13:13Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1149" sha1="n69f8edpo7i9hjk36ob2uunbfte0fju" xml:space="preserve">{{Infobox quest
+|name          = Double Jeopardy
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Silvercoat Ethel! And Smoldering Cammuravi! Fated enemies! Cannot Interlink here, only trade Art for Art!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main story completed
+|difficultyCB3 = 4
+|rewards       = 
+}}
+'''Double Jeopardy''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear B outfit for [[Lanz]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 1
+|-
+| Level Restriction || Lv 70
+|-
+|Other Rules||In this challenge, you will not be able to [[Interlink]].
+|}
+
+== Enemies ==
+{| class="xc1"
+!Wave
+!Enemy
+!Level
+|-
+| rowspan="2" | 1 ||[[Ethel#Battle|Silvercoat Ethel]] || 75
+|-
+| [[Cammuravi#Battle|Smoldering Cammuravi]] || 75
+|-
+|}
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>n69f8edpo7i9hjk36ob2uunbfte0fju</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Doublestrike</title>
+    <ns>0</ns>
+    <id>118900</id>
+    <revision>
+      <id>595274</id>
+      <parentid>592017</parentid>
+      <timestamp>2023-06-11T16:39:57Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6313" sha1="f90nqvyh9zoo91fh16euxlvdd4yp740" xml:space="preserve">{{Infobox Gem
+| name     = Doublestrike
+| image    = Gem-speciality.png
+| effect   = [Passive] Adds ''(value)%'' chance to strike twice per auto-attack.
+| category = Speciality
+| max      = 40%
+}}
+'''Doublestrike''' is a Speciality [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Activation Rate
+|-
+!I
+|15%
+|-
+!II
+|17%
+|-
+!II
+|20%
+|-
+!IV
+|22%
+|-
+!V
+|25%
+|-
+!VI
+|27%
+|-
+!VII
+|30%
+|-
+!VIII
+|32%
+|-
+!IX
+|35%
+|-
+!X
+|40%
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Doublestrike I
+|[[Gemstone]]&lt;br /&gt;[[Ropl Jaw]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Doublestrike II
+|Gemstone&lt;br /&gt;[[Brog Energy Booster]]&lt;br /&gt;[[Krabble Shield Pincer]]&lt;br /&gt;[[Kaleidoscelery]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Doublestrike III
+|Gemstone&lt;br /&gt;[[Great Feris Horn Pair]]&lt;br /&gt;[[Compressed Ansel Meat]]&lt;br /&gt;[[Taos Wingtip]]&lt;br /&gt;[[Mallow-o'-the-Marsh]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Doublestrike IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Anlood Antler]]&lt;br /&gt;[[Refreshing Piranhax Meat]]&lt;br /&gt;[[Medooz Tentacle]]&lt;br /&gt;[[Mudclam]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Doublestrike V
+|Pure Gemstone&lt;br /&gt;[[Armored Scorpox Pincer]] x 2&lt;br /&gt;Compressed Ansel Meat x 2&lt;br /&gt;[[Dextrous Bunnit Tail]] x 2&lt;br /&gt;[[Bizarrenacle]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Doublestrike VI
+|Pure Gemstone&lt;br /&gt;[[Avis Mech Sword]] x 2&lt;br /&gt;[[Vollgull Stormwind Wing]] x 2&lt;br /&gt;[[Sagittarius Frame]] x 2&lt;br /&gt;[[Matryos Carbon]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Doublestrike VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Steelcrushing Rhinon Fang]] x 2&lt;br /&gt;[[Antol Jaws]] x 2&lt;br /&gt;Krabble Shield Pincer x 3&lt;br /&gt;Vollgull Stormwind Wing x 3&lt;br /&gt;[[Beaconstone]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Doublestrike VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;Dextrous Bunnit Tail x 15&lt;br /&gt;[[Spiky Pagul Shell]] x 15&lt;br /&gt;[[Thick Rhinon Tail]] x 15&lt;br /&gt;[[Ageshu Needleclaw]] x 15&lt;br /&gt;[[Black Kiwi (XC3)|Black Kiwi]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Doublestrike IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Testudo Iron Wing]] x 20&lt;br /&gt;[[Sharp Gyaark Tail]] x 20&lt;br /&gt;[[Evil Drague Eye]] x 20&lt;br /&gt;Steelcrushing Rhinon Fang x 20&lt;br /&gt;[[Helix Tube (XC3)|Helix Tube]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Doublestrike X
+|Ultra Pure Gemstone x 5&lt;br /&gt;Vollgull Stormwind Wing x 30&lt;br /&gt;Taos Wingtip x 30&lt;br /&gt;[[Ekidno Jawbone]] x 30&lt;br /&gt;[[Rainbow Darbus Crystal]] x 30&lt;br /&gt;[[Circular Speculatos Blade]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Doublestrike I
+| [[Gemstone]]&lt;br /&gt;[[Flier Nectar Jelly]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Doublestrike II
+| Gemstone&lt;br /&gt;[[Crustip Jet Spray]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Doublestrike III
+| [[Pure Gemstone]]&lt;br /&gt;[[Arachno Pincer]] x2&lt;br /&gt;[[Caterpile Antenna]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Doublestrike IV
+| Pure Gemstone&lt;br /&gt;[[Exalted Ories Brisket]] x2&lt;br /&gt;[[Draigul Thaumahorn]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Doublestrike V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Nutrient-Rich Vollgull Egg]]&lt;br&gt;Exalted Ories Brisket x2&lt;br&gt;[[Ardun Horns]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>f90nqvyh9zoo91fh16euxlvdd4yp740</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dragguia Ropl</title>
+    <ns>0</ns>
+    <id>116803</id>
+    <revision>
+      <id>594326</id>
+      <parentid>583211</parentid>
+      <timestamp>2023-05-27T14:14:03Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594326</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1620" sha1="bddn9ofl8c06dlwpzepka6mp1fvoj6t" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Dragguia Ropl
+|image        = 
+|caption      = Dragguia Ropl
+|category     = Normal Enemy
+|type         = [[Ropl]]
+|level        = 33-35
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Dragguia Ropl''' are normal enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level 33-35 in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Dragguia Ropl
+|image        = Dragguia Ropl FR.jpg
+|caption      = Dragguia Ropl
+|category     = Normal Minor Enemy
+|type         = [[Ropl]]
+|level        = 35
+|area         = [[Aurora Shelf]] ([[Zalmor's Thawtunnels]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Dragguia Ropl''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Ropl]] family, and can be found at level 35 in [[Zalmor's Thawtunnels]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3FR Ropl]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>bddn9ofl8c06dlwpzepka6mp1fvoj6t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dragon Unbound</title>
+    <ns>0</ns>
+    <id>124388</id>
+    <revision>
+      <id>591884</id>
+      <parentid>580998</parentid>
+      <timestamp>2023-05-14T14:35:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591884</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="597" sha1="qknb7bhkvfpaqoiuh689knys0xcp60q" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = Dragon Unbound
+|image       = Strm order thumb024 0.png
+|who         = [[Teach]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = During Chain Attack, heals 4%-10% of damage dealt as HP, up to 200% of Healing Power.
+|duration    = 
+|recharge    = 
+}}
+'''Dragon Unbound''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Teach]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>qknb7bhkvfpaqoiuh689knys0xcp60q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dragonfang Necklace</title>
+    <ns>0</ns>
+    <id>118939</id>
+    <revision>
+      <id>592754</id>
+      <parentid>592362</parentid>
+      <timestamp>2023-05-15T20:13:54Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592754</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1105" sha1="cptz3x258i422ky5s65y8eea04qti8u" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Dragonfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targeting you by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10690 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Dragonfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targeting you by 26%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10690 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Dragonfang Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt when attacking enemies targeting you by 27%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10690 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Dragonfang Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>cptz3x258i422ky5s65y8eea04qti8u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drague</title>
+    <ns>0</ns>
+    <id>119440</id>
+    <revision>
+      <id>601972</id>
+      <parentid>600722</parentid>
+      <timestamp>2023-07-22T12:20:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Boss */</comment>
+      <origin>601972</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" sha1="rqt9ovh1iusqsg4wrkovgt0p17xqs9m" xml:space="preserve">{{for|the similar families of enemies in other games|Dragon (XC1)|Draigul}}
+[[File:Umber Drague.jpg|thumb|210px|A Drague]]
+'''Dragues''' are a family of monsters in {{XC3}}. They resemble the [[Dragon (XC1)|Dragons]] from {{XC}} and [[Draigul]]s from {{XC3FR|sublink}}.
+
+== List of Enemies ==
+=== Normal Minor Enemies ===
+* [[Yolmun Drague]]
+
+=== Unique Monsters ===
+* [[Dreadwyrm Nizoont]] ([[Superboss]])
+
+=== Boss ===
+* [[Umber Drague]]
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Species]]
+[[Category:XC3 Dragues]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3 Aerial Life]]
+[[Category:Dragues]]
+[[Category:Species by Type]]</text>
+      <sha1>rqt9ovh1iusqsg4wrkovgt0p17xqs9m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dreadwyrm Nizoont</title>
+    <ns>0</ns>
+    <id>119439</id>
+    <revision>
+      <id>582218</id>
+      <parentid>582085</parentid>
+      <timestamp>2023-04-09T16:09:00Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>artsspeffect 1</comment>
+      <origin>582218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8860" sha1="l7d5yjc9taj637eno1xxmxfxm3us44a" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Dreadwyrm Nizoont
+|image        = Dreadwyrm Nizoont.jpg
+|caption      = Dreadwyrm Nizoont
+|type         = [[Drague]]
+|level        = 105
+|area         = [[Low Maktha&#160;Wildwood]] ([[Forgotten Trick Gate]])
+|category     = [[Unique Monster (XC3)|Unique Monster]] ([[Superboss]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 13,480
+|cp           = 370
+|sp           = 25
+|gold         = 8,160
+|hp           = 11,767,400
+|strength     = 2,862
+|healing      = 649
+|dexterity    = 463
+|agility      = 284
+|physdef      = 25%
+|ethdef       = 0%
+|critrate     = 45%
+|guardrate    = 0%
+}}
+'''Dreadwyrm Nizoont''' is one of the [[Superboss]]es in {{XC3}}. It is a [[Unique Monster (XC3)|Unique Monster]] and a member of the [[Drague]] family, and can be found at level 105 behind the [[Forgotten Trick Gate]]&#160;at the end of the [[Cavern of Oblivion]] in [[Low Maktha&#160;Wildwood]]. Dreadwyrm Nizoont guards the pedestal where the [[Legendary Biter]] is located on. The Hot Soul [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] when defeating it. Through re-challenging, Dreadwyrm Nizoont's level can increase to a maximum at level 170.
+
+== Battle ==
+===Skills===
+Dreadwyrm Nizoont has the following innate skills:
+*Boosts damage from Blaze by 200%.
+*Boosts damage when attacking Dazed enemies by 50%.
+*Extends Topple duration by 50%.
+=== Resistances ===
+{{XC3 Resistances
+|break       = 105%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 65%
+|etherdebuff = 90%
+}}
+{{clr}}
+=== Enraged ===
+{|class="xc1 centered" style="width:70%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 25%.&lt;br&gt;Boosts Art recharge speed by 25%.&lt;br&gt;Adds 100% chance to strike twice per auto-attack.
+|}
+===Arts===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|220%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|rowspan="2"|'''Crushing Bite'''
+|rowspan="2"|Physical
+|rowspan="2"|One Target
+|rowspan="2"|1
+|600%
+| [[Phys Def Down (XC3)|Phys. Def. Down]]
+|style="text-align:left;"|
+*Accuracy is boosted by 75%.
+| Anytime during Lv 105 fight
+|- &lt;!-- Arts Slot 5, 10, 11 (slots 10 &amp; 11 are fast-cooldown versions of 5) --&gt;
+| 700%
+| Phys. Def. Down / [[Bleed (XC3)|Bleed]]
+|style="text-align:left;"|
+*Accuracy is boosted by 75%.
+*Damage from Bleed is boosted by 300%.
+| Anytime during fights at Lv 110 or above; may be used more frequently at Lv 140 or above
+|- &lt;!-- Arts Slot 1 --&gt;
+|rowspan="2"|'''Tail Swipe'''
+|rowspan="2"|Physical
+|rowspan="2"|Frontward AOE
+|rowspan="2"|1
+|rowspan="2"|160%
+|[[Blowdown (XC3)|Blowdown]] / Bleed
+|style="text-align:left;"|
+| Anytime during fights up to and including Lv 125
+|- &lt;!-- Arts Slot 6 --&gt;
+|[[Daze (XC3)|Daze]] / Bleed
+|style="text-align:left;"|
+*Daze duration is extended by 100%.
+| Anytime during fights at Lv 130 or above
+|- &lt;!-- Arts Slot 2 --&gt;
+|rowspan="2"|'''Heat Scream'''
+|rowspan="2"|Clear Debuffs
+|rowspan="2"|Self
+|rowspan="2"| -
+|rowspan="2"| -
+| [[Attack Up]] / [[Invincible (XC3)|Invincible]]
+|rowspan="2" style="text-align:left;"|
+*Immune to all reactions and combos during Art.
+*Duration of ''debuffs applied to enemies'' is extended by 50%.
+|Anytime during Lv 105-160 fights
+|- &lt;!-- Arts Slot 7 --&gt;
+| [[Awakening (XC3)|Awakening]] / Invincible
+|Anytime during Lv 170 fight
+|- &lt;!-- Arts Slot 3 --&gt;
+|rowspan="2"|'''Mighty Gale'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|rowspan="2"| 3
+|rowspan="2"| 180%
+| [[Knockback (XC3)|Knockback]] on all hits
+|style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+*Immune to all reactions and combos during Art.
+|When reduced to 40% HP during Lv 105-160 fights
+|- &lt;!-- Arts Slot 8, 12 (slot 12 is a fast-cooldown version of 8) --&gt;
+| Knockback on first two hits; [[Topple (XC3)|Topple]] on third hit
+| style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+*Immune to all reactions and combos during Art.
+*Negates enemy guard; inflicts [[Break (XC3)|Break]] if guard is attempted.
+|When reduced to 40% HP during Lv 170 fight
+|- &lt;!-- Arts Slot 4 --&gt;
+|rowspan="2"|'''Infernal Flame'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|3
+|450%
+|rowspan="2"|[[Blaze (XC3)|Blaze]]
+|rowspan="2" style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Ignores enemy defense.
+*Each hit can only damage a single target in range.
+|When reduced to 80% HP during fights up to and including Lv 115
+|- &lt;!-- Arts Slot 9 --&gt;
+|4
+|640%
+|When reduced to 80% HP during fights at Lv 120 or above
+|}
+
+=== Superboss Challenges ===
+After defeating it for the first time, Dreadwyrm Nizoont can be re-fought at increasing levels by selecting the "Challenge" option on its [[Named Grave]]. After defeating it at a given challenge level, it will appear at the next challenge level the next time it is challenged, until reaching its maximum level. Thus, only the initial Lv 105 version and the final Lv 170 challenge version can be refought.
+
+Dreadwyrm Nizoont has the following stats changed from its base Lv 105 version in each challenge version. Physical and Ether Defense, Critical Rate, Guard Rates and resistances are unchanged in these challenge versions. SP is not dropped from defeating it in a challenge, since the challenge counts as a refight.
+&lt;tabber&gt;
+Lv 110=
+&lt;h3 style="display:none;"&gt;Lv 110&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 12,498,400
+|atk   = 2,953
+|heal  = 679
+|dex   = 476
+|agil  = 292
+|exp   = 14,480
+|cp    = 379
+|gold  = 8,670
+}}
+|-|
+Lv 115=
+&lt;h3 style="display:none;"&gt;Lv 115&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 13,198,800
+|atk   = 3,044
+|heal  = 711
+|dex   = 490
+|agil  = 300
+|exp   = 15,480
+|cp    = 388
+|gold  = 9,222
+}}
+|-|
+Lv 120=
+&lt;h3 style="display:none;"&gt;Lv 120&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 13,912,800
+|atk   = 3,135
+|heal  = 741
+|dex   = 503
+|agil  = 308
+|exp   = 16,480
+|cp    = 397
+|gold  = 9,775
+}}
+|-|
+Lv 125= 
+&lt;h3 style="display:none;"&gt;Lv 125&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 14,637,000
+|atk   = 3,226
+|heal  = 772
+|dex   = 517
+|agil  = 317
+|exp   = 17,480
+|cp    = 407
+|gold  = 10,327
+}}
+|-|
+Lv 130= 
+&lt;h3 style="display:none;"&gt;Lv 130&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 15,371,400
+|atk   = 3,320
+|heal  = 802
+|dex   = 531
+|agil  = 325
+|exp   = 18,480
+|cp    = 416
+|gold  = 10,880
+}}
+|-|
+Lv 135= 
+&lt;h3 style="display:none;"&gt;Lv 135&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 16,119,400
+|atk   = 3,411
+|heal  = 834
+|dex   = 543
+|agil  = 333
+|exp   = 19,480
+|cp    = 425
+|gold  = 10,965
+}}
+|-|
+Lv 140= 
+&lt;h3 style="display:none;"&gt;Lv 140&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 16,823,200
+|atk   = 3,494
+|heal  = 864
+|dex   = 557
+|agil  = 342
+|exp   = 20,480
+|cp    = 434
+|gold  = 11,050
+}}
+|-|
+Lv 150= 
+&lt;h3 style="display:none;"&gt;Lv 150&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 17,982,600
+|atk   = 3,616
+|heal  = 927
+|dex   = 583
+|agil  = 358
+|exp   = 22,480
+|cp    = 453
+|gold  = 11,220
+}}
+|-|
+Lv 160= 
+&lt;h3 style="display:none;"&gt;Lv 160&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 19,070,600
+|atk   = 3,731
+|heal  = 988
+|dex   = 606
+|agil  = 372
+|exp   = 24,480
+|cp    = 471
+|gold  = 11,390
+}}
+|-|
+Lv 170= 
+&lt;h3 style="display:none;"&gt;Lv 170&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 20,145,000
+|atk   = 3,845
+|heal  = 1,050
+|dex   = 630
+|agil  = 387
+|exp   = 26,480
+|cp    = 490
+|gold  = 11,560
+}}
+&lt;/tabber&gt;
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Dreadwyrm Nizoont
+|image        = 
+|caption      = Dreadwyrm Nizoont
+|type         = [[Drague]]
+|level        = 170
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|spawntime    = During ''[[The Four Devas]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 5,302,875
+|strength     = 1,035
+|healing      = 1,050
+|dexterity    = 605
+|agility      = 367
+|physdef      = 25%
+|ethdef       = 0%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+Dreadwyrm Nizoont is fought at level 170 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[The Four Devas]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 90%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 90%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Dreadwyrm nizoont location.png
+Dreadwyrm nizoont.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Dragues]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>l7d5yjc9taj637eno1xxmxfxm3us44a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drifter Ropl</title>
+    <ns>0</ns>
+    <id>117892</id>
+    <revision>
+      <id>597189</id>
+      <parentid>595814</parentid>
+      <timestamp>2023-06-24T09:54:48Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>battle stats (this particular enemy is known as the bane of speedrunners, and also hard mode players)</comment>
+      <origin>597189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2070" sha1="i0fpt21bmqef4br2nxfr9g8z277x0vx" xml:space="preserve">{{spoiler}}
+{{Infobox XC3 Enemy
+|name         = Drifter Ropl
+|image        = 
+|caption      = Drifter Ropl
+|category     = Story Exclusive Enemy
+|type         = [[Ropl]]
+|level        = 6
+|area         = [[Alfeto Valley]] ([[Alfeto Valley Mouth]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 64
+|cp           = 34
+|sp           = 0
+|gold         = 0
+|hp           = 10,600
+|strength     = 66
+|healing      = 17
+|dexterity    = 28
+|agility      = 25
+|physdef      = 25%
+|ethdef       = -10%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+The '''Drifter Ropl''' is a [[Story Exclusive Enemy (XC3)|Story Exclusive Enemy]] in {{XC3}}. It is a member of the [[Ropl]] family, and is fought at level 6 at the [[Alfeto Valley Mouth]] in [[Alfeto Valley]] during Chapter 1. After the Drifter Ropl is defeated, [[Mwamba]] leaves the party.
+== Battle ==
+===Resistances===
+{{XC3 Resistances
+|knockback   = 50%
+|blowdown    = 50%
+}}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''Auto-Attack'''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Cursed Cuisine'''
+|Physical
+|Frontward AOE
+|1
+|300%
+|
+|style="text-align:left;"|Immune to all combos and reactions during Art animation.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Komodo Fire'''
+|Ether
+|One Target
+|1
+|450%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 3 (Arts Slot 2 appears to be unused by the AI) --&gt;
+|'''Double Bite'''
+|Physical
+|One Target
+|2
+|200%
+|
+|
+|}
+
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>i0fpt21bmqef4br2nxfr9g8z277x0vx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drifter Scorpox</title>
+    <ns>0</ns>
+    <id>123831</id>
+    <revision>
+      <id>581299</id>
+      <parentid>559217</parentid>
+      <timestamp>2023-04-03T12:37:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>correct info</comment>
+      <origin>581299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1048" sha1="8n2ds633nb910z3w47hpt9acusbv2fh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Drifter Scorpox
+|image        = 
+|caption      = Drifter Scorpox
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Scorpox]]
+|level        = 27
+|area         = [[Urayan Tunnels]] ([[Mine No. 2]])
+|spawntime    = During ''[[Unwavering Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Drifter Scorpoxes''' are six [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Scorpox]] family, and are encountered at level 27 at [[Mine No. 2]] in the [[Urayan Tunnels]] during ''[[Unwavering Resolve]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8n2ds633nb910z3w47hpt9acusbv2fh</sha1>
+    </revision>
+  </page>
+  </mediawiki>

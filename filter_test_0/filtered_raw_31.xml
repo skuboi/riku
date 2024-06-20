@@ -1,0 +1,1469 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hanassa Amoney</title>
+    <ns>0</ns>
+    <id>117483</id>
+    <revision>
+      <id>559699</id>
+      <parentid>545574</parentid>
+      <timestamp>2022-09-30T10:48:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559699</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="848" sha1="bo74cdncgdngi0t6yqc2gz2hf0ai0af" xml:space="preserve">{{Infobox Enemy
+|name         = Hanassa Amoney
+|image        = 
+|caption      = Hanassa Amoney
+|category     = Minor Enemy
+|type         = [[Amoney]]
+|level        = 30
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Hanassa Amoneys''' are Minor Enemies in {{XC3}}. They are members of the [[Amoney]] family, and can be found at level 30 at [[Great Cotte Falls]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Amoneys]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>bo74cdncgdngi0t6yqc2gz2hf0ai0af</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hand Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>123146</id>
+    <revision>
+      <id>582924</id>
+      <parentid>579870</parentid>
+      <timestamp>2023-04-14T17:26:12Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>582924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="897" sha1="murrdljy9xxwy5xsc2ctn9qf7gvall4" xml:space="preserve">{{for|the enemy in {{XC|-}}|Hand Bunnit (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Hand Bunnit
+|image        = Hand Bunnit (XC3).png
+|caption      = Hand Bunnit
+|category     = Normal Minor Enemy
+|type         = [[Bunnit]]
+|level        = 12
+|area         = [[Millick Meadows]] 
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hand Bunnits''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 12 near [[Indiscreet Gombaba]] in the [[Millick Meadows]].
+
+== Drops ==
+* [[Bunnit Meat]]
+* [[Dextrous Bunnit Tail]]
+
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>murrdljy9xxwy5xsc2ctn9qf7gvall4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hantis Ansel</title>
+    <ns>0</ns>
+    <id>123970</id>
+    <revision>
+      <id>578708</id>
+      <parentid>559241</parentid>
+      <timestamp>2023-03-07T14:54:45Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Added level and quest</comment>
+      <origin>578708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1028" sha1="akfvxy7gj6il1nj76p9flaryn46082j" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hantis Ansel
+|image        = 
+|caption      = Hantis Ansel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Ansel]]
+|level        = 46
+|area         = [[Ribbi Flats]] ([[Magglia Lake]])
+|spawntime    = During ''[[Rules of the Hunt]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hantis Ansel''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Ansel]] family, and is fought at level 46 at [[Magglia Lake]] at [[Ribbi Flats]] during ''[[Rules of the Hunt]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>akfvxy7gj6il1nj76p9flaryn46082j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hard Hox (XC3)</title>
+    <ns>0</ns>
+    <id>123979</id>
+    <revision>
+      <id>581323</id>
+      <parentid>560326</parentid>
+      <timestamp>2023-04-03T15:53:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>corrected info</comment>
+      <origin>581323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1073" sha1="sy0qxn6cfxfdfhubdbv80g827wfbwx2" xml:space="preserve">{{for|the enemy in {{XC|-}}|Hard Hox (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Hard Hox
+|image        = 
+|caption      = Hard Hox
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Hox]]
+|level        = 18
+|area         = [[Eagus Wilderness]] ([[Barren Knoll]])
+|spawntime    = During ''[[Charity and Hypocrisy]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hard Hoxes''' are seventeen [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Hox]] family, and are fought at level 18 at the [[Barren Knoll]] in [[Eagus Wilderness]] during ''[[Charity and Hypocrisy]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>sy0qxn6cfxfdfhubdbv80g827wfbwx2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hardscale Gouran</title>
+    <ns>0</ns>
+    <id>119470</id>
+    <revision>
+      <id>583291</id>
+      <parentid>574348</parentid>
+      <timestamp>2023-04-17T15:26:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1441" sha1="as93t2habu8m8hxhqqvgg70o9f591yr" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Hardscale Gouran
+|image        = XC3 Hardscale Gouran.png
+|caption      = Hardscale Gouran
+|type         = [[Merigna]]
+|level        = 66
+|area         = [[Erythia Sea]] ([[Oshia's Reef Ravine]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,589
+|cp           = 187
+|sp           = 5
+|gold         = 1,044
+|hp           = 1,588,400
+|strength     = 1,192
+|healing      = 486
+|dexterity    = 237
+|agility      = 229
+|physdef      = 25%
+|ethdef       = 10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Hardscale Gouran''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Merigna]] family, and can be found at level 66 at [[Oshia's Reef Ravine]] in [[Erythia Sea]]. It forms the trio "Whirlpool Triumvirate" with [[Sharpscale Ragoon]] and [[Fairscale Marina]]. The [[Dragon Decree]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Whirlpool triumvirate location.png
+Whirlpool triumvirate gouran.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Merignas]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>as93t2habu8m8hxhqqvgg70o9f591yr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hardshelled Admory</title>
+    <ns>0</ns>
+    <id>119483</id>
+    <revision>
+      <id>574378</id>
+      <parentid>562209</parentid>
+      <timestamp>2023-01-28T04:08:19Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574378</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1387" sha1="h5t04h78rxyxihksx0n1apx38ry3zqy" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Hardshelled Admory
+|image        = XC3 Hardshelled Admory.png
+|caption      = Hardshelled Admory
+|type         = [[Krammit]]
+|level        = 57
+|area         = [[Erythia Sea]] ([[Krezen Cliffs]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,332
+|cp           = 250
+|sp           = 5
+|gold         = 864
+|hp           = 1,871,800
+|strength     = 1,064
+|healing      = 424
+|dexterity    = 159
+|agility      = 135
+|physdef      = 35%
+|ethdef       = 0%
+|critrate     = 12%
+|guardrate-front = 0%
+|guardrate-side  = 0%
+|guardrate-back  = 75%
+}}
+'''Hardshelled Admory''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Krammit]] family, and can be found at level 57 at the [[Krezen Cliffs]] in [[Erythia Sea]]. The [[Shell Guard]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 85%
+|physdebuff = 50%
+|etherdebuff = 85%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hardshelled admory location.png
+Hardshelled admory.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Krammits]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h5t04h78rxyxihksx0n1apx38ry3zqy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Harness Belt</title>
+    <ns>0</ns>
+    <id>122638</id>
+    <revision>
+      <id>566746</id>
+      <parentid>565399</parentid>
+      <timestamp>2022-11-22T16:55:57Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="985" sha1="fwo51z1e2re6q329cjyplzt15cgvs40" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Harness Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 35 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 13,140 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Harness Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 40 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 13,140 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Harness Belt
+|image     = File:XC3 Accessory Belt.png
+|caption   = Increases Break resistance by 45 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 13,140 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Harness Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>fwo51z1e2re6q329cjyplzt15cgvs40</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Harvest Necklace (XC3)</title>
+    <ns>0</ns>
+    <id>118960</id>
+    <revision>
+      <id>592787</id>
+      <parentid>592561</parentid>
+      <timestamp>2023-05-15T20:15:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592787</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1130" sha1="in563qa05h277xysmphf7072ve78i8e" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Harvest Necklace (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Harvest Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 10%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Harvest Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 11%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Harvest Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts amount of HP healed from using healing Arts by 12%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Harvest Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>in563qa05h277xysmphf7072ve78i8e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hazardous Jarrahed</title>
+    <ns>0</ns>
+    <id>118681</id>
+    <revision>
+      <id>583299</id>
+      <parentid>574380</parentid>
+      <timestamp>2023-04-17T15:33:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1358" sha1="gs6d391mscxhtscmc5tjn959su328zq" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Hazardous Jarrahed
+|image        = Hazardous Jarrahed.png
+|caption      = Hazardous Jarrahed
+|type         = [[Aspar]]
+|level        = 16
+|area         = [[Eagus Wilderness]] ([[Racine's Platter]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 396
+|cp           = 520
+|sp           = 5
+|gold         = 402
+|hp           = 153,900
+|strength     = 145
+|healing      = 138
+|dexterity    = 63
+|agility      = 43
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Hazardous Jarrahed''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Aspar]] family, and can be found at level 16 at [[Racine's Platter]] in [[Eagus Wilderness]], south of [[Galghour's Menhir]]. The [[Snake Eyes]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 30%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hazardous jarrahed location.png
+Hazardous jarrahed.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Aspars]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>gs6d391mscxhtscmc5tjn959su328zq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heal Bind</title>
+    <ns>0</ns>
+    <id>125912</id>
+    <revision>
+      <id>580517</id>
+      <timestamp>2023-03-25T16:49:45Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Status |title = Heal Bind |caption = Incapacitates Healers. |image = File:XC3 Heal Bind.png |type = Debuff | attribute = Ether | base-duration = 20.0s | rng-applicable = No | effect-title-4 = Remarks | effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs. }} '''Heal Bind''' is a [[Status Effect]] in {{XC3}}. It only affects [[Healer]]s and prevents them from taking any actions during the effect. The debuff is only inflicted b..."</comment>
+      <origin>580517</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="627" sha1="0ld9mdbepbpci9753f6r8lvazf1o16d" xml:space="preserve">{{Infobox XC3 Status
+|title = Heal Bind
+|caption = Incapacitates Healers.
+|image = File:XC3 Heal Bind.png
+|type = Debuff
+| attribute = Ether
+| base-duration = 20.0s
+| rng-applicable = No
+| effect-title-4 = Remarks
+| effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs.
+}}
+'''Heal Bind''' is a [[Status Effect]] in {{XC3}}. It only affects [[Healer]]s and prevents them from taking any actions during the effect. The debuff is only inflicted by [[Moebius]] enemies whenever they use the Art "''Moebius Dominion: Healers''", and cannot be inflicted by the player's party.
+
+[[Category:XC3 Status]]</text>
+      <sha1>0ld9mdbepbpci9753f6r8lvazf1o16d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Healing Amulet (XC3)</title>
+    <ns>0</ns>
+    <id>122875</id>
+    <revision>
+      <id>592788</id>
+      <parentid>592565</parentid>
+      <timestamp>2023-05-15T20:15:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592788</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1071" sha1="dc08dol3pkx1yw1510klpruojb19no7" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Healing Amulet (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Healing Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Restores 5% of HP when a buff is applied.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Healing Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Restores 5.5% of HP when a buff is applied.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Healing Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Restores 6% of HP when a buff is applied.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Healing Amulets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>dc08dol3pkx1yw1510klpruojb19no7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heartkiller Igna</title>
+    <ns>0</ns>
+    <id>121090</id>
+    <revision>
+      <id>594316</id>
+      <parentid>593231</parentid>
+      <timestamp>2023-05-27T14:05:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1896" sha1="sb6z72g3oepcg8kw7d48o8x2z028ljn" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Heartkiller Igna
+|image        = 
+|caption      = Heartkiller Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 45&lt;br/&gt;99
+|area         = [[Elaice Highway]] ([[Igna Conglomerate]])&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Heartkiller Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 45 at the [[Igna Conglomerate]] on [[Elaice Highway]], or at level 99 in [[Rebellion Cave]] in [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Heartkiller Igna
+|image        = Heartkiller Igna FR.jpg
+|caption      = Heartkiller Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 35
+|area         = [[Aurora Shelf]] ([[Declessa Cave Temple Ruins]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Heartkiller Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 35 at the [[Declessa Cave Temple Ruins]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Level 31-35 Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>sb6z72g3oepcg8kw7d48o8x2z028ljn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heath</title>
+    <ns>0</ns>
+    <id>123792</id>
+    <revision>
+      <id>597823</id>
+      <parentid>596140</parentid>
+      <timestamp>2023-07-02T16:34:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1850" sha1="e7gkxb3hdu5yry8qyoy4cizrtff3xxo" xml:space="preserve">{{Infobox_NPC
+|name        = Heath
+|image       = Heath.png
+|personality = 
+|time_active = Anytime after ''[[The Castle Guard]]''
+|gender      = Male
+|race        = 
+|age         = 7th Term
+|location    = [[Syra Hovering Reefs]] ([[Fort O'Virbus]])
+}}
+'''Heath''' is a NPC in {{XC3}}.
+
+== Overview ==
+Heath can be found in [[Fort O'Virbus]]. He is the captain of the Soltnar Squad of the [[Keves Castle]] Guard, and has a rivalry with [[Wynonna]] of the Khatorl Squad. He has a more emotional view of combat, causing tension with the more objective Wynonna.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Heath
+|image        = XC3 Heath battle.png
+|caption      = Heath
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 65
+|area         = [[Syra Hovering Reefs]] ([[Gardin Defense Base]])
+|spawntime    = During ''[[The Castle Guard]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Heath''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is part of the [[Keves Forces]] and is fought at level 65 in [[Gardin Defense Base]] at [[Syra Hovering Reefs]] during ''[[The Castle Guard]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>e7gkxb3hdu5yry8qyoy4cizrtff3xxo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heavenrazor Egreet</title>
+    <ns>0</ns>
+    <id>119502</id>
+    <revision>
+      <id>577403</id>
+      <parentid>574653</parentid>
+      <timestamp>2023-02-19T00:31:01Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>not a challenge battle enemy</comment>
+      <origin>577403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1283" sha1="e0q7jm1ivg8g60a0aea17az9a7vmvv9" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Heavenrazor Egreet
+|image        = XC3 Heavenrazor Egreet.png
+|caption      = Heavenrazor Egreet
+|type         = [[Rhogul]]
+|level        = 90
+|area         = [[The Cavity]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 4,852
+|cp           = 478
+|sp           = 5
+|gold         = 1,950
+|hp           = 6,285,900
+|strength     = 2,536
+|healing      = 581
+|dexterity    = 518
+|agility      = 457
+|physdef      = 0%
+|ethdef       = -10%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Heavenrazor Egreet''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Rhogul]] family, and can be found at level 90 in [[The Cavity]]. The [[Gatling Peck]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|physdebuff = 25%
+|etherdebuff = Immune
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Heavenrazor egreet location.png
+Heavenrazor egreet.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Rhoguls]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>e0q7jm1ivg8g60a0aea17az9a7vmvv9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heavy Armu</title>
+    <ns>0</ns>
+    <id>123229</id>
+    <revision>
+      <id>559702</id>
+      <parentid>553562</parentid>
+      <timestamp>2022-09-30T10:48:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559702</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="766" sha1="nq1vgrou1zasu8rcn6oit34gyrmgwik" xml:space="preserve">{{Infobox Enemy
+|name         = Heavy Armu
+|image        = 
+|caption      = Heavy Armu
+|category     = Minor Enemy
+|type         = [[Armu]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Heavy Armus''' are Minor Enemies in {{XC3}}. They are members of the [[Armu]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Armus]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>nq1vgrou1zasu8rcn6oit34gyrmgwik</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heavy Brog (XC3)</title>
+    <ns>0</ns>
+    <id>116787</id>
+    <revision>
+      <id>582204</id>
+      <parentid>582185</parentid>
+      <timestamp>2023-04-09T15:29:25Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="973" sha1="4dbeueajfz4h2rabwk827qwv3b8jfhe" xml:space="preserve">{{for|the enemy from {{XC}}|Heavy Brog (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Heavy Brog
+|image        = Heavy Brog (XC3).png
+|caption      = Heavy Brog
+|category     = Normal Minor Enemy
+|type         = [[Brog]]
+|level        = 11 - 12
+|area         = [[Millick Meadows]] ([[Viliera Hill (XC3)|Viliera Hill]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 57
+|cp           = 
+|sp           = 
+}}
+'''Heavy Brogs''' are Normal Minor enemies in {{XC3}}. They are members of the [[Brog]] family, and can be found at level 11 - 12 on [[Viliera Hill (XC3)|Viliera Hill]] and south of [[Luca's Eyot]] in [[Millick Meadows]].
+
+== Drops ==
+* [[Brog Energy Booster]]
+* [[Golden Brog Oil]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>4dbeueajfz4h2rabwk827qwv3b8jfhe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heavy Foot Protector</title>
+    <ns>0</ns>
+    <id>118961</id>
+    <revision>
+      <id>592789</id>
+      <parentid>592303</parentid>
+      <timestamp>2023-05-15T20:15:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592789</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1079" sha1="3jmu2s9vq0tp93tr1yib9cdu1rdbsul" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Heavy Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 15% while stationary or auto-attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Heavy Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 16% while stationary or auto-attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Heavy Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 17% while stationary or auto-attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Heavy Foot Protectors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>3jmu2s9vq0tp93tr1yib9cdu1rdbsul</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heavy Guard</title>
+    <ns>0</ns>
+    <id>117283</id>
+    <revision>
+      <id>597109</id>
+      <parentid>597104</parentid>
+      <timestamp>2023-06-23T13:48:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>597109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7102" sha1="kdch71i1gpqupo3ob4h5j96qxm6931n" xml:space="preserve">{{quote|A Defender who protects allies with a huge weapon and Arts to focus the enemies' attention.|Class menu description}}
+[[File:XC3 Heavy Guard Weapon Icon.png|thumb|180px|The Heavy Guard class icon]]
+'''Heavy Guard''' (Japanese: {{lang|ja|&#12504;&#12532;&#12451;&#12460;&#12540;&#12489;}}, ''Hevi G&#257;do'') is a [[Keves]]i [[Defender (XC3)|Defender]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Heavy Guards specializes in [[Battle Arts (XC3)|arts]] that attract [[Enemy (XC3)|enemies]] while protecting allies with a huge shield-like weapon. With many means of attracting enemies, it is a powerful shield for the party. The [[Battle Arts (XC3)|Talent Art]] of the Heavy Guard is [[Mad Taunt (XC3)|Mad Taunt]]. It is the initial class of [[Lanz]].
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|1,575
+|3,150
+|2,365
+|3,940
+|''Starting Class &#8224;''
+|0 &#8225;
+|}
+&lt;small&gt;&#8224; Lanz starts at Rank 5 in the class when in the player's party for the first time.&lt;/small&gt;&lt;br&gt; &lt;!-- Keves characters all start at Rank 5, while Agnus characters all start at Rank 8 --&gt;
+&lt;small&gt;&#8225; Acquired automatically in Chapter 2, after viewing the "Consul K" event (which occurs after resting at the [[Hillside Ferronis Hulk]] during the main story)&lt;/small&gt;
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 155
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 155
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 195
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 5 
+| 195
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 6 
+| 235
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 235
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 250
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 250 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 270
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| colspan="3" class="event" | Complete ''[[Side Story: Lanz]]''
+|-
+| 11 
+| 345 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 12 
+| 345
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 455
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 455
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 15 
+| 570
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 16 
+| 570 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 685
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 685
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 19 
+| 740 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 20 
+| 850 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Heavy Guard class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 120% || 75% || 20% || 90% || 70% || 40% || 30%
+|-
+| 10 || 125% || 77% || 22% || 95% || 72% || 45% || 32%
+|-
+| 20 || 130% || 80% || 25% || 100% || 75% || 50% || 35%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate.
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the character's current Class will be used instead for calculations.
+
+If the weapon is [[Blade Upgrade|upgraded]], all values in the table are increased by 20% (multiplicatively) for the character wielding it (fractions are rounded to the nearest integer). &lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 17 || 4% || 25%
+|-
+| 10 || 38 || 4% || 26%
+|-
+| 20 || 69 || 5% || 27%
+|-
+| 30 || 106 || 5% || 28%
+|-
+| 40 || 148 || 6% || 29%
+|-
+| 50 || 196 || 6% || 30%
+|-
+| 60 || 251 || 6% || 31%
+|-
+| 70 || 312 || 7% || 32%
+|-
+| 80 || 380 || 7% || 33%
+|-
+| 90 || 457 || 8% || 34%
+|-
+| 99 || 534 || 8% || 35%
+|}
+== Arts ==
+* '''[[Mad Taunt (XC3)|Mad Taunt]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE / Taunt
+* '''[[Bull Rush]]''', [[Topple (XC3)|Topple]]
+* '''[[Variable Turret]]''', Block attacks
+* '''[[Crash Out]]''', AOE / High aggro (Rank 1 Master Art)
+* '''[[Uppercut Slash]]''', High aggro
+* '''[[Solid Stance]]''', Def. up / Atk down (Rank 10 Master Art)
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 6.png]] '''Defensive Soul''', Boosts Physical Defense by 10-20%. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 4.png]] '''I'll Protect You''', Reduces damage taken by allies in a fixed radius by 20-30%.
+* [[File:XC3 Skill Icon 4.png]] '''Tenacious Blocker''', Boosts Block Rate by 30-50% when HP is at 30% or lower. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 12.png]] '''Aggravator''', Accrues Aggro every second.
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Defensive Soul
+!I'll Protect You
+!Tenacious Blocker
+!Aggravator
+|-
+| 1
+| 10%
+| 20%
+| 30%
+| 10
+|-
+| 5
+| 12%
+| 22%
+| 35%
+| 12
+|-
+| 10
+| 15%
+| 25%
+| 40%
+| 15
+|-
+| 15
+| 17%
+| 27%
+| 45%
+| 25
+|-
+| 20
+| 20%
+| 30%
+| 50%
+| 30
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Lanz Artwork.png|Lanz as a Heavy Guard
+Heavy Guard Noah.png|Noah as a Heavy Guard
+Heavy Guard Mio.png|Mio as a Heavy Guard
+Heavy Guard Eunie.png|Eunie as a Heavy Guard
+Heavy Guard Taion.png|Taion as a Heavy Guard
+Heavy Guard Sena.png|Sena as a Heavy Guard
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>kdch71i1gpqupo3ob4h5j96qxm6931n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heavy Weak Guard</title>
+    <ns>0</ns>
+    <id>118962</id>
+    <revision>
+      <id>592790</id>
+      <parentid>592289</parentid>
+      <timestamp>2023-05-15T20:15:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592790</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="967" sha1="k636fc2wqw5fisijjrymhyolxjpwzig" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Heavy Weak Guard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Heavy Weak Guard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 31%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Heavy Weak Guard
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts Block Rate by 32%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Heavy Weak Guards''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>k636fc2wqw5fisijjrymhyolxjpwzig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hedonist Tirkin</title>
+    <ns>0</ns>
+    <id>118682</id>
+    <revision>
+      <id>574383</id>
+      <parentid>559406</parentid>
+      <timestamp>2023-01-28T04:22:40Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574383</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1455" sha1="22jq8uj147mt8crsavi9cbhcovfwpt2" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Hedonist Tirkin
+|image        = XC3 Hedonist Tirkin.png
+|caption      = Hedonist Tirkin
+|type         = [[Tirkin]]
+|level        = 23
+|area         = [[Ribbi Flats]] ([[Tirkin Headquarters (XC3)|Tirkin Headquarters]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 535
+|cp           = 421
+|sp           = 5
+|gold         = 906
+|hp           = 344,300
+|strength     = 533
+|healing      = 156
+|dexterity    = 86
+|agility      = 80
+|physdef      = 25%
+|ethdef       = -10%
+|critrate     = 12%
+|guardrate-front = 30%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Hedonist Tirkin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Tirkin]] family, and can be found at level 23 at the [[Tirkin Headquarters (XC3)|Tirkin Headquarters]] in [[Ribbi Flats]]. The [[Soulhacker#Enemy Skills|Tactical Eye]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 70%
+|physdebuff = 60%
+|etherdebuff = 40%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hedonistic tirkin location.png
+Hedonistic tirkin.png
+&lt;/gallery&gt;
+
+
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>22jq8uj147mt8crsavi9cbhcovfwpt2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hedred Scorpox</title>
+    <ns>0</ns>
+    <id>122996</id>
+    <revision>
+      <id>578484</id>
+      <parentid>559704</parentid>
+      <timestamp>2023-03-04T18:05:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578484</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1095" sha1="bshjeex9s014nv8gpzcc0les30hov63" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Hedred Scorpox
+|image        = 
+|caption      = Hedred Scorpox
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Scorpox]]
+|level        = 48
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Apex Wing]])
+|spawntime    = During ''[[Beyond Mercy and Revenge]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Hedred Scorpoxes''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Scorpox]] family, and five are fought at level 48 at the [[Apex Wing]] in the [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Beyond Mercy and Revenge]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Scorpoxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bshjeex9s014nv8gpzcc0les30hov63</sha1>
+    </revision>
+  </page>
+  </mediawiki>

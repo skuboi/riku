@@ -1,0 +1,6 @@
+Art Name: Myopic Screen
+
+Class: Medic Gunner
+
+Effect: Daze
+

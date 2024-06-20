@@ -1,0 +1,6 @@
+Skill Name: Recovery Engine 
+
+Class: War Medic
+
+Skill Buff or Effect:  Removing debuffs boosts own Healing Power by 50% (up to a maximum of 150%).
+

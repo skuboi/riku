@@ -1,0 +1,6 @@
+Skill Name: Shieldrender 
+
+Class: Tactician
+
+Skill Buff or Effect:  Adds 100% chance for attack to be unblockable.
+

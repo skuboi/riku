@@ -1,0 +1,6 @@
+Art Name: Ether Cannon
+
+Class: Medic Gunner
+
+Effect: Accuracy down
+

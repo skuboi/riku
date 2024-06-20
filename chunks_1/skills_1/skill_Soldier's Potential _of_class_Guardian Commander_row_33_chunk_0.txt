@@ -1,0 +1,6 @@
+Skill Name: Soldier's Potential 
+
+Class: Guardian Commander
+
+Skill Buff or Effect:  When HP is at 30% or lower, restore 1.4% HP each second.
+

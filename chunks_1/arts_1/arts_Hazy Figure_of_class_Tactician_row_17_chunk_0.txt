@@ -1,0 +1,6 @@
+Art Name: Hazy Figure
+
+Class: Tactician
+
+Effect: Field / Eva. up
+

@@ -1,0 +1,6 @@
+Skill Name: Qinggong 
+
+Class: Thaumaturge
+
+Skill Buff or Effect:  Boosts evasion by 35% while moving.
+

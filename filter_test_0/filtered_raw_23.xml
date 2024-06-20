@@ -1,0 +1,819 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Expanding Memory</title>
+    <ns>0</ns>
+    <id>122883</id>
+    <revision>
+      <id>566695</id>
+      <parentid>565377</parentid>
+      <timestamp>2022-11-22T15:22:49Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566695</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="939" sha1="3w3pnadozux31nxdm84twb9tjdiig44" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Expanding Memory
+|image     = File:XC3 Accessory Cap.png
+|caption   = Extends stance duration by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Expanding Memory
+|image     = File:XC3 Accessory Cap.png
+|caption   = Extends stance duration by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Expanding Memory
+|image     = File:XC3 Accessory Cap.png
+|caption   = Extends stance duration by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 14,960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Expanding Memories''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>3w3pnadozux31nxdm84twb9tjdiig44</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Expansion Holder</title>
+    <ns>0</ns>
+    <id>122721</id>
+    <revision>
+      <id>566696</id>
+      <parentid>564554</parentid>
+      <timestamp>2022-11-22T15:23:18Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="487" sha1="84ej052m9rfvqn5z6jawfhmli2rqgsb" xml:space="preserve">{{Infobox item
+|name      = Expansion Holder
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Extends area of effect of attack Arts which have one by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Expansion Holders''' are [[Accessory (XC3)|Accessories]] in {{XC3}}. They can be bought from the [[Nopon Coin X-change]] for 60 [[Nopon Coin (Silver)|Silver Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>84ej052m9rfvqn5z6jawfhmli2rqgsb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Experience Points (XC3)</title>
+    <ns>0</ns>
+    <id>116818</id>
+    <revision>
+      <id>594262</id>
+      <parentid>589559</parentid>
+      <timestamp>2023-05-27T00:22:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7731" sha1="fhfvkriediklat8mbe5b710p4wm203p" xml:space="preserve">{{for|other uses|Experience Points}}
+'''Experience Points''', also known as '''EXP''', are stats in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+EXP are gained by killing [[Enemy (XC3)|monsters]], discovering [[Landmark]]s, completing [[Quest (XC3)|Quests]] and [[Collectopaedia (XC3)|Collectopaedia Cards]], or holding discussions at Rest Spots (if they do not relate to any Quests). When enough EXP is earned, a character gains a [[level (XC3)|level]], increasing their stats. Heroes will gain EXP alongside the party while inactive, even when they cannot be included in the party.
+
+Characters generally gain more EXP from killing larger and/or higher-level enemies; defeating [[Elite Monster]]s also grant a 250% EXP modifier on top of this. The EXP gain from enemies can be further increased by [[Manana's Menu|meal effects]].
+
+== Bonus EXP ==
+Only EXP gained from defeating enemies is added directly to a character's EXP totals, with all other sources of EXP being converted into '''Bonus EXP''' (Japanese: {{lang|ja|&#12508;&#12540;&#12490;&#12473;EXP}}, ''b&#333;nasu EXP''). Bonus EXP can be used to level characters up at [[Rest Spot (XC3)|Rest Spots]].&lt;ref&gt;https://twitter.com/XenobladeJP/status/1544580885260840960&lt;/ref&gt;
+
+Once the game has been completed, Rest Spots can also be used to lower characters' levels. The excess EXP will then be converted into Bonus EXP, allowing one to level the character back to their original level.
+
+== EXP needed to reach levels ==
+&lt;tabber&gt;
+XC3=
+&lt;h3 style="display:none;"&gt;{{XC3|-}}&lt;/h3&gt;
+{| class="xc1 centered" width="45%" style="float: left; margin-right: 1.5em;"
+! Level !! EXP needed !! EXP total
+|-
+| 1 || &#8212; || 0
+|-
+| 2 || 20 || 20
+|-
+| 3 || 60 || 80
+|-
+| 4 || 110 || 190
+|-
+| 5 || 170 || 360
+|-
+| 6 || 240 || 600
+|-
+| 7 || 320 || 920
+|-
+| 8 || 400 || 1,320
+|-
+| 9 || 500 || 1,820
+|-
+| 10 || 620 || 2,440
+|-
+| 11 || 880 || 3,320
+|-
+| 12 || 1,140 || 4,460
+|-
+| 13 || 1,360 || 5,820
+|-
+| 14 || 1,500 || 7,320
+|-
+| 15 || 1,740 || 9,060
+|-
+| 16 || 1,980 || 11,040
+|-
+| 17 || 2,220 || 13,260
+|-
+| 18 || 2,460 || 15,720
+|-
+| 19 || 2,700 || 18,420
+|-
+| 20 || 2,940 || 21,360
+|-
+| 21 || 3,200 || 24,560
+|-
+| 22 || 3,460 || 28,020
+|-
+| 23 || 3,720 || 31,740
+|-
+| 24 || 3,980 || 35,720
+|-
+| 25 || 4,260 || 39,980
+|-
+| 26 || 4,540 || 44,520
+|-
+| 27 || 4,820 || 49,340
+|-
+| 28 || 5,100 || 54,440
+|-
+| 29 || 5,380 || 59,820
+|-
+| 30 || 5,660 || 65,480
+|-
+| 31 || 5,980 || 71,460
+|-
+| 32 || 6,300 || 77,760
+|-
+| 33 || 6,620 || 84,380
+|-
+| 34 || 6,940 || 91,320
+|-
+| 35 || 7,260 || 98,580
+|-
+| 36 || 7,620 || 106,200
+|-
+| 37 || 7,980 || 114,180
+|-
+| 38 || 8,340 || 122,520
+|-
+| 39 || 8,700 || 131,220
+|-
+| 40 || 9,160 || 140,380
+|-
+| 41 || 9,620 || 150,000
+|-
+| 42 || 10,080 || 160,080
+|-
+| 43 || 10,540 || 170,620
+|-
+| 44 || 11,000 || 181,620
+|-
+| 45 || 11,460 || 193,080
+|-
+| 46 || 12,060 || 205,140
+|-
+| 47 || 12,660 || 217,800
+|-
+| 48 || 13,260 || 231,060
+|-
+| 49 || 13,860 || 244,920
+|-
+| 50 || 14,460 || 259,380
+|}
+
+{| class="xc1 centered" width="45%" style="float: left; margin-right: 1.5em;"
+! Level !! EXP needed !! EXP total
+|-
+| 51 || 15,260 || 274,640
+|-
+| 52 || 16,060 || 290,700
+|-
+| 53 || 16,860 || 307,560
+|-
+| 54 || 17,660 || 325,220
+|-
+| 55 || 18,460 || 343,680
+|-
+| 56 || 19,520 || 363,200
+|-
+| 57 || 20,580 || 383,780
+|-
+| 58 || 21,640 || 405,420
+|-
+| 59 || 22,700 || 428,120
+|-
+| 60 || 23,760 || 451,880
+|-
+| 61 || 24,820 || 476,700
+|-
+| 62 || 25,880 || 502,580
+|-
+| 63 || 26,940 || 529,520
+|-
+| 64 || 28,000 || 557,520
+|-
+| 65 || 29,060 || 586,580
+|-
+| 66 || 30,440 || 617,020
+|-
+| 67 || 31,820 || 648,840
+|-
+| 68 || 33,200 || 682,040
+|-
+| 69 || 34,580 || 716,620
+|-
+| 70 || 35,960 || 752,580
+|-
+| 71 || 37,340 || 789,920
+|-
+| 72 || 38,720 || 828,640
+|-
+| 73 || 40,100 || 868,740
+|-
+| 74 || 41,480 || 910,220
+|-
+| 75 || 42,860 || 953,080
+|-
+| 76 || 44,640 || 997,720
+|-
+| 77 || 46,420 || 1,044,140
+|-
+| 78 || 48,200 || 1,092,340
+|-
+| 79 || 49,980 || 1,142,320
+|-
+| 80 || 51,760 || 1,194,080
+|-
+| 81 || 53,540 || 1,247,620
+|-
+| 82 || 55,320 || 1,302,940
+|-
+| 83 || 57,100 || 1,360,040
+|-
+| 84 || 58,880 || 1,418,920
+|-
+| 85 || 60,660 || 1,479,580
+|-
+| 86 || 62,920 || 1,542,500
+|-
+| 87 || 65,180 || 1,607,680
+|-
+| 88 || 67,440 || 1,675,120
+|-
+| 89 || 69,700 || 1,744,820
+|-
+| 90 || 71,960 || 1,816,780
+|-
+| 91 || 74,220 || 1,891,000
+|-
+| 92 || 76,480 || 1,967,480
+|-
+| 93 || 78,740 || 2,046,220
+|-
+| 94 || 81,000 || 2,127,220
+|-
+| 95 || 83,260 || 2,210,480
+|-
+| 96 || 86,100 || 2,296,580
+|-
+| 97 || 88,940 || 2,385,520
+|-
+| 98 || 91,780 || 2,477,300
+|-
+| 99 || 94,620 || 2,571,920
+|}
+|-|
+FR=
+&lt;h3 style="display:none;"&gt;{{FR|sub}}&lt;/h3&gt;
+{| class="xc1 centered" width="45%" style="float: left; margin-right: 1.5em;"
+! Level !! EXP needed !! EXP total
+|-
+| 1 || &#8212; || 0
+|-
+| 2 || 10 || 10
+|-
+| 3 || 25 || 35
+|-
+| 4 || 45 || 80
+|-
+| 5 || 70 || 150
+|-
+| 6 || 100 || 250
+|-
+| 7 || 135 || 385
+|-
+| 8 || 175 || 560
+|-
+| 9 || 220 || 780
+|-
+| 10 || 270 || 1,050
+|-
+| 11 || 330 || 1,380
+|-
+| 12 || 400 || 1,780
+|-
+| 13 || 480 || 2,260
+|-
+| 14 || 570 || 2,830
+|-
+| 15 || 670 || 3,500
+|-
+| 16 || 775 || 4,275
+|-
+| 17 || 885 || 5,160
+|-
+| 18 || 1,000 || 6,160
+|-
+| 19 || 1,125 || 7,285
+|-
+| 20 || 1,250 || 8,535
+|-
+| 21 || 1,395 || 9,930
+|-
+| 22 || 1,540 || 11,470
+|-
+| 23 || 1,690 || 13,160
+|-
+| 24 || 1,810 || 14,970
+|-
+| 25 || 2,020 || 16,990
+|-
+| 26 || 2,195 || 19,185
+|-
+| 27 || 2,380 || 21,565
+|-
+| 28 || 2,565 || 24,130
+|-
+| 29 || 2,705 || 26,835
+|-
+| 30 || 2,845 || 29,680
+|-
+| 31 || 3,005 || 32,685
+|-
+| 32 || 3,165 || 35,850
+|-
+| 33 || 3,325 || 39,175
+|-
+| 34 || 3,585 || 42,760
+|-
+| 35 || 3,765 || 46,525
+|-
+| 36 || 4,065 || 50,590
+|-
+| 37 || 4,365 || 54,955
+|-
+| 38 || 4,715 || 59,670
+|-
+| 39 || 5,065 || 64,735
+|-
+| 40 || 5,585 || 70,320
+|-
+| 41 || 6,085 || 76,405
+|-
+| 42 || 6,585 || 82,990
+|-
+| 43 || 7,135 || 90,125
+|-
+| 44 || 7,735 || 97,860
+|-
+| 45 || 8,335 || 106,195
+|-
+| 46 || 8,885 || 115,080
+|-
+| 47 || 9,435 || 124,515
+|-
+| 48 || 9,985 || 134,500
+|-
+| 49 || 10,585 || 145,085
+|-
+| 50 || 11,185 || 156,270
+|}
+
+{| class="xc1 centered" width="45%" style="float: left; margin-right: 1.5em;"
+! Level !! EXP needed !! EXP total
+|-
+| 51 || 11,655 || 167,925
+|-
+| 52 || 12,125 || 180,050
+|-
+| 53 || 12,595 || 192,645
+|-
+| 54 || 13,065 || 205,710
+|-
+| 55 || 13,535 || 219,245
+|-
+| 56 || 14,005 || 233,250
+|-
+| 57 || 14,195 || 247,445
+|-
+| 58 || 14,505 || 261,950
+|-
+| 59 || 14,815 || 276,765
+|-
+| 60 || 15,125 || 291,890
+|-
+| 61 || 15,435 || 307,325
+|-
+| 62 || 15,745 || 323,070
+|-
+| 63 || 16,055 || 339,125
+|-
+| 64 || 16,365 || 355,490
+|-
+| 65 || 16,675 || 372,165
+|-
+| 66 || 16,985 || 389,150
+|-
+| 67 || 17,485 || 406,635
+|-
+| 68 || 17,985 || 424,620
+|-
+| 69 || 18,485 || 443,105
+|-
+| 70 || 18,985 || 462,090
+|-
+| 71 || 19,485 || 481,575
+|-
+| 72 || 19,985 || 501,560
+|-
+| 73 || 20,485 || 522,045
+|-
+| 74 || 20,985 || 543,030
+|-
+| 75 || 21,485 || 564,515
+|-
+| 76 || 22,375 || 586,890
+|-
+| 77 || 23,265 || 610,155
+|-
+| 78 || 24,155 || 634,310
+|-
+| 79 || 25,045 || 659,355
+|-
+| 80 || 25,935 || 685,290
+|-
+| 81 || 26,825 || 712,115
+|-
+| 82 || 27,715 || 739,830
+|-
+| 83 || 28,605 || 768,435
+|-
+| 84 || 29,495 || 797,930
+|-
+| 85 || 30,385 || 828,315
+|-
+| 86 || 31,515 || 859,830
+|-
+| 87 || 32,645 || 892,475
+|-
+| 88 || 33,775 || 926,250
+|-
+| 89 || 34,905 || 961,155
+|-
+| 90 || 36,035 || 997,190
+|-
+| 91 || 37,165 || 1,034,355
+|-
+| 92 || 38,275 || 1,072,630
+|-
+| 93 || 39,405 || 1,112,035
+|-
+| 94 || 40,535 || 1,152,570
+|-
+| 95 || 41,665 || 1,194,235
+|-
+| 96 || 43,065 || 1,237,300
+|-
+| 97 || 44,485 || 1,281,785
+|-
+| 98 || 45,905 || 1,327,690
+|-
+| 99 || 47,325 || 1,375,015
+|}
+&lt;/tabber&gt;
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Characters Stats 01.jpg
+&lt;/gallery&gt;
+
+==References==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Stats]]
+[[Category:XC3 Mechanics]]
+[[Category:XC3FR Stats]]
+[[Category:XC3FR Mechanics]]</text>
+      <sha1>fhfvkriediklat8mbe5b710p4wm203p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Exxuno Bunnit</title>
+    <ns>0</ns>
+    <id>122987</id>
+    <revision>
+      <id>573453</id>
+      <parentid>573452</parentid>
+      <timestamp>2023-01-21T12:56:42Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573453</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="837" sha1="nnkxuqfmu4xba1sv25c7ga2fb1wex8i" xml:space="preserve">{{Infobox Enemy
+|name         = Exxuno Bunnit
+|image        = 
+|caption      = Exxuno Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = 21-23
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Exxuno Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 21-23 at [[Yzana Plains]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3 Level 21-25 Enemies]]</text>
+      <sha1>nnkxuqfmu4xba1sv25c7ga2fb1wex8i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fabricator</title>
+    <ns>0</ns>
+    <id>118235</id>
+    <revision>
+      <id>597211</id>
+      <parentid>597210</parentid>
+      <timestamp>2023-06-24T15:39:02Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <minor/>
+      <comment>actual proper link</comment>
+      <origin>597211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1171" sha1="fyht4tlkinrlgjqv1secb6ee8dzssu9" xml:space="preserve">{{Infobox location
+|name        = Fabricator
+|image       = XC3 Plant 01.jpg
+|caption     = Fabricator
+|type        = Point of interest
+|located     = [[Aionios]]
+|function    = Producing Collectible items
+}}
+'''Fabricators''' (Japanese: {{lang|ja|&#12503;&#12521;&#12531;&#12488;}}, ''Puranto'', Plant) are objects in {{XC3}}.&lt;ref&gt;https://topics.nintendo.co.jp/article/dec68671-d6ac-4982-abec-93cb91a1dcb4&lt;/ref&gt;
+
+== Overview ==
+Fabricators can be found at [[Ferronis Hulk]]s, and become usable after the hulk is rebooted. Using a Fabricator, the party can spend [[Gold]] to produce [[Collectopaedia (XC3)|Collectible]] items. In rare cases, it may be possible to produce items that are not readily available in the field, so it is important to try producing a variety of items.
+
+A Fabricator can also be unlocked for use at [[Li Garte Prison Camp]] by upgrading the Prison through [[Wheelideeli]] after ''[[Prison Spring Clean]]'' is completed.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Plant 01.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Mechanics]]
+[[Category:XC3 Shops]]
+[[Category:XC3 Objects]]
+[[Category:XC3 Ferronis]]
+[[Category:XC3 Points of Interest]]</text>
+      <sha1>fyht4tlkinrlgjqv1secb6ee8dzssu9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fact Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>121011</id>
+    <revision>
+      <id>559651</id>
+      <parentid>547202</parentid>
+      <timestamp>2022-09-30T10:47:09Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559651</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="843" sha1="h181ginuvh5l4btips9l9qilzis8805" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Fact Bunnit (XC2)}}
+{{Infobox Enemy
+|name         = Fact Bunnit
+|image        = 
+|caption      = Fact Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Everblight Plain]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Fact Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>h181ginuvh5l4btips9l9qilzis8805</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fairscale Marina</title>
+    <ns>0</ns>
+    <id>119471</id>
+    <revision>
+      <id>583289</id>
+      <parentid>574346</parentid>
+      <timestamp>2023-04-17T15:26:52Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1437" sha1="88lbvse3nwzyfgyjvs07ttd2hii7cos" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Fairscale Marina
+|image        = XC3 Fairscale Marina.png
+|caption      = Fairscale Marina
+|type         = [[Merigna]]
+|level        = 66
+|area         = [[Erythia Sea]] ([[Oshia's Reef Ravine]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,589
+|cp           = 187
+|sp           = 5
+|gold         = 1,044
+|hp           = 1,588,400
+|strength     = 1,192
+|healing      = 730
+|dexterity    = 394
+|agility      = 291
+|physdef      = 15%
+|ethdef       = 10%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Fairscale Marina''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Merigna]] family, and can be found at level 66 at [[Oshia's Reef Ravine]] in [[Erythia Sea]]. It forms the trio "Whirlpool Triumvirate" with [[Sharpscale Ragoon]] and [[Hardscale Gouran]]. The Breath of an Era [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Whirlpool triumvirate location.png
+Whirlpool triumvirate marina.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Merignas]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>88lbvse3nwzyfgyjvs07ttd2hii7cos</sha1>
+    </revision>
+  </page>
+  </mediawiki>

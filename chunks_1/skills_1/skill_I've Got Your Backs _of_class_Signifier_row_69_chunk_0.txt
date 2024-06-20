@@ -1,0 +1,6 @@
+Skill Name: I've Got Your Backs 
+
+Class: Signifier
+
+Skill Buff or Effect:  Extends duration of buff effects issued by self by 50%.
+

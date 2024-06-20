@@ -1,0 +1,6 @@
+Art Name: No Love Lost
+
+Class: Strategos
+
+Effect: Physical Def. down
+

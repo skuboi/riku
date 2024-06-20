@@ -1,0 +1,6 @@
+Art Name: Flamelord
+
+Class: Seraph
+
+Effect: Front attack _
+

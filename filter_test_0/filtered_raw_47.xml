@@ -1,0 +1,2700 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nia</title>
+    <ns>0</ns>
+    <id>68505</id>
+    <revision>
+      <id>601408</id>
+      <parentid>600144</parentid>
+      <timestamp>2023-07-22T10:23:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */</comment>
+      <origin>601408</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48570" sha1="ddax6c8x8vvynhw56xyesr2qe1b86gv" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Nia
+|image         = &lt;tabber&gt;
+XC2 = [[File:Nia-portrait.png]]
+|-|
+XC3 = [[File:Hero Nia.png]]
+&lt;/tabber&gt;
+|gender        = Female
+|age           = Unknown
+|species       = [[Gormotti]]&lt;br/&gt;[[Blade (XC2)|Blade]] ([[Flesh Eater]])
+|haircolor     = Silver
+|eyecolor      = Amber
+|affiliation   = [[Torna (Organization)|Torna]] (formerly)&lt;br/&gt;[[Agnus]]
+|voiceactorjp  = [[wikipedia:Hitomi &#332;wada|Hitomi &#332;wada]]
+|voiceactoreng = [https://www.imdb.com/name/nm3752193/ Catrin-Mai Huw]
+|appearances   = {{XC2}}&lt;br /&gt;{{XC3}}&lt;br /&gt;{{XC3FR|sublink}} (flashback)
+|other         = {{SSBU}}
+}}
+{{quote|An endless field of green among the clouds, eh? If the legends are true, even people like me...|Nia}}
+'''Nia''' (Japanese: {{lang|ja|&#12491;&#12450;}}, ''Nia'', '''Niyah''') is one of the main playable characters in {{XC2}}. She is a [[Gormotti]] [[Driver]] and is accompanied by her [[Blade (XC2)|Blade]], [[Dromarch]], who calls her "Lady" ({{lang|ja|&#12362;&#23330;&#27096;}}, ''Oj&#333;sama'') like a butler. She comes from [[Gormott Province]]. Originally a member of [[Torna (Organization)|Torna]], she defects to [[Rex]]'s side after [[Pyra]]'s awakening.
+__TOC__
+
+== Personality ==
+Nia usually comes across as sarcastic and cynical, always having a witty put-down at other characters' shortcomings. She is initially unfriendly and dismissive of Rex, particularly due to his belief in [[Elysium]] which she sees as childish naivety. She has a good political understanding of the annexing of Gormott by the [[Empire of Mor Ardain]], and opts to save lives where possible in opposition to the other members of Torna. She displays empathy for Pyra's situation and develops a teasing camaraderie with the rest of the party, warming especially to Rex as she gets to know him better.
+
+As the Queen of [[Agnus]], Nia attempts to conceal her blunt and uncouth attitude with an air of refinement under the impression that her usual self would be considered undignified, but she has little success in doing so.
+
+== Appearance ==
+=== In {{XC2|-}} ===
+Nia's Driver form is that of a young Gormotti girl with neck-length silver hair styled into a bob cut with matching feline ears on top of her head. She has amber eyes, three white stripe tattoos on her face, and elongated canine teeth. She is quite short and has a petite frame. She wears a feline-hooded yellow one-piece jumpsuit with gold-trimmed white armor plates around her chest and upper arms, and wears a brown utility belt around her hips with three daggers. She wears red and white heeled boots which come up at the top into large decorated white and black cones, which extend past her knees around the front and around her calves from the back.
+
+As a Blade, Nia drops her feline mannerisms and appears more visually similar to a kitsune. She retains her facial markings, eyes, and elongated canines from her Driver form. Her hair now comes down to her legs and is styled into very low twintails tied up with red [[:wikipedia:Shimenawa|shimenawa-like rope]]. Her ears are now much longer, point upwards and outwards, and are decorated around the base. Her clothing resembles a [[:wikipedia:Miko|miko outfit]], which consists of a white gold-and-red trimmed leotard, with her [[Core Crystal]] - shaped like an upside down blue [[:wikipedia:Kite (geometry)|geometric kite]] with red blotches from being a Flesh Eater - visible on her chest, and matching large detached sleeves with white gloves. Both the leotard and sleeves are adorned with red rope with the former decorated with gold-colored bells. Her boots are now red with large gold spikes on the toe caps, with gold-trimmed white thigh-high leggings. Her default Catalyst Scimitar is a long blue blade with flowers running along it, with a guarded golden hilt.
+{{clr}}
+
+==== Alternate Costumes ====
+===== As a Driver =====
+[[File:Nia alts.png|thumb|250px|Blood Witch, Candy Stripe, Fancy Sundress]]
+Nia's Driver form has three alternate costumes which can be obtained as DLC [[Accessory (XC2)|Accessories]] via [[Challenge Battle Mode]]. These are:
+
+* [[Blood Witch Nia]]
+* [[Candy Stripe Nia]]
+* [[Fancy Sundress Nia]] (Post-Chapter 7)
+
+===== As a Blade =====
+[[File:Nia Blade alts.png|thumb|240px|Devoted Marigold, Loyal Bellflower, Sincere Primrose]]
+Nia's Blade form also has three alternate costumes which can be obtained as DLC [[Aux Core]]s via Challenge Battle Mode after Chapter 7. These are:
+
+* [[Devoted Marigold Nia]]
+* [[Loyal Bellflower Nia]]
+* [[Sincere Primrose Nia]]
+{{clr}}
+
+=== In {{XC3|-}} ===
+[[File:Meeting Queen Nia Xenoblade Chronicles 3 1-47 screenshot.png|alt=Nia as the Queen of Agnus|thumb|180px|Nia as the Queen of Agnus]]
+As the Queen of Agnus, Nia wears long, hooded white robes with red accents resembling a kimono, with a large white bow on the back. Her dress is decorated with various golden accessories reminiscent of her Blade form. Her hair is now shorter coming down only to her shoulders. She retains her long pointed ears which are now attached to a white crown with golden accents and three light blue jewels coming down the front. Her crimson and aqua diamond Core Crystal is visible on her chest. While she retains most of her facial features, her eyes are distinctly more pointed.
+{{clr}}
+
+[[File:Hero Nia Xenoblade Chronicles 3.png|alt=Nia in her Hero outfit|left|thumb|180px|Nia in her Hero outfit]]
+As a Hero, Nia wears a short yellow dress with a black belt around her waist, resembling her original Driver form. Nia also wears similar shoes and wrist guards and a slightly modified version of her original chest plate and spaulders. The back of her outfit is lined with white cloth with golden accents, with 2 pieces coming down toward her legs resembling her Blade form. Below her dress, she wears black leggings with a white band around her right thigh, reminiscent of [[Massive Melee Mythra]]. She wields a longer, curved version of her Catalyst Scimitar as well as two apparitions of Pyra's and [[Mythra]]'s Aegis Swords floating behind her. This combination is now referred to as the Anima Sword in game.
+{{clr}}
+
+== Story ==
+=== {{XC2|-}} ===
+==== Becoming a Flesh Eater ====
+{{Quote|Her life is tied to yours.|Nia's Father}}
+[[File:NiaDromarch.png|thumb|left|Nia resonates with Dromarch]]
+Nia was the Blade of the wealthy lord of Echell in [[Gormott Province]], who had a daughter, Nia's "sister," who was very frail and sickly. Nia studied to be a lady, until her [[Driver]] spent all of their money in search for a cure for his daughter and lost his status as a lord. The family became drifters, and the harsher lifestyle took a toll on the lord's daughter, who died not long afterwards. The lord made Nia consume his daughter's body, and Nia became a [[Flesh Eater]] and began addressing the lord as her "father."
+
+[[File:NiaRecuit.png|thumb|right|Nia is rescued by Jin]]
+Soon after the death of her sister, Nia's Driver passed away as well, and Nia found a [[Core Crystal]] of his and resonated with it, bonding her to [[Dromarch]]. The two began wandering around [[Alrest]]. Her status as a Flesh Eater caused the [[Indoline Praetorium]] to hunt them down, and the two were captured. [[Jin]] manages to free them, leading Nia to join him and the rest of Torna.
+
+==== Meeting Rex ====
+Nia meets Rex after she, Jin, and [[Malos]] go to [[Argentum Trade Guild]] to find help in salvaging a [[Ancient Ship|sunken ship]]. She initially shows skepticism at Rex's dream of finding [[Elysium]], but is nonetheless horrified when Jin kills Rex, which leaves her hesitant to continue to associate with Torna. This causes her to get caught in the [[Monoceros (XC2)|Monoceros]]' attack on the sunken ship, though [[Azurda]] manages to save both Rex and Nia in time.
+
+[[File:NiaFight.png|thumb|left|Nia fights alongside Rex]]
+Rex and Nia crash land on [[Gormott (Titan)|Gormott]], where they eventually make their way to [[Torigoth]]. Upon arrival, several soldiers from the [[Empire of Mor Ardain]] see them and attempt to apprehend them with the help of [[Brighid]]. Though Rex and Pyra are able to escape, Nia and Dromarch are captured. [[M&#242;rag]] later uses Nia as bait to lure Rex and Pyra into a trap, though the four escape. Nia attempts to part ways afterwards, but Rex's conviction in his goal convinces her to stay. 
+
+In Uraya, the party encounter Akhos and Obrona, who taunt Nia for switching sides. After their defeat she talks about her time in Torna. Later Akhos and Malos fight [[Vandham (XC2)|Vandham]] and Nia considers healing him, but is too afraid to use her power. 
+
+After the incident in [[Temperantia]], the [[Empire of Mor Ardain]] and the [[Kingdom of Uraya]] have a summit where [[Bana (XC2)|Bana]] attempts to kill everyone present with an explosive device. Emperor [[Niall]] nearly sacrifices himself to save the others, but Nia is able to revive him after asking Dromarch to distract the rest of the party so they do not see her powers.
+
+==== Burdened No Longer ====
+[[File:NiaBlade.png|thumb|right|Nia reveals her true form]]
+As the group ventures through [[Spirit Crucible Elpys]], she begins showing signs of fatigue, similar to the Blades and [[Zeke]]. She begins sharing stories of her past, and Rex tells her to stay true to herself. Nia finally reveals herself as a Flesh Eater in the [[Vault of Heroes]] when the party is overwhelmed by [[Phantasm]]s. She thanks Rex for helping her see that she should not be afraid of who she is, and proclaims that she is free of her past, and of Jin. Nia confesses that she loves Rex for helping her find this freedom, to which he replies that he loves her and all of his friends, and they team up as Driver and Blade. Together, they fight the Phantasms until the voice of [[Addam]] himself tells them that Rex is the one who he has been waiting for to wield the true Aegis.
+
+Nia fights as Rex's Blade as they travel to the [[Cliffs of Morytha]] to rescue Pyra. Malos meets the party in [[Balquors Ruins]] and taunts Nia for deciding to reveal her true nature having betrayed Torna, and uses his revived Aegis powers to attack the party. Nia explains that Malos' power is to destroy all he touches, but that hers is to restore - which she does, much to Malos' annoyance. Eventually she turns on him and uses her ability to make his cells replicate at an incredible rate, like a very fast-acting cancer, which debilitates him enough that he falls from the ruins and is assumed dead. Upon reaching the [[Gotrock Oracle Ruins]], the party tries to fight Jin and Malos, but are quickly overpowered by the duo, with Jin even nullifying Nia's healing powers. However, the tables turn upon Pyra's transformation into [[Pneuma]] and Rex easily defeats Jin. After a clash between [[Siren]] and [[Artifice Ophion|Ophion]], the ruins collapse and the party falls into the [[Land of Morytha]], with Rex, Mythra, Azurda, Poppi, and Brighid getting separated from the group. 
+
+==== Climbing the World Tree ====
+After the party reunites, they begin to climb up the [[World Tree]]. During the climb, Nia asks the other Blades in the group if they ever wanted to live after the deaths of their Drivers. She states that as a Flesh Eater, she has no knowledge of how long she will live. Later, the party encounters Amalthus in his Blade Eater form. During the battle, Rex fights Amalthus with both Pneuma's Aegis Sword and Nia's Catalyst Scimitar to counter some of his attacks while Nia provides healing for the group and fights alongside Dromarch. After Jin freezes Amalthus in place, he tells Nia to heal Rex and Mythra. In response, Nia asks him why he didn't kill her for siding with Rex, to which he answers that he recognized that Nia would become the Blade of someone she trusted, just like he did with [[Lora]]. Nia and the rest of the party then mourn Jin after he sacrifices himself to kill Amalthus.
+
+==== Learning of Alrest's Creation ====
+[[File:Nia title screen.png|thumb|left|Nia on the title screen]]
+After the party finally reaches Elysium in the [[First Low Orbit Station]] and enter the [[Old Temple]], the party is separated by the [[Architect]]. Rex is manipulated into fighting specters of his friends; Nia and Dromarch's confront him about him loving Pyra instead of Nia, and he flees from them in hurt and confusion. After the Architect ends the visions, the party is brought back together and they all meet [[Klaus]], who tells them about the [[Conduit]] and how Alrest came to be as well as his [[Zanza|other half]]'s imminent death, before confronting Malos in the [[Aion Hangar]].
+
+After Malos' death, the party runs to escape from the station as it begins to collapse. When Pneuma tells Rex to leave her behind so she can save Alrest, Nia helps comfort Rex as he pleads Pneuma not to, until he eventually accepts her decision. The party escapes on an escape pod, which breaks apart upon entry. Azurda, transforming into his adult form thanks to Pneuma's preparations, catches everyone and flies them to a landmass that all the Titans are combining with. Upon Pyra and Mythra's revival, Nia gives Rex encouragement to go to them, having made her peace with his decision.
+{{clr}}
+
+=== {{XC3|-}} ===
+[[File:XB3Endingphotoofxb2cast.png|thumb|Nia with a baby in a group photo]]
+At some point, Nia is viewed with her child in a group photograph.
+
+==== Nia and Melia's Plan ====
+A few decades after Malos' defeat, the two worlds that Klaus created by splitting the original apart with the Conduit began to re-fuse back together, which would effectively destroy both. Making contact with [[Melia]] in the world of the [[Bionis]] as their worlds drew nearer to one another, she helped devise a plan that would allow their worlds to survive. Both worlds would construct one half of an ark known as [[Origin]] that contained all of their societies' knowledge and their citizens' literal souls, which would allow them to be reborn after their worlds were split apart and returned to their original forms. The core of [[Ontos]] was a critical part of its construction.
+
+[[File:Nia&amp;Melia.jpg|thumb|Nia communicates with Melia|left]]
+Unfortunately, the Origin system became corrupted by the desires for safety and security held by the souls it contained, creating an entity called [[Z]]. It hijacked the whole separation process between the world, and instead of being divided both worlds were frozen in time and a [[Aionios|third one]] was created between them to create a world without a "future". Nia would escape Z and enter cryogenic sleep, preparing the [[Ouroboros]] Stones using what little energy from Origin she still had access to and her own Core Crystal. She then entrusted the key to her [[Cloudkeep|hideaway]] to the renegade [[Consul]] [[M]], who hated her immortal state and wished to help Nia, trusting that people would be able to defy Z in the future and free her along with Melia. [[Poppi &#945;|Poppi]], who had escaped with Nia, entered a supercomputer near Nia's resting place, but she was still connected to Nia and the outside world through the computer and could use it to inform her of current events. The people of both worlds, meanwhile, were recreated in this new world but had been completely taken over by Z and its Consuls using a [[Queen of Agnus|robotic double]] of her as a puppet ruler. Under Z's rule, [[Agnus]] would wage a perpetual war with [[Keves]], effectively keeping the world in "a state of 'now'".
+
+==== Reawakening ====
+[[File:Nia Overseeing Origin.jpg|thumb|Nia overseeing Origin's construction]]
+After the party liberates [[Agnus Castle]], [[Mio]], thanks to M's memories, leads the party to the [[Cloudkeep]] on [[Captocorn Peak]] in order to meet with Nia. However, as Nia begins to awaken, she is suddenly attacked by Moebius [[D]] and [[J]]. Fortunately, their attack is not fatal on account of stabbing her heart rather than her Core Crystal, and she later regains consciousness after the [[Moebius D &amp; J|two Moebius]] are defeated.
+
+Upon awakening and introducing herself, Nia tells the party the story of how Aionios was created and about Origin. She also gives them a piece of [[Origin Metal]] needed to get to Origin and reveals that Melia is being held captive within Origin itself.
+
+==== Nia's Memories ====
+During the post-game, which takes place before the final boss battle, the party returns to the [[Hall of the Serene]] in the Cloudkeep to find Nia wearing a different outfit reminiscent of her Driver outfit. Upon realizing the presence of Ouroboros, Nia requests to join the party on their travels (unconvincingly insisting that it is in no way because she finds being a queen lonely and boring). She tells them that during their travels, she will tell them more about Alrest.
+
+[[File:Nia Decides to Explore Aionios.jpg|thumb|Nia deciding to join the party]]
+At the memorial of the first-generation [[Ouroboros]] in the [[City]], Nia speaks with Mio about the unusually close connection she felt with her (the further explanation of which is interrupted before she can fully clarify). When visiting her castle, she meets with [[Ghondor]] and tells her and the party about how important the "Vandham" name is to her, telling them about some of her experiences with the [[Vandham (XC2)|Vandham she knew]]. At [[Saffronia Tree|a Saffronia tree]] in the [[Rae-Bel Tableland]], Nia tells the party that Saffronias like that are originally from Alrest, and how much of Aionios' terrain originates from Alrest, such as how originally, the Urayan Mountains weren't as "picturesque" in the past. In the [[Archaic Tower]] in the [[High Maktha Wildwood]], Nia tells the party about how the original world was split in two in the first place. She explains how the people in that era fought each other over the absolute power of the Conduit, which led to that power ripping the world apart. She concludes the story by stating that the true meaning of ruins they are looking at, being the [[Land of Morytha]], is the stand as a monument to the history that created the world. Additionally, Nia reflects on how the people of the original world destroyed themselves; they too feared the prospect of coming to an end, and pursued the same "eternity" that Z now wishes to impose upon Aionios. 
+
+During Nia's [[Hero Quest|Ascension Quest]], ''[[Grasping My Future]]'', the party brings her to the [[The Cavity]] of [[Swordmarch]] after she requests to go somewhere that is close enough to the sky. When they arrive, Nia admits that she wished to make a new memory with them despite not knowing if she would even be able to remember anything about Bionis or Aionios following the separation of the worlds. She questions her own place in the world, as she considers herself a relic from a bygone era, but Mio manages to convince her to continue to be a part of their future in whatever form it might take after the two worlds have split again.
+
+==== Escaping the "Endless Now" ====
+During Noah and his allies' final battle against [[Z&#8734;]], Nia and Melia launch an assault onto Origin using their Castles as [[Ferronis]] and provide support to the party by summoning the allies of the party to help them fight [[X&#8734;]] and [[Y&#8734;]]. After the party regroups, Nia and Melia arrive to join the fight themselves. After Z's defeat, Nia and Melia appear to ask the party if their decision to separate the two worlds is final. As the two Queens make their preparations, Nia remarks that although their worlds will become separated for a time, she believes the day will come when they get to walk hand-in-hand again. Back in the Cloudkeep, she is joined by Poppi, who exits from the supercomputer, as she glances at a framed photograph of her friends and family back in Alrest, stating that she will see them soon as the worlds of Alrest and the Bionis are reconstructed.
+
+== In {{XC2|-}} ==
+=== Heart-to-hearts ===
+Nia takes part in 16 [[Heart-to-Heart (XC2)|Heart-to-hearts]]:
+* "[[A Tora and Poppi Production]]"
+* "[[Addam's Appetite]]"
+* "[[Ardainian Technology]]"
+* "[[Before the Storm]]"
+* "[[Blushy-Crushy]]"
+* "[[Burgeoning Curiosity]]"
+* "[[Dromarch's Wisdom]]"
+* "[[Five Centuries of Memory]]"
+* "[[Little Rex]]"
+* "[[Morytha the Unknown]]"
+* "[[Tending to Turters]]"
+* "[[The Ground Beneath our Feet]]"
+* "[[The Purest Beauty?]]"
+* "[[The Real Gramps]]"
+* "[[Tora's Angst]]"
+* "[[Unforgiving Terrain]]"
+
+=== General stats ===
+{| class="xc1 centered" width="100%"
+! Level !! Max HP !! Max Strength
+! Max Ether !! Max Dexterity !! Max Agility !! Max Luck
+|-
+|1|| 319||17||20 || 34||25||18
+|-  
+| 99, no modifier|| 6,379|| 341||401||306 ||223 ||363
+|-  
+| 99, full affinity chart|| 6,579 ||341|| 421 ||326||243||363
+|}
+
+==== Thought Cloud ====
+These are Nia's [[Idea Stat]]s upon joining the party.
+
+* Bravery - Lv. 3
+* Truth - Lv. 1
+* Compassion - Lv. 0
+* Justice - Lv. 0
+
+==== Default Blade ====
+Dromarch is Nia's default [[Blade (XC2)|Blade]] and can only be used by Nia and later, can also be used by Rex. If Nia is in the lead with Dromarch on the field, the player can control him to move on the field, with Nia riding on his back.
+
+{| class="xc1 centered" width="100%"
+!Name
+!Role
+!Element
+!Default [[Core Chip]]
+!Obtained
+|-
+|[[Dromarch]]
+| HLR
+|[[File:XC2-element-water.png|32px|center|Water]]
+|[[Lead Chip]]
+| Default Blade when Nia joins the party.
+|}
+
+=== Arts ===
+* Twin Rings
+** '''[[Butterfly Blade (XC2)|Butterfly Blade]]''', [[Break (XC2)|Break]]
+** '''[[Jaguar Slash (XC2)|Jaguar Slash]]''', HP Potion
+** '''[[Healing Halo]]''', Heal Party
+** '''[[Gemini Loop]]''', Side Attack &#8593;
+
+* Greataxe
+** '''[[Brutal Blade]]''', [[Topple (XC2)|Topple]]
+** '''[[Rhino Assault]]''', Critical recharge
+** '''[[Bear Smash]]''', Toppled &#8593;
+** '''[[Shadow Slice]]''', AOE / Aquatic &#8593;
+
+* Megalance
+** '''[[Vulture Peck]]''', High HP &#8593;
+** '''[[Raptor Raid (XC2)|Raptor Raid]]''', Back Attack &#8593;
+** '''[[Discus Glaive]]''', Aggro Down
+** '''[[Gyro Break]]''', AOE / Insects &#8593;
+
+* Ether Cannon
+** '''[[Pulse Fire]]''', AOE / High HP &#8593;
+** '''[[Leopard Blow]]''', Break / Pierce
+** '''[[Cattle Driver]]''', AOE / Launched &#8593;
+** '''[[Breach Shot]]''', Cancel attack &#8593; 
+
+* Shield Hammer
+** '''[[Hammerhead (XC2)|Hammerhead]]''', Knockback
+** '''[[Elephant Press]]''', AOE / Aggro up
+** '''[[Rumbling Smash]]''', Front attack &#8593;
+** '''[[Buckler Slam]]''', AOE / Toppled &#8593;
+
+* Chroma Katana
+** '''[[Deathbound]]''', Humanoid &#8593;
+** '''[[Triple Flash]]''', AOE / Aggro up
+** '''[[Wolf Fang]]''', Aggroed &#8593;
+** '''[[Scorpion Tail]]''', Evasion
+
+* Bitball
+** '''[[Dolphin Spin]]''', HP Potion
+** '''[[Falcon Turn]]''', Toppled &#8593;
+** '''[[Healing Circle]]''', Heal Party
+** '''[[Acrobatic Bomber]]''', AOE / Break
+
+* Knuckle Claws
+** '''[[Jackal Claw (XC2)|Jackal Claw]]''', Cancel atk &#8593;
+** '''[[Deadly Twister (XC2)|Deadly Twister]]''', AOE / HP Potion
+** '''[[Raptor Beat]]''', Knockback, Side attack &#8593;
+** '''[[Comet Punch (XC2)|Comet Punch]]''', AOE / [[Launch (XC2)|Launch]]
+
+==== New Game Plus Arts ====
+* Sword Tonfa
+** '''[[Sabertooth Slash]]''', Low HP &#8593;
+** '''[[Updraft]]''', AOE / Launch
+** '''[[Whirlwind (XC2)|Whirlwind]]''', AOE / Aggroed &#8593;
+** '''[[Universal Beat]]''', Knockback / Aggro Up 
+
+* Brilliant Twinblades 
+** '''[[Papillon Dance]]''', Break / Critical recharge
+** '''[[Cheetah Scratch]]''', Cancel Attack &#8593;
+** '''[[Tricksy Loop]]''', AOE / Side Attack &#8593;
+** '''[[Lustrous Heal]]''', Heal party
+
+* Decimation Cannon
+** '''[[Surprise Shot]]''', Front attack &#8593;
+** '''[[Porcupine Blow]]''', Break / Pierce
+** '''[[Mayfly]]''', AOE / Launched
+** '''[[Phosphorescent Flare]]''', AOE / High HP &#8593;
+
+* Rockrending Gauntlets
+** '''[[Lion Claw]]''', Front attack &#8593;
+** '''[[Meteor Punch]]''', AOE / Launch
+** '''[[Raging Screw]]''', AOE / Aggroed &#8593;
+** '''[[Buffalo Beat]]''', Knockback / Aggro up
+
+* Calamity Scythe
+** '''[[Brutal Scythe]]''', Topple
+** '''[[Capra Assault]]''', HP Potion
+** '''[[Grizzly Smash]]''', Heal party on attack
+** '''[[Creeping Slicer]]''', AOE / Aggro down
+
+* Cobra Bardiche
+** '''[[Condor's Beak]]''', Low HP &#8593;
+** '''[[Sand Break]]''', AOE / Insects &#8593;
+** '''[[Cobra Raid]]''', Back attack &#8593;
+** '''[[Merciless Twister]]''', AOE / HP Down
+
+* Infinity Fans
+** '''[[Swallowtail (XC2)|Swallowtail]]''', Break
+** '''[[Scarecrow]]''', Aggroed &#8593;
+** '''[[Vicious Circle]]''', AOE / Front attack &#8593;
+** '''[[Healing Trick]]''', Heal party
+
+==== Downloadable Content ====
+The following weapons are exclusive to the Expansion Pass.
+
+* Monado  
+** '''[[Lightning Smash]]''', Machines &#8593;
+** '''[[Monado Striker]]''', AOE / Aggro down
+** '''[[Lucent Glance]]''', AOE / Toppled &#8593;
+** '''[[Beam Thrust]]''', Back attack &#8593; / Knockback
+
+* Knives
+** '''[[Air Slash (XC2)|Air Slash]]''', Break / High HP &#8593;
+** '''[[Avian Spin]]''', HP Potion
+** '''[[Whirling Edge]]''', AOE / Critical recharge
+** '''[[Soothing Breeze]]''', Recover HP
+
+* Uchigatana 
+** '''[[Regal Hunter]]''', Front Attack &#8593;
+** '''[[Tiger Tail]]''', Evasion / [[Smash (XC2)|Smash]]
+** '''[[Dragon Fang]]''', Aggroed &#8593;
+** '''[[Dazzling Rush]]''', AOE / Aggro Up
+
+* Dual Swords
+** '''[[Panther Edge]]''', Break / Evasion
+** '''[[Sword Slap]]''', Cancel Attack &#8593;
+** '''[[Bat Tango]]''', AOE / Back Attack &#8593;
+** '''[[Soothing Twilight]]''', Heal party
+
+=== Favorite Items ===
+* [[Pouch]] item types: [[Seafood]], [[Textile]]s
+* Pouch items: [[Cream Orange Paratha]] ([[Staple Food]]s), [[Ardainian Bear Carving]] ([[Art]])
+
+=== Affinity Chart ===
+Nia's [[Affinity Chart (XC2)|Affinity Chart]] contains the following skills.
+
+{| class="xc1 centered" width="100%"
+!Tier!!Name!!Effect!!SP
+|-
+| rowspan="5" |1
+|'''Feral Awakening I'''
+|Allows use of the Driver Art assigned to [[File:Button-X.png|20px|X]] at the start of battle.
+| 750
+|-
+|'''Soothing Hand'''
+|Increases the HP restored when reviving a teammate by 15%.
+|250
+|-
+|'''Catgirl'''
+| Increases Agility by 20.
+|625
+|-
+|'''Ether Talent'''
+| Increases Ether by 20.
+|375
+|-
+|'''Kinetic Vision'''
+|Increases Dexterity by 20.
+| 500
+|-
+| rowspan="5" |2
+|'''Herb Synthesis'''
+|Boosts the effect of HP Potions by 20%.
+|1,000
+|-
+|'''Big Cat'''
+|Increases maximum HP by 200.
+|2,000
+|-
+|'''Mutual Happiness'''
+|Slightly fills the Party Gauge when an "Excellent" is scored during a Special.
+|1,500
+|-
+|'''Tooth and Claw'''
+|Lets you use a Driver Art after canceling a Driver Art.
+|3,000
+|-
+|'''Feral Awakening II'''
+|Allows use of the Driver Art assigned to [[File:Button-Y.png|20px|Y]] at the start of battle.
+| 2,500
+|-
+| rowspan="5" | 3
+| '''Feral Awakening III'''
+|Allows use of the Driver Art assigned to [[File:Button-B.png|20px|B]] at the start of battle.
+| 5,000
+|-
+|'''Hard Hitter'''
+|Extends Break duration by 15%
+|6,000
+|-
+|'''Bestial Pursuit'''
+|Adds 20% to damage ratio after canceling an auto-attack.
+|4,000
+|-
+|'''Natural Selection'''
+|Increases HP restored to self (not using HP Potions) by 10%.
+| 3,000
+|-
+|'''Panther Pounce'''
+|Increases damage dealt by a surprise attack by 50%.
+|2,000
+|}
+
+==== Hidden Affinity Chart ====
+Nia's hidden [[Affinity Chart (XC2)|Affinity Chart]] contains the following skills.
+
+{| class="xc1 centered" width="100%"
+!Tier !!Name!!Effect!!SP
+|-
+| rowspan="5" |1
+|'''Chance Recovery'''
+|Heals 25% HP each time a Chain Attack is initiated.
+|2,500
+|-
+|'''Tiger's Eye'''
+|Boosts Dexterity by 10%.
+| 3,750
+|-
+|'''Focused Technique'''
+| Reduces enemy Break resist by 25%.
+|7,500
+|-
+|'''Lithe Strength'''
+| Increases Strength by 20.
+|6,250
+|-
+|'''Lucky Cat'''
+|Increases Luck by 20.
+|5,000
+|-
+| rowspan="5" |2
+|'''Transmit Power'''
+|Boosts recharge for Specials after canceling by 20%.
+|15,000
+|-
+|'''Cheer Leader'''
+| Increases Affinity by 25% after winning a Special button challenge.
+|12,500
+|-
+| '''Inner Strength'''
+|Boosts Ether by 10%.
+|5,000
+|-
+|'''Lady of Luck'''
+|Boosts Luck by 10%.
+| 7,500
+|-
+|'''Wild Life'''
+|Boosts maximum HP by 10%.
+|10,000
+|-
+| rowspan="5" |3
+|'''Adrenaline'''
+|Restores 3% HP when canceling an auto-attack with a Driver Art.
+|15,000
+|-
+|'''Road to Victory'''
+|Slightly fills the Party Gauge for each critical hit delivered.
+| 25,000
+|-
+| '''Sore Loser'''
+|50% chance to survive hit with 1 HP + 5 secs invincibility (once per battle).
+|30,000
+|-
+|'''Bear Knuckles'''
+|Boosts Strength by 10%.
+|20,000
+|-
+| '''Tigergirl'''
+|Boosts Agility by 10%.
+| 10,000
+|}
+
+=== As a Blade ===
+{{Infobox Blade
+|name          = Nia
+|image         = Nia Blade Portrait.png
+|caption       = Nia in {{XC2|-}}
+|rarity        = 3
+|element       = Water
+|weapon        = Catalyst Scimitar
+|role          = Healer
+|auxcores      = 3
+|mercgroup     = Katty Kompany
+|illustrator   = Masatsugu Saito
+}}
+As revealing herself to be a Blade in Chapter 7, Nia can grant tremendous power to Rex and his allies. She uses the water element, wields a [[Weapons (XC2)|Catalyst Scimitar]], and acts as an Healer in battle. After transforming into a Blade, Nia can return to Driver form and back at any time in the menu.
+
+When being used as a Blade, Nia will not obtain any [[Experience Points (XC2)|experience]], [[Skill Points (XC2)|SP]] or [[Weapon Points|WP]]. Instead she will gain bonus experience.
+
+==== Abilities ====
+===== Blade Specials =====
+* Lv. 1 - ''[[Last Hope]]'' - Drain enemies' life force, and distribute it to allies.
+* Lv. 2 - ''[[Merciful Heart]]'' - Attack enemies with a water shock wave.
+* Lv. 3 - ''[[Redeeming Strike]]'' - Destroy enemies from within by manipulating the power of regeneration.
+* Lv. 4 - ''[[Divine Sword (XC2)|Divine Sword]]'' - Invert the power of regeneration to erode the enemy from within.
+* Lv. 4 (Max. Affinity with [[Pyra]] after Chapter 9 [[Jin]] Battle) - ''[[Nexus Force]]'' - Beat the enemy to a pulp with a medley of fire and water.
+
+===== Blade Arts =====
+* [[Debuff Cancel]] - Cancels debuffs from enemies.
+* [[Absorb Damage]] - Erects a barrier that absorbs fixed dmg.
+
+===== Battle Skills =====
+* Sea of Plenty - Periodically restores 4-8% HP to the entire party while at max Affinity.
+* Instant Regen - Adds 25% chance of restoring 4-12% HP after taking a hit.
+* Cellular Stimulus - Restores 5-12% HP of damage dealt after a successful auto-attack.
+
+===== Field Skills =====
+* Water Mastery - Lv. 3
+* Forestry - Lv. 3
+* Fortitude - Lv. 3
+
+==== Favorite Items ====
+* Pouch item types: [[Seafood]], [[Instrument]]s
+* Pouch items: [[Snowbaby Potato Salad]] ([[Veggie]]s), [[Sneak-Thief King]] ([[Board Game]]s)
+
+==== Affinity Chart ====
+{| class="xc1 sortable" width="100%"
+! scope="col" |Type
+! scope="col" |Name
+! scope="col" | Skill Level
+! scope="col" |Affinity Level
+! scope="col" |Effect
+! scope="col" |Prerequisite
+! scope="col" |Count
+! scope="col" |Flavor Text
+|-
+| colspan="2" rowspan="5" |Key Affinity Reward
+|1
+|1
+| colspan="4" |Unlocks level 1 of the Affinity Chart.
+|-
+|2
+|2
+|Unlocks level 2 of the Affinity Chart.
+|Increase [[Trust]]
+|100
+|''"I can do better, I know it."''
+|-
+|3
+| 3
+|Unlocks level 3 of the Affinity Chart. Affinity bond will be easier to sustain.
+|Increase Trust
+|1,100
+|''"Think I'm looking more powerful?"''
+|-
+|4
+|4
+|Unlocks level 4 of the Affinity Chart.
+| Increase Trust
+|3,300
+| ''"I gotta get strong enough to protect you all."''
+|-
+|5
+|5
+|Unlocks level 5 of the Affinity Chart.
+|Increase Trust
+|7,800
+|''"I'd do anything to protect you guys."''
+|-
+| rowspan="15" |Blade Art
+| rowspan="5" |Last Hope
+|1
+| 1
+| colspan="4" |Restores 10% HP of damage dealt when a Special connects
+|-
+|2
+|2
+|Restores 12% HP of damage dealt when a Special connects
+| Use a Special and heal a certain amount of HP
+|40,000
+|''"I got you covered for healing and stuff, yeah?"''
+|-
+|3
+|3
+|Restores 15% HP of damage dealt when a Special connects
+|Use Last Hope
+|11
+|''"I got the power and I know what to do with it!"''
+|-
+|4
+|4
+|Restores 17% HP of damage dealt when a Special connects
+|Perform a [[Blade Combo]]
+|10
+|''"You ain't seen nothing yet!"''
+|-
+|5
+|5
+|Restores 20% HP of damage dealt when a Special connects
+|Use Specials to heal a certain amount of HP in total
+|400,000
+|''"What'd you lot do without me, huh? Die of your injuries, that's what!"''
+|-
+| rowspan="5" | Merciful Heart
+|1
+|1
+| colspan="4" |Spawns a small HP Potion on hit, with a 60% chance to spawn 2
+|-
+|2
+|2
+|Spawns a small HP Potion on hit, with a 70% chance to spawn 2
+|Defeat a [[Moist Upa (XC2)|Moist Upa]] at [[Spirit Crucible Elpys]]
+|5
+| ''"I wouldn't be up to much if I couldn't see off a lame opponent like that!"''
+|-
+|3
+|3
+|Spawns a small HP Potion on hit, with a 80% chance to spawn 2
+| Use a Special and heal a certain amount of HP in total
+|80,000
+| ''"Sure if you get messed up, I'll help you out. But try not to do anything stupid..."''
+|-
+|4
+|4
+|Spawns a small HP Potion on hit, with a 90% chance to spawn 2
+|Use Merciful Heart
+|9
+|''"I'm getting better all the time! Just as well..."''
+|-
+|5
+|5
+|Spawns a small HP Potion on hit, with a 100% chance to spawn 2
+|Defeat a [[Kustal Sovereign]] at the [[World Tree]]
+|5
+| ''"Good fight! Face it, with me on our side, we're never gonna lose!"''
+|-
+| rowspan="5" |Redeeming Strike
+|1
+|1
+| colspan="4" |When landing a hit, restores 30% of damage dealt to the whole party
+|-
+| 2
+|2
+|When landing a hit, restores 35% of damage dealt to the whole party
+|Use Redeeming Strike
+|5
+|''"Gotta admit, I can really handle myself now! I bet I'll put you all to shame in the next battle!"''
+|-
+| 3
+|3
+|When landing a hit, restores 40% of damage dealt to the whole party
+|Defeat a [[Dusky Riik]] at Spirit Crucible Elpys
+|5
+|''"I'm gonna whip something special out in the next battle. That's a promise."''
+|-
+| 4
+|4
+|When landing a hit, restores 45% of damage dealt to the whole party
+|Use Specials to heal a certain amount of HP in total
+|160,000
+|''"Seems like I spend my whole life patching you dolts up. What's up with you?"''
+|-
+| 5
+|5
+|When landing a hit, restores 50% of damage dealt to the whole party
+|Use Redeeming Strike
+|8
+|''"If you've got any doubts, just watch me in action!"''
+|-
+| rowspan="15" |Battle Skill
+| rowspan="5" |Sea of Plenty
+|1
+|1
+| Periodically restores 4% HP to the entire party while at max Affinity
+|Raise [[Affinity (XC2)|Affinity]] in combat
+|3
+|''"I learned something new today."''
+|-
+|2
+|2
+| Periodically restores 5% HP to the entire party while at max Affinity
+|Raise Affinity in combat
+| 2
+|''"We can do it if we work together."''
+|-
+|3
+|3
+| Periodically restores 6% HP to the entire party while at max Affinity
+| colspan="2" |Speak to Nia at the inn in [[Kingdom of Tantal|Tantal]] to view the [[Heart-to-Heart (XC2)|Heart-to-Heart]] "[[Tending to Turters]]" &#8251;1
+|''"That's the spirit, Shellhead. Keep aiming for new heights of stupidity."''
+|-
+|4
+|4
+| Periodically restores 7% HP to the entire party while at max Affinity
+|Raise Affinity in combat
+|6
+|''"I won't let anything happen to you guys..."''
+|-
+|5
+|5
+| Periodically restores 8% HP to the entire party while at max Affinity
+| Sell items and earn money
+|400,000
+|''"That's a decent wad of cash. I hope you didn't sell anything we needed."''
+|-
+| rowspan="5" | Instant Regen
+| 1
+|1
+| colspan="4" |Adds 25% chance of restoring 4% HP after taking a hit
+|-
+|2
+|2
+|Adds 25% chance of restoring 6% HP after taking a hit
+|Block an attack
+|5
+|''"I'm even stronger than I was before."''
+|-
+|3
+|3
+|Adds 25% chance of restoring 8% HP after taking a hit
+|Block an attack
+|7
+|''"Yeah! I feel even stronger! Can't wait for the next battle!"''
+|-
+| 4
+|4
+| Adds 25% chance of restoring 10% HP after taking a hit
+| colspan="2" |At [[Rex's Secret Base]] in [[Leftherian Archipelago|Leftheria]], view the Heart-to-Heart "[[Little Rex]]"
+|''"So, Rex was the same even he was little. Makes sense..."''
+|-
+| 5
+|5
+| Adds 25% chance of restoring 12% HP after taking a hit
+|Fall from a high place (unit in peds)
+|250
+|''"Hey, you know I hate heights! I hope no one broke anything!"''
+|-
+| rowspan="5" |Cellular Stimulus
+|1
+|1
+|Restores 5% HP of damage dealt after a successful auto-attack
+|Perform a [[Driver Combo]] (It's enough to just be present)
+|2
+|''"Now wasn't that quite something?"''
+|-
+|2
+|2
+|Restores 7% HP of damage dealt after a successful auto-attack
+|Use a [[Chain Attack (XC2)|Chain Attack]]
+| 2
+|''"Nothing like a decent combo, huh?"''
+|-
+|3
+|3
+|Restores 9% HP of damage dealt after a successful auto-attack
+|Perform a Blade Combo
+| 7
+|''"Get a load of the power of water!"''
+|-
+|4
+|4
+|Restores 10% HP of damage dealt after a successful auto-attack
+|Perform a Driver Combo (It's enough to just be present)
+| 10
+|''"Leave it to me. I got your back."''
+|-
+|5
+|5
+|Restores 12% HP of damage dealt after a successful auto-attack
+|Get money
+|600,000
+|''"We've collected a lot of money... But shouldn't we have more? Did we spend it?"''
+|-
+| rowspan="9" |Field Skill
+| rowspan="3" |Water Mastery
+|1
+|1
+| rowspan="3" | The power of a Water Blade
+| colspan="3" |
+|-
+|2
+|2
+|Use Nia's favorite [[Pouch Item|pouch items]] ([[Seafood]] category)
+|4
+|''"Lovely. I'm sure I fight better after I've had a little taste of something good."''
+|-
+|3
+|4
+|Use Nia's favorite pouch item from the [[Veggie|Vegetables]] category
+|4
+|''"Ah, it's gotta be Snowbaby Potato Salad. Ever tried it?"''
+|-
+| rowspan="3" |Foresty
+|1
+|1
+| rowspan="3" |Knowledge related to trees
+| colspan="3" |
+|-
+|2
+|3
+|Acquire Tree items from the [[Collectible (XC2)|Collectibles]] list
+|25
+|''"Who'd have thought there'd be so much to learn about trees?"''
+|-
+|3
+| 5
+|Acquire Tree items from the Collectibles list
+|30
+|''"I'm a bit of an expert on this stuff now. So I'll be even more indispensable!"''
+|-
+| rowspan="3" |Fortitude
+|1
+| 1
+| rowspan="3" |The power to endure hardships. It even helps cope with boring jobs
+| colspan="3" |
+|-
+|2
+|3
+|Engage in combat alongside [[Pyra]] or [[Mythra]] &#8251;2
+|10
+|''"Pyra! Mythra! I feel like we can take on anything together!"''
+|-
+|3
+|5
+|Engage in combat alongside Pyra or Mythra &#8251;2
+|15
+|''"I feel way better having Pyra and Mythra around."''
+|}
+
+:&#8251;1 For an unknown reason, this will not unlock until Chapter 10, despite this Heart-to-Heart being available beforehand.
+:&#8251;2  To increase the counter, Nia must be Rex's active Blade and Rex has to deal the last hit to an enemy in a battle, with Pyra/Mythra also equipped.
+
+=== Battle ===
+{{Infobox XC2 Enemy
+|category  = Boss
+|name      = Nia
+|image     = Nia battle.jpg
+|caption   = Nia specter 
+|type      = [[Driver (enemy)|Driver]] / Humanoid
+|level     = Matches player
+|area      = [[First Low Orbit Station]]
+|spawntime = Story event
+|respawn   = No
+|movement  = Ground
+|detection = 
+|exp       = 3,600
+|wp        = 500
+|sp        = 65
+|element   = Water
+|hp        = 70,008
+|strength  = 650
+|ether     = 500
+|dexterity = 1000
+|agility   = 1000
+|luck      = 1000
+|physdef   = 0%
+|ethdef    = 30%
+|critrate  = 5%
+|guardrate = 3%
+}}
+A spectral version of Nia is fought as a [[Driver (enemy)|Driver]] enemy during Chapter 10, in the [[First Low Orbit Station]]. She is the first of the four party members to be fought and is supported by Dromarch.
+
+==== Resistances ====
+{{XC2 Resistances
+|break     = 0%
+|smash     = 0%
+|topple    = 0%
+|blowdown  = 0%
+|launch    = 0%
+|knockback = 0%
+}}
+{{clr}}
+
+==== Arts ====
+{{XC2 Enemy arts
+|art1      = Auto-Attack
+|type1     = Physical
+|hits1     = 5
+|range1    = One Target
+|ratio1    = 270
+|reaction1 = -
+|effect1   = -
+
+|art2      = Butterfly Blade
+|type2     = Physical
+|hits2     = 4
+|range2    = One Target
+|ratio2    = 150
+|reaction2 = [[Break (XC2)|Break]]
+|effect2   = -
+
+|art3      = Jaguar Slash
+|type3     = Ether
+|hits3     = 1
+|range3    = One Target
+|ratio3    = 100
+|reaction3 = [[Topple (XC2)|Topple]]
+|effect3   = -
+
+|art4      = Gemini Loop
+|type4     = Ether
+|hits4     = 2
+|range4    = One Target
+|ratio4    = 200
+|reaction4 = -
+|effect4   = Increases damage dealt from the side by 100%.
+
+|art5      = Healing Halo
+|type5     = Recovery
+|hits5     = 1
+|range5    = Self
+|ratio5    = 3000
+|reaction5 = -
+|effect5   = -
+|element1 = -|element2 = -|element3 = -|element4 = -|element5 = -}}
+{{clr}}
+
+== In {{XC3|-}} ==
+In {{XC3}}, Nia can be recruited as a [[Hero]] by traveling to the [[Hall of the Serene]] of the [[Cloudkeep]] on [[Captocorn Peak]] after completing the game, or in [[New Game + (XC3)|New Game +]]. She uses the [[Lifesage]] [[Class (XC3)|class]], a [[Healer]] class that wields the [[Blade (XC3)|Anima Sword]], which consists of Nia's Catalyst Scimitar as well as watery apparitions of Pyra and Mythra's [[Aegis|Aegis Swords]] that float behind her. By completing her [[Hero Quest|Ascension Quest]] ''[[Grasping My Future]]'', Nia's [[Class Rank (XC3)|rank]] as a Lifesage will increase from 10 to 20. Her unique theme, [[Drifting Soul|Kaleidoscopic Core]], plays when she is used in battle if the "Special BGM" setting is enabled.
+
+=== Arts ===
+* '''[[Divine Sword (XC3)|Divine Sword]]''' ([[Battle Arts (XC3)|Talent Art]]), Heal all on hit/Pierce
+* '''[[Saber Slash (XC3)|Saber Slash]]''', Area heal on hit
+* '''[[Redemption (XC3)|Redemption]]''', AOE / Heal
+* '''[[Redeeming Bloom]]''', Field / Regenerate
+* '''[[Last Hope]]''', Blowdown / Pierce
+* '''[[Merciful Heart]]''', AOE / Knockback
+
+Nia's Chain Art is [[Salvation's Ripple]], which gives a X% chance to revive all downed party members, where X increases with level, allowing them to participate in the [[Chain Attack (XC3)|Chain Attack]], and her Heroic Chain bonus will reactivate all characters apart from herself when she completes a Chain Order.
+
+=== Class Skills ===
+* '''Steadfast Feelings''', Restores nearby allies' HP on Art execution. Amount healed is equal to 35-50% of user's Healing
+* '''Instant Regen+''', 25% chance to heal using 70-100% Healing Power upon taking damage.
+* '''Enhanced Cellular Stimulus''', 35-50% chance on hit to deal 125-200% of Healing Power as defense-bypassing damage.
+* '''Abundant Oceans''', Reduces damage to allies by 11-15%, and boosts HP recovery by 11-15% (does not stack).
+
+=== Base Stats ===
+These are Nia's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Lifesage class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 488 || 27 || 28 || 33 || 22
+|-
+| 99 || 6,972 || 385 || 403 || 326 || 220
+|}
+
+=== General Stats ===
+These stats assume Nia is at rank 20 in her class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Nia has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|1||317||38 (+20)||36 (+20)||39||24||10%||20%||15%||25%
+|-
+|99||4,531||847 (+70)||523 (+45)||391||242||20%||30%||15%||25%
+|}
+
+Nia equips the following [[Gem]]s:
+* [[Doublestrike]]
+* [[Steelcleaver]], at level 20 onwards
+* [[Lifebearer]], at level 40 onwards
+
+=== Affinity Links ===
+{{XC3 Affinity Link
+| npc1 = Nia
+| npc2 = Melia
+| affinity = pink
+| caption = Fellow Queens
+| direction = both
+}}
+{{clr}}
+
+== In {{SSBU|-}} ==
+Nia is one of the characters who can appear on the {{SSBU}} DLC stage, Cloud Sea of Alrest, where she may be present in the background alongside Dromarch. There is also a Nia costume available for Mii Fighters. Nia also has a Spirit that can be unlocked on the Spirit Board. Her spirit is represented by a Mii Brawler wearing her costume, assisted by an Incineroar puppet fighter, which heals over time. When equipped, her spirit grants a bonus to the water attacks used by Squirtle, Greninja and Corrin. Additionally, one of Mythra's palette swaps is based on Nia, which is paired with Pyra's color option that is based on her [[Disguised Pyra|Gormotti Disguise]].
+
+== Merchandise ==
+[[File:Nia final figure.jpg|thumb|120px|1/7 Scale Nia figurine revealed at WonHobby 34]]
+Following Pyra, [[Mythra]] and [[KOS-MOS]] figures by Good Smile Company, and [[Siren]] by Kotobukiya, a Nia figure made into a 1/7 scale by Good Smile Company and based on her Blade design from {{XC2|-}} was announced on February 11, 2021.
+
+At WonHobby 34, the final design and physical version were revealed. Pre-orders were open from February 15, 2022 until March 31, 2022, and shipments are expected to arrive sometime between June 2023 and August 2023.
+{{clr}}
+
+== Quotes ==
+=== Post-Battle Dialogue ===
+{{:Post-Battle Dialogue (XC2)/Nia}}
+
+== Trivia ==
+* After completing [[New Game Plus (XC2)|New Game Plus]], Nia joins with Rex, Pyra, and Mythra on the title screen, joining their chain of linked hands.
+* There were several hints in {{XC2|-}} telling that Nia is a Blade before being actually revealed.
+** She gasped in shock when Cole revealed he is a Flesh Eater.
+** When Nia, Poppi and Mythra were taking a bath, Mythra was surprised when she looked at Nia's chest and agreed to keep "it" a secret.
+** Near the end of Chapter 6, it was revealed that Torna, the organization she used to work for, consists ''entirely'' of Blades.
+* Nia, [[Melia]], [[Riku]] &amp; [[Manana]] are the only non-DLC Heroes in {{XC3|-}} that can never be fought by the party.
+[[File:Mio Nia Outfit.png|thumb|120px|Mio's outfit]]
+* In {{XC3|-}}'s [[Challenge Battle Mode]], Mio can obtain an [[Clothing|outfit]] based on Nia's Blade form from {{XC2|-}}.
+{{clr}}
+
+== Gallery ==
+=== {{XC2|-}} ===
+==== Artwork ====
+&lt;gallery&gt;
+Nia artwork.png|Official artwork
+Nia Concept Art.PNG|Concept art of Nia
+XC2-Nia-concept-art.jpg|Conceptual artwork of Nia
+Nia Expressions.PNG|Concept art of Nia's expressions
+Nia Expressions 2.PNG|Concept art of Nia's expressions
+XC2-012.png|Conceptual artwork
+Nia headshot.png|Conceptual artwork
+PandoriaConcept.jpg|Early concept (right)
+XC2 Nia Blade Artwork.png|Nia as a Blade
+XC2 Nia Blade Artwork alt.png|Nia as a Blade, without her weapon
+MS recruiting Artwork Masumi Senoo.jpg|Monolith Soft recruiting artwork of Rex, Pyra, Nia, and Tora
+XC2 &amp; TTGC Celebration Artwork.jpeg|Official Artwork of Nia and Blade Nia alongside all the main characters of {{XC2|-}} and {{TTGC|-}}
+Masatsugu Saito XC2 Nia Artwork.jpg|Artwork of Nia by Masatsugu Saito
+Masatsugu Saito Nia Twitter Artwork.jpg|Artwork of Nia by Masatsugu Saito
+XC2 5th Anniversary Celebration.jpg|{{XC2|-}} 5th Anniversary Celebration Wallpaper
+XC2 5th Anniversary Celebration 02.jpg|{{XC2|-}} 5th Anniversary Celebration Wallpaper
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+Nia &amp; Dromarch NPC.JPG|Nia and Dromarch as NPCs on the Maelstrom
+Nia screenshot 01.jpg|Nia and her Blade Dromarch
+Nia screenshot 02.jpg|Distressed Nia
+Tora and Nia XC2.jpg|Tora and Nia
+XC2-003.png|Riding on Dromarch
+Nia-Riding-Dromarch-Side.jpg|Nia riding Dromarch
+Nia-Riding-Dromarch-Back.jpg|Nia riding Dromarch
+XC2-Nia-day.jpg|Nia during the day
+XC2-Nia-evening.jpg|Nia at evening
+XC2-Nia-depiction.jpg|Nia's wanted poster
+Nia Salvaging Suit.PNG|Nia wearing a yellow salvaging suit during ''Unforgiving Terrain''
+Nia Blade Form.png|Nia in her Blade form
+NiaRex.png|Nia as a Blade
+Nia s.jpg|Nia using her level 3 Blade Special
+DivineSword.jpeg|Nia using her level 4 Blade Special, Divine Sword, with Rex
+Nia s4.png|Nia with Rex and Pyra during her Nexus Force Blade Special
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+==== Artwork ====
+&lt;gallery&gt;
+XC3 Nia Artwork.png|Nia in {{XC3|-}}
+XC3 Nia Concept Art.png|Nia's Concept Art for {{XC3|-}}
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+Nia Cloudkeep.jpg|Nia in stasis at the Cloudkeep
+XBC3_ending_NiaMelia.png|Nia and Melia
+Nia and Mio.jpg|Nia and Mio
+&lt;/gallery&gt;
+
+==== In-Game Renders ====
+&lt;gallery&gt;
+Nia Hero Icon.png|Nia's Hero List Icon
+Nia Chain Art Icon.png|Nia's Chart Art Icon
+Nia Level Up Art.png|Nia's Level Up Art
+Nia XC3 Character Icon.png
+Nia Battle Icon.png
+&lt;/gallery&gt;
+
+=== {{SSBU|-}} ===
+&lt;gallery&gt;
+SSBU Nia.jpg|Nia on the Cloud Sea of Alrest Stage in {{SSBU|-}}
+SSBU Nia Outfit.jpg|The Nia Outfit for Mii Fighters in {{SSBU|-}}
+SSBU-PyraMythraAlt4.png|Mythra's {{SSBU|-}} color option that is based on Nia, alongside Pyra's corresponding costume
+&lt;/gallery&gt;
+
+=== Merchandise ===
+&lt;gallery&gt;
+Nia B figure.jpg|The 1/7 scale Nia figure announcement
+&lt;/gallery&gt;
+
+== External links ==
+* [https://whl4u.jp/wh34/gallery/en/#/ Nia figurine revealing at WonHobby 34]
+
+{{XC2CharNav}}
+{{XC3CharNav}}
+
+[[fr:Nia]]
+[[es:Nia]]
+[[zh:&#23612;&#23045;]]
+[[Category:Nia]]
+[[Category:XC2 Playable Characters]]
+[[Category:Drivers]]
+[[Category:XC2 Gormotti]]
+[[Category:C.S.E.V. Maelstrom NPCs]]
+[[Category:XC2 Blades]]
+[[Category:XC2 Driver Enemies]]
+[[Category:First Low Orbit Station Enemies]]
+[[Category:XC2 Bosses]]
+[[Category:XC3 Heroes]]
+[[Category:XC3 Agnians]]
+[[Category:Agnus Castle Region NPCs]]
+[[Category:Super Smash Bros. Ultimate]]</text>
+      <sha1>ddax6c8x8vvynhw56xyesr2qe1b86gv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Night-Stalker Volodya</title>
+    <ns>0</ns>
+    <id>119432</id>
+    <revision>
+      <id>583310</id>
+      <parentid>574534</parentid>
+      <timestamp>2023-04-17T15:57:07Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1367" sha1="7er30rnoloztcdev5yoryrahfu06i2d" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Night-Stalker Volodya
+|image        = XC3 Night-Stalker Volodya.png
+|caption      = Night-Stalker Volodya
+|type         = [[Vang]]
+|level        = 43
+|area         = [[Elaice Highway]] ([[Torus Hollow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 779
+|cp           = 59
+|sp           = 5
+|gold         = 610
+|hp           = 861,300
+|strength     = 837
+|healing      = 326
+|dexterity    = 149
+|agility      = 183
+|physdef      = -15%
+|ethdef       = 20%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Night-Stalker Volodya''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Vang]] family, and can be found at level 43 deep within [[Torus Hollow]] on [[Elaice Highway]]. The [[Soulhacker#Enemy Skills|Accelerator Organ]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 50%
+|etherdebuff = 70%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Night-stalker volodya location.png
+Night-stalker volodya.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Vangs]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7er30rnoloztcdev5yoryrahfu06i2d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>No. 13</title>
+    <ns>0</ns>
+    <id>121078</id>
+    <revision>
+      <id>597854</id>
+      <parentid>577736</parentid>
+      <timestamp>2023-07-02T16:36:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Trivia */cat.</comment>
+      <origin>597854</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3615" sha1="9cglf5cey70xh9765gup2j3c94ysrr5" xml:space="preserve">{{Infobox Character
+|name         = No. 13
+|image        = 13 human.png
+|species      = [[Keves]]i human
+|gender       = Female
+|age          = 3rd Term
+|haircolor    = Gray
+|eyecolor     = Red
+|affiliation  = [[Colony 0]] (formerly)
+|appearances  = {{XC3}}
+}}
+'''No. 13''' (Japanese: {{lang|ja|&#12491;&#12468;}}, ''Nii Gou'', ''Number 2'') is a character in {{XC3}}. She is a former member of [[Colony 0]].
+
+== Overview ==
+No. 13 was the former leader of Colony 0 and its best pilot, prior to going missing on a mission. After being stranded, she learned to survive for herself, leading her to realizing that she didn't need to follow orders anymore, and gained a twisted joy from bringing pain to others. She was very close with [[Segiri]], and her appearance is near identical, with the exception of her bangs being on the opposite side, being slightly taller, and having a slightly darker hair color. She has a sense similar to telepathy which allows her to detect Segiri's lifeforce.
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = No. 13
+| npc2 = Segiri
+| affinity = pink
+| caption = Invisible bond
+| direction = both
+}}
+
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = No. 13
+|image        = 13 ferron.png
+|caption      = No. 13
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 70
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Ecto Hollow]])
+|spawntime    = During ''[[Invisible Bond]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''No. 13''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. She fights in her [[Levnis|Ferron]], and is fought at level 70 in [[Ecto Hollow]] in the [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Invisible Bond]]''.
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = No. 13
+|image        = 
+|caption      = No. 13
+|type         = [[Levnis]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 63
+|detection    = 
+|spawntime    = During ''[[Ferron x Ferron]]''
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 1,919,520
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+No. 13 is fought at level 63 alongside [[Segiri#Challenge Battle Mode|No. 7 Segiri]] during the [[Challenge Battle Mode|Challenge Battle]] ''[[Ferron x Ferron]]''.
+{{clr}}
+
+== Trivia ==
+* Given the history of encountering No.13, No.7 &amp; 13 were indirectly referred to as siblings, even possibly twins.
+** Appropriately, they have opposite numbers: 13, the misfortune &amp; 7, the lucky. Together they add up to 20, the rebirth. Which also means from the plot point of view that Segeri reaches Rank 20 after seeing No. 13 again.
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9cglf5cey70xh9765gup2j3c94ysrr5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>No Want of Courage</title>
+    <ns>0</ns>
+    <id>120390</id>
+    <revision>
+      <id>595446</id>
+      <parentid>595445</parentid>
+      <timestamp>2023-06-14T08:15:57Z</timestamp>
+      <contributor>
+        <username>Mario123007</username>
+        <id>25075338</id>
+      </contributor>
+      <origin>595446</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1463" sha1="9i3zeyckc0nbv7mgvd12e2wu2nuw36t" xml:space="preserve">{{Infobox quest
+|name        = No Want of Courage
+|image       = No Want of Courage.jpg
+|description = "Colony 4 is running out of medical supplies. Taion has a plan to solve it. Follow his lead."
+|giver       = [[Taion]]
+|location    = [[Eagus Wilderness]] ([[Colony 4 Canteen]])
+|time        = 
+|prereqs     = Chapter 3 started&lt;br/&gt;''[[Helping Out]]'' started&lt;br/&gt;"Colony 4's Problems" discussed
+|reclevel    = Lv. 17
+|rewards     = 400 [[Colony 4]] [[Affinity (XC3)|Affinity]]&lt;br/&gt; 940 [[Experience Points (XC3)|EXP]]&lt;br/&gt;1210 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Ethel]] as a [[Hero]]&lt;ref&gt; Unable to join the party after starting Chapter 3 and before completing her ascension condition.&lt;/ref&gt;
+}}
+'''No Want of Courage''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Ethel]]. Completion of this quest is required to continue the story.
+
+== Objectives ==
+# ''Head for the specified location(s).''
+#* [[Galghour's Menhir]]
+# ''Search for the dropped supplies.''
+#* The party must head to [[Metamural Garden]].
+# ''Defeat the specified foe(s).''
+#* [[Hunter Volff]] (4)
+# ''Retrieve the [[Supply Drop|supply drop]].''
+# ''Head for the specified location(s).''
+#* [[Colony 4 Checkpoint]]
+
+== Results ==
+''"Together with Ethel, the party brought back medical supplies. Their respect for her bravery in the face of any and all danger has only deepened."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Ethel]]
+[[Category:Fornis Region Quests]]</text>
+      <sha1>9i3zeyckc0nbv7mgvd12e2wu2nuw36t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noah</title>
+    <ns>0</ns>
+    <id>116334</id>
+    <revision>
+      <id>600141</id>
+      <parentid>597856</parentid>
+      <timestamp>2023-07-20T12:28:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>600141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24877" sha1="585jhd8n25je6qce0fr3dh2yj9gahtn" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Noah
+|image        = Noah portrait.png
+|species      = [[Keves]]i human
+|gender       = Male
+|age          = 9th Term
+|haircolor    = Black
+|eyecolor     = Blue
+|affiliation  = [[Colony 14]] (formerly)&lt;br/&gt;[[Colony 9 (XC3)|Colony 9]] (formerly)
+|voiceactorjp = [[wikipedia:Ry%C5%8Dhei Arai|Ry&#333;hei Arai]]
+|voiceactoreng= [[wikipedia:Harry McEntire|Harry McEntire]] (Adult)&lt;br/&gt;[https://www.imdb.com/name/nm6750292/ Gabriel Todesco-Bond] (Child)
+|appearances  = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+{{quote|If the world holds our lives back, I will end it! It's as simple as that!|Noah}}
+'''Noah''' (Japanese: {{lang|ja|&#12494;&#12450;}}, ''Noa'') is a playable character and, along with [[Mio]], a protagonist of {{XC3}}.&lt;ref&gt;https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Xenoblade-Chronicles-3-2168340.html&lt;/ref&gt; 
+
+== Overview ==
+Noah is a [[Keves]]i soldier and an [[off-seer]]. Along with his friends [[Lanz]] and [[Eunie]], he is assigned to [[Colony 9 (XC3)|Colony 9]]. He is a Kevesi human with [[Homs]] traits who, despite his slim physique, has impressive physical power.
+
+== Personality ==
+Even from an early age, Noah questioned the nature of [[Aionios]] and the war and often expressed discontent with the pointlessness of the conflict he was compelled to participate in. While brave and willing to risk his life for the sake of his friends and for his ideal of a world where nobody will need to fight just to survive, he is fundamentally kindhearted and dislikes having to fight others unless he has no choice. However, his kindness still has its limits and and he will show no mercy to those who commit especially grave personal offenses against him or his allies.
+
+Noah takes his role as an Off-Seer very seriously to the point where he insists on sending on Agnians as well as Kevesi. Despite having fought against Agnus all his life, he bears the Agnians no ill will himself. Upon learning of Moebius and their role as the instigators of the war, he came to hate them for the way they viewed the lives of others as little more than playthings.  
+
+== Story ==
+=== Previous Lives ===
+[[File:Opening Noah.png|thumb|The original Noah races to see the fireworks]]
+Prior to the merging of the two worlds and the creation of [[Aionios]], the original Noah was a young boy who lived on a town on the [[Bionis]] with his friends Lanz, Eunie and [[Joran]]. On the day of the [[Melia|Queen]]'s anniversary, Noah and his friends raced to see the fireworks in Alcamoth but Noah soon found time standing still as the two worlds collided with one another. As part of the [[Origin]] system, Noah and his friends would be reborn in Aionios as soldiers of Keves. One incarnation of him would seek to end the cycle of war with his lover [[Mio]], but ultimately failed and gave into his despair, leading him to accept [[Z]]'s offer to become a [[Consul]]. Through some strange accident, this incarnation's hopes and ideals managed to be reborn once more as "Noah" while his regret coalesced into the Consul [[N]]. 
+
+=== Early Terms ===
+An unknown amount of time later, an incarnation of Noah was reborn and assigned to [[Colony 14]] along with his friends from his previous life. As young soldiers of Keves, Noah and his squad would train alongside [[Garvel]]'s squad, with whom they developed an ongoing rivalry. Noah was bullied by Garvel and his friends for being unable to call his Blade but a visit to [[Riku]] revealed that Noah could indeed call his Blade but chose not to as he feared what he might become through fighting. Noticing young Noah's kindhearted nature, Riku offered him the unbreakable sword [[Lucky Seven]]. Noah initially refused Riku's offer, fearing the destruction he may cause with such a weapon but after some convincing he decided to keep the blade, hiding it within his Blade as a sheath.
+
+During a [[Homecoming Ceremony]] at Colony 14, Noah was inspired to become an Off-Seer after watching [[Crys]]. The two of them would later meet in person at [[Keves Castle]] where Crys decided to take on Noah as his student. 
+
+At some point, Noah, along with Eunie, Lanz, and Riku, were transferred to [[Colony 9 (XC3)|Colony 9]], where they were grouped with [[Mwamba]].
+
+=== Becoming Ouroboros ===
+After a victorious battle against [[Colony Sigma]], Noah, Lanz, and Eunie are given a special mission to intercept a mysterious airship in [[Alfeto Valley]]. However, when they reach the area, they also encounter Agnus forces which sparks a battle. Noah and his team arrive at the airship's [[Gura Flava Lowlands|crash site]] at the same time as Mio, [[Sena]], and [[Taion]]. As they battle, the airship's sole survivor, [[Guernica Vandham]], intervenes and stops the fighting, claiming he knows their "true enemy". However, he is shot by a [[Moebius D &amp; J|Moebius]], who, after killing both Mwamba and [[Hackt]], attacks Noah and Mio's teams and quickly gains the upper hand until Guernica activates the [[Ouroboros Stone]] he was smuggling, imbuing Noah and Mio's teams with its power and making them [[Ouroboros]]. Noah and Mio then inadvertently [[Interlink]], forcing the Moebius to retreat, and a mortally wounded Guernica instructs the party to head for the [[City]] at [[Swordmarch]] where they can find answers. Noah and his team then attempt to return to Colony 9, but are attacked by their former comrades, who have been manipulated by Moebius to see them as enemies. They decided to return to the crash site, where they decided to work together with Mio and her team.
+
+== Gameplay ==
+Noah's initial [[Class (XC3)|class]] is [[Swordfighter]], and wields a bright red blade, known as the [[Blade (XC3)|Veiled Sword]]. It is similar to the weapons of previous protagonists in the {{XC|serieslink}}, such as [[Shulk]]'s [[Monado Replica EX]], and [[Rex]], the wielder of [[Pyra]]'s [[Aegis|Aegis Sword]]. Later on, Noah utilizes a special blade called [[Lucky Seven]] to gains access to three unique [[Battle Arts (XC3)|Talent Arts]], [[Infinity Blade (XC3)|Infinity Blade]], [[Unlimited Sword]], and [[Final Lucky Seven]].
+
+In a [[Chain Attack (XC3)|Chain Attack]], Noah starts with 30 TP by default. His Chain Art is [[Brave Assault]], which grants a 60-100% chance (depending on his level) for hits in the Chain Attack to ignore defense.
+
+Noah starts at Rank 5 in his initial Swordfighter class when in the player's party for the first time.
+=== Base Stats ===
+These are Noah's raw stats prior to modifications by class. They serve as a baseline for calculating Noah's stats in a class. Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 350 || 19 || 18 || 31 || 22
+|-
+| 99 || 6,994 || 388 || 368 || 310 || 215
+|}
+=== General Stats ===
+These stats assume Noah is at level 99, at rank 20 in each of these respective classes (except the [[Unlimited Sword]] classes, for which rank 20 cannot be attained), and is not equipping any [[Skill (XC3)|Master Skills]], [[Gem]]s or [[Accessory (XC3)|Accessories]]. Boosts from skills innate to a class are indicated with round brackets, whereas boosts from having an [[Blade Upgrade|upgraded Blade]] are indicated with square brackets.
+{| class="xc1 centered" width="100%"
+! Class !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|[[Swordfighter]]||5,245||1,021 [+115]||128||372 (+186)||182||20% [+4%] (+10% [+2%])||10% [+2%]||15%||15%
+|-
+|[[Zephyr]]||7,693||815||92||325||279 (+83)||20%||35%||35%||50% (+15%)
+|-
+|[[Medic Gunner]]||4,196||674||441 (+15)||325||161||10%||10%||15%||25%
+|-
+|[[Tactician]]||4,546||710||423||341||172||10%||15%||10%||30%
+|-
+|[[Heavy Guard]]||9,092||844||92||310||161||8%||35%||50% (+10%)||35%
+|-
+|[[Ogre]]||5,595||1,085||92||310||182||20%||15%||20%||10%
+|-
+|[[Flash Fencer]]||5,245||1,011||92||372||236||30%||8%||15%||15%
+|-
+|[[War Medic]]||4,196||661||460||372||161||6%||8%||15%||25%
+|-
+|[[Guardian Commander]]||8,392||799||128||325||161||8%||40%||50%||35%
+|-
+|[[Thaumaturge]]||5,245||825||404||372||161||24%||12%||10%||30%
+|-
+|[[Yumsmith]]||5,595||970||128||403||161||20%||20%||15%||15%
+|- 
+|[[Full Metal Jaguar (XC3)|Full Metal Jaguar]]||4,895||975||165||403||236||10%||10%||15%||15%
+|-
+|[[Strategos]]||4,546||735||423||341||182||15%||6%||10%||30%
+|-
+|[[Stalker]]||4,895||980||92||403||279||30%||6%||15%||15%
+|-
+|[[Lone Exile]]||7,693||902||55||341||268||24%||30%||35%||50%
+|-
+|[[Incursor]]||5,245||1,040||73||325||215||35%||6%||20%||10%
+|-
+|[[Lost Vanguard]]||8,742||829||128||372||193||20%||45%||50%||35%
+|-
+|[[Signifer]]||4,196||843||276||325||193||16%||16%||10%||30%
+|-
+|[[Soulhacker]]&lt;br&gt;&lt;small&gt;(Power Soul)&lt;/small&gt;||5,245||1,084||55||325||161||15%||25%||20%||10%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Strike Soul)&lt;/small&gt;||5,245||1,026||110||372||204||15%||25%||15%||15%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Tough Soul)&lt;/small&gt;||8,742||948||55||294||139||15%||25%||45%||35%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Dodge Soul)&lt;/small&gt;||7,693||948||55||325||258||15%||25%||35%||45%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Heal Soul)&lt;/small&gt;||4,895||871||368||341||193||15%||25%||10%||30%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Balanced Soul)&lt;/small&gt;||4,546||929||276||325||193||15%||25%||10%||30%
+|-
+|[[Martial Artist]]||5,245||980||92||372||258||36%||16%||15%||15%
+|-
+|[[Troubadour]]||3,846||664||423||341||215||16%||8%||10%||30%
+|-
+|[[Seraph]]||5,595||1,165||55||310||182||25%||10%||20%||20%
+|-
+|[[Machine Assassin]]||5,595||1,120||92||372||161||30%||20%||20%||10%
+|-
+|[[Lifesage]]||4,546||850||478||372||236||20%||30%||15%||25%
+|-
+|[[Royal Summoner]]||4,546||1,175||220||403||236||30%||10%||15%||15% (+3%)
+|-
+|[[Noponic Champion]]||8,392||887||0||372||279||15%||35%||45%||40%
+|-
+|[[Lapidarist]]||3,846||859||441||356||236||35%||6%||10%||15%
+|-
+|[[Lucky Seven#Gameplay|Unlimited Sword]]&lt;br&gt;&lt;small&gt;(Attacker)&lt;/small&gt;||6,294||1,229||184||465||215||30%||30%||50%||50%
+|-
+|Unlimited Sword&lt;br&gt;&lt;small&gt;(Defender)&lt;/small&gt;||8,392||1,074||184||465||301||60%||60%||50%||50%
+|-
+|Unlimited Sword&lt;br&gt;&lt;small&gt;(Healer)&lt;/small&gt;||5,595||1,035||552||465||215||20%||40%||50%||50%
+|}
+
+== Ouroboros ==
+[[File:Noah Mio Interlink.png|thumb|Noah's Ouroboros]]
+After becoming Ouroboros, Noah is able to [[Interlink]] with [[Mio]]. When Noah is in control, he is able use arts that deal heavy damage.
+
+=== Base Stats ===
+These are Noah's Ouroboros's raw stats. The experience level of the Ouroboros which determines its stats (contrary to any displayed level in menus) is the average of Noah and Mio's experience levels (fractions are rounded up).
+{| class="xc1 centered" width="100%"
+! Level !! Attack !! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate
+|-
+| 1, no Soul Tree || 49 || 22 || 39 || 27 || 30% || 10%
+|-
+| 99, no Soul Tree || 1,254 || 444 || 388 || 269 || 40% || 15%
+|-
+| 99, complete Soul Tree || 1,923 || 444 || 476 || 269 || 75% || 15%
+|}
+
+=== Arts ===
+* '''[[Mega Spinning Edge]]''' ([[Battle Arts (XC3)|Talent Art]]) - AOE / Pierce
+* [[Phantom Slash]] - Interlink Lv. 3: [[Break (XC3)|Break]] all
+* [[Rolling Smash (XC3)|Rolling Smash]] - Interlink Lv. 3: [[Smash (XC3)|Smash]] all
+* [[Bounding End]] - AOE/Annul guard (%)
+* [[Unison Strike]] - High Crit. Rate
+* [[Dragon Tail]] - AOE / Attack down
+* [[Glorious Wing]] - [[Power Charge]] for all
+
+Starting in Chapter 6, Noah gains access to the Ouroboros Talent Art [[Origin Blade]], which can weaken enemies. Origin Blade can be used if Noah Interlinks while using [[Lucky Seven]] or at Interlink Level 3 during the last portion of the Heat Gauge.
+
+Noah's Ouroboros [[Chain Attack (XC3)|Chain Art]] is [[Limits Unbound]], which greatly increases damage ratio and deals defense-bypassing damage.
+
+=== Skills ===
+* '''Link Force''', Slightly/Greatly boosts damage dealt when an ally is down/has low HP.
+* '''Satisfying Piercer''', On critical, ignore enemy defense. Also increases critical hit damage bonus by 30-50 percentage points.
+* '''Omnipresent Blade''', Boosts damage dealt and Critical Rate by 10-20% on critical hit.
+* '''Opportunity in Crisis''', Grants a small/large increase to damage dealt, based on heat gauge level.
+
+=== Soul Tree ===
+Below is an image showing the layout of Noah's Ouroboros [[Soul Tree]].
+[[File:XC3 Soul Tree Noah.jpeg|center|550px]]
+{{Clr}}&lt;br&gt;
+The below table contains a detailed breakdown of all nodes within the Soul Tree.
+
+''Note: Columns are numbered from right to left, i.e. column 1 is the rightmost column, and column 8 is the leftmost column. Nodes are listed in order of increasing column number, from top to bottom, ignoring order of unlocking.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:5%;"| Node
+!style="width:10%;"| Icon
+!style="width:20%;"| Name
+!style="width:35%;"| Description
+!style="width:20%;"| Prerequisite
+!style="width:10%;"| Cost
+|-
+!colspan="6"|Column 1
+|-
+|1
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|''None''
+|15 SP
+|-
+!colspan="6"|Column 2
+|-
+|2
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Link Force
+|Slightly boosts damage dealt when an ally is down/has low HP.
+|"Attack Plus" (Node 1)
+|35 SP
+|-
+|3
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 10 percentage points.
+|"Attack Plus" (Node 1)
+|20 SP
+|-
+|4
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Satisfying Piercer
+|On critical, ignore enemy defense. Also increases critical hit damage bonus by 30 percentage points.
+|"Attack Plus" (Node 1)
+|35 SP
+|-
+!colspan="6"|Column 3
+|-
+|5
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Link Force" (Node 2)
+|35 SP
+|-
+|6
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Omnipresent Blade
+|Boosts damage dealt and Critical Rate by 10% on critical hit.
+|"Link Force" (Node 2)
+|40 SP
+|-
+|7
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Rolling Smash
+|Interlink Lv3: Smash all
+|"Critical Plus" (Node 3)
+|40 SP
+|-
+|8
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Bounding End
+|AOE/Annul guard (%)
+|"Satisfying Piercer" (Node 4)
+|40 SP
+|-
+|9
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 10%.
+|"Satisfying Piercer" (Node 4)
+|20 SP
+|-
+!colspan="6"|Column 4
+|-
+|10
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Glorious Wing
+|Power Charge for all
+|"Heat Control: Time" (Node 5)
+|45 SP
+|-
+|11
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 20%.
+|"Rolling Smash" (Node 7)
+|25 SP
+|-
+|12
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Phantom Slash
+|Interlink Lv3: Break all
+|"Unlock Arts Canceling" (Node 17)
+|190 SP
+|-
+|13
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Plus
+|Increases Dexterity by 30.
+|"Rolling Smash" (Node 7)
+|25 SP
+|-
+|14
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Opportunity in Crisis
+|Grants a small increase to damage dealt, based on heat gauge level.
+|"Critical Up" (Node 9)
+|45 SP
+|-
+!colspan="6"|Column 5
+|-
+|15
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 75.
+|"Glorious Wing" (Node 10)
+|30 SP
+|-
+|16
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Rolling Smash
+|Interlink Lv3: Smash all
+|"Attack Up" (Node 11) ''or'' "Bounding End" (Node 22)
+|130 SP
+|-
+|17
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, but doing so will fill up the heat gauge slightly.
+|"Bounding End" (Node 22)
+|100 SP
+|-
+|18
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Dragon Tail
+|AOE / Attack down
+|"Dexterity Plus" (Node 13) ''or'' "Bounding End" (Node 22)
+|130 SP
+|-
+|19
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 15 percentage points.
+|"Opportunity in Crisis" (Node 14)
+|30 SP
+|-
+!colspan="6"|Column 6
+|-
+|20
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Link Force
+|Greatly boosts damage dealt when an ally is down/has low HP.
+|"Attack Plus" (Node 15)
+|150 SP
+|-
+|21
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Link Force" (Node 20)
+|70 SP
+|-
+|22
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Bounding End
+|AOE/Annul guard (%)
+|"Bounding End" (Node 8) ''and'' "Rolling Smash" (Node 16) ''or'' "Dragon Tail" (Node 18)
+|150 SP
+|-
+|23
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Omnipresent Blade" (Node 24)
+|70 SP
+|-
+|24
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Omnipresent Blade
+|Boosts damage dealt and Critical Rate by 20% on critical hit.
+|"Omnipresent Blade" (Node 6) ''and'' "Critical Plus" (Node 19)
+|150 SP
+|-
+!colspan="6"|Column 7
+|-
+|25
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Up
+|Boosts Dexterity by 15%.
+|"Heat Control: Time" (Node 21)
+|40 SP
+|-
+|26
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Satisfying Piercer
+|On critical, ignore enemy defense. Also increases critical hit damage bonus by 50 percentage points.
+|"Satisfying Piercer" (Node 4) ''and'' "Dexterity Up" (Node 25)
+|245 SP
+|-
+|27
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 15%.
+|"Bounding End" (Node 22)
+|35 SP
+|-
+|28
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Glorious Wing
+|Power Charge for all
+|"Glorious Wing" (Node 10) ''and'' "Attack Plus" (Node 29)
+|235 SP
+|-
+|29
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Boosts Attack by 25%.
+|"Heat Control: Arts Canceling" (Node 23)
+|45 SP
+|-
+!colspan="6"|Column 8
+|-
+|30
+|[[File:XC3 Soul Tree Enhance Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Mega Spinning Edge
+|AOE / Pierce
+|"Satisfying Piercer" (Node 26)
+|255 SP
+|-
+|31
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Satisfying Piercer" (Node 26)
+|105 SP
+|-
+|32
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Opportunity in Crisis
+|Grants a large increase to damage dealt, based on heat gauge level.
+|"Critical Up" (Node 27)
+|220 SP
+|-
+|33
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Glorious Wing" (Node 28)
+|105 SP
+|-
+|34
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Unison Strike
+|High Crit. Rate
+|"Glorious Wing" (Node 28)
+|255 SP
+|}
+
+=== amiibo ===
+An [[Amiibo]] of Noah was announced on April 18, 2023.&lt;ref&gt;[https://twitter.com/NintendoAmerica/status/1648500990788915200?s=20]&lt;/ref&gt;
+{{clr}}
+
+== Etymology ==
+Noah in Hebrew (''&#1504;&#1493;&#1465;&#1495;&#1463;'') means "repose" or "rest". It is notably the name of [[wikipedia:Noah|Noah]], a biblical figure, who in Abrahamic tradition was the only man that God deemed to be good in a world of sinners. He was told to build a great craft to house two of each animal on Earth, so that they would not go extinct when God purged the world with a great flood, and weather the flood with his family. After the flood, he made an agreement with God on behalf of mankind that He would never flood the world again.
+
+== Quotes ==
+* ''"We've come this far harboring everyone's hopes and dreams! And so...! We would never stop now, not when we've come so far!"''
+* ''"This...is the truth of our world. Memories melt in the morning light, and then, a new day begins. Roads stretch out before us. So many paths. Which do you choose? That's up to you. Sometimes, you might run astray. You'll stop, maybe cry in frustration. But, you know, that's all right. For the roads... They go on without end. So look up, face forward, toward your chosen horizon... And just... walk on."''
+
+== Trivia ==
+* Noah seems to be based on [[w:c:xenosaga:Fei Fong Wong|Fei Fong Wong]], the main protagonist of ''[[w:c:xenosaga:Xenogears|Xenogears]]''.
+** Both of them have ponytails and were seeking to end wars.
+** Both have been reincarnated many times.
+** Noah meets Mio, his wife in previous lives, in a [[Alfeto Valley|forest-like area]] while Fei meets Elly in a [[w:c:xenosaga:Blackmoon Forest|forest]]. The two briefly work together in each game before being separated for a while, with the girl telling her they'd be enemies next time they meet but not going through with it when the time came.
+** Noah's Ouroboros form is similar to Fei's [[w:c:xenosaga:Gear|gear]], [[w:c:xenosaga:Weltall|Weltall]].
+** The climax where Noah relives his past lives and learns about how he "became" N is a nod to how Fei learns of his previous lives as well as the origins of [[w:c:xenosaga:Id|Id]] and [[w:c:xenosaga:Grahf|Grahf]].
+** Furthermore, "Project '''Noah'''" was the working title for Xenogears at the beginning of its development. In the game itself, it refers to [[w:c:xenosaga:Karellen|Karellen's]] plan in creating his own god using [[w:c:xenosaga:Deus|Deus]].
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Noah Artwork.png|Official Artwork
+XC3 Noah as a Swordfighter.jpg|
+Noah Mio Interlink.png|Official Artwork of Noah's Ouroboros
+XC3 Noah Mio Sword Blade Art.webp|Noah and Mio both using the Swordfighter class
+XC3 Mio Noah Twin Rings Blade Art.webp|Noah and Mio both using the Zephyr class
+Ouroboros Fusion Artwork.jpg|Artwork of Noah and Mio Interlinking into their Ouroboros
+XC3 Class Change.jpg|Swordfighter to Zephyr Class Change for Noah and Mio
+XC3 Noah Twitter.jpg|Artwork of Noah by Masatsugu Saito to celebrate the launch of {{XC3|-}}
+Noah Concept 1.png|Noah Concept Art
+Noah Concept 2.png
+Noah Concept 3.png
+Noah Concept 4.png
+Noah Ouroboros Concept 1.png|Noah's Ouroboros Form Concept Art
+Noah Ouroboros Concept 2.png
+Noah Ouroboros Concept 3.png
+Noah Ouroboros Concept 4.png
+Weapon Concept 1.png|Concept Art of Noah's Blade
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruiting artwork of Noah and Mio in a town
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Noah Hero Icon.png|Hero List Icon
+Noah Chain Art Icon.png|Chain Art Icon
+Noah Ouroboros Chain Art Icon.png|Noah's Ouroboros Order Icon
+Noah Level Up Art.png|Level Up Art
+Noah Level Up Art 2.png|Level Up Art (Military Uniform)
+Icon chara n0ah.png
+Icon chara 26.png
+Icon chara battle n0ah.png
+Icon chara battle 28.png
+Strm ch thumb001 0.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Title Screen Without Logo.jpeg|Noah and Mio overlooking the Urayan Mountains and Swordmarch
+XC3 Noah Flute Screenshot.jpeg|Noah playing his flute
+Noah And Mio Flute Playing.jpeg|Noah and Mio playing their flutes
+XC3 Noah Screenshot.jpeg|Noah with his sword in battle
+Noah Mio Ouroboros fusion Screenshot.jpeg|Noah and Mio interlinking
+XC3 Aionios Screenshot.png|Noah exploring Millick Meadows
+XC3 Noah and Mio Fighting As a Team.jpeg|Noah and Mio fighting as a team
+XC3 Noah and Mio facing Large Machine Enemy.jpeg|Noah and Mio fighting Colony Lambda's Ferronis
+XC3 Lanz Screenshot 2.png|Noah being guarded by Lanz during battle
+XC3 Mysterious Giant 4.jpg|Noah and Mio fighting the Mysterious Enemy
+XC3 Noah's Talent Arts.jpg|Noah using Overclock Buster
+Noah Monado.jpg|Noah wielding the Monado
+Noah Pyra Aegis Sword.jpg|Noah wielding Pyra's Aegis Sword
+XC3 Noah as Guardian Commander.jpg|Noah fighting as a Guardian Commander
+Young Noah.jpg|Noah in his 2nd Term
+Noah Driving Ino.jpg|Noah as Ino's Driver
+Noah and Ino Blade Special.jpg|Noah and Ino fighting as Driver and Blade
+Noah Military Uniform.jpg|Noah in his Military Uniform
+Noah DLC Outfit 1 Screenshot.jpeg|One of Noah's Expansion Pass Outfits
+NoahSwimsuit.jpg|Noah's Swimwear A outfit from the Expansion Pass
+NoahSwimwearB.jpg|Noah's Swimwear B outfit from the Expansion Pass
+Noah Shulk Outfit.png|Noah's Throwback A outfit from the Expansion Pass, based on Shulk's main outfit from {{XC|-}}.
+Noah Shulk Outfit B.jpg|Noah's Throwback B outfit from the Expansion Pass, based on Shulk's main outfit from {{XC|-}}.
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+[[es:Noah]]
+
+[[Category:Noah]]
+[[Category:XC3 Ouroboros]]
+[[Category:XC3 Playable Characters]]
+[[Category:XC3 Kevesi]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>585jhd8n25je6qce0fr3dh2yj9gahtn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noog Flier</title>
+    <ns>0</ns>
+    <id>123002</id>
+    <revision>
+      <id>584263</id>
+      <parentid>559845</parentid>
+      <timestamp>2023-04-20T18:34:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584263</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="834" sha1="h3cyzdzg3fbr8vdsn7z9xxkesml165s" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Noog Flier
+|image        = Noog Flier.jpg
+|caption      = Noog Flier
+|category     = Minor Enemy
+|type         = [[Flier]]
+|level        = 60-62
+|area         = [[Great Cotte Falls]]&lt;br/&gt;[[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Noog Fliers''' are Minor Enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 60-62 at [[Great Cotte Falls]] and in [[High Maktha Wildwood]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h3cyzdzg3fbr8vdsn7z9xxkesml165s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noog Skeeter (XC3)</title>
+    <ns>0</ns>
+    <id>121703</id>
+    <revision>
+      <id>560343</id>
+      <parentid>559846</parentid>
+      <timestamp>2022-10-03T16:27:13Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>560343</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="870" sha1="re1yt8ud7zwwwiqswithth3gqt2crik" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Noog Skeeter (XC2)}}
+{{Infobox Enemy
+|name         = Noog Skeeter
+|image        = 
+|caption      = Noog Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Noog Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level ? at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>re1yt8ud7zwwwiqswithth3gqt2crik</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noogie Storm</title>
+    <ns>0</ns>
+    <id>118181</id>
+    <revision>
+      <id>591893</id>
+      <parentid>591672</parentid>
+      <timestamp>2023-05-14T14:36:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591893</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="534" sha1="igr26ug7h6ofl0jnur2edjdl9yshi0s" xml:space="preserve">{{Infobox battle art
+|name        = Noogie Storm
+|image       = Strm order thumb014 0.png
+|who         = [[Riku &amp; Manana]]
+|class       = 
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Increases everyone's TP by 6-10.
+|duration    = 
+|recharge    = 
+}}
+'''Noogie Storm''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Riku &amp; Manana]]'s Chain art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>igr26ug7h6ofl0jnur2edjdl9yshi0s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nopon Archsage</title>
+    <ns>0</ns>
+    <id>88684</id>
+    <revision>
+      <id>578413</id>
+      <parentid>576309</parentid>
+      <timestamp>2023-03-02T16:41:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>578413</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3498" sha1="l5uuq3mjufj5hkfox0ika9xrl37ioy5" xml:space="preserve">{{Infobox Character
+|name          = Nopon Archsage
+|image         = &lt;tabber&gt;
+XC2 = [[File:XC2 Nopon Archsage.jpg]] |-|
+XCDE = [[File:Nopon Archsage DE.jpeg]]|-|
+XC3 = [[File:Nopon Archsage XC3.png]] |-|
+&lt;/tabber&gt;
+|gender        = Male
+|age           = Unknown
+|species       = [[Nopon]]
+|haircolor     = Yellow (XC2 &amp; XCDE)&lt;br/&gt;White (XC3)
+|eyecolor      = Red
+|voiceactorjp  = Hitomi &#332;wada (XC2)&lt;br/&gt;Akio &#332;tsuka (XC3)
+|voiceactoreng = Daniel Buckley (XC2)&lt;br/&gt;[[wikipedia:Adam Howden|Adam Howden]] (XC3)
+|appearances   = {{XC2}}&lt;br/&gt;{{XCDE}}&lt;br/&gt;{{XC3}}
+}}
+{{Quote|Friends best show what friends capable of.|Nopon Archsage}}
+The '''Nopon Archsage''' (Japanese: {{lang|ja|&#12494;&#12509;&#12531;&#12539;&#12480;&#12452;&#12475;&#12531;&#12491;&#12531;}}, ''Nopon daisen'nin'') is a recurring character in the {{XC|serieslink}}.
+
+== {{XC2|-}} ==
+In {{XC2}}, he is a [[Nopon]] who can be found at the [[Land of Challenge (XC2)|Land of Challenge]], available as downloadable content from the [[Xenoblade Chronicles 2#Challenge Battle Mode Pack|Challenge Battle Mode Pack]] of the Expansion Pass. Talking to him after his introduction cutscene allows the player to participate in [[Challenge Battle Mode|Challenge Battles]].
+
+Upon first meeting him, he says that he built the Land of Challenge, and he is one-hundred million times the age of [[Tora (XC2)|Tora]], despite his young appearance similar to the [[Nopon Sage (XC1)|Nopon Sage]] in {{XC}}.
+
+== {{XCDE|-}} ==
+In {{XCDE}}, he is a Nopon found in the shrine of the Nopon Archsage who allows the player to participate in the mode [[Time Attack]]. He also offers various items in exchange for [[Noponstone]] obtained from Time Attack challenges.
+
+== {{XC3|-}} ==
+In {{XC3}}, he reprises his role as the overseer of the [[Challenge Battle Mode]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]]. 
+{{clr}}
+
+== Trivia ==
+* The Nopon Archsage is the only character in {{XCDE|-}} (outside of {{XCFC|sublink}}) that was not in the [[Xenoblade Chronicles|original]] game.
+* In the English version of {{XC2|-}}, the Nopon Archsage is voiced by Daniel Buckley, who also voices [[Niall]], as well as [[Hugo (TTGC)|Hugo]] in {{TTGC}}. In the Japanese version, he is voiced by Hitomi &#332;wada, who also voices [[Nia]].
+* In the English version of {{XC3|-}}, the Nopon Archsage is voiced by Adam Howden, who also voices [[Shulk]] and [[Zanza]] in {{XC|-}}, as well as the [[Architect]] in {{XC2|-}}. In the Japanese version, he is voiced by Akio &#332;tsuka, who also voices [[Z]], as well as [[Bana (XC2)|Chairman Bana]] in {{XC2|-}}
+* In {{TTGC}}, there is a character named the [[Nopon Halfsage]] whose model is a tiny version of that of the Nopon Archsage.
+* If the Nopon Archsage is talked to while [[Jin]], [[Malos]], or [[Vandham (XC2)|Vandham]] is in the active party, the Nopon Archsage will not allow any Challenge Battles to be selected until the character is removed from the active party.
+
+== Gallery ==
+&lt;gallery&gt;
+XC2 Land of Challenge.jpg|Nopon Archsage rewarding the player after beating a challenge in {{XC2|-}}
+XC1DE-Time-Attack-Nopon-Archsage.jpg|Nopon Archsage in {{XCDE|-}}
+XC3 Nopon Archsage.jpg|Nopon Archsage in {{XC3|-}} 
+&lt;/gallery&gt;
+
+{{clr}}
+{{xc stub}}
+[[Category:XC2 Nopon]]
+[[Category:XC2 DLC NPCs]]
+[[Category:XC2 Challenge Battle Mode]]
+[[Category:XCDE Nopon]]
+[[Category:XCDE Time Attack]]
+[[Category:XC3 Nopon]]
+[[Category:XC3 Challenge Battle Mode]]
+[[Category:XC3 DLC NPCs]]</text>
+      <sha1>l5uuq3mjufj5hkfox0ika9xrl37ioy5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nopon Doll (XC3)</title>
+    <ns>0</ns>
+    <id>118985</id>
+    <revision>
+      <id>592822</id>
+      <parentid>592553</parentid>
+      <timestamp>2023-05-15T20:17:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1081" sha1="h90l54vtcpju4u41ajj54tkjkic0w0f" xml:space="preserve">{{for|other uses|Nopon Doll}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Nopon Doll
+|image     = XC3 Accessory Pack.png
+|caption   = When incapacitated, aggro does not reset, but remains at 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 5080 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Nopon Doll
+|image     = XC3 Accessory Pack.png
+|caption   = When incapacitated, aggro does not reset, but remains at 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 5080 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Nopon Doll
+|image     = XC3 Accessory Pack.png
+|caption   = When incapacitated, aggro does not reset, but remains at 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 5080 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Nopon Dolls''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>h90l54vtcpju4u41ajj54tkjkic0w0f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nopon Eater</title>
+    <ns>0</ns>
+    <id>124255</id>
+    <revision>
+      <id>575460</id>
+      <parentid>575457</parentid>
+      <timestamp>2023-02-04T22:29:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Undo revision 575457 by [[Special:Contributions/Heroponsupert20|Heroponsupert20]] ([[User talk:Heroponsupert20|talk]])</comment>
+      <origin>575460</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2425" sha1="pr1t6krwvmjy2xe9ryxisy4uq3c9j20" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Nopon Eater
+|image        = XC3 Nopon Eater.png
+|caption      = Nopon Eater
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Vollgull]]
+
+|tab1         = 1st Battle
+|level        = 48
+|area         = [[Urayan Trail]]
+|spawntime    = During ''[[The Hope of Noponkind]]''
+|respawn      = No
+|movement     = Air
+|detection    = 
+|hp           = 560,860
+|strength     = 502
+|ether        = 85
+|dexterity    = 219
+|agility      = 206
+|physdef      = 50
+|ethdef       = 85
+|critrate     = 
+|guardrate    = 
+
+|tab2         = 2nd Battle
+|level2       = 49
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|area2        = [[Erythia Sea]] ([[Anu Shoals]])
+|spawntime2   = During ''[[The Hope of Noponkind]]''
+|respawn2     = No
+|movement2    = Air
+|detection2   = 
+|hp2          = 560,860
+|strength2    = 502
+|ether2       = 85
+|dexterity2   = 219
+|agility2     = 206
+|physdef2     = 50
+|ethdef2      = 85
+|critrate2    = 
+|guardrate2   = 
+
+
+|tab3         = 3rd Battle
+|level3       = 50
+|category3    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|area3        = [[Erythia Sea]] ([[Anu Shoals]])
+|spawntime3   = During ''[[The Hope of Noponkind]]''
+|respawn3     = No
+|movement3    = Air
+|detection3   =
+|exp          = 84000
+|cp           = 280
+|gold         = 45000
+|hp3          = 560,860
+|strength3    = 502
+|ether3       = 85
+|dexterity3   = 228
+|agility3     = 215
+|physdef3     = 50
+|ethdef3      = 85
+|critrate3    = 
+|guardrate3   = 
+
+}}
+'''Nopon Eater''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Vollgull]] family, and is fought three times during ''[[The Hope of Noponkind]]'', first at level 48 on the [[Urayan Trail]], and then twice in succession at [[Anu Shoals]] in [[Erythia Sea]], first at level 49 and then again at level 50.
+{{clr}}
+
+== Trivia ==
+* During the third fight against the Nopon Eater, "[[Battle!!]]" from {{XC2}} will play.
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Vollgulls]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 DLC Enemies]]</text>
+      <sha1>pr1t6krwvmjy2xe9ryxisy4uq3c9j20</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nopon Strap</title>
+    <ns>0</ns>
+    <id>122722</id>
+    <revision>
+      <id>592823</id>
+      <parentid>592432</parentid>
+      <timestamp>2023-05-15T20:17:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" sha1="aadqvjypd8vrq6497ars1hp0x3obsfx" xml:space="preserve">{{Infobox item
+|name      = Nopon Strap
+|image     = XC3 Accessory Pack.png
+|caption   = 10% chance to keep recharge when using Art.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Nopon Straps''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought at the [[Nopon Coin X-change]] for 80 [[Nopon Coin (Silver)|Silver Nopon Coins]]. One can be received from the first wave of the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>aadqvjypd8vrq6497ars1hp0x3obsfx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noponic Champion</title>
+    <ns>0</ns>
+    <id>123894</id>
+    <revision>
+      <id>597123</id>
+      <parentid>597115</parentid>
+      <timestamp>2023-06-23T14:08:45Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>class unlock and weapon stats</comment>
+      <origin>597123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7582" sha1="re011ztiipdjllq7r8y6edeqmhc0tu7" xml:space="preserve">{{quote|A Defender who stays on the attack while evading enemy hits, revealing their true power after being KO'd.|Class menu description}}
+[[File:XC3 Noponic Champion Class Icon.png|thumb|The Noponic Champion class icon]]
+'''Noponic Champion''' is a DLC [[Agnus|Agnian]] [[Defender (XC3)|Defender]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Noponic Champion is the class of [[Ino]]. The [[Blade (XC3)|Blades]] of the Noponic Champion class are known as the Inosabers. The class is unlocked upon completion of the DLC [[Hero Quest]] ''[[Champion of the Nopon]]'', which becomes accessible in Chapter 3 as long as the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]] has been purchased, with [[Noah]] being the class inheritor. The [[Class Rank (XC3)|Class Rank]] limit is increased from 10 to 20 upon completion of the Ascension Quest ''[[The Hope of Noponkind]]''.
+
+The Noponic Champion class gains bonuses when evading attacks, rewarding effective use of evasion Arts. Additionally, it gains bonuses after being incapacitated, allowing the user to grow stronger in protracted battles where the likelihood of being incapacitated is high. Despite being classified as being part of the [[Nopon Caravans]], arts belonging to the Nopon Champion class function like those of Agnian classes.
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|''Class Inheritor''
+|5,950
+|4,250
+|5,100
+|2,550
+|3,400
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 260
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 260
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 310
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 310
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 365
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[The Hope of Noponkind]]''
+|-
+| 11 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 435
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 435
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 545
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 545
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 655
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 655
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 705
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 810
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Noponic Champion class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 110% || 85% || 0% || 110% || 120% || 35% || 30%
+|-
+| 10 || 115% || 90% || 0% || 115% || 125% || 40% || 35%
+|-
+| 20 || 120% || 95% || 0% || 120% || 130% || 45% || 40%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 17 || 10% || 25%
+|-
+| 10 || 37 || 11% || 26%
+|-
+| 20 || 67 || 11% || 27%
+|-
+| 30 || 103 || 12% || 28%
+|-
+| 40 || 143 || 12% || 29%
+|-
+| 50 || 191 || 13% || 30%
+|-
+| 60 || 244 || 13% || 31%
+|-
+| 70 || 303 || 14% || 32%
+|-
+| 80 || 369 || 14% || 33%
+|-
+| 90 || 443 || 15% || 34%
+|-
+| 99 || 519 || 15% || 35%
+|}
+== Class Arts ==
+* '''[[Shining Refrain]]''' ([[Battle Arts (XC3)|Talent Art]]), Evade / Self KO&#8593;
+* '''[[Dual Flash]]''', High Aggro
+* '''[[Refractive Edge]]''', Evade / High aggro
+* '''[[Tri-Slash]]''', [[Break (XC3)|Break]] (Rank 10 Master Art)
+* '''[[Lustrous Spike]]''', Self KO&#8593; (Rank 1 Master Art)
+* '''[[Dazzling Illusion]]''', Eva. up / Faster aggro
+
+=== Hero-Exclusive Arts ===
+* '''[[Starry Beat]]''', [[Break (XC3)|Break]]
+* '''[[Afterglow]]''', Self KO&#8593;
+* '''[[Photon Storm]]''', Evade / High aggro
+
+== Class Skills ==
+* '''Tit For Tat''', Whenever an ally in a fixed radius is attacked, boosts recharge of one Art at random by 10-20%.
+* '''Nanomachine Repair''', Adds 25% chance to restore HP by 6-8% when evading. (Rank 5 Master Skill)
+* '''Velocity Gear''', All Arts except Talent Art gain 6-10% recharge when evading.
+* '''Overclock''', Boosts recharge rate by 10-20% each time the character is incapacitated (to a maximum of 25%). (Rank 15 Master Skill)
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:100%;"
+! Class Rank 
+! style="width:20%;" | [[Inoswap]] Enhancements
+! Tit For Tat
+! Nanomachine Repair
+! Velocity Gear
+! Overclock
+|-
+| 1
+| 0
+| 10%
+| 6%
+| 6%
+| 10%
+|-
+| 5
+| 
+| 12%
+| 6.5%
+| 7%
+| 12%
+|-
+| 10 
+| 1
+| 14%
+| 7%
+| 8%
+| 15%
+|-
+| 15
+| 
+| 16%
+| 7.5%
+| 9%
+| 17%
+|-
+| 20
+| 2
+| 20%
+| 8%
+| 10%
+| 20%
+|}
+{{clr}}
+
+=== Inoswap ===
+{{main|Inoswap}} 
+Ino can upgrade her arts and skills through Inoswap.
+
+== Gallery ==
+&lt;gallery&gt;
+Ino Official Artwork.png|Ino, a Noponic Champion
+Noponic Champion Noah.jpg|Noah as a Noponic Champion
+Noponic Champion Mio.jpg|Mio as a Noponic Champion
+Noponic Champion Eunie.png|Eunie as a Noponic Champion
+Noponic Champion Taion.png|Taion as a Noponic Champion
+Noponic Champion Lanz.png|Lanz as a Noponic Champion
+Noponic Champion Sena.png|Sena as a Noponic Champion
+&lt;/gallery&gt;
+
+[[Category:XC3 Classes]]
+[[Category:XC3 Downloadable Content]]</text>
+      <sha1>re011ztiipdjllq7r8y6edeqmhc0tu7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noponic Gold</title>
+    <ns>0</ns>
+    <id>125635</id>
+    <revision>
+      <id>577261</id>
+      <parentid>577107</parentid>
+      <timestamp>2023-02-16T17:31:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>577261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="643" sha1="ba9uhwigxqkmq2i7b2gkhnne0jdoogn" xml:space="preserve">{{Infobox item
+|name      = Noponic Gold
+|image     = XC3 key item.png
+|caption   = "A special gold alloy used by Nopon craftspon to enhance accessories."
+|type      = Key Item
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]&lt;br/&gt; [[Prize X-change Blue]]
+|sell      = N/A
+}}
+'''Noponic Gold''' is a DLC [[Key Item]] in {{XC3}}. It can be bought from the [[Prize X-change Red]] for 3000 red [[Noponstone]] or from the [[Prize X-change Blue]] for 600 blue Noponstone. It is used to [[Craft Accessories|enhance accessories]] at [[Rest Spot (XC3)|rest spots]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Key Items]]
+[[Category:XC3 DLC Items]]</text>
+      <sha1>ba9uhwigxqkmq2i7b2gkhnne0jdoogn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noponstone</title>
+    <ns>0</ns>
+    <id>88700</id>
+    <revision>
+      <id>577462</id>
+      <parentid>577432</parentid>
+      <timestamp>2023-02-20T14:57:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>577462</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2203" sha1="24tfq3l1st4wf3h8tvuxc9gboxzpnej" xml:space="preserve">{{Infobox item
+|name     = Noponstone
+|image    = &lt;tabber&gt;
+XC2 = [[File:XC2-collectible-ore.png]] |-|
+XC3 = [[File:XC3 Noponstone.png]] |-|
+&lt;/tabber&gt;
+|caption  = 
+|type     = Ore
+|rarity   = 3
+|source   = [[Land of Challenge (XC2)|Land of Challenge]] (''XC2'')&lt;br/&gt;[[Time Attack]] (''XCDE'')&lt;br/&gt;[[Land of Challenge (XC3)|Land of Challenge]] (''XC3'')
+|sell     = 50 [[Gold|G]] (XC2)&lt;br/&gt;N/A (XC3 &amp; XCDE)
+}}
+'''Noponstones''' are items in the {{XC|serieslink}}.
+
+== {{XC2|-}} ==
+Noponstones are DLC Ore [[Collectible (XC2)|collectibles]] in {{XC2}}. They can be found in the [[Land of Challenge (XC2)|Land of Challenge]] from [[Treasure Trove]]s obtained after completing a [[Challenge Battle Mode|Challenge Battle]], available as downloadable content from the [[Xenoblade Chronicles 2#Challenge Battle Mode Pack|Challenge Battle Mode Pack]] of the Expansion Pass. They can be traded in at the [[Noponstone Exchange]] for special items.
+
+== {{XCDE|-}} ==
+In {{XCDE}}, Noponstones are item rewards during [[Time Attack]] trials. After completing the story of {{XCFC|sublink}}, [[Levelling Battle Arts|Master books]], which allow arts to be raised to level 12, are obtainable in the main game from the [[Nopon Archsage]], each one for the price of 20,000 Noponstones.
+
+== {{XC3|-}} ==
+In {{XC3}}, the are two types of Noponstones that are rewarded for completing Challenge Battles in the [[Land of Challenge (XC3)|Land of Challenge]]: Red Noponstone and Blue Noponstone. Red Noponstones are obtained from Time Attack Challenge Battles, while Blue Noponstones are obtained from the [[Archsage's Gauntlet]]. Noponstones can be traded in at the [[Prize X-change Red]] and the [[Prize X-change Blue]] for [[Accessory (XC3)|Accessories]], [[Nopon Coin (XC3)|Nopon Coins]], [[Origin Shard]]s, [[Enigmatter]], and [[Noponic Gold]]. Blue Noponstones can also be traded to unlock and upgrade Emblems for the Archsage's Gauntlet and can be exchanged for the Throwback B [[Clothing|outfits]] for [[Ouroboros]].
+
+[[Category:XC2 Ore]]
+[[Category:XC2 DLC Items]]
+[[Category:XC2 Challenge Battle Mode]]
+[[Category:XC Items]]
+[[Category:XCDE Time Attack]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Challenge Battle Mode]]</text>
+      <sha1>24tfq3l1st4wf3h8tvuxc9gboxzpnej</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Normal Monster</title>
+    <ns>0</ns>
+    <id>118014</id>
+    <revision>
+      <id>538358</id>
+      <parentid>538351</parentid>
+      <timestamp>2022-08-01T15:12:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>template change</comment>
+      <origin>538358</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="0nb67p6ggi6yzscbeadcf9m5c7f4qjg" xml:space="preserve">{{spoiler}}
+'''Normal Monsters''' are [[Enemy (XC3)|enemies]] in {{XC3}}. They are usually members of a species, reflected in the second part of their names (for example, [[Heavy Brog (XC3)|Heavy Brog]] are members of the [[Brog]] family).
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Enemies]]
+[[Category:XC3 Normal Monsters]]</text>
+      <sha1>0nb67p6ggi6yzscbeadcf9m5c7f4qjg</sha1>
+    </revision>
+  </page>
+  </mediawiki>

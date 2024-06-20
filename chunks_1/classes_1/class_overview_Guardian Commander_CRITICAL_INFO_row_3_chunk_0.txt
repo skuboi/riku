@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Guardian Commander
+
+Overview:  
+Guardian Commanders specialize in protecting their allies. They fight with the [[Blade (XC3)|Gutsy Gladius]], a sword and shield. Their abilities are enhanced by adversity, making them reliable companions to stand up to strongest [[Enemy (XC3)|enemies]]. Guardian Commander is the Class of [[Zeon]]. 
+
+It is unlocked after the [[Hero Quest]] ''[[Where The Heart Is]]'', and is upgraded with ''[[Reasons to Evolve]]''.
+
+Arts: {'Deflector Field': 'Absorb damage/Awakening |Awaken', 'Imperial Sword |Imperial Sword': 'Awakened Boost', 'Shield Bash |Shield Bash': 'Topple |Topple (Rank 10 Master Art)', 'Falcon Swoop': 'AOE / Awakened Boost', 'Noble Taunt': 'Taunt (Rank 1 Master Art)', 'Grand Protection': 'Block Rate+/Atk Down'}
+
+Class Skills: {'Mind for Guarding': 'Increase damage reduction rate when blocking by 10-20 percentage points. (Rank 15 Master Skill)', "I'll Help": 'Take attacks for nearby allies with low HP. Damage taken is reduced by 15-20%.', "Soldier's Potential": 'When HP is at 30% or lower, restore 0.6-1.4% HP each second.', "Protector's Pride": 'Boost recharge speed by 30-50% when non-Defenders are targeted. (Rank 5 Master Skill)'}
+
+Hero Exclusive Arts: {'Proud Edge': 'AOE / Awakened Boost', 'Celestial Strike': 'Knockback/Awakened+', 'Victory Shift': 'Block Rate+/Atk Down'}
+

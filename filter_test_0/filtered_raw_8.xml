@@ -1,0 +1,1153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Black Steel Band</title>
+    <ns>0</ns>
+    <id>118920</id>
+    <revision>
+      <id>592719</id>
+      <parentid>592405</parentid>
+      <timestamp>2023-05-15T20:12:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592719</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1202" sha1="e81dc5dor0k1yhp8stjxb8rpqf710w2" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Black Steel Band
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts aggro generated from auto-attacks by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Black Steel Band
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts aggro generated from auto-attacks by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Black Steel Band
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts aggro generated from auto-attacks by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 830 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Black Steel Bands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be purchased at the [[Colony 9 Commissary]], they are one of the items that can be used to complete the mission ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>e81dc5dor0k1yhp8stjxb8rpqf710w2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blade (XC3)</title>
+    <ns>0</ns>
+    <id>116938</id>
+    <revision>
+      <id>600092</id>
+      <parentid>597279</parentid>
+      <timestamp>2023-07-20T03:24:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Aegis Sword Pictures</comment>
+      <origin>600092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7832" sha1="3a1m0srus6u9tg1a3ecaxen0hrwpaf9" xml:space="preserve">{{for|other uses in the {{XC|series}}|Blade|Weapons}}
+{{spoiler}}
+'''Blades''' (Japanese: {{lang|ja|&#12502;&#12524;&#12452;&#12489;}}) are weapons in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+Blades are created by the soldiers of [[Keves]] and [[Agnus]] for their own use. They can take the form of swords, guns, shields, hammers, or any other form of weapon. Each [[Class (XC3)|class]] wields a unique kind of Blade.
+
+The type of blades that soldiers of Keves and Agnus use stay consistent across their lifespans. Despite being unable to change them, significant alterations and upgrades can be made to Blades. Defeating enemies with a Blade is required to fill a [[Ferronis]] [[Flame Clock]], so soldiers who cannot are often considered dead weight by other soldiers. [[Ouroboros]] have the ability to use blades belonging to others.
+
+On rare occasions, a soldier may lack the ability to summon a blade, as seen with [[Nikol]].
+{{clr}}
+
+== Known Blades ==
+{| class="xc1"
+!User
+!Blade Name
+!Class
+|-
+| rowspan="2" | [[Noah]]
+| Veiled Sword/Truthsinger
+| [[Swordfighter]]
+|-
+| [[Lucky Seven]]
+| N/A
+|-
+| [[Mio]]
+| Dual Moonblades/Sundancers
+| [[Zephyr]]
+|-
+| [[Eunie]]
+| Gunrod/Caduceus Gunrod
+| [[Medic Gunner]]
+|-
+| [[Taion]]
+| Spell Tags: Mondo/Spell Tags: Totality
+| [[Tactician]]
+|-
+| [[Lanz]]
+| Shieldblade/Adamant Shell
+| [[Heavy Guard]]
+|-
+| [[Sena]]
+| Comet Mallet/Meteor Smasher
+| [[Ogre]]
+|-
+| [[Ethel]]
+| Dual Rapiers
+| [[Flash Fencer]]
+|-
+| [[Valdi]]
+| Relief Rifle
+| [[War Medic]]
+|-
+| [[Zeon]]
+| Gutsy Gladius
+| [[Guardian Commander]]
+|-
+| [[Teach]]
+| Martial Linkstaff
+| [[Thaumaturge]]
+|-
+| [[Riku &amp; Manana]] &#8251;
+| Variable Arms
+| [[Yumsmith]] 
+|-
+| [[Gray]]
+| Gun Drones 
+| [[Full Metal Jaguar (XC3)|Full Metal Jaguar]]
+|-
+| [[Isurd]]
+| Disc Launcher
+| [[Strategos]]
+|-
+| [[Juniper]]
+| Luminescent Bow
+| [[Stalker]]
+|-
+| [[Ashera]]
+| Twinsaber
+| [[Lone Exile]]
+|-
+| [[Alexandria]]
+| Exponential Edge
+| [[Incursor]]
+|-
+| [[Monica Vandham|Monica]]
+| Defense Mace
+| [[Lost Vanguard]]
+|-
+| [[Fiona]]
+| War Standard
+| [[Signifer]]
+|-
+| [[Triton]]
+| Mimic Knuckles
+| [[Soulhacker]]
+|-
+| [[Ghondor]]
+| Turbo Cestus
+| [[Martial Artist]]
+|-
+| [[Miyabi]]
+| Silken Ivy
+| [[Troubadour]]
+|-
+| [[Cammuravi]]
+| Heatshimmer Spear
+| [[Seraph]]
+|-
+| [[Segiri]]
+| Doom Axes
+| [[Machine Assassin]]
+|-
+| [[Nia]]
+| Anima Sword
+| [[Lifesage]]
+|-
+| [[Melia]]
+| Elemental Staff
+| [[Royal Summoner]]
+|-
+| [[Ino]]
+| Inosabers
+| [[Noponic Champion]]
+|-
+| [[Masha]]
+| Dazzling Rings
+| [[Lapidarist]]
+|-
+| [[Matthew (FR)|Matthew]]
+| Ouroboros Knuckles
+| [[Martial Artist]]
+|-
+| [[A]]
+| [[Monado]]
+| [[Monado Fencer]]
+|-
+| [[Glimmer]]
+| Wildfire Kithara
+| [[Kitharode]]
+|-
+| [[Shulk]]
+| [[Monado REX+]]
+| [[Grand Marshal]]
+|-
+| [[Rex]]
+| [[Aegis|Firelight Swords]]
+| [[Master Driver]]
+|-
+| [[Na'el]]
+| Ether Accelerator
+| [[War Mage]]
+|}
+
+:&#8251; While not proper Blades, the Variable Arms can be summoned as Blades by the main cast when using the Yumsmith class or its [[Battle Arts (XC3)#Master Arts|Master Arts]].
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Noah Artwork.png|Noah wielding his Veiled Sword
+XC3 Mio Artwork.png|Mio wielding her Dual Moonblades
+XC3 Lanz Artwork.png|Lanz wielding his Shieldblade
+XC3 Sena Artwork.png|Sena wielding her Comet Mallet
+XC3 Eunie Artwork.png|Eunie wielding her Gunrod
+XC3 Taion Artwork.png|Taion wielding his Spell Tags: Mondo
+XC3 Ethel Artwork.png|Ethel wielding her Dual Rapiers
+XC3 Valdi Artwork.png|Valdi wielding his Relief Rifle
+XC3 Zeon Artwork.png|Zeon wielding his Gutsy Gladius
+Teach Hero Artwork.png|Teach wielding his Martial Linkstaff
+XC3 Riku and Manana Artwork.png|Riku and Manana wielding their Variable Arms
+XC3 Gray Artwork.png|Gray wielding his Gun Drones
+XC3 Isurd Artwork.png|Isurd wielding his Disc Launcher
+XC3 Juniper Artwork.png|Juniper wielding their Luminescent Bow
+XC3 Ashera Artwork.png|Ashera wielding her Twinsaber
+XC3 Alexandria Artwork.png|Alexandria wielding her Exponential Edge
+XC3 Monica Artwork.png|Monica wielding her Defense Mace
+XC3 Fiona Artwork.png|Fiona wielding her War Standard
+XC3 Triton Artwork.png|Triton wielding his Mimic Knuckles
+XC3 Ghondor Artwork.png|Ghondor wielding her Turbo Cestus
+XC3 Miyabi Artwork.png|Miyabi wielding her Silken Ivy
+XC3 Cammuravi Artwork.png|Cammuravi wielding his Heatshimmer Spear
+Segiri Hero Artwork.png|Segiri wielding her Doom Axes
+XC3 Nia Artwork.png|Nia wielding her Anima Sword
+Melia Official Artwork.png|Melia wielding her Elemental Staff
+Ino Official Artwork.png|Ino wielding her Inosabers
+XC3 Masha Official Artwork.png|Masha wielding her Dazzling Rings
+XC3FR Matthew.png|Matthew wielding his Ouroboros Knuckles
+XC3FR A.png|A wielding the Monado
+XC3FR Glimmer.png|Glimmer wielding her Wildfire Kithara
+XC3FR Shulk Official Artwork.png|Shulk wielding his Monado REX+
+XC3FR Rex Official Artwork.png|Rex wielding his Firelight Swords
+XC3FR Na'el.png|Na'el wielding her Ether Accelerator
+XC3 Noah Mio Sword Blade Art.webp|Artwork of Noah and Mio both wielding the Veiled Sword
+XC3 Mio Noah Twin Rings Blade Art.webp|Artwork of Mio and Noah both wielding Dual Moonblades
+Weapon Concept 1.png|Concept Art of Noah and Mio's weapons
+Weapon Concept 2.png|Concept Art of Mio and Eunie's weapons
+Weapon Concept 3.png|Concept Art of X, Dirk, M's weapons and Lucky Seven
+Weapon Concept 4.png|Concept Art of N's weapon and the Sword of the End
+&lt;/gallery&gt;
+
+==== Weapon Icons ====
+&lt;gallery&gt;
+XC3 Swordfighter Weapon Icon.png|Veiled Sword Icon
+XC3 Zephyr Weapon Icon.png|Dual Moonblades Icon
+XC3 Heavy Guard Weapon Icon.png|Shieldblade Icon
+XC3 Ogre Weapon Icon.png|Comet Mallet Icon
+XC3 Medic Gunner Weapon Icon.png|Gunrod Icon
+XC3 Tactician Weapon Icon.png|Spell Tags Icon
+XC3 War Medic Weapon Icon.png|Relief Rifle Icon
+XC3 Stalker Weapon Icon.png|Luminescent Bow Icon
+XC3 Guardian Commander Weapon Icon.png|Gutsy Gladius Weapon Icon
+XC3 Signifer Weapon Icon.png|War Standard Icon
+XC3 Lone Exile Weapon Icon.png|Twinsaber Icon
+XC3 Incursor Weapon Icon.png|Exponential Edge Icon
+XC3 Full Metal Jaguar Weapon Icon.png|Gun Drones Icon
+XC3 Flash Fencer Weapon Icon.png|Dual Rapiers Icon
+XC3 Strategos Weapon Icon.png|Disc Launcher Icon
+XC3 Yumsmith Weapon Icon.png|Variable Arms Icon
+XC3 Troubadour Weapon Icon.png|Siken Ivy Icon
+XC3 Seraph Weapon Icon.png|Heatshimmer Spear Icon
+XC3 Lost Vanguard Weapon Icon.png|Defense Mace Icon
+XC3 Thaumaturge Weapon Icon.png|Martial Linkstaff Icon
+XC3 Soulhacker Weapon Icon.png|Mimic Knuckles Icon
+XC3 Martial Artist Weapon Icon.png|Turbo Cestus Icon
+XC3 Machine Assassin Weapon Icon.png|Doom Axe Icon
+Lifesage Class Icon.png|Anima Sword Icon
+Royal Summoner Class Icon.png|Elemental Staff Icon
+XC3 Noponic Champion Class Icon.png|Inosabers Icon
+XC3 Lapidarist Class Icon.png|Dazzling Rings Icon
+FR Martial Artist Class Icon.png|Ouroboros Knuckles Icon
+Monado Fencer Class Icon.png|Monado Icon
+Kitharode Class Icon.png|Wildfire Kithara Icon
+Grand Marshal Class Icon.png|Monado REX+ Icon
+Master Driver Class Icon.png|Firelight Swords Icon
+War Mage Class Icon.png|Ether Accelerator Icon
+XC3 Sharpshooter Weapon Icon.png|Mwamba's Blade
+XC3 Joran Unused Weapon Icon.png|Joran's Blade (Unused)
+XC3 Nimue Unused Weapon Icon.png|Nimue's Blade (Unused)
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Noah Screenshot.jpeg
+XC3 Mio MidBattle Screenshot.jpeg
+XC3 Lanz Screenshot 2.png
+XC3 Sena Screenshot.png
+XC3 Taion Screenshot 2.jpg
+XC3 Medic Gunner.jpg
+Noah Monado.jpg|Noah wielding the Monado
+Noah Pyra Aegis Sword.jpg|Noah wielding Pyra's Aegis Sword
+Mio Mythra Aegis Sword.jpg|Mio wielding Mythra's Aegis Sword
+Mio using Noah Arts Artwork.webp|Screenshot of Mio using Noah's Veiled Sword
+Lucky Seven.jpg|Noah's Lucky Seven
+The Sword Of Origin.jpg|The Sword of Origin
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:Weapons]]
+[[Category:XC3 Weapons]]
+[[Category:XC3FR Weapons]]
+[[Category:XC3 Items]]
+[[Category:XC3FR Items]]</text>
+      <sha1>3a1m0srus6u9tg1a3ecaxen0hrwpaf9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blant</title>
+    <ns>0</ns>
+    <id>75084</id>
+    <revision>
+      <id>601942</id>
+      <parentid>600706</parentid>
+      <timestamp>2023-07-22T12:18:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2482" sha1="tw3yezx7ntu2ks8iz98ijnblcyb5jks" xml:space="preserve">[[file:Pest Control 1.png|thumb|A pair of Blants]]
+'''Blants''' are a family of enemies in the {{XC|serieslink}}, first appearing in {{XC2}}. They resemble walking plants, with a large flower on their heads and [[wikipedia:Venus flytrap|Venus flytraps]] for arms. They are usually found near or in water. Blants come in pink and purple varieties, and in {{TTGC}}, one of the four [[Unique Monster (XC2)|Golden Monsters]] in the [[Kingdom of Torna]] is a Blant.
+
+"Blants" do not exist as a species in game files - they are classified as [[Squood]] (and are therefore Aquatic type enemies).
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Eanl Blant]]
+* [[Lafda Blant]]
+* [[Mordow Blant (XC2)|Mordow Blant]]
+* [[Raflas Blant (XC2)|Raflas Blant]]
+
+=== Quest Exclusive Enemy ===
+* [[Magno Blant]] (during ''[[Pest Control 1]]'')
+
+=== Unique Monsters ===
+* [[Vile Howard]]
+* [[Walker Trap]] ([[Driver (enemy)|Driver]] with [[Blade (enemy)|Blade]])
+
+=== Challenge Battle Mode Enemies ===
+* [[Azzale Blant]]
+* [[Syre Blant]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Roose Blant]]
+
+=== Quest Exclusive Enemy ===
+* [[Lowe Blant]] (during ''[[Proof of Love]]'')
+
+=== Golden Monster ===
+* [[Mesmer Tlaloc]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Blants can be found in the [[Aetia Region]], [[Pentelas Region]], and [[Cadensia Region]].
+
+=== Normal Minor Enemies ===
+* [[Jurass Blant]]
+* [[Mordow Blant (XC3)|Mordow Blant]]
+* [[Raflas Blant (XC3)|Raflas Blant]]
+* [[Supreme Blant]]
+* [[Zinnia Blant]]
+
+=== Quest Exclusive Enemy ===
+* [[Varmeen Blant]] (During ''[[Going Home (XC3)|Going Home]]'')
+
+=== Unique Monster ===
+* [[Gorgeous Mandora]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Supreme Blant]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Walker Trap.png|Walker Trap
+SyreBlant.jpg|Syre Blant
+RaflasBlant.jpg|Raflas Blant
+LafdaBlant.jpg|Lafda Blant
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+RooseBlant.jpg|Roose Blant
+LoweBlant.jpg|Lowe Blant
+Tlaloc.jpg|Mesmer Tlaloc
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Mordow Blant XC3.jpg|Mordow Blant
+XC3 Gorgeous Mandora.png|Gorgeous Mandora
+&lt;/gallery&gt;
+
+[[Category:XC2 Aquatic Organisms]]
+[[Category:XC2 Species]]
+[[Category:XC2 Blants]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Blants]]
+[[Category:XC3 Species]]
+[[Category:XC3 Blants]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Blants]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Blants]]
+[[Category:Species by Type]]</text>
+      <sha1>tw3yezx7ntu2ks8iz98ijnblcyb5jks</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blasting Weapon Belt</title>
+    <ns>0</ns>
+    <id>125644</id>
+    <revision>
+      <id>577140</id>
+      <timestamp>2023-02-16T14:34:20Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Blasting Weapon Belt |image     =  |caption   = Boosts damage dealt to Acquatic Life by 110%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Blasting Weapon Belts''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3..."</comment>
+      <origin>577140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="591" sha1="r5jjsjwxmy2k8ge4i0519dfto6zfzvo" xml:space="preserve">{{Infobox item
+|name      = Blasting Weapon Belt
+|image     = 
+|caption   = Boosts damage dealt to Acquatic Life by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Blasting Weapon Belts''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>r5jjsjwxmy2k8ge4i0519dfto6zfzvo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blaze (XC3)</title>
+    <ns>0</ns>
+    <id>117704</id>
+    <revision>
+      <id>598420</id>
+      <parentid>598411</parentid>
+      <timestamp>2023-07-08T16:10:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>598420</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1775" sha1="ghh3y9yj5k5nph8rd34lslmjnnjq8nk" xml:space="preserve">{{for|other uses|Blaze}}
+{{Infobox XC3 Status
+|title          = Blaze
+|caption        = Deals damage at fixed intervals.
+|image          = XC3 Blaze Icon.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 10.0s
+|max-duration   = 20.0s
+|success-rate   = 100%
+|rng-applicable = No
+|effect-title-1 = Base Damage (per tick)
+|effect-value-1 = 8% of Art damage
+|effect-title-2 = Tick Duration
+|effect-value-2 = 1.0s
+}}
+'''Blaze''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It deals damage at fixed intervals.
+
+== Distribution ==
+=== Arts ===
+* [[Empyrean Salvo (XC3)|Empyrean Salvo]] ([[Seraph]])
+* [[Inferno Dance]] (Seraph)
+* [[Flame Nova (XC3)|Flame Nova]] ([[Sena]], [[Ouroboros]])
+* [[Atomize]] ([[Taion]], Ouroboros)
+* [[Heavenly Spear]] ([[Cammuravi]])
+* [[Illusory Bloom (FR)|Illusory Bloom]] ([[Kitharode]])
+
+=== Field Effects ===
+These field effects deal damage over time, and are marked as having Blaze effects, though they do not actually apply the debuff. The field effects' damage are based on the user's Attack rather than being tied to Art damage, and their tick durations may also differ from that of the debuff.
+* [[Energy Grenade]] ([[Yumsmith]]; 50% of Attack power per 1.0s)
+* [[Roasty-Toasty]] ([[Riku &amp; Manana]]; 50% of Attack power per 1.0s)
+* [[Pride of Place]] ([[Lapidarist]]; 100% of Attack power per 2.0s)
+* Lambda Pressure ([[Lambda Ferronis]]; 60% of Attack power per 3.0s)
+* Heat Injection ([[Gastrates]]; 35% of Attack power per 2.0s)
+* Ultra Heat Injection ([[Dorrick]])
+* Extension Injection ([[Stronghammer Dorga]]; 35% of Attack power per 2.0s) 
+* Kevesi Termination Order (Stronghammer Dorga; 35% of Attack power per 2.0s)
+
+{{clr}}
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>ghh3y9yj5k5nph8rd34lslmjnnjq8nk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blazing Karlos</title>
+    <ns>0</ns>
+    <id>119449</id>
+    <revision>
+      <id>583241</id>
+      <parentid>568126</parentid>
+      <timestamp>2023-04-16T20:15:20Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583241</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1528" sha1="fxqprm5pjzeo7yp53jmpubu3x5oflmd" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Blazing Karlos
+|image        = XC3 Blazing Karlos.png
+|caption      = Blazing Karlos
+|type         = [[Ekidno]]
+|level        = 40
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 4 (XC3)|Hovering Reef 4]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 1,096
+|cp           = 403
+|sp           = 5
+|gold         = 700
+|hp           = 817,650
+|strength     = 722
+|healing      = 358
+|dexterity    = 170
+|agility      = 152
+|physdef      = 25%
+|ethdef       = -10%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Blazing Karlos''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ekidno]] family, and can be found at level 40 on [[Hovering Reef 4 (XC3)|Hovering Reef 4]] of the [[Syra Hovering Reefs]]. The [[Dino Storm]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it. It drops the legendary [[Break Brooch]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 100%
+|knockback   = 100%
+|physdebuff  = 25%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Blazing karlos location.png
+Blazing karlos.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ekidnos]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>fxqprm5pjzeo7yp53jmpubu3x5oflmd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bleed (XC3)</title>
+    <ns>0</ns>
+    <id>117063</id>
+    <revision>
+      <id>588246</id>
+      <parentid>584306</parentid>
+      <timestamp>2023-05-03T06:34:36Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>588246</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1221" sha1="2122myr37nxj2ws1man5diupjezv72m" xml:space="preserve">{{for|the status in {{XC|-}}|Bleed (XC1)}}
+{{Infobox XC3 Status
+|title          = Bleed
+|caption        = Deals damage at fixed intervals.
+|image          = XC3 Bleed.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 46.0s
+|max-duration   = 92.0s
+|success-rate   = 100%
+|rng-applicable = No
+|effect-title-1 = Base Damage Amount (per tick)
+|effect-value-1 = 4% of Art damage
+|effect-title-2 = Tick Duration
+|effect-value-2 = 2.0s
+}}
+'''Bleed''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It causes the affected character to take damage over time.
+
+== Distribution ==
+=== Arts ===
+* [[Hidden Thorn (XC3)|Hidden Thorn]] ([[Flash Fencer]])
+* [[Driving Arrow]] ([[Stalker]]; only applied when hitting from the rear)
+* [[Poison Spray]] ([[Soulhacker]]; requires Soul Hacking [[Rambler Curalie]])
+* [[Spinning Bolt]] (Soulhacker; requires Soul Hacking [[Diabolical Rindolph]])
+* [[Jaguar Slash (XC3)|Jaguar Slash]] ([[Mio]]'s [[Ouroboros]])
+* [[Million Flash]] ([[Ethel]])
+* [[Downdraft]] ([[Juniper]]; only applied when hitting from the rear)
+
+=== In {{XC3FR|sub}} ===
+* [[Slit Edge (XC1)|Slit Edge]] ([[Shulk]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>2122myr37nxj2ws1man5diupjezv72m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bloodsucking Elvis</title>
+    <ns>0</ns>
+    <id>119448</id>
+    <revision>
+      <id>583276</id>
+      <parentid>574247</parentid>
+      <timestamp>2023-04-17T15:16:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583276</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1359" sha1="cabtk5eahjnhjxjgg9hgqs3pd39p4m8" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Bloodsucking Elvis
+|image        = XC3 Bloodsucking Elvis.png
+|caption      = Bloodsucking Elvis
+|type         = [[Vang]]
+|level        = 53
+|area         = [[Urayan Trail]] ([[Loska's Cavern]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 1,082
+|cp           = 214
+|sp           = 5
+|gold         = 790
+|hp           = 996,200
+|strength     = 1,103
+|healing      = 395
+|dexterity    = 187
+|agility      = 225
+|physdef      = -15%
+|ethdef       = 20%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Bloodsucking Elvis''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Vang]] family, and can be found at level 53 near [[Colony 5]] in [[Loska's Cavern]] on the [[Urayan Trail]]. The [[Double Strike]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break       = 45%
+|knockback   = 50%
+|blowdown    = 50%
+|physdebuff  = 25%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Bloodsucking elvis location.png
+Bloodsucking elvis.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Vangs]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>cabtk5eahjnhjxjgg9hgqs3pd39p4m8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bloodthirsty Igna</title>
+    <ns>0</ns>
+    <id>121083</id>
+    <revision>
+      <id>596004</id>
+      <parentid>559575</parentid>
+      <timestamp>2023-06-16T19:45:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1126" sha1="csfr54zfclav54xrzoqgzybukmp6h2q" xml:space="preserve">{{Infobox Enemy
+|name         = Bloodthirsty Igna
+|image        = 
+|caption      = Bloodthirsty Igna
+|category     = Minor Enemy
+|type         = [[Igna]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Bloodthirsty Ignas''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Igna]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>csfr54zfclav54xrzoqgzybukmp6h2q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bloodthirsty Merigna</title>
+    <ns>0</ns>
+    <id>121809</id>
+    <revision>
+      <id>559576</id>
+      <parentid>546918</parentid>
+      <timestamp>2022-09-30T10:44:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559576</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" sha1="6sj0co7poit4g7cudpp6qicnzsqv2q9" xml:space="preserve">{{Infobox Enemy
+|name         = Bloodthirsty Merigna
+|image        = 
+|caption      = Bloodthirsty Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Bloodthirsty Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>6sj0co7poit4g7cudpp6qicnzsqv2q9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bloody Orb (XC3)</title>
+    <ns>0</ns>
+    <id>122616</id>
+    <revision>
+      <id>592720</id>
+      <parentid>592538</parentid>
+      <timestamp>2023-05-15T20:12:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592720</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1097" sha1="bccmb86o7sbbebfpxejk42w1bojjzwk" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Bloody Orb (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Bloody Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Bloody Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 105%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Bloody Orb
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage dealt while an ally is incapacitated by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Bloody Orbs''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>bccmb86o7sbbebfpxejk42w1bojjzwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blowdown (XC3)</title>
+    <ns>0</ns>
+    <id>117109</id>
+    <revision>
+      <id>594419</id>
+      <parentid>572467</parentid>
+      <timestamp>2023-05-28T15:37:42Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="727" sha1="tr1mtzqmjivfr67yhcox2foxs35e4gx" xml:space="preserve">{{for|other uses|Blowdown}}
+[[File:XC3 Blowdown.png|thumb]]
+'''Blowdown''' is a reaction status in {{XC3}} and {{XC3FR|sublink}}. It tosses targets backwards into the air, interrupting their current attack and momentarily preventing them from attacking while they get back up. It staggers targets for longer than [[Knockback (XC3)|Knockback]] and takes priority over it. It can be inflicted by certain [[Battle Arts (XC3)|Battle Arts]] and by some enemy attacks. In {{XC3FR|sub}}, Blowdown can only be inflicted by certain [[Unity|Unity Combos]] on [[Launch (XC3)|launched]] enemies.
+
+Certain enemies have resistance or immunity to the status.
+
+{{clr}}
+{{xc3 stub}}
+{{Fr stub}}
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]</text>
+      <sha1>tr1mtzqmjivfr67yhcox2foxs35e4gx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Boahad Aspar</title>
+    <ns>0</ns>
+    <id>121084</id>
+    <revision>
+      <id>596005</id>
+      <parentid>559577</parentid>
+      <timestamp>2023-06-16T19:45:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596005</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1073" sha1="s699gl7d3597ymcnymsxwced2w0un2w" xml:space="preserve">{{Infobox Enemy
+|name         = Boahad Aspar
+|image        = 
+|caption      = Boahad Aspar
+|category     = Minor Enemy
+|type         = [[Aspar]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Boahad Aspars''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Aspar]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Aspars]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>s699gl7d3597ymcnymsxwced2w0un2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bobbile Brog (XC3)</title>
+    <ns>0</ns>
+    <id>117192</id>
+    <revision>
+      <id>595957</id>
+      <parentid>583130</parentid>
+      <timestamp>2023-06-16T18:42:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1408" sha1="3u93tdbwr3gbgza5rx4kt3en6e32jwn" xml:space="preserve">{{for|the enemy from {{XC2}}|Bobbile Brog (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Bobbile Brog
+|image        = 
+|caption      = Bobbile Brog
+|category     = Normal Enemy&lt;br/ &gt;[[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Brog]]
+|level        = 21&lt;br/ &gt;42
+|area         = [[Ribbi Flats]]
+|spawntime    = Anytime&lt;br/ &gt;During ''[[Vampiric Rush]]''
+|respawn      = Yes&lt;br/ &gt;No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Bobbile Brogs''' are normal minor enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Brog]] family, and can be found at level 21 in [[Ribbi Flats]]. One is also fought at level 42 during the first wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Vampiric Rush]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Brogs]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>3u93tdbwr3gbgza5rx4kt3en6e32jwn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bodom Grebel (XC3)</title>
+    <ns>0</ns>
+    <id>117911</id>
+    <revision>
+      <id>595834</id>
+      <parentid>583220</parentid>
+      <timestamp>2023-06-16T15:01:33Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>595834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="937" sha1="9aoa7s4mnapvo1cb0ia0y0ixsggzt9z" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Bodom Grebel (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Bodom Grebel
+|image        = 
+|caption      = Bodom Grebel
+|category     = Normal Enemy
+|type         = [[Grebel]]
+|level        = 12
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Bodom Grebels''' are normal enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level 12 in [[Millick Meadows]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9aoa7s4mnapvo1cb0ia0y0ixsggzt9z</sha1>
+    </revision>
+  </page>
+  </mediawiki>

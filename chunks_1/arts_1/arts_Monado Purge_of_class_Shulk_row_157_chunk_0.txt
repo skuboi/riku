@@ -1,0 +1,6 @@
+Art Name: Monado Purge
+
+Class: Shulk
+
+Effect: AOE/Aggroed _
+

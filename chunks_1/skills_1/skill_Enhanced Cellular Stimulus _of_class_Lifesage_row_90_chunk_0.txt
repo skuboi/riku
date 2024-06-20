@@ -1,0 +1,6 @@
+Skill Name: Enhanced Cellular Stimulus 
+
+Class: Lifesage
+
+Skill Buff or Effect:  50% chance on hit to deal 200% of Healing Power as defense-bypassing damage. [Rank 5 Master Skill]
+

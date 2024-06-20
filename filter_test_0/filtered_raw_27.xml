@@ -1,0 +1,2497 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>G</title>
+    <ns>0</ns>
+    <id>19878</id>
+    <revision>
+      <id>575825</id>
+      <parentid>575638</parentid>
+      <timestamp>2023-02-06T14:35:34Z</timestamp>
+      <contributor>
+        <username>Whitehorse24</username>
+        <id>25270260</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <origin>575825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2618" sha1="od79try5ufbittjo81amw0yg4vlzz0b" xml:space="preserve">{{for|the currency|Gold}}
+{{spoiler}}
+{{Infobox Character
+|name          = G
+|image         = consul g.png
+|species       = [[Moebius]]
+|age           = 
+|gender        = Male
+|haircolor     = 
+|eyecolor      = 
+|affiliation   = [[Consul]]s
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}
+}}
+'''G''' is a character in {{XC3}}.
+
+== Overview ==
+G is the [[Consul]] of [[Colony Gamma]]. Sometime prior to Oleg coming to Colony Gamma, G made an oath with him: ''"To impart wisdom to those who will succeed us. To teach them of strength, and the tenets of battle. That this humble wish should spark, we pledge to never divulge the secrets of the past."'' He then gave him the name of [[Teach]], and made him an educator.
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius G
+|image        = Moebius G.jpg
+|caption      = Moebius G
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 27
+|area         = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Transcendent Retreat]])
+|spawntime    = During ''[[Going Beyond Power]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 1,280
+|cp           = 400
+|sp           = 0
+|gold         = 0
+|hp           = 641,700
+|strength     = 538
+|healing      = 183
+|dexterity    = 82
+|agility      = 70
+|physdef      = 30%
+|ethdef       = -20%
+|critrate     = 10%
+|guardrate-front   = 15%
+|guardrate-side    = 15%
+|guardrate-back    = 0%
+}}
+'''Moebius G''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Moebius]] and is fought at level 27 at [[Transcendent Retreat]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] during ''[[Going Beyond Power]]''.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 90%
+|etherdebuff = 75%
+}}
+{{clr}}
+
+== Trivia ==
+* His mask looks similar to the [[wikipedia:Flatwoods_monster|Flatwoods Monster]].
+* Consul G's Moebius form model is shared with Consul [[O]].
+
+== Gallery ==
+&lt;gallery&gt;
+Consuls G R and U.jpg|Consul and Moebius G Concept Artwork
+File:XC3-Consul G.png|Consul G Artwork
+File:XC3-Moebius G.png|Moebius G Artwork
+&lt;/gallery&gt;
+{{clr}}
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>od79try5ufbittjo81amw0yg4vlzz0b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gale Leg Frame</title>
+    <ns>0</ns>
+    <id>122611</id>
+    <revision>
+      <id>592776</id>
+      <parentid>592342</parentid>
+      <timestamp>2023-05-15T20:15:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592776</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1070" sha1="skh4pvidbju5bk08dujyxkblxspfgpa" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gale Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt by 35% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7740 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gale Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt by 40% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7740 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gale Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts damage dealt by 45% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7740 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gale Leg Frames''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>skh4pvidbju5bk08dujyxkblxspfgpa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gallivanter Buckley</title>
+    <ns>0</ns>
+    <id>118679</id>
+    <revision>
+      <id>583296</id>
+      <parentid>574364</parentid>
+      <timestamp>2023-04-17T15:31:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1395" sha1="esd3biwztmogmuflb54g846exsjrht1" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Gallivanter Buckley
+|image        = XC3 Gallivanter Buckley.png
+|caption      = Gallivanter Buckley
+|type         = [[Hox]]
+|level        = 30
+|area         = [[Great Cotte Falls]] ([[Titan Rock]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 465
+|cp           = 214
+|sp           = 5
+|gold         = 500
+|hp           = 536,800
+|strength     = 403
+|healing      = 263
+|dexterity    = 145
+|agility      = 129
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 23%
+|guardrate-front = 5%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Gallivanter Buckley''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Hox]] family, and can be found at level 30 near the [[Titan Rock]] at [[Great Cotte Falls]]. The [[Soulhacker#Enemy Skills|Sandsmoke]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 60%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Gallivanter buckley location.png
+Gallivanter buckley.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Hoxes]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>esd3biwztmogmuflb54g846exsjrht1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Galloping Ghuldan</title>
+    <ns>0</ns>
+    <id>119493</id>
+    <revision>
+      <id>583297</id>
+      <parentid>574366</parentid>
+      <timestamp>2023-04-17T15:32:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1386" sha1="a4x46ycu9qyya72h1adst1j8hglbstj" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Galloping Ghuldan
+|image        = XC3 Galloping Ghuldan.png
+|caption      = Galloping Ghuldan
+|type         = [[Ellook]]
+|level        = 56
+|area         = [[Erythia Sea]] ([[Farlaine Underpass]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,452
+|cp           = 289
+|sp           = 5
+|gold         = 844
+|hp           = 1,692,600
+|strength     = 1,482
+|healing      = 2,142
+|dexterity    = 250
+|agility      = 232
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 38%
+|guardrate    = 10%
+}}
+'''Galloping Ghuldan''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ellook]] family, and can be found at level 56 near the [[Lost Colony]] in [[Farlaine Underpass]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Apothecary's Wisdom]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 60%
+|physdebuff = 50%
+|etherdebuff = 80%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Galloping ghuldan location.png
+Galloping ghuldan.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ellooks]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>a4x46ycu9qyya72h1adst1j8hglbstj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Garaffa</title>
+    <ns>0</ns>
+    <id>75399</id>
+    <revision>
+      <id>601999</id>
+      <parentid>600739</parentid>
+      <timestamp>2023-07-22T12:22:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1908" sha1="l1um8fb6i0wuradd74egxswqcnwfl03" xml:space="preserve">[[file:Supercharged Alfonso.png|thumb|150px|Supercharged Alfonso]]
+'''Garaffas''' are a family of enemies in the {{XC|serieslink}}. They resemble giraffe and catfish hybrid creatures, and come in red and green varieties. 
+
+== {{XC2|-}} ==
+In {{XC2}}, green Garaffas are found in grassy areas such as [[Gormott Province]], whilst red Garaffas are only found in the [[Kingdom of Uraya]].
+=== Normal Minor Enemies ===
+* [[Glaw Garaffa]]
+* [[Mailoo Garaffa (XC2)|Mailoo Garaffa]]
+
+=== Unique Monster ===
+* [[Supercharged Alfonso]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Burgill Garaffa]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Marna Garaffa]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Cuyask Garaffa]]
+* [[Mailoo Garaffa (XC3)|Mailoo Garaffa]]
+* [[Rasheen Garaffa]]
+* [[Segaro Garaffa]]
+
+=== Quest Exclusive Enemy ===
+* [[Kaalm Garaffa]] (During ''[[Third Day of Prison]]'')
+
+=== Unique Monster ===
+* [[Sundappled Floria]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Cuyask Garaffa]]
+* [[Dark Garaffa]] ([[Fogbeast]])
+* [[Rasheen Garaffa]]
+* [[Segaro Garaffa]]
+* [[Shadow Garaffa]] (Fogbeast)
+
+=== Unique Monster ===
+* [[Fogtrawler Tallstuff]] (Fogbeast)
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+XC2 Mailoo Garaffa.png|Mailoo Garaffa
+Burgill Garaffa.jpg|Burgill Garaffa
+GlawGaraffa.jpg|Glaw Garaffa
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+MarnaGaraffa.jpg|Marna Garaffa
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Mailoo Garaffa.jpg|Mailoo Garaffa
+XC3 Sundappled Floria.png|Sundappled Floria
+&lt;/gallery&gt;
+
+[[Category:XC2 Species]]
+[[Category:XC2 Garaffas]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Garaffas]]
+[[Category:XC3 Species]]
+[[Category:XC3 Garaffas]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Garaffas]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Garaffas]]
+[[Category:Species by Type]]</text>
+      <sha1>l1um8fb6i0wuradd74egxswqcnwfl03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Garnet (XC3)</title>
+    <ns>0</ns>
+    <id>118952</id>
+    <revision>
+      <id>592777</id>
+      <parentid>592549</parentid>
+      <timestamp>2023-05-15T20:15:04Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592777</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1077" sha1="41kmj290e544pfzaz8r4vfq5a4y6t1q" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Garnet (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Garnet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 10% for every enemy in battle (max. 200%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2110 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Garnet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 11% for every enemy in battle (max. 200%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2110 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Garnet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage by 12% for every enemy in battle (max. 200%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2110 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Garnets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>41kmj290e544pfzaz8r4vfq5a4y6t1q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Garvel</title>
+    <ns>0</ns>
+    <id>122963</id>
+    <revision>
+      <id>598013</id>
+      <parentid>597991</parentid>
+      <timestamp>2023-07-03T09:33:13Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>formatting</comment>
+      <origin>598013</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2716" sha1="kcmdawvx6yt9c2vg0o9spie8f0ulf3s" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Garvel
+|image        = Garvel.png
+|species      = [[Keves]]i human
+|age          = 2nd Term 
+|gender       = Male
+|haircolor    = Silver
+|eyecolor     = Blue
+|affiliation  = [[Colony 14]] (formerly)&lt;br/&gt;[[Colony 8]] (formerly)&lt;br/&gt;[[H's Colony]] (formerly)&lt;br/&gt;[[Colony 4]]
+|voiceactorjp = [[wikipedia:Gakuto Kajiwara|Gakuto Kajiwara]]
+|voiceactoreng= [[wikipedia:Brenock O'Connor|Brenock O'Connor]]
+|appearances  = {{XC3}}
+}}
+'''Garvel''' (Japanese: {{lang|jp|&#12466;&#12475;&#12523;}}, ''Gesell'') is a character in {{XC3}}.
+
+== Overview ==
+Garvel was a childhood rival of [[Noah]] and his friends at [[Colony 14]], his squad was composed of [[Kite]], [[Hoope]] and [[Layla]]. He died during the war with [[Agnus]] after moving to [[Colony 8]], and was later reborn as a soldier of [[H's Colony]] alongside Hoope and Layla. After [[Lanz]] and the party defeat [[Consul]] [[H]], he is freed from the control of her Colony's [[Flame Clock]] and is sent to [[Colony 4]] before being transferred to [[Colony 9 (XC3)|Colony 9]].
+{{clr}}
+
+== Battle ==
+{{Infobox Enemy
+|name         = Garvel
+|image        = Team Garvel.png
+|caption      = Garvel (Center)
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 47
+|area         = [[Great Sword's Base]] ([[Cradle Convoy Shelter]])
+|spawntime    = During ''[[Side Story: Lanz]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Garvel''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is a [[Keves Forces|Keves Soldier]] who is fought at level 47 at the [[Cradle Convoy Shelter]] at the [[Great Sword's Base]] during ''[[Side Story: Lanz]]''.
+{{clr}}
+
+== Quotes ==
+* ''"Don't underestimate the elite!"''
+* ''"Elite! That's me!"''
+* ''"GET IT RIGHT!"''
+* ''"Have some!"''
+* ''"Snuff this!"''
+* ''"Hoope, your aim sucks!"''
+* ''"You're our shield, Layla! Act like it!"''
+* ''"Retreat?! NEVER!"''
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+Garvel Crys Concept Art.png|Garvel's Concept Art
+&lt;/gallery&gt;
+=== In-Game Renders ===
+&lt;gallery&gt;
+XC3 Garvel Icon.png|Garvel's Affinity chart icon
+&lt;/gallery&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Supporting Characters]]
+[[Category:Fornis Region NPCs]]
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>kcmdawvx6yt9c2vg0o9spie8f0ulf3s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gast Urchon (XC3)</title>
+    <ns>0</ns>
+    <id>121824</id>
+    <revision>
+      <id>564660</id>
+      <parentid>560316</parentid>
+      <timestamp>2022-11-06T01:53:19Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564660</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="881" sha1="n2kpjfy3dtlen7mgfkzyqx1p57u9vuo" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Gast Urchon (XC2)}}
+{{Infobox Enemy
+|name         = Gast Urchon
+|image        = 
+|caption      = Gast Urchon
+|category     = Minor Enemy
+|type         = [[Urchon]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Gast Urchons''' are Minor Enemies in {{XC3}}. They are members of the [[Urchon]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Urchons]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>n2kpjfy3dtlen7mgfkzyqx1p57u9vuo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gastrates</title>
+    <ns>0</ns>
+    <id>122287</id>
+    <revision>
+      <id>579851</id>
+      <parentid>579825</parentid>
+      <timestamp>2023-03-21T01:31:25Z</timestamp>
+      <contributor>
+        <username>Sum41Champ</username>
+        <id>50779440</id>
+      </contributor>
+      <comment>I Don't think they're supposed to be capital</comment>
+      <origin>579851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1247" sha1="p8iwp70l6lhzoxkhtuf4b3ths60y5es" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Gastrates
+|image        = Gastrates.jpg
+|caption      = Gastrates
+|category     = Minor Enemy
+|type         = [[Levnis]]
+|level        = 38-39&lt;br/&gt;66-67
+|area         = [[Syra Hovering Reefs]]&lt;br /&gt;[[Erythia Sea]] ([[Lavi Sandbar]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Gastrates''' are minor enemies in {{XC3}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 38-39 near the south entrance to [[Keves Castle]] in the [[Syra Hovering Reefs]], near [[Protector Revelta]]. They can also be found at level 66-67 on the south-eastern side of [[Lavi Sandbar]] in [[Erythia Sea]].
+
+[[Valdi]]'s Levnis project [[Dorrick]] is a type of Gastrates Levnis.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>p8iwp70l6lhzoxkhtuf4b3ths60y5es</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gauntlet: Beginner</title>
+    <ns>0</ns>
+    <id>125627</id>
+    <revision>
+      <id>577372</id>
+      <parentid>577357</parentid>
+      <timestamp>2023-02-18T18:35:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Added bosses</comment>
+      <origin>577372</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1462" sha1="4ku8p6hou7zy7osxxy9nxgu9tdj9e0w" xml:space="preserve">{{Infobox quest
+|name          = Gauntlet: Beginner
+|image         = XC3 Challenge Battle Mode.png
+|description   = "Heroes that friends ally with in world outside, can then recruit in shop during run. Cross finish line together!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = 
+|difficultyCB3 = 2
+|rewards       = 
+}}
+'''Gauntlet: Beginner''' is an [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge ]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the third part of the Expansion Pass. Clearing this challenge with at least a B rank for the first time will unlock the Throwback A [[Clothing|outfit]] for [[Sena]] and clearing with at least A rank for the first will unlock the Throwback A outfit for [[Lanz]].
+
+== Challenge Rules ==
+{| class="xc1"
+|Stages||30
+|-
+|Level Restriction||Lv 30
+|-
+|Other Rules||No events or whimsy
+|}
+
+== Rank Requirements ==
+{| class="xc1"
+!Rank
+!Requirement
+|-
+|S
+|Stage 30 reached
+|-
+|A
+|Stage 20 reached
+|-
+|B
+|Stage 10 reached
+|}
+
+== Bosses ==
+{| class="xc1"
+!Stage
+!Boss
+!Level
+|-
+| 10 || [[Supreme Blant]] || 30
+|-
+| rowspan="2" | 20 || [[Mhamamia Antol]] || 35
+|-
+| [[Army Arachno]] x3 || 35
+|-
+| rowspan="2" | 30 || [[Rabejan Darbus]] || 40
+|-
+| [[Cherys Medooz (XC3)|Cherys Medooz]] x2 || 40
+|}
+
+{{xc3 stub}}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>4ku8p6hou7zy7osxxy9nxgu9tdj9e0w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gauntlet: Intermediate</title>
+    <ns>0</ns>
+    <id>125630</id>
+    <revision>
+      <id>582338</id>
+      <parentid>577376</parentid>
+      <timestamp>2023-04-10T15:56:36Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Unlock req</comment>
+      <origin>582338</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1909" sha1="futiqqt04vwvli0vdr7t1dq7l5lp4eu" xml:space="preserve">{{Infobox quest
+|name          = Gauntlet: Intermediate
+|image         = XC3 Challenge Battle Mode.png
+|description   = "From intermediate on, events and whims of Archsage will affect run! Skill AND luck of friends put to test!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Chapter 6 started
+|difficultyCB3 = 4
+|rewards       = 
+}}
+'''Gauntlet: Intermediate''' is an [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be challenged by talking to the [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from Vol. 3 of the Expansion Pass. Clearing this challenge with at least a B rank for the first time will unlock the Throwback A [[Clothing|outfit]] for [[Taion]] and clearing with at least A rank for the first will unlock the Throwback A outfit for [[Eunie]].
+
+== Challenge Rules ==
+{| class="xc1"
+|Stages||50
+|-
+|Level Restriction||Lv 50
+|-
+| rowspan="2" | Other Rules || Chance of events and whimsy
+|-
+| More shop-oriented whimsy
+|}
+
+== Rank Requirements ==
+{| class="xc1"
+!Rank
+!Requirement
+|-
+|S
+|Stage 50 reached
+|-
+|A
+|Stage 30 reached
+|-
+|B
+|Stage 20 reached
+|}
+
+== Bosses ==
+{| class="xc1"
+!Stage
+!Boss
+!Level
+|-
+| 10 || [[Menaas Aspar]] || 50
+|-
+| rowspan="6" | 20 || [[Diggel Grebel (XC3)|Diggel Grebel]] || 55
+|-
+| [[Agam Grebel (XC3)|Agam Grebel]] || 55
+|-
+| [[Ordo Grebel]] || 55
+|-
+| [[Chapi Kapiba]] || 55
+|-
+| [[Meroko Kapiba]] || 55
+|-
+| [[Papillico Kapiba]] || 55
+|-
+| 30 || [[Lepus]] || 60
+|-
+| rowspan="4" | 40 || [[Aggy#Challenge Battle Mode|Aggy]] || 65
+|-
+| [[Oggy#Challenge Battle Mode|Oggy]] || 65
+|-
+| [[Lost Fighter]] || 65
+|-
+| [[Lost Protector]] || 65
+|-
+| rowspan="2" | 50 || [[Yolmun Drague#Challenge Battle Mode|Yolmun Drague]] || 70
+|-
+| [[Wett Upa]] x2 || 70
+|}
+
+{{xc3 stub}}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>futiqqt04vwvli0vdr7t1dq7l5lp4eu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gauntlet: Pro</title>
+    <ns>0</ns>
+    <id>125632</id>
+    <revision>
+      <id>582337</id>
+      <parentid>580645</parentid>
+      <timestamp>2023-04-10T15:55:18Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Unlock prereq</comment>
+      <origin>582337</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4481" sha1="fpk4tktono41zrdd7fzi38hhib5yt1s" xml:space="preserve">{{Infobox quest
+|name          = Gauntlet: Pro
+|image         = XC3 Challenge Battle Mode.png
+|description   = "At pro level, road to victory eeeeven looonger! Strengthen Emblems at Prize X-change for key to success!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main Story completed
+|difficultyCB3 = 5
+|rewards       = 
+}}
+'''Gauntlet: Pro''' is an [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] in {{XC3}}. It can be challenged by talking to the [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from Vol. 3 of the Expansion Pass. Clearing this challenge with at least B rank for the first time will unlock the Throwback A [[Clothing|outfit]] for [[Mio]] and clearing with at least A rank for the first will unlock the Throwback A outfit for [[Noah]].
+
+After Stage 70, enemy attacks will deal irreducible extra damage and the [[Invincible (XC3)|Invincible]] buff will have no effect.
+
+== Challenge Rules ==
+{| class="xc1"
+|Stages||140
+|-
+|Level Restriction||Lv. 70
+|-
+|Other Rules||Chance of events or whimsy
+|}
+
+== Rank Requirements ==
+{| class="xc1"
+!Rank
+!Requirement
+|-
+|S
+|Stage 70 reached
+|-
+|A
+|Stage 50 reached
+|-
+|B
+|Stage 30 reached
+|}
+
+== Bosses ==
+{| class="xc1"
+!Stage
+!Boss
+!Level
+|-
+| 10 || [[Lodmoro Plambus]] || 70
+|-
+| rowspan="2" | 20 || [[Crane Serprond (XC3)|Crane Serprond]] || 75
+|-
+| [[Zeoth Serprond (XC3)|Zeoth Serprond]] || 75
+|-
+| 30 || [[Joran#Challenge Battle Mode|Consul J]] || 80
+|-
+| 40 || [[Jarack Vvarga]] || 85
+|-
+| 50 || [[Crys#Challenge Battle Mode|Consul Crys]] || 90
+|-
+| rowspan="2" | 60 || [[D#Challenge Battle Mode|Moebius D]] || 95
+|-
+| [[Joran#Challenge Battle Mode|Moebius J]] || 95
+|-
+| 70 || [[Moebius D &amp; J#Challenge Battle Mode|Moebius D &amp; J]] || 100
+|-
+| rowspan="3" | 80 || [[Lodmoro Plambus]] || 105
+|-
+| [[Segaro Garaffa]] || 105
+|-
+| [[Cuyask Garaffa]] || 105
+|-
+| rowspan="3" | 90 || [[Crane Serprond (XC3)|Crane Serprond]] || 110
+|-
+| [[Grilan Moglum]] || 110
+|-
+| [[Broon Moglum]] || 110
+|-
+| rowspan="2" | 100 || [[X#Challenge Battle Mode|Consul X]] || 115
+|-
+| [[Joran#Challenge Battle Mode|Consul J]] || 115
+|-
+| rowspan="4" | 110 || [[Jarack Vvarga]] || 120
+|-
+| [[Illumi Skeeter (XC3)|Illumi Skeeter]] || 120
+|-
+| [[Illumi Wisp]] || 120
+|-
+| [[Kroda Flier]] || 120
+|-
+| rowspan="2" | 120 || [[Crys#Challenge Battle Mode|Consul Crys]] || 130
+|-
+| [[Queen of Keves (boss)#Challenge Battle Mode|Queen of Keves]] || 130
+|-
+| rowspan="3" | 130 || [[D#Challenge Battle Mode|Moebius D]] || 140
+|-
+| [[Joran#Challenge Battle Mode|Moebius J]] || 140
+|-
+| [[Moebius Puppet]] x2 || 140
+|-
+| rowspan="2" | 140 || [[Moebius D &amp; J#Challenge Battle Mode|Moebius D &amp; J]] || 150
+|-
+| [[Moebius O &amp; P#Challenge Battle Mode|Moebius O &amp; P]] || 150
+|}
+
+== Moebius Intervention ==
+Moebius Intervention is a unique event that can only occur during ''Gauntlet: Pro''. When this event occurs, a [[Moebius]] enemy will appear alongside the stage's other enemies. The summoned Moebius is determined by the stage number:
+
+{| class="xc1"
+!Enemy
+!Stages
+!Levels
+|-
+| [[B#Archsage's Gauntlet|Moebius B]]
+| 4-6, 21-26, 57-59, 61-63, 87-89, 91-93, 107-109, 111-113, 127-129, 131-133
+| 66, 76-77, 92, 96, 108, 111, 118, 122, 136, 142
+|-
+| [[E#Archsage's Gauntlet|Moebius E]]
+| 14-16, 47-49, 77-79
+| 72, 88, 103
+|-
+| [[G#Archsage's Gauntlet|Moebius G]]
+| 11-13, 27-29, 44-47, 57-59, 74-76, 87-89, 107-109, 127-129
+| 71, 78, 87, 92, 102, 108, 118, 136
+|-
+| [[H#Archsage's Gauntlet|Moebius H]]
+| 1-3, 17-19
+| 65, 72-73
+|-
+| [[Irma#Archsage's Gauntlet|Moebius I]]
+| 24-26, 47-49, 54-56, 77-79, 84-86, 104-106, 124-126
+| 77, 88, 93, 103, 107, 117, 134
+|-
+| [[L#Archsage's Gauntlet|Moebius L]]
+| 4-6, 17-19, 21-23, 31-33
+| 66, 73, 76, 81
+|-
+| [[Q#Archsage's Gauntlet|Moebius Q]]
+| 61-63, 67-69, 91-93, 97-99, 111-113, 117-119, 131-133, 137-139
+| 96, 98, 111, 113, 122, 126, 142, 146
+|-
+| [[R#Archsage's Gauntlet|Moebius R]]
+| 67-69, 97-99, 117-119, 137-139
+| 98, 113, 126, 146
+|-
+| [[U#Archsage's Gauntlet|Moebius U]]
+| 31-33, 41-43, 71-73
+| 81, 86, 101
+|-
+| [[V#Archsage's Gauntlet|Moebius V]]
+| 11-13, 27-29, 41-47, 54-56, 71-76, 84-86, 104-106, 124-126
+| 71, 78, 86-87, 93, 101-102, 107, 117, 134
+|-
+| [[W#Archsage's Gauntlet|Moebius W]]
+| 6-10, 20, 30, 34-40, 50-53, 60, 64-66, 70, 80-83, 90, 94-96, 100-103, 110, 114-116, 120-123, 130, 134-136, 140
+| 67-150
+|}
+
+{{xc3 stub}}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>fpk4tktono41zrdd7fzi38hhib5yt1s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gear Support</title>
+    <ns>0</ns>
+    <id>118953</id>
+    <revision>
+      <id>592778</id>
+      <parentid>592269</parentid>
+      <timestamp>2023-05-15T20:15:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592778</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="945" sha1="je03eqeq82b6iwkriu38z1fpfwk9ivr" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Gear Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Gear Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 21%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Gear Support
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Agility by 22%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2330 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Gear Supports''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>je03eqeq82b6iwkriu38z1fpfwk9ivr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gegl Quadwing (XC3)</title>
+    <ns>0</ns>
+    <id>121012</id>
+    <revision>
+      <id>573731</id>
+      <parentid>560107</parentid>
+      <timestamp>2023-01-24T03:01:57Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573731</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="mww2kt1yxr0rec4cja9xov4rnwl2hb6" xml:space="preserve">{{for|other uses|Gegl Quadwing}}
+{{Infobox Enemy
+|name         = Gegl Quadwing
+|image        = 
+|caption      = Gegl Quadwing
+|category     = Minor Enemy
+|type         = [[Quadwing]]
+|level        = 43
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Gegl Quadwings''' are Minor Enemies in {{XC3}}. They are members of the [[Quadwing]] family, and can be found at level 43 at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>mww2kt1yxr0rec4cja9xov4rnwl2hb6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gem</title>
+    <ns>0</ns>
+    <id>5017</id>
+    <revision>
+      <id>598545</id>
+      <parentid>595287</parentid>
+      <timestamp>2023-07-08T22:38:05Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <origin>598545</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28905" sha1="ab9twvl4m78narw26l87z6qprlc80b3" xml:space="preserve">{{spoiler}}
+'''Gems''' (Japanese: {{lang|ja|&#12472;&#12455;&#12512;}}, ''Jemu'') are a type of equipment in the {{XC|serieslink}}. 
+
+== {{XC|-}} ==
+In {{XC}}, Gems provide a mechanical bonus of some sort, such as increasing [[Strength]] by 20, or resisting 50% of [[Spike (status)|Spike]] [[Damage (XC1)|Damage]]. They are activated by equipping them on [[Weapons (XC1)|Weapons]] or [[Armour]] which have gem slots. Many weapons and armour are available both with and without gem slots. Alternatively, some weapons and armour, called [[Unique]] items, have gems permanently attached to them.
+
+Each piece of armour can hold up to one gem, and a weapon can hold up to three gems. Thus a character can equip up to eight gems. Some gems can only be equipped on one type of equipment - either weapons or armour, while others can be equipped on both weapons and armour.
+
+=== Acquiring Gems ===
+Gems can be acquired in a number of ways. Gems are often given as a reward for completing a [[Quest (XC1)|Quest]] or a section of the [[Collectopaedia (XC1)|Collectopaedia]]. Many NPCs have gems available for [[Trading]].
+
+==== Gem Crafting ====
+{{Main|Gem Crafting}}
+Gems can be [[Gem Crafting|crafted]] by combining [[Ether Crystal (XC1)|Ether Crystals]] or [[Ether Cylinder (Gem Crafting)|Ether Cylinders]] in an Ether Furnace. Ether crystals are dropped by enemies, or collected through [[Mining]]. [[Mechon]] and other mechanical enemies drop ether cylinders instead of ether crystals.
+
+When crafting a gem, two characters work together. One character serves as the Shooter and the other serves as the Engineer. Each character has different strengths and weaknesses in each role. If there is high party affinity, characters who are not crafting may also help, which can result in higher quality gems.
+
+Each gem's page lists where to find gems and crystals. Additionally, mining locations are listed on each area's page and a complete list of all mining locations in {{XC|-}} can be found [[List of mining locations|on this page]].
+
+=== Value ===
+A gems's selling price depends on its rank and effects. The gem's effect tends to factor more prominently in its value than its rank. For instance, a Rank III [[Heat Sink]] gem is 4&#215; as valuable than a Rank VI [[Agility Up]] gem, while a Rank VI Heat Sink gem is only 1.7&#215; as valuable than a Rank III Heat Sink gem.
+
+Farming gems to sell for [[gold]] is not a viable means of collecting gold quickly because of how this works. The more common types of gems that can be found early on in the game, as well as lower rank gems, will sell for negligible amounts of gold. The most valuable gem in the game which is not dropped by a [[superboss]], [[Debuff Resist|Debuff Resist VI]], sells for 6,875 G (8,250 G with [[Riki]]'s [[Riki#Flexibility|Buy Stuff!]] skill), which is far more than most other rank VI gems but a lot less than many other late game materials and unique equipment. In general, selling excess equipment and materials throughout the game will net much more gold than selling gems.
+
+The individual gem pages list the base value (sell price) of a Rank I gem. The values for higher ranks of gems are calculated as follows:
+
+{| class="xc1 centered"
+! style="width: 90px"|Rank
+! style="width: 120px"|Value
+|-
+| [[File:Gem Rank 1.png|center|50px|link=:Category:Gems|Rank I]]
+| style="vertical-align: middle;" | base value
+|-
+| [[File:Gem Rank 2.png|center|50px|link=:Category:Gems|Rank II]]
+| style="vertical-align: middle;" | 1.2 &#215; base value
+|-
+| [[File:Gem Rank 3.png|center|50px|link=:Category:Gems|Rank III]]
+| style="vertical-align: middle;" | 1.5 &#215; base value
+|-
+| [[File:Gem Rank 4.png|center|50px|link=:Category:Gems|Rank IV]]
+| style="vertical-align: middle;" | 1.8 &#215; base value
+|-
+| [[File:Gem Rank 5.png|center|50px|link=:Category:Gems|Rank V]]
+| style="vertical-align: middle;" | 2.0 &#215; base value
+|-
+| [[File:Gem Rank 6.png|center|50px|link=:Category:Gems|Rank VI]]
+| style="vertical-align: middle;" | 2.5 &#215; base value
+|}
+
+=== Type ===
+Gems are divided into types based on their mechanical effects. More details, including descriptions, stat breakdowns, and locations for all variations of a gem can be found on each gem's page.
+
+==== Attribute ====
+Gems in this category increase a character's basic game statistics.
+{| class="xc1 sortable" style="width: 100%"
+|-
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Element
+! style="width: 60px;" |Max. [[#MaxNote|&#8224;]]
+! style="width: 270px;" |Effect
+|-
+| '''[[Strength Up]]'''
+| Equipment
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 150
+| Increases [[Strength]].
+|-
+| '''[[Agility Up]]'''
+| Equipment
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 50
+| Increases [[Agility]].
+|-
+| '''[[Ether Up]]'''
+| Equipment
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 150
+| Increases [[Ether]].
+|-
+| '''[[Muscle Up]]'''
+| Equipment
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 100
+| Increases [[Physical Defence]].
+|-
+| '''[[Ether Def Up]]'''
+| Equipment
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 100
+| Increases [[Ether Defence]].
+|-
+| '''[[HP Up]]'''
+| Equipment
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 50%
+| Increases max [[Hit Points (XC1)|HP]].
+|-
+| '''[[Critical Up (XC1)|Critical Up]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 25%
+| Increases [[Critical Hit]] Rate.
+|-
+| '''[[Attack Stability]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 50%
+| Increases Weapon Minimum [[Attack]] Damage.
+|-
+| '''[[Attack Plus]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 50%
+| Increases Weapon Maximum [[Attack]] Damage.
+|}
+
+==== Attack ====
+Gems in this category modify attacks in some way. This category also includes Gems that debuff enemies.
+{| class="xc1 sortable" style="width: 100%"
+|-
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Element
+! style="width: 60px;" |Max. [[#MaxNote|&#8224;]]
+! style="width: 270px;" |Effect
+|-
+| '''[[Electric Plus]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 100%
+| Increases electric damage.
+|-
+| '''[[Double Attack (XC1)|Double Attack]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 50%
+| Grants a chance to attack twice when [[Auto-Attack (XC1)|auto-attacking]].
+|-
+| '''[[Spike (XC1)|Spike]]'''
+| Armour
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 250
+| Deals [[Spike (status)|spike]] damage to enemies when attacked.
+|-
+| '''[[Bleed Attack]]'''
+| Weapon
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 250
+| Adds [[Bleed (XC1)|Bleed]] effect to attacks.
+|-
+| '''[[Blaze Attack]]'''
+| Weapon
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 400
+| Increases chance of [[Auto-Attack (XC1)|auto-attack]] dealing extra [[Blaze (XC1)|Blaze]] damage.
+|-
+| '''[[Chill Attack]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 300
+| Increases chance of [[Auto-Attack (XC1)|auto-attacks]] dealing extra [[Chill]] damage.
+|-
+| '''[[Poison Attack]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 500
+| Increases chance of [[Auto-Attack (XC1)|auto-attacks]] dealing extra [[Poison]] damage.
+|-
+| '''[[Lightning Attack]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 500
+| Deals electric damage when [[Auto-Attack (XC1)|auto-attacking]].
+|-
+| '''[[Daze Up]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 100%
+| Increases damage to [[Daze (XC1)|Daze]]d enemies.
+|-
+| '''[[Topple Up]]'''
+| Weapon
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 100%
+| Increases damage on [[Topple (XC1)|Toppled]] enemies.
+|-
+| '''[[Bleed Plus]]'''
+| Weapon
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 100%
+| Increases [[Bleed (XC1)|Bleed]] damage.
+|-
+| '''[[Blaze Plus]]'''
+| Weapon
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 100%
+| Increases [[Blaze (XC1)|Blaze]] damage.
+|-
+| '''[[Chill Plus]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 100%
+| Increases [[Chill]] damage.
+|-
+| '''[[Poison Plus]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 100%
+| Increases [[Poison]] damage.
+|-
+| '''[[Strength Down]]'''
+| Weapon
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 25%
+| Grants a chance to lower enemy's [[Strength]].
+|-
+| '''[[Agility Down]]'''
+| Weapon
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 25%
+| Raises chance of an [[Auto-Attack (XC1)|auto-attack]] reducing enemy's [[Agility]].
+|-
+| '''[[Ether Down]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 25%
+| Raises chance of an [[Auto-Attack (XC1)|auto-attack]] reducing enemy's [[Ether]].
+|-
+| '''[[Slow]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 25%
+| Raises chance of an [[Auto-Attack (XC1)|auto-attack]] inflict [[Slow (debuff)|Slow]].
+|-
+| '''[[Bind (XC1)|Bind]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 25%
+| Raises chance of an [[Auto-Attack (XC1)|auto-attack]] inflicting [[Bind (debuff)|Bind]].
+|-
+| '''[[HP Steal]]'''
+| Weapon
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 200
+| Raises the chance of an [[Auto-Attack (XC1)|auto-attack]] recovering HP.
+|-
+| '''[[Paralysis (gem)|Paralysis]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 25%
+| Raises chance of an [[Auto-Attack (XC1)|auto-attack]] inflict [[Paralysis (debuff)|Paralysis]].
+|-
+| '''[[Break (gem)|Break]]'''
+| Weapon
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 25%
+| Raises chance of an [[Auto-Attack (XC1)|auto-attack]] inflict [[Break (status)|Break]].
+|-
+| '''[[Phys Def Down (XC1)|Phys Def Down]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 25%
+| Raises chance of an [[Auto-Attack (XC1)|auto-attack]] reducing enemy's [[Physical Defence]].
+|-
+| '''[[Ether Def Down]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 25%
+| Grants a chance of successful attacks reducing enemy's [[Ether Defence]].
+|-
+| '''[[First Attack Plus]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 150%
+| Increases damage on the first attack of combat.
+|-
+| '''[[Back Atk Plus]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 100%
+| Increases damage from attacks behind enemies.
+|}
+
+==== Defence ====
+Gems in this category modify a character's defences.
+{| class="xc1 sortable" style="width: 100%"
+|-
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Element
+! style="width: 60px;" |Max. [[#MaxNote|&#8224;]]
+! style="width: 270px;" |Effect
+|-
+| '''[[Slow Resist]]'''
+| Armour
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 100%
+| Increases [[Slow (debuff)|Slow]] resistance.
+|-
+| '''[[Bind Resist]]'''
+| Armour
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 100%
+| Increases [[Bind (debuff)|Bind]] resistance.
+|-
+| '''[[Paralysis Resist]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 100%
+| Increases [[Paralysis (debuff)|Paralysis]] resistance.
+|-
+| '''[[Sleep Resist]]'''
+| Armour
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 100%
+| Increases [[Sleep (XC1)|Sleep]] resistance.
+|-
+| '''[[Confuse Resist]]'''
+| Armour
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 100%
+| Increases [[Confuse]] resistance.
+|-
+| '''[[Arts Seal Resist]]'''
+| Armour
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 100%
+| Increases [[Arts Seal]] resistance.
+|-
+| '''[[Daze Resist]]'''
+| Armour
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 100%
+| Increases [[Daze (XC1)|Daze]] resistance.
+|-
+| '''[[Topple Resist (XC1)|Topple Resist]]'''
+| Armour
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 100%
+| Increases [[Topple (XC1)|Topple]] resistance.
+|-
+| '''[[Lock-On Resist]]'''
+| Armour
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 100%
+| Increases [[Lock-On (status)|Lock-On]] resistance.
+|-
+| '''[[Pierce Resist]]'''
+| Armour
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 100%
+| Increases [[Pierce]] resistance.
+|-
+| '''[[Divine Protect]]'''
+| Armour
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 100%
+| Increases [[Instant Death]] resistance.
+|-
+| '''[[Debuff Resist]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 100%
+| Resistance against all [[Debuff|status]] ailments, except [[Topple (XC1)|Topple]] and [[Daze (XC1)|Daze]].
+|-
+| '''[[Good Footing]]'''
+| Armour
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 100%
+| Increases [[Blow-Down]] resistance.
+|-
+| '''[[Bleed Defence]]'''
+| Armour
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 100%
+| Reduces [[Bleed (XC1)|Bleed]] damage taken.
+|-
+| '''[[Blaze Defence]]'''
+| Armour
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 100%
+| Reduces [[Blaze (XC1)|Blaze]] damage taken.
+|-
+| '''[[Chill Defence]]'''
+| Armour
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 100%
+| Decreases [[Chill]] damage taken.
+|-
+| '''[[Poison Defence]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 100%
+| Reduces [[Poison]] damage taken.
+|-
+| '''[[Spike Defence]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 100%
+| Reduces [[Spike (status)|Spike]] damage taken.
+|-
+| '''[[Physical Protect]]'''
+| Armour
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 50%
+| Activated at the start of a battle.
+
+Reduces physical damage.
+|-
+| '''[[Ether Protect]]'''
+| Armour
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 50%
+| Activated at the start of a battle.
+
+Reduces ether damage.
+|-
+| '''[[Auto-Atk Stealth]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 50%
+| Reduces accumulated aggro from [[Auto-Attack (XC1)|auto-attacks]].
+|-
+| '''[[Arts Stealth (XC1)|Arts Stealth]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 50%
+| Reduces accumulated [[Aggro]] from using [[Battle Arts (XC1)|Arts]].
+|}
+
+==== Support ====
+Gems in this category aid the character in ways not related to movement or dealing damage.
+{| class="xc1 sortable" style="width: 100%"
+|-
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Element
+! style="width: 60px;" |Max. [[#MaxNote|&#8224;]]
+! style="width: 270px;" |Effect
+|-
+| '''[[Haste]]'''
+| Weapon
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 50%
+| Increases frequency of [[Auto-Attack (XC1)|auto-attack]].
+|-
+| '''[[Damage Heal (XC1)|Damage Heal]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 200
+| Chance to recover [[Hit Points (XC1)|HP]] when attacked.
+|-
+| '''[[Recovery Up (XC1)|Recovery Up]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 50%
+|  [[Hit Points (XC1)|HP]] Recovery amount increased.
+|-
+| '''[[Aura Heal]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 150
+|  Restores [[Hit Points (XC1)|HP]] every 2 seconds while an Aura is active.
+|-
+| '''[[Arts Heal (XC1)|Arts Heal]]'''
+| Weapon
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 150
+| Using [[Battle Arts (XC1)|Arts]] recovers [[Hit Points (XC1)|HP]].
+|-
+| '''[[Unbeatable]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 50%
+| Raises the chance of surviving with 1 [[Hit Points (XC1)|HP]] when [[Incapacitated (XC1)|Incapacitated]].
+|-
+| '''[[Daze Plus]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 100%
+| Increases duration of [[Daze (XC1)|Daze]].
+|-
+| '''[[Topple Plus]]'''
+| Weapon
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 100%
+| Extends [[Topple (XC1)|Topple]] time.
+|-
+| '''[[Buff Time Plus]]'''
+| Armour
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 150%
+| Extends [[Buff]] time.
+|-
+| '''[[Debuff Plus]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 150%
+| Extends gem [[Debuff]] time.
+|-
+| '''[[Weapon Power]]'''
+| Weapon
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 50%
+| Boosts activation rate for gems mounted on weapons.
+|-
+| '''[[Night Vision (XC1)|Night Vision]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 50%
+| Increases attack accuracy at night.
+|-
+| '''[[Initial Tension]]'''
+| Equipment
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 100
+| Increases starting battle [[Tension (XC1)|tension]].
+|-
+| '''[[Aggro Up]]'''
+| Weapon
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 50%
+| Increases [[Aggro]] in battle.
+|-
+| '''[[Aggro Down]]'''
+| Weapon
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 50%
+| Decreases [[Aggro]] in battle.
+|-
+| '''[[Tension Swing]]'''
+|Armour
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 50%
+| Makes [[Tension (XC1)|Tension]] change more easily.
+|-
+| '''[[Daze Tension]]'''
+| Weapon
+| [[File:Gem-electric.png|center|30px|link=:Category:Gems|Electric]]
+| 25
+| [[Tension (XC1)|Tension]] is raised by attacking a [[Daze (XC1)|Daze]]d enemy.
+|-
+| '''[[Revival HP Up]]'''
+| Equipment
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 30%
+| Increases amount of [[Hit Points (XC1)|HP]] recovered when revived.
+|-
+| '''[[Talent Boost]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 12
+| Increases [[Talent Gauge]] gain from [[Auto-Attack (XC1)|auto-attacks]], but halves damage.
+|-
+| '''[[Heat Sink]]'''
+| Weapon
+| [[File:Gem-ice.png|center|30px|link=:Category:Gems|Ice]]
+| 75%
+| Reduces Ether Rifle overheating.
+|}
+
+==== Field ====
+Gems in this category mostly provide benefits that are useful outside of combat, or assist in avoiding detection by enemies.
+{| class="xc1 sortable" style="width: 100%"
+|-
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Element
+! style="width: 60px;" |Max. [[#MaxNote|&#8224;]]
+! style="width: 270px;" |Effect
+|-
+| '''[[Quick Step]]'''
+| Armour
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 25%
+| Increases Movement Speed.
+|-
+| '''[[Earth Cloak]]'''
+| Equipment
+| [[File:Gem-earth.png|center|30px|link=:Category:Gems|Earth]]
+| 60%
+| Decreases detection range of land-based enemies.
+|-
+| '''[[Aquatic Cloak]]'''
+| Equipment
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 60%
+| Decreases detection range of water-based enemies.
+|-
+| '''[[Aerial Cloak]]'''
+| Equipment
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 60%
+| Decreases detection range of flying enemies.
+|-
+| '''[[Auto-Heal Up]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 25%
+| Increases [[Hit Points (XC1)|HP]] recovery speed outside of combat.
+|-
+| '''[[Fall Defence]]'''
+| Armour
+| [[File:Gem-wind.png|center|30px|link=:Category:Gems|Wind]]
+| 75%
+| Reduces falling damage.
+|-
+| '''[[Terrain Defence]]'''
+| Armour
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 75%
+| Decreases damage from hazardous terrain, such as poisonous bogs.
+|}
+
+==== Special ====
+Gems in this category increase a character's rate of advancement.
+{| class="xc1 sortable" style="width: 100%"
+|-
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Element
+! style="width: 60px;" |Max. [[#MaxNote|&#8224;]]
+! style="width: 270px;" |Effect
+|-
+| '''[[EXP Up]]'''
+| Equipment
+| [[File:Gem-fire.png|center|30px|link=:Category:Gems|Fire]]
+| 200%
+| Increases [[Experience Points (XC1)|EXP]] gained.
+|-
+| '''[[AP Up]]'''
+| Equipment
+| [[File:Gem-water.png|center|30px|link=:Category:Gems|Water]]
+| 200%
+| Increases [[Art Points]] gained.
+|}
+
+=== Footnotes ===
+&lt;div id="MaxNote"&gt;&#8224; '''Max.''': The maximum combined total when two or more of the same gem are equipped. For example, two [[Agility Up|Agility Up V]] 30 gems will raise a character's [[Agility]] by only 50 points.&lt;/div&gt;
+
+=== {{XCFC|sub}} ===
+Since Gem Crafting has been removed in {{XCFC|sublink}}, gems are obtained directly from mining ether deposits, in addition to completing certain [[Bionis' Shoulder Quests]] and opening [[Treasure_Chest#Giants.27_Troves|Giant's Troves]]. Gems of rank II and III can be mined after obtaining the [[Ether Pick]] from [[Carranelle]] in Companions' Cape, and gems of rank IV can be mined after obtaining the [[Reinforced Ether Pick]] from [[Lott]] in Gran Dell.
+
+Gems unobtainable in {{XCFC|sub}} through mining:
+* [[Bleed Plus]]
+* [[First Attack Plus]]
+* [[Back Atk Plus]]
+* [[Debuff Resist]]
+** Reward of ''[[Riddle Faifa This]]'', Rank II - 15%
+** Reward of ''[[Lost &amp; Found]]'', Rank V - 50%
+** Reward of ''[[The Future Within Our Grasp]]'', Rank V - 50%
+* [[Unbeatable]]
+* [[Auto-Heal Up]]
+* [[Fall Defence]]
+* [[Terrain Defence]]
+* [[EXP Up]]
+** Unremovable gem of [[Ancestral Artistry]], Rank II - 20%
+** Unremovable gem of [[Sage Artistry]], Rank IV - 40%
+* [[AP Up]]
+** Unremovable gem of [[Martial Artistry]], Rank II - 20%
+** Unremovable gem of [[Maestro Artistry]], Rank IV - 40%
+* [[Quick Step]]
+** Reward of ''[[Lost &amp; Found]]'', Rank VI - 25%
+
+== {{XC3|-}} ==
+In {{XC3}}, Gems can be [[Gem Crafting|crafted]] at [[Rest Spot (XC3)|Rest Spots]] by [[Riku]] using items picked up across [[Aionios]] or acquired from [[enemy (XC3)|enemies]]. Gems are powerful equipment that can be attached to each character, increasing attack power, recovery power, and other battle-enhancing effects.&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1531170715864510464].&lt;/ref&gt; 
+
+Only one gem type and rank needs to be crafted as all player characters can equip the same gem. Since each named gem provides a unique effect, crafting a higher ranking gem will lock you out of crafting the weaker, lower rank gems, as you don't need to craft them, saving materials and coins.
+
+==== Gem Crafting ====
+{{Main|Gem Crafting}}
+Each gem type and rank can be crafted by combining specific items and [[Ether Cylinder (XC3)|Ether Cylinders]], or by exchanging [[Nopon Coin (Gold)|Gold Nopon Coins]]. Items can be obtained from blue glow orbs seen from a distance (or detailed icons when up close) strewn across the grounds, vines, and waters of [[Aionios]], enemy drops, [[Supply Drop]]s, [[Container]]s, or purchased from specific [[Nopon Merchant]]s.  
+
+For Ether Cylinders, you can store [[Ether]] in them by locating a green glow on the ground, these are known as [[Ether Channel]]s, which are also found strewn across Aionios, or purchase them from specific Nopon Merchants.  
+
+Nopon Coins can be obtained via first kill [[Unique Monster (XC3)|Unique Monster]] drops, Supply Drops, Containers, [[Quest (XC3)|Quests]] (including first time only rewards from [[Collectopaedia (XC3)|Collectopaedia Cards]]),  or choosing a specific side in [[Skirmish]]es. 
+
+In {{XC3FR|sublink}}, Gems can be crafted at Rest Spots once the [[Happy Camper Gear]] has been obtained, as well as at the Ether Furnace in [[Colony 9 (XC1)#Xenoblade Chronicles 3: Future Redeemed|Colony 9]] once it is repaired. Initially when unlocked, only Gems up to rank III can be crafted; completing ''[[The Derelict Ether Furnace]]'' allows Gems up to rank V to be crafted.
+
+Each gem's page lists the specified items needed for each rank.
+
+=== List of Gems in {{XC3|-}} and {{XC3FR|sub}} ===
+==== Defender ====
+Gems in this category modify damage avoidance in some way. This category also includes Gems to gain aggro and counter damage.
+
+{| class="xc1 sortable" style="width: 100%"
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Colour
+! style="width: 60px;" |Range
+! style="width: 270px;" |Effect
+|-
+|[[Tailwind]]
+|Defender
+|[[File:Gem-defender.png|center|30px|link=:Category:XC3 Gems|Defender]]
+|10-35
+|Increases Agility.
+|-
+|[[Steel Protection]]
+|Defender
+|[[File:Gem-defender.png|center|30px|link=:Category:XC3 Gems|Defender]]
+|5-30
+|Increases Block Rate by percentage points.
+|-
+|[[Ultimate Counter]]
+|Defender
+|[[File:Gem-defender.png|center|30px|link=:Category:XC3 Gems|Defender]]
+|80%-280%
+|Deals Attack damage when you take damage.
+|-
+|[[Brimming Spirit]]
+|Defender
+|[[File:Gem-defender.png|center|30px|link=:Category:XC3 Gems|Defender]]
+|20%-45%
+|Boosts aggro generated when using Art.
+|-
+|[[Perilous Presence]]
+|Defender
+|[[File:Gem-defender.png|center|30px|link=:Category:XC3 Gems|Defender]]
+|500-3000
+|Starts each battle with aggro.
+|}
+
+==== Attacker ====
+Gems in this category modify attacks in some way. This category also includes Gems that strengthen and increases length of debuffs on enemies.
+
+{| class="xc1 sortable" style="width: 100%"
+! style="width: 120px;" |Name
+
+! style="width: 60px;" |Type
+! style="width: 60px;" |Colour
+! style="width: 60px;" |Range
+! style="width: 270px;" |Effect
+|-
+|[[Steelcleaver]]
+|Attacker
+|[[File:Gem-attacker.png|center|30px|link=:Category:XC3 Gems|Attacker]]
+|20-70
+|Increases Attack.
+|-
+|[[Accurate Grace]]
+|Attacker
+|[[File:Gem-attacker.png|center|30px|link=:Category:XC3 Gems|Attacker]]
+|20-45
+|Increases Dexterity. 
+|-
+|[[Analyze Weakness]]
+|Attacker
+|[[File:Gem-attacker.png|center|30px|link=:Category:XC3 Gems|Attacker]]
+|20-70
+|Increases critical hit damage bonus by percentage points. 
+|-
+|[[Swelling Scourge]]
+|Attacker
+|[[File:Gem-attacker.png|center|30px|link=:Category:XC3 Gems|Attacker]]
+|25%-50%
+|Boosts power of debuffs applied to enemies.
+|-
+|[[Refined Incantation]]
+|Attacker
+|[[File:Gem-attacker.png|center|30px|link=:Category:XC3 Gems|Attacker]]
+|25%-50%
+|Extends duration timers of debuffs applied to enemies.
+|}
+
+==== Healer ====
+Gems in this category modify healing in some way. This category also includes Gems that revive with more HP, faster revive, as well as strengthen and increase self casting buffs on allies.
+
+{| class="xc1 sortable" style="width: 100%"
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" |Colour
+! style="width: 60px;" |Range 
+! style="width: 270px;" |Effect
+|-
+|[[Lifebearer]]
+|Healer
+|[[File:Gem-healer.png|center|30px|link=:Category:XC3 Gems|Healer]]
+|20%-45%
+|Increases Healing.
+|-
+|[[Soothing Breath]]
+|Healer
+|[[File:Gem-healer.png|center|30px|link=:Category:XC3 Gems|Healer]]
+|20%-45%&lt;br&gt;5-15
+|When helping an incapacitated ally, revives them with more HP; also raises Healing. 
+|-
+|[[Lifesaving Expertise]]
+|Healer
+|[[File:Gem-healer.png|center|30px|link=:Category:XC3 Gems|Healer]]
+|20%-45%&lt;br&gt;5-15
+|Boosts speed of ally revival and raises Healing. 
+|-
+|[[Swelling Blessing]]
+|Healer
+|[[File:Gem-healer.png|center|30px|link=:Category:XC3 Gems|Healer]]
+|25%-50%
+|Boosts power of buff effects issued by self. 
+|-
+|[[Refined Blessing]]
+|Healer
+|[[File:Gem-healer.png|center|30px|link=:Category:XC3 Gems|Healer]]
+|25%-50%
+|Extends duration of buff effects issued by self.
+|}
+
+==== Speciality ====
+Gems in this category increase attack speed, maximum HP, damage, and reduces aggro.
+
+{| class="xc1 sortable" style="width: 100%"
+! style="width: 120px;" |Name
+! style="width: 60px;" |Type
+! style="width: 60px;" | Colour
+! style="width: 60px;" | Range
+! style="width: 270px;" |Effect
+|-
+|[[Ironclad]]
+|Speciality
+|[[File:Gem-speciality.png|center|30px|link=:Category:XC3 Gems|Speciality]]
+|100-1500
+|Increases maximum HP.
+|-
+|[[Steady Striker]]&lt;br&gt;&lt;small&gt;(''XC3'' only)&lt;/small&gt;
+|Speciality
+|[[File:Gem-speciality.png|center|30px|link=:Category:XC3 Gems|Speciality]]
+|15%-40%
+|Shortens auto-attack interval.
+|-
+|[[Flowing Form]]&lt;br&gt;&lt;small&gt;(''FR'' only)&lt;/small&gt;
+|Speciality
+|[[File:Gem-speciality.png|center|30px|link=:Category:XC3 Gems|Speciality]]
+|20%-40%&lt;br&gt;15%-25%
+|Increases performance speed of auto-attacks and shortens interval between them.
+|-
+|[[Doublestrike]]
+|Speciality
+|[[File:Gem-speciality.png|center|30px|link=:Category:XC3 Gems|Speciality]]
+|15%-40%
+|Adds chance to strike twice per auto-attack.
+|-
+|[[Empowered Combo]]
+|Speciality
+|[[File:Gem-speciality.png|center|30px|link=:Category:XC3 Gems|Speciality]]
+|25%-75%
+|When canceling, boosts damage dealt.
+|-
+|[[Disperse Bloodlust]]
+|Speciality
+|[[File:Gem-speciality.png|center|30px|link=:Category:XC3 Gems|Speciality]]
+|20%-45%
+|Reduces aggro generated when using Art.
+|}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Gem Crafting 01.jpg
+XC3 Gem Crafting 02.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+[[Category:XC Gems]]
+[[Category:XC Items]]
+[[Category:XCFC Items]]
+[[Category:XC3 Gems]]
+[[Category:XC3 Items]]
+[[Category:XC3FR Items]]
+[[Category:XC3FR Gems]]
+[[Category:Crafting Mechanics]]
+[[Category:Equipment]]</text>
+      <sha1>ab9twvl4m78narw26l87z6qprlc80b3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gem Crafting</title>
+    <ns>0</ns>
+    <id>2112</id>
+    <revision>
+      <id>591794</id>
+      <parentid>558243</parentid>
+      <timestamp>2023-05-13T22:54:45Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>591794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14651" sha1="cdyqnaqe4xemknejbwyhc3pwn68w6qa" xml:space="preserve">{{spoiler}}
+[[File:Gem crafting.jpg|thumb|300px|[[Shulk]] and [[Reyn]] crafting a gem]]
+'''Gem Crafting''' (Japanese: {{lang|ja|&#12472;&#12455;&#12512;&#12463;&#12521;&#12501;&#12488;}}, ''Jemu kurafuto'') is a mechanic in {{XC}} and {{XC3}}.
+
+== {{XC|-}} ==
+Gem Crafting in {{XC|-}} can be done with different [[ether]] [[Ether Crystal (XC1)|crystals]] found by killing monsters or [[mining]] from Ether Crystal deposits and [[Ether Cylinder (Gem Crafting)|Ether Cylinders]] created as a byproduct when creating [[gem]]s. Each of these components can have several different qualities with varying strength, such as [[Strength Up]] 80, [[Agility Up]] 15 or [[Night Vision (XC1)|Night Vision]] 28%. Each Gem has a range that the Gem's quality will fall under. For example, Strength Up I will increase strength by between 5-10. Meanwhile, Strength Up II will increase strength by between 15-20. The exact quality value within the range is completely randomised, and the Gem Crafting process has no effect on it.
+
+In {{XCFC|sublink}}, gems are not crafted but mined directly from the high-quality Ether deposits on [[Bionis' Shoulder]].
+
+=== Creating gems ===
+The process of gem crafting requires different components to be selected until one or more of the collective qualities of the components selected exceeds 100%, or it is also possible to start crafting with only two components which do not give a quality with a strength over 100%.
+
+Two party members are chosen to operate the gem crafting furnace. They have different qualities depending on which position they take, as "Shooter" or "Engineer". Each character's Shooter and Engineer ability is unique.
+
+The [[Affinity (XC1)#Playable Character's Affinity|affinity]] between the characters affects how many cycles they spend crafting, giving better chances for higher level gems. High affinity characters not participating may give a party boost to the team. Crafters may go into a fever where they raise the strength even higher.
+
+==== Flames ====
+There are three types of flames. Each time the Shooter "shoots" into the furnace, the [[#Engineer properties|Engineers' abilities]] affect the type of flame that occurs:
+
+{| class="xc1 centered"
+! style="width: 90px" |Flame
+! style="width: 60px" |Colour
+! style="width: 150px" |Effect
+|-
+| style="color:red" | Strong Flame
+|Red
+|Raise one quality a lot&lt;br /&gt;(between 3 and 11) &#8251;1
+|-
+| style="color:blue" | Medium Flame
+|Blue
+|Raise all qualities a bit&lt;br /&gt;(between 1 and 6) &#8251;2
+|-
+| style="color:green" | Gentle Flame
+|Green
+|Raise cylinder gauge&lt;br /&gt;(between 30% and 70%) &#8251;3
+|}
+
+:&#8251;1: A random number between 1 and 6 is added if Reyn is the [[#Shooter properties|Shooter]].
+:&#8251;2: A random number between 1 and 6 is added if Melia is the [[#Shooter properties|Shooter]].
+:&#8251;3: 25% is added if Sharla is the [[#Shooter properties|Shooter]].
+
+==== Cylinder Gauge ====
+The Cylinder Gauge is represented by the vertical strip between the characters and the table. Each time a cylinder gauge fills up to 100%, the number above the strip will increase by one, and the Cylinder Gauge will reset to represent the gauge for the next cylinder.
+
+After the crafting process is over, the maximum number of cylinders that can be received is represented by the number above the Cylinder Gauge. The player can choose which ones to keep. The rest of the cylinders will be discarded. In order to increase the maximum number of cylinders, each character's Shooter and Engineer properties must be examined to find the pair who will fill the gauge the most.
+
+=== Heat and Mega Heat ===
+When crafting, if a quality's strength exceeds 100% it will become a gem. If the strength exceeds 200% it receives "Heat" status and the resultant gem becomes one grade higher than its components. Furthermore, if the value of one quality goes above 300% it receives "Mega Heat" status, in which case two full-strength gems are acquired for that quality, instead of just one.
+
+Any qualities with strengths below 100% can become a cylinder for crafting another time. The number of cylinders created after a successful crafting round is determined by the cylinder count (which is raised by gentle flames). When seeking to make the highest-strength gems possible, it is often desirable to fall just short of actually creating a gem &amp;mdash; instead creating refined cylinders for the target property with strength as close to 99% as possible; in this way, it is much easier to achieve "Heat" and "Mega Heat" status.
+
+=== Shooter and Engineer Abilities ===
+Each character has a unique Shooter quality with a particular effect property. They have also a unique Engineer qualities combination for each Flame type. The choice of the Shooter and Engineer duo amongst the seven characters leads to different results. For example, the best choice to increase the purity of a single gem in order to reach the "Mega Heat" status is [[Shulk]] as the Shooter, raising the Fever probability rate, and [[Reyn]] as the Engineer, owning a Great ability for Strong Flame that raises one quality a lot.
+
+==== Shooter properties ====
+{| class="xc1 centered sortable" style="width:100%"
+|-
+! Character
+! Quality
+! Effect
+|-
+|[[Shulk]]
+|Fever Plus
+|Gets into a Fever easily when crafting.&lt;br /&gt;''(+1% Fever chance)''
+|-
+|[[Reyn]]
+|Strong Bonus
+|Qualities grow stronger with a strong flame.&lt;br /&gt;''(Strong flames give +1~6)''
+|-
+|[[Sharla]]
+|Gentle Bonus
+|Cylinder Gauge fills up more with gentle flame.&lt;br /&gt;''(Gentle flames give +25% cylinder gauge)''
+|-
+|[[Dunban]]
+|Combo Master
+|Qualities grow stronger when flame is constant.&lt;br /&gt;''(Strong or Medium flames give +2, and then an additional +1 per combo)''
+|-
+|[[Melia]]
+|Medium Bonus
+|Qualities grow stronger with a medium flame.&lt;br /&gt;''(Medium flames give +1~6)''
+|-
+|[[Riki]]
+|Impatient Shooter
+|Gem crafting process happens twice in a row. &#8251;&lt;br /&gt;''(Each flame shoots twice, but cannot enter Fever)''
+|-
+|[[Fiora]]
+|Cylinder Plus
+|Crafting begins with 3 full cylinder gauges.
+|}
+
+:&#8251; A bug in the original version of {{XC|-}} means that Riki's Shooter ability does not work properly, and he will only shoot up to a maximum of 15 times. In {{XCDE|sub}}, the bug has been fixed, and Riki now works properly - at the cost of not being able to enter a Fever, he shoots twice as much. This means that he is much more viable for gem crafting than previously (a blue affinity Riki and Reyn being on par with a max affinity Shulk and Reyn).
+
+==== Engineer properties ====
+{| class="xc1 centered sortable" style="width:100%"
+|-
+! Character
+! Strong Flame
+! Medium Flame
+! Gentle Flame
+|-
+|[[Shulk]]
+| style="background-color: #ccf;" |Average (25%)
+| style="background-color: #ccf;" |Average (25%)
+| style="background-color: #cfc;" |Good (50%)
+|-
+|[[Reyn]]
+| style="background-color: #7f7;" |Great (80%)
+| style="background-color: #fcc;" |Poor (10%)
+| style="background-color: #fcc;" |Poor (10%)
+|-
+|[[Sharla]]
+| style="background-color: #fcc;" |Poor (15%)
+| style="background-color: #cfc;" |Good (60%)
+| style="background-color: #ccf;" |Average (25%)
+|-
+|[[Dunban]]
+| style="background-color: #cfc;" |Good (60%)
+| style="background-color: #fcc;" |Poor (15%)
+| style="background-color: #ccf;" |Average (25%)
+|-
+|[[Melia]]
+| style="background-color: #fcc;" |Poor (10%)
+| style="background-color: #7f7;" |Great (80%)
+| style="background-color: #fcc;" |Poor (10%)
+|-
+|[[Riki]]
+| style="background-color: #f77;" |Terrible (10%)
+| style="background-color: #f77;" |Terrible (10%)
+| style="background-color: #7f7;" |Great (80%)
+|-
+|[[Fiora]]
+| style="background-color: #f77;" |Terrible (5%)
+| style="background-color: #7f7;" |Great (90%)
+| style="background-color: #f77;" |Terrible (5%)
+|}
+
+=== Mobile Furnace ===
+The [[Gem Man]] in [[Colony 9 (XC1)|Colony 9]] will give the party a quest, ''[[The Gem Man's Invention]]'', in which he asks them to get an [[Ultra Small Reactor]] from [[Colony 6]]. The reactor can be obtained by upgrading all of Colony 6's levels to one. The Gem Man will then make the [[Mobile Furnace]] so that the party can craft gems whenever they want.
+
+=== Calculation methods ===
+==== Turns and Fever ====
+The exact number of turns is calculated as follows:
+
+: Minimum number of turns: &lt;code&gt;(affinity + 250) / 750 + 3&lt;/code&gt;.
+: Maximum number of turns: &lt;code&gt;affinity / 500 + 5&lt;/code&gt;.
+
+&lt;code&gt;Affinity&lt;/code&gt; is determined by the numeric value of the affinity between the Shooter and the Engineer. Affinity can range from a minimum of 0 to a maximum of 5,000.
+
+Starting with the ''minimum number of turns'', there is a 80% chance for another turn to be added, with the limit being the ''maximum number of turns''.
+
+{| class="mw-collapsible mw-collapsed"
+| Pseudocode:
+|-
+| &lt;poem&gt;&lt;code&gt;int affinity = ( affinityBetween(Shooter, Engineer) )
+int minTurns = (affinity + 250) / 750 + 3
+int maxTurns = affinity / 500 + 5
+int turns
+for (turns = minTurns; turns &lt; maxTurns; turns++)
+&amp;emsp;&amp;emsp;&amp;emsp;if (Rand(100) &gt;= 80)
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;break;
+return turns;&lt;/code&gt;&lt;/poem&gt;
+|}
+
+Each time a turn is executed, there is a set percentage of chance for triggering a fever. The fever trigger percentage can be calculated as follows:
+
+:Base percentage: &lt;code&gt;1%&lt;/code&gt;.&lt;br /&gt;
+:If Shulk is the Shooter (his [[#Shooter properties|shooter property]]): &lt;code&gt;+1%&lt;/code&gt;.&lt;br /&gt;
+&amp;emsp;&amp;emsp;If the Shooter has Shulk's [[Skill Tree/Shulk#Intuition|Fever Pitch Skill]]: &lt;code&gt;+1%&lt;/code&gt;.
+:If the Engineer has Shulk's Fever Pitch Skill: &lt;code&gt;+1%&lt;/code&gt;.
+
+The minimum fever trigger percentage is 1%. The maximum percentage can reach up to 4%.
+
+Once a regular turn triggers a fever, a certain number of bonus fever turns are inserted. The minimum and maximum of this range is always the same.
+
+: Minimum number of fever bonus turns: &lt;code&gt;3&lt;/code&gt;.
+: Maximum number of fever bonus turns: &lt;code&gt;10&lt;/code&gt;.
+
+Starting with the ''minimum number of fever bonus turns'', there is a 70% chance for another fever bonus turn to be added, with the limit being the ''maximum number of fever bonus turns''.
+
+{| class="mw-collapsible mw-collapsed"
+| Pseudocode:
+|-
+| &lt;poem&gt;&lt;code&gt;int minFeverTurns = 3
+int maxFeverTurns = 10
+for (int turns = minFeverTurns; turns &lt; maxFeverTurns; turns++)
+&amp;emsp;&amp;emsp;&amp;emsp;if (Rand(100) &gt;= 70)
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;break;
+return turns;&lt;/code&gt;&lt;/poem&gt;
+|}
+
+==== Party Support ====
+Party Support is dependent on the non-participating party member's support with the Crafting Engineer. Affinity is determined by the numeric value of the affinity between the aforementioned two characters. Affinity can range from a minimum of 0 to a maximum of 5,000. This numeric value will be referred to as &lt;code&gt;affinity&lt;/code&gt;.
+
+For each turn, the algorithm goes through each non-participating character who hasn't given Party Support yet. This means that each character can only give Party Support once per crafting session. For every valid character, a random number between &lt;code&gt;0&lt;/code&gt; and &lt;code&gt;10,000&lt;/code&gt; is rolled. If this number is within the range of &lt;code&gt;0&lt;/code&gt; and &lt;code&gt;affinity&lt;/code&gt;, then that character's party support is triggered that turn. To increase the rate of triggering party support, the range must be increased by increasing the affinity between the two characters. This means that a maximum of &lt;code&gt;5,000 affinity&lt;/code&gt; provides a 50% chance of triggering Party Support each turn until it is triggered.
+
+When a Party Support is triggered, between 1 to 3 different qualities are chosen. Each of these qualities are increased by between 10 to 21 points. It is possible for a single quality to be chosen twice.
+{| class="mw-collapsible mw-collapsed"
+| Pseudocode:
+|-
+| &lt;poem&gt;&lt;code&gt;for each turn
+&amp;emsp;&amp;emsp;&amp;emsp;for each Character
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;if ( (Character is not crafting) and (Character has not triggered Party Support))
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;int affinity = affinityBetween(Character, Engineer)
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;int roll = rand(10,000)
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;if (roll &lt; affinity)
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;Trigger Party Support
+&amp;emsp;&amp;emsp;&amp;emsp;next Character
+next turn&lt;/code&gt;&lt;/poem&gt;
+|}
+
+== {{XC3|-}} ==
+At [[Rest Spot (XC3)|Rest Spots]], the party can craft Gems using items picked up while exploring or acquired from [[enemy (XC3)|enemies]]. Gems are powerful equipment that can be attached to each character, increasing attack power, recovery power, and other battle-enhancing effects.&lt;ref&gt;[https://twitter.com/XenobladeJP/status/1531170715864510464].&lt;/ref&gt;
+
+If the party does not have enough of the required items needed to craft a Gem, [[Nopon Coin (XC3)|Nopon Coins]] can be exchanged instead to craft a Gem without having to collect the required items.
+
+In {{XC3FR|sublink}}, Gems can only be crafted up to level V, with the ability to craft gems above level III being unlocked after completing ''[[The Derelict Ether Furnace]]''. Completing this quest also enables the party to craft gems using the [[Gem Man's Stall|ether furance]] outside of [[Colony 9 (XC1)|Colony 9]]'s [[Command Center]].
+
+{| class="xc1 centered sortable" style="width:100%"
+|+ Nopon Coin Conversion Rate
+! Gem Level !! Required Coins
+|-
+| I || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 1
+|-
+| II || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+| III || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+| IV|| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+| V || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+| VI || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+| VII || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+| VIII || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+| IX || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+| X || [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+{{clr}}
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Explorer img03 2.jpg|Shulk and Reyn crafting a gem in the ''Definitive Edition''
+5&#46321;&#44553; &#44305;&#47932; &#44396;&#54616;&#44592;.png|Korean list of level V ether crystal locations &amp; monster drops
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Gem Crafting 01.jpg
+XC3 Gem Crafting 02.jpg
+&lt;/gallery&gt;
+
+== External links ==
+* [http://www.gamesradar.com/xenoblade-chronicles-beginners-guide/?page=8 A beginner's tutorial on gem crafting]
+
+== References ==
+&lt;references/&gt;
+
+{{xc3 stub}}
+{{Fr stub}}
+[[Category:XC Mechanics]]
+[[Category:XC Gems]]
+[[Category:XC3 Mechanics]]
+[[Category:XC3 Gems]]
+[[Category:XC3FR Mechanics]]
+[[Category:XC3FR Gems]]
+[[Category:Crafting Mechanics]]</text>
+      <sha1>cdyqnaqe4xemknejbwyhc3pwn68w6qa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>General Antol</title>
+    <ns>0</ns>
+    <id>121825</id>
+    <revision>
+      <id>594409</id>
+      <parentid>594406</parentid>
+      <timestamp>2023-05-27T22:57:07Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>594409</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="836" sha1="e76yempcxgzmp2d61it2xpxw0spfnrr" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = General Antol
+|image        = 
+|caption      = General Antol
+|category     = Normal Minor Enemy
+|type         = [[Antol]]
+|level        = 61-62
+|area         = [[Erythia Sea]] ([[Malevolent Hollow]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''General Antols''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Antol]] family, and can be found at level 61-62 in [[Malevolent Hollow]] in [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Antols]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>e76yempcxgzmp2d61it2xpxw0spfnrr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>General Arachno (XC3)</title>
+    <ns>0</ns>
+    <id>121190</id>
+    <revision>
+      <id>595958</id>
+      <parentid>594678</parentid>
+      <timestamp>2023-06-16T18:44:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595958</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1295" sha1="f9ovdt7qp2v9kl6vmahkzb4fspdm79a" xml:space="preserve">{{for|the enemy in {{XC|-}}|General Arachno (XC1)}}
+{{Infobox XC3 Enemy
+|name         = General Arachno
+|image        = 
+|caption      = General Arachno
+|category     = Normal Minor Enemy
+|type         = [[Arachno]]
+|level        = 90-93
+|area         = [[Low Maktha Wildwood]] ([[Cavern of Oblivion]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''General Arachnos''' are Normal Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Arachno]] family, and can be found at level 90-93 inside and around the entrance of the [[Cavern of Oblivion]] in [[Low Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 86-90 Enemies]]
+[[Category:XC3 Level 91-95 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Arachnos]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>f9ovdt7qp2v9kl6vmahkzb4fspdm79a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gerran Amoney</title>
+    <ns>0</ns>
+    <id>121033</id>
+    <revision>
+      <id>600091</id>
+      <parentid>559667</parentid>
+      <timestamp>2023-07-20T03:15:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>600091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="877" sha1="mvc3270pij0lwqhih4uwwn42vv6avji" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Gerran Amoney
+|image        = Gerran Amoney.jpg
+|caption      = Gerran Amoney
+|category     = Minor Enemy
+|type         = [[Amoney]]
+|level        = 58-59
+|area         = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Coolley Lake (XC3)|Coolley Lake]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Gerran Amoneys''' are Minor Enemies in {{XC3}}. They are members of the [[Amoney]] family, and can be found at level 58-59 in [[Coolley Lake (XC3)|Coolley Lake]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Amoneys]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mvc3270pij0lwqhih4uwwn42vv6avji</sha1>
+    </revision>
+  </page>
+  </mediawiki>

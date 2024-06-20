@@ -1,0 +1,6 @@
+Art Name: Dual Blast
+
+Class: Rex
+
+Effect: AOE/SideÊLaunch
+

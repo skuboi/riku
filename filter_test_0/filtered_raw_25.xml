@@ -1,0 +1,1797 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fiona</title>
+    <ns>0</ns>
+    <id>117398</id>
+    <revision>
+      <id>600439</id>
+      <parentid>600208</parentid>
+      <timestamp>2023-07-21T16:15:11Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added ENG Wikipedia</comment>
+      <origin>600439</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8408" sha1="po0273mhws34zw032hhk9k0elaevpxe" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Fiona
+|image         = XC3 Fiona Portrait Art.png
+|species       = [[Agnus|Agnian]] human
+|age           = 5th Term
+|gender        = Female
+|haircolor     = Pink
+|eyecolor      = Brown
+|affiliation   = [[Colony Mu]]
+|voiceactorjp  = [[wikipedia:Aoi Y&#363;ki|Aoi Y&#363;ki]]
+|voiceactoreng = [[wikipedia:Rebecca Benson|Rebecca Benson]]
+|appearances   = {{XC3}}
+}}
+'''Fiona'''  (Japanese: {{lang|ja|&#12510;&#12471;&#12525; }}, ''Mashiro'') is a character in {{XC3}}.
+
+== Overview ==
+Fiona is the commander of [[Colony Mu]]. She is a caring soldier inspires her comrades with her large flag-like [[Blade (XC3)|blade]], known as the War Standard, to boost everyone's morale. She has a calm and gentle personality and is affectionately known as "Fifi" by her fellow [[colony]] pals. She is very friendly, and is sometimes a little too kind for a soldier.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1542041174370045952&lt;/ref&gt;&lt;ref name=":0"&gt;https://twitter.com/NintendoEurope/status/1542130768360751106&lt;/ref&gt;
+
+Fiona can be recruited as a [[Hero]] by completing the [[Hero Quest]] ''[[Transparent Dreams]]''.&lt;ref&gt;https://www.nintendo.co.jp/switch/az3ha/story/index.html&lt;/ref&gt; Her [[Class Rank (XC3)|Class Rank]] is increased to 20 by completing the Ascension Quest ''[[A Farewell Reset]]''.
+
+== Story ==
+Following the death of the previous commander, Fiona begged the [[Consul]] to change the way the Colony fought; after an intense debate, the Consul declared Fiona to be the new commander as a form of punishment. Although she believes herself to be unfit for the position and is greatly strained by its duties and the knowledge that the colony's survival relies on her, she cares too much for her friends to abandon her responsibilities. Her friends similarly understand the burdens she carries and wish to support her in turn. 
+
+After [[Noah]] and his allies find Fiona injured on the outskirts of her colony in the midst of a [[Keves]] raid, she asks them to help her protect her comrades. However, they find that only a handful of soldiers led by her lieutenant and close friend [[Irma]] are still alive. After saving them, Fiona and Irma reveal that their [[Ferronis]] and its [[Flame Clock]] are fakes and that only the Consul knows where the real Flame Clock is. 
+
+Noah's allies learn several other bizarre things about the Colony upon further investigation- nobody knows the Colony's rank, the Consul vanishes for prolonged periods of time, takes stock of the colony's supplies personally, sends down unusually broad orders, and only has the colony fight when their Flame Clock is close to depletion. Furthermore, despite not having fought any major battles the Flame Clock's supply is unusually stable and their supply chain had shown no signs of ever being disrupted, which is at odds with the casualties the colony has taken in the past and its soldiers' unusually young ages. 
+
+They come to the conclusion instead of the lack of information being meant to mislead Colony Mu's enemies, it is meant to mislead the colony's own residents. After recalling being told that the Consul once said "people only see what they want to see", they wonder if Fiona was made commander as a way of hiding inconvenient facts and conclude that the Consul is betraying the colony to Keves. When they go to tell her, they find that the other soldiers have been brainwashed. 
+
+Irma reveals herself to have been the Consul I in disguise. She explains that by putting the colony through hardships to bring them closer together, their life force would be strengthened. However, she came to admire Fiona's purity of purpose and the colony's willingness to support her. Upon seeing Fiona refuse to fight her, Irma shoots her and reminds her that she ought to do her best for everyone and that she is the one responsible for killing their friends. 
+
+Upon her defeat, Irma reassures Fiona that she shouldn't weep for her and that she genuinely saw her as a friend. The Colony's true Ferronis is revealed, and after its Flame Clock is destroyed Fiona joins the party in the hope that perhaps she might learn what Irma really wanted. 
+
+== Gameplay ==
+Her class is a [[Healer]] [[Class (XC3)|class]] named [[Signifer]].&lt;ref&gt;https://www.nintendo.co.jp/switch/az3ha/battle/index.html&lt;/ref&gt;&lt;ref name=":0" /&gt; She can give random enhancement or support effects to allies.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1542040921985781760&lt;/ref&gt;
+
+Fiona's [[Chain Attack (XC3)|Chain Art]] is [[Galactic Flight]], and her Heroic Chain bonus multiplies the TP of all active characters except for herself by 120% when she is chosen.
+
+=== Base Stats ===
+These are Fiona's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Signifer class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 271 || 15 || 16 || 31 || 20
+|-
+| 99 || 6,763 || 380 || 400 || 306 || 200
+|}
+
+=== General Stats ===
+These stats assume Fiona is at rank 20 in her class.
+{| class="xc1 centered" width="100%"
+! Level!!HP !!Attack 
+!Healing Power!!Dexterity!!Agility!!Critical Rate!!Block Rate!!Physical Defense!!Ether Defense
+|-
+|1||162||29||12|| 32||18||8% ||8%||10%||30%
+|-
+|99||4,057||837||300||321||180||16% ||16%||10%||30%
+|}
+
+Fiona equips the following gems:  
+* [[Disperse Bloodlust]]
+* [[Swelling Blessing]], at level 20 onwards
+* [[Refined Blessing]], at level 40 onwards
+
+Fiona equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant. 
+* [[Activity Amulet (XC3)|Activity Amulet]]
+* [[Vibrant Armring]], at level 30 onwards
+* [[Crystal Earrings (XC3)|Crystal Earrings]], at level 50 onwards
+
+== Challenge Battle ==
+{{Infobox XC3 Enemy
+|name         = Proudbanner Fiona
+|image        = 
+|caption      = Proudbanner Fiona
+|type         = [[Agnus Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 3,355,440
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Proudbanner Fiona''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] fought at level 120 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+{{clr}}
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Fiona
+| npc2 = Triton
+| affinity = green
+| caption = Buddy-buddy
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Fiona
+| npc2 = Irma
+| affinity = pink
+| caption = Unique friendship
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Fiona
+| npc2 = Tallow
+| affinity = pink
+| caption = Can talk about anything
+| direction = both
+}}
+
+{{XC3 Affinity Link
+| npc1 = Fiona
+| npc2 = Hildemarie
+| affinity = pink
+| caption = Inspired each other
+| direction = both
+}}
+
+== Trivia ==
+* Fiona's Japanese voice actress, Aoi Y&#363;ki, also voices [[Finch]] in {{XC2}}.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Fiona Artwork.png|Official Artwork of Fiona
+XC3 Fiona as a Signifer.jpg|Fiona as a Signifer, her initial class
+XC3 Fiona Signifer artwork.jpg|Official Artwork of Fiona as a Signifer
+Fiona Concept Art.png|Fiona's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Fiona Hero Icon.png|Hero List Icon
+Fiona Chain Art Icon.png|Chain Art Icon
+Fiona Level Up Art.png|Level Up Art
+Icon chara 21.png
+Icon chara battle 22.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Fiona screenshot 01.jpg|Fiona Crying
+XC3 Fiona screenshot 02.jpg|Fiona with Noah and Taion
+XC3 Fiona screenshot 03.jpg
+XC3 Fiona screenshot 04.jpg
+&lt;/gallery&gt;
+
+==References==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Fiona]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>po0273mhws34zw032hhk9k0elaevpxe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fire Bangle</title>
+    <ns>0</ns>
+    <id>122884</id>
+    <revision>
+      <id>592765</id>
+      <parentid>592386</parentid>
+      <timestamp>2023-05-15T20:14:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592765</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1100" sha1="s5k2umudgyoxrmg3tyng4gzwoemel4o" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Fire Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt by 50% when attacking an enemy suffering from Blaze.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Fire Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt by 55% when attacking an enemy suffering from Blaze.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Fire Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt by 60% when attacking an enemy suffering from Blaze.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Fire Bangles''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>s5k2umudgyoxrmg3tyng4gzwoemel4o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Firearm Belt</title>
+    <ns>0</ns>
+    <id>118944</id>
+    <revision>
+      <id>592766</id>
+      <parentid>592336</parentid>
+      <timestamp>2023-05-15T20:14:31Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1005" sha1="2zzbu4qtl36p1l2vxfdki3eagjvyjvw" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Firearm Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Aquatic Life by 70%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Firearm Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Aquatic Life by 75%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Firearm Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Aquatic Life by 80%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Firearm Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>2zzbu4qtl36p1l2vxfdki3eagjvyjvw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flak</title>
+    <ns>0</ns>
+    <id>120495</id>
+    <revision>
+      <id>601992</id>
+      <parentid>600735</parentid>
+      <timestamp>2023-07-22T12:21:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601992</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="813" sha1="lrifeixc5w8zd1ph8jc4rj5osi9yk6m" xml:space="preserve">[[File:XC3 Creeping Hameel.png|thumb|Creeping Hameel]]
+'''Flaks''' are a family of enemies in {{XC3}} and {{XC3FR|sublink}}. They are creatures from [[Origin]].
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Kurria Flak (normal)|Kurria Flak]]
+* [[Migia Flak]]
+* [[Zoah Flak]]
+
+=== Unique Monsters ===
+* [[Clinging Azreel]]
+* [[Creeping Hameel]]
+
+=== Boss ===
+* [[Kurria Flak (boss)|Kurria Flak]]
+
+== {{XC3FR|sub}} ==
+=== Boss ===
+* [[Vatura Flak]]
+
+== Gallery ==
+&lt;gallery&gt;
+Kurria Flak Boss.jpg|Kurria Flaks
+XC3 Clinging Azreel.png|Clinging Azreel
+Vatura Flak.jpg|Vatura Flak
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Flaks]]
+[[Category:XC3 Machines]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Flaks]]
+[[Category:XC3FR Machines]]
+[[Category:Flaks]]
+[[Category:Species by Type]]</text>
+      <sha1>lrifeixc5w8zd1ph8jc4rj5osi9yk6m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flame Amulet</title>
+    <ns>0</ns>
+    <id>118945</id>
+    <revision>
+      <id>592767</id>
+      <parentid>592391</parentid>
+      <timestamp>2023-05-15T20:14:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592767</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="975" sha1="bmqtbato03f1cecj5k3hslijm85l9w7" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Flame Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Blaze by 150%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Flame Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Blaze by 175%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Flame Amulet
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts damage from Blaze by 200%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4960 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Flame Amulets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>bmqtbato03f1cecj5k3hslijm85l9w7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flame Bangle</title>
+    <ns>0</ns>
+    <id>122613</id>
+    <revision>
+      <id>592768</id>
+      <parentid>592385</parentid>
+      <timestamp>2023-05-15T20:14:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1110" sha1="3bc8b1dnep7k7lbr4ovnpnfms8z1hnv" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Flame Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt by 70% when attacking an enemy suffering from Blaze.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Flame Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt by 75% when attacking an enemy suffering from Blaze.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Flame Bangle
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt by 80% when attacking an enemy suffering from Blaze.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Flame Bangles''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>3bc8b1dnep7k7lbr4ovnpnfms8z1hnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flamii</title>
+    <ns>0</ns>
+    <id>5290</id>
+    <revision>
+      <id>601993</id>
+      <parentid>600736</parentid>
+      <timestamp>2023-07-22T12:21:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3901" sha1="19ihxiwx5tzzi0si7l45hwupkf64lha" xml:space="preserve">[[file:Prosperous Zepar.png|thumb|Prosperous Zepar in {{XC|-}}]]
+'''Flamiis''' (Japanese: {{lang|ja|&#12501;&#12521;&#12511;&#12540;}}, ''Furam&#299;''; [[English dub pronunciations|English dub]]: {{IPA|/&#712;fl&#230;mi/}}) are a species of aerial monsters in the {{XC|serieslink}}. They are flamingo-like creatures (hence the name Flamii), tend to be found around water, and come in three colours; blue are likely to be non-aggressive, pink are likely to be aggressive and white are uncommon.
+
+[[Ageshu]] behave similarly to Flamii, and may be related.
+
+== {{XC|-}} ==
+In {{XC}}, Flamiis are found on both [[Bionis]] and the [[Fallen Arm]] of [[Mechonis]]. They are a fairly common species, and are found in the following areas: [[Colony 9 (XC1)|Colony 9]], [[Bionis' Leg]], [[Satorl Marsh]] and the Fallen Arm. The highest-leveled Flamiis are the [[Resplendent Flamii (XC1)|Resplendent Flamii]], which can reach up to Level 74, although the Level 73 Unique Monster [[Flailing Bracken]] has higher stats.
+
+=== Normal Minor Enemies ===
+* [[Black Flamii]]
+* [[Kukukoro Flamii]]
+* [[Lacus Flamii]]
+* [[Lahar Flamii]]
+* [[Lake Flamii]]
+* [[Marsh Flamii (XC1)|Marsh Flamii]]
+* [[Oasis Flamii]]
+* [[Opulent Flamii (XC1)|Opulent Flamii]]
+* [[Resplendent Flamii (XC1)|Resplendent Flamii]]
+* [[Satorl Flamii]]
+
+=== Quest Exclusive Enemy ===
+* [[Assault Flamii]] (during ''[[Earnest's Mischief]]'')
+
+=== Unique Monsters ===
+* [[Amber Fischer]]
+* [[Enchanting Grune]]
+* [[Flailing Bracken]]
+* [[Prosperous Zepar]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Lake Flamii]]
+* [[Resplendent Flamii (XC1)|Resplendent Flamii]]
+
+=== Unique Monster ===
+* [[Terpsichorean Cenoth]]
+
+== {{XC2|-}} ==
+In {{XC2}}, Flamii can be found in the [[Gormott Province]], [[Kingdom of Uraya]], and [[Leftherian Archipelago]].
+=== Normal Minor Enemies ===
+* [[Biban Flamii (XC2)|Biban Flamii]]
+* [[Blue Flamii]]
+* [[Crimson Flamii]]
+* [[Limdo Flamii (XC2)|Limdo Flamii]]
+* [[Nyol Flamii]]
+* [[Rebra Flamii]]
+
+=== Quest Exclusive Enemies ===
+* [[Ambushing Flamii]] (during ''[[The Titan Scholar]]'')
+* [[Punishing Flamii]] (during ''The Titan Scholar'')
+
+== {{TTGC|-}} ==
+In {{TTGC}}, Flamii can be found in the [[Kingdom of Torna]] and on [[Gormott (TTGC)|Gormott]], although white Flamii do not appear.
+
+=== Normal Minor Enemies ===
+* [[Dominal Flamii]]
+* [[Lefth Flamii]]
+* [[Libelte Flamii]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Flamii can be found in the [[Aetia Region|Aetia]] and [[Cadensia Region|Cadensia]] regions.
+
+=== Normal Minor Enemies ===
+* [[Biban Flamii (XC3)|Biban Flamii]]
+* [[Limdo Flamii (XC3)|Limdo Flamii]]
+* [[Marsh Flamii (XC3)|Marsh Flamii]]
+* [[Opulent Flamii (XC3)|Opulent Flamii]]
+* [[Resplendent Flamii (XC3)|Resplendent Flamii]]
+
+=== Unique Monster ===
+* [[Migratory Circe]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Marsh Flamii (XC3)|Marsh Flamii]]
+* [[Resplendent Flamii (XC3)|Resplendent Flamii]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Flamii.jpg|Blue Flamii
+Red Flamii.jpg|Pink Flamii
+Lacus Flamii.jpg|White Flamii
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Biban flamii.jpg|Biban Flamii
+Blue Flamii.jpg|Blue Flamii
+XC2 Limdo Flamii.jpg|Limdo Flamii
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Lefth.jpg|Lefth Flamii
+LibelteFlamii.jpg|Libelte Flamii
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Migratory Circe.png|Migratory Circe
+Opulent Flamii (XC3).png|Opulent Flamii
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:XC Flamiis]]
+[[Category:XCFC Species]]
+[[Category:XCFC Flamiis]]
+[[Category:Bionis Life]]
+[[Category:Mechonis Life]]
+[[Category:XC2 Species]]
+[[Category:XC2 Flamiis]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Species]]
+[[Category:TTGC Flamiis]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Flamiis]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Flamiis]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Flamiis]]
+[[Category:Species by Type]]</text>
+      <sha1>19ihxiwx5tzzi0si7l45hwupkf64lha</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flash Fencer</title>
+    <ns>0</ns>
+    <id>118554</id>
+    <revision>
+      <id>597313</id>
+      <parentid>597112</parentid>
+      <timestamp>2023-06-26T10:13:33Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>597313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7107" sha1="tmtvyuxa5kcfzr1xa5xb6hbpqncc5uh" xml:space="preserve">{{Spoiler}}
+{{quote|An Attacker, pressuring foes with a dual-sword style and felling them in short, vicious bouts.|Class menu description}}
+[[File:Flash Fencer Class Icon.png|thumb|180px|The Flash Fencer class icon]]
+'''Flash Fencer''' is a [[Keves]]i [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Flash Fencer is the class of [[Ethel]] and the first [[Hero]] class unlocked. It focuses on pressuring foes with a dual sword style and felling them in short bursts. 
+
+The class is unlocked by completing ''[[No Want of Courage]]'', and is inherited by [[Noah]]. Its max rank increases to 20 upon having reached rank 10 in both Flash Fencer and [[Seraph]] classes, and then going to the now-unlocked lab in [[Colony Omega]].
+
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|''Class Inheritor''
+|3,300
+|5,775
+|4,125
+|4,950
+|2,475
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 185
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 185
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 230
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 280
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 280
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 300
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 300 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 325
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Achieve Rank 10 with Flash Fencer and [[Seraph]], go to [[Colony Omega]], and have Ethel undergo the maturation process.
+|-
+| 11 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 355
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 470
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 470
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 585
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 585
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 705
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 705
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 765
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 880
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Flash Fencer class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 70% || 100% || 20% || 110% || 100% || 10% || 10%
+|-
+| 10 || 72% || 105% || 22% || 115% || 105% || 12% || 12%
+|-
+| 20 || 75% || 110% || 25% || 120% || 110% || 15% || 15%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 19 || 20% || 4%
+|-
+| 10 || 41 || 21% || 4%
+|-
+| 20 || 75 || 22% || 5%
+|-
+| 30 || 116 || 23% || 5%
+|-
+| 40 || 161 || 24% || 6%
+|-
+| 50 || 216 || 25% || 6%
+|-
+| 60 || 275 || 26% || 6%
+|-
+| 70 || 341 || 27% || 7%
+|-
+| 80 || 416 || 28% || 7%
+|-
+| 90 || 500 || 29% || 8%
+|-
+| 99 || 585 || 30% || 8%
+|}
+
+== Arts ==
+* '''[[Saber Strike]]''' (Talent Art), [[Smash (XC3)|Smash]]
+* '''[[Cross Impact (XC3)|Cross Impact]]''', [[Power Charge]] on hit (Rank 10 Master Art)
+* '''[[Null Slash]]''', AOE/Side Crit. Rate+
+* '''[[Hidden Thorn (XC3)|Hidden Thorn]]''', [[Bleed (XC3)|Bleed]] (Rank 1 Master Art)
+* '''[[Revolution Edge]]''', Back Attack Up
+* '''[[Acceleration]]''', Auto-Atk spd. up/dmg up
+
+=== Hero-exclusive Arts ===
+* '''[[Swallowtail (XC3)|Swallowtail]]''', Back Attack &#8593;
+* '''[[Silver Cyclone]]''', Side Crit. Rate+
+* '''[[Million Flash]]''', Bleed
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 2.png]] '''First Move Wins''',  Boosts damage dealt by 30-50% for the first 30 seconds of battle.
+* [[File:XC3 Skill Icon 31.png]] '''Capable Hands''',  Fills Talent Art recharge gauge by 60-100% at start of battle. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 3.png]] '''Critical Strike''',  Increases critical hit damage bonus by 30-50 percentage points. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 31.png]] '''Fighting Instinct''',  Boosts damage dealt by 25-50% when using a Talent Art (up to a maximum of 200%).
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!First Move Wins
+!Fighting Instinct
+!Critical Strike
+!Capable Hands
+|-
+| 1
+| 30%
+| 25%
+| 30%
+| 60%
+|-
+| 5
+| 35%
+| 30%
+| 35%
+| 70%
+|-
+| 10
+| 40%
+| 35%
+| 40%
+| 80%
+|-
+| 15
+| 45%
+| 40%
+| 45%
+| 90%
+|-
+| 20
+| 50%
+| 50%
+| 50%
+| 100%
+|}
+
+== Trivia ==
+* Flash Fencer's fighting style is based off of Niten-Ichi-Ryu. Which is said to be the use of a short sword, and a longer sword. 
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Ethel Artwork.png|Ethel
+Flash Fencer Noah.png|Noah as a Flash Fencer
+Flash Fencer Mio.png|Mio as a Flash Fencer
+Flash Fencer Eunie.png|Eunie as a Flash Fencer
+Flash Fencer Taion.png|Taion as a Flash Fencer
+Flash Fencer Lanz.png|Lanz as a Flash Fencer
+Flash Fencer Sena.png|Sena as a Flash Fencer
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>tmtvyuxa5kcfzr1xa5xb6hbpqncc5uh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flawless Crystal</title>
+    <ns>0</ns>
+    <id>125651</id>
+    <revision>
+      <id>577148</id>
+      <timestamp>2023-02-16T14:41:56Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Flawless Crystal |image     =  |caption   = Boosts damage dealt by 65% per enemy defeated (to a maximum of 250%). |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Blue]] |sell      = [[Gold|G]] }} '''Flawless Crystals''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s...."</comment>
+      <origin>577148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="dfvp90f88juaq3bmhqvz0u0pi5t2sew" xml:space="preserve">{{Infobox item
+|name      = Flawless Crystal
+|image     = 
+|caption   = Boosts damage dealt by 65% per enemy defeated (to a maximum of 250%).
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Blue]]
+|sell      = [[Gold|G]]
+}}
+'''Flawless Crystals''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Blue]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>dfvp90f88juaq3bmhqvz0u0pi5t2sew</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fleet Moramora (XC3)</title>
+    <ns>0</ns>
+    <id>121822</id>
+    <revision>
+      <id>600369</id>
+      <parentid>559656</parentid>
+      <timestamp>2023-07-21T14:08:54Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */Moramora</comment>
+      <origin>600369</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="857" sha1="60i40xbo692bqcqk412w8sx5ks8pt6k" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Fleet Moramora (XC2)}}
+{{Infobox Enemy
+|name         = Fleet Moramora
+|image        = 
+|caption      = Fleet Moramora
+|category     = Minor Enemy
+|type         = [[Moramora]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Fleet Moramoras''' are Minor Enemies in {{XC3}}. They are members of the [[Moramora]] family, and can be found at level ? in [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Moramoras]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>60i40xbo692bqcqk412w8sx5ks8pt6k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fleeting Shikino</title>
+    <ns>0</ns>
+    <id>119495</id>
+    <revision>
+      <id>596070</id>
+      <parentid>574775</parentid>
+      <timestamp>2023-06-16T20:19:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>596070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1591" sha1="77o6vwc40q4e0htcn7byp6cx43zcxgv" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Fleeting Shikino
+|image        = XC3 4 Blades in the Dark.png
+|caption      = Fleeting Shikino (Middle Right)
+|type         = [[Agnus Forces]]
+|level        = 65
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = After completing ''[[A Young Noble's Request]]''
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,788
+|cp           = 271
+|sp           = 5
+|gold         = 2,560
+|hp           = 1,377,000
+|strength     = 1,233
+|healing      = 532
+|dexterity    = 233
+|agility      = 265
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Fleeting Shikino''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is part of the [[Agnus Forces]], and can be found at level 65 in the former&#160;[[Colony 15]] area in [[Erythia Sea]] after completing ''[[A Young Noble's Request]]''. It forms the quartet "4 Blades in the Dark" with [[Darkening Asha]], [[Miraging Yuri]] and [[Ghosting Lulika]]. The [[Soulhacker#Enemy Skills|Battle Fever]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 50%
+|etherdebuff = 40%
+|knockback = 50%
+|blowdown = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+4 blades in the dark location.png
+4 blades in the dark shikino.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>77o6vwc40q4e0htcn7byp6cx43zcxgv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flier</title>
+    <ns>0</ns>
+    <id>6033</id>
+    <revision>
+      <id>601994</id>
+      <parentid>600737</parentid>
+      <timestamp>2023-07-22T12:21:47Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>601994</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2133" sha1="ctsp4f9u1dly6lor2h4wwbcpvr6urrk" xml:space="preserve">[[file:Weather Flier.jpg|thumb|Flier model]]
+'''Fliers''' (Japanese: {{lang|ja|&#12501;&#12521;&#12452;&#12450;}}, ''Furaia'') are an enemy family in the {{XC|serieslink}}. They are flying insects which look similar to butterflies. All fliers have the same appearance.
+
+== {{XC|-}} ==
+They are only active in the day.
+
+=== Normal Minor Enemies ===
+* [[Atmos Flier]]
+* [[Clima Flier]]
+* [[Clowd Flier]]
+* [[Colony Flier]]
+* [[Fine Flier]]
+* [[Happiness Flier]]
+* [[Weather Flier]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Clowd Flier]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Acenia Flier]]
+* [[Bright Flier]]
+* [[Sweet Flier]]
+
+=== Challenge Battle Mode Enemy ===
+* [[Petal Flier]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Astor Flier]]
+* [[Lapse Flier]]
+* [[Legia Flier]]
+
+=== Quest Exclusive Enemy ===
+* [[Incub Flier]] (During ''[[Homegrown Inventor]]'')
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Illumi Flier]]
+* [[Light Flier]]
+* [[Kroda Flier]]
+
+=== Unique Monster ===
+* [[Perturbed Bilkin]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Baruka Flier]]
+* [[Cave Flier]]
+* [[Light Flier]]
+* [[Prom Flier]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Happiness flier.png|Happiness Flier
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Acenia flier.jpg|Acenia Flier
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+Lapseflier.jpg|Lapse Flier
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Light Flier.png|Light Flier
+Perturbed Bilkin.png|Perturbed Bilkin
+&lt;/gallery&gt;
+
+[[Category:Flying Enemies]]
+[[Category:XC Species]]
+[[Category:Bionis Life]]
+[[Category:XC Fliers]]
+[[Category:XCFC Species]]
+[[Category:XCFC Fliers]]
+[[Category:Mechonis Life]]
+[[Category:Insect Enemies]]
+[[Category:XC2 Fliers]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:XC2 Insects]]
+[[Category:TTGC Species]]
+[[Category:TTGC Insects]]
+[[Category:TTGC Fliers]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:TTGC Insects]]
+[[Category:XC3 Fliers]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Fliers]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Fliers]]
+[[Category:Species by Type]]</text>
+      <sha1>ctsp4f9u1dly6lor2h4wwbcpvr6urrk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flood Socks</title>
+    <ns>0</ns>
+    <id>122866</id>
+    <revision>
+      <id>592769</id>
+      <parentid>592445</parentid>
+      <timestamp>2023-05-15T20:14:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592769</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1036" sha1="nxc7c1ixv7xmpgx7i1jcito400xjxj1" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Flood Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 50 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Flood Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 55 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Flood Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 60 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Flood Socks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>nxc7c1ixv7xmpgx7i1jcito400xjxj1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Floof Pippito</title>
+    <ns>0</ns>
+    <id>121158</id>
+    <revision>
+      <id>559657</id>
+      <parentid>545572</parentid>
+      <timestamp>2022-09-30T10:47:21Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="831" sha1="k3pq82clty2wzwsufs338k0d4xv57uf" xml:space="preserve">{{Infobox Enemy
+|name         = Floof Pippito
+|image        = 
+|caption      = Floof Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Floof Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level ? at [[Great Cotte Falls]] or [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>k3pq82clty2wzwsufs338k0d4xv57uf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Florid Armring</title>
+    <ns>0</ns>
+    <id>118946</id>
+    <revision>
+      <id>592770</id>
+      <parentid>592354</parentid>
+      <timestamp>2023-05-15T20:14:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592770</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1049" sha1="r752rtjx3qpam5k09d9btlf2q93py7k" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Florid Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 15% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Florid Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 20% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Florid Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 25% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Florid Armrings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>r752rtjx3qpam5k09d9btlf2q93py7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Flyswatter Kamado</title>
+    <ns>0</ns>
+    <id>119492</id>
+    <revision>
+      <id>583294</id>
+      <parentid>574354</parentid>
+      <timestamp>2023-04-17T15:29:09Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1322" sha1="pozoi3y9ycsfir9wupyxk4cjgdbbggt" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Flyswatter Kamado
+|image        = XC3 Flyswatter Kamado.png
+|caption      = Flyswatter Kamado
+|type         = [[Antol]]
+|level        = 77
+|area         = [[Erythia Sea]] ([[Daedal Isle]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,980
+|cp           = 211
+|sp           = 5
+|gold         = 1,274
+|hp           = 4,364,450
+|strength     = 2,934
+|healing      = 439
+|dexterity    = 311
+|agility      = 219
+|physdef      = -10%
+|ethdef       = 10%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Flyswatter Kamado''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Antol]] family, and can be found at level 77 on [[Daedal Isle]] in [[Erythia Sea]]. The [[Spider Web]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 65%
+|knockback = 75%
+|blowdown = 75%
+|physdebuff = Immune
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Flyswatter kamado location.png
+Flyswatter kamado.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Antols]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>pozoi3y9ycsfir9wupyxk4cjgdbbggt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Foala Aspar</title>
+    <ns>0</ns>
+    <id>121823</id>
+    <revision>
+      <id>581336</id>
+      <parentid>559658</parentid>
+      <timestamp>2023-04-03T16:19:04Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581336</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="814" sha1="5fh6nfhnqzgmxthiqp80fvpollxfo6d" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Foala Aspar
+|image        = 
+|caption      = Foala Aspar
+|category     = Minor Enemy
+|type         = [[Aspar]]
+|level        = 54
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Foala Aspars''' are Minor Enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level 54 in [[Farlaine Underpass]] in [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5fh6nfhnqzgmxthiqp80fvpollxfo6d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Foggy Piranhax</title>
+    <ns>0</ns>
+    <id>117953</id>
+    <revision>
+      <id>581988</id>
+      <parentid>581970</parentid>
+      <timestamp>2023-04-07T13:38:33Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>581988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="866" sha1="ruw3ieekk1lb3r0lu92pdjmkk2ac8wn" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Foggy Piranhax
+|image        = Foggy Piranhax.png
+|caption      = Foggy Piranhax
+|category     = Normal Enemy
+|type         = [[Piranhax]]
+|level        = 3
+|area         = [[Everblight Plain]] ([[Riccalo Pond]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Foggy Piranhax''' are normal minor enemies in {{XC3}}. They are members of the [[Piranhax]] family and can be found at level 3 In [[Riccalo Pond]] on the [[Everblight Plain]].
+
+== Drops ==
+* [[Refreshing Piranhax Meat]]
+* [[Red Piranhax Egg]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Piranhax]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ruw3ieekk1lb3r0lu92pdjmkk2ac8wn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Foolhardy Saide</title>
+    <ns>0</ns>
+    <id>119462</id>
+    <revision>
+      <id>575196</id>
+      <parentid>574356</parentid>
+      <timestamp>2023-02-02T16:52:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>575196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1349" sha1="hghjhuq06j9ho6aookqfht8jhtiiwxd" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Foolhardy Saide
+|image        = XC3 Foolhardy Saide.png
+|caption      = Foolhardy Saide
+|type         = [[Rhinon]]
+|level        = 58
+|area         = [[Great Sword's Base]] ([[Cradle Convoy Shelter]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,152
+|cp           = 706
+|sp           = 5
+|gold         = 2,210
+|hp           = 2,193,600
+|strength     = 999
+|healing      = 383
+|dexterity    = 171
+|agility      = 193
+|physdef      = 25%
+|ethdef       = 0%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+'''Foolhardy Saide''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Rhinon]] family, and can be found at level 58 near the [[Cradle Convoy Shelter]] at the [[Great Sword's Base]]. The [[Rhino Storm]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|physdebuff = 50%
+|etherdebuff = 70%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Foolhardy saide location.png
+Foolhardy saide.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Rhinons]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hghjhuq06j9ho6aookqfht8jhtiiwxd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Foot Protector</title>
+    <ns>0</ns>
+    <id>118947</id>
+    <revision>
+      <id>592771</id>
+      <parentid>592304</parentid>
+      <timestamp>2023-05-15T20:14:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592771</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1055" sha1="7ukcpdtfst5fxkznx0gjyk5eqjmyiqm" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 10% while stationary or auto attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 11% while stationary or auto attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 12% while stationary or auto attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2510 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Foot Protectors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>7ukcpdtfst5fxkznx0gjyk5eqjmyiqm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Foots</title>
+    <ns>0</ns>
+    <id>121025</id>
+    <revision>
+      <id>597730</id>
+      <parentid>596071</parentid>
+      <timestamp>2023-07-02T16:27:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1687" sha1="mdwqa4i89bpv0khtmz580fcucsycfns" xml:space="preserve">{{Infobox NPC
+|name        = Foots
+|image       = XC3 Foots.png
+|personality = 
+|time_active = Night
+|gender      = Male
+|race        = [[Agnus|Agnian]] human
+|age         = 6th Term
+|location    = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Colony Gamma]])
+}}
+'''Foots''' (Japanese: {{Lang|jp|&#12501;&#12484;}}, ''Futsu'') is an NPC in {{XC3}} who can be found in [[Colony Gamma]].
+
+== Overview ==
+Foots is one of the lieutenants of [[Colony Gamma]] under Commander [[Teach]], alongside [[Kyrie]] and [[Zakir]]. He is the leader of a team including [[Nagumo]] and [[Ysorra]].
+
+== Affinity ==
+* [[Teach]]
+* [[Kyrie]]
+* [[Zakir]]
+* [[Nagumo]]
+* [[Ysorra]]
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Foots
+|image        = 
+|caption      = Foots
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Everblight Plain]]
+|spawntime    = During ''[[Shadow of Enmity]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Foots''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. He is an [[Agnus Forces|Agnus Soldier]], and is fought at level ? at [[Everblight Plain]] during ''[[Shadow of Enmity]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>mdwqa4i89bpv0khtmz580fcucsycfns</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Forin Ansel</title>
+    <ns>0</ns>
+    <id>123003</id>
+    <revision>
+      <id>580336</id>
+      <parentid>559230</parentid>
+      <timestamp>2023-03-24T20:32:05Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>580336</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1005" sha1="dofitk3fjt2m5dz29gmikofhl1pigvz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Forin Ansel
+|image        = 
+|caption      = Forin Ansel
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Ansel]]
+|level        = 42
+|area         = [[Great Cotte Falls]]
+|spawntime    = During ''[[I'm a Mechanic]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Forin Ansels''' are three [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Ansel]] family, and are fought at level 42 at [[Great Cotte Falls]] during ''[[I'm a Mechanic]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ansels]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dofitk3fjt2m5dz29gmikofhl1pigvz</sha1>
+    </revision>
+  </page>
+</mediawiki>

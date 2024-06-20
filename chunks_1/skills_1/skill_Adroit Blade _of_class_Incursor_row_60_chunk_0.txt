@@ -1,0 +1,6 @@
+Skill Name: Adroit Blade 
+
+Class: Incursor
+
+Skill Buff or Effect:  Boosts damage dealt by 8% when landing a critical hit (up to a maximum ofÊ150%).
+

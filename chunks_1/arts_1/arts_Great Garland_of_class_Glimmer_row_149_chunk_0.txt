@@ -1,0 +1,6 @@
+Art Name: Great Garland
+
+Class: Glimmer
+
+Effect: AOE/Area heal on hit
+

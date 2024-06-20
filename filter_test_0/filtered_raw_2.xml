@@ -1,0 +1,2787 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Agnus Attacker</title>
+    <ns>0</ns>
+    <id>117923</id>
+    <revision>
+      <id>596036</id>
+      <parentid>595970</parentid>
+      <timestamp>2023-06-16T20:17:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Stats */cat.</comment>
+      <origin>596036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2058" sha1="3mhbt0vbl4q9bs5qgeiikyriwyiom5z" xml:space="preserve">{{for|the boss variant|Agnus Attacker (boss)}}
+{{Infobox XC3 Enemy
+|name         = Agnus Attacker
+|image        = 
+|type         = [[Agnus Forces]]
+
+|tab1         = Everblight Plain
+|category     = Story Exclusive Enemy
+|level        = 1
+|area         = [[Everblight Plain]]
+|spawntime    = Story Event
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 6
+|cp           = 
+|sp           = 
+
+|tab2         = Alfeto Valley
+|category2    = Story Exclusive Enemy
+|level2       = 6 - 7
+|area2        = [[Alfeto Valley]]
+|spawntime2   = Story Event
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|exp2         = 
+|cp2          = 
+|sp2          = 
+
+|tab3         = Melnath's Shoulder
+|category3    = Story Exclusive Enemy
+|level3       = 8
+|area3        = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]]
+|spawntime3   = Story Event
+|respawn3     = No
+}}
+'''Agnus Attackers''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Agnus Forces|Agnus Soldiers]], and are fought at level 1 in [[Everblight Plain]] and level 6 - 7 in [[Alfeto Valley]] during Chapter 1. One Agnus Attacker from [[Colony Gamma]] attacks [[Mio]], [[Sena]], and [[Taion]] on orders from Consul [[G]] after the three "deserted" from fighting the war against [[Keves]], while also serving as the "first" enemy to be fought by the player controlling the Agnian trio.
+{{clr}}
+
+==Stats==
+{{Enemy arts|art1=Run Through|art2=Rigid Body|art3=Updraft}}
+
+{{Xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>3mhbt0vbl4q9bs5qgeiikyriwyiom5z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Attacker (boss)</title>
+    <ns>0</ns>
+    <id>117934</id>
+    <revision>
+      <id>599913</id>
+      <parentid>597266</parentid>
+      <timestamp>2023-07-17T10:58:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>599913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1075" sha1="peu47n84h7fq5btew2fllxmh60cupuf" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Attacker
+|image        = Sena Agnus Attacker.jpeg
+|caption      = Agnus Attacker
+|category     = Boss
+|type         = [[Agnus Forces]]
+|level        = 8
+|area         = [[Alfeto Valley]] ([[Gura Flava Lowlands]])
+|spawntime    = Story, during ''[[Chapter 1 (XC3)|Chapter 1]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Agnus Attacker''' is a [[Boss (XC3)|Boss]] in {{XC3}}. She is an [[Agnus Forces|Agnus Soldier]] fought at level 8 in the [[Gura Flava Lowlands]] in [[Alfeto Valley]]. She is later revealed to be [[Sena]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>peu47n84h7fq5btew2fllxmh60cupuf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Blaster</title>
+    <ns>0</ns>
+    <id>121794</id>
+    <revision>
+      <id>596038</id>
+      <parentid>595971</parentid>
+      <timestamp>2023-06-16T20:17:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596038</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1202" sha1="c3iwou78nocariqryleo10eih22nsg2" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Blaster
+|image        = 
+|caption      = Agnus Blaster
+|category     = Minor Enemy
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Blasters''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>c3iwou78nocariqryleo10eih22nsg2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Blaster Elite</title>
+    <ns>0</ns>
+    <id>121795</id>
+    <revision>
+      <id>596039</id>
+      <parentid>595655</parentid>
+      <timestamp>2023-06-16T20:17:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596039</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="941" sha1="a82y2ecbtbiqjg00aoycp80xrpwk9ux" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Blaster Elite
+|image        = 
+|caption      = Agnus Blaster Elite
+|category     = Minor Enemy
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Blaster Elites''' are Minor Enemies in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>a82y2ecbtbiqjg00aoycp80xrpwk9ux</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Defender</title>
+    <ns>0</ns>
+    <id>117931</id>
+    <revision>
+      <id>596040</id>
+      <parentid>595972</parentid>
+      <timestamp>2023-06-16T20:17:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596040</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1120" sha1="ph7vm5lbv893vjgm0a5ro4a5cnndrtw" xml:space="preserve">{{for|the boss in {{XC3|-}}|Mio#Battle{{!}}Agnus Defender}}
+{{Infobox XC3 Enemy
+|name         = Agnus Defender
+|image        = 
+|type         = [[Agnus Forces]]
+|category     = Normal Enemy
+|level        = 
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+}} 
+'''Agnus Defenders''' are enemies in {{XC3FR}}. They are [[Agnus Forces|Agnus Soldiers]], and are fought at level ? on [[Aurora Shelf]].
+{{clr}}
+
+{{fr stub}}
+
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>ph7vm5lbv893vjgm0a5ro4a5cnndrtw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Defender (boss)</title>
+    <ns>0</ns>
+    <id>128245</id>
+    <revision>
+      <id>596041</id>
+      <parentid>595822</parentid>
+      <timestamp>2023-06-16T20:17:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596041</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1078" sha1="lntvp95rqj1gewtfhfl66prtesvrjax" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Defender
+|image        = Mio Agnus Defender.jpeg
+|caption      = Agnus Defender
+|category     = Boss
+|type         = [[Agnus Forces]]
+|level        = 8
+|area         = [[Alfeto Valley]] ([[Gura Flava Lowlands]])
+|spawntime    = Story, during ''[[Chapter 1 (XC3)|Chapter 1]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Agnus Defender''' is a [[Boss (XC3)|Boss]] in {{XC3}}. She is an [[Agnus Forces|Agnus Soldier]] and is fought at level 8 at the [[Gura Flava Lowlands]] in [[Alfeto Valley]]. She is then revealed to be [[Mio]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>lntvp95rqj1gewtfhfl66prtesvrjax</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Duoblade</title>
+    <ns>0</ns>
+    <id>117927</id>
+    <revision>
+      <id>596042</id>
+      <parentid>595973</parentid>
+      <timestamp>2023-06-16T20:18:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Stats */cat.</comment>
+      <origin>596042</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1371" sha1="3rv1skxcoq40gb94c66x2lgm5l5gxgk" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Duoblade
+|image        = 
+|caption      = Agnus Duoblade
+|category     = Normal Enemy
+|type         = [[Agnus Forces]]
+|level        = 5
+|area         = [[Alfeto Valley]]&lt;br /&gt;[[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Duoblades''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 5 in [[Alfeto Valley]], or at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+== Stats ==
+{{Enemy arts|art1=Run Through}}
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>3rv1skxcoq40gb94c66x2lgm5l5gxgk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Duoblade Elite</title>
+    <ns>0</ns>
+    <id>121796</id>
+    <revision>
+      <id>596043</id>
+      <parentid>595653</parentid>
+      <timestamp>2023-06-16T20:18:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596043</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="944" sha1="h8v41ohalvitz8sdtksgzcp2v59cc34" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Duoblade Elite
+|image        = 
+|caption      = Agnus Duoblade Elite
+|category     = Minor Enemy
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Duoblade Elites''' are Minor Enemies in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>h8v41ohalvitz8sdtksgzcp2v59cc34</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Fighter A</title>
+    <ns>0</ns>
+    <id>123836</id>
+    <revision>
+      <id>596044</id>
+      <parentid>575445</parentid>
+      <timestamp>2023-06-16T20:18:11Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Resistances */cat.</comment>
+      <origin>596044</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1372" sha1="0dwaspedkmb6chnzu929keuomwlm0kx" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Fighter A
+|image        = XC3 Agnus Fighter A.png
+|caption      = Agnus Fighter A
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 32
+|area         = [[High Maktha Wildwood]] ([[Vista of Rhonnar]])
+|spawntime    = During ''[[Natural Selection]]''
+|respawn      = No
+|exp          = 800
+|cp           = 200
+|hp           = 264,000
+|strength     = 429
+|healing      = 256
+|dexterity    = 160
+|agility      = 100
+|physdef      = 10%
+|ethdef       = 15%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Agnus Fighter A''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are an [[Agnus Forces|Agnus Soldier]], and is fought at level 32 at the [[Vista of Rhonnar]] in [[High Maktha Wildwood]] during ''[[Natural Selection]]''. They are revealed later to be [[Juniper]].
+
+==Resistances==
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 50%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Agnus Forces]]</text>
+      <sha1>0dwaspedkmb6chnzu929keuomwlm0kx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Fighter B</title>
+    <ns>0</ns>
+    <id>123837</id>
+    <revision>
+      <id>596045</id>
+      <parentid>567572</parentid>
+      <timestamp>2023-06-16T20:18:14Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Resistances */cat.</comment>
+      <origin>596045</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1440" sha1="dtrpnzs5t8gmj0on7rs75jl4qdnrj3b" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Fighter B
+|image        = XC3 Agnus Fighter B.png
+|caption      = Agnus Fighter B
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 31
+|area         = [[High Maktha Wildwood]]
+|spawntime    = During ''[[Natural Selection]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 74
+|cp           = 48
+|sp           = 0
+|gold         = 83
+|hp           = 20,320
+|strength     = 100
+|healing      = 228
+|dexterity    = 80
+|agility      = 83
+|physdef      = -15%
+|ethdef       = 25%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+'''Agnus Fighter B''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are a member of the [[Agnus Forces]], and can be found at level 31 in the [[High Maktha Wildwood]] during ''[[Natural Selection]]''. They are later revealed to be [[Selin]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 20%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 0%
+|knockback   = 0%
+|physdebuff  = 0%
+|etherdebuff = 25%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dtrpnzs5t8gmj0on7rs75jl4qdnrj3b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Fighter C</title>
+    <ns>0</ns>
+    <id>123838</id>
+    <revision>
+      <id>596048</id>
+      <parentid>567604</parentid>
+      <timestamp>2023-06-16T20:18:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Resistances */cat.</comment>
+      <origin>596048</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1499" sha1="6zmd9bnu8zhqk2mcy0vv1slfej4u7mm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Fighter C
+|image        = XC3 Agnus Fighter C.png
+|caption      = Agnus Fighter C
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 31
+|area         = [[High Maktha Wildwood]]
+|spawntime    = During ''[[Natural Selection]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 107
+|cp           = 70
+|sp           = 0
+|gold         = 83
+|hp           = 40,640
+|strength     = 115
+|healing      = 207
+|dexterity    = 75
+|agility      = 92
+|physdef      = 25%
+|ethdef       = 10%
+|critrate     = 0%
+|guardrate-front   = 10%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Agnus Fighter C''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are a member of the [[Agnus Forces]], and can be found at level 31 in the [[High Maktha Wildwood]] during ''[[Natural Selection]]''. They are later revealed to be [[Carson]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 30%
+|topple      = 0%
+|daze        = 0% 
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 25%
+|etherdebuff = 0%
+}}
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6zmd9bnu8zhqk2mcy0vv1slfej4u7mm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Fighter D</title>
+    <ns>0</ns>
+    <id>123839</id>
+    <revision>
+      <id>596049</id>
+      <parentid>567600</parentid>
+      <timestamp>2023-06-16T20:18:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Resistances */cat.</comment>
+      <origin>596049</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1444" sha1="lg4cnfvno0puxaysvyvhrien99zp2bw" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Fighter D
+|image        = XC3 Agnus Fighter D.png
+|caption      = Agnus Fighter D
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 31
+|area         = [[High Maktha Wildwood]]
+|spawntime    = During ''[[Natural Selection]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 86
+|cp           = 56
+|sp           = 0
+|gold         = 83
+|hp           = 22,860
+|strength     = 144
+|healing      = 207
+|dexterity    = 112
+|agility      = 64
+|physdef      = 0%
+|ethdef       = 15%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Agnus Fighter D''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are a member of the [[Agnus Forces]], and can be found at level 31 in the [[High Maktha Wildwood]] during ''[[Natural Selection]]''. They are later revealed to be [[Honorine]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 20%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 0%
+|knockback   = 0%
+|physdebuff  = 0% 
+|etherdebuff = 25%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lg4cnfvno0puxaysvyvhrien99zp2bw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Fighter E</title>
+    <ns>0</ns>
+    <id>123840</id>
+    <revision>
+      <id>596050</id>
+      <parentid>582463</parentid>
+      <timestamp>2023-06-16T20:18:23Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Resistances */cat.</comment>
+      <origin>596050</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1446" sha1="hf0b6yw4lc4yhe9m153k37kxo0brmdi" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Fighter E
+|image        = XC3 Agnus Fighter E.png
+|caption      = Agnus Fighter E
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 31
+|area         = [[High Maktha Wildwood]] ([[Vista of Rhonnar]])
+|spawntime    = During ''[[Natural Selection]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 86
+|cp           = 56
+|sp           = 0
+|gold         = 83
+|hp           = 25,400
+|strength     = 144
+|healing      = 207
+|dexterity    = 80
+|agility      = 101
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+'''Agnus Fighter E''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are an [[Agnus Forces|Agnus Soldier]], and are fought at level 31 at the [[Vista of Rhonnar]] in the [[High Maktha Wildwood]] during ''[[Natural Selection]]''. They are later revealed to be [[Imogen]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 20%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 0%
+|knockback   = 0%
+|physdebuff  = 0%
+|etherdebuff = 0%
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Agnus Forces]]</text>
+      <sha1>hf0b6yw4lc4yhe9m153k37kxo0brmdi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Forces</title>
+    <ns>0</ns>
+    <id>123017</id>
+    <revision>
+      <id>601914</id>
+      <parentid>600685</parentid>
+      <timestamp>2023-07-22T12:17:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3169" sha1="t287uci2z4pm2yxglpaxoi7hbpzick6" xml:space="preserve">{{spoiler}}
+[[File:XC3 Agnus Screenshot.png|thumb|Soldiers of Agnus]]
+Throughout {{XC3}} and {{XC3FR|sublink}}, the player will encounter various '''Agnus Forces''' as enemies. They are members of [[Agnus]].
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Ag. Skirmisher Elite]]
+* [[Agnus Attacker]]
+* [[Agnus Blaster]]
+* [[Agnus Blaster Elite]]
+* [[Agnus Duoblade]]
+* [[Agnus Duoblade Elite]]
+* [[Agnus Medic]]
+* [[Agnus Medic Elite]]
+* [[Agnus Scout]]
+* [[Agnus Skirmisher]]
+* [[Agnus Vanguard]]
+* [[Agnus Vanguard Elite]]
+
+=== Quest Exclusive Enemies ===
+* [[Foots]] (During ''[[Shadow of Enmity]]'')
+* [[Jail Blaster]] (During ''[[In Search of a Home]]'')
+* [[Jail Duoblade]] (During ''In Search of a Home'')
+* [[Jail Medic]] (During ''In Search of a Home'')
+* [[Jail Scout]] (During ''In Search of a Home'')
+* [[Jail Skirmisher]] (During ''In Search of a Home'')
+* [[Jail Vanguard]] (During ''In Search of a Home'')
+* [[Mina]] (During ''Shadow of Enmity'')
+* [[Nagumo]] (During ''Shadow of Enmity'')
+* [[Schoon]] (During ''Shadow of Enmity'')
+* [[Ysorra]] (During ''Shadow of Enmity'')
+* [[Zakir]] (During ''Shadow of Enmity'')
+
+=== Unique Monsters ===
+* [[Darkening Asha]]
+* [[Fleeting Shikino]]
+* [[Ghosting Lulika]]
+* [[Godlike Krastor]]
+* [[Miraging Yuri]]
+* [[Impregnable Sandhu]]
+
+=== Bosses ===
+* [[Agnus Attacker (boss)|Agnus Attacker]]
+* [[Agnus Defender (boss)|Agnus Defender]]
+* [[Agnus Healer]]
+* [[Miyabi#Battle|Glorysong Miyabi]]
+* [[Hackt#Battle|Hackt]]
+* [[Queen of Agnus (boss)|Queen of Agnus]]
+* [[Cammuravi#Battle|Smoldering Cammuravi]]
+
+=== Quest Exclusive Bosses ===
+* [[Agnus Fighter A]] (During ''[[Natural Selection]]'')
+* [[Agnus Fighter B]] (During ''Natural Selection'')
+* [[Agnus Fighter C]] (During ''Natural Selection'')
+* [[Agnus Fighter D]] (During ''Natural Selection'')
+* [[Agnus Fighter E]] (During ''Natural Selection'')
+* [[Agnus Vanguard Elite (boss)|Agnus Vanguard Elite]] (The "Erythia Relay Force", during ''[[A Farewell Reset]]'')
+* [[Alexandria#Battle|Craftmaiden Alexandria]] (During ''[[Her Reasons]]'')
+* [[Teach#Battle|Inscrutable Teach]] (During ''[[Going Beyond Power]]'')
+* [[Prison Warden]] (During ''[[In Search of a Home]]'')
+
+=== Challenge Battle Mode Enemies ===
+* [[Isurd#Challenge Battle|Dawnhero Isurd]]
+* [[Juniper#Challenge Battle|Ghostbow Juniper]]
+* [[Fiona#Challenge Battle|Proudbanner Fiona]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Agnus Attacker]]
+* [[Agnus Blaster]]
+* [[Agnus Defender]]
+* [[Agnus Duoblade]]
+* [[Agnus High Scout]]
+* [[Agnus Medic Elite]]
+* [[Agnus Skirmisher]]
+* [[Agnus Vanguard]]
+
+=== Bosses ===
+* [[Desperate Agnian]]
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Agnus Screenshot 2.jpeg|Agnus Forces
+Three Agnus Soldiers.jpeg|The Three Agnus Forces Mio, Sena, and Taion
+Desperate Agnian.jpg|The Desperate Agnian Glimmer
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+{{Fr stub}}
+[[Category:Agnus]]
+[[Category:XC3 Species]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3 Enemies by Category]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Humanoids]]
+[[Category:XC3FR Enemies by Category]]
+[[Category:Agnus Forces]]
+[[Category:Species by Type]]</text>
+      <sha1>t287uci2z4pm2yxglpaxoi7hbpzick6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Healer</title>
+    <ns>0</ns>
+    <id>117936</id>
+    <revision>
+      <id>596052</id>
+      <parentid>595821</parentid>
+      <timestamp>2023-06-16T20:18:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596052</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1066" sha1="5oiy71toignfb2nn2hcfgfphvrdijun" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Healer
+|image        = Taion Agnus Healer.jpeg
+|caption      = Agnus Healer
+|category     = Boss
+|type         = [[Agnus Forces]]
+|level        = 8
+|area         = [[Alfeto Valley]] ([[Gura Flava Lowlands]])
+|spawntime    = Story, during ''[[Chapter 1 (XC3)|Chapter 1]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Agnus Healer''' is a [[Boss (XC3)|Boss]] in {{XC3}}. He is an [[Agnus Forces|Agnus Soldier]] and is fought at level 8 at the [[Gura Flava Lowlands]] in [[Alfeto Valley]]. He is then revealed to be [[Taion]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>5oiy71toignfb2nn2hcfgfphvrdijun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Medic</title>
+    <ns>0</ns>
+    <id>117924</id>
+    <revision>
+      <id>596054</id>
+      <parentid>580261</parentid>
+      <timestamp>2023-06-16T20:18:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596054</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1067" sha1="rvckxq9tat3nipcoh2r1g3zxal4ezm9" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Medic
+|image        = 
+|caption      = Agnus Medic
+|category     = Normal Enemy
+|type         = [[Agnus Forces]]
+|level        = 6
+|area         = [[Alfeto Valley]]&lt;br /&gt;[[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Medics''' are enemies in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 6 in [[Alfeto Valley]], or at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rvckxq9tat3nipcoh2r1g3zxal4ezm9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Medic Elite</title>
+    <ns>0</ns>
+    <id>123004</id>
+    <revision>
+      <id>596055</id>
+      <parentid>596030</parentid>
+      <timestamp>2023-06-16T20:18:39Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1146" sha1="ncwjo7hfb0ciwf251y1uqq5tfhsp2a7" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Medic Elite
+|image        = 
+|caption      = Agnus Medic Elite
+|category     = Minor Enemy
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Medic Elites''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level ? at [[Urayan Trail]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>ncwjo7hfb0ciwf251y1uqq5tfhsp2a7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Scout</title>
+    <ns>0</ns>
+    <id>121023</id>
+    <revision>
+      <id>596056</id>
+      <parentid>580268</parentid>
+      <timestamp>2023-06-16T20:18:42Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596056</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1197" sha1="dyhblu8k6ncbrrtj2xa7ibg5cow27qh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Scout
+|image        = 
+|caption      = Agnus Scout
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]&lt;br /&gt;Minor Enemy
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Everblight Plain]]&lt;br /&gt;[[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Scouts''' are Minor Enemies in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]]. They can be found as [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] at level ? at [[Everblight Plain]] in the [[Aetia Region]] during ''[[Shadow of Enmity]]''. They can be found as normal enemies at level ? in [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>dyhblu8k6ncbrrtj2xa7ibg5cow27qh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Skirmisher</title>
+    <ns>0</ns>
+    <id>121024</id>
+    <revision>
+      <id>596057</id>
+      <parentid>595997</parentid>
+      <timestamp>2023-06-16T20:18:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1422" sha1="ezxywqiym0v2fxoiaqs3m86eyo5d9rw" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Skirmisher
+|image        = 
+|caption      = Agnus Skirmisher
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]&lt;br /&gt;Minor Enemy
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Aetia Region]]&lt;br /&gt;[[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Skirmishers''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Agnus Forces]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]] during ''[[Shadow of Enmity]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>ezxywqiym0v2fxoiaqs3m86eyo5d9rw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Soldier</title>
+    <ns>0</ns>
+    <id>125794</id>
+    <revision>
+      <id>596058</id>
+      <parentid>579345</parentid>
+      <timestamp>2023-06-16T20:18:48Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596058</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1034" sha1="pkmenj6zjpyvvv1u0w2paza13v2nqua" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Soldier
+|image        = 
+|caption      = Agnus Soldier
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = 42
+|area         = [[Millick Meadows]] ([[Wraiths' Void]])
+|spawntime    = During ''[[For Colony 9]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Agnus Soldier''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Eneny]] in {{XC3}}. They are a member of the [[Agnus Forces]], and is encountered at level 42 at [[Wraiths' Void]] in [[Millick Meadows]] during ''[[For Colony 9]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>pkmenj6zjpyvvv1u0w2paza13v2nqua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Vanguard</title>
+    <ns>0</ns>
+    <id>117926</id>
+    <revision>
+      <id>596059</id>
+      <parentid>596031</parentid>
+      <timestamp>2023-06-16T20:18:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Stats */cat.</comment>
+      <origin>596059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1446" sha1="i7ghq3h2vtupgf35rfmnujp2ie2goog" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Vanguard
+|image        = 
+|caption      = Agnus Vanguard
+|category     = Story Exclusive Enemy
+|type         = [[Agnus Forces]]
+|level        = 6
+|area         = [[Alfeto Valley]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Vanguards''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level 6 in [[Alfeto Valley]] and at level 22.
+{{clr}}
+
+== Stats ==
+{{Enemy arts|art1=Valiant Tackle}}
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Agnus Forces]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>i7ghq3h2vtupgf35rfmnujp2ie2goog</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Vanguard Elite</title>
+    <ns>0</ns>
+    <id>121797</id>
+    <revision>
+      <id>596060</id>
+      <parentid>595936</parentid>
+      <timestamp>2023-06-16T20:18:54Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596060</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="872" sha1="kk7x0b8l7ycusxfaevmx9wa27pri2mh" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Vanguard Elite
+|image        = 
+|caption      = Agnus Vanguard Elite
+|category     = Minor Enemy
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Agnus Vanguard Elites''' are Minor Enemies in {{XC3}}. They are [[Agnus Forces|Agnus Soldiers]], and can be found at level ? in [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>kk7x0b8l7ycusxfaevmx9wa27pri2mh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agnus Vanguard Elite (boss)</title>
+    <ns>0</ns>
+    <id>128265</id>
+    <revision>
+      <id>596062</id>
+      <parentid>595937</parentid>
+      <timestamp>2023-06-16T20:18:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1352" sha1="bhxm6kz84ffiyuz9y05se897xvrgp15" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Agnus Vanguard Elite
+|image        = 
+|caption      = Agnus Vanguard Elite
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 56
+|area         = [[Erythia Sea]] ([[Erythia Relay Base]])
+|spawntime    = During ''[[A Farewell Reset]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Agnus Vanguard Elites''' are five [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are a group of [[Agnus Forces|Agnus Soldiers]] called '''Erythia Relay Force''' and are fought at level 56 in the [[Erythia Relay Base]] in the [[Cadensia Region]] during ''[[A Farewell Reset]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bhxm6kz84ffiyuz9y05se897xvrgp15</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aknis Aligo</title>
+    <ns>0</ns>
+    <id>123011</id>
+    <revision>
+      <id>595999</id>
+      <parentid>572441</parentid>
+      <timestamp>2023-06-16T19:44:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1273" sha1="p1tnpdqzrx1jlvan9clyqadum7bxtal" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Aknis Aligo
+|image        = XC3 Aknis Aligo.jpg
+|caption      = Aknis Aligo
+|category     = Minor Enemy
+|type         = [[Aligo]]
+|level        = 56
+|area         = [[Erythia Sea]] ([[Cape Arcaphor]] )
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Aknis Aligos''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Aligo]] family, and can be found at level 56 at [[Cape Arcaphor]] in the [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Aligos]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Aligos]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>p1tnpdqzrx1jlvan9clyqadum7bxtal</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alaat Ageshu</title>
+    <ns>0</ns>
+    <id>121198</id>
+    <revision>
+      <id>576698</id>
+      <parentid>559515</parentid>
+      <timestamp>2023-02-12T19:53:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="963" sha1="cfuxvmfko16x16whh0flxq0zquillpj" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Alaat Ageshu
+|image        = Alaat Ageshu.png 
+|caption      = Alaat Ageshu
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Ageshu]]
+|level        = 54
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = During ''[[Learning from Lambda]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Alaat Ageshus''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Ageshu]] family, and are fought at level 54 in [[Low Maktha Wildwood]] during ''[[Learning from Lambda]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Ageshus]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>cfuxvmfko16x16whh0flxq0zquillpj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alaat Quadwing</title>
+    <ns>0</ns>
+    <id>121199</id>
+    <revision>
+      <id>576697</id>
+      <parentid>559516</parentid>
+      <timestamp>2023-02-12T19:52:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>576697</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="981" sha1="a9u1rnpoi248l7dihsf2qic6tztefx6" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Alaat Quadwing
+|image        = Alaat Quadwing.png 
+|caption      = Alaat Quadwing
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Quadwing]]
+|level        = 54
+|area         = [[Low Maktha Wildwood]]
+|spawntime    = During ''[[Learning from Lambda]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Alaat Quadwings''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Quadwing]] family, and are fought at level 54 in the [[Low Maktha Wildwood]] during ''[[Learning from Lambda]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>a9u1rnpoi248l7dihsf2qic6tztefx6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alaat Skwaror</title>
+    <ns>0</ns>
+    <id>121184</id>
+    <revision>
+      <id>578441</id>
+      <parentid>559517</parentid>
+      <timestamp>2023-03-03T14:56:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>578441</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1039" sha1="0g3nps344yu85vgaagi5y99s6xt6onv" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Alaat Skwaror
+|image        = Alaat Skwaror.png 
+|caption      = Alaat Skwaror
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Skwaror]]
+|level        = 53 - 54
+|area         = [[High Maktha Wildwood]] ([[Tree Hollow Opening]])
+|spawntime    = During ''[[Learning from Lambda]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Alaat Skwarors''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Skwaror]] family, and are fought at level 53 - 54 at the [[Tree Hollow Opening]] in [[High Maktha Wildwood]] during ''[[Learning from Lambda]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Skwarors]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0g3nps344yu85vgaagi5y99s6xt6onv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alderra Bunnit</title>
+    <ns>0</ns>
+    <id>123190</id>
+    <revision>
+      <id>595160</id>
+      <parentid>559518</parentid>
+      <timestamp>2023-06-11T14:53:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1633" sha1="ikbmsprf37hmjhg9axzm81juumcvhuk" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Alderra Bunnit
+|image        = 
+|caption      = Alderra Bunnit
+|category     = Normal Minor Enemy
+|type         = [[Bunnit]]
+|level        = 44-45
+|area         = [[Rae-Bel Tableland]] ([[Elsayer Cape]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Alderra Bunnits''' are Normal Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level 44-45 at [[Elsayer Cape]] on [[Rae-Bel Tableland]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Alderra Bunnit
+|image        = Alderra Bunnit FR.jpg
+|caption      = Alderra Bunnit
+|category     = Normal Enemy
+|type         = [[Bunnit]]
+|level        = 4-6
+|area         = [[Vermilion Woods]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+}}
+'''Alderra Bunnits''' are normal enemies in {{XC3FR}}. They are members of the [[Bunnit]] family, and can be found at level 4-6 in [[Vermilion Woods]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3FR Bunnits]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3FR Level 1-5 Enemies]]
+[[Category:XC3FR Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>ikbmsprf37hmjhg9axzm81juumcvhuk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alderra Hox</title>
+    <ns>0</ns>
+    <id>123222</id>
+    <revision>
+      <id>559519</id>
+      <parentid>553552</parentid>
+      <timestamp>2022-09-30T10:42:09Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="768" sha1="lo0tdjaeu0zz0zrya4yme85g611ip3t" xml:space="preserve">{{Infobox Enemy
+|name         = Alderra Hox
+|image        = 
+|caption      = Alderra Hox
+|category     = Minor Enemy
+|type         = [[Hox]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Alderra Hoxes''' are Minor Enemies in {{XC3}}. They are members of the [[Hox]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>lo0tdjaeu0zz0zrya4yme85g611ip3t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alexandria</title>
+    <ns>0</ns>
+    <id>117402</id>
+    <revision>
+      <id>600214</id>
+      <parentid>600153</parentid>
+      <timestamp>2023-07-20T17:35:55Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added ENG IMDB link</comment>
+      <origin>600214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6954" sha1="4c92xifjewjmv9mqnkhxeqnfgw02he6" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Alexandria
+|image         = XC3 Alexandria Portrait Art.png
+|species       = [[Agnus|Agnian]] human
+|gender        = Female
+|age           = 6th Term
+|haircolor     = Brown
+|eyecolor      = Green
+|affiliation   = [[Colony Iota]]
+|voiceactorjp  = [[wikipedia:Ami Koshimizu|Ami Koshimizu]]
+|voiceactoreng = [https://www.imdb.com/name/nm2477879/ Sharlit Deyzac]
+|appearances   = {{XC3}}
+}}
+'''Alexandria''' (Japanese: {{lang|ja|&#12491;&#12452;&#12490; }}, ''N&#299;na'') is a character in {{XC3}}.
+
+== Overview ==
+She can be recruited as a [[Hero]].&lt;ref&gt;https://www.nintendo.co.jp/switch/az3ha/story/index.html&lt;/ref&gt; Alexandria is the commander of [[Colony Iota]], and she has got a strong reputation in [[Agnus]] as well as in [[Keves]] for her skillful swordsmanship and strategies like her ability to judge the war situation.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1544940782104223744&lt;/ref&gt;&lt;ref&gt;https://twitter.com/XenobladeJP/status/1544941904449589248&lt;/ref&gt;&lt;ref&gt;https://twitter.com/NintendoEurope/status/1544954395577679874&lt;/ref&gt; She helped invent the [[Collectopaedia (XC3)|Collectopedia Cards]] as a method of streamlining logistics and gathering intelligence on other colonies.
+
+Alexandria is recruited by completing the [[Hero Quest]] ''[[Her Reasons]]''. Her [[Class Rank (XC3)|Class Rank]] can be increased to 20 by completing the Ascension Quest ''[[Inescapable Past]]''.
+
+== Story ==
+
+== Gameplay ==
+Her [[Class (XC3)|class]] is [[Incursor]], an [[Attacker]] class. She wields a sword-like [[Blade (XC3)|blade]] to cut down [[Enemy (XC3)|enemies]] with her brilliant swordsmanship. Each time she makes a critical hit, her attack power increases, making her stronger and stronger in battle. 
+
+Alexandria's [[Chain Attack (XC3)|Chain Art]] is [[Whistling Blades]],&lt;ref&gt;https://twitter.com/XenobladeJP/status/1544940771534462976&lt;/ref&gt; and her Heroic Chain bonus gives her TP a 125% modifier as well as making all of her attacks critical if she is the first to act during a Chain Order.
+
+=== Base Stats ===
+These are Alexandria's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Incursor class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 386 || 24 || 20 || 32 || 22
+|-
+| 99 || 6,429 || 403 || 340 || 324 || 220
+|}
+
+=== General Stats ===
+These stats assume Alexandria is at rank 20 in her class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Alexandria has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+| 1, base||289||47 (+20)||4||33||22||25%||3%||20%||10%
+|-
+| 99, base||4,821||1,058 (+70)||68||340||220||35%||6%||20%||10%
+|-
+| 99, with default accessories||4,821||1,058 (+70)||68||340||220||57%||6%||20%||10%
+|}
+
+Alexandria equips the following gems:
+* [[Steady Striker]]
+* [[Steelcleaver]], at level 20 onwards
+* [[Analyze Weakness]], at level 40 onwards
+
+Alexandria equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Ice Headband (XC3)|Ice Headband]]
+* [[Vibrant Armring]], at level 30 onwards
+* [[Thermo Headgear]], at level 50 onwards
+{{Clr}}
+
+== Affinity ==
+* [[Valdi]]
+* [[Chickadee]]
+* [[Chelle]]
+* [[Fili]]
+* [[Rhyza]]
+* [[Sequoia]]
+* [[Pulipuli]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Craftmaiden Alexandria
+|image        = 
+|caption      = Craftmaiden Alexandria
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 41
+|area         = [[Elaice Highway]] ([[Colony Iota]])
+|spawntime    = During ''[[Her Reasons]]''
+|respawn      = No
+|movement     = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Craftmaiden Alexandria''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is an [[Agnus Forces|Agnus Soldier]] who is fought at level 41 in [[Colony Iota]] at [[Elaice Highway]] during ''[[Her Reasons]]''.
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Craftmaiden Alexandria
+|image        = 
+|caption      = Craftmaiden Alexandria
+|type         = [[Agnus Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 3,519,120
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Craftmaiden Alexandria''' is fought at level 120 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+
+{{clr}}
+
+== Etymology ==
+[[wikipedia:Alexandria|Alexandria]] (Greek: &#913;&#955;&#949;&#958;&#940;&#957;&#948;&#961;&#949;&#953;&#945;) is an ancient Greek city in Egypt. It was once home to the [[wikipedia:Library of Alexandria|Library of Alexandria]], one of the largest libraries of the ancient world which acted as a universal collection of all knowledge.
+
+== Trivia ==
+* Alexandria's Japanese voice actress, Ami Koshimizu, also voices [[Perun]] in {{XC2}}. She also provides the "Sultry" female voice for [[Cross]] in {{XCX}}.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Alexandria Artwork.png|Official Artwork
+XC3 Alexandria as an Incursor.jpg
+Teach and Alexandria Concept Art.png|Alexandria's Concept Art
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Alexandria Hero Icon.png|Hero List Icon
+Strm order thumb025 0.png
+Alexandria Level Up Art.png
+Icon chara 17.png
+Icon chara battle 18.png
+Alexandria Affinity.png|Alexandria's Affinity Chart Icon
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Alexandria screenshot 01.jpg
+XC3 Alexandria screenshot 02.jpg
+XC3 Alexandria screenshot 03.jpg
+XC3 Alexandria screenshot 04.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Alexandria]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>4c92xifjewjmv9mqnkhxeqnfgw02he6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aligo</title>
+    <ns>0</ns>
+    <id>76238</id>
+    <revision>
+      <id>601915</id>
+      <parentid>600686</parentid>
+      <timestamp>2023-07-22T12:17:13Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>601915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1959" sha1="44md8buixm7ms4kmrknb49i0s1im5l5" xml:space="preserve">[[file:TarunAligo.jpg|thumb|Tarun Aligo]]
+'''Aligos''' are a family of enemies in the {{XC|serieslink}}. They resemble sharks with arms, and come in red and green varieties. 
+
+== {{XC2|-}} ==
+In {{XC2}}, Aligos can be found near water or, often, after [[Salvaging]].
+
+=== Normal Minor Enemies ===
+* [[Ferrii Aligo]] (after salvaging)
+* [[Fissa Aligo]] (after salvaging)
+* [[Flink Aligo]] (after salvaging)
+* [[Fuvor Aligo]]
+* [[Jumbri Aligo]] (after salvaging)
+* [[Obri Aligo]]
+* [[Rekon Aligo]] (after salvaging)
+* [[Smart Aligo]]
+
+=== Quest Exclusive Enemies ===
+* [[Tarun Aligo]] (during ''[[Follow Your Passion]]'')
+* [[Tronk Aligo]] (during ''[[Eternal Spirit]]'')
+
+=== Boss ===
+* [[Megalo Aligo]]
+
+=== Challenge Battle Mode Enemies ===
+* [[Bluth Aligo]]
+* [[Megayogre Aligo]]
+* [[Megaspoony Aligo]]
+* [[Reddeth Aligo]]
+* [[Spektr Aligo]]
+* [[Spoony Aligo]]
+* [[Yogre Aligo]]
+
+== {{XC3|-}} ==
+In {{XC3}}, Aligos can be found near water.
+
+=== Normal Minor Enemies ===
+* [[Aknis Aligo]]
+* [[Spocked Aligo]]
+
+=== Quest Exclusive Enemy ===
+* [[Armuvore Aligo]] (During ''[[To Face Forward]]'')
+
+=== Unique Monster ===
+* [[Massive Georges]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Aknis Aligo]]
+* [[Spocked Aligo]]
+
+=== Unique Monster ===
+* [[Smackdown Brannigan]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+XC2 Fuvor Aligo.jpeg|Fuvor Aligo
+YogreAligo.jpg|Yogre Aligo
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Massive Georges.png|Massive Georges
+XC3 Aknis Aligo.jpg|Aknis Aligo
+Armuvore Aligo.png|Armuvore Aligo
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Smackdown Brannigan.jpg|Smackdown Brannigan
+Spocked Aligo FR.jpg|Spocked Aligo
+&lt;/gallery&gt;
+
+[[Category:XC2 Aligos]]
+[[Category:XC2 Species]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:XC3 Aligos]]
+[[Category:XC3 Species]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Aligos]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Aligos]]
+[[Category:Species by Type]]</text>
+      <sha1>44md8buixm7ms4kmrknb49i0s1im5l5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alsel Toray</title>
+    <ns>0</ns>
+    <id>121723</id>
+    <revision>
+      <id>598157</id>
+      <parentid>579972</parentid>
+      <timestamp>2023-07-04T16:41:46Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="5fro1pw1z657rjapazngs8wlfawhfbb" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Alsel Toray
+|image        = Alsel Toray.jpg
+|caption      = Alsel Toray
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 68-69
+|area         = [[Origin Interior]] ([[Hangar Zone]], [[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Alsel Torays''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 68-69 in the [[Hangar Zone]] and [[Central Defense]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5fro1pw1z657rjapazngs8wlfawhfbb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alsel Zetoray</title>
+    <ns>0</ns>
+    <id>123243</id>
+    <revision>
+      <id>598164</id>
+      <parentid>579975</parentid>
+      <timestamp>2023-07-04T16:48:53Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="819" sha1="ijrwfogp2bukfa79w662jd5tb9nmnd2" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Alsel Zetoray
+|image        = Alsel Zetoray.jpg
+|caption      = Alsel Zetoray
+|category     = Normal Minor Enemy
+|type         = [[Droids]]
+|level        = 69-70
+|area         = [[Origin Interior]] ([[Hangar Zone]], [[Central Defense]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Alsel Zetorays''' are Normal Minor Enemies in {{XC3}}. They are [[Droids]], and can be found at level 69-70 in the [[Hangar Zone]] and [[Central Defense]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Droids]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ijrwfogp2bukfa79w662jd5tb9nmnd2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Altruistic Maribel</title>
+    <ns>0</ns>
+    <id>118674</id>
+    <revision>
+      <id>581057</id>
+      <parentid>581044</parentid>
+      <timestamp>2023-03-31T12:53:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <origin>581057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1476" sha1="atru5wl3ckockjyirbh7d295qyckevb" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Altruistic Maribel
+|image        = Altruistic Maribel.png
+|caption      = Altruistic Maribel
+|type         = [[Skeeter]]
+|level        = 29
+|area         = [[Millick Meadows]] ([[Murmur Rise]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 492
+|cp           = 250
+|sp           = 5
+|gold         = 579
+|hp           = 439,850
+|strength     = 429
+|healing      = 229
+|dexterity    = 106
+|agility      = 124
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 15%
+|guardrate-front   = 0%
+|guardrate-side    = 0%
+|guardrate-back    = 0%
+}}
+'''Altruistic Maribel''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Skeeter]] family, and can be found at level 29 at [[Murmur Rise]] in [[Millick Meadows]]. The "Air Body" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 25%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Altruistic maribel location.png
+Altruistic maribel.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>atru5wl3ckockjyirbh7d295qyckevb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amari Vang (XC3)</title>
+    <ns>0</ns>
+    <id>121799</id>
+    <revision>
+      <id>559523</id>
+      <parentid>558051</parentid>
+      <timestamp>2022-09-30T10:42:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559523</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="jzzcnhrqoa6xd87s41jviy209njjv0v" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Amari Vang (XC2)}}
+{{Infobox Enemy
+|name         = Amari Vang
+|image        = 
+|caption      = Amari Vang
+|category     = Minor Enemy
+|type         = [[Vang]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Amari Vangs''' are Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>jzzcnhrqoa6xd87s41jviy209njjv0v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ambusher Tirion</title>
+    <ns>0</ns>
+    <id>119457</id>
+    <revision>
+      <id>581058</id>
+      <parentid>581045</parentid>
+      <timestamp>2023-03-31T12:53:50Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <origin>581058</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1497" sha1="33d3romvm4xg2tos5iwv8pxamtckege" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Ambusher Tirion
+|image        = XC3 Ambusher Tirion.png
+|caption      = Ambusher Tirion
+|type         = [[Levnis]]
+|level        = 39
+|area         = [[Syra Hovering Reefs]] ([[Ether Mine (XC3)|Ether Mine]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,118
+|cp           = 436 
+|sp           = 5
+|gold         = 3,264
+|hp           = 825,600
+|strength     = 740
+|healing      = 333
+|dexterity    = 121
+|agility      = 136
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 23%
+|guardrate    = 5%
+}}
+'''Ambusher Tirion''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 39 in the [[Syra Hovering Reefs]], near [[Keves Castle]] entrance at the [[Ether Mine (XC3)|Ether Mine]]. The "Damage Share" [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+
+==Resistances==
+{{XC3 Resistances
+|break       = 75%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 100%
+|knockback   = 100%
+|physdebuff  = 75%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+==Gallery==
+&lt;gallery&gt;
+Ambusher tirion location.png
+Ambusher tirion.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>33d3romvm4xg2tos5iwv8pxamtckege</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amity Flier</title>
+    <ns>0</ns>
+    <id>121008</id>
+    <revision>
+      <id>582465</id>
+      <parentid>573423</parentid>
+      <timestamp>2023-04-11T16:05:11Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582465</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="792" sha1="r6xy02vt6u4upks8huuunl83z4f8u7w" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Amity Flier
+|image        = 
+|caption      = Amity Flier
+|category     = Minor Enemy
+|type         = [[Flier]]
+|level        = 41
+|area         = [[Everblight Plain]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Amity Fliers''' are Minor Enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 41 at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>r6xy02vt6u4upks8huuunl83z4f8u7w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amity Skeeter</title>
+    <ns>0</ns>
+    <id>122185</id>
+    <revision>
+      <id>580816</id>
+      <parentid>559525</parentid>
+      <timestamp>2023-03-29T20:07:39Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>580816</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="765" sha1="jfbzowqnj1k0tk5w1ygy6biqsc25m6h" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Amity Skeeter
+|image        = Amity Skeeter.jpg
+|caption      = Amity Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = 23
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Amity Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level 23 in [[Millick Meadows]] of the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>jfbzowqnj1k0tk5w1ygy6biqsc25m6h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amity Wisp</title>
+    <ns>0</ns>
+    <id>121079</id>
+    <revision>
+      <id>559526</id>
+      <parentid>545406</parentid>
+      <timestamp>2022-09-30T10:42:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559526</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="782" sha1="e97ofqdcqw55z007xnz4wjtbz6270is" xml:space="preserve">{{Infobox Enemy
+|name         = Amity Wisp
+|image        = 
+|caption      = Amity Wisp
+|category     = Minor Enemy
+|type         = [[Wisp]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Amity Wisps''' are Minor Enemies in {{XC3}}. They are members of the [[Wisp]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Wisps]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>e97ofqdcqw55z007xnz4wjtbz6270is</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amoney</title>
+    <ns>0</ns>
+    <id>117482</id>
+    <revision>
+      <id>601917</id>
+      <parentid>600687</parentid>
+      <timestamp>2023-07-22T12:17:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>601917</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="cwzdrhyz2up8v4fhf25i93yo1smoj5n" xml:space="preserve">[[file:XC3 Budding Francis.png|thumb|Budding Francis]]
+'''Amoneys''' are a family of aquatic enemies in {{XC3}} and {{XC3FR|sublink}}.
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Gerran Amoney]]
+* [[Hanassa Amoney]]
+* [[Polima Amoney]]
+* [[Ranule Amoney]]
+
+=== Unique Monsters ===
+* [[Budding Francis]]
+* [[Phantom Streya]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Polima Amoney]]
+
+=== Quest Exclusive Boss ===
+* [[???]] (During ''[[Linka's Birthday]]'')
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Phantom Streya.png|Phantom Streya
+&lt;/gallery&gt;
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Amoneys]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Amoneys]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Amoneys]]
+[[Category:Species by Type]]</text>
+      <sha1>cwzdrhyz2up8v4fhf25i93yo1smoj5n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Analyze Weakness</title>
+    <ns>0</ns>
+    <id>118890</id>
+    <revision>
+      <id>595271</id>
+      <parentid>595261</parentid>
+      <timestamp>2023-06-11T16:36:28Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6348" sha1="8nwp1d4d1640v45p1peneh19dldha3n" xml:space="preserve">{{Infobox Gem
+| name     = Analyze Weakness
+| image    = Gem-attacker.png
+| effect   = [Passive] Increases critical hit damage bonus by ''(value)'' percentage points.
+| category = Attacker
+| max      = 70
+}}
+'''Analyze Weakness''' is an Attacker [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Critical Hit Increase
+|-
+!I
+|20
+|-
+!II
+|25
+|-
+!III
+|30
+|-
+!IV
+|35
+|-
+!V
+|40
+|-
+!VI
+|45
+|-
+!VII
+|50
+|-
+!VIII
+|55
+|-
+! IX
+|60
+|-
+!X
+|70
+|}
+
+== List of Recipes ==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="sortable xc1 centered" width=100%
+!Name !!Ingredients
+!Rarity !!Coin Cost
+|-
+|Analyze Weakness  I
+|[[Gemstone]]&lt;br /&gt;[[Crustip Jet Spray]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Analyze Weakness II 
+|Gemstone&lt;br /&gt;[[Sharp Hox Horn]]&lt;br /&gt;[[Ropl Jaw]]&lt;br /&gt;[[Ether Penguin Fossil]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Analyze Weakness III
+|Gemstone&lt;br /&gt;[[Igna Weapon]]&lt;br /&gt;[[Withered Kapiba Branch]]&lt;br /&gt;[[Pale Skeeter Wing]]&lt;br /&gt;[[Gromrice (XC3)|Gromice]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Analyze Weakness IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Serrated Aligo Fang]]&lt;br /&gt;[[Quardun Fang]]&lt;br /&gt;[[Testudo Shoulder Gun]]&lt;br /&gt;[[Condimenut]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Analyze Weakness V
+|Pure Gemstone&lt;br /&gt;[[Equites Tank Wheel]] x 2&lt;br /&gt;[[Centuris Legs]] x 2&lt;br /&gt;[[Arachno Pincer]] x 2&lt;br /&gt;[[Ion Booster]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+| Analyze Weakness VI
+|Pure Gemstone&lt;br /&gt;[[Vollgull Mask]] x 2&lt;br /&gt;[[Blooming Ellook Flower]] x 2&lt;br /&gt;[[Ories Headplate]] x 2&lt;br /&gt;[[Strong Dandelion (XC3)|Strong Dandelion]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Analyze Weakness VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Horrish Amplifier]] x 2&lt;br /&gt;[[Vokooku Backbone]] x 2&lt;br /&gt;Testudo Shoulder Gun x 3&lt;br /&gt;[[Sweet Pagul Body]] x 3&lt;br /&gt;[[Galaxy Swirl]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+| Analyze Weakness VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;Crustip Jet Spray x 15&lt;br /&gt;[[Sharp Merfrey Tail]] x 15&lt;br /&gt;[[Enpedia Launcher]] x 15&lt;br /&gt;[[Explosive Plambus Powder]] x 15&lt;br /&gt;[[Chrysanthemany]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+| Analyze Weakness IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Gastrates Gun Turret]] x 20&lt;br /&gt;[[Ekidno Tail]] x 20&lt;br /&gt;[[Myoot Beak]] x 20&lt;br /&gt;[[Elegant Ravoon Horn]] x 20&lt;br /&gt;[[Fleeting Plum]] x 10&lt;br /&gt;Ether Cylinder x 3 
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Analyze Weakness X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Drague Everflame]] x 30&lt;br /&gt;Sharp Hox Horn x 30&lt;br /&gt;Arachno Pincer x 30&lt;br /&gt;[[Ageshu Needleclaw]] x 30&lt;br /&gt;Gastrates Gun Turret x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Analyze Weakness I
+| [[Gemstone]]&lt;br /&gt;[[Volff Meat]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Analyze Weakness II
+| Gemstone&lt;br /&gt;[[Ardun Horns]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Analyze Weakness III
+| [[Pure Gemstone]]&lt;br /&gt;[[Quardun Fang]] x2&lt;br /&gt;[[Symbol Ornament]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Analyze Weakness IV
+| Pure Gemstone&lt;br /&gt;[[Garaffa Electrical Organ]] x2&lt;br /&gt;[[Auxilia Cylinder]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Analyze Weakness V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;Garaffa Electrical Organ&lt;br&gt;[[Fatty Serprond Fillet]] x2&lt;br&gt;[[Rhogul Axe Crest (XC3)|Rhogul Axe Crest]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>8nwp1d4d1640v45p1peneh19dldha3n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Analyzer Scope</title>
+    <ns>0</ns>
+    <id>122724</id>
+    <revision>
+      <id>592700</id>
+      <parentid>592440</parentid>
+      <timestamp>2023-05-15T20:09:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592700</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="522" sha1="9s3amy84zj4lszevvyqnxwbabb5i195" xml:space="preserve">{{Infobox item
+|name      = Analyzer Scope
+|image     = XC3 Accessory Cap.png
+|caption   = At start of Chain Attack, increases TP by 10.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Analyzer Scopes''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 15 [[Nopon Coin (Gold)|Gold Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>9s3amy84zj4lszevvyqnxwbabb5i195</sha1>
+    </revision>
+  </page>
+  </mediawiki>

@@ -1,0 +1,1395 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Valt Ropl (XC3)</title>
+    <ns>0</ns>
+    <id>123236</id>
+    <revision>
+      <id>559986</id>
+      <parentid>557852</parentid>
+      <timestamp>2022-09-30T10:59:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559986</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="809" sha1="dc0gkksbftgsgll3xndfbhxl6pblq2g" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Valt Ropl (XC2)}}
+{{Infobox Enemy
+|name         = Valt Ropl
+|image        = 
+|caption      = Valt Ropl
+|category     = Minor Enemy
+|type         = [[Ropl]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Valt Ropls''' are Minor Enemies in {{XC3}}. They are members of the [[Ropl]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>dc0gkksbftgsgll3xndfbhxl6pblq2g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vampiric Rush</title>
+    <ns>0</ns>
+    <id>124260</id>
+    <revision>
+      <id>576288</id>
+      <parentid>572509</parentid>
+      <timestamp>2023-02-09T13:15:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1258" sha1="roov7l3do1vplocbvufn6unal7sfslq" xml:space="preserve">{{Infobox quest
+|name         = Vampiric Rush
+|image        = XC3 Challenge Battle Mode.png
+|description  = "Life-draining monsters assemble at Archsage favorite Great Cotte Falls! Archsage sweating with anticipation!"
+|giver        = [[Nopon Archsage]]
+|location     = [[Land of Challenge (XC3)|Land of Challenge]]
+|difficultyCB3= 2
+|prereqs      = Chapter 4 started
+|rewards      = 500-800 [[Noponstone]]s (Normal)
+}}
+'''Vampiric Rush''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear A outfit for [[Lanz]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 3
+|-
+| Level Restriction || Lv 40
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[Bobbile Brog (XC3)|Bobbile Brog]] x1 || 42
+|-
+| [[Amity Wisp]] x4 || 40
+|-
+| rowspan="2" | 2 || [[Rattle Aspar]] x1 || 43
+|-
+| [[Baythe Vang]] x3 || 40
+|-
+| rowspan="2" | 3 || [[Supreme Blant]] x 2|| 42
+|-
+| [[Mordow Blant (XC3)|Mordow Blant]] x1 || 45
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>roov7l3do1vplocbvufn6unal7sfslq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vandham's Heir</title>
+    <ns>0</ns>
+    <id>120400</id>
+    <revision>
+      <id>578568</id>
+      <parentid>577172</parentid>
+      <timestamp>2023-03-06T14:31:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>578568</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1240" sha1="c6g1v4klof32e1vi5ttn49yx9odz0lk" xml:space="preserve">{{Infobox quest
+|name        = Vandham's Heir
+|image       = Vandham's Heir.jpg 
+|description = "Curious about the man who gave them the opportunity to choose a different life, the party decide to go and ask Monica about Guernica."
+|giver       = 
+|location    = [[City]]
+|time        = 
+|prereqs     = "Guernica Vandham" discussed
+|reclevel    = Lv. 43
+|rewards     = 400 [[City]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;2840 [[Experience Points (XC3)|EXP]]&lt;br/&gt;2880 [[Gold|G]]&lt;br/&gt;10 [[Soul Tree|SP]]&lt;br/&gt;[[Monica Vandham|Monica]] as a [[Hero]]
+}}
+'''Vandham's Heir''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Monica Vandham|Monica]].
+
+== Objectives ==
+# ''Talk with the specified character(s).''
+#* [[Monica Vandham|Monica]]
+# ''Collect the specified thing(s).''
+#* [[Zuo's Belongings]]
+#* [[Yew's Belongings]]
+#* [[Heewa's Belongings]]
+#** They are found in the [[Gura Flava Lowlands]] in [[Alfeto Valley]].
+# ''Head for the specified location(s).''
+#* [[Remembrance Stones]]
+
+== Results ==
+''"The bereaved witnessed the off-seeing ceremony and thanked the party for everything they've done. Monica will lend you her help from now on."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:XC3 Monica]]
+[[Category:City Quests]]</text>
+      <sha1>c6g1v4klof32e1vi5ttn49yx9odz0lk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vang</title>
+    <ns>0</ns>
+    <id>5831</id>
+    <revision>
+      <id>602145</id>
+      <parentid>600834</parentid>
+      <timestamp>2023-07-22T12:29:46Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3|-}} */</comment>
+      <origin>602145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3311" sha1="si0ilzsk0fw188w1eoaf127jo692ynk" xml:space="preserve">[[file:LapisVang.jpg|thumb|Lapis Vang in {{TTGC|-}}]]
+'''Vang''' (Japanese: {{lang|ja|&#12532;&#12449;&#12531;&#12503;}}, ''Vanpu'', Vamp) are bat-like enemies found in the {{XC|serieslink}}. They are generally found at night or in caves.
+
+There is no appearance change between games.
+
+== {{XC|-}} ==
+Vang are found around [[Colony 9 (XC1)|Colony 9]], in [[Tephra Cave]], on [[Bionis' Leg]], in the [[Ether Mine (XC1)|Ether Mine]], in [[Satorl Marsh]], in [[Makna Forest]], and on [[Valak Mountain]]. The strongest Vang is [[Musical Vanflare]], which is level 93 and resides in [[Tephra Cave]].
+
+=== Normal Minor Enemies ===
+* [[Air Vang]]
+* [[Brabilam Vang]]
+* [[Buio Vang]]
+* [[Drunk Vang]]
+* [[Gust Vang (XC1)|Gust Vang]]
+* [[Little Vang]]
+* [[Satorl Vang]]
+* [[Shadow Vang (XC1)|Shadow Vang]]
+* [[Sierra Vang]]
+* [[Storm Vang]]
+* [[Tempest Vang]]
+* [[Teneb Vang]]
+* [[Wind Vang]]
+
+=== Quest Exclusive Enemy ===
+* [[Fierce Vang]] (during ''[[Earnest's Fibs]]'')
+
+=== Unique Monsters ===
+* [[Dark Kisling]]
+* [[Musical Vanflare]]
+* [[Shadeless Matrix]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemies ===
+* [[Shadow Vang (XC1)|Shadow Vang]]
+* [[Wind Vang]]
+
+=== Story Exclusive Enemy ===
+* [[Wind Vang (story)|Wind Vang]] ([[Fogbeast]])
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Amari Vang (XC2)|Amari Vang]]
+* [[Blood Vang]]
+* [[Bolc Vang]]
+* [[Fend Vang (XC2)|Fend Vang]]
+* [[Liar Vang (XC2)|Liar Vang]]
+* [[Noog Vang]]
+* [[Pipe Vang]]
+* [[Shreddle Vang (XC2)|Shreddle Vang]]
+
+=== Story Exclusive Enemy ===
+* [[Damp Vang]]
+
+=== Unique Monster ===
+* [[Insectivore Malcom]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Anbu Vang]]
+* [[Lapis Vang]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Amari Vang (XC3)|Amari Vang]]
+* [[Baythe Vang]]
+* [[Fend Vang (XC3)|Fend Vang]]
+* [[Gust Vang (XC3)|Gust Vang]]
+* [[Koror Vang]]
+* [[Liar Vang (XC3)|Liar Vang]]
+* [[Scary Vang]]
+* [[Shadow Vang (XC3)|Shadow Vang]]
+* [[Shreddle Vang (XC3)|Shreddle Vang]]
+* [[Silent Vang]]
+
+=== Unique Monsters ===
+* [[Bloodsucking Elvis]]
+* [[Night-Stalker Volodya]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Baythe Vang]]
+* [[Liar Vang (XC3)|Liar Vang]]
+* [[Shadow Vang (XC3)|Shadow Vang]]
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Fierce Vang.jpg|Vang model
+Brablam Vang.jpg|Vang model
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+BloodVang.jpg|Blood Vang
+XC2 Bolc Vang.PNG|Bolc Vang
+FendVang.jpg|Fend Vang
+InsectivoreMalcom.jpg|Insectivore Malcom
+NoogVang.jpg|Noog Vang
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+AnbuVang.png|Anbu Vang
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Shadow Vang (XC3).png|Shadow Vang
+XC3 Bloodsucking Elvis.png|Bloodsucking Elvis
+XC3 Night-Stalker Volodya.png|Night-Stalker Volodya
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:Species Category]]
+[[Category:Bionis Life]]
+[[Category:XC Vangs]]
+[[Category:Flying Enemies]]
+[[Category:Sound Category]]
+[[Category:Sight Category]]
+[[Category:XCFC Species]]
+[[Category:XCFC Vangs]]
+[[Category:XC2 Species]]
+[[Category:XC2 Vangs]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Species]]
+[[Category:TTGC Vangs]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Vangs]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Vangs]]
+[[Category:Species by Type]]</text>
+      <sha1>si0ilzsk0fw188w1eoaf127jo692ynk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vapid Roger</title>
+    <ns>0</ns>
+    <id>119511</id>
+    <revision>
+      <id>574716</id>
+      <parentid>562269</parentid>
+      <timestamp>2023-01-30T10:50:36Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1434" sha1="4q104t8bnb6mzlq6wm68yhro4b88pt8" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Vapid Roger
+|image        = XC3 Hollow Ones.png
+|caption      = Vapid Roger (Middle Left)
+|type         = [[Droids]]
+|level        = 70
+|area         = [[Origin Interior]] ([[Hangar Zone]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,781
+|cp           = 97
+|sp           = 5
+|gold         = 843
+|hp           = 1,462,400
+|strength     = 1,451
+|healing      = 570
+|dexterity    = 252
+|agility      = 242
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Vapid Roger''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Droids]] family, and can be found at level 70 at the [[Hangar Zone]] in the [[Origin Interior]]. It forms the quartet "Hollow Ones" with [[Artificial Optho]], [[Dishonest Karom]] and [[Phony Temnos]]. The [[Soulhacker#Enemy Skills|Berserker Mindset]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 55%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Hollow ones location.png
+Hollow ones roger.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Droids]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>4q104t8bnb6mzlq6wm68yhro4b88pt8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Varmeen Blant</title>
+    <ns>0</ns>
+    <id>121875</id>
+    <revision>
+      <id>581330</id>
+      <parentid>559987</parentid>
+      <timestamp>2023-04-03T16:09:18Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581330</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1039" sha1="hvwrgdjpefocik3h1wnohdrrtpz8axo" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Varmeen Blant
+|image        = 
+|caption      = Varmeen Blant
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Blant]]
+|level        = 50
+|area         = [[Erythia Sea]] ([[Farview Cape]])
+|spawntime    = During ''[[Going Home (XC3)|Going Home]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Varmeen Blants''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Blant]] family, and can be found at level 50 at [[Farview Cape]] in [[Erythia Sea]] during ''[[Going Home (XC3)|Going Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Blants]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hvwrgdjpefocik3h1wnohdrrtpz8axo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Varmeen Medooz</title>
+    <ns>0</ns>
+    <id>121876</id>
+    <revision>
+      <id>581331</id>
+      <parentid>559988</parentid>
+      <timestamp>2023-04-03T16:09:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581331</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="hdejlmwfxl56kiystajiiam8omstsnx" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Varmeen Medooz
+|image        = 
+|caption      = Varmeen Medooz
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Medooz]]
+|level        = 50
+|area         = [[Erythia Sea]] ([[Farview Cape]])
+|spawntime    = During ''[[Going Home (XC3)|Going Home]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Varmeen Medoozes''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Medooz]] family, and can be found at level 50 at [[Farview Cape]] in [[Erythia Sea]] during ''[[Going Home (XC3)|Going Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Medoozes]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hdejlmwfxl56kiystajiiam8omstsnx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Varran Bunnit</title>
+    <ns>0</ns>
+    <id>121022</id>
+    <revision>
+      <id>564669</id>
+      <parentid>559989</parentid>
+      <timestamp>2022-11-06T01:56:10Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="838" sha1="svu2e41z2geqdab5r61kvy9w8lvhw1k" xml:space="preserve">{{Infobox Enemy
+|name         = Varran Bunnit
+|image        = 
+|caption      = Varran Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Varran Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Everblight Plain]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>svu2e41z2geqdab5r61kvy9w8lvhw1k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Varran Hox</title>
+    <ns>0</ns>
+    <id>121097</id>
+    <revision>
+      <id>559990</id>
+      <parentid>545424</parentid>
+      <timestamp>2022-09-30T10:59:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" sha1="8i7jpewn49o4zv730q3how34y2ca099" xml:space="preserve">{{Infobox Enemy
+|name         = Varran Hox
+|image        = 
+|caption      = Varran Hox
+|category     = Minor Enemy
+|type         = [[Hox]]
+|level        = ?
+|area         = [[Fornis Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Varran Hoxes''' are Minor Enemies in {{XC3}}. They are members of the [[Hox]] family, and can be found at level ? at [[Elaice Highway]] in the [[Fornis Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>8i7jpewn49o4zv730q3how34y2ca099</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vastclaw Crustip</title>
+    <ns>0</ns>
+    <id>121868</id>
+    <revision>
+      <id>559991</id>
+      <parentid>547000</parentid>
+      <timestamp>2022-09-30T10:59:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559991</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="808" sha1="51br4cn0h7m17szy9vb8zyxjqao2wwu" xml:space="preserve">{{Infobox Enemy
+|name         = Vastclaw Crustip
+|image        = 
+|caption      = Vastclaw Crustip
+|category     = Minor Enemy
+|type         = [[Crustip]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Vastclaw Crustips''' are Minor Enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>51br4cn0h7m17szy9vb8zyxjqao2wwu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Velites</title>
+    <ns>0</ns>
+    <id>121195</id>
+    <revision>
+      <id>595648</id>
+      <parentid>585430</parentid>
+      <timestamp>2023-06-16T10:14:53Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595648</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1201" sha1="an791pgc13u56c2yvk77h47wjdwiylq" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Velites
+|image        = XC3-Velites.png 
+|caption      = Velites
+|category     = Minor Enemy
+|type         = [[Levnis]]
+|level        = 19 - ?
+|area         = [[Caitlin Drum]]&lt;br/&gt;[[Pentelas Region]]&lt;br /&gt;[[Keves Castle]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Velites''' are Minor Enemies in {{XC3}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 19 in [[Caitlin Drum]], level ? in [[Low Maktha Wildwood]] in the [[Pentelas Region]] and in [[Keves Castle]]. One accompanies [[Valdi]] alongside an [[Equites]] during his [[Hero Quest]].
+{{clr}}
+
+== Stats ==
+{{Enemy arts|art1=Iron Stamp}}{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Story Exclusive Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>an791pgc13u56c2yvk77h47wjdwiylq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Velites (boss)</title>
+    <ns>0</ns>
+    <id>128270</id>
+    <revision>
+      <id>596178</id>
+      <parentid>595942</parentid>
+      <timestamp>2023-06-16T20:24:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1329" sha1="steyz26vblci2vbtjdrxdei5rn2egl3" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Velites
+|image        = 
+|caption      = Velites
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 63
+|area         = [[Fornis Region]] ([[Elaice Highway]])
+|spawntime    = During ''[[Knowing Your Family]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Velites''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a [[Keves]]i [[Levnis]] from a group of [[Keves Forces]] called '''Colony 29 Raiders''' fought at level 63 in the [[Elaice Highway]] in the [[Fornis Region]] during ''[[Knowing Your Family]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>steyz26vblci2vbtjdrxdei5rn2egl3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Veneris Rings</title>
+    <ns>0</ns>
+    <id>122574</id>
+    <revision>
+      <id>592893</id>
+      <parentid>592439</parentid>
+      <timestamp>2023-05-15T20:20:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592893</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="502" sha1="p73durbjx8qqaaqdavqstisonf7349o" xml:space="preserve">{{Infobox item
+|name      = Veneris Rings
+|image     = XC3 Accessory Ring.png
+|caption   = At start of Chain Attack, increases TP by 20.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Container#Legacy of the Seven|Legacy of the Seven]] at [[Place of Heroes Past]]
+|sell      = N/A
+}}
+'''Veneris Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>p73durbjx8qqaaqdavqstisonf7349o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vengeful Dominator</title>
+    <ns>0</ns>
+    <id>119451</id>
+    <revision>
+      <id>574650</id>
+      <parentid>574360</parentid>
+      <timestamp>2023-01-30T01:30:49Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574650</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1524" sha1="g3n679bluiukassge4dmm9ibaehsqrb" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Vengeful Dominator
+|image        = XC3 Vengeful Dominator.png
+|caption      = Vengeful Dominator
+|type         = [[Levnis]]
+|level        = 42
+|area         = [[Keves Castle]] ([[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 923
+|cp           = 351
+|sp           = 5
+|gold         = 1,154
+|hp           = 569,250
+|strength     = 973
+|healing      = 355
+|dexterity    = 130
+|agility      = 145
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 23%
+|guardrate    = 5%
+}}
+'''Vengeful Dominator''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 42 in the [[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]] on the 2nd Floor of [[Keves Castle]]. It forms the duo named "The Executioners" with [[Forsaken Arbiter]]. The [[Soulhacker#Enemy Skills|Action Reaction]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 35%
+|physdebuff = 75%
+|etherdebuff = 40%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+The executioners location.png
+The excecutioners dominator.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>g3n679bluiukassge4dmm9ibaehsqrb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vibrant Armring</title>
+    <ns>0</ns>
+    <id>119022</id>
+    <revision>
+      <id>592894</id>
+      <parentid>592355</parentid>
+      <timestamp>2023-05-15T20:20:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592894</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1173" sha1="04fvzabbna5wj0xpym2ng910a2zq9qp" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Vibrant Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 10% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3710 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Vibrant Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 12% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3710 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Vibrant Armring
+|image     = XC3 Accessory Pack.png
+|caption   = Boosts damage dealt by 15% when HP is at 90% or higher.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3710 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Vibrant Armrings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. Common ones can be bought at [[Gamma Commissary]] for 3710G. One of the options for ''[[Korresia Finds Her Calling]]''.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>04fvzabbna5wj0xpym2ng910a2zq9qp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Victor Gauntlet</title>
+    <ns>0</ns>
+    <id>122587</id>
+    <revision>
+      <id>592895</id>
+      <parentid>592396</parentid>
+      <timestamp>2023-05-15T20:20:38Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1256" sha1="ofe8vba02tdx3k8hinwmu48g0hgpq2w" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Victor Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Deal 50% more damage but take 20% more damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 12,890 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Victor Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Deal 55% more damage but take 20% more damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 12,890 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Victor Gauntlet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Deal 60% more damage but take 20% more damage.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 12,890 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Victor Gauntlets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. When equipped, the character it is equipped to deals more damage, however they take more damage in return.
+
+They are dropped from [[Hornbow Dante]] Unique Monster, which is located in the [[Syra Hovering Reefs]]
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ofe8vba02tdx3k8hinwmu48g0hgpq2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vigorous Anklets</title>
+    <ns>0</ns>
+    <id>122869</id>
+    <revision>
+      <id>592896</id>
+      <parentid>592309</parentid>
+      <timestamp>2023-05-15T20:20:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592896</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1044" sha1="4y9apwfzc3mezotem995w3cai6e1w8t" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Vigorous Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Reduces damage taken by 20% while performing Art.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Vigorous Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Reduces damage taken by 22% while performing Art.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Vigorous Anklets
+|image     = XC3 Accessory Boot.png
+|caption   = Reduces damage taken by 25% while performing Art.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 13,600 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Vigorous Anklets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>4y9apwfzc3mezotem995w3cai6e1w8t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vikt Krodlax</title>
+    <ns>0</ns>
+    <id>121891</id>
+    <revision>
+      <id>595339</id>
+      <parentid>595336</parentid>
+      <timestamp>2023-06-13T00:15:47Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595339</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="ss0u5q38enca3q85qcyo82ru4kf71rx" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Vikt Krodlax
+|image        = 
+|caption      = Vikt Krodlax
+|category     = Minor Enemy
+|type         = [[Krodlax]]
+|level        = 46-47
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Vikt Krodlax''' are Minor Enemies in {{XC3}}. They are members of the [[Krodlax]] family, and can be found at level 46-47 in the [[Sea-Gnawed Cave]] or north of [[Predator's Paw]] in [[Erythia Sea]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Krodlax]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ss0u5q38enca3q85qcyo82ru4kf71rx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Villainous Igna</title>
+    <ns>0</ns>
+    <id>119429</id>
+    <revision>
+      <id>574732</id>
+      <parentid>574717</parentid>
+      <timestamp>2023-01-30T12:56:21Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2271" sha1="8ela80cf72qpaittg0dmnnf4cym1yh1" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Villainous Igna
+|image        = XC3 Villainous Igna.png
+|caption      = Villainous Igna
+|type         = [[Igna]]
+|level        = 46
+|area         = [[Elaice Highway]] ([[Igna Conglomerate]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,231
+|cp           = 100
+|sp           = 5
+|gold         = 1,992
+|hp           = 1,198,800
+|strength     = 1,339
+|healing      = 347
+|dexterity    = 160
+|agility      = 158
+|physdef      = 25%
+|ethdef       = 10%
+|critrate     = 15%
+|guardrate-front = 20%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Villainous Igna''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Igna]] family, and can be found at level 46 inside the [[Igna Conglomerate]] in [[Elaice Highway]]. The [[Dragon Gas]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+=== Resistances ===
+{{XC3 Resistances
+|break = 65%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = 70%
+}}
+{{clr}}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name      = Villainous Igna
+|image     =
+|caption   = Villainous Igna
+|type      = [[Igna]]
+|movement  = Ground
+|area      = [[Land of Challenge (XC3)|Land of Challenge]]
+|category  = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level     = 72
+|detection = 
+|spawntime = During ''[[Men! Of! The Sea! IV]]''
+|respawn   = No
+|hp        = 286,200
+|strength  = 584
+|healing   = 406
+|dexterity = 225
+|agility   = 226
+|physdef   = 25%
+|ethdef    = 10%
+|critrate  = 10%
+|guardrate-front = 15%
+|guardrate-side = 5%
+|guardrate-back = 0% 
+}}
+Villainous Igna is fought at level 72 in the fourth wave of the ''[[Men! Of! The Sea! IV]]'' [[Challenge Battle Mode|challenge]].
+=== Resistances ===
+{{XC3 Resistances
+|break = 50%
+|knockback = 75%
+|blowdown = 75%
+|physdebuff = 50%
+|etherdebuff = 50%
+}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Villainous igna location.png
+Villainous igna.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ignas]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8ela80cf72qpaittg0dmnnf4cym1yh1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Violent Stone (XC3)</title>
+    <ns>0</ns>
+    <id>119023</id>
+    <revision>
+      <id>592897</id>
+      <parentid>592541</parentid>
+      <timestamp>2023-05-15T20:20:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592897</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1037" sha1="71oetafywn9ccu5gfd1uqi8uuvcfzqr" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Violent Stone (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Violent Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts auto-attack damage by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Violent Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts auto-attack damage by 108%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Violent Stone
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts auto-attack damage by 116%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Violent Stones''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>71oetafywn9ccu5gfd1uqi8uuvcfzqr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Virtuous Gulkin</title>
+    <ns>0</ns>
+    <id>119474</id>
+    <revision>
+      <id>583322</id>
+      <parentid>574718</parentid>
+      <timestamp>2023-04-17T16:14:06Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583322</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1333" sha1="mmm4lq534m1vj6bd1rb82qlw5lq6jyl" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Virtuous Gulkin
+|image        = Virtuous Gulkin.jpg
+|caption      = Virtuous Gulkin
+|type         = [[Gulkin]]
+|level        = 52
+|area         = [[Erythia Sea]] ([[Tengate Ruins]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,738
+|cp           = 126
+|sp           = 5
+|gold         = 2,316
+|hp           = 1,427,190
+|strength     = 1,252
+|healing      = 519
+|dexterity    = 192
+|agility      = 187
+|physdef      = 15%
+|ethdef       = -10%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Virtuous Gulkin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Gulkin]] family, and can be found at level 52 at [[Tengate Ruins]] on [[Daedal Crustip]] in [[Erythia Sea]]. The [[Pointy Stick]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 65%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 75%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Virtuous gulkin location.png
+Virtuous gulkin.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Gulkins]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mmm4lq534m1vj6bd1rb82qlw5lq6jyl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Viscous Venom</title>
+    <ns>0</ns>
+    <id>119733</id>
+    <revision>
+      <id>596567</id>
+      <parentid>591904</parentid>
+      <timestamp>2023-06-17T23:20:49Z</timestamp>
+      <contributor>
+        <username>Neku10702</username>
+        <id>52334090</id>
+      </contributor>
+      <minor/>
+      <origin>596567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" sha1="5pepvvmfke0jodhq9tlrumm284x7sxr" xml:space="preserve">{{Spoiler}}
+{{Infobox battle art
+|name        = Viscous Venom
+|image       = Strm_order_thumb030_0.png
+|who         = [[Segiri]]
+|class       = 
+|attribute   = 
+|target      = 
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = Reduces enemy physical and ether defense by 30% during Chain Attack
+|duration    = 
+|recharge    = 
+}}
+'''Viscous Venom''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Segiri]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{Xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>5pepvvmfke0jodhq9tlrumm284x7sxr</sha1>
+    </revision>
+  </page>
+  </mediawiki>

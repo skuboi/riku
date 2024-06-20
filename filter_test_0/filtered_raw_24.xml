@@ -1,0 +1,1429 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>False Volff</title>
+    <ns>0</ns>
+    <id>121873</id>
+    <revision>
+      <id>565243</id>
+      <parentid>559652</parentid>
+      <timestamp>2022-11-08T02:38:00Z</timestamp>
+      <contributor>
+        <username>SakuDio</username>
+        <id>50625931</id>
+      </contributor>
+      <origin>565243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1138" sha1="1dqbmv861o2kzrpf97pluycsfr0wud6" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = False Volff
+|image        = XC3 False Volff.png
+|caption      = False Volff
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Volff]]
+|level        = 47
+|area         = [[Erythia Sea]]
+|spawntime    = During ''[[Transparent Dreams]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''False Volffs''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Volff]] family, and can be found at level 47 at [[Erythia Sea]] in the [[Cadensia Region]] during ''[[Transparent Dreams]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Volffs]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1dqbmv861o2kzrpf97pluycsfr0wud6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fang-King Clavein</title>
+    <ns>0</ns>
+    <id>119410</id>
+    <revision>
+      <id>583292</id>
+      <parentid>574349</parentid>
+      <timestamp>2023-04-17T15:27:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1345" sha1="2fl9act9wfp97n1jwqjgiuo5pwwfijg" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Fang-King Clavein
+|image        = XC3 Fang-King Clavein.png
+|caption      = Fang-King Clavein
+|type         = [[Darbus]]
+|level        = 80
+|area         = [[Millick Meadows]] ([[Elgares Depths]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 8,225
+|cp           = 895
+|sp           = 5
+|gold         = 5,695
+|hp           = 5,082,750
+|strength     = 1,409
+|healing      = 649
+|dexterity    = 276
+|agility      = 216
+|physdef      = 25%
+|ethdef       = -5%
+|critrate     = 45%
+|guardrate    = 0%
+}}
+'''Fang-King Clavein''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Darbus]] family, and can be found at level 80 at the end of the [[Elgares Depths]] in [[Millick Meadows]]. The Counter Puncher [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 85%
+|physdebuff = Immune
+|etherdebuff = 85%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Fang-king clavein location.png
+Fang-king clavein.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 76-80 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Darbuses]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>2fl9act9wfp97n1jwqjgiuo5pwwfijg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Faroos Enpedia</title>
+    <ns>0</ns>
+    <id>121730</id>
+    <revision>
+      <id>598106</id>
+      <parentid>579953</parentid>
+      <timestamp>2023-07-04T15:07:40Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1039" sha1="cfklrygj61in4babxnyrgx65y1j3j30" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Faroos Enpedia
+|image        = Faroos Enpedia.jpg
+|caption      = Faroos Enpedia
+|category     = Normal Minor Enemy
+|type         = [[Enpedia]]
+|level        = 67-68
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 3|Ferronis Arsenal #3]], [[East-West Sector Passage]], [[Hangar, Lower Level (Origin)|Hangar, Lower Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Faroos Enpedias''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Enpedia]] family, and can be found at level 67-68 at [[Ferronis Arsenal 3|Ferronis Arsenal #3]], in the [[East-West Sector Passage]] and in the [[Hangar, Lower Level (Origin)|Hangar, Lower Level]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enpedias]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>cfklrygj61in4babxnyrgx65y1j3j30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Farseer Pirtett</title>
+    <ns>0</ns>
+    <id>119417</id>
+    <revision>
+      <id>583293</id>
+      <parentid>574350</parentid>
+      <timestamp>2023-04-17T15:28:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1355" sha1="koxnlm72ocavcotuprv7hsag8o5hihc" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Farseer Pirtett
+|image        = Farseer Pirtett.png
+|caption      = Farseer Pirtett
+|type         = [[Hox]]
+|level        = 40
+|area         = [[Eagus Wilderness]] ([[Zem's Crossway]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 688
+|cp           = 214
+|sp           = 5
+|gold         = 700
+|hp           = 817,650
+|strength     = 759
+|healing      = 339
+|dexterity    = 185
+|agility      = 164
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Farseer Pirtett''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Hox]] family, and can be found at level 40 at [[Zem's Crossway]] in the [[Eagus Wilderness]], northwest side of [[Ribbi Flats]] near [[Dies Arch]]. The Sacrificial Heal [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|physdebuff = 25%
+|etherdebuff = 80%
+|knockback = Immune
+|blowdown = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Farseer pirtett location.png
+Farseer pirtett.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Hoxes]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>koxnlm72ocavcotuprv7hsag8o5hihc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fast Recharge</title>
+    <ns>0</ns>
+    <id>125818</id>
+    <revision>
+      <id>587576</id>
+      <parentid>587123</parentid>
+      <timestamp>2023-05-02T12:26:52Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>stub because no enemy arts</comment>
+      <origin>587576</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1733" sha1="6uvutrnfmysest0o6igvq651lsxmlk9" xml:space="preserve">{{Infobox XC3 Status
+|title          = Fast Recharge
+|image          = XC3 Fast Recharge.png
+|caption        = Improves rate of recharge.
+|type           = Buff
+|base-duration  = 20.0s
+|max-duration   = 40.0s
+|rng-applicable = Yes
+|effect-title-1 = Base Recharge Boost
+|effect-value-1 = 20%
+}}
+'''Fast Recharge''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. As its name implies, it grants improved recharge to the affected character; Keves cooldown timers will tick faster, Agnus arts will gain more charge per auto-attack or Art cancel, and Talent Arts will gain more charge upon a Role Action. 
+
+==Notes==
+*Fast Recharge's effect is additive with all other effects that improve recharge, such as [[Guardian Commander]]'s Protector's Pride skill or the [[Awakening (XC3)|Awakening]] buff.
+*The buff also applies to Arts and skills that recharges Arts upon activation, such as [[Martial Artist]]'s Frenzied Combo skill. [[Soulhacker]] skills that activate with cooldowns, such as Reserve Life, do not benefit. &lt;ref&gt;[https://docs.google.com/document/d/1jk31xdLvfPrOjoQtGr-6PRH_4Cd2B_k_dFGSS6vSJ1g XC3 Postgame Combat Guide including Art and Skill mechanics]&lt;/ref&gt;
+
+==Distribution==
+
+===Arts===
+*[[Desperate Charge]] (Soulhacker; requires Soul Hacking [[King Krawkin]])
+*[[Golden Heart]] ([[Lapidarist]])
+*[[Ring o' Roses (XC3)|Ring o' Roses]] ([[Troubadour]]; field effect)
+*[[Empty Shell]] ([[Miyabi]]; field effect)
+*[[Searing Fury]] ([[Cammuravi]])
+
+===Skills===
+*[[Soulhacker#Enemy Skills|Dodge Acceleration]] (Soulhacker; chance-based trigger on evasion, requires Soul Hacking [[Gushing Masquin]])
+
+==References==
+&lt;references&gt;&lt;/references&gt;
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>6uvutrnfmysest0o6igvq651lsxmlk9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Feather Band</title>
+    <ns>0</ns>
+    <id>118941</id>
+    <revision>
+      <id>592759</id>
+      <parentid>592334</parentid>
+      <timestamp>2023-05-15T20:14:09Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592759</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="996" sha1="jotje835m1w54b0pk0k0d77g3h48gsu" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Feather Band
+|image     = XC3 Accessory Cap.png
+|caption   = Boosts damage dealt to Aerial Life by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Feather Bands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>jotje835m1w54b0pk0k0d77g3h48gsu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Feather Misanga</title>
+    <ns>0</ns>
+    <id>122855</id>
+    <revision>
+      <id>592760</id>
+      <parentid>592296</parentid>
+      <timestamp>2023-05-15T20:14:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="ksahu7x3is1ogasyy21rctbui1mc18m" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Feather Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 25% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Feather Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 26% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Feather Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 27% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Feather Misangas''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>ksahu7x3is1ogasyy21rctbui1mc18m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Felusi Pippito (XC3)</title>
+    <ns>0</ns>
+    <id>123164</id>
+    <revision>
+      <id>596024</id>
+      <parentid>559654</parentid>
+      <timestamp>2023-06-16T19:53:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596024</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1108" sha1="56sm0g4a1j91la3hx9hjp3nhm4yeg15" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Felusi Pippito (XC2)}}
+{{Infobox Enemy
+|name         = Felusi Pippito
+|image        = 
+|caption      = Felusi Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Felusi Pippitos''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Pippito]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3FR Pippitos]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>56sm0g4a1j91la3hx9hjp3nhm4yeg15</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fend Vang (XC3)</title>
+    <ns>0</ns>
+    <id>121884</id>
+    <revision>
+      <id>584714</id>
+      <parentid>560315</parentid>
+      <timestamp>2023-04-22T17:43:49Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>584714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="915" sha1="7jpmd4dri7547xrcclkru7ret68rkz3" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Fend Vang (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Fend Vang
+|image        = 
+|caption      = Fend Vang
+|category     = Minor Enemy
+|type         = [[Vang]]
+|level        = 45-46
+|area         = [[Agnus Castle Barbican]] ([[Sea-Gnawed Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Fend Vangs''' are Minor Enemies in {{XC3}}. They are members of the [[Vang]] family, and can be found at level 45-46 in the [[Sea-Gnawed Cave]] at the [[Agnus Castle Barbican]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Vangs]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>7jpmd4dri7547xrcclkru7ret68rkz3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Feris</title>
+    <ns>0</ns>
+    <id>9976</id>
+    <revision>
+      <id>601988</id>
+      <parentid>600733</parentid>
+      <timestamp>2023-07-22T12:21:29Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>601988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3233" sha1="qlu6yejnkqeo7pv24ma617075rp1ovj" xml:space="preserve">[[File:Green Feris.jpeg|thumb|Feris model in {{XC|-}}]]
+'''Feris''' (Japanese: {{lang|ja|&#12501;&#12455;&#12522;&#12473;}}, ''Ferisu'', lit. ''Felis'', Felid) are large cat-like enemies in the {{XC|serieslink}}. These creatures are most likely to be based on lions and leopards, hence the name derived from ''feline''.
+
+Feris undergo a massive appearance change between games; in {{XC}} and {{XCFC|sublink}}, they resemble spotted lions with large, spiked manes. In {{XC2}}, {{TTGC}}, and {{XC3}} they retain the mane but otherwise are completely different - they are brown with red hair and dog-like, with long muzzles and bushy tails. In {{TTGC|-}} they are paler with orange hair.
+
+== {{XC|-}} ==
+They are found on the [[Bionis]], in [[Satorl Marsh]], [[Makna Forest]], and on [[Valak Mountain]]. Veteran Yozel and the Green Feris are the most powerful Feris, at level 83.
+
+=== Normal Minor Enemies ===
+* [[Green Feris]]
+* [[Lupus Feris]]
+* [[Makna Feris]]
+* [[Noto Feris]]
+
+=== Unique Monster ===
+* [[Veteran Yozel]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Green Feris]]
+
+== {{XC2|-}} ==
+=== Normal Minor Enemies ===
+* [[Brogen Feris]]
+* [[Hungry Feris]]
+* [[Leo Feris]]
+* [[Young Feris]]
+
+=== Unique Monster ===
+* [[Sad Bernard]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemies ===
+* [[Espina Feris]]
+* [[Grafton Feris]]
+* [[Lekut Feris]]
+* [[Sowl Feris]]
+
+=== Story Exclusive Enemy ===
+* [[Jubel Feris]]
+
+== {{XC3|-}} ==
+Feris appear in the world of [[Aionios]].
+=== Normal Minor Enemies ===
+* [[Caelum Feris]]
+* [[Curran Feris]]
+* [[Land Feris]]
+* [[Robnos Feris]]
+* [[Soldato Feris]]
+
+=== Quest Exclusive Enemies ===
+* [[Enkrees Feris]] (During ''[[Prison Spring Clean]]'')
+* [[Medolya Feris]] (During ''[[Fear of the Unknown]]'')
+* [[Yunnae Feris]] (During ''[[Alexandria's Birthday]]'')
+
+=== Quest Exclusive Bosses ===
+* [[Basreek Feris]] (During ''[[Second Day of Prison]]'')
+
+=== Unique Monster ===
+* [[Doomfang Caum]]
+
+== {{XC3FR|sub}} ==
+In {{XC3FR|sublink}}, only [[Fogbeast]] Feris appear.
+
+=== Normal Minor Enemy ===
+* [[Dark Feris]]
+
+=== Unique Monster ===
+* [[Fogstalker Naiara]]
+
+=== Boss ===
+* [[Diastone Feris]]
+
+=== Quest Exclusive Bosses ===
+* [[Nightmare Feris]] (During ''[[Hunt for the Kids]]'')
+* [[Shade Feris]] (During ''Hunt for the Kids'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Veteran Yozel.png|Veteran Yozel
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Sadbern1.jpg|Sad Bernard
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+SowlFeris.jpg|Sowl Feris
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Land Feris.jpeg|Land Feris
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Diastone Feris.jpg|Diastone Feris
+Fogstalker Naiara.jpg|Fogstalker Naiara
+Dark Feris.jpg|Dark Feris
+&lt;/gallery&gt;
+
+[[Category:XC Species]]
+[[Category:Bionis Life]]
+[[Category:Quadrupedal Enemies]]
+[[Category:Sight Category]]
+[[Category:XC Feris]]
+[[Category:XCFC Species]]
+[[Category:XCFC Feris]]
+[[Category:XC2 Feris]]
+[[Category:XC2 Species]]
+[[Category:XC2 Beasts]]
+[[Category:TTGC Species]]
+[[Category:TTGC Beasts]]
+[[Category:TTGC Feris]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Species]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3FR Feris]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Terrestrial Life]]
+[[Category:Feris]]
+[[Category:Species by Type]]</text>
+      <sha1>qlu6yejnkqeo7pv24ma617075rp1ovj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ferron Unit</title>
+    <ns>0</ns>
+    <id>121047</id>
+    <revision>
+      <id>578705</id>
+      <parentid>559227</parentid>
+      <timestamp>2023-03-07T12:29:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Swapped infobox</comment>
+      <origin>578705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1076" sha1="e7lsyalkp7e74tp88fep3gxlu9dvk7h" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Ferron Unit
+|image        = 
+|caption      = Ferron Unit
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Levnis]]
+|level        = 53
+|area         = [[Captocorn Peak]] ([[Colony 0]])
+|spawntime    = During ''[[Inhumanity]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ferron Units''' are four [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are [[Levnis|Ferrons]] piloted by [[Colony 0]] soldiers. They are fought alongside [[Segiri#Battle|No. 7]] at level 53 in [[Colony 0]] at [[Captocorn Peak]] during ''[[Inhumanity]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>e7lsyalkp7e74tp88fep3gxlu9dvk7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ferron x Ferron</title>
+    <ns>0</ns>
+    <id>124337</id>
+    <revision>
+      <id>576282</id>
+      <parentid>562914</parentid>
+      <timestamp>2023-02-09T13:13:29Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1112" sha1="1zi5ia4l2tmxcwu4gec49lbyy1lym8v" xml:space="preserve">{{Infobox quest
+|name          = Ferron x Ferron
+|image         = XC3 Challenge Battle Mode.png
+|description   = "This sparring match with Segiri and No. 13. One hinder movement, and one bring damage. So fearsome!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Chapter 7 started&lt;br/&gt;[[Machine Assassin]] ascended
+|difficultyCB3 = 3
+|rewards       = 
+}}
+'''Ferron x Ferron''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear B outfit for [[Taion]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 1
+|-
+| Level Restriction || Lv 60
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="2" | 1 || [[Segiri#Challenge Battle Mode|No. 7 Segiri]] || 65
+|-
+| [[No. 13#Challenge Battle Mode|No. 13]] || 63
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>1zi5ia4l2tmxcwu4gec49lbyy1lym8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ferronis</title>
+    <ns>0</ns>
+    <id>116498</id>
+    <revision>
+      <id>601989</id>
+      <parentid>600734</parentid>
+      <timestamp>2023-07-22T12:21:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */</comment>
+      <origin>601989</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4606" sha1="o3tl7oo7jkmkh0cpuuoelsbbfrk5dyq" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Ferronis
+|image         = XC3 Noah and Mio facing Large Machine Enemy.jpeg
+|description   = Noah and Mio fighting [[Colony Lambda]]'s Ferronis
+|gender        = 
+|age           = 
+|species       = 
+|haircolor     = 
+|eyecolor      = 
+|voiceactorjp  = 
+|voiceactoreng = 
+|appearances   = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}}
+}}
+'''Ferronis''' (Japanese: {{lang|ja|&#37444;&#24040;&#31070;}}, ''Tetsu Kyoshin'', lit. ''Iron Giant God'') are huge mobile military bases in {{XC3}} and {{XC3FR|sublink}}.&lt;ref&gt;https://www.nintendo.com/store/products/xenoblade-chronicles-3-switch/&lt;/ref&gt;
+
+== Overview ==
+These mobile bases, which are independent army and living place for soldiers, rest at the heart of each [[Colony]] (Japanese: {{lang|ja|&#12467;&#12525;&#12491;&#12540;}}, ''koron&#299;''). If the need arises, they are also capable of becoming devastating weapons of war. There are numerous colonies and some of them have various roles, such as producing weapons instead of battling.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1494209326768336901?cxt=HHwWisDR4endv7wpAAAA&lt;/ref&gt; Other Ferronis are small enough to be piloted by a single individual and are used as mobile assault weapons. 
+
+The armies of [[Keves]] and [[Agnus]] utilize dozens of these giants. While the Ferronis of Keves must be boarded and operated by individual soldiers, those of Agnus are capable of autonomous movement.&lt;ref&gt;https://twitter.com/xenobladejp/status/1491546292673146890?s=21&lt;/ref&gt; If a Ferronis' [[Flame Clock]] runs empty, the people who belong to that Ferronis are doomed to die.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1539776568465076226&lt;/ref&gt; However, destroying the Flame Clock will free them from this limitation. The only known weapons capable of destroying Flame Clocks are [[Lucky Seven]], the [[Monado]], the [[Monado Replica EX+|Monado REX+]], and the [[Blade (XC3)|Firelight Swords]].
+
+== List of Ferronis Enemies ==
+=== {{XC3|-}} ===
+* [[Lambda Ferronis]]
+* [[Cammuravi's Ferronis]]
+* [[Ethel's Ferronis]]
+* [[Queen of Agnus (boss)|Queen of Agnus]]
+* [[Crys|Consul Crys]] (second phase)
+
+=== {{XC3FR|sub}} ===
+* [[Colony Eta Ferronis]]
+* [[Agnian Ferronis]]
+* [[Kevesi Ferronis]]
+
+== Ferronis Hulks ==
+{{main|Ferronis Hulk}}
+[[File:Ferronis Hulk Icon.png|thumb|180px|Ferronis Hulk]]
+Throughout the world, the party may come across [[Ferronis Hulk]]s that are decrepit Ferronis and can be rebooted and used as [[Rest Spot (XC3)|Rest Spots]]. As the party approaches the Ferronis Hulk, a [[Quest (XC3)|quest]] will activate. These quests involve defeating several enemies that are around the Hulk. After the enemies are defeated, the party must then reboot the Ferronis using a certain amount of [[Ether Cylinder (XC3)|Ether Cylinders]]. 
+
+After rebooting a Ferronis Hulk, its [[Fabricator]] becomes usable and the [[Container]]s next to the Ferronis Hulk will unlock. The Ferronis Hulk will also be able to be used as a Rest Spot, and [[Nopon Merchant]]s will appear at the Hulk, along with a new [[Accessory (XC3)|Accessory]] [[Shop (XC3)|Shop]].
+
+== Trivia ==
+* Their Japanese name is similar to that of [[Bionis]] (Japanese: {{lang|ja|&#24040;&#31070;}}, ''Kyoshin'', lit. ''Giant God'') and that of the [[Titan]]s (Japanese: {{lang|ja|&#24040;&#31070;&#29539;}}, ''Kyoshin-j&#363;'', lit. ''Giant Divine Beasts'').
+* The designs of the Kevesi and Agnian Ferronis are based on [[Mechon|Faced Mechon]] and [[Artifice]]s, respectively.
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Colony 9 Ferronis Screenshot.jpg|The Ferronis of Colony 9
+XC3 Colony 9 Overlook.png|View of Colony 9's Ferronis from Yzana Plains
+XC3 Colony Gamma Ferronis Screenshot.jpg|The Ferronis of Colony Gamma
+XC3 Colony 4.jpg|The Ferronis of Colony 4
+XC3 Great Cotte Falls 01.jpg|The Ferronis of Colony Lambda seen from Great Cotte Falls
+XC3 Aionios Screenshot 5.jpeg|Eunie near the Colony Lambda Ferronis
+XC3 Aionios Screenshot 6.jpeg|Colony Gamma's Ferronis overlooking its encampment
+XC3 Eagus Wilderness Colony Screenshot.jpg|Colony Iota's Ferronis
+XC3 Iron Giant Flame Clock.jpg|The flame clock of a Ferronis
+Colony 5 Wreckage.jpg|The wreckage of Colony 5's Ferronis in {{XC3FR|sub}}
+Colony Gamma Wreckage.jpg|The wreckage of Colony Gamma's Ferronis in {{XC3FR|sub}}
+Double Ferronis.jpg|A combination of two Ferronis by a Moebius
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Ferronis]]
+[[Category:XC3 Species]]
+[[Category:XC3 Vehicles]]
+[[Category:XC3 Machines]]
+[[Category:XC3FR Ferronis]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Machines]]
+[[Category:Pages needing plot info]]
+[[Category:Ferronis]]
+[[Category:Species by Type]]</text>
+      <sha1>o3tl7oo7jkmkh0cpuuoelsbbfrk5dyq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>122487</id>
+    <revision>
+      <id>581491</id>
+      <parentid>555634</parentid>
+      <timestamp>2023-04-04T20:45:17Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>581491</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1950" sha1="c53q8o2y870ddvi64ofu0pgfx9eyepe" xml:space="preserve">{{spoiler}}
+{{Infobox location
+|name        = Ferronis Hulk
+|image       = Ferronis Hulk Icon.png
+|caption     = Ferronis Hulk Icon
+|type        = Point of interest
+|located     = [[Aetia Region|Aetia]], [[Fornis Region|Fornis]], [[Pentelas Region|Pentelas]] and [[Cadensia Region]]s
+|function    = Rest Spots with Shops after rebooting
+}}
+'''Ferronis Hulks''' (Japanese: {{lang|ja|&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''Kuchita Tetsukyoshin'', Fallen Iron Titan) are points of interest in {{XC3}}.
+
+== Overview ==
+Throughout the world, the party may come across one of the eight Ferronis Hulks that are decrepit [[Ferronis]] and can be rebooted and used as [[Rest Spot (XC3)|Rest Spots]]. As the party approaches the Ferronis Hulk, a [[Quest (XC3)|quest]] will activate. These quests involve defeating several enemies that are around the Hulk. After the enemies are defeated, the party must then reboot the Ferronis using a certain amount of [[Ether Cylinder (XC3)|Ether Cylinders]]. 
+
+After rebooting a Ferronis Hulk, its [[Fabricator]] becomes usable and the [[Container]]s next to the Ferronis Hulk will unlock. The Ferronis Hulk will also be able to be used as a Rest Spot, and [[Nopon Merchant]]s will appear at the Hulk, along with a new [[Accessory (XC3)|Accessory]] [[Shop (XC3)|Shop]].
+
+== List of Ferronis Hulks ==
+There are eight Ferronis Hulks throughout Aionios.
+
+* [[Battlescar Ferronis Hulk]] ([[Everblight Plain]])
+* [[Hillside Ferronis Hulk]] ([[Millick Meadows]])
+* [[Desert Ferronis Hulk]] ([[Dannagh Desert (XC3)|Dannagh Desert]])
+* [[Tableland Ferronis Hulk]] ([[Rae-Bel Tableland]])
+* [[Cascade Ferronis Hulk]] ([[Great Cotte Falls]])
+* [[Clifftop Ferronis Hulk]] ([[Urayan Trail]])
+* [[Atoll Ferronis Hulk]] ([[Erythia Sea]])
+* [[Sandbar Ferronis Hulk]] (Erythia Sea)
+
+[[Category:XC3 Points of Interest]]
+[[Category:Aetia Region]]
+[[Category:Fornis Region]]
+[[Category:Pentelas Region]]
+[[Category:Cadensia Region]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>c53q8o2y870ddvi64ofu0pgfx9eyepe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Feyz Rhogul</title>
+    <ns>0</ns>
+    <id>123992</id>
+    <revision>
+      <id>582332</id>
+      <parentid>573769</parentid>
+      <timestamp>2023-04-10T14:06:01Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>582332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1232" sha1="9hczhuuvrfwu55p8d2o7vkbbfb6pjp1" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Feyz Rhogul
+|image        = 
+|caption      = Feyz Rhogul
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Rhogul]]
+|level        = 51
+|area         = [[Great Sword's Hilt]] ([[Material Storage Warehouse]])
+|spawntime    = During ''[[Side Story: Sena]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Feyz Rhoguls''' are four [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemies]] in {{XC3}}. They are members of the [[Rhogul]] family, and are fought at level 51 at the [[Material Storage Warehouse]] on the [[Great Sword's Hilt]] during ''[[Side Story: Sena]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9hczhuuvrfwu55p8d2o7vkbbfb6pjp1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fiber Belt</title>
+    <ns>0</ns>
+    <id>118942</id>
+    <revision>
+      <id>592761</id>
+      <parentid>592338</parentid>
+      <timestamp>2023-05-15T20:14:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592761</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="986" sha1="mhjdf3p1ddpggd7fmm4ags5hmlk5c4h" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Fiber Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 90%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Fiber Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 95%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Fiber Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Boosts damage dealt to Machines by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 6590 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Fiber Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>mhjdf3p1ddpggd7fmm4ags5hmlk5c4h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fiber Underguard</title>
+    <ns>0</ns>
+    <id>122632</id>
+    <revision>
+      <id>566700</id>
+      <parentid>565380</parentid>
+      <timestamp>2022-11-22T15:24:52Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566700</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="971" sha1="2vgesv4gay1wq0av6eprvku2x7pxkrc" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Fiber Underguard
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Grants 60% resistance to Shackle Blocking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Fiber Underguard
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Grants 65% resistance to Shackle Blocking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Fiber Underguard
+|image     = File:XC3 Accessory Shirt.png
+|caption   = Grants 70% resistance to Shackle Blocking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Fiber Underguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>2vgesv4gay1wq0av6eprvku2x7pxkrc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fiber Wraps</title>
+    <ns>0</ns>
+    <id>122615</id>
+    <revision>
+      <id>592762</id>
+      <parentid>592323</parentid>
+      <timestamp>2023-05-15T20:14:19Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592762</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1069" sha1="0zpb4o32y6xh8ihpyeatoqrurzxmkzk" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Fiber Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 100%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Fiber Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 105%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Fiber Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 110%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 22,450 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Fiber Wraps''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>0zpb4o32y6xh8ihpyeatoqrurzxmkzk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fierce Armor Vest</title>
+    <ns>0</ns>
+    <id>118943</id>
+    <revision>
+      <id>592763</id>
+      <parentid>592278</parentid>
+      <timestamp>2023-05-15T20:14:22Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="992" sha1="fjkjvde6lb87xs04yn2xp9ygdu9rodi" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Fierce Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Fierce Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Fierce Armor Vest
+|image     = XC3 Accessory Shirt.png
+|caption   = Boosts Physical Defense by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 8060 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Fierce Armor Vests''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>fjkjvde6lb87xs04yn2xp9ygdu9rodi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fighting Headband</title>
+    <ns>0</ns>
+    <id>122718</id>
+    <revision>
+      <id>592764</id>
+      <parentid>592308</parentid>
+      <timestamp>2023-05-15T20:14:25Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592764</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="538" sha1="s5i8l4nk6tn5gtby2lrof2lcb4wvtk5" xml:space="preserve">{{Infobox item
+|name      = Fighting Headband
+|image     = XC3 Accessory Cap.png
+|caption   = Adds 10% chance to grant Power Charge when evading.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Fighting Headbands''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 30 [[Nopon Coin (Silver)|Silver Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>s5i8l4nk6tn5gtby2lrof2lcb4wvtk5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fili</title>
+    <ns>0</ns>
+    <id>122356</id>
+    <revision>
+      <id>597728</id>
+      <parentid>596068</parentid>
+      <timestamp>2023-07-02T16:27:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597728</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1407" sha1="84umiyaf2ifpnmcu0ja7ipmt3hqe7ji" xml:space="preserve">{{Infobox_NPC
+|name        = Fili
+|image       = Strm npc 85 0.png
+|personality = 
+|time_active = 
+|gender      = 
+|race        = 
+|age         = 10th Term
+|location    = [[Colony Iota]]
+}}
+'''Fili''' is a NPC in {{XC3}}. Fili is from [[Colony Iota]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Fili
+|image        = 
+|caption      = Fili
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 40
+|area         = [[Elaice Highway]]
+|spawntime    = After encountering Alexandria near [[Dies Arch]] during ''[[Her Reasons]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Fili''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who can be found at level 40 on [[Elaice Highway]] after encountering [[Alexandria]] and her soldiers near [[Dies Arch]] during ''[[Her Reasons]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Fornis Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>84umiyaf2ifpnmcu0ja7ipmt3hqe7ji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fineblade Faltaar</title>
+    <ns>0</ns>
+    <id>119498</id>
+    <revision>
+      <id>583270</id>
+      <parentid>574351</parentid>
+      <timestamp>2023-04-17T13:41:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1327" sha1="nujq37mvtlvbwkmxj76udubwg4rxps7" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Fineblade Faltaar
+|image        = XC3 Fineblade Faltaar.png
+|caption      = Fineblade Faltaar
+|type         = [[Taos]]
+|level        = 47
+|area         = [[Great Sword's Hilt]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 1,434
+|cp           = 403
+|sp           = 5
+|gold         = 852
+|hp           = 1,160,000
+|strength     = 687
+|healing      = 415
+|dexterity    = 209
+|agility      = 200
+|physdef      = -10%
+|ethdef       = 25%
+|critrate     = 23%
+|guardrate    = 0%
+}}
+'''Fineblade Faltaar''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Taos]] family, and can be found at level 47 north of the [[Material Storage Warehouse]] on the [[Great Sword's Hilt]]. The [[Dino Flash]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break = 40%
+|physdebuff = 25%
+|etherdebuff = 60%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Fineblade faltaar location.png
+Fineblade faltaar.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Taos]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>nujq37mvtlvbwkmxj76udubwg4rxps7</sha1>
+    </revision>
+  </page>
+  </mediawiki>

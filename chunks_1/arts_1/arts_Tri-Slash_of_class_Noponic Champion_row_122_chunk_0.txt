@@ -1,0 +1,6 @@
+Art Name: Tri-Slash
+
+Class: Noponic Champion
+
+Effect: Break
+

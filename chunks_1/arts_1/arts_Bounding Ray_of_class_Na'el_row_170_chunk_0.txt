@@ -1,0 +1,6 @@
+Art Name: Bounding Ray
+
+Class: Na'el
+
+Effect: AOE/Chance to pierce
+

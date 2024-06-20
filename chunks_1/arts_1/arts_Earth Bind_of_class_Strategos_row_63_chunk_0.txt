@@ -1,0 +1,6 @@
+Art Name: Earth Bind
+
+Class: Strategos
+
+Effect: Bind
+

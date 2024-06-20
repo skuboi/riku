@@ -1,0 +1,6 @@
+Skill Name: Healing License 
+
+Class: War Medic
+
+Skill Buff or Effect:  Boosts amount of HP healed from using healing Arts by 30%. [Rank 5 Master Skill]
+

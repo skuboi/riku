@@ -1,0 +1,6 @@
+Skill Name: Inevitable Evitability 
+
+Class: Tactician
+
+Skill Buff or Effect:  10% chance to evade enemy attack. [Rank 15 Master Skill]
+

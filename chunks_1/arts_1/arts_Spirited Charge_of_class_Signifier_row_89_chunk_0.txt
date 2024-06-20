@@ -1,0 +1,6 @@
+Art Name: Spirited Charge
+
+Class: Signifier
+
+Effect: Dmg up per buff
+

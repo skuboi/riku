@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Noponic Champion
+
+Overview:  
+Noponic Champion is the class of [[Ino]]. The [[Blade (XC3)|Blades]] of the Noponic Champion class are known as the Inosabers. The class is unlocked upon completion of the DLC [[Hero Quest]] ''[[Champion of the Nopon]]'', which becomes accessible in Chapter 3 as long as the [[Xenoblade Chronicles 3#Expansion Pass|Expansion Pass]] has been purchased, with [[Noah]] being the class inheritor. The [[Class Rank (XC3)|Class Rank]] limit is increased from 10 to 20 upon completion of the Ascension Quest ''[[The Hope of Noponkind]]''.
+
+The Noponic Champion class gains bonuses when evading attacks, rewarding effective use of evasion Arts. Additionally, it gains bonuses after being incapacitated, allowing the user to grow stronger in protracted battles where the likelihood of being incapacitated is high. Despite being classified as being part of the [[Nopon Caravans]], arts belonging to the Nopon Champion class function like those of Agnian classes.
+
+Arts: {'Shining Refrain': 'Evade / Self KO↑', 'Dual Flash': 'High Aggro', 'Refractive Edge': 'Evade / High aggro', 'Tri-Slash': 'Break |Break (Rank 10 Master Art)', 'Lustrous Spike': 'Self KO↑ (Rank 1 Master Art)', 'Dazzling Illusion': 'Eva. up / Faster aggro'}
+
+Class Skills: {'Tit For Tat': 'Whenever an ally in a fixed radius is attacked, boosts recharge of one Art at random by 10-20%.', 'Nanomachine Repair': 'Adds 25% chance to restore HP by 6-8% when evading. (Rank 5 Master Skill)', 'Velocity Gear': 'All Arts except Talent Art gain 6-10% recharge when evading.', 'Overclock': 'Boosts recharge rate by 10-20% each time the character is incapacitated (to a maximum of 25%). (Rank 15 Master Skill)'}
+
+Hero Exclusive Arts: {'Starry Beat': '[[Break (XC3)|Break]]', 'Afterglow': 'Self KO↑', 'Photon Storm': 'Evade / High aggro'}
+

@@ -1,0 +1,6 @@
+Art Name: Meteor Flame
+
+Class: Glimmer
+
+Effect: Ether Def. down
+

@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Royal Summoner
+
+Overview:  
+Royal Summoner is the class of [[Melia]]. The [[Blade (XC3)|Blade]] of the Royal Summoner class is the Elemental Staff, which is Melia's [[World Ender]] from {{XCFC}}.
+
+It is unlocked by going to the [[Main Castle Gate]] in [[Keves Castle]] after completing the main story, or in [[New Game + (XC3)|New Game +]]. Completing the [[Hero Quest|Ascension Quest]] ''[[From Atop Her Throne]]'' will increase this class's rank limit from 10 to 20.
+
+Arts: {'Element Genesis': 'AOE/Elem. Discharge dmg+', 'Summon Element': 'AOE/Summon Elementals, maximum of 3 elementals (Rank 1 Master Art)', 'Elemental Discharge': 'Release Elementals (Rank 10 Master Art)', 'Shadow Stitch': 'Bind |Bind', 'Starfall': 'AOE / Topple |Topple', 'Power Effect': 'Atk up / Def. down'}
+
+Class Skills: {'Elemental Boost': 'Each elemental discharge boosts damage dealt by 20-40% (up to a maximum of 400%).', 'Essence of Ether': "Boosts allies' damage by 20-30% and reduces enemy Block Rate by 5-15% (does not stack). (Rank 15 Master Skill)", 'Fortified Ether Guard': 'Boosts Ether Defense by 10-20%. (Rank 5 Master Skill)', 'Here I Shall Stand': 'Boosts elemental damage by 60-100% and elemental buff effects by 30-50%.'}
+
+Hero Exclusive Arts: {'Starlight Kick': '[[Topple (XC3)|Topple]]'}
+

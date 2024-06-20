@@ -1,0 +1,6 @@
+Skill Name: Chaos Chain 
+
+Class: Machine Assassin
+
+Skill Buff or Effect:  Debuffing an enemy boosts damage dealt by 30% (up to a maximum of 150%).
+

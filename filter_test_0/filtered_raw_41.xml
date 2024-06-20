@@ -1,0 +1,884 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Machine Assassin</title>
+    <ns>0</ns>
+    <id>118551</id>
+    <revision>
+      <id>600044</id>
+      <parentid>597048</parentid>
+      <timestamp>2023-07-19T09:48:09Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>600044</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7273" sha1="3id4mx70aau8wgfvtzxiob8weey6g66" xml:space="preserve">{{Spoiler}}
+[[File:XC3 Machine Assassin Weapon Icon.png|thumb|The Machine Assassin class icon]]
+{{quote|An Attacker who hounds foes with debuffs, then fells them at their most vulnerable with dual axes.|Class menu description}}
+'''Machine Assassin''' is a [[Keves]]i [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Machine Assassin is the class of [[Segiri]]. Machine Assassins use [[Blade (XC3)|Blades]] known as Doom Axes. It specializes in inflicting many debuffs to weaken the enemy, before going in for the kill.
+
+It can be unlocked by completing the [[Hero Quest]] ''[[Inhumanity]]''. The [[Class Rank (XC3)|Class Rank]] maximum is increased to 20 by completing the Ascension Quest ''[[Invisible Bond]]''.
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|2,965
+|5,925
+|4,940
+|3,950
+|6,915
+|''Class Inheritor''
+|}
+
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 265
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 265
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 330
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 400
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 430
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 430 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 465
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Invisible Bond]]''
+|-
+| 11 
+| 395
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 395
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 520
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 520
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 645
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 645 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 845
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 970
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Machine Assassin class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 75% || 115% || 20% || 110% || 70% || 15% || 5%
+|-
+| 10 || 77% || 120% || 22% || 115% || 72% || 17% || 7%
+|-
+| 20 || 80% || 125% || 25% || 120% || 75% || 20% || 10%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 20 || 20% || 10%
+|-
+| 10 || 45 || 21% || 11%
+|-
+| 20 || 81 || 22% || 12%
+|-
+| 30 || 126 || 23% || 13%
+|-
+| 40 || 175 || 24% || 14%
+|-
+| 50 || 234 || 25% || 15%
+|-
+| 60 || 299 || 26% || 16%
+|-
+| 70 || 370 || 27% || 17%
+|-
+| 80 || 452 || 28% || 18%
+|-
+| 90 || 543 || 29% || 19%
+|-
+| 99 || 635 || 30% || 20%
+|}
+== Arts ==
+* '''[[Viral Vector]]''' ([[Battle Arts (XC3)#Talent Arts|Talent Art]]), AOE/2 random debuffs
+* [[Tyrant Cross]], 1 random debuff (Rank 1 Master Art)
+* [[Fatal Bite]], Side attack &#8593; (Rank 10 Master Art)
+* [[Terror Onslaught]], Back resistance down
+* [[Havoc Slayer]], AOE / Spread debuffs
+* [[Mega Crescent]], Extend debuff time
+
+=== Hero-Exclusive Arts ===
+* [[Fury Reaper]], AOE / Spread debuffs
+* [[Seventh Edge (XC3)|Seventh Edge]], Back resistance down
+* [[Hundred Shells (XC3)|Hundred Shells]], Extend debuff time
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 10.png]] '''Cursed Edge''': Boosts damage dealt by 50-70% when attacking a debuffed enemy. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 10.png]] '''Chaos Chain''': Debuffing an enemy boosts damage dealt by 20-30% (up to a maximum of 150%).
+* [[File:XC3 Skill Icon 43.png]] '''Anti-Erosion System''': Grants 30-50% resistance to all debuffs. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 5.png]] '''Phantom Strike''': Adds 60-100% chance for attack to be unblockable.
+
+=== Stat Increases===
+{| class="xc1 centered" style="width:80%;"
+! Class Rank 
+! Chaos Chain
+! Phantom Strike
+! Cursed Edge
+! Anti-Erosion System
+|-
+| 1
+| 20%
+| 60%
+| 50%
+| 30%
+|-
+| 5
+| 22%
+| 70%
+| 55%
+| 35%
+|-
+| 10 
+| 25%
+| 80%
+| 60%
+| 40%
+|-
+| 15
+| 27%
+| 90%
+| 65%
+| 45%
+|-
+| 20
+| 30%
+| 100%
+| 70%
+| 50%
+|}
+
+== Notes ==
+* Not all debuffs can be inflicted with this class. To see a full list of all applicable debuffs, see ''[[Status Effect]]''.
+{{clr}}
+
+== Trivia ==
+* The clothing a character wears while using the Machine Assassin class is dependent on their gender. Male characters wear an outfit designed after a Ferron Unit, while female characters wear [[Segiri]]'s outfit.
+
+== Gallery ==
+&lt;gallery&gt;
+Segiri Hero Artwork.png|Segiri, a Machine Assassin
+Machine Assassin Noah.png|Noah as a Machine Assassin
+Machine Assassin Mio.png|Mio as a Machine Assassin
+Machine Assassin Eunie.png|Eunie as a Machine Assassin
+Machine Assassin Taion.png|Taion as a Machine Assassin
+Machine Assassin Lanz.png|Lanz as a Machine Assassin
+Machine Assassin Sena.png|Sena as a Machine Assassin
+&lt;/gallery&gt;
+{{xc3 stub}}
+[[Category:XC3 Classes]]</text>
+      <sha1>3id4mx70aau8wgfvtzxiob8weey6g66</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Machinok Bunnit</title>
+    <ns>0</ns>
+    <id>121714</id>
+    <revision>
+      <id>559795</id>
+      <parentid>557254</parentid>
+      <timestamp>2022-09-30T10:52:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559795</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="848" sha1="amkcy51wizh6pgaxsfru5gvelq02rai" xml:space="preserve">{{Infobox Enemy
+|name         = Machinok Bunnit
+|image        = 
+|caption      = Machinok Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Great Sword's Hilt]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Machinok Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Great Sword's Hilt]] in the [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>amkcy51wizh6pgaxsfru5gvelq02rai</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mad Upa (XC3)</title>
+    <ns>0</ns>
+    <id>121176</id>
+    <revision>
+      <id>576740</id>
+      <parentid>559796</parentid>
+      <timestamp>2023-02-13T01:32:32Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576740</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="tjqlkrqxwpdb9v4p1gu46u3126t615j" xml:space="preserve">{{for|the enemy in {{XC|-}}|Mad Upa (XC1)}}
+{{Infobox XC3 Enemy
+|name         = Mad Upa
+|image        = 
+|caption      = Mad Upa
+|category     = Minor Enemy
+|type         = [[Upa]]
+|level        = ?
+|area         = [[Old Cliffside Way]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mad Upas''' are Minor Enemies in {{XC3}}. They are members of the [[Upa]] family, and can be found at level ? at [[Old Cliffside Way]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Upas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tjqlkrqxwpdb9v4p1gu46u3126t615j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Magbow Merigna</title>
+    <ns>0</ns>
+    <id>121837</id>
+    <revision>
+      <id>559797</id>
+      <parentid>546957</parentid>
+      <timestamp>2022-09-30T10:52:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="iq16py8m3zt1q9xavhmfi3ydjz6moaj" xml:space="preserve">{{Infobox Enemy
+|name         = Magbow Merigna
+|image        = 
+|caption      = Magbow Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Magbow Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>iq16py8m3zt1q9xavhmfi3ydjz6moaj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Magranger Merigna</title>
+    <ns>0</ns>
+    <id>121838</id>
+    <revision>
+      <id>559798</id>
+      <parentid>546958</parentid>
+      <timestamp>2022-09-30T10:52:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559798</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="nq1mkbadp2wek8xfcqnrrcxi16f9685" xml:space="preserve">{{Infobox Enemy
+|name         = Magranger Merigna
+|image        = 
+|caption      = Magranger Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Magranger Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>nq1mkbadp2wek8xfcqnrrcxi16f9685</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mailoo Garaffa (XC3)</title>
+    <ns>0</ns>
+    <id>121108</id>
+    <revision>
+      <id>582438</id>
+      <parentid>582437</parentid>
+      <timestamp>2023-04-11T09:15:20Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>582438</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="934" sha1="ccmgcczv98m5xnpiens51r9ua57jhpg" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Mailoo Garaffa (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Mailoo Garaffa
+|image        = Mailoo Garaffa.jpg
+|caption      = Mailoo Garaffa
+|category     = Normal Minor Enemy
+|type         = [[Garaffa]]
+|level        = 18 - 19
+|area         = [[Ribbi Flats]] ([[Caitlin Drum]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mailoo Garaffas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Garaffa]] family, and can be found at level 18 - 19 at [[Caitlin Drum]] on the [[Ribbi Flats]].
+
+== Drops ==
+* [[Garaffa Tenderloin]]
+* [[Garaffa Electrical Organ]]
+
+{{clr}}
+
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Garaffas]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ccmgcczv98m5xnpiens51r9ua57jhpg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mammon Quardun</title>
+    <ns>0</ns>
+    <id>121839</id>
+    <revision>
+      <id>559800</id>
+      <parentid>554854</parentid>
+      <timestamp>2022-09-30T10:52:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559800</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="856" sha1="34d5uvg9y5sfty7m1tpcwx7yauhmqf9" xml:space="preserve">{{Infobox Enemy
+|name         = Mammon Quardun
+|image        = 
+|caption      = Mammon Quardun
+|category     = Minor Enemy
+|type         = [[Quardun]]
+|level        = 63-64
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Mammon Quarduns''' are Minor Enemies in {{XC3}}. They are members of the [[Quardun]] family, and can be found at levels 63-64 throughout [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Quarduns]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>34d5uvg9y5sfty7m1tpcwx7yauhmqf9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mammon Quarmu</title>
+    <ns>0</ns>
+    <id>121840</id>
+    <revision>
+      <id>559801</id>
+      <parentid>546960</parentid>
+      <timestamp>2022-09-30T10:52:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559801</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="npkezof09mlwq4mdxubnavzfm4oo0st" xml:space="preserve">{{Infobox Enemy
+|name         = Mammon Quarmu
+|image        = 
+|caption      = Mammon Quarmu
+|category     = Minor Enemy
+|type         = [[Quarmu]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Mammon Quarmus''' are Minor Enemies in {{XC3}}. They are members of the [[Quarmu]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Quarmus]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>npkezof09mlwq4mdxubnavzfm4oo0st</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Manana</title>
+    <ns>0</ns>
+    <id>116535</id>
+    <revision>
+      <id>595640</id>
+      <parentid>591965</parentid>
+      <timestamp>2023-06-16T02:13:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595640</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3014" sha1="2pj630dijy9xt1gbr18xb5mcxafhs86" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name           = Manana
+|image          = XC3 Manana portrait Artwork.png
+|description    = Manana
+|gender         = Female
+|age            = Unknown
+|species        = [[Nopon]]
+|haircolor      = Pink
+|eyecolor       = Yellow
+|affiliation    = [[Colony Gamma]] (formerly)
+|voiceactorjp   = [[wikipedia:Aya_Suzaki|Aya Suzaki]]
+|voiceactoreng  = [[wikipedia:Grace Saif|Grace Saif]]
+|appearances    = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+'''Manana''' (Japanese: {{lang|ja|&#12510;&#12490;&#12490;}}, '''Manana''') is a character in {{XC3}}.
+
+== Overview ==
+Manana &amp; [[Riku]] are unlocked as a [[Hero]] duo after completing the [[Hero Quest]] ''[[A Nopon's Counsel]]''. She and [[Riku]] together are also known as Peerless [[Riku &amp; Manana]] (Japanese: {{Lang|jp|&#25216;&#24039;&#12398;&#12522;&#12463;&amp;&#12510;&#12490;&#12490;}}, ''Kig&#333; no Riku &amp; Manana''). She is a chef from the [[Agnus|Agnian]] colony of [[Colony Gamma]].&lt;ref&gt;[https://topics.nintendo.co.jp/article/3ced4c9d-a5e1-43a3-b16e-0005971ed404 Nintendo]&lt;/ref&gt; Although she is initially a noncombatant, she later chooses to fight together with Riku as a single unit.
+
+== Gameplay ==
+{{main|Riku &amp; Manana}}
+At [[Rest Spot (XC3)|Rest Spots]], Manana can [[Manana's Menu|cook]] food for the party, her food grants the party temporary buffs.
+
+== Plushes ==
+[[Monolith Soft]] made handmade plushes of Riku &amp; Manana. They have weapons, and ''"they look so cool and kawaii!"'' &lt;ref&gt;https://twitter.com/XenobladeJP/status/1552915657691242496&lt;/ref&gt;
+
+== Trivia ==
+* Riku &amp; Manana, [[Nia]], and [[Melia]] are the only non-DLC Heroes in {{XC3|-}} that can never be fought by the party.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Riku and Manana Artwork.png|Official Artwork of Riku and Manana
+Riku Manana XC3 EX Artwork.png|{{XC3|-}} Expansion Pass Artwork of Riku and Manana
+XC3 Riku &amp; Manana as Yamsmiths.jpg|Riku &amp; Manana as Yumsmiths
+Riku and Manana Concept Art.png|Manana's Concept Art
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruiting artwork
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Manana Hero Icon.png|Manana's Hero List Icon
+Riku Manana Hero Icon.png|Riku and Manana's Hero List Icon
+Riku &amp; Manana Chain Art Icon.png|Riku and Manana's Chain Order Icon
+Riku Manana Level Up Art.png|Riku and Manana's Level Up Art
+Icon chara 7.png
+Icon chara battle 7.png
+XC3 Manana Icon.png|Manana's unused Affinity Chart Icon
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+RikuManana.jpg|Riku with Manana
+XC3 Manana Screenshot 1.jpg
+XC3 Manana Screenshot 2.jpg
+XC3 Manana's Cooking 01.jpg
+XC3 Manana's Cooking 02.jpg
+&lt;/gallery&gt;
+
+=== Merchandise ===
+&lt;gallery&gt;
+XC3 Riku &amp; Manana plushes 02.jpg
+XC3 Riku &amp; Manana plushes 03.jpg
+XC3 Riku &amp; Manana plushes 04.jpg
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+File:&#12510;&#12490;&#12490;|Manana
+&lt;/gallery&gt;
+
+== References ==
+&lt;references/&gt;
+
+{{xc3 stub}}
+{{XC3CharNav}}
+
+[[Category:Manana]]
+[[Category:XC3 Heroes]]
+[[Category:XC3 Nopon]]
+[[Category:Agnus]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>2pj630dijy9xt1gbr18xb5mcxafhs86</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mant Aries (XC3)</title>
+    <ns>0</ns>
+    <id>123157</id>
+    <revision>
+      <id>599307</id>
+      <parentid>596026</parentid>
+      <timestamp>2023-07-09T17:14:23Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>599307</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1915" sha1="f275ruqey76jtmu0ku7wi7o2do6anou" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Mant Aries (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Mant Aries
+|image        = 
+|caption      = Mant Aries
+|category     = Minor Enemy
+|type         = [[Aries]]
+|level        = 48
+|area         = [[Captocorn Peak]] ([[Tsang Road]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Mant Aries''' are Minor Enemies in {{XC3}}. They are members of the [[Aries]] family, and can be found at level 48 on [[Tsang Road]] on [[Captocorn Peak]]. Mant Aries can drop the following items: [[Perfumed Aries Hide]], [[Aries Fur]], and [[Mottlemarble Aries Meat]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Mant Aries
+|image        = Mant Aries FR.jpg
+|caption      = Mant Aries
+|category     = Normal Enemy
+|type         = [[Aries]]
+|level        = 41
+|area         = [[Black Mountains]] ([[Belgazas' Drifts]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Mant Aries''' are normal enemies in {{XC3FR}}. They are members of the [[Aries]] family, and can be found at level 41 at [[Belgazas' Drifts]] on the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Aries]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3FR Aries]]
+[[Category:XC3FR Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>f275ruqey76jtmu0ku7wi7o2do6anou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mant Ories</title>
+    <ns>0</ns>
+    <id>117489</id>
+    <revision>
+      <id>596027</id>
+      <parentid>583237</parentid>
+      <timestamp>2023-06-16T19:54:45Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>596027</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1069" sha1="1fdjhzkicvn2kvy5eda0rqvnjjz7fza" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Mant Ories
+|image        = 
+|caption      = Mant Ories
+|category     = Normal Enemy
+|type         = [[Ories]]
+|level        = 55
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mant Ories''' are normal enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Ories]] family, and can be found at level 55 on [[Captocorn Peak]], northwest of the [[Tsang Camp]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ories]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Black Mountains Enemies]]
+[[Category:XC3FR Ories]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>1fdjhzkicvn2kvy5eda0rqvnjjz7fza</sha1>
+    </revision>
+  </page>
+  </mediawiki>

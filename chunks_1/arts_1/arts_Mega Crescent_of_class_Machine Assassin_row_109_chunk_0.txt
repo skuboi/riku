@@ -1,0 +1,6 @@
+Art Name: Mega Crescent
+
+Class: Machine Assassin
+
+Effect: Extend debuff time
+

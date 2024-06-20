@@ -1,0 +1,6 @@
+Art Name: Vital Bullet
+
+Class: War Medic
+
+Effect: AOE / Delayed healing
+

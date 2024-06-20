@@ -1,0 +1,6 @@
+Skill Name: Preppy-Preppy Link!
+
+Class: Yumsmith
+
+Skill Buff or Effect: Fills Chain Attack gauge slightly on Art execution.
+

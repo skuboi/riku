@@ -1,0 +1,1641 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Paloo Shoox</title>
+    <ns>0</ns>
+    <id>124000</id>
+    <revision>
+      <id>582327</id>
+      <parentid>559295</parentid>
+      <timestamp>2023-04-10T12:17:34Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>582327</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1072" sha1="b5uq5xvurf53mmebrjhhwbcpzv9cyl8" xml:space="preserve">{{Infobox Enemy
+|name         = Paloo Shoox
+|image        = 
+|caption      = Paloo Shoox
+|category     = Normal Minor Enemy
+|type         = [[Shoox]]
+|level        = 74
+|area         = [[Erythia Sea]] ([[Patulia Bay]])
+|spawntime    = Spawned by [[Seatiger Tridence]]
+|respawn      = No
+|movement     = Water
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Paloo Shooxes''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Shoox]] family, and can be found at level 74 in [[Patulia Bay]] of [[Erythia Sea]], and are summoned by [[Seatiger Tridence]]'s Call Friends art. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Shooxes]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>b5uq5xvurf53mmebrjhhwbcpzv9cyl8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Papillico Kapiba</title>
+    <ns>0</ns>
+    <id>121110</id>
+    <revision>
+      <id>596018</id>
+      <parentid>584325</parentid>
+      <timestamp>2023-06-16T19:49:15Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>596018</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3204" sha1="74woqsjf23rhkdriohgpiz3wo2fmxwo" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Papillico Kapiba
+|image        = Papillico Kapiba.jpg
+|caption      = Papillico Kapiba
+|category     = Normal Minor Enemy
+|type         = [[Kapiba]]
+|level        = 17 - 18
+|area         = [[Ribbi Flats]] ([[Tonic Waters]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Papillico Kapibas''' are Normal Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Kapiba]] family, and can be found at level 17 - 18 at [[Tonic Waters]] near [[Killy Fors]] in the [[Ribbi Flats]].
+
+== Drops ==
+* [[Sweet Kapiba Lard]]
+* [[Withered Kapiba Branch]]
+
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Papillico Kapiba
+|image        = 
+|caption      = Papillico Kapiba
+|type         = [[Kapiba]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 55
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 67,878
+|strength     = 236
+|healing      = 315
+|dexterity    = 196
+|agility      = 198
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+A '''Papillico Kapiba''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 55 on Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+
+=== Skills ===
+The Papillico Kapiba has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+
+=== Resistances ===
+{{XC3 Resistances}}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|80%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Stepping Stone'''
+|Physical
+|One Target
+|1
+|250%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*Topple is only inflicted if target is suffering [[Break (XC3)|Break]].
+*Damage is boosted by 200% when attacking the target from behind.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Lazy Sway'''
+|Physical
+|One Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Burrowing Rocket'''
+|Physical
+|AOE around User
+|1
+|160%
+|Break
+|style="text-align:left;"|
+*Evades enemy attacks during the Art.
+|}
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Kapibas]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:The Ragmos Desolation Enemies]]
+[[Category:XC3FR Kapibas]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>74woqsjf23rhkdriohgpiz3wo2fmxwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Parasite Eluca</title>
+    <ns>0</ns>
+    <id>121850</id>
+    <revision>
+      <id>559857</id>
+      <parentid>546971</parentid>
+      <timestamp>2022-09-30T10:54:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="796" sha1="2gnbw7nl9hksj0j12l1u2vqb4im5z12" xml:space="preserve">{{Infobox Enemy
+|name         = Parasite Eluca
+|image        = 
+|caption      = Parasite Eluca
+|category     = Minor Enemy
+|type         = [[Eluca]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Parasite Elucas''' are Minor Enemies in {{XC3}}. They are members of the [[Eluca]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Elucas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>2gnbw7nl9hksj0j12l1u2vqb4im5z12</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pashfe Gyaark</title>
+    <ns>0</ns>
+    <id>121851</id>
+    <revision>
+      <id>594313</id>
+      <parentid>564951</parentid>
+      <timestamp>2023-05-27T13:59:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1640" sha1="7n7fofxfu04esa6b3ih8n9tkb2770uq" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Pashfe Gyaark
+|image        = 
+|caption      = Pashfe Gyaark
+|category     = Normal Minor Enemy
+|type         = [[Gyaark]]
+|level        = 63-64
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Pashfe Gyaarks''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Gyaark]] family, and can be found at level 63-64 in [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Pashfe Gyaark
+|image        = Pashfe Gyaark FR.jpg
+|caption      = Pashfe Gyaark
+|category     = Normal Minor Enemy
+|type         = [[Gyaark]]
+|level        = 36
+|area         = [[Aurora Shelf]] ([[Zalmor's Thawtunnels]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Pashfe Gyaarks''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Gyaark]] family, and can be found at level 36 in [[Zalmor's Thawtunnels]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Gyaarks]]
+[[Category:XC3FR Gyaarks]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>7n7fofxfu04esa6b3ih8n9tkb2770uq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pause Buff Timer</title>
+    <ns>0</ns>
+    <id>125805</id>
+    <revision>
+      <id>579440</id>
+      <timestamp>2023-03-18T03:18:11Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Status | title = Pause Buff Timer | caption = Freezes timer on other active buffs. | image = XC3 Pause Buff Timer.png | type = Buff | base-duration = 20.0s | max-duration = 40.0s | rng-applicable = No }} '''Pause Buff Timer''' is a [[Status Effect]] in {{XC3}}. While this buff is active, all other buffs on the affected character will have their timers (if applicable) paused, preventing them from expiring.  Some timed buffs can still be removed while this bu..."</comment>
+      <origin>579440</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="709" sha1="q1qy50b4uugipkr6k3gpgkevfflxo5b" xml:space="preserve">{{Infobox XC3 Status
+| title = Pause Buff Timer
+| caption = Freezes timer on other active buffs.
+| image = XC3 Pause Buff Timer.png
+| type = Buff
+| base-duration = 20.0s
+| max-duration = 40.0s
+| rng-applicable = No
+}}
+'''Pause Buff Timer''' is a [[Status Effect]] in {{XC3}}. While this buff is active, all other buffs on the affected character will have their timers (if applicable) paused, preventing them from expiring.
+
+Some timed buffs can still be removed while this buff is active if conditions for their removal are met, such as for [[Delayed Healing]], which is removed if the character is reduced to low HP.
+==Distribution==
+===Arts===
+*[[Glittering Melody]] ([[Troubadour]])
+[[Category:XC3 Status]]</text>
+      <sha1>q1qy50b4uugipkr6k3gpgkevfflxo5b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pawn Arachno (XC3)</title>
+    <ns>0</ns>
+    <id>121072</id>
+    <revision>
+      <id>582712</id>
+      <parentid>582710</parentid>
+      <timestamp>2023-04-13T06:52:48Z</timestamp>
+      <contributor>
+        <username>Casuual</username>
+        <id>52763436</id>
+      </contributor>
+      <origin>582712</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="959" sha1="6s233m0frrbgtcxknce6mi3bsmcr397" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Pawn Arachno (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Pawn Arachno
+|image        = Pawn Arachno (XC3).jpg
+|caption      = Pawn Arachno
+|category     = Normal Minor Enemy
+|type         = [[Arachno]]
+|level        = 24-25
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Raptor Perch]]) 
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Pawn Arachnos''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Arachno]] family, and can be found at level 24-25 on [[Raptor Perch]] in the [[Dannagh Desert (XC3)|Dannagh Desert]].
+
+== Drops ==
+* [[Arachno Thread]]
+* [[Arachno Pincer]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>6s233m0frrbgtcxknce6mi3bsmcr397</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pellurid Igna</title>
+    <ns>0</ns>
+    <id>121091</id>
+    <revision>
+      <id>595099</id>
+      <parentid>595098</parentid>
+      <timestamp>2023-06-10T15:18:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595099</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1814" sha1="4eb0vu96c4t8z15uyriy1wbk0rs3dxl" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Pellurid Igna
+|image        = Pellurid Igna FR.jpg
+|caption      = Pellurid Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 45&lt;br/&gt;98-100
+|area         = [[Elaice Highway]] ([[Nid Cave]])&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Pellurid Ignas''' are Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 45 in [[Nid Cave]] on [[Elaice Highway]], or at level 98-100 in [[Rebellion Cave]] in [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Pellurid Igna
+|image        = Pellurid Igna FR.jpg
+|caption      = Pellurid Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 36
+|area         = [[Aurora Shelf]] ([[Declessa Cave Temple Ruins]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Pellurid Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 36 at the [[Declessa Cave Temple Ruins]] on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>4eb0vu96c4t8z15uyriy1wbk0rs3dxl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pergas</title>
+    <ns>0</ns>
+    <id>121881</id>
+    <revision>
+      <id>597861</id>
+      <parentid>596167</parentid>
+      <timestamp>2023-07-02T16:36:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597861</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1714" sha1="f5g0sbrhbectld6st2hbtl2notiutrs" xml:space="preserve">{{Infobox_NPC
+|name        = Pergas
+|image       = XC3 Pergas Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Keves]]i human
+|age         = 7th Term
+|location    = [[Erythia Sea]] ([[Colony 15]])&lt;br /&gt;[[City]]
+}}
+'''Pergas''' is an NPC and in {{XC3}} who can be found in [[Colony 15]], and later in the [[City]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Pergas
+|image        = 
+|caption      = Pergas
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = During ''[[Doing It My Way]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+'''Pergas''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. He is a [[Keves Forces|Keves Soldier]] who is fought at level 48 in [[Colony 15]] in [[Erythia Sea]] during ''[[Doing It My Way]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>f5g0sbrhbectld6st2hbtl2notiutrs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Perilous Presence</title>
+    <ns>0</ns>
+    <id>118888</id>
+    <revision>
+      <id>595267</id>
+      <parentid>592024</parentid>
+      <timestamp>2023-06-11T16:33:51Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6646" sha1="letpanh2fg38ag4gyi46xlv5skngv9z" xml:space="preserve">{{Infobox Gem
+| name     = Perilous Presence
+| image    = Gem-defender.png
+| effect   = [Passive] Start each battle with aggro.
+| category = Defender
+}}
+'''Perilous Presence''' is a Defender [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+While these stats are not directly visible, they can be seen when viewing a character's build.
+{| class="xc1 gem-stats centered" style="width: 200px"
+!Rank
+!Starting Aggro
+|-
+!I
+|500
+|-
+!II
+|750
+|-
+!III
+|1000
+|-
+!IV
+|1250
+|-
+!V
+|1500
+|-
+!VI
+|1750
+|-
+!VII
+|2000
+|-
+!VIII
+|2250
+|-
+!IX
+|2500
+|-
+!X
+|3000
+|}
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Perilous Presence I
+|[[Gemstone]]&lt;br /&gt;[[Rhogul Axe Crest (XC3)|Rhogul Axe Crest]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+| Perilous Presence II
+|Gemstone&lt;br /&gt;[[Decorative Grebel Quill]]&lt;br /&gt;[[Golden Brog Oil]]&lt;br /&gt;[[Glitter Radish]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Perilous Presence III
+|Gemstone&lt;br /&gt;[[Wisp Sun Bead (XC3)|Wisp Sun Bead]]&lt;br /&gt;[[Tirkin Service Medal]]&lt;br /&gt;[[Elegant Ansel Feather]]&lt;br /&gt;[[Syrup Spruce]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Perilous Presence IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Ottil's Treasured Bivavle|Ottil's Treasured Bivalve]]&lt;br /&gt;[[Rich-Smelling Anlood Bone]]&lt;br /&gt;[[Treasured Gogol Liquor]]&lt;br /&gt;[[Mille-Feuille Rock (XC3)|Mille-Feuille Rock]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Perilous Presence V 
+|Pure Gemstone&lt;br /&gt;[[Glowing Gyaark Fin]] x 2&lt;br /&gt;[[Glistening Krodlax Scale]] x 2&lt;br /&gt;[[Round Skwaror Crystal]] x 2&lt;br /&gt;[[Black Blossom (XC3)|Black Blossom]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Perilous Presence VI
+|Pure Gemstone&lt;br /&gt;[[Shining Ellook Antler]] x 2&lt;br /&gt;[[Aries Fur]] x 2&lt;br /&gt;[[Supersonic Vang Organ]] x 2&lt;br /&gt;[[Perfume Herb]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+|Perilous Presence VII
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Moglum Lamp]] x 2&lt;br /&gt;[[Rainbow Darbus Crystal]] x 2&lt;br /&gt;[[Gold Arachno Queensilk]] x 3&lt;br /&gt;Shining Ellook Antler x 3&lt;br /&gt;[[Beaconstone]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Perilous Presence VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Magnificent Upa Lure]] x 15&lt;br /&gt;[[Springy Medooz Bell]] x 15&lt;br /&gt;[[Armored Scorpox Pincer]] x 15&lt;br /&gt;Moglum Lamp x 15&lt;br /&gt;[[King Marigold (XC3)|King Marigold]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Perilous Presence IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;[[Small Speculatos Base]] x 20&lt;br /&gt;[[Preserved Gogol Snack]] x 20&lt;br /&gt;[[Enpedia Headpiece]] x 20&lt;br /&gt;[[Antol Queen Shell]] x 20&lt;br /&gt;[[Lozenge Diamond]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Perilous Presence X 
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Elegant Ravoon Horn]] x 30&lt;br /&gt;Rich-Smelling Anlood Bone x 30&lt;br /&gt;Ottil's Treasured Bivalve x 30&lt;br /&gt;[[Explosive Plambus Powder]] x 30&lt;br /&gt;[[Shoox Earplate]] x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Perilous Presence I
+| [[Gemstone]]&lt;br /&gt;[[Wisp Sun Bead (XC3)|Wisp Sun Bead]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Perilous Presence II
+| Gemstone&lt;br /&gt;[[Powdered Skwaror Leaves]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Perilous Presence III
+| [[Pure Gemstone]]&lt;br /&gt;[[Blessed Pippito Light]]&lt;br /&gt;[[Caterpile Antenna]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Perilous Presence IV
+| Pure Gemstone&lt;br /&gt;[[Decorative Grebel Quill]] x2&lt;br /&gt;[[Arachno Pincer]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Perilous Presence V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Garaffa Electrical Organ]]&lt;br&gt;[[Luminescent Laia Fin]] x2&lt;br&gt;[[Painted Totem Board]] x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>letpanh2fg38ag4gyi46xlv5skngv9z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Perilwing Ryuho</title>
+    <ns>0</ns>
+    <id>117433</id>
+    <revision>
+      <id>582081</id>
+      <parentid>575384</parentid>
+      <timestamp>2023-04-08T04:42:35Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>add arts data</comment>
+      <origin>582081</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8611" sha1="0kpo9nejtv27bg4s4x5l1tl2vcv8klu" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Perilwing Ryuho
+|image        = XC3 Perilwing Ryuho (cropped).png
+|caption      = Perilwing Ryuho
+|type         = [[Vollgull]]
+|level        = 100
+|area         = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Coolley Lake (XC3)|Coolley Lake]])
+|category     = [[Unique Monster (XC3)|Unique Monster]] ([[Superboss]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = Sight
+|hp           = 8,525,050
+|strength     = 2,611
+|healing      = 617
+|dexterity    = 538
+|agility      = 520
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 30%
+|guardrate    = 0%
+|exp          = 11,731
+|cp           = 337
+|sp           = 25
+|gold         = 7,650
+}}
+'''Perilwing Ryuho''' is a [[Superboss]] in {{XC3}}. It is a [[Unique Monster (XC3)|Unique Monster]] and a member of the [[Vollgull]] family and can be initially found at level 100 at [[Coolley Lake (XC3)|Coolley Lake]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]]. The [[Soulhacker#Enemy Skills|Eagle Rush]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it. Through re-challenging, Perilwing Ryuho's level can be increased to a maximum at level 160.
+==Battle==
+===Skills===
+Perilwing Ryuho has several innate skills:
+*Extends Launch duration by 50%.
+*Extends Daze duration by 200%.
+===Resistances ===
+{{XC3 Resistances
+|break       = 105%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = Immune
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 75%
+|etherdebuff = Immune
+}}
+{{clr}}
+===Enraged===
+{|class="xc1 centered" style="width:70%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 25%.&lt;br&gt;Boosts Art recharge speed by 50%.&lt;br&gt;Boosts evasion by 15% when HP is at 50% or lower.
+|}
+===Arts===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|200%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|rowspan="2"|'''Hyperion Ray'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|rowspan="2"|1
+|rowspan="2"|250%
+| [[Blowdown (XC3)|Blowdown]] / [[Accuracy Down]]
+| rowspan="2"| 
+| When reduced to 80% HP during Lv 100-150 fights
+|- &lt;!-- Arts Slot 5 --&gt;
+| [[Bind (XC3)|Bind]]
+| When reduced to 60% HP during Lv 160 fight
+|- &lt;!-- Arts Slot 1 --&gt;
+|rowspan="2"|'''Raptor Catch'''
+|rowspan="2"|Physical
+|rowspan="2"|One Target
+|rowspan="2"|&lt;abbr title="Number of slots for which frame data is logged. Some of these hits may be phantom hits for animation cues"&gt;4&lt;/abbr&gt;
+|rowspan="2"|400%
+|rowspan="2"|Grabs target during animation / [[Smash (XC3)|Smash]] on release
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Cannot affect [[Ouroboros]] forms.
+|When reduced to 80% HP during Lv 100-110 fights
+|- &lt;!-- Arts Slot 6 --&gt;
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Cannot affect Ouroboros forms.
+*Attack cannot be blocked.
+|When reduced to 80% HP during Lv 115-150 fights; anytime during Lv 160 fight
+|- &lt;!-- Arts Slot 2 --&gt;
+|rowspan="3"|'''Frost Cannon'''
+|rowspan="3"|Ether
+|rowspan="3"|Frontward AOE
+|rowspan="3"|3
+|720%
+|rowspan="3"|[[Freeze]]
+|style="text-align:left;"|
+*Damage from Freeze is boosted by 200%.
+*Each hit can only damage a single target in range.
+|Anytime during Lv 100 fight
+|- &lt;!-- Arts Slot 7 --&gt;
+|1020%
+|rowspan="2" style="text-align:left;"|
+*Damage from Freeze is boosted by 300%.
+*Each hit can only damage a single target in range.
+|Anytime during Lv 105-150 fights
+|- &lt;!-- Arts Slot 10 --&gt;
+| 1260%
+|When reduced to 80% HP during Lv 160 fight
+|- &lt;!-- Arts Slot 3 --&gt;
+|rowspan="2"|'''Stratospheric Launch'''
+|rowspan="2"|Physical
+|One Target
+|rowspan="2"| 1
+|rowspan="2"| 450%
+|rowspan="2"| [[Launch (XC3)|Launch]]
+|style="text-align:left;"|
+*Accuracy and Critical Rate are boosted by 25%.
+|While above 80% HP on fights up to Lv 150, and when reduced to 60% HP during fights up to Lv 120
+|- &lt;!-- Arts Slot 8 --&gt;
+|AOE on Target
+| style="text-align:left;"|
+*Accuracy is boosted by 25%.
+|When reduced to 60% HP during Lv 125-160 fights; additionally when above 80% HP during Lv 160 fight
+|- &lt;!-- Arts Slot 4 --&gt;
+|rowspan="2"|'''Assault Hawk'''
+|rowspan="2"|Physical
+|rowspan="2"|One Target
+|rowspan="2"|3
+|rowspan="2"|800%
+|rowspan="2"|[[Daze (XC3)|Daze]] on third hit
+|style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+|When reduced to 40% HP during fights up to and including Lv 130
+|- &lt;!-- Arts Slot 9 --&gt;
+|style="text-align:left;"|
+*Critical Rate is boosted by 25%.
+*Negates enemy guard; inflicts [[Break (XC3)|Break]] if guard is attempted.
+|When reduced to 40% HP during fights at Lv 135 or above
+|}
+=== Superboss Challenges ===
+After defeating it for the first time, Perilwing Ryuho can be re-fought at increasing levels by selecting the "Challenge" option on its [[Named Grave]]. After defeating it at a given challenge level, it will appear at the next challenge level the next time it is challenged, until reaching its maximum level. Thus, only the initial Lv 100 version and the final Lv 160 challenge version can be refought.
+
+Perilwing Ryuho has the following stats changed from its base Lv 100 version in each challenge version. Physical and Ether Defense, Critical Rate, Guard Rates and resistances are unchanged in these challenge versions. SP is not dropped from defeating it in a challenge, since the challenge counts as a refight.
+&lt;tabber&gt;
+Lv 105=
+&lt;h3 style="display:none;"&gt;Lv 105&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 9,171,650
+|atk   = 2,697
+|heal  = 649
+|dex   = 556
+|agil  = 538
+|exp   = 12,671
+|cp    = 346
+|gold  = 8,160
+}}
+|-|
+Lv 110=
+&lt;h3 style="display:none;"&gt;Lv 110&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 9,741,400
+|atk   = 2,783
+|heal  = 679
+|dex   = 571
+|agil  = 554
+|exp   = 13,611
+|cp    = 354
+|gold  = 8,670
+}}
+|-|
+Lv 115=
+&lt;h3 style="display:none;"&gt;Lv 115&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 10,287,300
+|atk   = 2,868
+|heal  = 711
+|dex   = 588
+|agil  = 568
+|exp   = 14,551
+|cp    = 363
+|gold  = 9,222
+}}
+|-|
+Lv 120= 
+&lt;h3 style="display:none;"&gt;Lv 120&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 10,843,800
+|atk   = 2,954
+|heal  = 741
+|dex   = 604
+|agil  = 585
+|exp   = 15,491
+|cp    = 371
+|gold  = 9,775
+}}
+|-|
+Lv 125= 
+&lt;h3 style="display:none;"&gt;Lv 125&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 11,408,250
+|atk   = 3,040
+|heal  = 772
+|dex   = 621
+|agil  = 601
+|exp   = 16,431
+|cp    = 380
+|gold  = 10,327
+}}
+|-|
+Lv 130= 
+&lt;h3 style="display:none;"&gt;Lv 130&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 11,980,650
+|atk   = 3,128
+|heal  = 802
+|dex   = 637
+|agil  = 617
+|exp   = 17,371
+|cp    = 389
+|gold  = 10,880
+}}
+|-|
+Lv 135= 
+&lt;h3 style="display:none;"&gt;Lv 135&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 12,563,650
+|atk   = 3,214
+|heal  = 834
+|dex   = 652
+|agil  = 631
+|exp   = 18,311
+|cp    = 397
+|gold  = 10,965
+}}
+|-|
+Lv 140= 
+&lt;h3 style="display:none;"&gt;Lv 140&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 13,112,200
+|atk   = 3,292
+|heal  = 864
+|dex   = 669
+|agil  = 648
+|exp   = 19,251
+|cp    = 406
+|gold  = 11,050
+}}
+|-|
+Lv 150= 
+&lt;h3 style="display:none;"&gt;Lv 150&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 14,015,850
+|atk   = 3,407
+|heal  = 927
+|dex   = 700
+|agil  = 678
+|exp   = 21,131
+|cp    = 423
+|gold  = 11,220
+}}
+|-|
+Lv 160= 
+&lt;h3 style="display:none;"&gt;Lv 160&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp    = 14,863,850
+|atk   = 3,515
+|heal  = 988
+|dex   = 727
+|agil  = 705
+|exp   = 23,011
+|cp    = 441
+|gold  = 11,390
+}}
+&lt;/tabber&gt;
+== Challenge Battle Mode==
+{{Infobox XC3 Enemy
+|name         = Perilwing Ryuho
+|image        = 
+|caption      = Perilwing Ryuho
+|type         = [[Vollgull]]
+|level        = 160
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|spawntime    = During ''[[The Four Devas]]''
+|respawn      = No
+|movement     = Air
+|detection    = 
+|hp           = 4,403,065
+|strength     = 1,148
+|healing      = 988
+|dexterity    = 728
+|agility      = 608
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+Perilwing Ryuho is fought at level 160 during the second wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[The Four Devas]]''.
+
+{{clr}}
+
+==Gallery==
+&lt;gallery&gt;
+Perilwing ryuho location.png
+Perilwing ryuho.png
+XC3 Perilwing Ryuho.jpeg
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Vollgulls]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0kpo9nejtv27bg4s4x5l1tl2vcv8klu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Perspicacious Oldar</title>
+    <ns>0</ns>
+    <id>117519</id>
+    <revision>
+      <id>574641</id>
+      <parentid>574540</parentid>
+      <timestamp>2023-01-30T01:21:46Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1365" sha1="mmxsjcgs6babty5wsbm0qz896869ewz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Perspicacious Oldar
+|image        = Perspicacious Oldar.png
+|caption      = Perspicacious Oldar
+|category     = Unique Monster
+|type         = [[Ardun]]
+|level        = 20
+|area         = [[Ribbi Flats]] ([[Sparres Barr]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 515
+|cp           = 119
+|sp           = 5
+|gold         = 325
+|hp           = 254,310
+|strength     = 299
+|healing      = 129
+|dexterity    = 64
+|agility      = 39
+|physdef      = 15%
+|ethdef       = -15%
+|critrate     = 15%
+|guardrate-front = 5%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Perspicacious Oldar''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ardun]] family and can be found at level 20 at [[Sparres Barr]] in [[Ribbi Flats]]. The [[Horn Dance]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 65%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Perspicacious oldar location.png
+Perspicacious oldar.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arduns]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>mmxsjcgs6babty5wsbm0qz896869ewz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Perturbed Bilkin</title>
+    <ns>0</ns>
+    <id>117906</id>
+    <revision>
+      <id>574781</id>
+      <parentid>574542</parentid>
+      <timestamp>2023-01-30T15:07:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574781</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1362" sha1="pj2tbqncrp032u3l2ycnmx9my8jphk4" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Perturbed Bilkin
+|image        = Perturbed Bilkin.png
+|caption      = Perturbed Bilkin
+|category     = [[Unique Monster (XC3)|Unique Monster]]
+|type         = [[Flier]]
+|level        = 13
+|area         = [[Millick Meadows]] ([[Viliera Hill (XC3)|Viliera Hill]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 190
+|cp           = 55
+|sp           = 5
+|gold         = 318
+|hp           = 69,850
+|strength     = 62
+|healing      = 118
+|dexterity    = 64
+|agility      = 75
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Perturbed Bilkin''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Flier]] family and can be found at level 13 on [[Viliera Hill (XC3)|Viliera Hill]] in [[Millick Meadows]]. The [[Butterfly Dust]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|knockback = 25%
+|blowdown = 25%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Perturbed bilkin location.png
+Perturbed bilkin.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>pj2tbqncrp032u3l2ycnmx9my8jphk4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Petrivore Judomar</title>
+    <ns>0</ns>
+    <id>118686</id>
+    <revision>
+      <id>574544</id>
+      <parentid>559440</parentid>
+      <timestamp>2023-01-29T09:16:32Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574544</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1410" sha1="lv9mh9llrtanuvt0pqljhzdndw1xrgm" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Petrivore Judomar
+|image        = Petrivore Judomar.png
+|caption      = Petrivore Judomar
+|type         = [[Ropl]]
+|level        = 31
+|area         = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Melnath's Pass, Upper]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 952
+|cp           = 135
+|sp           = 5
+|gold         = 520
+|hp           = 609,600
+|strength     = 487
+|healing      = 202
+|dexterity    = 104
+|agility      = 86
+|physdef      = 25%
+|ethdef       = -10%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Petrivore Judomar''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ropl]] family, and can be found at level 31 at [[Melnath's Pass, Upper]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]]. The [[Soulhacker#Enemy Skills|Accelerating Attacks]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 50%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Petrivore judomar location.png
+Petrivore judomar.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lv9mh9llrtanuvt0pqljhzdndw1xrgm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Phantasmagorical Rist</title>
+    <ns>0</ns>
+    <id>118687</id>
+    <revision>
+      <id>574780</id>
+      <parentid>574545</parentid>
+      <timestamp>2023-01-30T15:05:07Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574780</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1382" sha1="8xxkfysch7qnsnjck9l3487q7cjnx9h" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Phantasmagorical Rist
+|image        = XC3 Phantasmagorical Rist.png
+|caption      = Phantasmagorical Rist
+|type         = [[Medooz]]
+|level        = 35
+|area         = [[Great Cotte Falls]] ([[Cotte Trick Ruins]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 566
+|cp           = 55
+|sp           = 5
+|gold         = 480
+|hp           = 590,000
+|strength     = 436
+|healing      = 331
+|dexterity    = 102
+|agility      = 56
+|physdef      = 0%
+|ethdef       = 50%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Phantasmagorical Rist''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Medooz]] family, and can be found at level 35 in the [[Cotte Trick Ruins]] at [[Great Cotte Falls]]. The [[Soulhacker#Enemy Skills|Physical Absorber]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 40%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Phantasmagorical rist location.png
+Phantasmagorical rist.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Medoozes]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8xxkfysch7qnsnjck9l3487q7cjnx9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Phantom Feather (XC3)</title>
+    <ns>0</ns>
+    <id>122599</id>
+    <revision>
+      <id>592826</id>
+      <parentid>592557</parentid>
+      <timestamp>2023-05-15T20:18:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592826</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1077" sha1="dr4j67efkjxt6iewdf7ye87jyzzquy5" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Phantom Feather (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Phantom Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second. (Major effect.)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Phantom Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second. (Major effect.)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Phantom Feather
+|image     = XC3 Accessory Medal.png
+|caption   = Accrues Aggro every second. (Major effect.)
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Phantom Feathers''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>dr4j67efkjxt6iewdf7ye87jyzzquy5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Phantom Streya</title>
+    <ns>0</ns>
+    <id>118688</id>
+    <revision>
+      <id>583311</id>
+      <parentid>581060</parentid>
+      <timestamp>2023-04-17T15:59:37Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583311</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1452" sha1="3m36huqvvp5fk2fie44l5havw6q0cfc" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Phantom Streya
+|image        = XC3 Phantom Streya.png
+|caption      = Phantom Streya
+|type         = [[Amoney]]
+|level        = 51
+|area         = [[Millick Meadows]] ([[Elgares Depths Entrance]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Swimming
+|detection    = 
+|exp          = 2,585
+|cp           = 700
+|sp           = 5
+|gold         = 1,696
+|hp           = 1,579,050
+|strength     = 978
+|healing      = 533
+|dexterity    = 170
+|agility      = 136
+|physdef      = -5%
+|ethdef       = 25%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Phantom Streya''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Amoney]] family, and can be found at level 51 near the [[Elgares Depths Entrance]] in [[Millick Meadows]]. The "Mimic Technique" [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 100%
+|knockback   = 100%
+|physdebuff  = 50%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Phantom streya location.png
+Phantom streya.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Amoneys]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3m36huqvvp5fk2fie44l5havw6q0cfc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Philharmonic Dust-Up</title>
+    <ns>0</ns>
+    <id>124258</id>
+    <revision>
+      <id>576278</id>
+      <parentid>561981</parentid>
+      <timestamp>2023-02-09T13:12:00Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1451" sha1="kru4hg000s4eo1daq2mbcfve5wmcepd" xml:space="preserve">{{Infobox quest
+|name         = Philharmonic Dust-Up
+|image        = XC3 Challenge Battle Mode.png
+|description  = "Demihumans of desert form musical band! But please to not get distracted by tunes. Big ones spell big danger!"
+|giver        = [[Nopon Archsage]]
+|location     = [[Land of Challenge (XC3)|Land of Challenge]]
+|difficultyCB3= 2
+|rewards      = 500-800 [[Noponstone]]s (Normal)
+}}
+'''Philharmonic Dust-Up''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will unlock the Swimwear A outfit for [[Eunie]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 3
+|-
+| Level Restriction || Lv 20
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="4" | 1 || [[Bard Tirkin]] x1 || 22
+|-
+| [[Shielder Tirkin]] x1 || 20
+|-
+| [[Arrow Tirkin (XC3)|Arrow Tirkin]] x2 ||20
+|-
+| [[Spear Tirkin (XC3)|Spear Tirkin]] x2 ||20
+|-
+| rowspan="4" | 2 || [[Bard Igna]] x1 || 22
+|-
+| [[Sword Igna]] x1 || 20
+|-
+| [[Arrow Igna]] x2 ||20
+|-
+| [[Shielder Igna]] x1 ||20
+|-
+| rowspan="5" | 3 || [[Minstrel Igna]] x 1|| 22
+|-
+| [[Musical Tirkin]] x1 || 22
+|-
+| [[Bard Igna]] x1 || 22
+|-
+| [[Bard Tirkin]] x1 || 22
+|-
+| [[Pellurid Igna]] x1 || 23
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>kru4hg000s4eo1daq2mbcfve5wmcepd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Phony Temnos</title>
+    <ns>0</ns>
+    <id>119513</id>
+    <revision>
+      <id>574644</id>
+      <parentid>574546</parentid>
+      <timestamp>2023-01-30T01:24:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574644</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1499" sha1="qpxmlfc07i125m2le2ilq2wr6zxswkw" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Phony Temnos
+|image        = XC3 Hollow Ones.png
+|caption      = Phony Temnos (Far Right)
+|type         = [[Droids]]
+|level        = 69
+|area         = [[Origin Interior]] ([[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,135
+|cp           = 67
+|sp           = 5
+|gold         = 552
+|hp           = 1,162,850
+|strength     = 1,289
+|healing      = 564
+|dexterity    = 248
+|agility      = 238
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 5%
+|guardrate    = 0%
+}}
+'''Phony Temnos''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Droids]] family, and can be found at level 69 in the [[Origin Interior]], in the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]]. It forms the quatuor "Hollow Ones" with [[Artificial Optho]], [[Vapid Roger]] and [[Dishonest Karom]]. The [[Soulhacker#Enemy Skills|Exoshell]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 45%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 60%
+}}
+{{clr}}
+== Gallery ==
+&lt;gallery&gt;
+Hollow ones location.png
+Hollow ones temnos.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Droids]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>qpxmlfc07i125m2le2ilq2wr6zxswkw</sha1>
+    </revision>
+  </page>
+  </mediawiki>

@@ -1,0 +1,6 @@
+Skill Name: Storm and Stress 
+
+Class: Martial Artist
+
+Skill Buff or Effect:  Each time you perform a cancel, boosts damage dealt by 20% (to a maximum of 150%).
+

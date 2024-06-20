@@ -1,0 +1,6 @@
+Art Name: Speed Demon
+
+Class: Zephyr
+
+Effect: Eva. up / Atk down
+

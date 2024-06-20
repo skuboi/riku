@@ -1,0 +1,6 @@
+Skill Name: Eye for Weak Points 
+
+Class: Incursor
+
+Skill Buff or Effect:  Each successful attack boosts Critical Rate by 2% of initial value (up to a maximum of 100%). [Rank 15 Master Skill]
+

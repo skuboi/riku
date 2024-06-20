@@ -1,0 +1,6 @@
+Art Name: Revolution Edge
+
+Class: Flash Fencer
+
+Effect: Back Attack Up
+

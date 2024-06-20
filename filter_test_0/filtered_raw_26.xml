@@ -1,0 +1,968 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Forin Skeeter</title>
+    <ns>0</ns>
+    <id>122995</id>
+    <revision>
+      <id>580343</id>
+      <parentid>559661</parentid>
+      <timestamp>2023-03-24T20:33:02Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>580343</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1090" sha1="nqxh5491w6gbyy175cwhoiimwpxk83q" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Forin Skeeter
+|image        = 
+|caption      = Forin Skeeter
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Skeeter]]
+|level        = 42
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Glam Rock]])
+|spawntime    = During ''[[I'm a Mechanic]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Forin Skeeters''' are five [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Skeeter]] family, and are fought at level 42 at [[Glam Rock]] in [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[I'm a Mechanic]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>nqxh5491w6gbyy175cwhoiimwpxk83q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Forsaken Arbiter</title>
+    <ns>0</ns>
+    <id>119452</id>
+    <revision>
+      <id>574740</id>
+      <parentid>574649</parentid>
+      <timestamp>2023-01-30T13:01:48Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574740</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1491" sha1="5ju2s3fnw25d7y6kdy0434m6ukwhaou" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Forsaken Arbiter
+|image        = XC3 Forsaken Arbiter.png
+|caption      = Forsaken Arbiter
+|type         = [[Levnis]]
+|level        = 42
+|area         = [[Keves Castle]] ([[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 923
+|cp           = 351
+|sp           = 5
+|gold         = 1,154
+|hp           = 569,250
+|strength     = 973
+|healing      = 355
+|dexterity    = 130
+|agility      = 145
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 23%
+|guardrate    = 5%
+}}
+'''Forsaken Arbiter''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]], and can be found at level 42 in the [[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]] on the 2nd Floor of [[Keves Castle]]. It forms the duo named "The Executioners" with [[Vengeful Dominator]]. The [[Neck Slice]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 35%
+|physdebuff = 75%
+|etherdebuff = 40%
+|knockback = 100%
+|blowdown = 100%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+The executioners location.png
+The excecutioners arbiter.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5ju2s3fnw25d7y6kdy0434m6ukwhaou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Four Sea Hairgrip</title>
+    <ns>0</ns>
+    <id>122849</id>
+    <revision>
+      <id>566711</id>
+      <parentid>565385</parentid>
+      <timestamp>2022-11-22T15:34:35Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="426" sha1="3svqtnixmf17kzbhqj5j4jlvkqmxdg8" xml:space="preserve">&lt;div style="float: right;"&gt;
+{{Infobox item
+|name      = Four Sea Hairgrip
+|image     = File:XC3 Accessory Cap.png
+|caption   = 90% chance to avoid waking enemy from Sleep when Art hits.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 8750 [[Gold|G]]
+}}
+&lt;/div&gt;
+'''Four Sea Hairgrips''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>3svqtnixmf17kzbhqj5j4jlvkqmxdg8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fox</title>
+    <ns>0</ns>
+    <id>117954</id>
+    <revision>
+      <id>597820</id>
+      <parentid>596127</parentid>
+      <timestamp>2023-07-02T16:34:43Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2383" sha1="53kpxnjsvs4xkejr99kz3jmogw52n3i" xml:space="preserve">{{Infobox NPC
+|name        = Fox
+|image       = XC3_Fox.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Keves]]i human
+|age         = 6th Term
+|location    = [[Yzana Plains]] ([[Colony 9 (XC3)|Colony 9]])
+}}
+'''Fox''' is a NPC in {{XC3}} who can be found in [[Colony 9 (XC3)|Colony 9]]. He is part of [[Kite]]'s squad alongside [[Eastman]] and [[Trish]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Fox
+|image        = XC3 Fox Battle.png
+|caption      = Fox
+
+|tab1         = Where The Heart Is
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Keves Forces]]
+|level        = 21
+|area         = [[Yzana Plains]]
+|spawntime    = During ''[[Where The Heart Is]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+
+|tab2         = A Difficult Transition
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type2        = [[Keves Forces]]
+|level2       = 35
+|area2        = [[Alfeto Valley]]
+|spawntime2   = During ''[[A Difficult Transition]]''
+|respawn2     = No
+|movement2    = 
+|detection2   = 
+|exp2         = 
+|cp2          = 
+|sp2          = 
+|gold2        = 
+|hp2          = 
+|strength2    = 
+|healing2     = 
+|dexterity2   = 
+|agility2     = 
+|physdef2     = 
+|ethdef2      = 
+|critrate2    = 
+}}
+'''Fox''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. He is a [[Keves Forces|Keves Soldier]] who is fought twice, first at level 21 in [[Yzana Plains]] during ''[[Where The Heart Is]]'' where he assists [[Zeon|Dutiful Zeon]], and again at level 35 in [[Alfeto Valley]] during ''[[A Difficult Transition]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>53kpxnjsvs4xkejr99kz3jmogw52n3i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fraternal Badge</title>
+    <ns>0</ns>
+    <id>118948</id>
+    <revision>
+      <id>592772</id>
+      <parentid>592427</parentid>
+      <timestamp>2023-05-15T20:14:49Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592772</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1074" sha1="37enrmd5yl0ityji3as8li2l3hrycvc" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Fraternal Badge
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts recharge speed by 40% when non-Defenders are targeted.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Fraternal Badge
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts recharge speed by 45% when non-Defenders are targeted.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Fraternal Badge
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts recharge speed by 50% when non-Defenders are targeted.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7320 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Fraternal Badges''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>37enrmd5yl0ityji3as8li2l3hrycvc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Freeze</title>
+    <ns>0</ns>
+    <id>125917</id>
+    <revision>
+      <id>588248</id>
+      <parentid>580545</parentid>
+      <timestamp>2023-05-03T06:38:06Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <origin>588248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="973" sha1="jts7zvql97wkjgtzhtx168vzb3uhf10" xml:space="preserve">{{Infobox XC3 Status
+|title          = Freeze
+|caption        = Deals damage at fixed intervals.
+|image          = XC3 Freeze.png
+|type           = Debuff
+|attribute      = Ether
+|base-duration  = 21.5s
+|max-duration   = 43.0s
+|success-rate   = 100%
+|rng-applicable = No
+|effect-title-1 = Base Damage (per tick)
+|effect-value-1 = 6% of Art damage
+|effect-title-2 = Tick Duration
+|effect-value-2 = 1.5s
+}}
+'''Freeze''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It deals damage at fixed intervals, in addition to slowing the movement of affected characters.
+
+== Distribution ==
+''This debuff cannot be inflicted by the player's party.''
+===Enemy Arts===
+*Ice Pistol ([[Flamii]] family)
+*Ice Breath ([[Spiralhorn Baccro]], [[Kilocorn Grandeps]])
+*Frost Cannon ([[Perilwing Ryuho]])
+*Freeze Vortex ([[Moebius H]])
+*Blizzard Rush (Moebius H)
+*Gift of Frost ([[Moebius L]])
+*Freezing Rush (Moebius L)
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{fr stub}}</text>
+      <sha1>jts7zvql97wkjgtzhtx168vzb3uhf10</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Friendship Badge</title>
+    <ns>0</ns>
+    <id>118949</id>
+    <revision>
+      <id>592773</id>
+      <parentid>592428</parentid>
+      <timestamp>2023-05-15T20:14:52Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1078" sha1="qjkht0d3ise4u149t0576lav2naolky" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Friendship Badge
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts recharge speed by 20% when non-Defenders are targeted.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Friendship Badge
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts recharge speed by 25% when non-Defenders are targeted.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Friendship Badge
+|image     = XC3 Accessory Medal.png
+|caption   = Boosts recharge speed by 30% when non-Defenders are targeted.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 2790 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Friendship Badges''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>qjkht0d3ise4u149t0576lav2naolky</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Friendship Ring (XC3)</title>
+    <ns>0</ns>
+    <id>118950</id>
+    <revision>
+      <id>592774</id>
+      <parentid>592563</parentid>
+      <timestamp>2023-05-15T20:14:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1092" sha1="oj13ykpgu3tdrj2nib4gkq9ym52u26c" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Friendship Ring (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Friendship Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Reduces aggro generated from Healing Arts by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Friendship Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Reduces aggro generated from Healing Arts by 20%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Friendship Ring
+|image     = XC3 Accessory Ring.png
+|caption   = Reduces aggro generated from Healing Arts by 25%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Friendship Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>oj13ykpgu3tdrj2nib4gkq9ym52u26c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Frolicking Parker</title>
+    <ns>0</ns>
+    <id>118678</id>
+    <revision>
+      <id>583295</id>
+      <parentid>570005</parentid>
+      <timestamp>2023-04-17T15:29:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1462" sha1="njx5ynlm1njqsp43fj0crsmqz2o2vsq" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Frolicking Parker
+|image        = XC3 Frolicking Parker.png
+|caption      = Frolicking Parker
+|type         = [[Ottil]]
+|level        = 31
+|area         = [[Great Cotte Falls]] ([[Cotte Trick Ruins]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Swimming
+|detection    = 
+|exp          = 600
+|cp           = 289
+|sp           = 5
+|gold         = 416
+|hp           = 508,000
+|strength     = 488
+|healing      = 215
+|dexterity    = 141
+|agility      = 137
+|physdef      = -15%
+|ethdef       = 10%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Frolicking Parker''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Ottil]] family, and can be found at level 31 near the [[Cotte Trick Ruins]] at [[Great Cotte Falls]]. The [[Aquatic Missile]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 45%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 50%
+|knockback   = 50%
+|physdebuff  = 25%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Frolicking parker location.png
+Frolicking parker.png
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Ottils]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>njx5ynlm1njqsp43fj0crsmqz2o2vsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Full Metal Jaguar (XC3)</title>
+    <ns>0</ns>
+    <id>117432</id>
+    <revision>
+      <id>600288</id>
+      <parentid>597120</parentid>
+      <timestamp>2023-07-21T07:50:32Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>added skill icons</comment>
+      <origin>600288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7355" sha1="7kv1sgugx3hmhkb3jx1j0yojwj636u4" xml:space="preserve">{{for|the class in {{XCX|-}}|Full Metal Jaguar (XCX)}}
+[[File:XC3 Full Metal Jaguar Weapon Icon.png|thumb|180px|The Full Metal Jaguar Icon]]
+{{quote|Attacks foes in a wide area with twin guns and drones, the shots growing deadlier with each hit.|Class menu description}}
+'''Full Metal Jaguar''' (Japanese: {{lang|ja|&#12501;&#12523;&#12513;&#12479;&#12523;&#12472;&#12515;&#12460;&#12540;}}, ''Furumetarujag&#257;'') is a [[Keves]]i [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref &gt;https://www.youtube.com/watch?v=hoHvpS2x8us&lt;/ref&gt;
+
+== Overview ==
+Full Metal Jaguars specialize in attacking [[Enemy (XC3)|enemies]] in a wide area with twin guns. Consecutive hits deal increasing damage, however, a missed attack will reset the bonus so a high accuracy is needed to use the class effectively. It is [[Gray]]'s class.
+
+It is unlocked by completing the [[Hero Quest]] ''[[A Gray Matter]]''. The [[Class Rank (XC3)|Class Rank]] maximum can be increased to 20 by completing the Ascension Quest ''[[Payback for Treason]]''.
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|3,400
+|5,100
+|''Class Inheritor''
+|2,550
+|5,950
+|4,250
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 260
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 260
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 310
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 310
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 365
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Payback for Treason]]''
+|-
+| 11 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 450
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 450
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 565
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 565
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 675
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 675
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 725
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 840
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Full Metal Jaguar class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 65% || 100% || 40% || 120% || 100% || 10% || 10%
+|-
+| 10 || 67% || 105% || 42% || 125% || 105% || 12% || 12%
+|-
+| 20 || 70% || 110% || 45% || 130% || 110% || 15% || 15%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 18 || 5% || 5%
+|-
+| 10 || 39 || 5% || 5%
+|-
+| 20 || 71 || 6% || 6%
+|-
+| 30 || 109 || 6% || 6%
+|-
+| 40 || 152 || 7% || 7%
+|-
+| 50 || 203 || 8% || 8%
+|-
+| 60 || 258 || 8% || 8%
+|-
+| 70 || 320 || 9% || 9%
+|-
+| 80 || 391 || 9% || 9%
+|-
+| 90 || 470 || 10% || 10%
+|-
+| 99 || 549 || 10% || 10%
+|}
+== Arts ==
+* '''[[Violent Streak (XC3)|Violent Streak]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/Evade/Pierce
+* [[Demolition]], AOE/Pierce(%) (Rank 1 Master Art)
+* [[Dead Set]], Removes aggro
+* [[Quickdraw]], Evade / Front atk &#8593; (Rank 10 Master Art)
+* [[Fatal Barrage]], AOE / Back attack &#8593;
+* [[Superstorm]], High acc. / Eva. down
+
+=== Hero-Exclusive Arts ===
+* [[Vengeance]], Evade / Front atk &#8593;
+* [[Showdown]], AOE/High acc./ Eva. down
+* [[Executioner (XC3)|Executioner]], AOE / Back attack &#8593;
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 36.png]] '''Bullet Symphony''':  Each attack that hits boosts damage dealt by 10-20% (max. 255%). Missing cancels the boost.
+* [[File:XC3 Skill Icon 37.png]] '''Shock Shot''':  Boosts damage against enemies performing Arts by 60-100%. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 37.png]] '''Sixth Sense''':  Boosts accuracy against enemies performing Arts by 60-100%.
+* [[File:XC3 Skill Icon 0.png]] '''Positioning Pro''':  Increases the no. of positional arts that can be set to the Arts Palette by 1. (Rank 5 Master Skill)
+
+=== Hero-Exclusive Skills ===
+* [[File:XC3 Skill Icon 13.png]] '''Precision Shot''': Boosts accuracy of auto-attacks by 50-150%.
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Sixth Sense
+!Shock Shot
+!Bullet Symphony
+!Precision Shot
+|-
+| 1
+| 60%
+| 60%
+| 10%
+| 50%
+|-
+| 5
+| 70%
+| 70%
+| 12%
+| 75%
+|-
+| 10
+| 80%
+| 80%
+| 15%
+| 100%
+|-
+| 15
+| 90%
+| 90%
+| 17%
+| 125%
+|-
+| 20
+| 100%
+| 100%
+| 20%
+| 150%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Gray Artwork.png|Gray, a Full Metal Jaguar
+XC3 Gray screenshot 01.jpg
+XC3 Gray screenshot 02.jpg
+XC3 Gray screenshot 03.jpg
+XC3 Gray screenshot 04.jpg
+FMJ Noah.png|Noah as a Full Metal Jaguar
+FMJ Mio.png|Mio as a Full Metal Jaguar
+FMJ Eunie.png|Eunie as a Full Metal Jaguar
+FMJ Taion.png|Taion as a Full Metal Jaguar
+FMJ Lanz.png|Lanz as a Full Metal Jaguar
+FMJ Sena.png|Sena as a Full Metal Jaguar
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>7kv1sgugx3hmhkb3jx1j0yojwj636u4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Full Weak Guard</title>
+    <ns>0</ns>
+    <id>124394</id>
+    <revision>
+      <id>562072</id>
+      <timestamp>2022-10-20T15:04:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Full Weak Guard |image     =  |caption   = Boosts Block Rate by 50%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Red]] |sell      = [[Gold|G]] }} '''Full Weak Guards''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3 stub}}  Category:XC3 Accessori..."</comment>
+      <origin>562072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="559" sha1="1us3tqpwluqfmqh6kj2eh3hvc2h2a7d" xml:space="preserve">{{Infobox item
+|name      = Full Weak Guard
+|image     = 
+|caption   = Boosts Block Rate by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Full Weak Guards''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>1us3tqpwluqfmqh6kj2eh3hvc2h2a7d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fur Socks</title>
+    <ns>0</ns>
+    <id>118951</id>
+    <revision>
+      <id>592775</id>
+      <parentid>592447</parentid>
+      <timestamp>2023-05-15T20:14:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592775</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1028" sha1="6xl2tij63kvauf2n6gt04u8otkjssnt" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Fur Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 20 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Fur Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 25 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Fur Socks
+|image     = XC3 Accessory Boot.png
+|caption   = Increases Knockback resistance by 30 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1390 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Fur Socks''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>6xl2tij63kvauf2n6gt04u8otkjssnt</sha1>
+    </revision>
+  </page>
+  </mediawiki>

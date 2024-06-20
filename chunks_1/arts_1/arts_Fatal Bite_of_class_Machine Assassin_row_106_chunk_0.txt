@@ -1,0 +1,6 @@
+Art Name: Fatal Bite
+
+Class: Machine Assassin
+
+Effect: Side attack _
+

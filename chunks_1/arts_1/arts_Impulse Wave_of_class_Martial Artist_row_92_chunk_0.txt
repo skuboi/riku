@@ -1,0 +1,6 @@
+Art Name: Impulse Wave
+
+Class: Martial Artist
+
+Effect: AOE / Dmg+ per enemy
+

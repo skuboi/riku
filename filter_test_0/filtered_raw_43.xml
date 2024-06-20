@@ -1,0 +1,2316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Medolya Feris</title>
+    <ns>0</ns>
+    <id>122999</id>
+    <revision>
+      <id>579876</id>
+      <parentid>559809</parentid>
+      <timestamp>2023-03-21T16:35:26Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>579876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" sha1="1htnksdvqau6ik2gudq72m1qqn52fzt" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Medolya Feris
+|image        = 
+|caption      = Medolya Feris
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Feris]]
+|level        = 25
+|area         = [[Rae-Bel Tableland]] ([[Bittley Slope]])
+|spawntime    = During ''[[Fear of the Unknown]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Medolya Feris''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. It is a member of the [[Feris]] family, and is fought at level 25 on [[Bittley Slope]] on [[Rae-Bel Tableland]] during ''[[Fear of the Unknown]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Feris]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1htnksdvqau6ik2gudq72m1qqn52fzt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Medooz</title>
+    <ns>0</ns>
+    <id>73429</id>
+    <revision>
+      <id>602047</id>
+      <parentid>600774</parentid>
+      <timestamp>2023-07-22T12:24:44Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>602047</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2290" sha1="5oqyrv0efhf6a1wg2ip600dm86c074r" xml:space="preserve">[[file:RhoabMedooz.jpg|thumb|Rhoab Medooz]]
+'''Medoozes''' are a family of aquatic flying enemies in the {{XC|serieslink}}. They resemble jellyfish and are mostly grey-green with the exception of a variety unique to the [[Kingdom of Torna]] in {{TTGC}}, which glows green and purple. 
+
+== {{XC2|-}} ==
+In {{XC2}}, Medoozes are often encountered after [[Salvaging]].
+=== Normal Minor Enemies ===
+* [[Aybam Medooz]]
+* [[Bubble Medooz]]
+* [[Mukkle Medooz]] (after salvaging)
+* [[Prink Medooz (XC2)|Prink Medooz]] (after salvaging)
+* [[Rippl Medooz]]
+
+=== Story Exclusive Enemy ===
+* [[Float Medooz]]
+
+=== Quest Exclusive Enemies ===
+* [[Cherys Medooz (XC2)|Cherys Medooz]] (during ''[[Pest Control 3]]'')
+* [[Rhoab Medooz]] (DLC) (during ''[[Upgrades and Tinkering]]'')
+
+=== Challenge Battle Mode Enemy ===
+* [[Cloud Sea Befouler Ioth]]
+* [[Mynah Medooz]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Phantom Medooz]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Abyssal Medooz]] (Summoned by [[Otherworldly Rodsin]])
+* [[Cherys Medooz (XC3)|Cherys Medooz]]
+* [[Prink Medooz (XC3)|Prink Medooz]]
+* [[Skelter Medooz]]
+
+=== Quest Exclusive Bosses ===
+* [[Misty Medooz]] (During ''[[The Mysterious White Fog]]'')
+
+=== Unique Monsters ===
+* [[Phantasmagorical Rist]]
+* [[Spectral R&#233;my]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemy ===
+* [[Cherys Medooz (XC3)|Cherys Medooz]]
+
+== Gallery ==
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+BubbleMedooz.jpg|Bubble Medooz
+CloudSeaBefoulerIoth.jpg|Cloud Sea Befouler Ioth
+MynahMedooz.jpg|Mynah Medooz
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+PhantomMedooz.jpg|Phantom Medooz
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+XC3 Misty Medooz.png|Misty Medooz
+Skelter Medooz.jpg|Skelter Medooz
+XC3 Phantasmagorical Rist.png|Phantasmagorical Rist
+XC3 Spectral R&#233;my.png|Spectral R&#233;my
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+File:Cherys medooz FR.jpg|Cherys Medooz
+&lt;/gallery&gt;
+[[Category:XC2 Species]]
+[[Category:XC2 Medoozes]]
+[[Category:XC2 Aquatic Organisms]]
+[[Category:TTGC Species]]
+[[Category:TTGC Medoozes]]
+[[Category:TTGC Aquatic Organisms]]
+[[Category:XC3 Species]]
+[[Category:XC3 Medoozes]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Medoozes]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Medoozes]]
+[[Category:Species by Type]]</text>
+      <sha1>5oqyrv0efhf6a1wg2ip600dm86c074r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mees Urchon (XC3)</title>
+    <ns>0</ns>
+    <id>121123</id>
+    <revision>
+      <id>582452</id>
+      <parentid>582443</parentid>
+      <timestamp>2023-04-11T13:17:38Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Challenge Mode info</comment>
+      <origin>582452</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1270" sha1="egxzltqjr583q9vnyr8wdqdwmz0x8q9" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Mees Urchon (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Mees Urchon
+|image        = Mees Urchon (XC3).jpg
+|caption      = Mees Urchon
+|category     = Normal Minor Enemy&lt;br/ &gt;[[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|type         = [[Urchon]]
+|level        = 23 - 24&lt;br/ &gt;73
+|area         = [[Rae-Bel Tableland]] ([[Perrato Cave]])
+|spawntime    = Anytime&lt;br/ &gt;During ''[[Arts and Crafts]]''
+|respawn      = Yes&lt;br/ &gt;No
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mees Urchons''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Urchon]] family, and can be found at level 23 - 24 in the [[Perrato Cave]] near [[The Lace Subterranean]] at [[Rae-Bel Tableland]]. One is fought at level 73 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Arts and Crafts]]''.
+
+== Drops ==
+* [[Steel Urchon Scale]]
+* [[Rare Urchon Egg]]
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Urchons]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>egxzltqjr583q9vnyr8wdqdwmz0x8q9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Melia</title>
+    <ns>0</ns>
+    <id>2049</id>
+    <revision>
+      <id>603225</id>
+      <parentid>600145</parentid>
+      <timestamp>2023-07-24T16:39:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */</comment>
+      <origin>603225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47493" sha1="rqe07x8yjrobzpf77649jmfatcoi17e" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Melia Antiqua
+|image         = &lt;tabber&gt;
+XC= [[File:Melia pic.png]]
+|-|
+XCDE= [[File:XCDE-Melia Portrait.png]]
+|-|
+XCFC= [[File:Melia portrait FC.png]]
+|-|
+XC3= [[File:Hero_Melia.png]]
+&lt;/tabber&gt;
+|gender        = Female
+|age           = 88 ({{XC|-}})&lt;br /&gt;Unknown ({{XC3|-}})
+|species       = [[High Entia]]
+|height        = 1.56 m
+|haircolor     = Silver
+|eyecolor      = Teal
+|affiliation   = [[Keves]]
+|voiceactorjp  = [https://www.imdb.com/name/nm7619438/ Shiori Katsuta]
+|voiceactoreng = [[wikipedia:Jenna Coleman|Jenna Coleman]]
+|appearances   = {{XC}}&lt;br/&gt;{{XCFC|sublink}}&lt;br/&gt;{{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+|other         = {{SSB4|wiiulink}}&lt;br /&gt;{{SSBU}}
+}}
+{{Quote|What trials await me, I wonder? I must not lose focus!|Melia}}
+'''Melia Antiqua '''(Japanese: {{lang|ja|&#12513;&#12522;&#12450;&#12539;&#12456;&#12531;&#12471;&#12455;&#12531;&#12488;}}, ''Meria Enshento'', '''Melia Ancient'''; [[English dub pronunciations|English dub]]: in ''XC'': {{IPA|/&#712;m&#603;li&#601; &#712;&#230;nt&#618;kw&#601;/}}, in ''XC3'': {{IPA|/&#712;m&#603;li&#601; &#230;n&#712;ti&#720;kw&#601;/}}) is one of the main playable characters in {{XC}} and is part of the [[High Entia]] race.
+
+== Overview ==
+Melia is a powerful mage-like character who lives in the Imperial Capitol of [[Alcamoth]] prior to the game's events. Her true age is not stated in the original game version, although her half-brother [[Kallian]] is 151 years old. However the art book "[[Xenoblade: The Secret File]]" reveals her age to be 88. In {{XCDE}} her age is also listed in her [[Affinity Chart (XC1)|Affinity Chart]] information after her identity as a High Entia is revealed. [[Riki]], [[Riku]], and [[Manana]] call her "Melly", while the [[Nopon]] of [[Frontier Village]] refer to her as "Bird Lady". Melia becomes playable during [[Xenoblade Chronicles (plot)|Chapter 7]].
+
+Melia is the daughter of the High Entia Emperor [[Sorean|Sorean Antiqua]] and his second consort. Imperial tradition states that the emperor take two consorts; one a High Entia, and the other a [[Homs]]. Melia, daughter of the Homs second consort, is of mixed High Entia and Homs heritage. Melia's mother is never seen and is only alluded to in dialogue as, due to the difference in the rate of ageing between Homs and High Entia, she died of old age before the events of the game. An NPC in the imperial palace states that Melia has grown up to resemble the second consort.
+
+== Personality ==
+Despite her status as the princess of the most advanced race on [[Bionis]], Melia is a very humble, modest and kind person, never looking down on Homs as inferior (which pure-blooded High Entia often seem to), though this may be because she is half-Homs herself. When the party first meet her, Melia slaps [[Shulk]] for touching her, suggesting that she was brought up with traditional values. She instantly apologises and offers to help the Homs in exchange for saving her life. She eventually develops romantic feelings for Shulk, although she keeps them to herself. She is implied to be jealous of [[Fiora]], but does not let these feelings impede their friendship. Eventually, Melia accepts that Shulk will never reciprocate her feelings and is content to remain friends.
+
+Melia has a strong sense of duty and, due to her status, believes that she should be capable of doing tasks bequeathed to her alone. Initially, Melia is reluctant to accept the Homs' help to take down the [[Telethia (XC1)|Telethia]] she has been assigned to destroy in [[Makna Forest]], insisting she can do it herself without assistance. However, she accepts their help after [[Chief Dunga]] provides the group with [[Riki]], realising her limits. She is initially skeptical about the [[Monado]], disbelieving Shulk's ability to see the future despite knowing a Seer, [[Alvis]], in the employment of her father. Only after the party defeats the Telethia does she accept its power.
+
+Being a princess and due to a fairly strict upbringing, Melia is partial to polite and formal behaviour, and is one of the most serious members of the group along with [[Dunban]]. Her lack of familiarity with others is also due to her isolation growing up - she was raised mostly alone in her living quarters until being sent to destroy the Telethia. In spite of this, she retains a sense of humour and does not seem to mind Riki calling her "Melly". However, when she jokes, she normally does so with a completely straight face, so people, particularly [[Reyn]], usually think she is being serious, as shown in a [[Heart-to-Heart (XC1)|Heart-to-Heart]] when she jokingly demands that [[Colony 9 (XC1)|Colony 9]] pay Alcamoth for their use of [[Ether Cylinder (Gem Crafting)|Ether Cylinders]] from the [[Ancient Wreckage]], which Melia deduces to be a crashed High Entia ship.
+
+As the Queen of Keves, Melia acts calmer and is overall more mature. She greatly values the lessons she learned from her former companions, having learned to accept her own weaknesses and being able to open her heart to others. Despite this maturity, she gets embarrassed when it comes to personal things she doesn't want others to know, as shown when she prohibits the party from looking too closely in her [[Queen's Chambers|bedroom]], as well as when her fear of [[Rainbow Bug (XC1)|Rainbow Bugs]] is brought up. She also feels lonely from the absence of all her friends, and expresses the desire to sacrifice herself if it is needed to reclaim the future she and her friends fought for. Additionally, being trapped in [[Origin]] for so long has made Melia impatient to explore the world for herself rather than just hear about it from others. 
+
+Melia is also shown to be close friends with [[Riku]], and has great trust in him, with Riku being the one Melia entrusted with passing along [[Lucky Seven]] to someone who can be trusted with its power. Their friendship is also displayed when Melia and Riku give each other a confident and friendly nod after Melia was rescued.
+
+== Appearance ==
+Melia is a 1.56 m (5'1") young lady with fair skin, silver hair braided on the back of her head with two large curls just above her shoulders, teal eyes, and a small pair of High Entia wings on her head. Initially she wears a cap to cover these. Her default outfit consists of a blue sleeveless dress with pastel purple, pink, and white detailing. She has a cape, crown, and large sleeves in the same colours, black and white gloves, black stockings, and white heeled dress shoes. Melia wields a long silver staff.
+
+In {{XCFC|sublink}}, Melia has a new outfit; it is a short white and blue dress with large shoulders and a wide waist, a white collar with a large pink bow, thigh-high black boots, and a blue headband with white flowers. She now wields the [[World Ender]], a new staff that resembles the Monado rather than the more traditional designs in the main game. 
+
+In {{XC3}}, her hair has become much longer. As the Queen of [[Keves]], Melia wears a black and grey dress. The dress has ropes on its skirt along with a feather. It has metallic, black stars embedded across the dress, and she wears long, black gloves. As a [[Hero]], she wears a black and white dress and black leggings, and white shoes as well as gloves. She also has what appears to resemble Telethia wings behind her. Like in {{XCFC|sub}}, she wields her World Ender, now referred to as the Elemental Staff, as her [[Blade (XC3)|Blade]].
+
+== Story ==
+=== {{XC|-}} ===
+[[file:XC1DE-Melia-2.jpg|thumb|right|Melia in Makna Forest]]
+Melia is first seen fighting a large flying creature, later revealed to be the [[Leone Telethia]], accompanied by four guards called [[Aizel (XC1)|Aizel]], [[Hogard]], [[Garan]], and [[Damil]]. The guards are killed and Melia is left unconscious and on the verge of death in Makna Forest. When Shulk and his friends find her, Sharla diagnoses that she is suffering from [[ether]] depletion. In order to save her, they have to gather pure [[Ether Crystal (XC1)|Ether Crystals]]. Shulk heads to the [[Great Makna Falls]] to gather them and is attacked by Telethia spawn.
+
+Upon Shulk's return, Sharla revives Melia by shooting the ether crystals near her body. Melia refuses to explain her reason for being in Makna Forest, but decides to accompany them temporarily and leads them to [[Frontier Village]]. When Shulk mentions his battle with the Telethia, Melia is surprised and refuses to believe in Shulk's visions. Only after defeating the Telethia and avenging her fallen allies does she come to accept his power. After returning to Frontier Village, Melia decides to officially join the group and they continue on to [[Eryth Sea]].
+
+[[file:Tyrea.png|thumb|left|Melia meets the assassin]]
+Upon the group's arrival in Alcamoth, it is revealed that Melia is High Entia royalty and the Emperor's chosen successor, with the additional support and blessing of her brother Kallian. However, the decision to declare Melia as Sorean's successor does not sit well with the [[Yumea|first consort]], Kallian's mother, who resents Melia due to her half-Homs heritage as the daughter of the second consort. At the first consort's suggestion, Melia is sent alone to perform a very dangerous ancient trial in the [[High Entia Tomb]] in order to prove herself worthy as the successor. Melia completes the trial and is deemed worthy by the forefathers to become the imperial successor in spite of her half-Homs ancestry. It is at this point that an assassin named [[Tyrea]] and hired by the emperor's first consort attempts to kill Melia with the aid of a Telethia, but is driven off by the arrival of the main party group.
+
+[[file:Switch XBC-DE 11.jpg|thumb|right|Melia cannot prevent her father's death]]
+After Melia is declared successor in a public ceremony, [[Mechon]] attack Alcamoth and Sorean travels to [[Prison Island]]. Melia accompanies Shulk's party in giving chase, but they are unable to prevent the Emperor's death. Following the events on Prison Island, Melia is due to officially ascend to the throne, but her coronation is delayed for one year, allowing her time to travel with Shulk's party to seek her own vengeance for the death of her father. In the meantime, her brother Kallian serves as regent while an impersonator of unknown identity is prepared to fill in for Melia's public appearances during her absence.
+
+Following the events at the [[Mechonis Core]], [[Zanza]] sinks Prison Island into Eryth Sea and floods Alcamoth with ether. The action transforms the vast majority of its citizens into Telethia. [[Lorithia]] and [[Dickson]] confront Melia and the rest of Shulk's party as they attempt to escape aboard [[Junks]], but the party is saved when Kallian and High Entia forces fly in to combat the traitors. However, Kallian and his forces are in turn exposed to high concentrations of ether and transformed, but Melia is spared from transforming due to her Homs ancestry.
+
+Later, Melia and the party travel to the [[Bionis' Interior]], where they confront Lorithia, who keeps the now mindless Telethia form of Kallian under her command. After Lorithia is defeated, Kallian is released from his existence as a Telethia and is able to share tender parting words that only Melia and Riki can hear.
+
+==== Special scene ====
+[[File:The Reticence Of Melia.gif|thumb|150px|Melia's words to unconscious Shulk]]
+A missable special scene can occur just after the events of the Mechonis Core when the party first returns to Colony 6 and Shulk is unconscious in [[Linada]]'s lab aboard the Junks. When Linada is not around (this can only take place at midnight), Melia can repeatedly speak to the unconscious Shulk for some dialogue regarding her feelings towards him, and also receive a big heart's worth of [[Affinity (XC1)|affinity]] (probably 300 affinity points like at the end of the Heart-to-Hearts). It appears that Melia was going to do something to the unconscious Shulk, perhaps a kiss, but she would later be ashamed had she not stopped herself.
+
+=== {{XCFC|sub}} ===
+[[file:XC1DE-Melia-5.jpg|thumb|left|Melia in {{XCFC|sub}}]]
+One year after Zanza's death and the world's creation, Melia travels with Shulk to the [[Bionis' Shoulder]] in an attempt to reclaim the remains of Alcamoth for the surviving High Entia. She meets two of Riki's children, [[Kino]] and [[Nene]], and finds refugees from Alcamoth living on the Shoulder. Among these are [[Teelan]] - a young High Entia researching whether it may be possible to return Telethia to their High Entia forms - and Tyrea, who is guarding Teelan and trying to find a reason to live having lost her mother and her ideology. Tyrea is not fond of Melia but grows to respect her as she sees the lengths Melia goes to in order to safeguard the High Entia, and the two reconcile as "sisters" as their goals align. Melia, with help from Shulk, Kino, and Nene, manages to reclaim Alcamoth and returns to live there, having finally been crowned Empress of the High Entia.
+
+=== {{XC3|-}} ===
+==== Melia and Nia's Plan ====
+[[File:Nia&amp;Melia.jpg|thumb|Melia communicates with Nia]]
+At some point, Melia became the friend and master of [[Riku]], the son of either Riki or Kino. A few decades after being crowned Empress, the two worlds that [[Klaus]] created by splitting the original apart with the [[Conduit]] began to re-fuse back together, which would effectively destroy both. Making contact with [[Nia]] in [[Alrest]], she helped devise a plan that would allow their worlds to survive. Both nations would construct one half of an ark known as [[Origin]] that contained all of their societies' knowledge and their citizens' literal souls, which would allow them to be reborn once their worlds were split back apart and reconstructed. The [[Core Crystal]] of [[Ontos]], which Shulk had found at one point on the shore of Colony 9, was a critical part of its construction, calling it "a gift from Alvis."
+
+[[File:Melia Imprisoned.jpg|thumb|Melia being held prisoner by Z]]
+Unfortunately, the Origin system became corrupted by the desires for safety and security held by the souls it contained, creating an entity called [[Z]]. It hijacked the whole separation process, and instead of being split apart both worlds were frozen in time and a [[Aionios|third one]] was created between them for the purposes of creating a world without a "future". At some point, Melia came into possession of Shulk's [[Monado Replica EX+]], which she keeps in her [[Queen's Chambers|bedroom]] as a memento. Melia would end up being captured by Z and put into cryogenic sleep in the [[Eternal Prison]] so Z could use her access to Origin to take full control of its systems; however, before her capture she used her power to create the [[Lucky Seven]], or the Sword of the End, a weapon that could be used to stop Z, and entrusted it to Riku, telling him to pass it along to someone who can be trusted with its power one day. The peoples of both worlds, meanwhile, were recreated in this new world but had been completely taken over by Z and its [[Consul]]s using a [[Queen of Keves|robotic double]] of her as a puppet ruler; Melia herself was able to see through the robot's eyes but had little to no control over its actions. Under Z's rule, [[Keves]] would wage a perpetual war with [[Agnus]], effectively keeping the world in "a state of 'now'".
+
+==== Freed From Her Chains ====
+After the party enters the [[Origin Interior]], they come across the imprisoned Melia, guarded by [[N]]. After N is defeated, he finally comes to his senses and merges with Noah like [[M]] did with Mio, and Melia is freed from her imprisonment. She tells the party that Z isn't a real entity before teleporting to [[Keves Castle]], which was formerly [[Alcamoth]], in order to free the Kevesi soldiers from the [[Flame Clock]]'s bondage. As she teleports, she and Riku glance toward each other, and the two friends give each other a friendly nod.
+
+==== From Atop Her Throne ====
+During the post-game, which is set before the final battle with Z, Melia requests to join the party in order to see the world of Aionios for herself rather than simply being told about it by her aides. During her [[Hero Quest|Ascension Quest]], ''[[From Atop Her Throne]]'', she volunteers to solve three issues that have arisen in her absence: a squabble between her guards and their Agnian counterparts that ended with the latter rallying into a rebel force, a request from [[Zeon]] for aid following an attack from Origin, and a request from [[Monica Vandham|Monica]] to speak to the people of the [[City]] so their spirits might be rallied. 
+
+Upon arriving at the City, Melia finds herself reminiscing about how similar its technology is to that of her old world and speaks to her followers in the City, eventually meeting an old man known as the "Storyspinner" who like herself is far older than many of the people there and knows much about the world's history (including a fair amount about herself). As [[Eunie]] expresses her wonder at how others can grow old and keep going even after seeing so many of their friends die, Melia reassures her that the memories of those that are lost will always remain and that they can be a source of strength in their own right. 
+
+When the party arrives at [[Colony 9 (XC3)|Colony 9]], Melia aids Zeon in healing the injured. He tells them that the colony has lost contact with a survey team sent to investigate a recent landslide from the Origin attack. He suspects a second landslide might have happened and Melia volunteers to look for them. As they head out, one of the soldiers asks for them to deliver a message to one of the survey team members to "give back what she owes". When questioned about this, the soldier in question reveals that they had shared a unit since their first term and that he was just making an excuse to ask after her safety. Melia expresses that she knows very well how important it is to have someone to lift up one's feelings, and Noah privately wonders if she has [[Shulk|someone]] in mind. After returning to Colony 9, Zeon tells Melia that he wishes to allow the colony to elect a new commander with the intention to step down for whoever is chosen. His men wonder why he would want such a thing, and he explains that he was appointed only because the Consul thought him to be a useful puppet and feels that he lacks the qualities that would be suited in a commander of a colony free from their control. Melia does not object to his request to hold the election, but advises him that innate qualities are not everything and recounts her own experiences with self-doubt to assure him that all will be well so long as he remains true to himself.
+
+Nia explains to Melia and the party that she knew about the incident with the Agnian rebel forces; they were in fact an independent faction of former Agnian soldiers who have since renounced their allegiance and now care only for wanton destruction. Melia suspects that they may be suffering a crisis in their worldviews and might respond to mercy; however, she notes that should they be unwilling to listen to reason then she will not shy away from fighting them. They arrive at the rebels' hideout to find [[Levnis]]es deployed there, and Melia recounts her old experiences in battle, Tyrea's attempted assassination, and the value of everything her old companions taught her about life. She confronts the rebels, and their leader rages how he and his friends had believed that defeating Keves was the reason for their existence; ever since the war was proved to founded upon a lie they now have no reason to go on living and may as well put an end to the world. Melia is unconvinced, but the rebels lash out when she tries to explain that she wants to help them make sense of the world. The rebel leader remains defiant after the party subdues them, accusing Melia and Nia of looking down on them because of their greater lifespans; when they insist that he is mistaken, he demands to know who he can hate in order to go on living. Melia's response is to offer that she might be the target of that hate if that is what he truly needs so long as one day he can live for what is truly valuable.
+
+The party returns to Keves Castle, and after chiding [[Aizel (XC3)|Aizel]] for worrying too much Melia tells the party that they cannot lose the spirit of defiance and submit to injustice as the people of her world did once. She expresses the desire to sacrifice herself if it is needed to reclaim the future she and her friends fought for so long ago, but the party rejects the idea and says that they do not wish to see her suffer alone longer than she must. Their words remind her of her old traveling companions, and she thanks them for their continued support in creating a new future.  
+
+==== Escaping the "Endless Now" ====
+During the final battle against [[Z&#8734;]], Melia and Nia get in contact once more, with Melia telling Nia that the royal persona she's forcing doesn't suit her, before they change their castles into Ferronis to combat Origin. They provide support to the party by sending in reinforcements before eventually joining the fight themselves. After Z's defeat, Melia and Nia appear to ask the party if their decision to separate the two worlds is final. As the two Queens make their preparations, Melia expresses her hope for the futures of their respective worlds before glancing at the Monado Replica EX+ hidden behind a painting in her room and thanking everyone.  
+
+== In {{XC|-}} ==
+=== In battle ===
+[[File:Elemental Discharge.png|thumb|240px|Melia's Talent Art]]
+Melia's abilities are based upon [[Ether (Stat)|Ether]] [[Battle Arts (XC1)|Arts]], being a mage-like character with the lowest [[Hit Points (XC1)|HP]] of all playable characters, and [[Strength|physical strength]], while excelling in ether combat and defense, making her very useful against enemies with high physical defense or that specialize in ether attacks. She has the highest accuracy and ether out of all the party members. Her main arts do not immediately damage opponents: rather, they produce an elemental summon, which float above her head with a specific spherical design, and give off an [[aura (XC1)|aura]] that increases the party's stats while they are in the vicinity of Melia. Up to three of these summons can be in play at the same time, including three of the same summons which will subsequently stack their effects, for example three [[Summon Aqua|Aqua]] summons for high health regeneration. Melia has the highest accuracy and ether out of all the playable characters in the game. 
+
+Her [[Battle Arts (XC1)#Talent Arts|Talent Art]] [[Elemental Discharge (XC1)|Elemental Discharge]] effectively uses the elementals she has summoned to attack. This means that Melia's main form of dealing damage is to summon and then release these elements, while she can also opt to keep the elements passively active to buff her party members. Every released summon that attacks an enemy fills her Talent Gauge, allowing her to enter [[Element Burst]] state when maxed, granting her access to some powerful abilities as well as doubling damage caused. Element Burst may be completely used up upon casting an Art; the higher her [[Tension (XC1)|tension]], the more likely she can stay in Element Burst after casting an Art.
+
+Melia starts off with several Arts, mostly summons that grant increased power for the party: they are [[Summon Bolt|Bolt]], [[Summon Flare|Flare]] and Aqua (which grant the buffs of [[Ether Up (buff)|Ether Up]], [[Strength Up]] and [[Regenerate (XC1)|Regenerate]], respectively). She learns defensive Art summons later on, which include [[Summon Wind|Wind]], [[Summon Earth|Earth]] and [[Summon Ice|Ice]] (which give [[Agility Up (buff)|Agility Up]], [[Physical Defence]] Up and [[Ether Defence]] Up, respectively), along with [[Summon Copy]], an Art that summons the previously summoned element, even if the Art is on [[Cooldown (XC1)|cooldown]].
+
+Similarly, she also has a few spells that cause statuses on enemies. She can inflict [[Sleep (XC1)|Sleep]] using a special [[Hypnotise|hypnosis]] spell, [[Healing Gift|heal]] a party member at the cost of her own health, launch [[Shadow Stitch (XC1)|Shadow Stitch]] to [[Bind (debuff)|bind]] the foes' movement, and even [[Topple (XC1)|Topple]] a single target by herself at close range with a sequence of [[Spear Break]] and [[Starlight Kick (XC1)|Starlight Kick]]. Once she reaches Element Burst state, she can gain two single-use abilities, either [[Burst End]] art to decrease both [[Physical Defence Down|Physical]] and [[Ether Defence Down (XC1)|Ether defences]], or [[Mind Blast]] to [[Arts Seal|seal]] enemy arts for a period of time, a status ailments that other party members are unable to cause themselves.
+
+=== General stats ===
+{{Character stats
+|level = 99
+|hp    = 3,752
+|atk   = 311
+|eth   = 559
+|agl   = 101
+}}
+&#8251; These stats are raw and do not include the bonuses from the skill lines.
+* each element discharge adds 10% to her talent gauge
+* can buff battle members with the summoned elements
+* can debuff and inflict high ether damage to enemies by discharging summoned elements or using ether arts
+* can double ether damage during elemental burst
+* can use talent arts during chain attacks that will guarantee a successive chain attack multiplier on the next turn
+* most effective ranged fighter other than Sharla; can keep enemies at a distance with [[Shadow Stitch (XC1)|Shadow Stitch]] and [[Hypnotise]]
+* possesses instant topple combo in [[Spear Break]] and [[Starlight Kick (XC1)|Starlight Kick]]
+* one of two characters who can remove Auras, the other being Shulk
+
+=== Arts ===
+Melia's [[Battle Arts (XC1)|Arts]] mainly focus on summoning elemental spirits and affecting enemies with her ether staff. Many of Melia's arts provide a buff when summoned and do damage when released. This is noted thus in the list below: (group buff when summoned | damage when released)
+
+* [[File:Melia_ElementalDischarge.png]] [[Elemental Discharge (XC1)|Elemental Discharge]] [Talent Art] (attack with a summoned elemental)
+* [[File:Melia_SummonBolt.png]] [[Summon Bolt]] (grants Ether Up | causes electric damage)
+* [[File:Melia_SummonFlare.png]] [[Summon Flare]] (grants Strength Up | causes blaze damage to all enemies around the target)
+* [[File:Melia_SpearBreak.png]] [[Spear Break]] (throws back and slows an enemy, close range)
+* [[File:Melia_Hypnotise.png]] [[Hypnotise]] (puts an enemy to sleep)
+* [[File:Melia_BurstEnd.png]] [[Burst End]] (reduces physical and Ether defence of enemies in range, only available during Element Burst)
+* [[File:Melia_ShadowStitch.png]] [[Shadow Stitch (XC1)|Shadow Stitch]] (Binds enemies in a circle around Melia)
+* [[File:Melia_SummonAqua.png]] [[Summon Aqua]] (grants Regenerate | drains HP from one enemy)
+* [[File:Melia_HealingGift.png]] [[Healing Gift]] (sacrifices HP to heal a party member)
+* [[File:Melia_SummonCopy.png]] [[Summon Copy]] (resummon the last summoned elemental)
+* [[File:Melia_SummonWind.png]] [[Summon Wind]] (grants Agility Up | inflicts area damage around the target)
+* [[File:Melia_StarlightKick.png]] [[Starlight Kick (XC1)|Starlight Kick]] (forces Topple when used after Spear Break)
+* [[File:Melia_SummonEarth.png]] [[Summon Earth]] (reduces physical damage | inflicts poison)
+* [[File:Melia_Reflection.png]] [[Reflection (XC1)|Reflection]] (reflects enemy attacks except Talent Arts)
+* [[File:Reyn_Berserker.png]] [[Power Effect (XC1)|Power Effect]] [Aura] (doubles range of elemental auras)
+* [[File:Melia_SummonIce.png]] [[Summon Ice]] (reduces Ether damage | causes chill damage to all enemies around Melia)
+* [[File:Melia_MindBlast.png]] [[Mind Blast]] (removes enemy auras and inflicts Arts Seal, only available during Element Burst)
+
+=== Skill Tree ===
+{{:Skill Tree/Melia}}
+
+=== Gem Crafting ===
+Melia owns unique Shooter and Engineer abilities for [[Gem Crafting]], they are:
+
+==== Shooter ====
+* Medium Bonus: Qualities grow stronger with a medium flame.
+
+==== Engineer ====
+* Strong Flame: Poor
+* Medium Flame: Great
+* Gentle Flame: Poor
+
+=== Presents ===
+==== 4 hearts ====
+* [[Love Source (XC1)|Love Source]] ([[Other Collection|Other]])
+
+==== 3 hearts ====
+* [[Dobercorgi]] (Animal; [[Colony 6]])
+
+==== 2 hearts ====
+* [[Amethyst Melon (XC1)|Amethyst Melon]] (Fruit; [[Sword Valley]])
+* [[Doomsday Poppy (XC1)|Doomsday Poppy]] (Flower; [[Eryth Sea]])
+* [[Mystic Dahlia (XC1)|Mystic Dahlia]] (Flower; [[Alcamoth]])
+* [[Spirit Clematis (XC1)|Spirit Clematis]] (Flower; [[Colony 6]])
+* [[Forget-You-Not]] (Flower; [[Satorl Marsh]])
+* [[Night Lily (XC1)|Night Lily]] (Flower; [[Eryth Sea]])
+* [[Chimera Rabbit]] (Animal; [[Satorl Marsh]])
+* [[Venom Platypus]] (Animal; [[Satorl Marsh]])
+* [[Prism Centipede]] (Animal; [[Central Factory]])
+* [[Purple Lamp (XC1)|Purple Lamp]] (Parts; [[Sword Valley]])
+* [[Rumble Box]] (Strange; [[Frontier Village]])
+* [[Steel Silk]] (Strange; [[Tephra Cave]])
+{{clr}}
+
+== In {{XC3|-}} ==
+In {{XC3}}, Melia can be recruited as a [[Hero]] by traveling to the [[Main Castle Gate]] of [[Keves Castle]] after having completed the game, or in [[New Game + (XC3)|New Game +]]. In battle, she uses the [[Royal Summoner]] [[Class (XC3)|class]], and wields her [[World Ender]], referred to as the Elemental Staff, as her [[Blade (XC3)|Blade]]. By completing her [[Hero Quest|Ascension Quest]] ''[[From Atop Her Throne]]'', Melia's [[Class Rank (XC3)|rank]] as a Royal Summoner will increase from 10 to 20. Her unique theme, [https://www.youtube.com/watch?v=wwIMS20A0jM Brilliant Wings], which is a remixed version of the standard battle theme from {{XCFC|sub}}, plays when she is used in battle if the "Special BGM" setting is enabled.
+
+=== Arts ===
+* '''[[Element Genesis]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/Elemental Discharge dmg+
+* [[Summon Element]], AOE/Summon Elementals
+* [[Elemental Discharge (XC3)|Elemental Discharge]], Release Elementals
+* [[Shadow Stitch (XC3)|Shadow Stitch]], Back Bind
+* [[Starlight Kick (XC1)|Starlight Kick]], [[Topple (XC3)|Topple]]
+* [[Power Effect (XC3)|Power Effect]], Atk up / Def. down
+
+Melia's Chain Art is [[Ether Absolute]], which reduces enemy ether defense by 45 percentage points during a [[Chain Attack (XC3)|Chain Attack]], and her Heroic Chain bonus prevents the order from completing if it reaches 100% through Melia's action, allowing for another character to perform an action. If a Healer-role party member attacks while the TP is at least 100% as a result of this, their Point Limit ability will not reduce the TP to 99%, but the TP will not increase either, and the order will be completed.
+
+=== Class Skills ===
+* '''Elemental Boost''', Each elemental discharge boosts damage dealt by 25-40% (up to a maximum of 400%).
+* '''Essence of Ether''', Boosts allies' damage by 22-30% and reduces enemy Block Rate by 7-15% (does not stack).
+* '''Fortified Ether Guard''', Boosts Ether Defense by 12-20%.
+* '''Here I Shall Stand''', Boosts elemental damage by 70-100% and elemental buff effects by 35-50%.
+
+=== Base Stats ===
+These are Melia's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Royal Summoner class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 480 || 28 || 27 || 33 || 22
+|-
+| 99 || 6,861 || 402 || 384 || 325 || 223
+|}
+
+=== General Stats ===
+These stats assume Melia is at rank 20 in her class. Stat increases from gems are shown separately from the base stat, and may not fully apply if Melia has not unlocked the corresponding gem slots.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense&#8224;
+|-
+|1||312||58 (+20)||16||42||24||20%||5%||15%||15%
+|-
+|99||4,459||1,193 (+70)||230||422||245||30%||10%||15%||15%
+|}
+&lt;small&gt;&#8224; Does not factor in the boost to Ether Defense given by Fortified Ether Guard.&lt;/small&gt;
+
+Melia equips the following [[Gem]]s:
+* [[Disperse Bloodlust]]
+* [[Steelcleaver]], at level 20 onwards
+* [[Analyze Weakness]], at level 40 onwards
+
+=== Affinity Links ===
+{{XC3 Affinity Link
+| npc1 = Melia
+| npc2 = Nia
+| affinity = pink
+| caption = Fellow Queens
+| direction = both
+}}
+{{XC3 Affinity Link
+| npc1 = Melia
+| npc2 = Sigr&#250;n
+| affinity = pink
+| caption = Must protect the true Queen
+| direction = left
+}}
+{{XC3 Affinity Link
+| npc1 = Melia
+| npc2 = Aizel (XC3)
+| affinity = pink
+| caption = Loyal to
+| direction = left
+}}
+{{clr}}
+
+== In the ''Super Smash Bros.'' Series ==
+Melia makes appearances in the Super Smash Bros. series, first as a trophy in {{SSB4|wiiulink}}, and later as a Spirit in {{SSBU}}. Her Spirit is a Primary Spirit that is found in the World of Light and on the Spirit Board. Additionally, one of Shulk's alternate colors is based on Melia's {{XC|-}} appearance.
+
+== Merchandise ==
+[[File:FC Melia figure final.jpg|thumb|180px|1/7 Scale Figure Melia Antiqua]]
+Following [[Pyra]], [[Mythra]] and [[KOS-MOS]] figures, Good Smile Company has announced a Melia figure made into a 1/7 scale and based on her design in her Anemone Style armour from {{XCDE|sub}} on May 29, 2020, and revealed prototype pictures for the WonHobby Gallery 2020 AUTUMN exhibition on October 17. The figure released on July 2022.
+{{clr}}
+
+== Quotes ==
+=== {{XC|-}} ===
+* ''"Star searing flames of absolution!"''
+* ''"Summon FLARE!"''
+* ''"Water! The source of all life!"''
+* ''"Manifest yourself!"''
+* ''"Summon BOLT!"''
+* ''"Summon AQUA!"''
+* ''"Feel darkness blacker than midnight!"''
+* ''"I feel the Ether flowing through me!"''
+* ''"BURST END!"''
+* ''"Witness my true power!"''
+* ''"Aha! A weak spot!"''
+* ''"I see your strength is the genuine article!"''
+* ''"Oppose me and your destruction is inevitable!"''
+* ''"My thanks."''
+* ''"Is this all you're capable of?!"''
+* ''"Hm...A rather advantageous position!" ''
+* ''"Now, healing aqua!"''
+* ''"Now! STARLIGHT KICK!"''
+* ''"None can oppose us."''
+* ''"Bravo, oh, bravo."''
+* ''"Accept this gift of healing"''
+* ''"By my flesh and blood, be healed!"''
+* ''"My strength is fading...''"
+* "''How rude!''"
+* ''"But we cannot be reckless!"''
+* ''"What doesn't kill you makes you stronger. Apparently."''
+* ''"Your fighting spirit is mine!"''
+* ''"SPEAR BREAK, hah!"''
+* ''"En garde!"''
+* ''"Prepare yourself... MIND BLAST!"''
+* ''"Succumb to the power of earth!"''
+* ''"Poison EARTH!"''
+* ''"Summon COPY!"''
+* ''"REFLECTION manifest"''
+* ''"Good night..."''
+* ''"Summon WIND!"''
+* ''"Summon ICE!"''
+* ''"Follow my lead!"''
+* ''"Acknowledged."''
+* ''"Quick! Tend to the wounded!"''
+*[Against enemies considered the worst fit] ''"I'm not so partial to these."''
+*[Against enemies considered the best fit] ''"I shall crush the enemy!"''
+
+==== &#8203;Character yells ====
+===== Shulk =====
+* ''"Shulk.....'' ''it can't be!"''
+* ''"Shulk, you cannot fall here."''
+* ''"Do not hesitate, Shulk."''
+* ''"I admire your courage, Shulk!"''
+* ''"Yes! I feel it too, Shulk!"''
+* ''"Let us exhibit our strength, Shulk!"''
+* ''"I have been blessed with good friends! Thank you, Shulk."''
+* ''"Shulk, you're next!"''
+* ''"Shulk! I'll leave that one to you!"''
+* ''"Excellent, Shulk!"''
+* ''"We need you, Shulk!"''
+
+===== Reyn =====
+* ''"By the Bionis, Reyn!"''
+* ''"Reyn! Get ahold of yourself."''
+* ''"Reyn, I suggest you keep your cool."''
+* ''"I wish I could share your ferocity, Reyn!"''
+* ''"That's right."''
+* ''"Foolhardy and reckless as usual, Reyn!"''
+* ''"Reyn! Concine the enemy into oblivion!"''
+* ''"Reyn, charge!"''
+* ''"Forward, Reyn!"''
+* ''"Was that the handy work of Reyn?"''
+* ''"Reyn, where is your fighting spirit?"''
+
+===== Fiora =====
+* ''"Fiora! No!"''
+* ''"Fiora, we are not done here yet."''
+* ''"Your actions impress me, Fiora."''
+* ''"That you could, Fiora!"''
+* ''"I agree!"''
+* ''"Your words ring true, Fiora!"''
+* ''"That sent shivers down my spine, Fiora!"''
+* ''"Fiora! Your turn!"''
+* ''"Fiora! Can you help?"''
+* ''"You have fearsome power, Fiora."''
+* ''"Remember why we fight, Fiora!"''
+
+===== Dunban =====
+* ''"That one such as Dunban could fall so easily....."''
+* ''"Dunban! This is not like you!"''
+* ''"As if returning to your former glory, Dunban."''
+* ''"The return of the great hero, Dunban!"''
+* ''"I'm looking forward to the results!"''
+* ''"I feel it, Dunban!"''
+* ''"Understood, Dunban!"''
+* ''"Dunban! Finish it!"''
+* ''"It is up to you, Dunban!"''
+* ''"Your reputation is deserved, Dunban."''
+* ''"This is not becoming of the mighty Dunban!"''
+
+===== Sharla =====
+* ''"Sharla..... stay with us!"''
+* ''"Sharla, on your feet!"''
+* ''"May your aim be true, Sharla."''
+* ''"Let us end this in one go, Sharla."''
+* ''"We must nurture this unity!"''
+* ''"Indeed Sharla, this pleases me."''
+* ''"This sensation.... it is truly amazing, Sharla!"''
+* ''"Sharla! Your turn!"''
+* ''"Sharla, is your line of fire clear?"''
+* ''"Sharla! Beautiful shot!"''
+* ''"We require your medical skills, Sharla."''
+
+===== Riki =====
+* ''"Riki! Get up, please!"''
+* ''"Riki! You're the Heropon, remember?"''
+* ''"(giggles) You always keep me calm, Riki!"''
+* ''"I feel excited too, Riki!"''
+* ''"Heha! The heropon Riki!"''
+* ''"Heehee! Without a doubt your Rikiness!"''
+* ''"I am with you, Riki!"''
+* ''"Now, Riki!"''
+* ''"Let us witness the might of the Heropon!"''
+* ''"Riki! Well done!"''
+* ''"We can eat afterwards, Riki!"''
+
+==== Vision Warnings ====
+* ''"Reyn, this may be somewhat troublesome."''
+* ''"Sharla, what should we do?"''
+* ''"Dunban! We must act!"''
+* ''"Riki, do something!"''
+* ''"Fiora, can you handle it?"''
+* ''"You saw another vision?"'' [Warning Shulk]
+
+==== Post-battle Dialogue ====
+{| class="xc1"
+! Party Members
+! Dialogue
+|-
+|Shulk, Reyn, Melia
+|'''Shulk''' - Melia, are you tired?&lt;br /&gt;'''Melia''' - No, I am fine. Reyn, however... I'm not so sure about.&lt;br /&gt;'''Shulk''': Reyn, wake up! Reyn!&lt;br /&gt;'''Reyn''': *Yawns* Sorry, sorry. Didn't get enough sleep. Why don't we grab some shut-eye?
+[[File:Shulk_Reyn_Melia.ogg|noicon]]
+|-
+|Shulk, Sharla, Melia
+|'''Melia''' - Sharla, your skill is truly unrivalled.&lt;br /&gt;'''Shulk''' - It's true. You're really good, Sharla!&lt;br /&gt;'''Sharla''' - Wow, thanks. I don't know what to say.
+[[File:Shulk_Sharla_Melia.ogg|noicon]]
+|-
+|Shulk, Dunban, Melia
+|'''Shulk''' - Melia, it'd be great if you taught me how to use ether!&lt;br /&gt;'''Dunban''' - So that's how it is. Giving up the sword already?&lt;br /&gt;'''Shulk''' - No, no! That's not it at all!&lt;br /&gt;'''Melia''' - I'm speechless.
+[[File:Shulk_Dunban_Melia.ogg|noicon]]
+|-
+|Shulk, Melia, Riki
+|'''Riki''' - Melly, Riki try really hard! You see it?&lt;br /&gt;'''Melia''' - Of course, you sweet thing. Who's a brave boy?&lt;br /&gt;'''Shulk''' - Um, Melia? Are you feeling okay?
+[[File:Shulk_Melia_Riki.ogg|noicon]]
+|-
+|Shulk, Melia and Fiora
+|'''Shulk''' - Wow, when did you two get so tough?&lt;br /&gt;'''Fiora''' - What? Just because we're girls we're supposed to be wimps? How rude!&lt;br /&gt;'''Melia''' - Quite. I'm afraid you have much to learn about the fairer sex, Shulk.&lt;br /&gt;'''Shulk''' - *Groan* Why do I get the feeling that mastering the Monado is going to be easier?&lt;br /&gt;'''Fiora''' - *Laugh*&lt;br /&gt;'''Melia''' - *Laugh*
+[[File:Shulk_Melia_Fiora.ogg|noicon]]
+|-
+|Reyn, Sharla, Melia
+|'''Reyn''' - Just goes to show, brawn is better than brains.&lt;br /&gt;'''Sharla''' - Oh no, I can't let that one slip by.&lt;br /&gt;'''Melia''' - The head! Shoot him in the head!&lt;br /&gt;'''Reyn''' - Wha? What did I say?
+[[File:Reyn_Sharla_Melia.ogg|noicon]]
+|-
+|Reyn, Dunban, Melia
+|'''Reyn''' - You can't have a rainbow without Reyn, baby!&lt;br /&gt;'''Melia''' - Dunban, I think you need to have a talk with Reyn.&lt;br /&gt;'''Dunban''' - No. Let's pretend it didn't happen.
+[[File:Reyn_Dunban_Melia.ogg|noicon]]
+|-
+|Reyn, Melia, Riki
+|'''Melia''' - Here, Riki Riki Riki. May I stroke your fur, please?&lt;br /&gt;'''Riki''' - Melly always welcome!&lt;br /&gt;'''Reyn''' - Me too! Me too!&lt;br /&gt;'''Riki''' - Reyn give one biscuit for every stroke!&lt;br /&gt;'''Reyn''' - Hey! Why am I the only one who has to give you stuff?
+[[File:Reyn_Melia_Riki.ogg|noicon]]
+|-
+|Reyn, Melia and Fiora
+|'''Reyn''' - Is everyone all right?&lt;br /&gt;'''Fiora''' - Reyn, you're asking if we're all right? But... do you feel okay?&lt;br /&gt;'''Melia''' - Indeed. We ought to build a monument to mark such a rare occurrence&lt;br /&gt;'''Reyn''' - Charming. I don't know why I bother.
+[[File:Reyn_Melia_Fiora.ogg|noicon]]
+|-
+|Sharla, Dunban, Melia
+|'''Sharla''' - Isn't it quiet without Reyn or Riki around?&lt;br /&gt;'''Dunban''' - Agreed. Let's continue with this team.&lt;br /&gt;'''Melia''' - *Laughs* Hero of the Homs, you have a mean streak.
+[[File:Sharla_Dunba_Melia.ogg|noicon]]
+|-
+|Sharla, Melia, Riki
+|'''Riki''' - Riki wish Melly was real big sister!&lt;br /&gt;'''Melia''' - Aww. But what about Sharla?&lt;br /&gt;'''Riki''' - Sharla more like mama. One mama enough.&lt;br /&gt;'''Sharla''' - Now you wait just a minute!
+[[File:Sharla_Melia_Riki.ogg|noicon]]
+|-
+|Sharla, Melia and Fiora
+|''No dialogue found.''
+|-
+|Dunban, Melia and Riki
+|'''Melia''' - He's so cuddly, I could almost cuddle him to death!&lt;br /&gt;'''Dunban''' - Riki may well be the softest of all Nopon.&lt;br /&gt;'''Riki''' - Riki suddenly feel afraid!
+[[File:Dunban_Melia_Riki.ogg|noicon]]
+|-
+|Dunban, Melia and Fiora
+|'''Melia''' - Fighting besides Homs and Mechon. I never imagined this day would come.&lt;br /&gt;'''Dunban''' - And as one, we will always be victorious!&lt;br /&gt;'''Fiora''' - I fight with pride and all my strength.
+[[File:Dunban_Melia_Fiora.ogg|noicon]]
+|-
+|Melia, Riki and Fiora
+|'''Melia''' - How can you be so small and have so much energy, Riki?&lt;br /&gt;'''Riki''' - Melly and Fiora, have no scary! For mighty Heropon here!&lt;br /&gt;'''Fiora''' - Oh, my hero!
+[[File:Melia_Riki_Fiora.ogg|noicon]]
+|}
+
+==== Dialogue ====
+* G-gotcha...friendo! Leave it to us...m-mate! Is that correct, Sharla?
+
+== Trivia ==
+* Melia is also the name of a species family of plants that the Chinaberry Tree belongs to.
+* Her last name, Antiqua, means "old/ancient" in Latin. Melia is the only party member in {{XC|-}} with a known surname.
+* Melia is the only female party member in {{XC|-}} whose first name is the same both the Japanese and English versions. In the Japanese version, Fiora is called Fiorung, while Sharla is called Carna.
+* According to the Heart-to-Heart "[[A Breathtaking Sight]]", Melia explains to Reyn that when she was young, she fell off the Sky Terrace of Alcamoth's Imperial Palace and survived, but has no memory of how. Reyn is left astonished.
+[[File:Antique Princess QT.jpg|thumb|90px|Poppi's RAM]]
+* In {{XC2}}, [[Poppi QT]] has a DLC [[Poppiswap|Skill RAM]] obtainable in the [[Land of Challenge (XC2)|Land of Challenge]] known as [[Antique Princess QT]], which changes her colour palette to resemble Melia's {{XC|-}} outfit. 
+* In the [https://www.youtube.com/watch?v=Rt9pfN-2S0k release date trailer] for {{XC3|-}}, Melia's role as the queen of [[Keves]] was accidentally revealed early in the captions, as it presents her name when she speaks. This error was later corrected and Melia's name was replaced with simply "Queen".
+* Melia, Nia, [[Riku &amp; Manana]] are the only non-DLC Heroes in {{XC3|-}} that can never be fought by the party.
+* Melia's Japanese voice actress, Shiori Katsuta, also provides the "Upper-class" female voice for [[Cross]] in {{XCX}}.
+* Melia Antiqua shares multiple design similarities to [https://xenosaga.fandom.com/wiki/Maria_Balthasar Maria Balthasar], a playable character in in 1997 game ''[https://xenosaga.fandom.com/wiki/Xenogears Xenogears]''.  Their given names are similar especially in Japanese ({{lang|ja|&#12510;&#12522;&#12450;}} ''Maria'' vs. {{lang|ja|&#12513;&#12522;&#12450;}} ''Meria''), they're both (relatively speaking) young women with a centuries-old still-living recent ancestor (Melia's father [[Sorean Antiqua]] vs. Maria's grandfather [https://xenosaga.fandom.com/wiki/Isaac_Balthasar Isaac Balthasar]), come from an ancient civilization based in the sky (the [[High Entia]] vs. [https://xenosaga.fandom.com/wiki/Shevat Shevat]), and are both known for their massive hair curls.  Both characters were designed by Kunihiko Tanaka.
+[[File:Eunie Melia Outfit.png|thumb|190px|Eunie's Throwback A Outfit]]
+* In {{XC3|-}}'s [[Challenge Battle Mode]], Eunie can obtain two [[Clothing|outfits]] based on Melia's outfit from {{XCFC|sub}}, one of them being a green and black variant of the outfit.
+{{clr}}
+
+== Gallery ==
+=== {{XC|-}} ===
+==== Artwork ====
+&lt;gallery&gt;
+Melia2.png|Official art
+Melia.png|Official art
+Frontier Village art.png|Official art
+Melia concepts 1.jpg|Concept art
+Melia concepts 2.jpg|Concept art
+Character concepts 2.jpg|Concept art
+Fiora melia illust.jpg|Art included in the art book
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+Melia's Intro.png|Melia introduces herself to the group.
+Reyn is a loser 1.png|Melia berates Reyn
+Melia angry.png|
+Alcamoth 4.jpg|Melia in Alcamoth
+Alcamoth 5.jpg|Melia in the Great Hall
+3a epilogue.png|Melia in the epilogue
+Melia Battle Tactics C.jpg|Melia - Battle Tactics
+Compilation Armor Melia.jpg|Compilation of Melia's armour
+Melia brave.jpg|Melia in Brave outfit
+Melia retrieved.jpg|Melia in Retrieved outfit
+Melia hierax.jpg|Melia in Hierax outfit
+Melia stella.jpg|Melia in Stella outfit
+Melia lancelot.jpg|Melia in Lancelot outfit
+Melia rafaga.jpg|Melia in Rafaga outfit
+MeliaRondine.png|Melia in Light Rondine Armour
+MeliaLedios.png|Melia in Heavy Ledios Armour
+&lt;/gallery&gt;
+
+=== {{XCDE|-}} ===
+==== Artwork ====
+&lt;gallery&gt;
+XCDE Melia.png|Official art of Melia in {{XCDE|sub}}
+XCDE Melia Future Connected.png|Official art of Melia in {{XCFC|sub}}
+XC1DE Shulk and Melia on BS artwork.jpg|Artwork of Shulk and Melia on the Bionis' Shoulder
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+XC1DE-Melia-and-Riki.jpg
+XC1DE-Melia-3.jpg
+XC1DE-Melia-4.jpg
+XC1DE-Nene-2.jpg|Melia with Nene
+XC1DE-Field-Screenshot-8.jpg
+Switch XBC-DE 15.jpg|Shulk and Melia during {{XCFC|sub}}
+XC1DE-Future-Connected-3.jpg
+&lt;/gallery&gt;
+
+==== Merchandise ====
+&lt;gallery&gt;
+FC Melia figure.jpg|1/7 Scale Figure Melia Antiqua prototype
+Melia figure 01.jpg
+Melia figure 02.jpg
+Melia figure 03.jpg
+Melia figure 04.jpg
+Melia figure 05.jpg
+Melia figure 06.jpg
+Melia figure 07.jpg
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+==== Official Artwork ====
+&lt;gallery&gt;
+Melia Official Artwork.png|Official Artwork of Melia in {{XC3|-}}
+XC3 Melia Concept Art.png|Melia's Concept Art in {{XC3|-}}
+&lt;/gallery&gt;
+
+==== Screenshots ====
+&lt;gallery&gt;
+XC3 Melia Origin.jpg|Melia as the Queen of Keves
+XBC3_ending_NiaMelia.png|Melia and Nia
+&lt;/gallery&gt;
+
+==== In-Game Renders ====
+&lt;gallery&gt;
+Melia Hero Icon.png|Melia's Hero List Icon
+Strm order thumb021 0.png|Melia's Chain Order Icon
+Melia Level Up Art.png|Melia's Level Up Art
+Icon chara 13.png
+Icon chara battle 14.png
+&lt;/gallery&gt;
+
+== External links ==
+* [https://www.goodsmile.info/ja/product/10822/%E3%83%A1%E3%83%AA%E3%82%A2+%E3%82%A8%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%B3%E3%83%88.html Official Melia figure Japanese page on Good Smile Company website]
+** [https://www.goodsmile.info/en/product/10822/Melia+Antiqua.html Official Melia figure English page on Good Smile Company website]
+
+{{CharNav}}
+{{XC3CharNav}}
+[[fr:Melia]]
+[[es:Melia]]
+[[tr:Melia]]
+
+[[Category:Melia]]
+[[Category:XC Playable Characters]]
+[[Category:XCFC Playable Characters]]
+[[Category:XC3 Heroes]]
+[[Category:XC High Entia]]
+[[Category:XCFC High Entia]]
+[[Category:XC3 Kevesi]]
+[[Category:Super Smash Bros. for Nintendo 3DS / Wii U]]
+[[Category:Super Smash Bros. Ultimate]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>rqe07x8yjrobzpf77649jmfatcoi17e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Memorial Ekidno</title>
+    <ns>0</ns>
+    <id>121706</id>
+    <revision>
+      <id>563948</id>
+      <parentid>559275</parentid>
+      <timestamp>2022-11-02T12:57:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>563948</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2187" sha1="996xbiz6bf3rettl2lduwvxu5rb2y9l" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Memorial Ekidno
+|image        = 
+|caption      = Memorial Ekidno
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Ekidno]]
+|level        = 62
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 2 (XC3)|Hovering Reef 2]])
+|spawntime    = During ''[[My Memories]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 1393
+|cp           = 126
+|sp           = 0
+|gold         = 361
+|hp           = 1,738,800
+|strength     = 1353
+|ether        = 
+|dexterity    = 235
+|agility      = 212
+|physdef      = 60
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+The '''Memorial Ekidno''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Ekidno]] family, and is fought at level 62 on [[Hovering Reef 2 (XC3)|Hovering Reef 2]] of the [[Syra Hovering Reefs]] during ''[[My Memories]]''.
+
+== Drops ==
+{{XC3 Enemy drops
+|item1   = [[Survivor Kneeguard]]
+|type1   = [[Accessory (XC3)|Accessory]]
+|rarity   = 2
+|rate1   = 9%
+
+|item2   = [[Platinum Cube]]
+|type2   = [[Accessory (XC3)|Accessory]]
+|rarity2   = 2
+|rate2   = 9%
+
+|item3   = [[Beautiful Crystal]]
+|type3   = [[Accessory (XC3)|Accessory]]
+|rarity3   = 2
+|rate3   = 9%
+
+|item4   = [[Flame Bangle]]
+|type4   = [[Accessory (XC3)|Accessory]]
+|rarity4   = 1
+|rate4   = 18%
+
+|item5   = [[Silver Choker]]
+|type5   = [[Accessory (XC3)|Accessory]]
+|rarity5   = 1
+|rate5   = 18%
+
+|item6   = [[Expanding Memory]]
+|type6   = [[Accessory (XC3)|Accessory]]
+|rarity6   = 1
+|rate6   = 18%
+
+|item7   = [[Metal Foot Protector]]
+|type7   = [[Accessory (XC3)|Accessory]]
+|rarity7   = 1
+|rate7   = 18%
+
+|item8   = [[Ekidno Tail]]
+|type8   = Collectible
+|rarity8   = 3
+|rate8   = 95%
+
+|item9   = [[Ekidno Jawbone]]
+|type9   = Collectible
+|rarity9   = 3
+|rate9   = 95%
+
+}}
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Ekidnos]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>996xbiz6bf3rettl2lduwvxu5rb2y9l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Memorial Rhogul</title>
+    <ns>0</ns>
+    <id>123849</id>
+    <revision>
+      <id>563950</id>
+      <parentid>559276</parentid>
+      <timestamp>2022-11-02T13:19:54Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>563950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1230" sha1="iuvgvb6ink8b36n2iz4eh1of96rofry" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Memorial Rhogul
+|image        = 
+|caption      = Memorial Rhogul
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Rhogul]]
+|level        = 62
+|area         = [[Great Cotte Falls]] ([[Aquifer Exhaust]])
+|spawntime    = During ''[[My Memories]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =  
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Memorial Rhoguls''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Rhogul]] family, and are fought at level 62 near the [[Aquifer Exhaust]] at [[Great Cotte Falls]] during ''[[My Memories]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>iuvgvb6ink8b36n2iz4eh1of96rofry</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Memorial Ropl</title>
+    <ns>0</ns>
+    <id>121036</id>
+    <revision>
+      <id>581333</id>
+      <parentid>559277</parentid>
+      <timestamp>2023-04-03T16:14:01Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581333</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1100" sha1="23c3kwxfwh9x3tg2lxnm7e2c3ssb7yj" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Memorial Ropl
+|image        = 
+|caption      = Memorial Ropl
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Ropl]]
+|level        = 62
+|area         = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Melnath's Pass, Lower]])
+|spawntime    = During ''[[My Memories]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Memorial Ropl''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Ropl]] family, and is fought at level 62 on [[Melnath's Pass, Lower]] on [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] during ''[[My Memories]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Ropl]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>23c3kwxfwh9x3tg2lxnm7e2c3ssb7yj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Memory Locket (XC3)</title>
+    <ns>0</ns>
+    <id>122726</id>
+    <revision>
+      <id>592815</id>
+      <parentid>592591</parentid>
+      <timestamp>2023-05-15T20:17:27Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="sgh88roib9ck4yl24nnibpve28kqp0t" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Memory Locket (XC2)}}
+{{Infobox item
+|name      = Memory Locket
+|image     = XC3 Accessory Choker.png
+|caption   = Allows reviving allies even when not in a Healer role.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Memory Lockets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 99 [[Nopon Coin (Gold)|Gold Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>sgh88roib9ck4yl24nnibpve28kqp0t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Men! Of! The Sea! IV</title>
+    <ns>0</ns>
+    <id>124341</id>
+    <revision>
+      <id>576284</id>
+      <parentid>562917</parentid>
+      <timestamp>2023-02-09T13:13:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>576284</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1941" sha1="f4nq6w5jkq74wn12kzg1j2u81hzjyb6" xml:space="preserve">{{Infobox quest
+|name          = Men! Of! The Sea! IV
+|image         = XC3 Challenge Battle Mode.png
+|description   = "This time, must claim moves from all kinds of monsters to fight beautifully! "You-know-who" will come out last!"
+|giver         = [[Nopon Archsage]]
+|location      = [[Land of Challenge (XC3)|Land of Challenge]]
+|prereqs       = Main Story completed&lt;br/&gt;[[Soulhacker]] inherited
+|difficultyCB3 = 4
+|rewards       = 650-1100 [[Noponstone]]s (Easy) &lt;br&gt;1300-2200 [[Noponstone]]s (Normal)&lt;br&gt;1950-3300 [[Noponstone]]s (Hard)
+}}
+'''Men! Of! The Sea! IV''' is a Time Attack [[Challenge Battle Mode|Challenge Battle]] in {{XC3}}. It can be received from [[Nopon Archsage]] in the [[Land of Challenge (XC3)|Land of Challenge]], available as downloadable content from the second part of the Expansion Pass. Clearing this challenge with at least an A rank for the first time will reward the party with an [[Accomplished Sash]].
+
+== Challenge Rules ==
+{| class="xc1"
+| Waves || 4
+|-
+| Level Restriction || Lv 70
+|-
+| rowspan="2" | Other Rules || All members must be [[Soulhacker]] [[Class (XC3)|class]].
+|-
+| No [[Hero]]es and no [[Interlink]]ing.
+|}
+
+== Enemies ==
+{| class="xc1"
+! Wave
+! Enemy
+! Level
+|-
+| rowspan="5" | 1 || [[Cherys Medooz (XC3)|Cherys Medooz]] x1 || 73
+|-
+| [[Prink Medooz (XC3)|Prink Medooz]] x1 || 70
+|-
+| [[Skelter Medooz]] x1 || 70
+|-
+| [[Segaro Garaffa]] x1 || 70
+|-
+| [[Segaro Camill]] x1 || 70
+|-
+| rowspan="2" | 2 || [[Randakk Scorpox]] x1 || 73
+|-
+| [[Lun Scorpox (XC3)|Lun Scorpox]] x1 || 70
+|-
+| rowspan="6" | 3 || [[Lesser Volff]] x1 || 73
+|-
+| [[Corsaire Gogol]] x1 || 73
+|-
+| [[Giron Volff (XC3)|Giron Volff]] x1 || 70
+|-
+| [[Jarack Volff]] x1 || 70
+|-
+| [[Submit Gogol]] x1 || 70
+|-
+| [[Muskul Gogol]] x1 || 70
+|-
+| rowspan="3" | 4 || [[Triton#Challenge Battle Mode|Defiant Triton]] || 75
+|-
+| [[Villainous Igna]] x1 || 72
+|-
+| [[Archbard Tirkin]] x1 || 72
+|}
+
+[[Category:XC3 Challenge Battles]]</text>
+      <sha1>f4nq6w5jkq74wn12kzg1j2u81hzjyb6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Menaas Aspar</title>
+    <ns>0</ns>
+    <id>121181</id>
+    <revision>
+      <id>594909</id>
+      <parentid>584279</parentid>
+      <timestamp>2023-06-05T13:53:59Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594909</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4161" sha1="lvyfupu1i2yos9uxz78jlyvulzqb2dx" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Menaas Aspar
+|image        = Menaas Aspar.jpg
+|caption      = Menaas Aspar
+|category     = Normal Minor Enemy
+|type         = [[Aspar]]
+|level        = 32-33
+|area         = [[High Maktha Wildwood]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Menaas Aspars''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Aspar]] family, and can be found at level 32-33 in [[High Maktha Wildwood]] in the [[Pentelas Region]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Menaas Aspar
+|image        = 
+|caption      = Menaas Aspar
+|type         = [[Aspar]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 50
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 136,240
+|strength     = 501
+|healing      = 179
+|dexterity    = 160
+|agility      = 100
+|physdef      = 0%
+|ethdef       = 20%
+|critrate     = 12%
+|guardrate    = 0%
+}}
+The '''Menaas Aspar''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 50 at Stage 10 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+
+=== Skills ===
+The Menaas Aspar has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+* Boosts Arts recharge speed by 25%.
+
+=== Resistances ===
+{{XC3 Resistances
+|break = 50%
+|topple = 0%
+|daze = 0%
+|burst = 0%
+|launch = 0%
+|smash = 0%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 100%
+|etherdebuff = 100%
+}}
+
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+
+=== Arts ===
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|150%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Snake Eyes'''
+|Ether
+|Frontward AOE
+|1
+|150%
+|[[Attack Down]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Serpentine Blow'''
+|Physical
+|AOE around User
+|1
+|250%
+|Knockback
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Adrenal Surge'''
+|Buff
+|Self
+| -
+| -
+|[[Awakening (XC3)|Awakening]]
+|style="text-align:left;"|
+*Immune to all reactions and combos during Art.
+|}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Menaas Aspar
+|image        = 
+|caption      = Menaas Aspar
+|category     = Normal Minor Enemy
+|type         = [[Aspar]]
+|level        = 17
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Menaas Aspars''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Aspar]] family, and can be found at level 17 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Aspars]]
+[[Category:XC3FR Aspars]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>lvyfupu1i2yos9uxz78jlyvulzqb2dx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mercurii Rings</title>
+    <ns>0</ns>
+    <id>122569</id>
+    <revision>
+      <id>592816</id>
+      <parentid>592270</parentid>
+      <timestamp>2023-05-15T20:17:31Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592816</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="477" sha1="751dyh35nk34fupwun2bdlvsrl0e6y0" xml:space="preserve">{{Infobox item
+|name      = Mercurii Rings
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts Critical Rate by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Container#Legacy of the Seven|Legacy of the Seven]] on [[Anu Shoals]]
+|sell      = N/A
+}}
+'''Mercurii Rings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>751dyh35nk34fupwun2bdlvsrl0e6y0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mercy Earring</title>
+    <ns>0</ns>
+    <id>122717</id>
+    <revision>
+      <id>592817</id>
+      <parentid>592429</parentid>
+      <timestamp>2023-05-15T20:17:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592817</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="548" sha1="gxufp72rf6397aivy8noosle4km8nwy" xml:space="preserve">{{Infobox item
+|name      = Mercy Earring
+|image     = XC3 Accessory Ring.png
+|caption   = Boosts healing Arts recharge speed by 25% when an ally is at low HP.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = N/A
+}}
+'''Mercy Earrings''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can be bought from the [[Nopon Coin X-change]] for 30 [[Nopon Coin (Silver)|Silver Nopon Coins]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>gxufp72rf6397aivy8noosle4km8nwy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Merfrey</title>
+    <ns>0</ns>
+    <id>117466</id>
+    <revision>
+      <id>602050</id>
+      <parentid>600776</parentid>
+      <timestamp>2023-07-22T12:24:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Unique Monster */</comment>
+      <origin>602050</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="448" sha1="skyc3opkyh7lmyckrjnvthvchtvjqj7" xml:space="preserve">[[File:XC3 Killhappy Brijaidor.png|thumb|Killhappy Brijaidor]]
+'''Merfreys''' are a family of aquatic enemies in {{XC3}}. They appear throughout the [[Erythia Sea]].
+{{clr}}
+
+== Normal Minor Enemies ==
+* [[Shuvai Merfrey]]
+* [[Swimming Merfrey]]
+
+== Unique Monster ==
+* [[Killhappy Brijaidor]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Merfreys]]
+[[Category:XC3 Aquatic Life]]
+[[Category:Merfreys]]
+[[Category:Species by Type]]</text>
+      <sha1>skyc3opkyh7lmyckrjnvthvchtvjqj7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Merigna</title>
+    <ns>0</ns>
+    <id>119086</id>
+    <revision>
+      <id>602051</id>
+      <parentid>600777</parentid>
+      <timestamp>2023-07-22T12:24:56Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>602051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="1gkwsnkl46jiz9zfc4b5ho2c5bt3628" xml:space="preserve">'''Merignas''' are a family of enemies in {{XC3}}. They are an aquatic variation of [[Igna]]s.
+
+== Normal Minor Enemies ==
+* [[Bard Merigna]]
+* [[Bloodthirsty Merigna]]
+* [[Discordant Merigna]]
+* [[Duel Merigna]]
+* [[Enforcer Merigna]]
+* [[Javelin Merigna]]
+* [[Magbow Merigna]]
+* [[Magranger Merigna]]
+* [[Mindkiller Merigna]]
+* [[Minstrel Merigna]]
+* [[Pike Merigna]]
+* [[Pirate Merigna]]
+* [[Poseidon Merigna]]
+* [[Sailor Merigna]]
+* [[Sword Merigna]]
+
+== Unique Monsters ==
+* [[Fairscale Marina]]
+* [[Hardscale Gouran]]
+* [[Seadragoon Melchior]]
+* [[Sharpscale Ragoon]]
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Seadragoon Melchior.png|Seadragoon Melchior
+&lt;/gallery&gt;
+
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3 Terrestrial Life]]
+[[Category:XC3 Humanoids]]
+[[Category:Merignas]]
+[[Category:Species by Type]]</text>
+      <sha1>1gkwsnkl46jiz9zfc4b5ho2c5bt3628</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Meroko Kapiba</title>
+    <ns>0</ns>
+    <id>123009</id>
+    <revision>
+      <id>584319</id>
+      <parentid>584317</parentid>
+      <timestamp>2023-04-21T01:17:08Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>/* Skills */</comment>
+      <origin>584319</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2741" sha1="hepherfte2510dx9vgatu0fqg43jhz6" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Meroko Kapiba
+|image        = 
+|caption      = Meroko Kapiba
+|category     = Minor Enemy
+|type         = [[Kapiba]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Meroko Kapibas''' are Minor Enemies in {{XC3}}. They are members of the [[Kapiba]] family, and can be found at level ? at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Meroko Kapiba
+|image        = 
+|caption      = Meroko Kapiba
+|type         = [[Kapiba]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 55
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Intermediate]]''
+|respawn      = No
+|hp           = 67,878
+|strength     = 236
+|healing      = 315
+|dexterity    = 196
+|agility      = 198
+|physdef      = 10%
+|ethdef       = -10%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+A '''Meroko Kapiba''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 55 on Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Intermediate]]''.
+==== Skills ====
+The Meroko Kapiba has the following skills:
+* Deals 10% less damage but takes 30% less damage.
+
+==== Resistances ====
+{{XC3 Resistances}}
+{{clr}}
+==== Arts ====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|80%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Stepping Stone'''
+|Physical
+|One Target
+|1
+|250%
+|[[Topple (XC3)|Topple]]
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*Topple is only inflicted if target is suffering [[Break (XC3)|Break]].
+*Damage is boosted by 200% when attacking the target from behind.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Lazy Sway'''
+|Physical
+|One Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Burrowing Rocket'''
+|Physical
+|AOE around User
+|1
+|160%
+|Break
+|style="text-align:left;"|
+*Evades enemy attacks during the Art.
+|}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Kapibas]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>hepherfte2510dx9vgatu0fqg43jhz6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Merrosh Rhogul</title>
+    <ns>0</ns>
+    <id>123773</id>
+    <revision>
+      <id>559813</id>
+      <parentid>555934</parentid>
+      <timestamp>2022-09-30T10:53:16Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559813</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="777" sha1="ex00jnq5tr6vhm2jdzhsqag0d7weu59" xml:space="preserve">{{Infobox Enemy
+|name         = Merrosh Rhogul
+|image        = 
+|caption      = Merrosh Rhogul
+|category     = Minor Enemy
+|type         = [[Rhogul]]
+|level        = ?
+|area         = [[Captocorn Peak]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Merrosh Rhoguls''' are Minor Enemies in {{XC3}}. They are members of the [[Rhogul]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Rhoguls]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ex00jnq5tr6vhm2jdzhsqag0d7weu59</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Metal Foot Protector</title>
+    <ns>0</ns>
+    <id>122596</id>
+    <revision>
+      <id>592818</id>
+      <parentid>592302</parentid>
+      <timestamp>2023-05-15T20:17:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592818</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1085" sha1="m2wxp2fuier7kbtapoppxk9gq8hku24" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Metal Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 20% while stationary or auto-attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Metal Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 21% while stationary or auto-attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Metal Foot Protector
+|image     = XC3 Accessory Boot.png
+|caption   = Boosts evasion by 22% while stationary or auto-attacking.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 12,240 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Metal Foot Protectors''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>m2wxp2fuier7kbtapoppxk9gq8hku24</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Metallic Kneeguard</title>
+    <ns>0</ns>
+    <id>122643</id>
+    <revision>
+      <id>566832</id>
+      <parentid>551680</parentid>
+      <timestamp>2022-11-23T06:22:05Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>566832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" sha1="kmqvtvdjyhe7z30vw6gk5l6dec1ixg1" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Metallic Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple resistance by 50 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Metallic Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple resistance by 55 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Metallic Kneeguard
+|image     = File:XC3 Accessory Boot.png
+|caption   = Increases Topple resistance by 60 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Metallic Kneeguards''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>kmqvtvdjyhe7z30vw6gk5l6dec1ixg1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mhamamia Antol</title>
+    <ns>0</ns>
+    <id>123212</id>
+    <revision>
+      <id>582222</id>
+      <parentid>582201</parentid>
+      <timestamp>2023-04-09T16:14:38Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <comment>/* Arts */</comment>
+      <origin>582222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3185" sha1="ifugtlz4rk2evgw4okkvey7gozquqff" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Mhamamia Antol
+|image        = 
+|caption      = Mhamamia Antol
+|category     = Minor Enemy
+|type         = [[Antol]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mhamamia Antols''' are Minor Enemies in {{XC3}}. They are members of the [[Antol]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Mhamamia Antol
+|image        = 
+|caption      = Mhamamia Antol
+|type         = [[Antol]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level        = 35
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Beginner]]''
+|respawn      = No
+|hp           = 210,925
+|strength     = 532
+|healing      = 338
+|dexterity    = 130
+|agility      = 129
+|physdef      = 20%
+|ethdef       = 0%
+|critrate     = 8%
+|guardrate-front = 5%
+|guardrate-side = 5%
+|guardrate-back = 0%
+}}
+The '''Mhamamia Antol''' is a [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]] that is fought at level 35 at Stage 20 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Beginner]]''.
+====Skills====
+The Mhamamia Antol has the following skills:
+*Deals 10% less damage but takes 30% less damage.
+*Boosts Art recharge speed by 25%.
+==== Resistances ====
+{{XC3 Resistances
+|break = 50%
+|topple = 0%
+|daze = 0%
+|burst = 0%
+|launch = 0%
+|smash = 0%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 70%
+|etherdebuff = 70%
+}}
+====Enraged====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 80% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+====Arts====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|130%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Queen Bite'''
+|Physical
+|One Target
+|1
+|250%
+|
+|style="text-align:left;"|
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Queen Bomb'''
+|Physical
+|AOE on Target
+|1
+|270%
+|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2--&gt;
+|'''Queenly Force'''
+|Buff
+|All Allies
+| -
+| -
+|[[Attack Up]] / [[Fast Recharge]]
+|style="text-align:left;"|
+*Immune to all reactions and combos during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Cocoon'''
+|Defense
+|Self
+| -
+| -
+|
+|style="text-align:left;"|
+*Blocks all non-unblockable attacks and reactions during animation.
+*Regenerates 2% of HP every 1.0s during Art.
+|}
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Antols]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ifugtlz4rk2evgw4okkvey7gozquqff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mia Pippito (XC3)</title>
+    <ns>0</ns>
+    <id>121887</id>
+    <revision>
+      <id>559815</id>
+      <parentid>556518</parentid>
+      <timestamp>2022-09-30T10:53:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="862" sha1="b476yftnzysf0gt3hhzq39karaskuaf" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Mia Pippito (XC2)}}
+{{Infobox Enemy
+|name         = Mia Pippito
+|image        = 
+|caption      = Mia Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = ?
+|area         = [[Agnus Castle Barbican]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Mia Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level ? at [[Agnus Castle Barbican]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>b476yftnzysf0gt3hhzq39karaskuaf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Midona Arachno</title>
+    <ns>0</ns>
+    <id>123982</id>
+    <revision>
+      <id>582917</id>
+      <parentid>578746</parentid>
+      <timestamp>2023-04-14T16:33:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>582917</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1092" sha1="eltmuop6zrk0rf9o5f722878p5t7tlt" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Midona Arachno
+|image        = 
+|caption      = Midona Arachno
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Arachno]]
+|level        = 31
+|area         = [[Dannagh Desert (XC3)|Dannagh Desert]] ([[Raptor Perch]])
+|spawntime    = During ''[[Fla'ran's Request]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+The '''Midona Arachno''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. It is a member of the [[Arachno]] family, and is fought at level 31 at [[Raptor Perch]] in [[Dannagh Desert (XC3)|Dannagh Desert]] during ''[[Fla'ran's Request]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>eltmuop6zrk0rf9o5f722878p5t7tlt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mighty Bangle</title>
+    <ns>0</ns>
+    <id>124395</id>
+    <revision>
+      <id>562073</id>
+      <timestamp>2022-10-20T15:05:25Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Created page with "{{Infobox item |name      = Mighty Bangle |image     =  |caption   = Boosts damage dealt when attacking from the front by 30%. |type      = [[Accessory (XC3)|Accessory]] |xc3rarity = Legendary |source    = [[Prize X-change Red]] |sell      = [[Gold|G]] }} '''Mighty Bangles''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s. {{clr}}  {{xc3 stub..."</comment>
+      <origin>562073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="qr8ljci4y24kf46h7czvaaqnw9i1lz4" xml:space="preserve">{{Infobox item
+|name      = Mighty Bangle
+|image     = 
+|caption   = Boosts damage dealt when attacking from the front by 30%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = [[Prize X-change Red]]
+|sell      = [[Gold|G]]
+}}
+'''Mighty Bangles''' are DLC [[Accessory (XC3)|Accessories]] in {{XC3}}. It can be purchased from [[Prize X-change Red]] in the [[Land of Challenge (XC3)|Land of Challenge]] for 6000 [[Noponstone]]s.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3 DLC Items]]
+[[Category:XC3 Item pages needing an infobox image]]</text>
+      <sha1>qr8ljci4y24kf46h7czvaaqnw9i1lz4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Migia Flak</title>
+    <ns>0</ns>
+    <id>121744</id>
+    <revision>
+      <id>598092</id>
+      <parentid>579965</parentid>
+      <timestamp>2023-07-04T14:54:06Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>598092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1076" sha1="9p14x9pikxnskv9t85dwkzqy80d3b6w" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Migia Flak
+|image        = Migia Flak.jpg
+|caption      = Migia Flak
+|category     = Normal Minor Enemy
+|type         = [[Flak]]
+|level        = 65-66
+|area         = [[Origin Interior]] ([[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 2|Ferronis Arsenal #2]], [[Hangar, Upper Level (Origin)|Hangar, Upper Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Migia Flaks''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Flak]] family, and can be found at level 65-66 at [[Ferronis Arsenal 1|Ferronis Arsenal #1]], [[Ferronis Arsenal 2|Ferronis Arsenal #2]], and the [[Hangar, Upper Level (Origin)|Hangar, Upper Level]] in the [[Origin Interior]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Origin Enemies]]
+[[Category:XC3 Flaks]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>9p14x9pikxnskv9t85dwkzqy80d3b6w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Migratory Circe</title>
+    <ns>0</ns>
+    <id>117895</id>
+    <revision>
+      <id>583309</id>
+      <parentid>574527</parentid>
+      <timestamp>2023-04-17T15:55:09Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583309</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1352" sha1="5lks61t93pluwdbh3guq4bbogo8fg6y" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Migratory Circe
+|image        = XC3 Migratory Circe.png
+|caption      = Migratory Circe
+|category     = [[Unique Monster (XC3)|Unique Monster]]
+|type         = [[Flamii]]
+|level        = 14
+|area         = [[Millick Meadows]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 201
+|cp           = 55
+|sp           = 5
+|gold         = 220
+|hp           = 92,300
+|strength     = 198
+|healing      = 117
+|dexterity    = 66
+|agility      = 67
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Migratory Circe''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Flamii]] family and can be found at level 14 in [[Millick Meadows]], southwest&#160;of [[Hillside Ferronis Hulk]]. The [[Soulhacker#Enemy Skills|Just a Moment]] [[Skill (XC3)|Skill]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 25%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Migratory circe location.png
+Migratory circe.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Flamiis]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5lks61t93pluwdbh3guq4bbogo8fg6y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mikaela</title>
+    <ns>0</ns>
+    <id>122349</id>
+    <revision>
+      <id>597754</id>
+      <parentid>596090</parentid>
+      <timestamp>2023-07-02T16:28:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597754</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1405" sha1="d1bziw5972299x144q5y2ysokvekzzi" xml:space="preserve">{{Infobox_NPC
+|name        = Mikaela
+|image       = Strm npc 188 0.png
+|personality = 
+|time_active = Anytime
+|gender      = Female
+|race        = [[Agnus|Agnian]] human
+|age         = 3rd Term
+|location    = [[Erythia Sea]] ([[Colony Mu]])
+}}
+'''Mikaela''' is a NPC in {{XC3}}. Mikaela is from [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Mikaela
+|image        = Mikaela battle.png
+|caption      = Mikaela
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =
+}} 
+'''Mikaela''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. She is an [[Agnus Forces|Agnus Soldier]] who is fought at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>d1bziw5972299x144q5y2ysokvekzzi</sha1>
+    </revision>
+  </page>
+  </mediawiki>

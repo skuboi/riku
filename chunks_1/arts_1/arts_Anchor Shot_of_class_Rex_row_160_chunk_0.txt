@@ -1,0 +1,6 @@
+Art Name: Anchor Shot
+
+Class: Rex
+
+Effect: FrontÊTopple
+

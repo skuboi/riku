@@ -1,0 +1,6 @@
+Art Name: Hammerhead
+
+Class: Ogre
+
+Effect: Side Attack Up
+

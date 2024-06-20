@@ -1,0 +1,6 @@
+Skill Name: In Cold Blood 
+
+Class: Stalker
+
+Skill Buff or Effect:  Boosts damage dealt by 150% when attacking an enemy suffering from Bleed.
+

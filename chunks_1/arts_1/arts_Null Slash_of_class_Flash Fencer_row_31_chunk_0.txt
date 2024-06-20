@@ -1,0 +1,6 @@
+Art Name: Null Slash
+
+Class: Flash Fencer
+
+Effect: AOE/Side Crit. Rate+
+

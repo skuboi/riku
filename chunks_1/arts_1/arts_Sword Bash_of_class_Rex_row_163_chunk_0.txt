@@ -1,0 +1,6 @@
+Art Name: Sword Bash
+
+Class: Rex
+
+Effect: Resistance down
+

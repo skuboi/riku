@@ -1,0 +1,6 @@
+Art Name: Multi Blast
+
+Class: War Medic
+
+Effect: Area heal on hit
+

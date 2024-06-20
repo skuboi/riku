@@ -1,0 +1,6 @@
+Art Name: Maximum Voltage
+
+Class: Ogre
+
+Effect: Unblockable/Atk Up
+

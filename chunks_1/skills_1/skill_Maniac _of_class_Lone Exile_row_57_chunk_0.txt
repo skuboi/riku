@@ -1,0 +1,6 @@
+Skill Name: Maniac 
+
+Class: Lone Exile
+
+Skill Buff or Effect:  Boost damage dealt when attacking higher-level enemies by 50%. [Rank 15 Master Skill]
+

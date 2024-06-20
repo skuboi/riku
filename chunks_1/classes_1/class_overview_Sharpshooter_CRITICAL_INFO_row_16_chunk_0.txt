@@ -1,0 +1,15 @@
+Parent Category: Class (Weapon)
+
+Title: Sharpshooter
+
+Overview:  
+Sharpshooter is a simple attacking class that provides the party with additional damage and buffs.
+
+It is only used by [[Mwamba]], and cannot be inherited by [[Ouroboros]] members. It is one of three classes (and the only class apart from DLC) with this distinction.
+
+Arts: {'Bullet Rush': 'AOE/Unblockable (%)', 'Aero Burst': "Damage to Agnus↑",'Rising Blast': 'Side Attack↑', 'Hair Trigger |Hair Trigger': 'Crit. Rate Up', 'Driving Bullet': 'AOE/Accuracy Up', 'Tri-Shot': 'Damage to Machines↑'}
+
+Class Skills: {'Sniper': 'Boosts Dexterity by 10-30%', 'Power Bullet': 'Boosts damage dealt by 10-30% when HP is at 90% or higher.'}
+
+Hero Exclusive Arts: nan
+

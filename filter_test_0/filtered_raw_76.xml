@@ -1,0 +1,1065 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Weather Dependent Enemy (XC3)</title>
+    <ns>0</ns>
+    <id>123947</id>
+    <revision>
+      <id>600297</id>
+      <parentid>599676</parentid>
+      <timestamp>2023-07-21T10:49:16Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>cat.</comment>
+      <origin>600297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2418" sha1="eap9gey9l54vq71z5l6fxbzqa0kgo2a" xml:space="preserve">{{for|other uses|Weather Dependent Enemy}}
+'''Weather Dependent Enemies''' are enemies in {{XC3}} and {{XC3FR|sublink}}. They only appear during specific&#160;[[Weather (XC3)|weather]] events across [[Aionios]]. Some weather dependent enemies are [[Unique Monster (XC3)|Unique Monsters]] that are stronger than minor enemies.
+
+== {{XC3|-}} ==
+{| class="xc1 sortable" width="100%"
+! Name
+! Level
+! Species
+! Location
+! Spawntime
+! Notes
+|-
+| [[Slack-Jawed Zephal]]
+| 80
+| [[Darbus]]
+| [[Erythia Sea]] ([[Daedal Isle]])
+| Thunderstorm
+|Unique Monster
+|-
+|}
+
+== {{XC3FR|sub}} ==
+{| class="xc1 sortable" width="100%"
+! Name
+! Level
+! Species
+! Location
+! Spawntime
+! Notes
+|-
+| [[Voruk Draigul]]
+| 47
+| [[Draigul]]
+| [[Black Mountains]] ([[Prison Island]])
+| Anytime except during Red Lightning
+|Normal Enemy
+|-
+|[[Grippen Vollgull]]
+|45
+|[[Vollgull]]
+|[[Black Mountains]] 
+([[Argan Cathedral Ruins]], [[Kana Peak]])
+|Anytime except during Red Lightning
+|Normal Enemy
+|-
+|[[Newgate Laia (FR)|Newgate Laia]]
+|47
+|[[Laia]]
+|[[Black Mountains]] ([[Travalga Bridge]])
+|Anytime except during Red Lightning
+|Normal Enemy
+|-
+|[[Snow Pippito]]
+|30
+|[[Pippito]]
+|[[The Ragmos Desolation]]
+|Light Snow
+|Normal Enemy
+|-
+|[[White Pippito]]
+|45
+|[[Pippito]]
+|[[Black Mountains]] ([[Ignia Hill]])
+|Light Snow
+|Normal Enemy
+|-
+|[[Begest Brog]]
+|14
+|[[Brog]]
+|[[Aurora Shelf]] ([[Zalmor's Falls]])
+|Rain
+|Normal Enemy
+|-
+|[[Dark Draigul]]
+|47
+|[[Fogbeast]] [[Draigul]]
+|[[Black Mountains]] ([[Prison Island]])
+|Red Lightning
+|Normal Enemy
+|-
+|[[Sensational Gigapur]]
+|47
+|[[Fogbeast]] [[Laia]]
+|[[Black Mountains]] ([[Gravina Bridge]])
+|Red Lightning
+|Unique Monster
+|-
+|[[Cherys Medooz (XC3)|Cherys Medooz]]
+|30
+|[[Medooz]]
+|[[The Ragmos Desolation]]
+|Thunderstorms
+|Normal Enemy
+|-
+|[[Crane Serprond (XC3)|Crane Serprond]]
+|41
+|[[Serprond]]
+|[[The Ragmos Desolation]] ([[Raguel Lake]])
+|Thunderstorms
+|Normal Enemy
+|-
+|[[Rasheen Garaffa]]
+|31
+|[[Garaffa]]
+|[[The Ragmos Desolation]]
+|Thunderstorms
+|Normal Enemy
+|-
+|[[Thunderfish Duna-Roa]]
+|80
+|[[Ravoon]]
+|[[The Ragmos Desolation]] ([[Raguel Lake]])
+|Thunderstorms in Chapter 5
+|Unique Monster
+|}
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+[[Category:XC3 lists]]
+[[Category:XC3 Enemies]]
+[[Category:XC3 Weather Dependent Enemies]]
+[[Category:XC3FR lists]]
+[[Category:XC3FR Enemies]]
+[[Category:XC3FR Weather Dependent Enemies]]
+[[Category:Weather Dependent Enemies]]
+[[Category:Weather Mechanics]]</text>
+      <sha1>eap9gey9l54vq71z5l6fxbzqa0kgo2a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Well-Plated Zelinka</title>
+    <ns>0</ns>
+    <id>119408</id>
+    <revision>
+      <id>574721</id>
+      <parentid>561707</parentid>
+      <timestamp>2023-01-30T11:16:10Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574721</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1374" sha1="589l9ocqoawyl8x82ipbyotarqgnb53" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Well-Plated Zelinka
+|image        = XC3 Well-Plated Zelinka.png
+|caption      = Well-Plated Zelinka
+|type         = [[Crustip]]
+|level        = 53
+|area         = [[Yzana Plains]] ([[Svinne Cavity]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,596
+|cp           = 109
+|sp           = 5
+|gold         = 987
+|hp           = 914,160
+|strength     = 743
+|ether        = 419
+|dexterity    = 217
+|agility      = 175
+|physdef      = 70%
+|ethdef       = 40%
+|critrate     = 20%
+|guardrate    = 25%
+}}
+'''Well-Plated Zelinka''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Crustip]] family, and can be found at level 53 in&#160;the [[Svinne Cavity]] of [[Yzana Plains]]. The [[Soulhacker#Enemy Skills|Ultranull Shield]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 85%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = Immune
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Well-plated zelinka location.png
+Well-plated zelinka.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Crustips]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>589l9ocqoawyl8x82ipbyotarqgnb53</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wett Upa</title>
+    <ns>0</ns>
+    <id>123013</id>
+    <revision>
+      <id>584709</id>
+      <parentid>584599</parentid>
+      <timestamp>2023-04-22T17:30:55Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>584709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4439" sha1="5yoox1p1qzsn5j7u6e7a9dimg7zvfwm" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Wett Upa
+|image        = 
+|caption      = Wett Upa
+|category     = Minor Enemy
+|type         = [[Upa]]
+|level        = 58-59
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Wett Upas''' are Minor Enemies in {{XC3}}. They are members of the [[Upa]] family, and can be found at level 58-59 in the [[Pentelas Region]], or at [[Cape Arcaphor]] in [[Erythia Sea]].
+{{clr}}
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|tab1         = Minor Enemy
+|name         = Wett Upa
+|image        = 
+|caption      = Wett Upa
+|type         = [[Upa]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Enemy]]
+|level        = 38-142
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Beginner]]''&lt;br&gt;During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = -10%
+|ethdef       = 15%
+|critrate     = 8%
+|guardrate    = 0%
+|tab2         = Inter. Stage 50
+|name2         = Wett Upa
+|image2        = 
+|caption2      = Wett Upa
+|type2         = [[Upa]]
+|movement2     = Ground
+|area2         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2     = [[Challenge Battle Enemy (XC3)|Challenge Battle]] [[Boss (XC3)|Boss]]
+|level2        = 70
+|detection2    = 
+|spawntime2    = During ''[[Gauntlet: Intermediate]]''
+|respawn2      = No
+|hp2           = 603,240
+|strength2     = 442
+|healing2      = 2,173
+|dexterity2    = 258
+|agility2      = 312
+|physdef2      = -10%
+|ethdef2       = 15%
+|critrate2     = 8%
+|guardrate2    = 0%
+}}
+'''Wett Upas''' are [[Challenge Battle Enemy (XC3)|Challenge Battle Enemies]] that can spawn as regular enemies in the [[Archsage's Gauntlet]]. They can appear in the following stages, at the following levels (subject to level adjustment events):
+*Stages 27-29 of ''[[Gauntlet: Beginner]]'', at level 38
+*Stages 31-33 of ''[[Gauntlet: Pro]]'', at level 81
+*Stages 61-63 of ''Gauntlet: Pro'', at level 96
+*Stages 91-93 of ''Gauntlet: Pro'', at level 111
+*Stages 111-113 of ''Gauntlet: Pro'', at level 122
+*Stages 131-133 of ''Gauntlet: Pro'', at level 142
+
+Additionally, two Wett Upas appear as [[Boss (XC3)|Bosses]] alongside a [[Yolmun Drague]], all fought at level 70 on Stage 50 of ''[[Gauntlet: Intermediate]]''.
+=== Minor Enemy Stats ===
+&lt;tabber&gt;
+Lv 38=
+&lt;h3 style="display:none;"&gt;Level 38&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 12,801
+|atk = 343
+|heal = 307
+|dex = 136
+|agil = 171
+}}
+|-|
+Lv 81=
+&lt;h3 style="display:none;"&gt;Level 81&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 120,907
+|atk = 1,168
+|heal = 1,704
+|dex = 303
+|agil = 364
+}}
+|-|
+Lv 96=
+&lt;h3 style="display:none;"&gt;Level 96&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 446,292
+|atk = 2,902
+|heal = 5,613
+|dex = 369
+|agil = 437
+}}
+|-|
+Lv 111=
+&lt;h3 style="display:none;"&gt;Level 111&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 1,112,312
+|atk = 5,272
+|heal = 13,174
+|dex = 423
+|agil = 502
+}}
+|-|
+Lv 122=
+&lt;h3 style="display:none;"&gt;Level 122&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 1,717,791
+|atk = 7,091
+|heal = 19,904
+|dex = 467
+|agil = 555
+}}
+|-|
+Lv 142=
+&lt;h3 style="display:none;"&gt;Level 142&lt;/h3&gt;
+{{XC3 Enemy Stats
+|hp = 2,716,187
+|atk = 9,748
+|heal = 30,448
+|dex = 517
+|agil = 614
+}}
+&lt;/tabber&gt;
+=== Skills ===
+All Wett Upas in the Archsage's Gauntlet have the following skill:
+* Deals 10% less damage but takes 30% less damage.
+Additionally, the boss Wett Upas in ''Gauntlet: Intermediate'' also have the following skill:
+* Boosts Art recharge speed by 50%.
+=== Resistances ===
+{{XC3 Resistances|physdebuff = 35%|etherdebuff = 35%}}
+{{clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:100%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|- &lt;!-- Arts Slot 1 (slot 0 is vacant) --&gt;
+|'''Hypno-Light'''
+|Debuff
+|AOE on Target
+| -
+| -
+|[[Sleep (XC3)|Sleep]]
+|}
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Upas]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5yoox1p1qzsn5j7u6e7a9dimg7zvfwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Where The Heart Is</title>
+    <ns>0</ns>
+    <id>120392</id>
+    <revision>
+      <id>580631</id>
+      <parentid>578565</parentid>
+      <timestamp>2023-03-28T10:58:32Z</timestamp>
+      <contributor>
+        <username>Mario123007</username>
+        <id>25075338</id>
+      </contributor>
+      <origin>580631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1414" sha1="tiqu9emxfo3r0zj0kgzodccafelevvk" xml:space="preserve">{{Infobox quest
+|name        = Where The Heart Is
+|image       = Where_The_Heart_Is.jpg 
+|description = "Rumor has it that a raid on Colony 9 is planned. If true, it can't be ignored. Go there, and help your comrades."
+|giver       = 
+|location    = [[Eagus Wilderness]] ([[Colony 4]])
+|time        = 
+|prereqs     = Departed [[Colony 4]] (Starting Chapter 3)&lt;br/&gt;''Colony 9 Lately'' discussed
+|reclevel    = Lv. 22
+|rewards     = 400 [[Colony 9 (XC3)|Colony 9]] [[Affinity (XC3)|Affinity]]&lt;br/&gt;1440 [[Experience Points (XC3)|EXP]]&lt;br/&gt; 1650 [[Gold|G]]&lt;br/&gt; 10 [[Soul Tree|SP]]&lt;br/&gt; [[Zeon]] as a [[Hero]]
+}}
+'''Where The Heart Is''' is a [[Hero Quest]] in {{XC3}}, dedicated to [[Zeon]].
+
+== Objectives ==
+# ''Head for the specified location(s).''
+#* [[Colony 9 (XC3)|Colony 9]]
+# ''Defeat the specified foe(s).''
+#* Colony 9 Expedition (4)
+# ''Head for the specified location(s).''
+#* [[Colony 9 Command]]
+# ''Head for the specified location(s).''
+#* [[Everblight Plain]]
+# ''Defeat the specified foe(s).''
+#* Agnus Strike Force (15)
+# ''Head for the specified location(s).''
+#* [[Colony 9 Front Gate]]
+# ''Defeat the specified foe(s).''
+#* [[B#Battle|Moebius B]]
+
+== Results ==
+''"Through helping him escape the bondage of Moebius, Noah formed a deep bond with Zeon. He will make for a very capable ally."''
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Hero Quests]]
+[[Category:Zeon]]
+[[Category:Fornis Region Quests]]</text>
+      <sha1>tiqu9emxfo3r0zj0kgzodccafelevvk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Whirlwind Necklace</title>
+    <ns>0</ns>
+    <id>119027</id>
+    <revision>
+      <id>592903</id>
+      <parentid>592352</parentid>
+      <timestamp>2023-05-15T20:20:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1068" sha1="18o38wpeohbuz1gbmo0u42wo7std2en" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Whirlwind Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 10% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Whirlwind Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 15% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Whirlwind Necklace
+|image     = XC3 Accessory Choker.png
+|caption   = Boosts damage dealt by 20% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1920 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Whirlwind Necklaces''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>18o38wpeohbuz1gbmo0u42wo7std2en</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Whistling Blades</title>
+    <ns>0</ns>
+    <id>117812</id>
+    <revision>
+      <id>591906</id>
+      <parentid>591673</parentid>
+      <timestamp>2023-05-14T14:36:40Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591906</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="535" sha1="52ueuf8g81lq3r6rqu8lxey75hqg2m0" xml:space="preserve">{{Infobox battle art
+|name        = Whistling Blades
+|image       = Strm_order_thumb025_0.png
+|who         = [[Alexandria]]
+|class       = [[Incursor]]
+|attribute   = Physical
+|target      = 
+|distance    = 
+|numhits     = 5
+|power       = ?-?
+|aggro       = 
+|knockback   = 
+|effect      = During Chain Attack, increases Critical Rate by 25/30 percentage points
+|duration    = 
+|recharge    = 
+}}
+'''Whistling Blades''' is [[Alexandria]]'s [[Battle Arts (XC3)|Chain Art]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>52ueuf8g81lq3r6rqu8lxey75hqg2m0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>White Belt (XC3)</title>
+    <ns>0</ns>
+    <id>119028</id>
+    <revision>
+      <id>592904</id>
+      <parentid>592577</parentid>
+      <timestamp>2023-05-15T20:20:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1013" sha1="35pwalfnm2ld74ib7xyoiggk5ug626f" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|White Belt (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = White Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 15%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = White Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 16%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = White Belt
+|image     = XC3 Accessory Belt.png
+|caption   = Extends Topple duration by 17%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''White Belts''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>35pwalfnm2ld74ib7xyoiggk5ug626f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>White Wraps</title>
+    <ns>0</ns>
+    <id>119029</id>
+    <revision>
+      <id>592905</id>
+      <parentid>592325</parentid>
+      <timestamp>2023-05-15T20:20:59Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592905</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1060" sha1="k464p40q4i251a40b960o8u4la6uccw" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = White Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 50%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = White Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 55%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = White Wraps
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts damage dealt when attacking launched enemies by 60%.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 4070 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''White Wraps''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>k464p40q4i251a40b960o8u4la6uccw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wicked Wolf Aranqui</title>
+    <ns>0</ns>
+    <id>117521</id>
+    <revision>
+      <id>574722</id>
+      <parentid>574305</parentid>
+      <timestamp>2023-01-30T11:19:28Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <origin>574722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1454" sha1="ttvyqzsd6sijb4csltnbhaccuc0719p" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Wicked Wolf Aranqui
+|image        = XC3 Wicked Wolf Aranqui.png
+|caption      = Wicked Wolf Aranqui
+|category     = [[Unique Monster (XC3)|Unique Monster]]
+|type         = [[Vvarga]]
+|level        = 70
+|area         = [[Millick Meadows]] ([[Fuschian Fields]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    =
+|exp          = 3,556
+|cp           = 182
+|sp           = 5
+|gold         = 1,967
+|hp           = 3,473,200
+|strength     = 1,451
+|healing      = 399
+|dexterity    = 294
+|agility      = 254
+|physdef      = 5%
+|ethdef       = -10%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Wicked Wolf Aranqui''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Vvarga]] family and can be found at level 70 at [[Fuschian Fields]] in [[Millick Meadows]], accessible after entering [[Origin]] for the first time. The [[Thunderclap (XC3)|Thunderclap]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = Immune
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Wicked wolf aranqui location.png
+Wicked wolf aranqui.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Vvargas]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>ttvyqzsd6sijb4csltnbhaccuc0719p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Widdershins Radler</title>
+    <ns>0</ns>
+    <id>119478</id>
+    <revision>
+      <id>574730</id>
+      <parentid>574723</parentid>
+      <timestamp>2023-01-30T12:54:31Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1338" sha1="lymwwhr1ym1hrh8y5cty4h1qehkc79a" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Widdershins Radler
+|image        = XC3 Widdershins Radler.png
+|caption      = Widdershins Radler
+|type         = [[Eluca]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Anu Shoals]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,030
+|cp           = 72
+|sp           = 5
+|gold         = 700
+|hp           = 1,257,100
+|strength     = 1,001
+|healing      = 440
+|dexterity    = 149
+|agility      = 105
+|physdef      = 0%
+|ethdef       = 30%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Widdershins Radler''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Eluca]] family, and can be found at level 48 at [[Anu Shoals]] in the [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Awakilling]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 50%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Widdershins radler location.png
+Widdershins radler.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Elucas]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>lymwwhr1ym1hrh8y5cty4h1qehkc79a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Widow</title>
+    <ns>0</ns>
+    <id>123787</id>
+    <revision>
+      <id>597884</id>
+      <parentid>596179</parentid>
+      <timestamp>2023-07-02T16:37:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597884</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1858" sha1="3817qpbh2soqhjriqj6irae6b0khyoa" xml:space="preserve">{{Infobox_NPC
+|name        = Widow
+|image       = Widow.png
+|personality = 
+|time_active = Anytime
+|gender      = Female
+|race        = 
+|age         = 8th Term
+|location    = [[Syra Hovering Reefs]] ([[Colony 11]])
+}}
+'''Widow''' is a NPC in {{XC3}}. Widow can be found in [[Colony 11]].
+
+== Overview ==
+Widow is a part of Colony 11's assault squad, alongside [[Strider]] under the command of their captain [[Zoren]]. She is the squad's sniper, and known for rather unsettling behavior, being the most eager to kill [[Colony Lambda]] soldiers during their squad's attempt to battle with  them, and smelling [[Eunie]] up close to tell if she was lying.
+
+== Affinity ==
+* [[Strider]]
+* [[Zoren]]
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Widow
+|image        = 
+|caption      = Widow
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Keves Forces]]
+|level        = 66
+|area         = [[Syra Hovering Reefs]] ([[Colony 11, Training Pit]])
+|spawntime    = During ''[[Festival of War]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Widow''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is a [[Keves Forces|Keves Soldier]] fought at level 66 in the [[Colony 11, Training Pit]] at [[Syra Hovering Reefs]] during ''[[Festival of War]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Keves Castle Region NPCs]]
+[[Category:XC3 Kevesi]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>3817qpbh2soqhjriqj6irae6b0khyoa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wind Bracelet</title>
+    <ns>0</ns>
+    <id>119030</id>
+    <revision>
+      <id>592906</id>
+      <parentid>592436</parentid>
+      <timestamp>2023-05-15T20:21:01Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592906</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1057" sha1="34w5hz3pn7s8r1bcucqidr2wx76xzhx" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Wind Bracelet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Master Arts will be 40% charged when starting a battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3370 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Wind Bracelet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Master Arts will be 45% charged when starting a battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3370 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Wind Bracelet
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Master Arts will be 50% charged when starting a battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3370 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Wind Bracelets''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>34w5hz3pn7s8r1bcucqidr2wx76xzhx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wind Leg Frame</title>
+    <ns>0</ns>
+    <id>119031</id>
+    <revision>
+      <id>592907</id>
+      <parentid>592343</parentid>
+      <timestamp>2023-05-15T20:21:03Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1068" sha1="304frkz7zbt1ud9wbjotn0olmce78dh" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Wind Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boost damage dealt by 20% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 3030 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Wind Leg Frame
+|image     = XC3 Accessory Boot.png
+|caption   = Boost damage dealt by 25% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 3030 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Wind Leg Frame
+|image     = XC3 Accessory Boot.png 
+|caption   = Boost damage dealt by 30% for the first 30 seconds of battle.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 3030 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Wind Leg Frames''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>304frkz7zbt1ud9wbjotn0olmce78dh</sha1>
+    </revision>
+  </page>
+  </mediawiki>

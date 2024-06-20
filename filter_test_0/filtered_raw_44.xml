@@ -1,0 +1,2947 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mina</title>
+    <ns>0</ns>
+    <id>121026</id>
+    <revision>
+      <id>597755</id>
+      <parentid>596091</parentid>
+      <timestamp>2023-07-02T16:28:08Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597755</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1474" sha1="1ze18l9oequs8nlat50tqyknw638vs6" xml:space="preserve">{{Infobox NPC
+|name        = Mina
+|image       = XC3_Mina.png
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Agnus|Agnian]] human
+|age         = 6th Term
+|location    = [[Melnath's Shoulder (XC3)|Melnath's Shoulder]] ([[Colony Gamma]])
+}}
+'''Mina''' is an NPC in {{XC3}} who can be found in [[Colony Gamma]].
+
+== Overview ==
+Mina is part of Team [[Zakir]] alongside [[Schoon]].
+
+== Affinity ==
+* [[Zakir]]
+* [[Schoon]]
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Mina
+|image        = 
+|caption      = Mina
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]]
+|type         = [[Agnus Forces]]
+|level        = ?
+|area         = [[Everblight Plain]]
+|spawntime    = During ''[[Shadow of Enmity]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mina''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] in {{XC3}}. She is an [[Agnus Forces|Agnus Soldier]] who is fought at level ? at [[Everblight Plain]] during ''[[Shadow of Enmity]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Aetia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>1ze18l9oequs8nlat50tqyknw638vs6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mindkiller Merigna</title>
+    <ns>0</ns>
+    <id>121841</id>
+    <revision>
+      <id>559818</id>
+      <parentid>546961</parentid>
+      <timestamp>2022-09-30T10:53:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559818</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="814" sha1="f32zori3ltdmd25tsf4qitbpph1a3vz" xml:space="preserve">{{Infobox Enemy
+|name         = Mindkiller Merigna
+|image        = 
+|caption      = Mindkiller Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Mindkiller Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>f32zori3ltdmd25tsf4qitbpph1a3vz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Minstrel Gulkin</title>
+    <ns>0</ns>
+    <id>121842</id>
+    <revision>
+      <id>559819</id>
+      <parentid>546962</parentid>
+      <timestamp>2022-09-30T10:53:28Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="cx01qe0k8z1kwgvrdt0at7y1dt2sp8a" xml:space="preserve">{{Infobox Enemy
+|name         = Minstrel Gulkin
+|image        = 
+|caption      = Minstrel Gulkin
+|category     = Minor Enemy
+|type         = [[Gulkin]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Minstrel Gulkins''' are Minor Enemies in {{XC3}}. They are members of the [[Gulkin]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Gulkins]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>cx01qe0k8z1kwgvrdt0at7y1dt2sp8a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Minstrel Igna</title>
+    <ns>0</ns>
+    <id>121701</id>
+    <revision>
+      <id>559820</id>
+      <parentid>557283</parentid>
+      <timestamp>2022-09-30T10:53:30Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="856" sha1="pwiydiza0a94gdfz1uinzbgvlertwlt" xml:space="preserve">{{Infobox Enemy
+|name         = Minstrel Igna
+|image        = 
+|caption      = Minstrel Igna
+|category     = Minor Enemy
+|type         = [[Igna]]
+|level        = ?
+|area         = [[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Minstrel Ignas''' are Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level ? at [[Syra Hovering Reefs]] in the [[Keves Castle Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>pwiydiza0a94gdfz1uinzbgvlertwlt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Minstrel Merigna</title>
+    <ns>0</ns>
+    <id>123225</id>
+    <revision>
+      <id>559821</id>
+      <parentid>553555</parentid>
+      <timestamp>2022-09-30T10:53:32Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559821</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="793" sha1="7m2j01w64dfgr9m3d9k0mp6q0wi6g1m" xml:space="preserve">{{Infobox Enemy
+|name         = Minstrel Merigna
+|image        = 
+|caption      = Minstrel Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Cadensia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Minstrel Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>7m2j01w64dfgr9m3d9k0mp6q0wi6g1m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mint Potpourri (XC3)</title>
+    <ns>0</ns>
+    <id>118980</id>
+    <revision>
+      <id>566833</id>
+      <parentid>558945</parentid>
+      <timestamp>2022-11-23T06:22:54Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <minor/>
+      <origin>566833</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1001" sha1="1jq6okfu3wo18lp1n62pjc0ij6miw03" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Mint Potpourri (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Mint Potpourri
+|image     = File:XC3 Accessory Pack.png
+|caption   = Grants 60% resistance to Target Lock.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Mint Potpourri
+|image     = File:XC3 Accessory Pack.png
+|caption   = Grants 65% resistance to Target Lock.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Mint Potpourri
+|image     = File:XC3 Accessory Pack.png
+|caption   = Grants 70% resistance to Target Lock.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 7160 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Mint Potpourris''' are [[Accessory (XC3)|Accessories]] in {{XC3}}.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Accessories]]</text>
+      <sha1>1jq6okfu3wo18lp1n62pjc0ij6miw03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mio</title>
+    <ns>0</ns>
+    <id>116336</id>
+    <revision>
+      <id>600142</id>
+      <parentid>597756</parentid>
+      <timestamp>2023-07-20T12:29:30Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>600142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22099" sha1="ocp9jb3i7q972taptxr3fwp0nzr7vgq" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Mio
+|image        = Mio portrait.png
+|species      = [[Agnus|Agnian]] human
+|gender       = Female
+|age          = 10th Term&lt;ref&gt;Prior to switching bodies with M&lt;/ref&gt;
+|haircolor    = White
+|eyecolor     = Gold
+|affiliation  = [[Colony Theta]] (formerly)&lt;br/&gt;[[Colony Omega]] (formerly)&lt;br/&gt;[[Colony Gamma]] (formerly)
+|voiceactorjp = [[wikipedia:Minami_Tsuda|Minami Tsuda]]
+|voiceactoreng= [[wikipedia:Aimee-Ffion Edwards|Aimee-Ffion Edwards]]
+|appearances  = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+{{quote|Finding a path that lets us all live, I will make that my mission.|Mio}}
+'''Mio''' (Japanese: {{lang|ja|&#12511;&#12458;}}, ''Mio'') is a playable character and, along with [[Noah]], a protagonist of {{XC3}}.&lt;ref&gt;https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Xenoblade-Chronicles-3-2168340.html&lt;/ref&gt; 
+
+== Overview ==
+Mio is a soldier of [[Agnus]] and from [[Colony Gamma]] along with [[Sena]] and [[Taion]]. She is an [[off-seer]] who was initially working for Colony Gamma's arms expansion force.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1531888805162397696&lt;/ref&gt; Mio is an Agnian human with [[Flesh Eater]] [[Blade (XC2)|Blade]] and [[Gormotti]] traits.
+
+== Personality ==
+Mio is serious and gentle, and writes in a diary as a hobby. She is on her tenth [[Term]] and has about three more months left to live by the time she meets Noah; consequently, the question of her legacy weighs deeply on her. Despite seeming calm and unconcerned about her impending death, she is in fact deeply distraught by it and merely hides her anxiety from others. She is further burdened by [[Miyabi]]'s sacrifice to save her life, especially since she was the older of the two. 
+
+== Story ==
+=== Previous Lives ===
+Prior to the merging of the two worlds and the creation of [[Aionios]], the original Mio lived in [[Alrest]]. As part of the [[Origin]] system, Mio was repeatedly reborn in Aionios as a soldier of Agnus. One incarnation of her would seek to end the cycle of war with her lover Noah, with the two of them having a son named [[Ghondor (FR)|Ghondor]], but ended up passing away. Through some strange accident, her hopes and ideals managed to be reborn once more as "Mio" while her guilt for becoming [[Moebius]] coalesced into the [[Consul]] [[M]].
+
+=== Early Terms ===
+An unknown amount of time later, an incarnation of Mio was reborn and assigned to [[Colony Theta]] along with [[Sena]] who she became close friends with. At some point, she was partnered with [[Miyabi]] as an [[Off-seer]] unit, which she initially was not pleased about. However, she eventually grew to embrace her position as off-seer and became close with Miyabi.
+
+Around her fifth term, she, along with Sena, Miyabi, and most of Colony Theta, were transferred to [[Colony Omega]] by Consul [[Y]], where they were subjected to daily examinations to further Y's research. One day, an accident caused toxic gas to be released from the colony's [[Flame Clock]]. Mio and Sena were carried to an escape pod by Miyabi, who gave Mio her off-seer [[Flute]], before an explosion happened.
+
+At some point later, Mio and Sena were transferred to [[Colony Gamma]], where they would be paired up with [[Taion]], [[Hackt]], and [[Manana]], and become good friends with [[Kyrie]].
+
+=== Becoming Ouroboros ===
+Mio, Sena, and Taion are given a special mission to intercept a mysterious airship in [[Alfeto Valley]]. Mio and her team arrive at the airship's [[Gura Flava Lowlands|crash site]] at the same time as Noah, [[Lanz]], and [[Eunie]]. As they battle, the airship's sole survivor, [[Guernica Vandham]], intervenes and stops the fighting, claiming he knows their "true enemy". However, he is shot by a [[Moebius D &amp; J|Moebius]], who, after killing both Hackt and [[Mwamba]], attacks Mio and Noah's teams and quickly gains the upper hand until Guernica activates the [[Ouroboros Stone]] he was smuggling, imbuing Mio and Noah's teams with its power and making them [[Ouroboros]]. Mio and Noah then inadvertently [[Interlink]], forcing the Moebius to retreat, and a mortally wounded Guernica instructs the party to head for the [[City]] at [[Swordmarch]] where they can find answers. Mio and her team then attempt to return to Colony Gamma, but are attacked by their former comrades. They decided to return to the crash site, where they decided to work together with Noah and his team. 
+
+== Gameplay ==
+In battle, her speed allows her to easily evade attacks while dishing out damage with her [[Blade (XC3)|Dual Moonblades]], which are weapons similar to [[Nia]]'s [[Weapons (XC2)|Twin Rings]] with yellow energy blades along their edges. Her initial [[Class (XC3)|class]] is [[Zephyr]], a [[Defender (XC3)|Defender]] class. In Chapter 6, Mio gains access to a unique [[Battle Arts (XC3)|Talent Art]] known as [[Dominion Flower]].
+
+In a [[Chain Attack (XC3)|Chain Attack]], Mio starts with 25 TP by default. Her Chain Art is [[Lightning Quick]], which reduces Attacker and Healer aggro by 60-100% (depending on her level) upon completing her order.
+
+Mio starts at Rank 8 in her initial Zephyr class, and has a common [[Gear Support]] equipped when in the player's party for the first time.
+
+=== Base Stats ===
+These are Mio's raw stats prior to modifications by class. They serve as a baseline for calculating Mio's stats in a class. Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 338 || 18 || 17 || 31 || 23
+|-
+| 99 || 6,754 || 361 || 341 || 306 || 234
+|}
+
+=== General Stats ===
+These stats assume Mio is at level 99, at rank 20 in each of these respective classes, and is not equipping any [[Skill (XC3)|Master Skills]], [[Gem]]s or [[Accessory (XC3)|Accessories]]. Boosts from skills innate to a class are indicated with round brackets, whereas boosts from having an [[Blade Upgrade|upgraded Blade]] are indicated with square brackets.
+{| class="xc1 centered" width="100%"
+! Class !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|[[Swordfighter]]||5,065||990||119||367 (+183)||198||20% (+10%)||10%||15%||15%
+|-
+|[[Zephyr]]||7,429||794 [+105]||85||321||304 (+91)||20% [+4%]||35% [+7%]||35%||50% (+15%)
+|-
+|[[Medic Gunner]]||4,052||658||409 (+15)||321||175||10%||10%||15%||25%
+|-
+|[[Tactician]]||4,390||692||392||336||187||10%||15%||10%||30%
+|-
+|[[Heavy Guard]]||8,780||822||85||306||175||8%||35%||50% (+10%)||35%
+|-
+|[[Ogre]]||5,403||1,053||85||306||198||20%||15%||20%||10%
+|-
+|[[Flash Fencer]]||5,065||982||85||367||257||30%||8%||15%||15%
+|-
+|[[War Medic]]||4,052||646||426||367||175||6%||8%||15%||25%
+|-
+|[[Guardian Commander]]||8,104||778||119||321||175||8%||40%||50%||35%
+|-
+|[[Thaumaturge]]||5,065||804||375||367||175||24%||12%||10%||30%
+|-
+|[[Yumsmith]]||5,403||941||119||397||175||20%||20%||15%||15%
+|- 
+|[[Full Metal Jaguar (XC3)|Full Metal Jaguar]]||4,727||946||153||397||257||10%||10%||15%||15%
+|-
+|[[Strategos]]||4,390||717||392||336||198||15%||6%||10%||30%
+|-
+|[[Stalker]]||4,727||951||85||397||304||30%||6%||15%||15%
+|-
+|[[Lone Exile]]||7,429||876||51||336||292||24%||30%||35%||50%
+|-
+|[[Incursor]]||5,065||1,008||68||321||234||35%||6%||20%||10%
+|-
+|[[Lost Vanguard]]||8,442||807||119||367||210||20%||45%||50%||35%
+|-
+|[[Signifer]]||4,052||820||255||321||210||16%||16%||10%||30%
+|-
+|[[Soulhacker]]&lt;br&gt;&lt;small&gt;(Power Soul)&lt;/small&gt;||5,065||1,049||51||321||175||15%||25%||20%||10%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Strike Soul)&lt;/small&gt;||5,065||995||102||367||222||15%||25%||15%||15%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Tough Soul)&lt;/small&gt;||8,442||922||51||290||152||15%||25%||45%||35%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Dodge Soul)&lt;/small&gt;||7,429||922||51||321||280||15%||25%||35%||45%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Heal Soul)&lt;/small&gt;||4,727||850||341||336||210||15%||25%||10%||30%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Balanced Soul)&lt;/small&gt;||4,390||904||255||321||210||15%||25%||10%||30%
+|-
+|[[Martial Artist]]||5,065||951||85||367||280||36%||16%||15%||15%
+|-
+|[[Troubadour]]||3,714||648||392||336||234||16%||8%||10%||30%
+|-
+|[[Seraph]]||5,403||1,130||51||306||198||25%||10%||20%||20%
+|-
+|[[Machine Assassin]]||5,403||1,086||85||367||175||30%||20%||20%||10%
+|-
+|[[Lifesage]]||4,390||829||443||367||257||20%||30%||15%||25%
+|-
+|[[Royal Summoner]]||4,390||1,140||204||397||257||30%||10%||15%||15% (+3%)
+|-
+|[[Noponic Champion]]||8,104||861||0||367||304||15%||35%||45%||40%
+|-
+|[[Lapidarist]]||3,714||837||409||351||257||35% (+7%)||6%||10%||15%
+|}
+
+== Ouroboros ==
+[[File:Ouroboros Mio.png|thumb|Mio's Ouroboros]]
+After becoming [[Ouroboros]], Mio is able to [[Interlink]] with [[Noah]]. When Mio is in control, she is able to use arts that deal heavy damage and provide increased evasion.
+
+=== Base Stats ===
+These are Mio's Ouroboros's raw stats. The experience level of the Ouroboros which determines its stats (contrary to any displayed level in menus) is the average of Noah and Mio's experience levels (fractions are rounded up).
+{| class="xc1 centered" width="100%"
+! Level !! Attack !! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate
+|-
+| 1, no Soul Tree || 47 || 22 || 39 || 30 || 25% || 30%
+|-
+| 99, no Soul Tree || 1,203 || 444 || 387 || 302 || 35% || 40%
+|-
+| 99, complete Soul Tree || 1,849 || 444 || 387 || 412 || 55% || 40%
+|}
+=== Arts ===
+* [[Resonant Edge]] ([[Battle Arts (XC3)|Talent Art]]) - Party evade/KO wounded
+* [[Deadly Twister (XC3)|Deadly Twister]] - Evade
+* [[Shining Halo]] - Interlink Lv. 3: [[Daze (XC3)|Daze]] all
+* [[Jaguar Slash (XC3)|Jaguar Slash]] - [[Bleed (XC3)|Bleed]] / Blowdown
+* [[Dual Fang (XC3)|Dual Fang]] - AOE/Extend combo time
+* [[Radiant Ring]] - AOE / Target Lock
+* [[Full Moon Drop]] - Interlink Lv. 3: [[Break (XC3)|Break]] all
+
+Mio's Ouroboros [[Chain Attack (XC3)|Chain Art]] is [[Death of 1,000 Cuts]], which greatly increases damage ratio and reduces [[Attacker]] and [[Healer]] aggro.
+
+=== Skills ===
+* '''Biting Back''', Evading deals 100-200% of Attack damage and boosts damage dealt by 10-20% (up to max. of 300%).
+* '''Eyes on the Prize''', 5-10% chance to evade enemy attack.
+* '''Subtle Strike''', 30-50% chance on hit to deal 200% of Attack power as defense-bypassing damage.
+* '''Clearsight''', Boosts evasion rate by 20-30% when attacked by targeted enemy.
+
+=== Soul Tree ===
+Below is an image showing the layout of Mio's Ouroboros [[Soul Tree]].
+[[File:XC3 Soul Tree Mio.jpeg|center|550px]]
+{{Clr}}&lt;br&gt;
+The below table contains a detailed breakdown of all nodes within the Soul Tree.
+
+''Note: Columns are numbered from left to right, i.e. column 1 is the leftmost column, and column 8 is the rightmost column. Nodes are listed in order of increasing column number, from top to bottom, ignoring order of unlocking.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:5%;"| Node
+!style="width:10%;"| Icon
+!style="width:20%;"| Name
+!style="width:35%;"| Description
+!style="width:20%;"| Prerequisite
+!style="width:10%;"| Cost
+|-
+!colspan="6"|Column 1
+|-
+|1
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Agility Plus
+|Increases Agility by 15.
+|''None''
+|15 SP
+|-
+!colspan="6"|Column 2
+|-
+|2
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Subtle Strike
+|30% chance on hit to deal 100% of Attack power as defense-bypassing damage.
+|"Agility Plus" (Node 1)
+|35 SP
+|-
+|3
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|"Agility Plus" (Node 1)
+|20 SP
+|-
+|4
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Eyes on the Prize
+|5% chance to evade enemy attack.
+|"Agility Plus" (Node 1)
+|35 SP
+|-
+!colspan="6"|Column 3
+|-
+|5
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Clearsight
+|Boosts evasion rate by 20% when attacked by targeted enemy.
+|"Attack Up" (Node 11)
+|55 SP
+|-
+|6
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Radiant Ring
+|AOE / Target Lock
+|"Subtle Strike" (Node 2) ''or'' "Attack Up" (Node 11)
+|40 SP
+|-
+|7
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Biting Back
+|Evading deals 100% of Attack damage and boosts damage dealt by 10% (up to max. of 300%).
+|"Attack Plus" (Node 3) ''or'' "Agility Up" (Node 12)
+|40 SP
+|-
+|8
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Dual Fang
+|AOE/Extend combo time
+|"Eyes on the Prize" (Node 4) ''or'' "Critical Plus" (Node 13)
+|40 SP
+|-
+|9
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Full Moon Drop
+|Interlink Lv3: Break all
+|"Heat Control: Time" (Node 14)
+|70 SP
+|-
+!colspan="6"|Column 4
+|-
+|10
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 75.
+|"Attack Up" (Node 11) ''or'' "Dual Fang" (Node 15)
+|25 SP
+|-
+|11
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 20%.
+|"Radiant Ring" (Node 6) ''or'' "Attack Plus" (Node 10) ''or'' "Agility Up" (Node 12)
+|25 SP
+|-
+|12
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Agility Up
+|Boosts Agility by 10%.
+|"Biting Back" (Node 7) ''or'' "Attack Up" (Node 11) ''or'' "Agility Plus" (Node 16)
+|25 SP
+|-
+|13
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 15 percentage points.
+|"Dual Fang" (Node 8) ''or'' "Critical Up" (Node 19)
+|25 SP
+|-
+|14
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Critical Up" (Node 19)
+|60 SP
+|-
+!colspan="6"|Column 5
+|-
+|15
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Dual Fang
+|AOE/Extend combo time
+|"Dual Fang" (Node 8) ''and'' "Attack Plus" (Node 10) ''or'' "Agility Plus" (Node 16)
+|150 SP
+|-
+|16
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Agility Plus
+|Increases Agility by 20.
+|"Agility Up" (Node 12) ''or'' "Dual Fang" (Node 15) ''or'' "Radiant Ring" (Node 21)
+|30 SP
+|-
+|17
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, but doing so will fill up the heat gauge slightly.
+|"Deadly Twister" (Node 18) ''or'' "Attack Plus" (Node 22)
+|150 SP
+|-
+|18
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Deadly Twister
+|Evade
+|"Unlock Arts Canceling" (Node 17) ''or'' "Critical Up" (Node 19)
+|150 SP
+|-
+|19
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 15%.
+|"Critical Plus" (Node 13) ''or'' "Deadly Twister" (Node 18)
+|30 SP
+|-
+!colspan="6"|Column 6
+|-
+|20
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Eyes on the Prize
+|10% chance to evade enemy attack.
+|"Heat Control: Time" (Node 25)
+|210 SP
+|-
+|21
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Radiant Ring
+|AOE / Target Lock
+|"Radiant Ring" (Node 6) ''and'' "Agility Plus" (Node 16) ''or'' "Attack Up" (Node 22)
+|150 SP
+|-
+|22
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 25%.
+|"Unlock Arts Canceling" (Node 17) ''or'' "Radiant Ring" (Node 21)
+|35 SP
+|-
+|23
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Shining Halo
+|Interlink Lv3: Daze all
+|"Heat Control: Time" (Node 29)
+|190 SP
+|-
+|24
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Full Moon Drop
+|Interlink Lv3: Break all
+|"Full Moon Drop" (Node 9) ''and'' "Critical Up" (Node 19)
+|150 SP
+|-
+!colspan="6"|Column 7
+|-
+|25
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Biting Back" (Node 26)
+|80 SP
+|-
+|26
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Biting Back
+|Evading deals 200% of Attack damage and boosts damage dealt by 20% (up to max. of 300%).
+|"Biting Back" (Node 7) ''and'' "Radiant Ring" (Node 21)
+|170 SP
+|-
+|27
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Clearsight
+|Boosts evasion rate by 30% when attacked by targeted enemy.
+|"Clearsight" (Node 5) ''and'' "Shining Halo" (Node 23)
+|210 SP
+|-
+|28
+|[[File:XC3 Soul Tree Enhance Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Resonant Edge
+|Party evade/KO wounded
+|"Subtle Strike" (Node 33)
+|230 SP
+|-
+|29
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Full Moon Drop" (Node 29)
+|65 SP
+|-
+!colspan="6"|Column 8
+|-
+|30
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Jaguar Slash
+|Bleed / Blowdown
+|"Heat Control: Arts Canceling" (Node 31)
+|210 SP
+|-
+|31
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Biting Back" (Node 26)
+|80 SP
+|-
+|32
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Clearsight" (Node 27)
+|85 SP
+|-
+|33
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Subtle Strike
+|50% chance on hit to deal 200% of Attack power as defense-bypassing damage.
+|"Subtle Strike" (Node 2) ''and'' "Agility Up" (Node 34)
+|235 SP
+|-
+|34
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Agility Up
+|Boosts Agility by 15%.
+|"Heat Control: Time" (Node 29)
+|40 SP
+|}
+
+== Battle ==
+* [[Agnus Defender (boss)|Agnus Defender]]
+
+== Merchandise ==
+[[File:XC3 Mio Figure.jpg|thumb|180px|Mio Figma]]
+Following [[Pyra]], [[Mythra]], [[KOS-MOS]] and [[Melia]] figures, Good Smile Company has announced two Mio figures during the Smile Fest 2022, a 1/7 scale figure and a figma both based on her Zephyr outfit. The figma is set to be released in February 2024. &lt;ref&gt;https://twitter.com/GoodSmile_US/status/1555705471297851392&lt;/ref&gt;&lt;ref&gt;https://gallery.smilefest.com/tokyo2022/en/images/450&lt;/ref&gt;
+{{clr}}
+
+=== amiibo ===
+An [[Amiibo]] of Mio was announced on April 18, 2023.&lt;ref&gt;[https://twitter.com/NintendoAmerica/status/1648500990788915200?s=20]&lt;/ref&gt;
+{{clr}}
+
+== Trivia ==
+* It is implied in [[Nia]]'s [[Hero Quest|Ascension Quest]] that Mio may be related to Nia in some way, probably her daughter, which is reinforced by their similar appearance and the color of their Core Crystals. This is further supported in {{XC3FR|sublink}}, when [[Rex]] explains how Core Crystals are dominant hereditary traits.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Mio Artwork.png|Official Artwork
+XC3 Mio as a Zephyr.jpg|Mio as a Zephyr
+XC3 Mio Noah Twin Rings Blade Art.webp|Mio and Noah as Zephyrs
+XC3 Noah Mio Sword Blade Art.webp|Mio and Noah as Swordfighters
+Ouroboros Fusion Artwork.jpg|Artwork of Mio and Noah Interlinking
+Mio using Noah Arts Artwork.webp|Artwork of Mio as a Swordfighter
+XC3 Class Change.jpg|Swordfighter to Zephyr Class Change for Noah and Mio
+XC3 Mio Launch Celebration Artwork.jpg|Official Artwork of Mio to commemorate the launch of {{XC3|-}}
+XC3 Mio Twitter.jpg|Artwork of Mio by Masatsugu Saito to celebrate the launch of {{XC3|-}}
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruiting artwork of Mio and Noah in a town
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+Mio Concept 1.png|Mio Concept Art
+Mio Concept 2.png
+Mio Concept 3.png
+Mio Concept 4.png
+Mio Ouroboros Concept 1.png|Mio's Ouroboros Form Concept Art
+Mio Ouroboros Concept 2.png
+Mio Ouroboros Concept 3.png
+Mio Ouroboros Concept 4.png
+Weapon Concept 1.png|Concept Art of Mio's Blade
+Weapon Concept 2.png
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Mio Hero Icon.png|Hero List Icon
+Mio Chain Art Icon.png
+Mio Chain Art Icon 2.png|Mio's Chain Order Icon (Long Hair)
+Mio Ouroboros Chain Art Icon.png|Mio's Ouroboros Order Icon
+Mio Ouroboros Chain Art Icon 2.png|Mio's Ouroboros Order Icon (Long Hair)
+Mio Level Up Art.png|Mio's Level Up Art
+Mio Level Up Art 2.png|Mio's Level Up Art (Long Hair)
+Mio Level Up Art 3.png|Mio's Level Up Art (Military Uniform)
+Icon chara 1.png
+Icon chara 32.png
+Icon chara 27.png
+Icon chara battle 1.png
+Icon chara battle 34.png
+Icon chara battle 29.png
+Strm ch thumb002 0.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Title Screen Without Logo.jpeg|Mio and Noah overlooking Swordmarch and the Urayan Mountains
+XC3 Mio MidBattle Screenshot.jpeg|Mio fighting in battle
+Noah And Mio Flute Playing.jpeg|Mio and Noah playing their flutes
+Noah Mio Ouroboros fusion Screenshot.jpeg|Mio and Noah interlinking
+XC3 Noah and Mio Fighting As a Team.jpeg|Mio and Noah fighting as a team
+XC3 Noah and Mio facing Large Machine Enemy.jpeg|Mio and Noah fighting the Colony Lambda Ferronis
+XC3 Mysterious Giant 4.jpg|Mio and Noah fighting the Mysterious Enemy
+Three Agnus Soldiers.jpeg|Mio, Sena, and Taion wearing masks
+XC3 Mio as Stalker.jpg|Mio fighting as a Stalker
+Mio Screenshot XC3.jpg|Mio looking at a mirror
+Nia and Mio.jpg|Mio and Nia
+Mio Military Uniform.jpg|Mio in her Military Uniform
+Mio DLC Outfit 1 Screenshot.jpeg|One of Mio's Expansion Pass outfits
+MioSwimsuit.jpg|Mio's Swimwear A outfit from the Expansion Pass
+MioSwimwearB.jpg|Mio's Swimwear B outfit From the Expansion Pass
+XC3 Mio face screenshot.jpg
+Mio Nia Outfit.png|Mio's Throwback A outfit from the Expansion Pass, based on Nia's Blade Outfit from {{XC2|-}}.
+Mio Nia Outfit B.jpg|Mio's Throwback B outfit from the Expansion Pass, based on Nia's Blade Outfit from {{XC2|-}}.
+Mio Mythra Aegis Sword.jpg|Mio wielding Mythra's Aegis Sword
+&lt;/gallery&gt;
+
+=== Merchandise ===
+&lt;gallery&gt;
+XC3 Mio Figma.jpg
+XC3 Mio Figma 02.jpg
+XC3 Mio Figma 03.jpg
+XC3 Mio Figma 04.jpg
+XC3 Mio Figma 05.jpg
+XC3 Mio Figma 06.jpg
+XC3 Mio Figma 07.jpg
+&lt;/gallery&gt;
+
+==References==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+[[es:Mio]]
+
+[[Category:Mio]]
+[[Category:XC3 Playable Characters]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Ouroboros]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>ocp9jb3i7q972taptxr3fwp0nzr7vgq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Miraging Yuri</title>
+    <ns>0</ns>
+    <id>119496</id>
+    <revision>
+      <id>596092</id>
+      <parentid>574778</parentid>
+      <timestamp>2023-06-16T20:20:24Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Gallery */cat.</comment>
+      <origin>596092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1592" sha1="tuelamlaoby9rhhqs44sa5qpsqupzcj" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Miraging Yuri
+|image        = XC3 4 Blades in the Dark.png
+|caption      = Miraging Yuri (Far Right)
+|type         = [[Agnus Forces]]
+|level        = 65
+|area         = [[Erythia Sea]] ([[Colony 15]])
+|spawntime    = After completing ''[[A Young Noble's Request]]''
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,734
+|cp           = 82
+|sp           = 5
+|gold         = 2,560
+|hp           = 1,296,000
+|strength     = 1,233
+|healing      = 531
+|dexterity    = 192
+|agility      = 244
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+'''Miraging Yuri''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. They are an [[Agnus Forces|Agnian soldier]], and can be found at level 65 in the former&#160;[[Colony 15]] area in [[Erythia Sea]] after completing ''[[A Young Noble's Request]]''. It forms the quartet "4 Blades in the Dark" with [[Darkening Asha]], [[Fleeting Shikino]] and [[Ghosting Lulika]]. The [[Soulhacker#Enemy Skills|One with the Land]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] for defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 50%
+|etherdebuff = 35%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+4 blades in the dark location.png
+4 blades in the dark yuri.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Agnus Forces]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tuelamlaoby9rhhqs44sa5qpsqupzcj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Misanga</title>
+    <ns>0</ns>
+    <id>118981</id>
+    <revision>
+      <id>592819</id>
+      <parentid>592298</parentid>
+      <timestamp>2023-05-15T20:17:41Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1012" sha1="esmb3sizet0yg9cq2j0wg0flwk397gn" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boost Evasion by 15% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boost Evasion by 16% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Misanga
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boost Evasion by 17% when HP is at 30% or lower.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1540 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Misangas''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>esmb3sizet0yg9cq2j0wg0flwk397gn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Misterio Grebel</title>
+    <ns>0</ns>
+    <id>121843</id>
+    <revision>
+      <id>559822</id>
+      <parentid>546963</parentid>
+      <timestamp>2022-09-30T10:53:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="802" sha1="4ryh4z7hm6sqxgwykb7wpiwy7v4zijt" xml:space="preserve">{{Infobox Enemy
+|name         = Misterio Grebel
+|image        = 
+|caption      = Misterio Grebel
+|category     = Minor Enemy
+|type         = [[Grebel]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Misterio Grebels''' are Minor Enemies in {{XC3}}. They are members of the [[Grebel]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Grebels]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>4ryh4z7hm6sqxgwykb7wpiwy7v4zijt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Misty Medooz</title>
+    <ns>0</ns>
+    <id>121878</id>
+    <revision>
+      <id>579784</id>
+      <parentid>559280</parentid>
+      <timestamp>2023-03-20T21:09:43Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <comment>Location and infobox change</comment>
+      <origin>579784</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1026" sha1="535wtc90m2p53nmd5xxmuqv45uoeleq" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Misty Medooz
+|image        = XC3 Misty Medooz.png
+|caption      = Misty Medooz
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Medooz]]
+|level        = 48
+|area         = [[Erythia Sea]] ([[Anu Shoals]])
+|spawntime    = During ''[[The Mysterious White Fog]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Misty Medoozes''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Medooz]] family, and four are encountered at level 48 at [[Anu Shoals]] in [[Erythia Sea]] during ''[[The Mysterious White Fog]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Medoozes]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>535wtc90m2p53nmd5xxmuqv45uoeleq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Miyabi</title>
+    <ns>0</ns>
+    <id>118520</id>
+    <revision>
+      <id>603048</id>
+      <parentid>598047</parentid>
+      <timestamp>2023-07-22T19:22:15Z</timestamp>
+      <contributor>
+        <username>Pooperloser</username>
+        <id>48265692</id>
+      </contributor>
+      <comment>Added both Wikipedia links</comment>
+      <origin>603048</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5999" sha1="qwthtqnljzcagly8s2p2nxxmtnlsg9l" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name          = Miyabi
+|image         = XC3 Miyabi portrait.png
+|species       = [[Agnus|Agnian]] human
+|age           = 9th Term
+|gender        = Female
+|haircolor     = Brown
+|eyecolor      = Green
+|affiliation   = [[Colony Theta]] (formerly)&lt;br/&gt;[[Colony Omega]] (formerly)&lt;br/&gt;[[City]]
+|voiceactorjp  = [[Wikipedia:Misato Fukuen|Misato Fukuen]] 
+|voiceactoreng = [[Wikipedia:Sorcha Groundsell|Sorcha Groundsell]] 
+|appearances   = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+'''Miyabi''' is a character in {{XC3}}.
+
+== Overview ==
+Miyabi is an [[Agnus|Agnian]] [[Off-seer]] originally from [[Colony Theta]]. Her off-seeing partner was [[Mio]]. She, along with Mio and [[Sena]] were transferred to [[Colony Omega]] five years before the events of the main story. She is an [[Agnus|Agnian]] human with [[Blade Eater]] traits. 
+
+Miyabi is recruited as a [[Hero]] after completing ''[[Side Story: Mio]]'', which is required to progress the main story. Her [[Class Rank (XC3)|Class Rank]] is increased to 20 after completing the Ascension Quest ''[[Happiness]]''.
+
+== Gameplay ==
+Miyabi uses the [[Healer]] [[Class (XC3)|class]] [[Troubadour]], a unique class that can speed up allies' [[Battle Arts (XC3)|Art]] recharge speed.
+
+=== Arts ===
+*'''[[Glittering Melody]]''', Party Buff / Fully recharges all arts for living party members except self. (Talent Art)
+*'''[[Empty Shell]]''', Field / Fast Recharge
+*'''[[Snowdrift]]''', [[Burst]]
+*'''[[Sweet Breeze]]''', AOE / Regenerate
+*'''[[Twin Moons]]''', Remove Buffs
+*'''[[Shadow Parade]]''', Fast Recharge &amp; Increased Damage Taken
+
+Miyabi's [[Chain Attack (XC3)|Chain Art]] is [[Elegant Maelstrom]], which reactivates one additional character, with an X% chance to reactivate one more, where X increases with level. Her Heroic Chain bonus will grant Mio Miyabi's TP if Mio is active when Miyabi is selected, up to a maximum of 99TP.
+
+=== Base Stats ===
+These are Miyabi's raw stats prior to modifications by class. They serve as a baseline for calculating her stats in the Troubadour class (see its page for the corresponding multipliers which adjust these stats). Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 314 || 18 || 20 || 31 || 21
+|-
+| 99 || 6,287 || 361 || 403 || 307 || 213
+|}
+
+=== General Stats ===
+These stats assume Miyabi is at rank 20 in her class.
+{| class="xc1 centered" width="100%"
+! Level !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|1||172||24||23||34||21||8%||4%||10%||30%
+|-
+|99||3,457||648||463||337||213||16%||8%||10%||30%
+|}
+
+Miyabi equips the following gems:
+* [[Steady Striker]]
+* [[Disperse Bloodlust]], at level 20 onwards
+* [[Refined Blessing]], at level 40 onwards
+
+Miyabi equips the following accessories as her default accessories, which can be changed in post-game or [[New Game + (XC3)|New Game+]]. All equipped accessories assume their Common variant.
+* [[Bunnit Choker (XC3)|Bunnit Choker]]
+* [[Repulsor Cuffs]], at level 30 onwards
+* [[Crystal Earrings (XC3)|Crystal Earrings]], at level 50 onwards
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Glorysong Miyabi
+|image        = 
+|caption      = Glorysong Miyabi
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 53
+|area         = [[Captocorn Peak]] ([[Colony Omega]])
+|spawntime    = During ''[[Side Story: Mio]]''
+|respawn      = No
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Glorysong Miyabi''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. She is an [[Agnus Forces|Agnus Soldier]] who is fought at level 53 in [[Colony Omega]] on [[Captocorn Peak]] during ''[[Side Story: Mio]]''.
+{{clr}}
+
+=== Challenge Battle Mode ===
+{{Infobox XC3 Enemy
+|name         = Glorysong Miyabi
+|image        = 
+|caption      = Glorysong Miyabi
+|type         = [[Agnus Forces]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 120
+|detection    = 
+|spawntime    = During ''[[Heroes Frontline]]''
+|respawn      = No
+|hp           = 3,355,440
+|strength     = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+}}
+'''Glorysong Miyabi''' is fought at level 120 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Heroes Frontline]]''.
+
+{{clr}}
+
+== Affinity Links ==
+{{XC3 Affinity Link
+| npc1 = Miyabi
+| npc2 = Boxy
+| affinity = green
+| caption = Supports
+| direction = left
+}}
+
+== Trivia ==
+* Miyabi is the only [[Hero]] that joins the party after completing an [[Hero Quest|Ascension Quest]] instead of a Hero Quest, as she joins the party after completing ''[[Side Story: Mio]]''.
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Miyabi Artwork.png|Official Artwork
+Miyabi Valdi Concept.png|Miyabi's Concept Artwork
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Miyabi Hero Icon.png|Hero List Icon
+Strm order thumb016 0.png
+Miyabi Level Up Art.png
+Icon chara 9.png
+Icon chara battle 9.png
+&lt;/gallery&gt;
+{{XC3CharNav}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Heroes]]
+[[Category:Miyabi]]
+[[Category:XC3 Agnians]]
+[[Category:City NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>qwthtqnljzcagly8s2p2nxxmtnlsg9l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mizruto Bunnit</title>
+    <ns>0</ns>
+    <id>123998</id>
+    <revision>
+      <id>559823</id>
+      <parentid>557258</parentid>
+      <timestamp>2022-09-30T10:53:36Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="h8slr3ysyv66tybu1c7c3tb66hiry97" xml:space="preserve">{{Infobox Enemy
+|name         = Mizruto Bunnit
+|image        = 
+|caption      = Mizruto Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[The Cavity]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Mizruto Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[The Cavity]] in the [[Swordmarch]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Swordmarch Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>h8slr3ysyv66tybu1c7c3tb66hiry97</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mlle. du Tirque</title>
+    <ns>0</ns>
+    <id>123770</id>
+    <revision>
+      <id>577018</id>
+      <parentid>559282</parentid>
+      <timestamp>2023-02-15T22:39:33Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>577018</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1593" sha1="pumcix75gly0xtmndq59hhijagbimqd" xml:space="preserve">{{Infobox NPC
+|name        = Mlle. du Tirque
+|image       = Strm npc 141 0.png 
+|personality = 
+|time_active = 
+|gender      = Female
+|race        = [[Tirkin]]
+|age         = 12
+|location    = [[High Maktha Wildwood]] ([[The Tirkinhold]])
+}}
+'''Mlle. du Tirque''' is an NPC in {{XC3}} who can be found in [[The Tirkinhold]] at [[High Maktha Wildwood]]. She is the daughter of [[The Tirking]].  
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Mlle. du Tirque
+|image        = 
+|caption      = Mlle. du Tirque
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive Enemy]] [[Boss (XC3)|Boss]]
+|type         = [[Tirkin]]
+|level        = 41
+|area         = [[High Maktha Wildwood]] ([[The Tirkinhold]])
+|spawntime    = During ''[[Tau-Tirkin Alliance]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Mlle. du Tirque''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. She is a member of the [[Tirkin]] family, and is fought at level 41 at [[The Tirkinhold]] in [[High Maktha Wildwood]] during ''[[Tau-Tirkin Alliance]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Tirkins]]
+[[Category:Pentelas Region NPCs]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Tirkin Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>pumcix75gly0xtmndq59hhijagbimqd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mobile Vespa</title>
+    <ns>0</ns>
+    <id>118637</id>
+    <revision>
+      <id>585431</id>
+      <parentid>574651</parentid>
+      <timestamp>2023-04-26T01:04:16Z</timestamp>
+      <contributor>
+        <username>Macdawg</username>
+        <id>28767241</id>
+      </contributor>
+      <minor/>
+      <origin>585431</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1370" sha1="5inxmij7lk07njimblcy55iyaun37re" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Mobile Vespa
+|image        = XC3 Mobile Vespa.png
+|caption      = Mobile Vespa
+|category     = Unique Monster
+|type         = [[Levnis]]
+|level        = 41
+|area         = [[Keves Castle]] ([[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 1,306
+|cp           = 133
+|sp           = 5
+|gold         = 2,016
+|hp           = 955,500
+|strength     = 874
+|healing      = 277
+|dexterity    = 142
+|agility      = 155
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 8%
+|guardrate    = 5%
+}}
+'''Mobile Vespa''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]] and can be found at level 41 in the [[Hangar, Lower Level (Keves Castle)|Hangar, Lower Level]] in [[Keves Castle]]. The [[Spit Beam]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 60%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 75%
+|etherdebuff = 60%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Mobile vespa location.png
+Mobile vespa.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>5inxmij7lk07njimblcy55iyaun37re</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moebius</title>
+    <ns>0</ns>
+    <id>117637</id>
+    <revision>
+      <id>603405</id>
+      <parentid>603385</parentid>
+      <timestamp>2023-07-26T12:51:57Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>cat.</comment>
+      <origin>603405</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4081" sha1="arundcongwm88np70wdwss948nem55b" xml:space="preserve">{{spoiler}}
+{{For|the boss fight against the enemy named "Moebius"|Moebius D &amp; J#Chapter 1 Battles}}
+[[File:Moebius Icon.png|thumb|The Moebius Symbol]]
+'''Moebius''' (Japanese: {{lang|jp|&#12513;&#12499;&#12454;&#12473;}}, ''Mebiusu'') are forms created by [[Consul]]s in {{XC3}} and {{XC3FR|sublink}}.
+
+== Overview ==
+The Consuls can assume a form called Moebius, which is over 5m tall and bears a resemblance to an [[Ouroboros]].&lt;ref&gt;https://www.nintendo.co.jp/switch/az3ha/story/index.html&lt;/ref&gt; Unlike them, they do not need to [[Interlink]] in order to transform, but doing so significantly increases their strength.  
+
+The first Moebius confronted by [[Noah]] and his friends is the [[Mysterious Enemy]], the Interlinked Moebius form of the Consul [[D]] and [[Joran|J]].
+{{clr}}
+
+== List of Enemies ==
+=== {{XC3|-}} ===
+==== Bosses ====
+* [[Moebius (boss)]]
+* [[D#Battle|Moebius D]]
+* [[Moebius D &amp; J]]
+* [[Joran#Battle|Moebius J]]
+* [[K#Battle|Moebius K]]
+* [[Moebius O &amp; P]]
+* [[X#Battle|Moebius X]]
+* [[Y#Battle|Moebius Y]]
+* [[Mysterious Enemy]]
+* [[X&#8734;]]
+* [[Y&#8734;]]
+* [[Z]]
+* [[Z&#8734;]]
+
+==== Quest Exclusive Bosses ====
+* [[B#Battle|Moebius B]] (During ''[[Where The Heart Is]]'')
+* [[E#Battle|Moebius E]] (During ''[[Her Reasons]]'')
+* [[G#Battle|Moebius G]] (During ''[[Going Beyond Power]]'')
+* [[H#Battle|Moebius H]] (During ''[[Side Story: Lanz]]'')
+* [[Irma#Battle|Moebius I]] (During ''[[Transparent Dreams]]'')
+* [[L#Battle|Moebius L]] (During ''[[Side Story: Eunie]]'')
+* [[Q#Battle|Moebius Q]] (During ''[[Inescapable Past]]'')
+* [[R#Battle|Moebius R]] (During ''[[The Wrath of Ashera]]'' &amp; ''[[A Deep-Seated Scar]]'')
+* [[Shania#Battle|Moebius S]] (During ''[[Side Story: Sena]]'')
+* [[U#Battle|Moebius U]] (During ''[[Survivors]]'')
+* [[V#Battle|Moebius V]] (During ''[[Side Story: Taion]]'')
+* [[W#Battle|Moebius W]] (During ''A Deep-Seated Scar'')
+
+=== {{XC3FR|sub}} ===
+==== Bosses ====
+* [[Q (FR)#Battle|Moebius Q]]
+* [[R (FR)#Battle|Moebius R]]
+* [[W (FR)#Battle|Moebius W]]
+
+== Etymology ==
+The name Moebius may refer to the [[wikipedia:M&#246;bius strip|M&#246;bius strip]], a 3-dimensional object that has only one uninterrupted side. This may be a deliberate contrast with the Ouroboros, which is also named after a shape forming an uninterrupted circle.
+
+== Trivia ==
+* Moebius I and Moebius P share the same model. Additionally, Moebius G and Moebius O share the same model as well.
+* Z&#8734; is referred to by M as "Not Z or Moebius, but a single, intense desire". Despite this, it is considered a Moebius type enemy by the game.
+
+== Gallery ==
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Moebius B.jpg|B's Moebius form
+Moebius D Cloudkeep.png|D's Moebius Form
+XC3 Mysterious Giant 1.jpg|D and J's Interlinked Moebius form
+XC3 Mysterious Giant 2.jpg|D and J's Interlinked Moebius form
+Moebius E.jpg|E's Moebius form
+Moebius G.jpg|G's Moebius form
+Moebius H.jpg|H's Moebius form
+Moebius I.jpg|I's Moebius form
+MoebiusJImage.jpg|J's Moebius Form
+Nourish-Moebius.png|K's Moebius form, consuming energy from Colony 4's Flame Clock
+Consul L.jpg|L's Moebius form
+Moebius O.jpg|O's Moebius form
+Moebius P.jpg|P's Moebius form
+Moebius OP.jpg|O and P's Interlinked Moebius form, O's side
+Moebius PO.jpg|O and P's Interlinked Moebius form, P's side
+Moebius Q.png|Q's Moebius form
+Moebius R.jpg|R's Moebius form
+Consul-s.png|S's Moebius form
+Moebius U.png|U's Moebius form
+Moebius V.jpg|V's Moebius form
+Moebius W.jpg|W's Moebius form
+Moebius x.png|X's Moebius form
+Moebius Y1.jpg|Y's Moebius form
+X&#8734;.jpg|X&#8734;
+Y&#8734;.jpg|Y&#8734;
+Z&#8734;.png|Z&#8734;
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+XC3FR Enemies.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references/&gt;
+
+[[Category:XC3 Consuls]]
+[[Category:XC3 Plot]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Races]]
+[[Category:XC3 Species]]
+[[Category:XC3 Humanoids]]
+[[Category:XC3 Enemies by Category]]
+[[Category:XC3FR Consuls]]
+[[Category:XC3FR Plot]]
+[[Category:XC3FR Moebius]]
+[[Category:XC3FR Races]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Humanoids]]
+[[Category:XC3FR Enemies by Category]]
+[[Category:Races by Type]]
+[[Category:Species by Type]]
+[[Category:Moebius]]</text>
+      <sha1>arundcongwm88np70wdwss948nem55b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moebius (boss)</title>
+    <ns>0</ns>
+    <id>117945</id>
+    <revision>
+      <id>595831</id>
+      <parentid>595828</parentid>
+      <timestamp>2023-06-16T14:55:15Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <origin>595831</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2865" sha1="0n7qo6gnltareo8qjk8dy8ta0xrtqm4" xml:space="preserve">{{spoiler}}
+{{Infobox XC3 Enemy
+|name         = Moebius
+|image        = Moebius_Boss.jpg 
+|caption      = Moebius
+|category     = Boss
+|type         = [[Moebius]]
+|level        = 10
+|area         = [[Alfeto Valley]] ([[Gura Flava Lowlands]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|exp          = 448
+|cp           = 55
+|hp           = 20,650
+|sp           = 0
+|gold         = 0
+|strength     = 83
+|healing      = 82
+|dexterity    = 47
+|agility      = 30
+|physdef      = 0%
+|ethdef       = 15%
+|critrate     = 0%
+|guardrate    = 0%
+}}
+The '''Moebius''' is a [[Boss (XC3)|Boss]] in {{XC3}}. It is fought at level 10 in the [[Gura Flava Lowlands]] in [[Alfeto Valley]] after being fought as [[Mysterious Enemy]]. Both enemies share near-identical data, the only differences being the lower HP of the Moebius fight as well as differences in AI Arts usage. During this battle, [[Noah]] will be able to use his [[Ouroboros]] at [[Interlink]] Level 0 for an unlimited amount of time. It is later fought and revealed as being [[Moebius D &amp; J]].
+
+== Resistances ==
+{{XC3 Resistances
+|break       = 50%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = 0%
+}}
+
+== Enraged ==
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{Clr}}
+
+== Arts ==
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack 1 --&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|2
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Auto-attack 2 --&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Unstoppable Spear'''
+|Ether
+|One Target
+|1
+|300%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Chaos Arch'''
+|Physical
+|AOE on Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Grim Rush'''
+|Physical
+|One Target
+|6
+|450%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Doom Rain'''
+|Ether
+|AOE on Target
+|1
+|140%
+|Blaze
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|}
+{{clr}}
+
+== Other battles ==
+* Mysterious Enemy
+* [[Moebius D &amp; J]]
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0n7qo6gnltareo8qjk8dy8ta0xrtqm4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moebius D &amp; J</title>
+    <ns>0</ns>
+    <id>121046</id>
+    <revision>
+      <id>595832</id>
+      <parentid>595829</parentid>
+      <timestamp>2023-06-16T14:57:04Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <minor/>
+      <origin>595832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11862" sha1="24pzkmauc8lybc8kpb91h5s21upuypn" xml:space="preserve">{{Spoiler}}
+{{Infobox Character
+|name         = Moebius D &amp; J
+|image        = XC3 Mysterious Giant 1.jpg
+|aliases      = [[Mysterious Enemy]], [[Moebius (boss)]]
+|species      = [[Moebius]]
+|age          = 
+|gender       = 
+|haircolor    = 
+|eyecolor     = 
+|appearances  = {{XC3}}
+|voiceactorjp =  
+}}
+'''Moebius D &amp; J''' is a recurring [[Boss (XC3)|Boss]] in {{XC3}}. He is the first antagonist and the first [[Moebius]] met by the party as the [[Mysterious Enemy]], and is the [[Interlink]]ed Moebius form of the [[Consul]]s [[D]] and [[Joran|J]].
+
+== Story ==
+While the six protagonists are at odds with each other on the battlefield, the Mysterious Enemy suddenly attacks them from afar, piercing [[Guernica Vandham]] through the chest with a projectile. The Mysterious Enemy then reveals himself, with [[Mwamba]] and [[Hackt]] in his hands, taunting the party to keep killing each other for its own benefit, promptly killing his two captives afterwards, enraging the parties of both nations, who now are working together to defeat this new foe. After beating his first phase, Guernica pilots one of the [[City]] machines to attempt to fight the Mysterious Enemy, but the machine is quickly destroyed without ever dealing any damage to the foe. With his life draining out from him, Guernica gambles everything on activating the [[Ouroboros Stone]] in order to turn the protagonists into [[Ouroboros]], which is successful, resulting in [[Noah]] and [[Mio]] Interlinking. The Mysterious Enemy reveals himself to be a [[Moebius]], and fights the party in his second phase. The new Ouroboros form is enough to fend off the Moebius, who then retreats from battle, but not before giving out a signal that declares the party as the "enemy of the world". Guernica then tells Noah and Mio with his dying breaths that this ''"real enemy"'' with overwhelming power does not belong either to [[Keves]] or [[Agnus]]. He thus advises them to reach [[Swordmarch]]. The Moebius can later be seen in the [[Amphitheater]], being chastised by other [[Consuls]] for fleeing from battle.
+
+He is next fought at the [[Annihilator Foundations]] in the [[Keves Castle]], where it is revealed that the Moebius was actually the interlinked form of Consuls [[D]] and [[J]]. Despite his earlier defeat, he handily defeats the party in their interlinked forms, up until a plan hatched by [[Taion]] and [[Eunie]] forces the interlinked Moebius's under the [[Annihilator]], trapping him, which allows Eunie's Ouroboros form to hit him despite D's ability to sense changes in the air. D then has his arms severed off by the interlinked Eunie and Taion, and his interlinked body falls into the exploding Annihilator, but he manages to cancel his interlink with J to survive the battle.
+
+He is last fought in the [[Cloudkeep]], where D shoots a projectile at the newly awakened [[Nia]], who is knocked out as a result. D and J are first fought separately, before D forces J into an interlink to fight the party one last time by himself. While interlinked, Noah, Lanz, and Eunie try to get J to stop fighting them, which is eventually successful, and J jumps off a cliff, sucking up all of the [[Black Fog]] in order to eliminate both himself and D in one final act of repentance. 
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Moebius D &amp; J
+|image        = Moebius_DJ.jpg 
+|caption      = Moebius D &amp; J
+
+|tab1         = Keves Castle
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 42
+|area         = [[Keves Castle]] ([[Annihilator Foundations]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,960
+|cp           = 140
+|sp           = 0
+|gold         = 0
+|hp           = 1,593,900
+|strength     = 797
+|healing      = 819
+|dexterity    = 155
+|agility      = 120
+|physdef      = 0%
+|ethdef       = 15%
+|critrate     = 0%
+|guardrate    = 0%
+
+|tab2         = Captocorn Peak
+|category2    = [[Boss (XC3)|Boss]]
+|type2        = [[Moebius]]
+|level2       = 55
+|area2        = [[Captocorn Peak]] ([[Cloudkeep]])
+|spawntime2   = Story
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|exp2         = 5,424
+|cp2          = 180
+|sp2          = 0
+|gold2        = 0
+|hp2          = 3,771,000
+|strength2    = 1,074
+|healing2     = 1,053
+|dexterity2   = 216
+|agility2     = 157
+|physdef2     = 0%
+|ethdef2      = 15%
+|critrate2    = 0%
+|guardrate2   = 0%
+}}
+'''Moebius D &amp; J''' is a [[Boss (XC3)|Boss]] fought twice, first at level 42 on the [[Annihilator Foundations]] in [[Keves Castle]] and at level 55 in the [[Cloudkeep]] at [[Captocorn Peak]].
+
+=== Resistances ===
+==== Keves Castle ====
+{{XC3 Resistances
+|break       = 75%
+|blowdown    = 90%
+|knockback   = 90%
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+===== Cloudkeep =====
+{{XC3 Resistances
+|break       = 75%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+=== Enraged ===
+Enraged data is the same for both Moebius D &amp; J fights.
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{Clr}}
+
+=== Arts ===
+The following Arts can be used in both fights:
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack 1 --&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|2
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Auto-attack 2 --&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Unstoppable Spear'''
+|Ether
+|One Target
+|1
+|300%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+*Damage from Blaze is boosted by 200%.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Chaos Arch'''
+|Physical
+|AOE on Target
+|1
+|225%
+|Knockback
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Grim Rush'''
+|Physical
+|One Target
+|6
+|550%
+|[[Launch (XC3)|Launch]] on final hit
+|style="text-align:left;"|
+*Accuracy and Critical Rate are both boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|Anytime
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Doom Rain'''
+|Ether
+|AOE on Target
+|1
+|125%
+|Blaze
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Damage from Blaze is boosted by 100%.
+|Anytime
+|- &lt;!-- Arts Slot 4 &amp; 8 --&gt;
+|rowspan="2"|'''Dread Edge'''
+|rowspan="2"|Ether
+|rowspan="2"|Frontward AOE
+|&lt;abbr title="One volley of six bullets"&gt;6&lt;/abbr&gt;
+|720%
+|rowspan="2"|
+|style="text-align:left;"|
+*Immune to Knockback and Blowdown during Art.
+*Each hit can only damage a single target in range.
+|At Keves Castle: When reduced to 80% HP and not enraged&lt;br&gt;At Cloudkeep: When reduced to 85% HP and not enraged
+|-
+|&lt;abbr title="Two volleys of six bullets each"&gt;12&lt;/abbr&gt;
+|1200%
+|style="text-align:left;"| Above notes, plus:
+*Art is telegraphed 3.0s before execution.
+|At Keves Castle: When reduced to 80% HP and enraged&lt;br&gt;At Cloudkeep: When reduced to 85% HP and enraged
+|- &lt;!-- Arts Slot 6 --&gt;
+|'''Infernal Call'''
+|Set Field
+|AOE around User
+| -
+| -
+|
+|style="text-align:left;"|
+*Field deals 24% of Attack as damage every 2.5s to enemies in the field, lasting for 20.0s at base.
+*Immune to Knockback and Blowdown during Art.
+|At Keves Castle: When reduced to 50% HP&lt;br&gt;At Cloudkeep: When reduced to 85% HP and not enraged
+|}
+In the Cloudkeep, Moebius D &amp; J are able to use the following Arts in addition to the ones listed above:
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Sanguine Fire'''
+|Healing
+|Self
+| -
+|5000%
+|
+|style="text-align:left;"|
+*Also sets a stance, during which user regenerates 1% of HP every 3.0s.
+*Immune to all reactions and combos during Art.
+|When reduced to 50% HP
+|- &lt;!-- Arts Slot 9 --&gt;
+|'''Infernal Call'''
+|Set Field
+|AOE around User
+| -
+| -
+|
+|style="text-align:left;"|
+*Field deals 23% of Attack as damage every 2.5s to enemies in the field, lasting for 20.0s at base.
+*Has a larger radius (11m vs 7m) than the other version of the Art.
+*Art is telegraphed 3.0s before execution.
+*Immune to Knockback and Blowdown during Art.
+|When reduced to 85% HP and enraged
+|- &lt;!-- Arts Slot 7 &amp; 10 --&gt;
+|'''Beyond Death'''
+|Physical
+|AOE on Target
+|1
+|100%
+|[[Topple (XC3)|Topple]] / [[Shackle Healing]]
+|style="text-align:left;"|
+*Attack cannot be evaded.
+*Immune to all reactions and combos during Art.
+*Topple duration is extended by 100%.
+|First used when reduced to 70% HP, subsequently only used when reduced to 50% HP
+|}
+
+=== Other battles ===
+* [[Mysterious Enemy]]
+* [[Moebius (boss)]]
+
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Moebius D &amp; J
+|image        = 
+|caption      = Moebius D &amp; J
+|type         = [[Moebius]]
+
+|tab1         = Stage 70
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 100
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 39,810,375
+|strength     = 9,506
+|healing      = 22,896
+|dexterity    = 516
+|agility      = 361
+|physdef      = 0%
+|ethdef       = 15%
+|critrate     = 10%
+|guardrate    = 0%
+
+|tab2         = Stage 140
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 150
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|movement2    = Ground
+|detection2   = 
+|hp2          = 156,818,850
+|strength2    = 20,645
+|healing2     = 82,456
+|dexterity2   = 725
+|agility2     = 508
+|physdef2     = 0%
+|ethdef2      = 15%
+|critrate2    = 10%
+|guardrate2   = 0%
+}}
+Moebius D &amp; J is fought twice during the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''. He is first fought at level 100 at Stage 70, and later fought alongside [[Moebius O &amp; P]] at Stage 140 at level 150.
+
+=== Skills ===
+Moebius D &amp; J has the following skill:
+*Deals 10% less damage but takes 30% less damage.
+
+=== Resistances ===
+{{XC3 Resistances
+|break       = 110%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 70%
+|etherdebuff = 100%
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Art recharge speed by 50%.
+|}
+{{clr}}
+=== Arts ===
+Moebius D &amp; J's Arts set is nearly identical to the set used when he is encountered at Cloudkeep, with two differences:
+*Both versions of Dread Edge remove all buffs from targets it hits, in addition to its usual effects.
+*The version of Beyond Death used when below 50% HP has a slightly larger AOE radius (5m vs 4m).
+
+== Trivia == 
+* In earlier versions of {{XC3|-}}, when Moebius D &amp; J is fought at Keves Castle, he was referred to as [[D|Moebius D]] instead.&lt;ref&gt;[[User:SakuDio/Screenshot References#Moebius D &amp; J]]&lt;/ref&gt;
+
+== Gallery ==
+&lt;gallery&gt;
+Moebius DJ Cloudkeep.PNG|Moebius D &amp; J in the Cloudkeep
+&lt;/gallery&gt;
+{{clr}}
+
+== References ==
+&lt;references /&gt; 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Characters]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>24pzkmauc8lybc8kpb91h5s21upuypn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moebius O &amp; P</title>
+    <ns>0</ns>
+    <id>121174</id>
+    <revision>
+      <id>595841</id>
+      <parentid>585377</parentid>
+      <timestamp>2023-06-16T15:05:51Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gallery */</comment>
+      <origin>595841</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8364" sha1="6uzu5eqcui27vzdhwg30fe12ytn41fs" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Moebius O &amp; P
+|image        = Moebius OP.jpg
+|caption      = Moebius O &amp; P
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 36
+|area         = [[High Maktha Wildwood]] ([[Engardo Pass]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 2,320
+|cp           = 135
+|sp           = 0
+|gold         = 0
+|hp           = 1,114,200
+|strength     = 832
+|healing      = 237
+|dexterity    = 134
+|agility      = 84
+|physdef      = 20%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate-front   = 0%
+|guardrate-side    = 15%
+|guardrate-back    = 35%
+}}
+'''Moebius O &amp; P''' is a [[Boss (XC3)|Boss]] in {{XC3}}. It is the [[Interlink]]ed form of [[Moebius]] [[O]] and [[P]], and is fought at level 36 at [[Engardo Pass]] in the [[High Maktha Wildwood]]. Uniquely among the game's Interlinks, Moebius O &amp; P is a double-headed creature with a unique mechanic where it uses different attacks and Arts depending on whether it's standing up (with P in charge) or on all fours (with O in charge).
+== Battle ==
+===Resistances===
+{{XC3 Resistances
+|break       = 70%
+|topple      = 0%
+|daze        = 0%
+|burst       = 0%
+|launch      = 0%
+|smash       = 0%
+|blowdown    = Immune
+|knockback   = Immune
+|physdebuff  = 50%
+|etherdebuff = Immune
+}}
+=== Enraged ===
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|Boosts damage dealt by 25%.
+|}
+{{Clr}}
+=== Arts ===
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Auto-attack --&gt;
+|'''Auto-Attack'''
+|Physical
+|One Target
+|2
+|160%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Heel Stomp'''
+|Physical
+|One Target
+|3
+|450%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 25%, and Critical Rate is boosted by 50%.
+|Anytime
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Rose Whip'''
+|Physical
+|AOE around User
+|3
+|170%
+|
+|
+|Anytime
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''August Symbol'''
+|Stance
+|Self
+| -
+| -
+|
+|style="text-align:left;"|
+*When blocking an attack during the stance, annuls all damage dealt to user and deals 50% of Attack as damage back to the attacker.
+*Immune to all combos and reactions during Art animation.
+|When reduced to 85% HP
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Exalted Fist'''
+|Physical
+|One Target
+|1
+|160%
+|[[Smash (XC3)|Smash]]
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Smash is only inflicted if target is suffering from [[Launch (XC3)|Launch]].
+|When reduced to 70% HP, typically following up Lunar Orbit
+|- &lt;!-- Arts Slot 4 --&gt;
+|'''Grand Berserker'''
+|Ether
+|Frontward AOE
+|6
+|540%
+|
+|style="text-align:left;"|
+*Each hit can only damage a single target in range.
+|When reduced to 85% HP
+|- &lt;!-- Arts Slot 5 --&gt;
+|'''Lunar Orbit'''
+|Physical
+|One Target
+|4
+|500%
+|Launch on final hit
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Launch duration is extended by 50%.
+|When reduced to 70% HP
+|- &lt;!-- Arts Slot 6 &amp; 7 --&gt;
+|rowspan="2"|'''Empress Chariot'''
+|rowspan="2"|Physical
+|rowspan="2"|Frontward AOE
+|rowspan="2"|4
+|30%
+|
+|style="text-align:left;"|
+*Immune to all combos and reactions during Art.
+|Once per battle, when reduced to 40% HP
+|-
+|220%
+|[[Knockback (XC3)|Knockback]] on first two hits, [[Blowdown (XC3)|Blowdown]] on final hit
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to all combos and reactions during Art.
+|After the other version of Empress Chariot is used once
+|}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|name         = Moebius O &amp; P
+|image        = XC3 Moebius O and P DLC battle.jpg
+|caption      = Moebius O &amp; P
+|type         = [[Moebius]]
+
+|tab1         = Stage of Destiny
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 75
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|spawntime    = During ''[[Stage of Destiny]]''
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|hp           = 1,987,440
+|strength     = 958
+|healing      = 469
+|dexterity    = 288
+|agility      = 172
+|physdef      = 20%
+|ethdef       = 0%
+|critrate     = 0%
+|guardrate-front   = 0%
+|guardrate-side    = 15%
+|guardrate-back    = 35%
+
+|tab2         = Gauntlet: Pro
+|category2    = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2       = 150
+|area2        = [[Land of Challenge (XC3)|Land of Challenge]]
+|movement2    = Ground
+|detection2   = 
+|spawntime2   = During ''[[Gauntlet: Pro]]''
+|respawn2     = No
+|hp2          = 125,455,080
+|strength2    = 17,623
+|healing2     = 27,485
+|dexterity2   = 693
+|agility2     = 407
+|physdef2     = 20%
+|ethdef2      = 0%
+|critrate2    = 0%
+|guardrate-front2  = 0%
+|guardrate-side2   = 15%
+|guardrate-back2   = 35%
+}}
+'''Moebius O &amp; P''' is fought at level 75 during the third wave of the [[Challenge Battle Mode|Challenge Battle]] ''[[Stage of Destiny]]''. 
+
+Moebius O &amp; P is also fought at level 150 at Stage 140 of the [[Archsage's Gauntlet]] Challenge ''[[Gauntlet: Pro]]''.
+=== Skills ===
+Moebius O &amp; P has the following skill in ''Gauntlet: Pro'' only:
+*Deals 10% less damage but takes 30% less damage.
+=== Resistances ===
+==== ''Stage of Destiny'' ====
+{{XC3 Resistances
+|break = 80%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+==== ''Gauntlet: Pro'' ====
+{{XC3 Resistances
+|break = 100%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 70%
+|etherdebuff = 100%
+}}
+=== Enraged ===
+==== ''Stage of Destiny'' ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 80% HP.
+|-
+!Effects
+|Boosts damage dealt by 50%.
+|}
+==== ''Gauntlet: Pro'' ====
+{|class="xc1 centered" style="width:55%;"
+!Trigger
+|Enemy is reduced to 50% HP.
+|-
+!Effects
+|style="text-align:left;"|Boosts damage dealt by 50%.&lt;br&gt;Boosts Arts recharge speed by 50%.
+|}
+=== Arts ===
+==== ''Stage of Destiny'' ====
+Most of Moebius O &amp; P's Arts set is the same as when encountered in the main story, however, the weaker version of Empress Chariot is not used. Moebius O &amp; P can additionally use the following Arts as variants of existing Arts:
+
+{|class="xc1 centered" style="width:150%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+!Use Conditions
+|- &lt;!-- Arts Slot 8 &amp; 9 --&gt;
+|'''Heel Stomp'''
+|Physical
+|One Target
+|3
+|600%
+|
+|style="text-align:left;"|
+*First Art is telegraphed 2.0s before execution, before being used twice in a row.
+*For both uses, Accuracy is boosted by 25%, and Critical Rate is boosted by 50%.
+|When enraged
+|- &lt;!-- Arts Slot 10 &amp; 11 --&gt;
+|'''Rose Whip'''
+|Physical
+|AOE around User
+|3
+|115%
+|
+|style="text-align:left;"|
+*First Art is telegraphed 3.0s before execution, before being used twice in a row.
+|When enraged
+|}
+Additionally, existing Arts receive changes in their use conditions by the AI:
+*The original versions of Heel Stomp and Rose Whip are only used while not enraged.
+*August Symbol, Exalted Fist and Grand Berserker can all be used at any time.
+*Lunar Orbit and Empress Chariot are only used when reduced to 50% HP.
+==== ''Gauntlet: Pro'' ====
+Most of Moebius O &amp; P's Arts set is the same as when encountered in the main story, however, the following Arts replace the Art(s) of the same name:
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Rose Whip'''
+|Physical
+|AOE around User
+|3
+|110%
+|
+|style="text-align:left;"|
+*Removes all buffs from target upon landing a hit.
+|- &lt;!-- Arts Slot 6 --&gt;
+|'''Empress Chariot'''
+|Physical
+|Frontward AOE
+|4
+|175%
+|[[Knockback (XC3)|Knockback]] on first two hits, [[Blowdown (XC3)|Blowdown]] on final hit
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to all combos and reactions during Art.
+|}
+== Trivia ==
+* Moebius I and Moebius P share the same model. Additionally, Moebius G and Moebius O share the same model as well.
+
+== Gallery ==
+&lt;gallery&gt;
+Moebius PO.jpg|Moebius OP P's Side
+Moebius O.jpg|Moebius O
+Moebius P.jpg|Moebius P
+&lt;/gallery&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 36-40 Enemies]]
+[[Category:XC3 Level 71-75 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>6uzu5eqcui27vzdhwg30fe12ytn41fs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moebius Puppet</title>
+    <ns>0</ns>
+    <id>123785</id>
+    <revision>
+      <id>585055</id>
+      <parentid>584986</parentid>
+      <timestamp>2023-04-24T10:02:39Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>gauntlet data</comment>
+      <origin>585055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5322" sha1="1pgmh9mae2cyl88gyqonbbijip35b1e" xml:space="preserve">{{spoiler}}
+{{Infobox XC3 Enemy
+|tab1         = J Puppet
+|name         = Moebius Puppet
+|image        = 
+|caption      = Moebius Puppet
+|category     = [[Boss (XC3)|Boss]]
+|type         = [[Moebius]]
+|level        = 53
+|area         = [[Captocorn Peak]] ([[Cloudkeep]])
+|spawntime    = Story
+|respawn      = No
+|movement     = Ground
+|detection    = 
+|exp          = 513
+|cp           = 36
+|sp           = 0
+|gold         = 0
+|hp           = 210,960
+|strength     = 359
+|healing      = 169
+|dexterity    = 180
+|agility      = 105
+|physdef      = -20%
+|ethdef       = 35%
+|critrate     = 0%
+|guardrate    = 0%
+
+|tab2          = D Puppet
+|name2         = Moebius Puppet
+|image2        = 
+|caption2      = Moebius Puppet
+|category2     = [[Boss (XC3)|Boss]]
+|type2         = [[Moebius]]
+|level2        = 53
+|area2         = [[Captocorn Peak]] ([[Cloudkeep]])
+|spawntime2    = Story
+|respawn2      = No
+|movement2     = Ground
+|detection2    = 
+|exp2          = 513
+|cp2           = 36
+|sp2           = 0
+|gold2         = 0
+|hp2           = 316,440
+|strength2     = 461
+|healing2      = 169
+|dexterity2    = 126
+|agility2      = 151
+|physdef2      = 20%
+|ethdef2       = 0%
+|critrate2     = 0%
+|guardrate2    = 0%
+}}
+'''Moebius Puppets''' are [[Boss (XC3)|Bosses]] who are [[Moebius]] and are fought at level 53 at the [[Cloudkeep]] on [[Captocorn Peak]]. They are summoned by [[Joran#Battle|Moebius J]], and resemble smaller versions of Moebius J and [[Moebius D|D]].
+== Battle ==
+=== Resistances ===
+These resistances apply to both forms of Moebius Puppets.
+{{XC3 Resistances
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 20%
+}}
+{{clr}}
+=== Arts ===
+==== J Puppet ====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack --&gt;
+|'''''Auto-Attack'''''
+|Ether
+|One Target
+|1
+|200%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Brave Hand'''
+|Ether
+|One Target
+|1
+|450%
+|[[Knockback (XC3)|Knockback]]
+|style="text-align:left;"|
+*Immune to Knockback and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 3 --&gt;
+|'''Healing Light'''
+|Healing
+|AOE around User
+| -
+|2500%
+|[[Defense Up]]
+|
+|}
+==== D Puppet ====
+{|class="xc1 centered" style="width:120%;"
+!Name
+!Attribute
+!Targets
+!Hits
+!Power
+!Reactions/Statuses
+!Notes
+|- &lt;!-- Auto-attack 1 --&gt;
+|'''''Auto-Attack 1'''''
+|Physical
+|One Target
+|2
+|100%
+|
+|
+|- &lt;!-- Auto-attack 2 --&gt;
+|'''''Auto-Attack 2'''''
+|Physical
+|One Target
+|1
+|100%
+|
+|
+|- &lt;!-- Arts Slot 0 --&gt;
+|'''Unstoppable Spear'''
+|Ether
+|One Target
+|1
+|300%
+|[[Blaze (XC3)|Blaze]]
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to [[Knockback (XC3)|Knockback]] and [[Blowdown (XC3)|Blowdown]] during Art.
+|- &lt;!-- Arts Slot 1 --&gt;
+|'''Chaos Arch'''
+|Physical
+|AOE on Target
+|1
+|200%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 25%.
+*Immune to Knockback and Blowdown during Art.
+|- &lt;!-- Arts Slot 2 --&gt;
+|'''Grim Rush'''
+|Physical
+|One Target
+|6
+|450%
+|
+|style="text-align:left;"|
+*Accuracy is boosted by 50%.
+*Immune to Knockback and Blowdown during Art.
+|}
+== Challenge Battle Mode ==
+{{Infobox XC3 Enemy
+|tab1         = J Puppet
+|name         = Moebius Puppet
+|image        = 
+|caption      = Moebius Puppet
+|type         = [[Moebius]]
+|movement     = Ground
+|area         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level        = 140
+|detection    = 
+|spawntime    = During ''[[Gauntlet: Pro]]''
+|respawn      = No
+|hp           = 19,965,180
+|strength     = 5,335
+|healing      = 14,523
+|dexterity    = 602
+|agility      = 340
+|physdef      = -20%
+|ethdef       = 35%
+|critrate     = 0%
+|guardrate    = 0%
+
+|tab2         = D Puppet
+|name2         = Moebius Puppet
+|image2        = 
+|caption2      = Moebius Puppet
+|type2         = [[Moebius]]
+|movement2     = Ground
+|area2         = [[Land of Challenge (XC3)|Land of Challenge]]
+|category2     = [[Challenge Battle Enemy (XC3)|Challenge Battle Boss]]
+|level2        = 140
+|detection2    = 
+|spawntime2    = During ''[[Gauntlet: Pro]]''
+|respawn2      = No
+|hp2           = 26,620,240
+|strength2     = 7,469
+|healing2      = 14,523
+|dexterity2    = 421
+|agility2      = 486
+|physdef2      = 20%
+|ethdef2       = 0%
+|critrate2     = 0%
+|guardrate2    = 0%
+}}
+Two Moebius Puppets, one each of J and D, are fought at level 140 alongside [[Joran#Challenge Battle Mode|Moebius J]] and [[D#Challenge Battle Mode|Moebius D]] at Stage 130 of the [[Archsage's Gauntlet]] [[Challenge Battle Mode|Challenge]] ''[[Gauntlet: Pro]]''.
+=== Skills ===
+Both Moebius Puppets have the following skill:
+*Deals 10% less damage but takes 30% less damage.
+
+=== Resistances ===
+==== J Puppet ====
+{{XC3 Resistances
+|knockback = 75%
+|blowdown = 75%
+|physdebuff = 35%
+|etherdebuff = 35%
+}}
+==== D Puppet ====
+{{XC3 Resistances
+|knockback = 90%
+|blowdown = 90%
+|physdebuff = 35%
+|etherdebuff = 35%
+}}
+{{clr}}
+=== Arts ===
+Both Moebius Puppets have the same Arts set as used in the story boss fight.
+{{xc3 stub}}
+
+[[Category:XC3 Bosses]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Moebius]]
+[[Category:XC3 Level 51-55 Enemies]]
+[[Category:XC3 Level 100+ Enemies]]
+[[Category:XC3 Challenge Battle Bosses]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]</text>
+      <sha1>1pgmh9mae2cyl88gyqonbbijip35b1e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moebius Shackles</title>
+    <ns>0</ns>
+    <id>125914</id>
+    <revision>
+      <id>580519</id>
+      <timestamp>2023-03-25T17:00:23Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Spoiler}} {{Infobox XC3 Status |title = Moebius Shackles |caption = Stops a character from moving. |image = File:XC3 Moebius Shackles.png |type = Debuff | attribute = Physical | base-duration = 15.0s | max-duration = 30.0s | rng-applicable = No | effect-title-4 = Remarks | effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs. }} '''Moebius Shackles''' is a [[Status Effect]] in {{XC3}}. It works similarly to [[Bind (XC3)|Bind]] in that it..."</comment>
+      <origin>580519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="750" sha1="clotdrcz4yjoie58fjpx3r4kzv80qm1" xml:space="preserve">{{Spoiler}}
+{{Infobox XC3 Status
+|title = Moebius Shackles
+|caption = Stops a character from moving.
+|image = File:XC3 Moebius Shackles.png
+|type = Debuff
+| attribute = Physical
+| base-duration = 15.0s
+| max-duration = 30.0s
+| rng-applicable = No
+| effect-title-4 = Remarks
+| effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs.
+}}
+'''Moebius Shackles''' is a [[Status Effect]] in {{XC3}}. It works similarly to [[Bind (XC3)|Bind]] in that it prevents the affected character from moving or taking actions, but their animations will be completely frozen.
+
+The debuff is only inflicted by [[Moebius S]], when she uses the Art "''Stasis Command''", and cannot be inflicted by the player's party.
+
+[[Category:XC3 Status]]</text>
+      <sha1>clotdrcz4yjoie58fjpx3r4kzv80qm1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moglum</title>
+    <ns>0</ns>
+    <id>119080</id>
+    <revision>
+      <id>602055</id>
+      <parentid>600779</parentid>
+      <timestamp>2023-07-22T12:25:09Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* Unique Monster */</comment>
+      <origin>602055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="769" sha1="sdn0vrimppelqu9b4mqpckah39isshb" xml:space="preserve">[[File:XC3 Ravenous Babayaga.png|thumb|Ravenous Babayaga]]
+'''Moglums''' are a family of aquatic enemies in {{XC3}} and {{XC3FR|sublink}}. They resemble angler fish. They can be found throughout the [[Erythia Sea]]. 
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Broon Moglum]]
+* [[Goran Moglum]]
+* [[Grilan Moglum]]
+
+=== Unique Monsters ===
+* [[Ravenous Babayaga]]
+* [[Talkative Dirakha]]
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Broon Moglum]]
+* [[Grilan Moglum]]
+
+=== Unique Monster ===
+* [[Cryoconite Laurel]]
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Species]]
+[[Category:XC3 Moglums]]
+[[Category:XC3 Aquatic Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Moglums]]
+[[Category:XC3FR Aquatic Life]]
+[[Category:Moglums]]
+[[Category:Species by Type]]</text>
+      <sha1>sdn0vrimppelqu9b4mqpckah39isshb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moist Upa (XC3)</title>
+    <ns>0</ns>
+    <id>121888</id>
+    <revision>
+      <id>594372</id>
+      <parentid>584715</parentid>
+      <timestamp>2023-05-27T14:58:15Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>594372</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1583" sha1="lfsy30drwrpkanu1vxz6djpcrorkrg3" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Moist Upa (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Moist Upa
+|image        = 
+|caption      = Moist Upa
+|category     = Minor Enemy
+|type         = [[Upa]]
+|level        = 46
+|area         = [[Agnus Castle Barbican]] ([[Sea-Gnawed Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Moist Upas''' are Minor Enemies in {{XC3}}. They are members of the [[Upa]] family, and can be found at level 46 in the [[Sea-Gnawed Cave]] at [[Agnus Castle Barbican]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Moist Upa
+|image        = Moist Upa FR.jpg
+|caption      = Moist Upa
+|category     = Normal Minor Enemy
+|type         = [[Upa]]
+|level        = 20
+|area         = [[Yesterdale]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Moist Upas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Upa]] family, and can be found at level 20 in [[Yesterdale]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Yesterdale Enemies]]
+[[Category:XC3 Upas]]
+[[Category:XC3FR Upas]]
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>lfsy30drwrpkanu1vxz6djpcrorkrg3</sha1>
+    </revision>
+  </page>
+  </mediawiki>

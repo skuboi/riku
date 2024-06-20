@@ -1,0 +1,6 @@
+Art Name: Vortex
+
+Class: Medic Gunner
+
+Effect: AOE/Area heal on hit
+

@@ -1,0 +1,2098 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Swimmer's Chemise</title>
+    <ns>0</ns>
+    <id>119017</id>
+    <revision>
+      <id>592882</id>
+      <parentid>592286</parentid>
+      <timestamp>2023-05-15T20:20:05Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592882</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1170" sha1="klv4k0bnw7tteatg6n76nh53dynq1mf" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Swimmer's Chemise
+|image     = XC3 Accessory Shirt.png
+|caption   = Increases Ether Defense by 5 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Swimmer's Chemise
+|image     = XC3 Accessory Shirt.png
+|caption   = Increases Ether Defense by 6 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Swimmer's Chemise
+|image     = XC3 Accessory Shirt.png
+|caption   = Increases Ether Defense by 7 percentage points.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 1210 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Swimmer's Chemises''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}. They can obtained by completing [[Carrie]]'s [[Collectopaedia (XC3)|Collectopaedia Card]], or buying it from [[Hilltop Caravan]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>klv4k0bnw7tteatg6n76nh53dynq1mf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Swimming Merfrey</title>
+    <ns>0</ns>
+    <id>117468</id>
+    <revision>
+      <id>559973</id>
+      <parentid>546987</parentid>
+      <timestamp>2022-09-30T10:59:06Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="847" sha1="cmxm4jtwgkqyhh8fhjzljoziwa6o3fx" xml:space="preserve">{{Infobox Enemy
+|name         = Swimming Merfrey
+|image        = 
+|caption      = Swimming Merfrey
+|category     = Minor Enemy
+|type         = [[Merfrey]]
+|level        = 62
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Swimming Merfreys''' are Minor Enemies in {{XC3}}. They are members of the [[Merfrey]] family, and can be found at level 62 at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merfreys]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>cmxm4jtwgkqyhh8fhjzljoziwa6o3fx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sword Bind</title>
+    <ns>0</ns>
+    <id>125913</id>
+    <revision>
+      <id>580518</id>
+      <timestamp>2023-03-25T16:50:47Z</timestamp>
+      <contributor>
+        <username>MagmaHound</username>
+        <id>25856498</id>
+      </contributor>
+      <comment>Created page with "{{Infobox XC3 Status |title = Sword Bind |caption = Incapacitates Attackers. |image = File:XC3 Sword Bind.png |type = Debuff | attribute = Ether | base-duration = 20.0s | rng-applicable = No | effect-title-4 = Remarks | effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs. }} '''Sword Bind''' is a [[Status Effect]] in {{XC3}}. It only affects [[Attacker]]s and prevents them from taking any actions during the effect. The debuff is only infl..."</comment>
+      <origin>580518</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="636" sha1="3824y4i1z7v4q2uc6dl783gud3zawuv" xml:space="preserve">{{Infobox XC3 Status
+|title = Sword Bind
+|caption = Incapacitates Attackers.
+|image = File:XC3 Sword Bind.png
+|type = Debuff
+| attribute = Ether
+| base-duration = 20.0s
+| rng-applicable = No
+| effect-title-4 = Remarks
+| effect-value-4 = This debuff cannot be removed by Arts or effects that clear debuffs.
+}}
+'''Sword Bind''' is a [[Status Effect]] in {{XC3}}. It only affects [[Attacker]]s and prevents them from taking any actions during the effect. The debuff is only inflicted by [[Moebius]] enemies whenever they use the Art "''Moebius Dominion: Attackers''", and cannot be inflicted by the player's party.
+
+[[Category:XC3 Status]]</text>
+      <sha1>3824y4i1z7v4q2uc6dl783gud3zawuv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sword Igna</title>
+    <ns>0</ns>
+    <id>117485</id>
+    <revision>
+      <id>595200</id>
+      <parentid>559974</parentid>
+      <timestamp>2023-06-11T15:37:41Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1830" sha1="j592f9aozt5xhkx6mx0mt310t0gdxkz" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sword Igna
+|image        = 
+|caption      = Sword Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 19&lt;br/&gt;42-43&lt;br/&gt;99
+|area         = [[Ribbi Flats]]&lt;br/&gt;[[Elaice Highway]]&lt;br/&gt;[[Erythia Sea]] ([[Rebellion Cave]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sword Ignas''' are Normal Minor Enemies in {{XC3}}. They are members of the [[Igna]] family, and can be found at level 19 on [[Ribbi Flats]], level 42-43 on [[Elaice Highway]], and at level 99 in [[Rebellion Cave]] at [[Erythia Sea]].
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Sword Igna
+|image        = Sword Igna FR.jpg
+|caption      = Sword Igna
+|category     = Normal Minor Enemy
+|type         = [[Igna]]
+|level        = 20
+|area         = [[Aurora Shelf]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Sword Ignas''' are Normal Minor Enemies in {{XC3FR}}. They are members of the [[Igna]] family, and can be found at level 20 on the [[Aurora Shelf]].
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Level 96-100 Enemies]]
+[[Category:XC3FR Level 16-20 Enemies]]
+[[Category:XC3 Ignas]]
+[[Category:XC3FR Ignas]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>j592f9aozt5xhkx6mx0mt310t0gdxkz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sword Merigna</title>
+    <ns>0</ns>
+    <id>121861</id>
+    <revision>
+      <id>559975</id>
+      <parentid>546990</parentid>
+      <timestamp>2022-09-30T10:59:12Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="799" sha1="r60kxgk7bqda43v992cizetjot7azbc" xml:space="preserve">{{Infobox Enemy
+|name         = Sword Merigna
+|image        = 
+|caption      = Sword Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Sword Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>r60kxgk7bqda43v992cizetjot7azbc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Swordfighter</title>
+    <ns>0</ns>
+    <id>116770</id>
+    <revision>
+      <id>603254</id>
+      <parentid>603243</parentid>
+      <timestamp>2023-07-25T12:16:50Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>603254</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8565" sha1="58jbusuk569zbmum9kou0gpzh2fqsfd" xml:space="preserve">{{quote|An Attacker armed with a large sword whose refined technique balances offense and defense.|Class menu description}}
+[[File:XC3 Swordfighter Weapon Icon.png|thumb|180px|The Swordfighter class icon]]
+'''Swordfighter''' (Japanese: {{lang|ja|&#12477;&#12540;&#12489;&#12501;&#12449;&#12452;&#12479;&#12540;}}, ''s&#333;dofait&#257;'') is a [[Keves]]i [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Swordfighters specialize in close-range attacks and they have balanced abilities, especially strong at fighting powerful [[Boss (XC3)|bosses]] and [[Unique Monster (XC3)|Unique Monsters]]. The [[Blade (XC3)|Blade]] of the Swordfighter class is the Veiled Sword.  Swordfighter is the initial class of [[Noah]]. 
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|''Starting Class &#8224;''
+|0 &#8225;
+|2,365
+|3,940
+|1,575
+|3,150
+|}
+&lt;small&gt;&#8224; Noah starts at Rank 5 in the class when initially playable.&lt;/small&gt;&lt;br&gt; &lt;!-- Keves characters all start at Rank 5, while Agnus characters all start at Rank 8 --&gt;
+&lt;small&gt;&#8225; Acquired automatically in Chapter 2, after viewing the "Consul K" event (which occurs after resting at the [[Hillside Ferronis Hulk]] during the main story)&lt;/small&gt;
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 140
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 140
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 175
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 175
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 225
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 225 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 245
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Side Story: Noah]]''
+|-
+| 11 
+| 340 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 340
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 455
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 455
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 570
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 570 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 680
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 680
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 740 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 855 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+
+== Class Stats ==
+The Swordfighter class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 70% || 105% || 30% || 110% || 80% || 10% || 10%
+|-
+| 10 || 72% || 110% || 32% || 115% || 82% || 12% || 12%
+|-
+| 20 || 75% || 115% || 35% || 120% || 85% || 15% || 15%
+|}
+
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate.
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the character's current Class will be used instead for calculations.
+
+If the weapon is [[Blade Upgrade|upgraded]], all values in the table are increased by 20% (multiplicatively) for the character wielding it (fractions are rounded to the nearest integer). &lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 19 || 10% || 5%
+|-
+| 10 || 40 || 11% || 5%
+|-
+| 20 || 73 || 12% || 6%
+|-
+| 30 || 114 || 13% || 6%
+|-
+| 40 || 159 || 14% || 7%
+|-
+| 50 || 212 || 15% || 8%
+|-
+| 60 || 270 || 16% || 8%
+|-
+| 70 || 335 || 17% || 9%
+|-
+| 80 || 408 || 18% || 9%
+|-
+| 90 || 491 || 19% || 10%
+|-
+| 99 || 575 || 20% || 10%
+|}
+
+== Arts ==
+* '''[[Overclock Buster]]''' ([[Battle Arts (XC3)|Talent Art]]), [[Daze (XC3)|Dazed]] &#8593;
+* '''[[Ground Beat]]''', AOE (Rank 1 Master Art)
+* '''[[Sword Strike (XC3)|Sword Strike]]''', Side [[Break (XC3)|Break]]
+* '''[[Edge Thrust]]''', Back Attack &#8593;
+* '''[[Air Slash (XC3)|Air Slash]]''', Cancel attack &#8593; 
+* '''[[Shadow Eye (XC3)|Shadow Eye]]''', Aggro halved / Atk up (Rank 10 Master Art)
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 3.png]] '''Cypher Edge''', Boosts Critical Rate by 10-50%. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 8.png]] '''Sharp Eye''', Boosts Dexterity by 10-50%.
+* [[File:XC3 Skill Icon 12.png]] '''Covert Attack''', Reduces aggro generated from attacks by 20-65%. (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 10.png]] '''Inspirit''', Boosts damage dealt by 60-150% when fighting a [[Unique Monster (XC3)|unique]] or [[Boss (XC3)|boss]] monster.
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Sharp Eye
+!Covert Attack 
+!Cypher Edge 
+!Inspirit
+|-
+| 1
+| 10%
+| 20%
+| 10%
+| 60%
+|-
+| 5
+| 15%
+| 25%
+| 15%
+| 70%
+|-
+| 10
+| 20%
+| 30%
+| 20%
+| 80%
+|-
+| 15
+| 35%
+| 50%
+| 35%
+| 130%
+|-
+| 20
+| 50%
+| 65%
+| 50%
+| 150%
+|}
+
+== Attachments ==
+[[File:XC3 Monado Amiibo Screenshot.jpg|thumb|180px|The Monado Weapon Attachment]]
+The appearance of the Swordfighter's Veiled Sword can be changed via [[Clothing|Attachments]] unlocked with [[amiibo]] of {{XC|serieslink}} characters. Scanning the [[Shulk]] amiibo will unlock the [[Monado]] as a weapon skin for the Veiled Sword, while scanning [[Pyra]] and [[Mythra]]'s amiibos will unlock weapon skins for their respective [[Aegis|Aegis Swords]]. 
+
+All three weapon skins can also be unlocked without the amiibo, upon meeting certain conditions:
+* The Monado is automatically obtained upon clearing the game.
+* Aegis Sword: Pyra is obtained by talking to [[Miibomii]] after completing the game and unlocking all [[Soul Tree]] upgrades.
+* Aegis Sword: Mythra is obtained by talking to Miibomii after completing the game and getting all [[Blade Upgrade]]s.
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Noah Artwork.png|Noah as a Swordfighter
+Swordfighter Mio.png|Mio as a Swordfighter
+Swordfighter Eunie.png|Eunie as a Swordfighter
+Swordfighter Taion.png|Taion as a Swordfighter
+Swordfighter Lanz.png|Lanz as a Swordfighter
+Swordfighter Sena.png|Sena as a Swordfighter
+XC3 Same Class appearance 01.jpg|Mio and Noah as Swordfighters
+XC3 Aegis Sword Pyra.jpg|The Aegis Sword: Pyra Weapon Skin
+XC3 Aegis Sword Mythra.jpg|The Aegis Sword: Mythra Weapon Skin
+Noah Monado.jpg|Noah wielding the Monado as a Swordfighter
+Noah Pyra Aegis Sword.jpg|Noah wielding Pyra's Aegis Sword as a Swordfighter
+Mio Mythra Aegis Sword.jpg|Mio wielding Mythra's Aegis Sword as a Swordfighter
+&lt;/gallery&gt;
+
+== Videos ==
+&lt;gallery&gt;
+File:&#12477;&#12540;&#12489;&#12501;&#12449;&#12452;&#12479;&#12540; &#12450;&#12540;&#12484;|Swordfighter's Arts
+File:&#12477;&#12540;&#12489;&#12501;&#12449;&#12452;&#12479;&#12540; &#12479;&#12524;&#12531;&#12488;&#12450;&#12540;&#12484;|Swordfighter's Talent Arts
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>58jbusuk569zbmum9kou0gpzh2fqsfd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sycophantic Lilith</title>
+    <ns>0</ns>
+    <id>119406</id>
+    <revision>
+      <id>583320</id>
+      <parentid>574702</parentid>
+      <timestamp>2023-04-17T16:11:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1513" sha1="2wqk6i8k0mg41u6bzaftjvfeiu5lj31" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Sycophantic Lilith
+|image        = XC3 Syncophantic Lilith.png
+|caption      = Sycophantic Lilith
+|type         = [[Bunnit]]
+|level        = 5
+|area         = [[Yzana Plains]] ([[Colony 9 Front Gate]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 96
+|cp           = 47
+|sp           = 5
+|gold         = 145
+|hp           = 18,720
+|strength     = 64
+|healing      = 20
+|dexterity    = 37
+|agility      = 33
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 8%
+|guardrate-front = 5%
+|guardrate-side  = 0%
+|guardrate-back  = 0%
+}}
+'''Sycophantic Lilith''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Bunnit]] family, and can be found at level 5 southwest of the [[Colony 9 Front Gate]] in [[Yzana Plains]]. The [[Hard Dig]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+It can drop [[Dextrous Bunnit Tail]] and [[Bunnit Meat]] when defeated.
+== Resistances ==
+{{XC3 Resistances
+|break = 0%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 30%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Sycophantic lilith location.png
+Sycophantic lilith.png
+&lt;/gallery&gt;
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Level 1-5 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Bunnits]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>2wqk6i8k0mg41u6bzaftjvfeiu5lj31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tableland Ferronis Hulk</title>
+    <ns>0</ns>
+    <id>119136</id>
+    <revision>
+      <id>582395</id>
+      <parentid>569105</parentid>
+      <timestamp>2023-04-10T23:55:37Z</timestamp>
+      <contributor>
+        <username>Firebear1</username>
+        <id>32134218</id>
+      </contributor>
+      <origin>582395</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="683" sha1="1u34b70ltai70l63kfpoegpf63n43ym" xml:space="preserve">{{Infobox location
+|name        = Tableland Ferronis Hulk
+|image       = Tableland Ferronis Hulk.jpg
+|caption     = Tableland Ferronis Hulk
+|type        = [[Rest Spot (XC3)|Rest Spot]]
+|located     = [[Rae-Bel Tableland]]
+|inhabitants = 
+|weather     = 
+|connects to = 
+|music       = 
+}}
+'''Tableland Ferronis Hulk''' (Japanese: {{lang|ja|&#39640;&#21407;&#12398;&#26429;&#12385;&#12383;&#37444;&#24040;&#31070;}}, ''K&#333;gen no Kuchita Tetsukyoshin'') is a [[Rest Spot (XC3)|Rest Spot]] in {{XC3}}. It is located in [[Rae-Bel Tableland]] of the [[Fornis Region]]. This [[Ferronis Hulk]] is rebooted by completing ''[[The Tableland Hulk]]''. 
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Fornis Region Rest Spots]]
+[[Category:XC3 Ferronis]]</text>
+      <sha1>1u34b70ltai70l63kfpoegpf63n43ym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tactical Gloves</title>
+    <ns>0</ns>
+    <id>122593</id>
+    <revision>
+      <id>592883</id>
+      <parentid>592305</parentid>
+      <timestamp>2023-05-15T20:20:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592883</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" sha1="hvpjr9a8938yopcj0jtmyizvvk18tvy" xml:space="preserve">&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Tactical Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 20% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Tactical Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 21% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Tactical Gloves
+|image     = XC3 Accessory Gauntlet.png
+|caption   = Boosts evasion by 22% while Art is active.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 9720 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Tactical Gloves''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>hvpjr9a8938yopcj0jtmyizvvk18tvy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tactical Points</title>
+    <ns>0</ns>
+    <id>117312</id>
+    <revision>
+      <id>585091</id>
+      <parentid>541787</parentid>
+      <timestamp>2023-04-24T12:23:10Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>585091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1228" sha1="b4ppe8lfyjj3q8z63wh2lw9rkomhi25" xml:space="preserve">{{for|TP in {{XCX|-}}|Tension (XCX)}}
+{{spoiler}}
+'''Tactical Points''', commonly referred to as '''TP''', are a mechanic in {{XC3}} and {{XC3FR|sublink}}.&lt;ref&gt;[https://topics.nintendo.co.jp/article/a4c0a78d-e993-4fae-8c8e-62c5927040fa Xenoblade Notebook vol. 4: A thorough explanation of the Arts in ''Xenoblade 3''].&lt;/ref&gt;
+
+== Overview ==
+TP is the measure of how effective the Arts performed in a [[Chain Attack (XC3)|Chain Attack]] are, and are required to continue the Chain Attack. Accumulating TP helps to increase the [[Party Gauge (XC3)|Gauge]] that activates a Chain Art once filled and determines how many characters are reactivated after the Chain Art is executed. The amount of TP generated by a selected Art is dependent on multiple factors, such as the character selected for the attack, whether the selected character shares the same Role and/or nation as the character carrying out the Chain Order, the amount of damage it inflicts or heals, and whether or not it contributes to a Combo. 
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Chain Attack 02.jpg
+XC3 Chain Attack 03.jpg
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Battle Flow]]
+[[Category:XC3 Stats]]
+[[Category:XC3FR Battle Flow]]</text>
+      <sha1>b4ppe8lfyjj3q8z63wh2lw9rkomhi25</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tactician</title>
+    <ns>0</ns>
+    <id>117285</id>
+    <revision>
+      <id>597108</id>
+      <parentid>597103</parentid>
+      <timestamp>2023-06-23T13:47:58Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>597108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7275" sha1="6tos0btbvv9aybf0k84ilhy60vk2qi5" xml:space="preserve">{{quote|A Healer, specializing in dazzling foes and offering support by using spell tags.|Class menu description}}
+[[File:XC3 Tactician Weapon Icon.png|thumb|Tactician Class Icon]]
+'''Tactician''' (Japanese: {{lang|ja|&#25126;&#34899;&#22763;}}, ''Senjutsu-shi'') is an [[Agnus|Agnian]] [[Healer]] [[Class (XC3)|class]] in {{XC3}}.&lt;ref&gt;[https://topics.nintendo.co.jp/article/a4c0a78d-e993-4fae-8c8e-62c5927040fa Xenoblade Notebook vol. 4: A thorough explanation of the Arts in ''Xenoblade 3''].&lt;/ref&gt;
+
+== Overview ==
+Tacticians specialize in supporting allies and disrupting [[Enemy (XC3)|enemies]] by using ether to disguise them. While putting enemies to sleep, he also reduces damage with [[Battle Arts (XC3)|arts]] making evasion easier for his companions. The [[Battle Arts (XC3)|Talent Art]] of Tactician is [[Tidal Wave]]. It is the initial class of [[Taion]].
+{{clr}}
+
+== Class Aptitude and Unlock Requirements ==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|3,150
+|1,575
+|0 &#8224;
+|''Starting Class &#8225;''
+|3,940
+|2,365
+|}
+&lt;small&gt;&#8224; Acquired automatically in Chapter 2, after viewing the "Consul K" event (which occurs after resting at the [[Hillside Ferronis Hulk]] during the main story)&lt;/small&gt;&lt;br&gt;
+&lt;small&gt;&#8225; Taion starts at Rank 8 in the class when in the player's party for the first time.&lt;/small&gt; &lt;!-- Keves characters all start at Rank 5, while Agnus characters all start at Rank 8 --&gt;
+
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 170
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 3 
+| 170
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 2
+|-
+| 4 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 210
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 255
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 7 
+| 255
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 8 
+| 270
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 9 
+| 270 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 10 
+| 295
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| colspan="3" class="event" | Complete ''[[Side Story: Taion]]''
+|-
+| 11 
+| 390
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 12 
+| 390
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 13 
+| 525
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 14 
+| 525
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 15 
+| 650
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 16 
+| 650 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 17 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 18 
+| 780
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 850 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 20 
+| 975 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|}
+{{clr}}
+== Class Stats ==
+The Tactician class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 60% || 60% || 105% || 105% || 75% || 5% || 25%
+|-
+| 10 || 62% || 62% || 110% || 107% || 77% || 7% || 27%
+|-
+| 20 || 65% || 65% || 115% || 110% || 80% || 10% || 30%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate.
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the character's current Class will be used instead for calculations.
+
+If the weapon is [[Blade Upgrade|upgraded]], all values in the table are increased by 20% (multiplicatively) for the character wielding it (fractions are rounded to the nearest integer). &lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 15 || 5% || 10%
+|-
+| 10 || 33 || 5% || 10%
+|-
+| 20 || 59 || 6% || 11%
+|-
+| 30 || 91 || 6% || 11%
+|-
+| 40 || 126 || 7% || 12%
+|-
+| 50 || 169 || 8% || 13%
+|-
+| 60 || 215 || 8% || 13%
+|-
+| 70 || 267 || 9% || 14%
+|-
+| 80 || 326 || 9% || 14%
+|-
+| 90 || 392 || 10% || 15%
+|-
+| 99 || 458 || 10% || 15%
+|}
+== Arts ==
+* '''[[Tidal Wave]]''' ([[Battle Arts (XC3)|Talent Art]]) - AOE / Heal all on hit
+* '''[[Dark Banner]]''' - AOE / [[Sleep (XC3)|Sleep]] (Rank 1 Master Art)
+* '''[[Overfall (XC3)|Overfall]]''' - Ether Def. down (Rank 10 Master Art)
+* '''[[Stormy Skies (XC3)|Stormy Skies]]''' - AOE / Heal
+* '''[[Hazy Figure]]''' - Field / Eva. up
+* '''[[Avenging Eagle]]''' - AOE / Eva. down
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 29.png]] '''Ethereal Ability''':  Boosts damage dealt by ether Arts by 30-50%. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 5.png]] '''Shieldrender''':  Adds 60-100% chance for attack to be unblockable.
+* [[File:XC3 Skill Icon 20.png]] '''Eternal Curse''':  Extends duration timers of debuffs applied to enemies by 30-50%.
+* [[File:XC3 Skill Icon 9.png]] '''Inevitable Evitability''':  6-10% chance to evade enemy attack. (Rank 15 Master Skill)
+
+=== Stat Increases ===
+{| class="xc1 centered" style="width:80%;"
+!Class Rank
+!Ethereal Ability
+!Shieldrender
+!Eternal Curse
+!Inevitable Evitability
+|-
+| 1
+| 30%
+| 60%
+| 30%
+| 6%
+|-
+| 5
+| 35%
+| 70%
+| 35%
+| 7%
+|-
+| 10
+| 40%
+| 80%
+| 40%
+| 8%
+|-
+| 15
+| 45%
+| 90%
+| 45%
+| 9%
+|-
+| 20
+| 50%
+| 100%
+| 50%
+| 10%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+XC3 Taion Artwork.png|Taion as a Tactician
+Tactician Noah.png|Noah as a Tactician
+Tactician Mio.png|Mio as a Tactician
+Tactician Eunie.png|Eunie as a Tactician
+Tactician Lanz.png|Lanz as a Tactician
+Tactician Sena.png|Sena as a Tactician
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{xc3 stub}}
+
+[[Category:XC3 Classes]]</text>
+      <sha1>6tos0btbvv9aybf0k84ilhy60vk2qi5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tailwind</title>
+    <ns>0</ns>
+    <id>118903</id>
+    <revision>
+      <id>595279</id>
+      <parentid>592033</parentid>
+      <timestamp>2023-06-11T16:43:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595279</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6213" sha1="dhcbuc2prah57a3zss8i3qf5nkykpyp" xml:space="preserve">{{Infobox Gem
+| name     = Tailwind
+| image    = Gem-defender.png
+| effect   = [Passive] Increases Agility by ''(value)''.
+| category = Defender
+| max      = 35
+}}
+'''Tailwind''' is a Defender [[Gem]] in {{XC3}} and {{XC3FR|sublink}}.
+
+== Gem Stats ==
+{| class="xc1 gem-stats centered" style="width: 200px"
+!
+!Agility Increase
+|-
+!I
+|10
+|-
+!II
+|12
+|-
+!III
+|15
+|-
+!IV
+|17
+|-
+!V
+|20
+|-
+!VI
+|22
+|-
+!VII
+|25
+|-
+!VIII
+|27
+|-
+!IX 
+|30
+|-
+!X
+|35
+|}
+
+== List of Recipes==
+At [[Rest Spot (XC3)|Rest Spots]], [[Riku]] will [[Gem Crafting|craft]] [[Gem]]s using items picked up during adventures or acquired from [[enemy (XC3)|enemies]]. If the required items are missing, the party can instead exchange [[Nopon Coin (Gold)|Gold Nopon Coins]] to craft the gem without having to consume any of the required items.
+
+=== {{XC3|-}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity!!Coin Cost
+|-
+|Tailwind I
+| [[Gemstone]]&lt;br /&gt;[[Pale Skeeter Wing]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]]
+|-
+|Tailwind II
+|[[Gemstone]]&lt;br /&gt;[[Vang Membrane]]&lt;br /&gt;[[Decorative Grebel Quill]]&lt;br /&gt;[[Glitter Radish]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 4
+|-
+|Tailwind III
+| [[Gemstone]]&lt;br /&gt;[[Vang Membrane]]&lt;br /&gt;[[Gold Arachno Queensilk]]&lt;br /&gt;[[Arachno Thread]]&lt;br /&gt;[[Munchygrub Fossil]]&lt;br /&gt;[[Ether Cylinder (XC3)|Ether Cylinder]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 8
+|-
+|Tailwind IV
+|[[Pure Gemstone]]&lt;br /&gt;[[Piercing Rhogul Quill]]&lt;br /&gt;[[Slender Flamii Bone]]&lt;br /&gt;[[Testudo Iron Wing]]&lt;br /&gt;[[Mobility Thruster]]&lt;br /&gt;Ether Cylinder
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 14
+|-
+|Tailwind V
+|Pure Gemstone&lt;br /&gt;[[Lightweight Velites Base]] x 2&lt;br /&gt;[[Small Speculatos Base]] x 2&lt;br /&gt;Pale Skeeter Wing x 2&lt;br /&gt;[[Ion Booster]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 20
+|-
+|Tailwind VI 
+|Pure Gemstone&lt;br /&gt;[[Vollgull Stormwind Wing]] x 2&lt;br /&gt;[[Sagittarius Frame]] x 2&lt;br /&gt;[[Equites Tank Wheel]] x 2&lt;br /&gt;[[Anti-Grav Chassis]]&lt;br /&gt;Ether Cylinder x 2 
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 28
+|-
+| Tailwind VII
+|[[Ultra Pure Gemstone]]&lt;br /&gt;[[Horrish Propeller]] x 2&lt;br /&gt;[[Geometric Myoot Gear]] x 2&lt;br /&gt;Testudo Iron Wing x 3&lt;br /&gt;Small Speculatos Base x 3&lt;br /&gt;[[Ring Guava]]&lt;br /&gt;Ether Cylinder x 2
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 40
+|-
+|Tailwind VIII
+|Ultra Pure Gemstone x 2&lt;br /&gt;[[Elegant Ansel Feather]] x 15&lt;br /&gt;Vang Membrane x 15&lt;br /&gt;[[Obsidian Kananus Mane]] x 15&lt;br /&gt;Horrish Propeller x 15&lt;br /&gt;[[Vagrant Jade]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 55
+|-
+|Tailwind IX
+|Ultra Pure Gemstone x 3&lt;br /&gt;Lightweight Velites Base x 20&lt;br /&gt;Slender Flamii Bone x 20&lt;br /&gt;[[Fine Ageshu Wing]] x 20&lt;br /&gt;[[Powdered Skwaror Leaves]] x 20&lt;br /&gt;[[Pentashroom]] x 10&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 75
+|-
+|Tailwind X
+|Ultra Pure Gemstone x 5&lt;br /&gt;[[Shining Ellook Antler]] x 30&lt;br /&gt;[[Golden Brog Oil]] x 30&lt;br /&gt;Pale Skeeter Wing x 30&lt;br /&gt;[[Antol Leg Chitin]] x 30&lt;br /&gt;Fine Ageshu Wing x 30&lt;br /&gt;Ether Cylinder x 3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+| [[File:Nopon Coin Gold.png|link=Nopon Coin (Gold)|38px]] x 99
+|}
+
+=== {{XC3FR|sub}} ===
+{| class="xc1 sortable centered" width=100%
+!Name!!Ingredients!!Rarity
+|-
+|Tailwind I
+| [[Gemstone]]&lt;br /&gt;[[Flier Nectar Jelly]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Tailwind II
+| Gemstone&lt;br /&gt;[[Pale Skeeter Wing]]
+|[[File:Rarity Common.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Tailwind III
+| [[Pure Gemstone]]&lt;br /&gt;Pale Skeeter Wing x2&lt;br /&gt;[[Refreshing Piranhax Meat]]
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|-
+|Tailwind IV
+| Pure Gemstone&lt;br /&gt;[[Nutrient-Rich Vollgull Egg]] x2&lt;br /&gt;[[Vang Membrane]] x2
+|[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]
+|-
+|Tailwind V
+| [[Ultra Pure Gemstone]]&lt;br /&gt;[[Mineral Darbus Bone]]&lt;br&gt;[[Imperial Taos Egg]] x2&lt;br&gt;Pale Skeeter Wing x3
+|[[File:Rarity Legendary.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Rare.png|42px]]&lt;br /&gt;[[File:Rarity Common.png|42px]]
+|}
+[[Category:XC3 Gems]]
+[[Category:XC3FR Gems]]</text>
+      <sha1>dhcbuc2prah57a3zss8i3qf5nkykpyp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Taion</title>
+    <ns>0</ns>
+    <id>116351</id>
+    <revision>
+      <id>599693</id>
+      <parentid>598109</parentid>
+      <timestamp>2023-07-15T15:02:04Z</timestamp>
+      <contributor>
+        <username>WiseAdventurer</username>
+        <id>9719562</id>
+      </contributor>
+      <comment>good article format back, please try to use the "Source Mode" edition instead of the "Visual Mode", rewritten paragraph kept of course Undo revision 598109 by [[Special:Contributions/SakuDio|SakuDio]] ([[User talk:SakuDio|talk]])</comment>
+      <origin>599693</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18867" sha1="imyf3wz4rnsazdp1k0z98dy6yuli9jq" xml:space="preserve">{{spoiler}}
+{{Infobox Character
+|name         = Taion
+|image        = Taion portrait.png
+|species      = [[Agnus|Agnian]] human
+|age          = 9th Term
+|gender       = Male
+|haircolor    = Brown
+|eyecolor     = Hazel
+|affiliation  = [[Colony Lambda]] (formerly)&lt;br/&gt;[[Colony Gamma]] (formerly)
+|voiceactorjp = [[wikipedia:Ry%C5%8Dhei Kimura|Ry&#333;hei Kimura]]
+|voiceactoreng= [https://www.imdb.com/name/nm7050750/ Olivier Huband]
+|appearances  = {{XC3}}&lt;br/&gt;{{XC3FR|sublink}} (flashback)
+}}
+{{quote|There's no escape! When my Mondo have you... They'll follow you to the ends of the world!|Taion}}
+'''Taion''' (Japanese: {{lang|ja|&#12479;&#12452;&#12458;&#12531;}}, ''Taion'') is a playable character in {{XC3}}. 
+
+== Overview ==
+Taion is an [[Agnus|Agnian]] soldier along with [[Mio]] and [[Sena]]. He is an Agnian human with [[Blade Eater]] traits.
+
+== Story ==
+Taion was taken under [[Isurd]]'s wing and was trained up as a tactician in [[Colony Lambda]], a company unit of the army of Agnus. He was transferred to [[Colony Gamma]]'s special forces unit after Lambda suffered a crushing defeat at the hands of [[Colony 13]]. After awakening as an [[Ouroboros]] following a top secret mission, Isurd and the nation of Agnus now greet their former ally as an enemy.&lt;ref&gt;[https://twitter.com/NintendoEurope/status/1526502817804042241]&lt;/ref&gt; He is a [[Tactician]] who can analyze the terrain using the communication function projected in his eyes, granting a great help in finding the way to the "land where the great sword stands", [[Swordmarch]].&lt;ref&gt;https://twitter.com/XenobladeJP/status/1536611094323933184&lt;/ref&gt;
+
+== Personality ==
+Taion is a tactician of surpassing skill who supports his allies. Taion works alongside Mio and Sena, who trust his high level of insight and tactical judgment. On one hand, he has a cheeky personality, but on the other, he is sometimes too cautious, getting easily annoyed and impatient when he does not understand something.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1493845499946086400&lt;/ref&gt; Though quick to point out his strategic acumen, it is one of the few things about himself that he has any confidence in. 
+
+When his mentor [[Nimue]] died protecting him in a failed attack on Keves forces, he blamed his recklessness for her death and developed a preference for more careful and cautious plans in the hope that he would not allow any of his companions to die again. However, this has also occasionally led him to be indecisive and excessively timid when a more daring strategy would be more effective.  Despite his aloof demeanor, he has been noted by others to be surprisingly kind and sensitive if somewhat prone to melancholy. 
+
+== Gameplay ==
+His initial [[Class (XC3)|Class]] is [[Tactician]], a [[Healer]] class. Taion specializes in supporting his allies by reducing damage with moves that make evasion for his companions easier while debuffing enemies. He also masters tricks to lure [[Enemy (XC3)|enemies]] like putting them to sleep.&lt;ref&gt;https://twitter.com/XenobladeJP/status/1536610246697033728&lt;/ref&gt; He uses a mysterious paper-like [[Blade (XC3)|Blade]] known as "Katashiro", to which he has taken a liking, and calls them "Mondo".
+
+In a [[Chain Attack (XC3)|Chain Attack]], Taion starts with 35 TP by default. His Chain Art is [[Art of Subjugation]], which reduces the enemy's physical defense by 30-50 percentage points (depending on his level) upon completing his order. 
+
+Taion starts at Rank 8 in his initial Tactician class, and has a common [[Circlet of Intellect]] equipped when in the player's party for the first time.
+
+=== Base Stats ===
+These are Taion's raw stats prior to modifications by class. They serve as a baseline for calculating Taion's stats in a class. Intermediate values are linearly interpolated between these base stats.
+{| class="xc1 centered" width="80%"
+! Level !! HP !! Attack !! Healing Power !! Dexterity !! Agility
+|-
+| 1 || 319 || 18 || 19 || 33 || 20
+|-
+| 99 || 6,371 || 368 || 381 || 325 || 197
+|}
+
+=== General Stats ===
+These stats assume Taion is at level 99, at rank 20 in each of these respective classes, and is not equipping any [[Skill (XC3)|Master Skills]], [[Gem]]s or [[Accessory (XC3)|Accessories]]. Boosts from skills innate to a class are indicated with round brackets, whereas boosts from having an [[Blade Upgrade|upgraded Blade]] are indicated with square brackets.
+{| class="xc1 centered" width="100%"
+! Class !! HP !! Attack
+! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate !! Physical Defense !! Ether Defense
+|-
+|[[Swordfighter]]||4,778||998||133||390 (+195)||167||20% (+10%)||10%||15%||15%
+|-
+|[[Zephyr]]||7,008||800||95||341||256 (+76)||20%||35%||35%||50% (+15%)
+|-
+|[[Medic Gunner]]||3,822||662||457 (+15)||341||147||10%||10%||15%||25%
+|-
+|[[Tactician]]||4,141||697 [+92]||438||357||157||10% [+2%]||15% [+3%]||10%||30%
+|-
+|[[Heavy Guard]]||8,282||828||95||325||147||8%||35%||50% (+10%)||35%
+|-
+|[[Ogre]]||5,096||1,061||95||325||167||20%||15%||20%||10%
+|-
+|[[Flash Fencer]]||4,778||989||95||390||216||30%||8%||15%||15%
+|-
+|[[War Medic]]||3,822||650||476||390||147||6%||8%||15%||25%
+|-
+|[[Guardian Commander]]||7,645||784||133||341||147||8%||40%||50%||35%
+|-
+|[[Thaumaturge]]||4,778||810||419||390||147||24%||12%||10%||30%
+|-
+|[[Yumsmith]]||5,096||948||133||422||147||20%||20%||15%||15%
+|- 
+|[[Full Metal Jaguar (XC3)|Full Metal Jaguar]]||4,459||953||171||422||216||10%||10%||15%||15%
+|-
+|[[Strategos]]||4,141||722||438||357||167||15%||6%||10%||30%
+|-
+|[[Stalker]]||4,459||958||95||422||256||30%||6%||15%||15%
+|-
+|[[Lone Exile]]||7,008||883||57||357||246||24%||30%||35%||50%
+|-
+|[[Incursor]]||4,778||1,016||76||341||197||35%||6%||20%||10%
+|-
+|[[Lost Vanguard]]||7,963||813||133||390||177||20%||45%||50%||35%
+|-
+|[[Signifer]]||3,822||826||285||341||177||16%||16%||10%||30%
+|-
+|[[Soulhacker]]&lt;br&gt;&lt;small&gt;(Power Soul)&lt;/small&gt;||4,778||1,058||57||341||147||15%||25%||20%||10%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Strike Soul)&lt;/small&gt;||4,778||1,003||114||390||187||15%||25%||15%||15%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Tough Soul)&lt;/small&gt;||7,963||929||57||308||128||15%||25%||45%||35%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Dodge Soul)&lt;/small&gt;||7,008||929||57||341||236||15%||25%||35%||45%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Heal Soul)&lt;/small&gt;||4,459||856||381||357||177||15%||25%||10%||30%
+|-
+|Soulhacker&lt;br&gt;&lt;small&gt;(Balanced Soul)&lt;/small&gt;||4,141||911||285||341||177||15%||25%||10%||30%
+|-
+|[[Martial Artist]]||4,778||958||95||390||236||36%||16%||15%||15%
+|-
+|[[Troubadour]]||3,504||652||438||357||197||16%||8%||10%||30%
+|-
+|[[Seraph]]||5,096||1,139||57||325||167||25%||10%||20%||20%
+|-
+|[[Machine Assassin]]||5,096||1,095||95||390||147||30%||20%||20%||10%
+|-
+|[[Lifesage]]||4,141||835||495||390||216||20%||30%||15%||25%
+|-
+|[[Royal Summoner]]||4,141||1,149||228||422||216||30%||10%||15%||15% (+3%)
+|-
+|[[Noponic Champion]]||7,645||868||0||390||256||15%||35%||45%||40%
+|-
+|[[Lapidarist]]||3,504||843||457||373||216||35% (+7%)||6%||10%||15%
+|}
+
+== Ouroboros ==
+[[File:Ouroboros Taion.png|thumb|Taion's Ouroboros]]
+After becoming [[Ouroboros]], Taion is able to [[Interlink]] with [[Eunie]]. When Taion is in control, he is able to use arts that can inflict debuffs onto enemies. 
+
+=== Base Stats ===
+These are Taion's Ouroboros's raw stats. The experience level of the Ouroboros which determines its stats (contrary to any displayed level in menus) is the average of Eunie and Taion's experience levels (fractions are rounded up).
+{| class="xc1 centered" width="100%"
+! Level !! Attack !! Healing Power !! Dexterity !! Agility !! Critical Rate !! Block Rate
+|-
+| 1, no Soul Tree || 46 || 25 || 42 || 25 || 30% || 5%
+|-
+| 99, no Soul Tree || 1,185 || 502 || 423 || 254 || 40% || 15%
+|-
+| 99, complete Soul Tree || 1,823 || 502 || 516 || 254 || 75% || 15%
+|}
+
+=== Arts ===
+* '''[[Eightfold Divide]]''' ([[Battle Arts (XC3)|Talent Art]]) - AOE/Blowdown/0 charge
+* [[Spirit Raven]] - AOE/Area heal on hit
+* [[Lurking Spider]] - Interlink Lv. 3: [[Burst]] all
+* [[Atomize]] - AOE/Blowdown/[[Blaze (XC3)|Blaze]]/Evade
+* [[Fleeting Form]] - [[Regenerate (XC3)|Regenerate]] to all
+* [[Grand Priest]] - Interlink Lv. 3: [[Topple (XC3)|Topple]] all
+* [[Body Double]] - AOE / 1 random debuff
+
+Taion's Ouroboros Chain Art is [[Grand Design]], which greatly increases damage ratio and fully heals all allies.
+
+=== Skills ===
+* '''Eclipse''', Decreases all enemies' debuff resistance by 30/50 percentage points. 
+* '''Unceasing Curse''', Makes duration timers of debuffs on all enemies tick down 50% slower/Pauses the timer on all debuffs inflicted on all enemies.
+* '''Shared Curse''', Grants a small/large increase to damage dealt for each debuff active on all enemies (up to a maximum of 500%).
+* '''Strength Sapper''', Adds 5-10% chance to reset enemy recharge when Art hits.
+
+=== Soul Tree ===
+Below is an image showing the layout of Taion's Ouroboros [[Soul Tree]].
+[[File:XC3 Soul Tree Taion.jpeg|center|550px]]
+{{Clr}}&lt;br&gt;
+The below table contains a detailed breakdown of all nodes within the Soul Tree.
+
+''Note: Columns are numbered from left to right, i.e. column 1 is the leftmost column, and column 8 is the rightmost column. Nodes are listed in order of increasing column number, from top to bottom, ignoring order of unlocking.'' &lt;!-- This listing of nodes matches how they are stored internally --&gt;
+{|class="xc1 centered mw-collapsible" style="width:100%;"
+!style="width:5%;"| Node
+!style="width:10%;"| Icon
+!style="width:20%;"| Name
+!style="width:35%;"| Description
+!style="width:20%;"| Prerequisite
+!style="width:10%;"| Cost
+|-
+!colspan="6"|Column 1
+|-
+|1
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 30.
+|''None''
+|15 SP
+|-
+!colspan="6"|Column 2
+|-
+|2
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Eclipse
+|Decreases all enemies' debuff resistance by 30 percentage points.
+|"Attack Plus" (Node 1)
+|35 SP
+|-
+|3
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Shared Curse
+|Grants a small increase to damage dealt for each debuff active on all enemies (up to a maximum of 500%).
+|"Critical Up" (Node 6) ''or'' "Heat Control: Time" (Node 8)
+|55 SP
+|-
+|4
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Unceasing Curse
+|Makes duration timers of debuffs on all enemies tick down 50% slower.
+|"Attack Plus" (Node 1)
+|35 SP
+|-
+!colspan="6"|Column 3
+|-
+|5
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Grand Priest
+|Interlink Lv3: Topple all
+|"Eclipse" (Node 2) ''or'' "Critical Up" (Node 6)
+|40 SP
+|-
+|6
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 10%.
+|"Shared Curse" (Node 3) ''or'' "Grand Priest" (Node 5) ''or'' "Spirit Raven" (Node 10)
+|25 SP
+|-
+|7
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 10 percentage points.
+|"Eclipse" (Node 2) ''or'' "Unceasing Curse" (Node 4)
+|20 SP
+|-
+|8
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Shared Curse" (Node 3) ''or'' "Strength Sapper" (Node 9) ''or'' "Grand Priest" (Node 14)
+|45 SP
+|-
+|9
+|[[File:XC3 Soul Tree Learn Skill.png|45px]]
+|'''Learn Skill'''&lt;br&gt;Strength Sapper
+|Adds 5% chance to reset enemy recharge when Art hits.
+|"Unceasing Curse" (Node 4) ''or'' "Heat Control: Time" (Node 8)
+|40 SP
+|-
+!colspan="6"|Column 4
+|-
+|10
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Spirit Raven
+|AOE/Area heal on hit
+|"Critical Up" (Node 6) ''or'' "Eclipse" (Node 16)
+|130 SP
+|-
+|11
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Body Double
+|AOE / 1 random debuff
+|"Critical Plus" (Node 7)
+|45 SP
+|-
+|12
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Unlock Arts Canceling
+|Allows you to cancel one Art into another Art, but doing so will fill up the heat gauge slightly.
+|"Eclipse" (Node 16) ''or'' "Attack Up" (Node 18)
+|200 SP
+|-
+|13
+|[[File:XC3 Soul Tree Learn Art.png|45px]]
+|'''Learn Art'''&lt;br&gt;Fleeting Form
+|Regenerate to all
+|"Critical Plus" (Node 7)
+|45 SP
+|-
+|14
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Grand Priest
+|Interlink Lv3: Topple all
+|"Grand Priest" (Node 5) ''and either'' "Heat Control: Time" (Node 8) ''or'' "Attack Up" (Node 18)
+|130 SP
+|-
+!colspan="6"|Column 5
+|-
+|15
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Body Double" (Node 11)
+|50 SP
+|-
+|16
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Eclipse
+|Decreases all enemies' debuff resistance by 50 percentage points.
+|"Eclipse" (Node 2) ''and either'' "Spirit Raven" (Node 10) ''or'' "Unlock Arts Canceling" (Node 12) ''or'' "Dexterity Plus" (Node 20) ''or'' "Unceasing Curse" (Node 22)
+|150 SP
+|-
+|17
+|[[File:XC3 Soul Tree Enhance Talent Art.png|45px]]
+|'''Enhance Talent Art'''&lt;br&gt;Eightfold Divide
+|AOE/Blowdown/0 charge
+|"Heat Control: Arts Canceling" (Node 21) ''or'' "Heat Control: Time" (Node 23)
+|245 SP
+|-
+|18
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 20%.
+|"Unlock Arts Canceling" (Node 12) ''or'' "Grand Priest" (Node 14) ''or'' "Unceasing Curse" (Node 22) ''or'' "Critical Plus" (Node 24)
+|30 SP
+|-
+|19
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Fleeting Form" (Node 13)
+|55 SP
+|-
+!colspan="6"|Column 6
+|-
+|20
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Plus
+|Increases Dexterity by 30.
+|"Eclipse" (Node 16) ''or'' "Attack Plus" (Node 25) ''or'' "Lurking Spider" (Node 26)
+|35 SP
+|-
+|21
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Arts Canceling
+|Reduces heat gauge buildup from canceling one Art into another Art in Ouroboros form.
+|"Attack Up" (Node 27)
+|90 SP
+|-
+|22
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Unceasing Curse
+|Pauses the timer on all debuffs inflicted on all enemies.
+|"Unceasing Curse" (Node 4) ''and either'' "Eclipse" (Node 16) ''or'' "Attack Up" (Node 18)
+|170 SP
+|-
+|23
+|[[File:XC3 Soul Tree Heat Gauge.png|45px]]
+|'''Heat Gauge'''&lt;br&gt;Heat Control: Time
+|Slows heat gauge buildup over time.
+|"Attack Up" (Node 27)
+|90 SP
+|-
+|24
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Plus
+|Increases Critical Rate by 15 percentage points.
+|"Attack Up" (Node 18) ''or'' "Fleeting Form" (Node 28) ''or'' "Dexterity Up" (Node 29)
+|30 SP
+|-
+!colspan="6"|Column 7
+|-
+|25
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Plus
+|Increases Attack by 75.
+|"Dexterity Plus" (Node 20) ''or'' "Atomize" (Node 31)
+|35 SP
+|-
+|26
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Lurking Spider
+|Interlink Lv3: Burst all
+|"Dexterity Plus" (Node 20) ''or'' "Critical Up" (Node 32)
+|190 SP
+|-
+|27
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Attack Up
+|Boosts Attack by 25%.
+|"Atomize" (Node 31) ''or'' "Shared Curse" (Node 33)
+|45 SP
+|-
+|28
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Fleeting Form
+|Regenerate to all
+|"Fleeting Form" (Node 13) ''and either'' "Critical Plus" (Node 24) ''or'' "Critical Up" (Node 32)
+|190 SP
+|-
+|29
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Dexterity Up
+|Boosts Dexterity by 15%.
+|"Critical Plus" (Node 24) ''or'' "Shared Curse" (Node 33)
+|35 SP
+|-
+!colspan="6"|Column 8
+|-
+|30
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Body Double
+|AOE / 1 random debuff
+|"Body Double" (Node 11) ''and'' "Lurking Spider" (Node 26)
+|210 SP
+|-
+|31
+|[[File:XC3 Soul Tree Enhance Art.png|45px]]
+|'''Enhance Art'''&lt;br&gt;Atomize
+|AOE/Blowdown/Blaze/Evade
+|"Attack Plus" (Node 25) ''or'' "Attack Up" (Node 27)
+|210 SP
+|-
+|32
+|[[File:XC3 Soul Tree Raise Ability.png|45px]]
+|'''Raise Ability'''&lt;br&gt;Critical Up
+|Boosts Critical Rate by 15%.
+|"Lurking Spider" (Node 26) ''or'' "Fleeting Form" (Node 28)
+|40 SP
+|-
+|33
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Shared Curse
+|Grants a large increase to damage dealt for each debuff active on all enemies (up to a maximum of 500%).
+|"Shared Curse" (Node 3) ''and either'' "Attack Up" (Node 27) ''or'' "Dexterity Up" (Node 29)
+|200 SP
+|-
+|34
+|[[File:XC3 Soul Tree Enhance Skill.png|45px]]
+|'''Enhance Skill'''&lt;br&gt;Strength Sapper
+|Adds 10% chance to reset enemy recharge when Art hits.
+|"Strength Sapper" (Node 9) ''and'' "Fleeting Form" (Node 28)
+|200 SP
+|}
+
+== Battle ==
+* [[Agnus Healer]]
+
+== Trivia ==
+* Taion shares his Japanese voice actor, Ry&#333;hei Kimura, with [[Sunny]].&lt;ref&gt;https://twitter.com/XenobladeJP/status/1585182293827600384&lt;/ref&gt;
+
+== Gallery ==
+=== Artwork ===
+&lt;gallery&gt;
+XC3 Taion Artwork.png|Official Artwork
+XC3 Taion as a Tactician.jpg|Taion as a Tactician
+XC3 Taion Twitter.jpg|Artwork of Taion by Masatsugu Saito to celebrate the launch of {{XC3|-}}
+MS recruiting Artwork Reina Nakamura.jpg|Monolith Soft recruitment artwork
+XC3 OST Artwork.jpg|Xenoblade 3 Original Soundtrack Artwork
+Taion Concept 1.png|Taion Concept Art
+Taion Concept 2.png
+Taion Concept 3.png
+Taion Concept 4.png
+Taion Ouroboros Concept 1.png|Taion's Ouroboros Form Concept Art
+Taion Ouroboros Concept 2.png
+Taion Ouroboros Concept 3.png
+Taion Ouroboros Concept 4.png
+&lt;/gallery&gt;
+
+=== In-Game Renders ===
+&lt;gallery&gt;
+Taion Hero Icon.png|Hero List Icon
+Taion Chain Art Icon.png|Taion's Chain Art Icon
+Taion Ouroboros Chain Art Icon.png|Taion's Ouroboros Order Icon
+Taion Level Up Art.png|Taion's Level Up Art
+Taion Level Up Art 2.png|Taion's Level Up Art (Military Uniform)
+Icon chara 3.png
+Icon chara 29.png
+Icon chara battle 3.png
+Icon chara battle 31.png
+Strm ch thumb004 0.png
+&lt;/gallery&gt;
+
+=== Screenshots ===
+&lt;gallery&gt;
+XC3 Taion Screenshot.png|Taion In Battle.
+XC3 Taion Screenshot 2.jpg|Taion using Katashiro
+XC3 Gem Crafting 01.jpg|Taion [[Gem Crafting]] with Riku
+Three Agnus Soldiers.jpeg|Taion, Mio, and Sena wearing masks
+Young Taion.jpg|Young Taion
+Taion Military Uniform.jpg|Taion in his Military Uniform
+Taion DLC Outfit 1 Screenshot.jpeg|One of Taion's Expansion Pass outfits
+TaionSwimsuit.jpg|Taion's Swimwear A outfit from the Expansion Pass
+TaionSwimwearB.png|Taion's Swimwear B outfit from the Expansion Pass
+Taion Jin Outfit.png|Taion's Throwback A outfit from the Expansion Pass, based on Jin's True Form from {{XC2|-}}.
+Taion Jin Outfit B.jpg|Taion's Throwback B outfit from the Expansion Pass, based on Jin's True Form from {{XC2|-}}.
+&lt;/gallery&gt;
+
+== References ==
+&lt;references /&gt;
+
+{{XC3CharNav}}
+
+{{xc3 stub}}
+[[es:Taion]]
+
+[[Category:XC3 Playable Characters]]
+[[Category:Taion]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Ouroboros]]
+[[Category:Pages needing plot info]]</text>
+      <sha1>imyf3wz4rnsazdp1k0z98dy6yuli9jq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talkative Dirakha</title>
+    <ns>0</ns>
+    <id>119466</id>
+    <revision>
+      <id>574736</id>
+      <parentid>574706</parentid>
+      <timestamp>2023-01-30T12:58:24Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574736</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1536" sha1="co81jjgao534xvm5ozyy6wg89bvg70o" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Talkative Dirakha
+|image        = XC3 Talkative Dirakha.png
+|caption      = Talkative Dirakha
+|type         = [[Moglum]]
+|level        = 63
+|area         = [[Erythia Sea]] ([[Welkin Falls]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 2,817
+|cp           = 166
+|sp           = 5
+|gold         = 1,722
+|hp           = 2,476,800
+|strength     = 845
+|healing      = 517
+|dexterity    = 199
+|agility      = 178
+|physdef      = 15%
+|ethdef       = 0%
+|critrate     = 30%
+|guardrate    = 0%
+}}
+'''Talkative Dirakha''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Moglum]] family, and can be found at level 63 near [[Welkin Falls]] in southeast [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Deeply Tactical]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+
+To find Talkative Dirakha, skip to the [[Welkin Falls]] Landmark (if it is unlocked) and drop down the waterfall to the north. It should be right next to you when you fall. 
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Talkative dirakha location.png
+Talkative dirakha.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Moglums]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>co81jjgao534xvm5ozyy6wg89bvg70o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tallow</title>
+    <ns>0</ns>
+    <id>122345</id>
+    <revision>
+      <id>597787</id>
+      <parentid>596101</parentid>
+      <timestamp>2023-07-02T16:29:26Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597787</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1467" sha1="ob0jdrh7ze8usuzwx9mmfi2wy0ashv8" xml:space="preserve">{{Infobox_NPC
+|name        = Tallow
+|image       = XC3 Tallow Icon.png
+|personality = 
+|time_active = Anytime
+|gender      = Male
+|race        = [[Agnus|Agnian]] human
+|age         = 5th Term
+|location    = [[Erythia Sea]] ([[Colony Mu]])
+}}
+'''Tallow''' is a NPC in {{XC3}}. Tallow is the new lieutenant of [[Colony Mu]].
+{{clr}}
+
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Tallow
+|image        = Tallow battle.png
+|caption      = Tallow
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 60
+|area         = [[Erythia Sea]] ([[Colony Mu]])
+|spawntime    = During ''[[Colony Mu's Resolve]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           =
+}} 
+'''Tallow''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]. He is an [[Agnus Forces|Agnus Soldier]] who is fought at level 60 at [[Colony Mu]] in [[Erythia Sea]] during ''[[Colony Mu's Resolve]]''.
+{{clr}}
+
+{{xc3 stub}}
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 NPCs missing info]]</text>
+      <sha1>ob0jdrh7ze8usuzwx9mmfi2wy0ashv8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Taos</title>
+    <ns>0</ns>
+    <id>11310</id>
+    <revision>
+      <id>602128</id>
+      <parentid>600824</parentid>
+      <timestamp>2023-07-22T12:28:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* {{XC3FR|sub}} */</comment>
+      <origin>602128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3019" sha1="kw9jahg09ky83m3hyvhy2etesftr92m" xml:space="preserve">[[file:RapturousScandia.jpg|thumb|Rapturous Scandia in {{XC2|-}}]]
+'''Taos''' (Japanese: {{lang|ja|&#12479;&#12458;&#12540;&#12473;}}, ''Ta&#333;su'') is a family of avian enemies in the {{XC|serieslink}}. They come in blue and orange varieties, and undergo no appearance changes between games, except in {{XC}} and {{XCFC|sublink}} where Taos only come in an orange species and [[Tokilos]] in a close blue exclusive species.
+
+== {{XC|-}} ==
+In {{XC}}, Taos can be found exclusively on [[Valak Mountain]].
+
+=== Normal Minor Enemies ===
+* [[Snowal Taos]]
+* [[Snowi Taos]]
+
+=== Unique Monster ===
+* [[Hidden Gamigin]]
+
+== {{XCFC|sub}} ==
+=== Normal Minor Enemy ===
+* [[Snowal Taos]] ([[Fogbeast]])
+
+=== Boss ===
+* [[Snowal Taos (boss)|Snowal Taos]] ([[Fogbeast]])
+
+== {{XC2|-}} ==
+In {{XC2}}, Taos appear in multiple areas, including [[Gormott Province]], the [[Leftherian Archipelago]], the [[Cliffs of Morytha]], and the [[World Tree]].
+
+=== Normal Minor Enemies ===
+* [[Heidl Taos]]
+* [[Messar Taos]]
+* [[Skad Taos]]
+* [[Vay Taos]]
+
+=== Quest Exclusive Enemy ===
+* [[Ship-Eating Taos]] (during ''[[Newt Recruits]]'')
+
+=== Unique Monsters ===
+* [[Crimson Derrick]]
+* [[Rapturous Scandia]]
+
+== {{TTGC|-}} ==
+=== Normal Minor Enemy ===
+* [[Celsars Taos]]
+
+=== Unique Monster ===
+* [[Overaffectionate Murph]]
+
+== {{XC3|-}} ==
+=== Normal Minor Enemies ===
+* [[Armeh Taos]]
+* [[Borgen Taos]]
+* [[Candela Taos]]
+* [[Kugel Taos]]
+* [[Shelp Taos]]
+* [[Zenze Taos]]
+
+=== Quest Exclusive Enemy ===
+* [[Sonorous Taos]] (DLC, during ''[[Lapidarist Extraordinaire]]'')
+
+=== Unique Monsters ===
+* [[Fineblade Faltaar]]
+* [[Ragemaw Tempeldo]]
+
+=== Quest Exclusive Boss ===
+* [[Towaris Taos]] (during ''[[Jeremy's Request]]'')
+
+== {{XC3FR|sub}} ==
+=== Normal Minor Enemies ===
+* [[Candela Taos]]
+* [[Kugel Taos]]
+* [[Zenze Taos]]
+
+=== Unique Monsters ===
+* [[Many-Lived Derrick]]
+* [[Tenebrous Muramasa]]
+
+=== Quest Exclusive Boss ===
+* [[Heidel Taos]] (during ''[[The Ouroboros Power]]'')
+
+== Gallery ==
+=== {{XC|-}} ===
+&lt;gallery&gt;
+Snowal Taos (tokilos).jpg
+&lt;/gallery&gt;
+
+=== {{XC2|-}} ===
+&lt;gallery&gt;
+Vay Taos.png
+SkadTaos.jpg
+XC2 Messar Taos.png
+&lt;/gallery&gt;
+
+=== {{TTGC|-}} ===
+&lt;gallery&gt;
+CelsarsTaos.jpg|Celsars Taos
+Murph.jpg|Overaffectionate Murph
+&lt;/gallery&gt;
+
+=== {{XC3|-}} ===
+&lt;gallery&gt;
+Borgen Taos.png|Borgen Taos
+XC3 Fineblade Faltaar.png|Fineblade Faltaar
+XC3 Ragemaw Tempeldo.png|Ragemaw Tempeldo
+&lt;/gallery&gt;
+
+=== {{XC3FR|sub}} ===
+&lt;gallery&gt;
+Heidel Taos.jpg|Heidel Taos
+&lt;/gallery&gt;
+
+[[Category:Bionis Life]]
+[[Category:XC Species]]
+[[Category:Flying Enemies]]
+[[Category:Species Category]]
+[[Category:XC Taos]]
+[[Category:Sight Category]]
+[[Category:XCFC Species]]
+[[Category:XCFC Taos]]
+[[Category:XC2 Species]]
+[[Category:XC2 Taos]]
+[[Category:XC2 Aerial Creatures]]
+[[Category:TTGC Species]]
+[[Category:TTGC Taos]]
+[[Category:TTGC Aerial Creatures]]
+[[Category:XC3 Species]]
+[[Category:XC3 Taos]]
+[[Category:XC3 Aerial Life]]
+[[Category:XC3FR Species]]
+[[Category:XC3FR Taos]]
+[[Category:XC3FR Aerial Life]]
+[[Category:Taos]]
+[[Category:Species by Type]]</text>
+      <sha1>kw9jahg09ky83m3hyvhy2etesftr92m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Target Lock</title>
+    <ns>0</ns>
+    <id>124915</id>
+    <revision>
+      <id>588239</id>
+      <parentid>584861</parentid>
+      <timestamp>2023-05-03T06:25:06Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <comment>stub because no enemy arts</comment>
+      <origin>588239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1320" sha1="cilu9v7mqbehoo3n4i71wykhw10u5b2" xml:space="preserve">{{Infobox XC3 Status
+|title          = Target Lock
+|caption        = Locks enemy into targeting user.
+|image          = XC3 Target Lock.png
+|type           = Debuff
+|attribute      = Physical
+|base-duration  = 10.0s
+|max-duration   = 15.0s
+|success-rate   = 100%
+|rng-applicable = No
+}}
+'''Target Lock''' is a [[Status Effect]] in {{XC3}} and {{XC3FR|sublink}}. It causes the target enemies or players to have their [[Target Line]] locked to the target enemy or player.
+
+Target Lock can be resisted using the [[Mint Potpourri (XC3)|Mint Potpourri]] or [[Lavender Potpourri (XC3)|Lavender Potpourri]] [[Accessory (XC3)|accessories]].
+== Distribution ==
+=== Arts ===
+* [[Glow Ring]] ([[Zephyr]])
+* [[Dragon Gas]] ([[Soulhacker]], learnt by defeating [[Villainous Igna]])
+* {{Link noparens|Night Breaker (XC3)}} ([[Unlimited Sword]], in Defender role)
+* [[Radiant Ring]] ([[Mio]], [[Ouroboros]])
+
+==== In {{XC3FR|sub}} ====
+* [[Monado Rage]] ([[Shulk]])
+
+=== Skills ===
+* [[Soulhacker#Enemy Skills|Megashout]] (Soulhacker; chance-based trigger when ally has critical HP, requires Soul Hacking [[Doomfang Caum]])
+* [[Soulhacker#Enemy Skills|Revenge Impetus]] (Soulhacker; chance-based trigger when revived, requires Soul Hacking [[Crafty Anskey]])
+
+[[Category:XC3 Status]]
+[[Category:XC3FR Status]]
+
+{{xc3 stub}}
+{{fr stub}}</text>
+      <sha1>cilu9v7mqbehoo3n4i71wykhw10u5b2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Taskmaster Imperion</title>
+    <ns>0</ns>
+    <id>119479</id>
+    <revision>
+      <id>574735</id>
+      <parentid>574707</parentid>
+      <timestamp>2023-01-30T12:58:00Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574735</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1374" sha1="8cc9uutbybmwjzjkr4t2ts5e55tuxs4" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Taskmaster Imperion
+|image        = XC3 Taskmaster Imperion.png 
+|caption      = Taskmaster Imperion
+|type         = [[Levnis]]
+|level        = 49
+|area         = [[Erythia Sea]] ([[Erythia Relay Base]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 1,691
+|cp           = 131
+|sp           = 5
+|gold         = 2,692
+|hp           = 1,510,500
+|strength     = 1,165
+|healing      = 408
+|dexterity    = 171
+|agility      = 154
+|physdef      = -10%
+|ethdef       = 20%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Taskmaster Imperion''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is an [[Agnus|Agnian]] [[Levnis]], and can be found at level 49 in the [[Erythia Relay Base]] in [[Erythia Sea]]. The [[Soulhacker#Enemy Skills|Excessive Armor]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 75%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Taskmaster imperion location.png
+Taskmaster imperion.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 46-50 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8cc9uutbybmwjzjkr4t2ts5e55tuxs4</sha1>
+    </revision>
+  </page>
+  </mediawiki>

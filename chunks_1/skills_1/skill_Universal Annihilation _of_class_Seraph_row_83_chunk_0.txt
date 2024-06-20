@@ -1,0 +1,6 @@
+Skill Name: Universal Annihilation 
+
+Class: Seraph
+
+Skill Buff or Effect:  Boosts damage dealt to toppled and launched targets by 150%. [Rank 15 Master Skill]
+

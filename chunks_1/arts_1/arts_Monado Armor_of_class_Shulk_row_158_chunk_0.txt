@@ -1,0 +1,6 @@
+Art Name: Monado Armor
+
+Class: Shulk
+
+Effect: Field/Armor Veil
+

@@ -1,0 +1,6 @@
+Art Name: Blitz Punch
+
+Class: Nikol
+
+Effect: High aggro
+

@@ -1,0 +1,6 @@
+Art Name: Violent Flurry
+
+Class: Thaumaturge
+
+Effect: Chance to pierce
+

@@ -1,0 +1,6 @@
+Art Name: Shadow Parade
+
+Class: Troubador
+
+Effect: Fast charge/Def. down
+

@@ -1,0 +1,818 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Princess Arachno</title>
+    <ns>0</ns>
+    <id>123829</id>
+    <revision>
+      <id>581320</id>
+      <parentid>559298</parentid>
+      <timestamp>2023-04-03T15:46:43Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1055" sha1="tgco4g5mdudxt65gw3tau2jmrtzstak" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Princess Arachno
+|image        = 
+|caption      = Princess Arachno
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Arachno]]
+|level        = 26
+|area         = [[Urayan Tunnels]]
+|spawntime    = During ''[[A Nopon's Counsel]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Princess Arachnos''' are [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Bosses]] in {{XC3}}. They are members of the [[Arachno]] family, and are fought at level 26 in the [[Urayan Tunnels]] during ''[[A Nopon's Counsel]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Arachnos]]
+[[Category:XC3 Level 26-30 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>tgco4g5mdudxt65gw3tau2jmrtzstak</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Princess Brog</title>
+    <ns>0</ns>
+    <id>122992</id>
+    <revision>
+      <id>573550</id>
+      <parentid>559873</parentid>
+      <timestamp>2023-01-22T18:38:49Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573550</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="849" sha1="l8itlvltm4ncupud5z6whoc7wxkgqk9" xml:space="preserve">{{Infobox Enemy
+|name         = Princess Brog
+|image        = 
+|caption      = Princess Brog
+|category     = Minor Enemy
+|type         = [[Brog]]
+|level        = 23
+|area         = [[Yzana Plains]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Princess Brogs''' are Minor Enemies in {{XC3}}. They are members of the [[Brog]] family, and can be found at level 23 at [[Yzana Plains]] and [[Millick Meadows]] in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Brogs]]
+[[Category:XC3 Level 21-25 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>l8itlvltm4ncupud5z6whoc7wxkgqk9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prink Medooz (XC3)</title>
+    <ns>0</ns>
+    <id>121854</id>
+    <revision>
+      <id>579786</id>
+      <parentid>560225</parentid>
+      <timestamp>2023-03-20T21:11:16Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <comment>Infobox</comment>
+      <origin>579786</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="809" sha1="1xpqvl4r6dulei934czrcn3rfo80q4m" xml:space="preserve">{{for|the enemies in {{XC2|-}}|Prink Medooz (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Prink Medooz
+|image        = 
+|caption      = Prink Medooz
+|category     = Minor Enemy
+|type         = [[Medooz]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Prink Medoozes''' are Minor Enemies in {{XC3}}. They are members of the [[Medooz]] family, and can be found at level ? in [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Medoozes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>1xpqvl4r6dulei934czrcn3rfo80q4m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prison Warden</title>
+    <ns>0</ns>
+    <id>121907</id>
+    <revision>
+      <id>597766</id>
+      <parentid>596095</parentid>
+      <timestamp>2023-07-02T16:28:35Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Battle */cat.</comment>
+      <origin>597766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1680" sha1="bngjb29p21ll2df6jqh9e1z6pro2j7g" xml:space="preserve">{{Infobox NPC
+|name        = Prison Warden
+|image       = XC3 Prison Warden Icon.png
+|personality = 
+|time_active = 
+|gender      = Male
+|race        = [[Agnus|Agnian]] human
+|age         = 10th term
+|location    = [[Li Garte Prison Camp]]
+}}
+The '''Prison Warden''' is an NPC in {{XC3}}. He is the warden of [[Li Garte Prison Camp]].
+{{clr}}
+== Battle ==
+{{Infobox XC3 Enemy
+|name         = Prison Warden
+|image        = Prison Warden and Prison Guards.jpg
+|caption      = Prison Warden
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|type         = [[Agnus Forces]]
+|level        = 56
+|area         = [[Li Garte Prison Camp]]
+|spawntime    = During ''[[In Search of a Home]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|healing      = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate-front   = 
+|guardrate-side    = 
+|guardrate-back    = 
+}}
+The '''Prison Warden''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] in {{XC3}}. They are an [[Agnus Forces|Agnus Soldier]], and is fought at level 56 in the [[Central Cell]] in the [[Li Garte Prison Camp]] during ''[[In Search of a Home]]''.
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Cadensia Region NPCs]]
+[[Category:XC3 Agnians]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Agnus Forces]]
+[[Category:XC3 Level 56-60 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>bngjb29p21ll2df6jqh9e1z6pro2j7g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prithee Pippito</title>
+    <ns>0</ns>
+    <id>123162</id>
+    <revision>
+      <id>573525</id>
+      <parentid>564961</parentid>
+      <timestamp>2023-01-22T13:06:40Z</timestamp>
+      <contributor>
+        <username>Ma'crish823</username>
+        <id>26869850</id>
+      </contributor>
+      <origin>573525</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="862" sha1="j6ijauf9zxr6ll18kaaax1l3tsz6x36" xml:space="preserve">{{Infobox Enemy
+|name         = Prithee Pippito
+|image        = 
+|caption      = Prithee Pippito
+|category     = Minor Enemy
+|type         = [[Pippito]]
+|level        = 12
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Prithee Pippitos''' are Minor Enemies in {{XC3}}. They are members of the [[Pippito]] family, and can be found at level 12 in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Pippitos]]
+[[Category:XC3 Level 11-15 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>j6ijauf9zxr6ll18kaaax1l3tsz6x36</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Profound Hodzuki</title>
+    <ns>0</ns>
+    <id>119427</id>
+    <revision>
+      <id>583312</id>
+      <parentid>574548</parentid>
+      <timestamp>2023-04-17T16:01:20Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583312</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1316" sha1="rsmul0bnemxm9rz75kvy4471yeolizd" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Profound Hodzuki
+|image        = Profound Hodzuki.png
+|caption      = Profound Hodzuki
+|type         = [[Quadwing]]
+|level        = 44
+|area         = [[Elaice Highway]] ([[Visura Parkland]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 1,193
+|cp           = 101
+|sp           = 5
+|gold         = 1,099
+|hp           = 887,700
+|strength     = 918
+|healing      = 332
+|dexterity    = 186
+|agility      = 213
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 18%
+|guardrate    = 0%
+}}
+'''Profound Hodzuki''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Quadwing]] family, and can be found at level 44 at [[Visura Parkland]] on [[Elaice Highway]]. The [[Hypnotism]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 50%
+|blowdown = 50%
+|physdebuff = 25%
+|etherdebuff = 80%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Profound hodzuki location.png
+Profound hodzuki.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>rsmul0bnemxm9rz75kvy4471yeolizd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prom Flier</title>
+    <ns>0</ns>
+    <id>121111</id>
+    <revision>
+      <id>595173</id>
+      <parentid>595171</parentid>
+      <timestamp>2023-06-11T15:10:01Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>595173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1609" sha1="co6w7y331syl0453p1i6kw9es0yvjub" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Prom Flier
+|image        = 
+|caption      = Prom Flier
+|category     = Normal Minor Enemy
+|type         = [[Flier]]
+|level        = 16-17
+|area         = [[Ribbi Flats]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Prom Fliers''' are Normal Enemies in {{XC3}}. They are members of the [[Flier]] family, and can be found at level 16-17 in [[Ribbi Flats]].
+{{clr}}
+
+== {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Prom Flier
+|image        = Prom Flier FR.jpg
+|caption      = Prom Flier
+|category     = Normal Minor Enemy
+|type         = [[Flier]]
+|level        = 5
+|area         = [[Vermilion Woods]] ([[Parvus Airspring]], [[Fairylight Fount]])
+|spawntime    = Daytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Prom Fliers''' are normal enemies in {{XC3FR}}. They are members of the [[Flier]] family, and can be found at level 5 at [[Parvus Airspring]] and [[Fairylight Fount]] in [[Vermilion Woods]] during the day.
+{{clr}}
+
+{{xc3 stub}}
+{{Fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Fliers]]
+[[Category:XC3FR Fliers]]
+[[Category:XC3 Level 16-20 Enemies]]
+[[Category:XC3FR Level 1-5 Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>co6w7y331syl0453p1i6kw9es0yvjub</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prom Skeeter (XC3)</title>
+    <ns>0</ns>
+    <id>121216</id>
+    <revision>
+      <id>560347</id>
+      <parentid>559877</parentid>
+      <timestamp>2022-10-03T16:32:14Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>560347</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="852" sha1="ou7hsq7icyqrlxov5qs0k44d7w233fi" xml:space="preserve">{{for|the enemy in {{XC|-}}|Prom Skeeter (XC1)}}
+{{Infobox Enemy
+|name         = Prom Skeeter
+|image        = 
+|caption      = Prom Skeeter
+|category     = Minor Enemy
+|type         = [[Skeeter]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Prom Skeeters''' are Minor Enemies in {{XC3}}. They are members of the [[Skeeter]] family, and can be found at level ? at [[Urayan Tunnels]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Skeeters]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ou7hsq7icyqrlxov5qs0k44d7w233fi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Protector Revelta</title>
+    <ns>0</ns>
+    <id>119450</id>
+    <revision>
+      <id>574631</id>
+      <parentid>574550</parentid>
+      <timestamp>2023-01-29T21:58:50Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1508" sha1="06tsx4v4w82s7sunu5alo5a4c570r94" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Protector Revelta
+|image        = XC3 Protector Revelta.png
+|caption      = Protector Revelta
+|type         = [[Levnis]]
+|level        = 64
+|area         = [[Syra Hovering Reefs]] ([[Hovering Reef 1 (XC3)|Hovering Reef 1]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 2,774
+|cp           = 157
+|sp           = 5
+|gold         = 3,765
+|hp           = 2,613,600
+|strength     = 1,879
+|healing      = 525
+|dexterity    = 280
+|agility      = 201
+|physdef      = 15%
+|ethdef       = -5%
+|critrate     = 12%
+|guardrate-front = 30%
+|guardrate-side  = 5%
+|guardrate-back  = 5%
+}}
+'''Protector Revelta''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a [[Keves]]i [[Levnis]] family, and can be found at level 64, near the entrance of [[Keves Castle]] on [[Hovering Reef 1 (XC3)|Hovering Reef 1]] of the [[Syra Hovering Reefs]]. The [[Soulhacker#Enemy Skills|Heavy Armor]] [[Skill (XC3)|Skill]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 90%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 75%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Protector revelta location.png
+Protector revelta.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Levnises]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>06tsx4v4w82s7sunu5alo5a4c570r94</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Puckish Lycconen</title>
+    <ns>0</ns>
+    <id>123796</id>
+    <revision>
+      <id>596168</id>
+      <parentid>563633</parentid>
+      <timestamp>2023-06-16T20:24:07Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* Story */cat.</comment>
+      <origin>596168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1955" sha1="3s9by3f43un7d96fd7zjce2nidipfom" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Puckish Lycconen
+|image        = XC3 Puckish Lycconen.png
+|caption      = Puckish Lycconen
+|type         = [[Keves Forces]]
+
+|tab1         = 1st
+|category     = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level        = 68
+|area         = [[Keves Castle]] ([[Troop Reserve Section]])
+|spawntime    = During ''[[Fate]]''
+|respawn      = No
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+|gold         = 
+|hp           = 
+|strength     = 
+|ether        = 
+|dexterity    = 
+|agility      = 
+|physdef      = 
+|ethdef       = 
+|critrate     = 
+|guardrate    = 
+
+|tab2         = 2nd
+|category2    = [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]]
+|level2       = 69
+|area2        = [[Keves Castle]] ([[Annihilator Foundations]])
+|spawntime2   = During ''[[Fate]]''
+|respawn2     = No
+|movement2    = 
+|detection2   = 
+|exp2         = 
+|cp2          = 
+|sp2          = 
+|gold2        = 
+|hp2          = 
+|strength2    = 
+|ether2       = 
+|dexterity2   = 
+|agility2     = 
+|physdef2     = 
+|ethdef2      = 
+|critrate2    = 
+|guardrate2   = 
+}}
+'''Puckish Lycconen''' is a [[Quest Exclusive Enemy (XC3)|Quest Exclusive]] [[Boss (XC3)|Boss]] who is part of the [[Keves Forces]] and is fought at level 68 and 69 in [[Keves Castle]] during ''[[Fate]]''.
+
+== Story ==
+He is one of the Four Divine Wings staging an armed uprising within the castle, alongside [[Incorruptible Sitre]], [[Mediator Adrinael]], and [[Overfist Balroy]]. He has a specialty for luring opponents into traps, and was described by [[Lanz]] as similar to [[Taion]].
+{{clr}}
+
+{{xc3 stub}}
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Exclusive Enemies]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Level 66-70 Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>3s9by3f43un7d96fd7zjce2nidipfom</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Purumii Crustip</title>
+    <ns>0</ns>
+    <id>123781</id>
+    <revision>
+      <id>559878</id>
+      <parentid>557189</parentid>
+      <timestamp>2022-09-30T10:55:37Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559878</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="832" sha1="r6p2hxazexy6giya09fh3zd98ma698o" xml:space="preserve">{{Infobox Enemy
+|name         = Purumii Crustip
+|image        = 
+|caption      = Purumii Crustip
+|category     = Minor Enemy
+|type         = [[Crustip]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Purumii Crustips''' are Minor Enemies in {{XC3}}. They are members of the [[Crustip]] family, and can be found at level ? in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Crustips]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>r6p2hxazexy6giya09fh3zd98ma698o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzled Raquinu</title>
+    <ns>0</ns>
+    <id>119426</id>
+    <revision>
+      <id>574630</id>
+      <parentid>574551</parentid>
+      <timestamp>2023-01-29T21:55:50Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>574630</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1315" sha1="8je6ufwrp2lklcpmdpv9vg99nh5s28y" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Puzzled Raquinu
+|image        = XC3 Puzzled Raquinu.png
+|caption      = Puzzled Raquinu
+|type         = [[Bunnit]]
+|level        = 45
+|area         = [[Rae-Bel Tableland]] ([[Elsayer Cape]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 839
+|cp           = 59
+|sp           = 5
+|gold         = 646
+|hp           = 1,051,250
+|strength     = 1,089
+|healing      = 302
+|dexterity    = 181
+|agility      = 162
+|physdef      = 0%
+|ethdef       = 0%
+|critrate     = 8%
+|guardrate    = 0%
+}}
+'''Puzzled Raquinu''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Bunnit]] family, and can be found at level 45 at [[Elsayer Cape]] in [[Rae-Bel Tableland]]. The [[Raid Strike]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 25%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Puzzled raquinu location.png
+Puzzled raquinu.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 41-45 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Bunnits]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>8je6ufwrp2lklcpmdpv9vg99nh5s28y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzling Special Unit</title>
+    <ns>0</ns>
+    <id>123193</id>
+    <revision>
+      <id>596169</id>
+      <parentid>559879</parentid>
+      <timestamp>2023-06-16T20:24:10Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */cat.</comment>
+      <origin>596169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="815" sha1="bo8g03gafgffvzhhtrr85gojbi2pz1y" xml:space="preserve">{{Infobox Enemy
+|name         = Puzzling Special Unit
+|image        = 
+|caption      = Puzzling Special Unit
+|category     = Minor Enemy
+|type         = [[Keves Forces]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Puzzling Special Units''' are Minor Enemies in {{XC3}}. They are members of the [[Keves Forces]], and can be found at level ? in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Keves Forces]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>bo8g03gafgffvzhhtrr85gojbi2pz1y</sha1>
+    </revision>
+  </page>
+  </mediawiki>

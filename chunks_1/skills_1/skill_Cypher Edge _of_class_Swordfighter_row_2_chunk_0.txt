@@ -1,0 +1,6 @@
+Skill Name: Cypher Edge 
+
+Class: Swordfighter
+
+Skill Buff or Effect:  Boosts Critical Rate by 50%. [Rank 5 Master Skill]
+

@@ -1,0 +1,923 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Xenoblade Wiki</sitename>
+    <dbname>xenoblade</dbname>
+    <base>https://xenoblade.fandom.com/wiki/Xenoblade_Wiki</base>
+    <generator>MediaWiki 1.39.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Xenoblade Wiki</namespace>
+      <namespace key="5" case="first-letter">Xenoblade Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Royal Summoner</title>
+    <ns>0</ns>
+    <id>118553</id>
+    <revision>
+      <id>599867</id>
+      <parentid>598010</parentid>
+      <timestamp>2023-07-16T16:42:56Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>599867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9190" sha1="0g49e1g7sykxz8eyx2xo48ss1n2yv5g" xml:space="preserve">{{Spoiler}}
+{{quote|A fearsome Attacker combining dynamic elemental attacks with reliable support.|Class menu description}}
+[[File:Royal Summoner Class Icon.png|thumb|180px|The Royal Summoner class icon]]
+'''Royal Summoner''' is a [[Keves]]i [[Attacker]] [[Class (XC3)|class]] in {{XC3}}.
+
+== Overview ==
+Royal Summoner is the class of [[Melia]]. The [[Blade (XC3)|Blade]] of the Royal Summoner class is the Elemental Staff, which is Melia's [[World Ender]] from {{XCFC}}.
+
+It is unlocked by going to the [[Main Castle Gate]] in [[Keves Castle]] after completing the main story, or in [[New Game + (XC3)|New Game +]]. Completing the [[Hero Quest|Ascension Quest]] ''[[From Atop Her Throne]]'' will increase this class's rank limit from 10 to 20.
+
+=== Element Mechanics ===
+The Royal Summoner class has an unexplained mechanic known as '''Elemental Buffs''', which are associated with the elementals created using the Summon Element art, and are applied to the whole party. Arts belonging to the class that don't discharge elements summon elements at random:
+*'''Flare Elementals''' give +5% damage to nearby allies per orb;
+*'''Earth Elementals''' give +5% damage reduction to nearby allies per orb;
+*'''Aqua Elementals''' heal nearby allies by 1% of their maximum HP (per orb) every three seconds.
+
+These elemental buffs are affected by the "'''Here I Shall Stand'''" class ability, which increases elemental buff effects by 30%-50% depending on [[Class Rank (XC3)|Class Rank]]. Multiple elementals on the same character stack, however, if multiple characters have the same type of elemental, only the closest character (by distance) will provide their buffs to a given party member.
+
+Each elemental also has a separate effect when discharged using Elemental Discharge or Elemental Genesis:
+*Flare Elementals give an AOE effect centered on the targeted enemy at a 200% power multiplier;
+*Earth Elementals apply a [[Toxin]] debuff to a single target at a 200% power multiplier;
+*Aqua Elementals hit one target at a 150% power multiplier, and heal nearby allies for 10% of the damage dealt (to a maximum of the user's Healing Power).
+
+These elemental discharges are affected by the "'''Here I Shall Stand'''" class ability, which increases elemental damage by 60%-100% depending on [[Class Rank (XC3)|Class Rank]]. The discharge effect occurs after the initial hit of the Art, and occurs for each elemental held by the user. For example, with 3 Flare elements, the initial hit of Elemental Discharge would occur, followed by 3 AOE hits as a result of the Flare orbs. Elements' damage is not considered to be part of the Art, and thus do not benefit from buffs or equipment that affect Arts. A party member can only have up to three elementals at once; if more are summoned, the oldest ones will be automatically discharged.
+{{clr}}
+
+==Class Aptitude and Unlock Requirements==
+{|class="xc1 centered" style="width:100%; valign:center;"
+!Party Member
+|[[File:Icon chara battle n0ah.png|60px]]&lt;br&gt;'''[[Noah]]'''
+|[[File:Icon chara battle 1.png|60px]]&lt;br&gt;'''[[Mio]]'''
+|[[File:Icon chara battle 2.png|60px]]&lt;br&gt;'''[[Eunie]]'''
+|[[File:Icon chara battle 3.png|60px]]&lt;br&gt;'''[[Taion]]'''
+|[[File:Icon chara battle 4.png|60px]]&lt;br&gt;'''[[Lanz]]'''
+|[[File:Icon chara battle 5.png|60px]]&lt;br&gt;'''[[Sena]]'''
+|-
+!Aptitude
+|[[File:XC3 Aptitude S Icon.png|35px]]||[[File:XC3 Aptitude D Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]||[[File:XC3 Aptitude C Icon.png|35px]]||[[File:XC3 Aptitude A Icon.png|35px]]||[[File:XC3 Aptitude B Icon.png|35px]]
+|-
+!Class Unlock Points Required
+|''Class Inheritor''
+|7,440
+|4,250
+|6,375
+|3,190
+|5,315
+|}
+== Class Rank Requirements ==
+{| class="xc1 centered" width="45%"
+! Rank
+! CP needed 
+! Nopon Coin Cost
+|-
+| 1 
+| colspan="2" | None
+|-
+| 2 
+| 360
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 3 
+| 360
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 4 
+| 445
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 5 
+| 445
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 3
+|-
+| 6 
+| 535
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 7 
+| 535
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 8 
+| 580
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 9 
+| 580 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 4
+|-
+| 10 
+| 625
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| colspan="3" class="event" | Complete ''[[From Atop Her Throne]]''
+|-
+| 11 
+| 510 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 12 
+| 510
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 13 
+| 680
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 5
+|-
+| 14 
+| 680
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 15 
+| 845
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 16 
+| 845 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 17 
+| 1015
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 18 
+| 1015
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 6
+|-
+| 19 
+| 1100 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 7
+|-
+| 20 
+| 1270 
+| [[File:Nopon Coin Silver.png|link=Nopon Coin (Silver)|38px]] x 7
+|}
+{{clr}}
+== Class Stats ==
+The Royal Summoner class grants the following multipliers to a character's base stats (see their individual pages for their base stats), and sets their Physical and Ether Defense to the following values, depending on their current Rank. Intermediate values are linearly interpolated between the minimum and maximum values, rounding to the nearest percent.
+{| class="xc1 centered" width="100%"
+! Rank !! HP !! Attack !! Healing Power !! Dexterity !! Agility !! Physical Defense !! Ether Defense
+|-
+| 1 || 60% || 120% || 50% || 120% || 100% || 10% || 10%
+|-
+| 10 || 62% || 125% || 55% || 125% || 105% || 12% || 12%
+|-
+| 20 || 65% || 130% || 60% || 130% || 110% || 15% || 15%
+|}
+=== Weapon Stats ===
+The character's Attack stat after being modified by the above class stats is further modified by adding the class's weapon stat, which depends on the character's [[Level (XC3)|Level]], to obtain the final base Attack stat. These weapon stats also determine the character's Critical Rate and Block Rate. 
+
+Characters temporarily assume these weapon stats to calculate relevant statistics when using a Master Art from this Class without it being part of a Fusion Art. If a Master Art is used in a Fusion Art, the weapon stats corresponding to the character's current Class will be used instead for calculations.&lt;!-- In the exercise of saving space, only every tenth level is displayed --&gt;
+{| class="xc1 centered" width="60%"
+! Level !! Attack !! Critical Rate !! Block Rate
+|-
+| 1 || 22 || 20% || 5%
+|-
+| 10 || 48 || 21% || 6%
+|-
+| 20 || 86 || 22% || 6%
+|-
+| 30 || 133 || 23% || 6%
+|-
+| 40 || 186 || 24% || 7%
+|-
+| 50 || 248 || 25% || 8%
+|-
+| 60 || 316 || 26% || 8%
+|-
+| 70 || 391 || 27% || 9%
+|-
+| 80 || 477 || 28% || 9%
+|-
+| 90 || 574 || 29% || 10%
+|-
+| 99 || 671 || 30% || 10%
+|}
+== Arts ==
+* '''[[Element Genesis]]''' ([[Battle Arts (XC3)|Talent Art]]), AOE/Elem. Discharge dmg+
+* '''[[Summon Element]]''', AOE/Summon Elementals, maximum of 3 elementals (Rank 1 Master Art)
+* '''[[Elemental Discharge (XC3)|Elemental Discharge]]''', Release Elementals (Rank 10 Master Art)
+* '''[[Shadow Stitch (XC3)|Shadow Stitch]]''', [[Bind (XC3)|Bind]]
+* '''[[Starfall (XC3)|Starfall]]''', AOE / [[Topple (XC3)|Topple]]
+* '''[[Power Effect (XC3)|Power Effect]]''', Atk up / Def. down
+
+=== Hero-Exclusive Arts ===
+* '''[[Starlight Kick (XC1)#In_Xenoblade_Chronicles_3|Starlight Kick]]''', [[Topple (XC3)|Topple]]
+
+== Class Skills ==
+* [[File:XC3 Skill Icon 19.png]] '''Elemental Boost''', Each elemental discharge boosts damage dealt by 20-40% (up to a maximum of 400%).
+* [[File:XC3 Skill Icon 30.png]] '''Essence of Ether''', Boosts allies' damage by 20-30% and reduces enemy Block Rate by 5-15% (does not stack). (Rank 15 Master Skill)
+* [[File:XC3 Skill Icon 7.png]] '''Fortified Ether Guard''', Boosts Ether Defense by 10-20%. (Rank 5 Master Skill)
+* [[File:XC3 Skill Icon 19.png]] '''Here I Shall Stand''', Boosts elemental damage by 60-100% and elemental buff effects by 30-50%.
+
+=== Stat Increases===
+{| class="xc1 centered" style="width:80%;"
+! Class Rank 
+! Elemental Boost
+! Essence of Ether
+! Fortified Ether Guard
+! Here I Shall Stand
+|-
+| 1
+| 20%
+| 20%, 5%
+| 10%
+| 60%, 30%
+|-
+| 5
+| 25%
+| 22%, 7%
+| 12%
+| 70%, 35%
+|-
+| 10 
+| 30%
+| 25%, 10%
+| 15%
+| 80%, 40%
+|-
+| 15
+| 35%
+| 27%, 12%
+| 17%
+| 90%, 45%
+|-
+| 20
+| 40%
+| 30%, 15%
+| 20%
+| 100%, 50%
+|}
+
+== Gallery ==
+&lt;gallery&gt;
+Melia Official Artwork.png|Melia as a Royal Summoner
+Royal Summoner Noah.png|Noah as a Royal Summoner
+Royal Summoner Mio.png|Mio as a Royal Summoner
+Royal Summoner Eunie.png|Eunie as a Royal Summoner
+Royal Summoner Taion.png|Taion as a Royal Summoner
+Royal Summoner Lanz.png|Lanz as a Royal Summoner
+Royal Summoner Sena.png|Sena as a Royal Summoner
+&lt;/gallery&gt;
+{{xc3 stub}}
+[[Category:XC3 Classes]]</text>
+      <sha1>0g49e1g7sykxz8eyx2xo48ss1n2yv5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rudoni Anlood (XC3)</title>
+    <ns>0</ns>
+    <id>123158</id>
+    <revision>
+      <id>595989</id>
+      <parentid>559913</parentid>
+      <timestamp>2023-06-16T18:56:18Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>595989</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1097" sha1="kkhryjnydjok1b8ddzo1m9nqpfpne87" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Rudoni Anlood (XC2)}}
+{{Infobox Enemy
+|name         = Rudoni Anlood
+|image        = 
+|caption      = Rudoni Anlood
+|category     = Minor Enemy
+|type         = [[Anlood]]
+|level        = ?
+|area         = [[Aetia Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Rudoni Anloods''' are Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Anlood]] family, and can be found at level ? in the [[Aetia Region]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Anloods]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Aurora Shelf Enemies]]
+[[Category:XC3FR Anloods]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>kkhryjnydjok1b8ddzo1m9nqpfpne87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruffian Bunnit (XC3)</title>
+    <ns>0</ns>
+    <id>121203</id>
+    <revision>
+      <id>559914</id>
+      <parentid>547200</parentid>
+      <timestamp>2022-09-30T10:56:53Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="853" sha1="saaxokab2amjkwrxnv0cgdceatnnuhi" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Ruffian Bunnit (XC2)}}
+{{Infobox Enemy
+|name         = Ruffian Bunnit
+|image        = 
+|caption      = Ruffian Bunnit
+|category     = Minor Enemy
+|type         = [[Bunnit]]
+|level        = ?
+|area         = [[Urayan Trail]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Ruffian Bunnits''' are Minor Enemies in {{XC3}}. They are members of the [[Bunnit]] family, and can be found at level ? at [[Urayan Trail]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Bunnits]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>saaxokab2amjkwrxnv0cgdceatnnuhi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruffian Hox</title>
+    <ns>0</ns>
+    <id>121167</id>
+    <revision>
+      <id>559915</id>
+      <parentid>545578</parentid>
+      <timestamp>2022-09-30T10:56:55Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <origin>559915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="793" sha1="3smrfzszug7c4odfdograqxntxfqy3d" xml:space="preserve">{{Infobox Enemy
+|name         = Ruffian Hox
+|image        = 
+|caption      = Ruffian Hox
+|category     = Minor Enemy
+|type         = [[Hox]]
+|level        = ?
+|area         = [[Pentelas Region]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Ruffian Hoxes''' are Minor Enemies in {{XC3}}. They are members of the [[Hox]] family, and can be found at level ? at [[Great Cotte Falls]] in the [[Pentelas Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Hoxes]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>3smrfzszug7c4odfdograqxntxfqy3d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruga Quadwing (XC3)</title>
+    <ns>0</ns>
+    <id>117921</id>
+    <revision>
+      <id>595966</id>
+      <parentid>582041</parentid>
+      <timestamp>2023-06-16T18:46:58Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <origin>595966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1229" sha1="h9na9idjrvdnw99bs0ywlay4ge78uv5" xml:space="preserve">{{for|the enemy in {{XC2|-}}|Ruga Quadwing (XC2)}}
+{{Infobox XC3 Enemy
+|name         = Ruga Quadwing
+|image        = Ruga Quadwing (XC3).png
+|caption      = Ruga Quadwing
+|category     = Normal Minor Enemy
+|type         = [[Quadwing]]
+|level        = 8 - 10
+|area         = [[Alfeto Valley]] ([[Sepulchral Cliffpath]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Air
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Ruga Quadwings''' are Normal Minor Enemies in {{XC3}} and {{XC3FR|sublink}}. They are members of the [[Quadwing]] family and can be found at level 8 - 10 on the [[Sepulchral Cliffpath]] in [[Alfeto Valley]].
+
+== Drops ==
+* [[Bitter Quadwing Powder]]
+* [[Quadwing's Indulgence]]
+
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:XC3 Quadwings]]
+[[Category:XC3 Level 6-10 Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3FR Quadwings]]
+[[Category:XC3FR Enemy pages needing an infobox image]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>h9na9idjrvdnw99bs0ywlay4ge78uv5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruthless Grokken</title>
+    <ns>0</ns>
+    <id>119418</id>
+    <revision>
+      <id>581644</id>
+      <parentid>574625</parentid>
+      <timestamp>2023-04-05T19:37:28Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>581644</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1313" sha1="0lfu7kbc8kzfls9bwgt2xktivfaqf4c" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Ruthless Grokken
+|image        = XC3 Ruthless Grokken.png
+|caption      = Ruthless Grokken
+|type         = [[Brog]]
+|level        = 81
+|area         = [[Ribbi Flats]] ([[Tonic Waters]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Ground
+|detection    = 
+|exp          = 3,784
+|cp           = 160
+|sp           = 5
+|gold         = 1,702
+|hp           = 5,524,800
+|strength     = 1,726
+|healing      = 494
+|dexterity    = 263
+|agility      = 244
+|physdef      = 15%
+|ethdef       = 10%
+|critrate     = 20%
+|guardrate    = 0%
+}}
+'''Ruthless Grokken''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Brog]] family, and can be found at level 81 at [[Tonic Waters]] in [[Ribbi Flats]]. The [[Predation]] [[Battle Arts (XC3)|Art]] can be earned by the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 80%
+|knockback = Immune
+|blowdown = Immune
+|physdebuff = 50%
+|etherdebuff = Immune
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Ruthless grokken location.png
+Ruthless grokken.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Level 81-85 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Brogs]]
+[[Category:Fornis Region Enemies]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>0lfu7kbc8kzfls9bwgt2xktivfaqf4c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruthless Persecution</title>
+    <ns>0</ns>
+    <id>124382</id>
+    <revision>
+      <id>591899</id>
+      <parentid>581008</parentid>
+      <timestamp>2023-05-14T14:36:17Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591899</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="581" sha1="cd1qduh2s6gvk8ema5ebmgmq64gl03y" xml:space="preserve">{{Infobox battle art
+|name        = Ruthless Persecution
+|image       = Strm order thumb032 0.png
+|who         = [[Gray]]
+|class       = 
+|attribute   = 
+|target      = One Target
+|distance    = 
+|numhits     = 
+|power       = 
+|aggro       = 
+|knockback   = 
+|effect      = During Chain Attack, boosts damage dealt to low HP enemies by 60%-100%.
+|duration    = 
+|recharge    = 
+}}
+'''Ruthless Persecution''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Gray]]'s Chain Art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>cd1qduh2s6gvk8ema5ebmgmq64gl03y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Saber Siege</title>
+    <ns>0</ns>
+    <id>118437</id>
+    <revision>
+      <id>591900</id>
+      <parentid>581009</parentid>
+      <timestamp>2023-05-14T14:36:20Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>591900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="618" sha1="08u1l0qxzkaksygydu5njmdegvtq191" xml:space="preserve">{{Infobox battle art
+|name        = Saber Siege
+|image       = Strm_order_thumb027_0.png
+|who         = [[Ashera]]
+|class       = 
+|attribute   = ?
+|target      = 
+|distance    = 
+|numhits     = ?
+|power       = ? &#8211; ?
+|aggro       = 
+|knockback   = 
+|effect      = Increases damage ratio by 100-200 percentage points and grants [[Power Charge]] to all allies.
+|duration    = 
+|recharge    = 
+}}
+'''Saber Siege''' is a [[Battle Arts (XC3)|Chain Art]] in {{XC3}}. It is [[Ashera]]'s Chain art during a [[Chain Attack (XC3)|Chain Attack]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:Hero Class Arts]]
+[[Category:XC3 Chain Arts]]</text>
+      <sha1>08u1l0qxzkaksygydu5njmdegvtq191</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Saberly Doramp&#233;</title>
+    <ns>0</ns>
+    <id>118692</id>
+    <revision>
+      <id>583314</id>
+      <parentid>574671</parentid>
+      <timestamp>2023-04-17T16:05:46Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <minor/>
+      <origin>583314</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1417" sha1="awebcllrjttj0k0b5g9bi7iizp2ypmb" xml:space="preserve">{{Infobox XC3 Enemy
+|category     = Unique Monster
+|name         = Saberly Doramp&#233;
+|image        = XC3 Aquatic Beasts.png
+|caption      = Saberly Doramp&#233; (left)
+|type         = [[Quardun]]
+|level        = 65
+|area         = [[Great Cotte Falls]] ([[Cotte Fountainhead]])
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = Water
+|detection    = 
+|exp          = 2,280
+|cp           = 136
+|sp           = 5
+|gold         = 1,280
+|hp           = 1,863,000
+|strength     = 1,362
+|healing      = 425
+|dexterity    = 192
+|agility      = 153
+|physdef      = 15%
+|ethdef       = -15%
+|critrate     = 15%
+|guardrate    = 0%
+}}
+'''Saberly Doramp&#233;''' is a [[Unique Monster (XC3)|Unique Monster]] in {{XC3}}. It is a member of the [[Quardun]] family, and can be found at level 65 at the [[Cotte Fountainhead]] on [[Great Cotte Falls]]. It forms the "Aquatic Beasts" duo with [[Stately Doramma]]. The [[Double Slap]] [[Battle Arts (XC3)|Art]] can be earned for the [[Soulhacker]] [[Class (XC3)|class]] by defeating it.
+== Resistances ==
+{{XC3 Resistances
+|break = 50%
+|knockback = 100%
+|blowdown = 100%
+|physdebuff = 75%
+|etherdebuff = 50%
+}}
+{{clr}}
+
+== Gallery ==
+&lt;gallery&gt;
+Aquatic beasts location.png
+Aquatic beasts dorampe.png
+&lt;/gallery&gt;
+
+[[Category:XC3 Quarduns]]
+[[Category:Pentelas Region Enemies]]
+[[Category:XC3 Level 61-65 Enemies]]
+[[Category:XC3 Unique Monsters]]
+[[Category:XC3 Enemy pages needing drops]]</text>
+      <sha1>awebcllrjttj0k0b5g9bi7iizp2ypmb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sage's Auspices (XC3)</title>
+    <ns>0</ns>
+    <id>122635</id>
+    <revision>
+      <id>592840</id>
+      <parentid>592571</parentid>
+      <timestamp>2023-05-15T20:18:34Z</timestamp>
+      <contributor>
+        <username>WiseBot</username>
+        <id>27823011</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <origin>592840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="05qw95iocfv2lls0cu120r4tguipagt" xml:space="preserve">{{for|the Accessory in {{XC2|-}}|Sage's Auspices (XC2)}}
+&lt;div style="float: right;"&gt;
+&lt;tabber&gt;
+|-|Common =
+{{Infobox item
+|name      = Sage's Auspices
+|image     = XC3 Accessory Choker.png
+|caption   = Grants 90% resistance to Bind.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Common
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+|-|Rare =
+{{Infobox item
+|name      = Sage's Auspices
+|image     = XC3 Accessory Choker.png
+|caption   = Grants 95% resistance to Bind.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Rare
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+|-|Legendary =
+{{Infobox item
+|name      = Sage's Auspices
+|image     = XC3 Accessory Choker.png
+|caption   = Grants 100% resistance to Bind.
+|type      = [[Accessory (XC3)|Accessory]]
+|xc3rarity = Legendary
+|source    = 
+|sell      = 10,750 [[Gold|G]]
+}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+'''Sage's Auspices''' are [[Accessory (XC3)|Accessories]] in {{XC3}} and {{XC3FR|sublink}}.
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Accessories]]
+[[Category:XC3FR Accessories]]</text>
+      <sha1>05qw95iocfv2lls0cu120r4tguipagt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sagittarius</title>
+    <ns>0</ns>
+    <id>117510</id>
+    <revision>
+      <id>595188</id>
+      <parentid>581992</parentid>
+      <timestamp>2023-06-11T15:22:27Z</timestamp>
+      <contributor>
+        <username>Heroponsupert20</username>
+        <id>45922874</id>
+      </contributor>
+      <origin>595188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1943" sha1="nsizlhz9cgkeh6uj6jl38fsot3me16y" xml:space="preserve">{{Infobox XC3 Enemy
+|name         = Sagittarius
+|image        = XC3-Sagittarius.png 
+|caption      = Sagittarius
+|category     = Normal Enemy
+|type         = [[Levnis]]
+|level        = 34
+|area         = [[Everblight Plain]]&lt;br/&gt;[[Melnath's Shoulder (XC3)|Melnath's Shoulder]]&lt;br/&gt;[[Elaice Highway]]&lt;br/&gt;[[Rae-Bel Tableland]]&lt;br/&gt;[[Low Maktha Wildwood]]&lt;br/&gt;[[Syra Hovering Reefs]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|cp           = 
+|sp           = 
+}}
+'''Sagittariuses''' are Normal enemies in {{XC3}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 34.
+{{clr}}
+
+== In {{XC3FR|sub}} ==
+{{Infobox XC3 Enemy
+|name         = Sagittarius
+|image        = Sagittarius FR.jpg
+|caption      = Sagittarius
+|category     = Normal Minor Enemy
+|type         = [[Levnis]]
+|level        = 38
+|area         = [[Vermilion Woods]] ([[Colony 5 Wreckage]])
+|spawntime    = After reaching the [[Black Mountains]]
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+}}
+'''Sagittariuses''' are Normal Minor Enemies in {{XC3FR}}. They are [[Keves]]i [[Levnis]]es, and can be found at level 38 near the [[Colony 5 Wreckage]] in [[Vermilion Woods]] after reaching the [[Black Mountains]].
+{{clr}}
+
+{{xc3 stub}}
+{{fr stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:XC3FR Minor Enemies]]
+[[Category:XC3 Levnises]]
+[[Category:XC3FR Levnises]]
+[[Category:XC3 Level 31-35 Enemies]]
+[[Category:XC3FR Level 36-40 Enemies]]
+[[Category:XC3 Bosses]]
+[[Category:XC3 Quest Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:Aetia Region Enemies]]
+[[Category:Fornis Region Enemies]]
+[[Category:Pentelas Region Enemies]]
+[[Category:Keves Castle Region Enemies]]
+[[Category:Vermilion Woods Enemies]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3FR Enemy pages needing stats]]
+[[Category:XC3FR Enemy pages needing drops]]</text>
+      <sha1>nsizlhz9cgkeh6uj6jl38fsot3me16y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sailor Merigna</title>
+    <ns>0</ns>
+    <id>121857</id>
+    <revision>
+      <id>564949</id>
+      <parentid>559917</parentid>
+      <timestamp>2022-11-07T05:51:43Z</timestamp>
+      <contributor>
+        <username>UnknownUsename</username>
+        <id>51946900</id>
+      </contributor>
+      <minor/>
+      <comment>add category</comment>
+      <origin>564949</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="844" sha1="ervsgslc4ee7dxidz69lnxwxba8df9z" xml:space="preserve">{{Infobox Enemy
+|name         = Sailor Merigna
+|image        = 
+|caption      = Sailor Merigna
+|category     = Minor Enemy
+|type         = [[Merigna]]
+|level        = ?
+|area         = [[Erythia Sea]]
+|spawntime    = Anytime
+|respawn      = Yes
+|movement     = 
+|detection    = 
+|exp          = 
+|wp           = 
+|sp           = 
+}}
+'''Sailor Merignas''' are Minor Enemies in {{XC3}}. They are members of the [[Merigna]] family, and can be found at level ? at [[Erythia Sea]] in the [[Cadensia Region]].
+{{clr}}
+
+{{xc3 stub}}
+
+[[Category:XC3 Minor Enemies]]
+[[Category:Cadensia Region Enemies]]
+[[Category:XC3 Challenge Battle Enemies]]
+[[Category:XC3 Merignas]]
+[[Category:XC3 Enemy pages needing an infobox image]]
+[[Category:XC3 Enemy pages needing stats]]
+[[Category:XC3 Enemy pages needing drops]]
+[[Category:XC3 Enemy infobox to replace]]</text>
+      <sha1>ervsgslc4ee7dxidz69lnxwxba8df9z</sha1>
+    </revision>
+  </page>
+  </mediawiki>

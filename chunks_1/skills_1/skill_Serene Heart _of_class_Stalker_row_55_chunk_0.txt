@@ -1,0 +1,6 @@
+Skill Name: Serene Heart 
+
+Class: Stalker
+
+Skill Buff or Effect:  Reduces aggro generated from attacks by 50%.
+

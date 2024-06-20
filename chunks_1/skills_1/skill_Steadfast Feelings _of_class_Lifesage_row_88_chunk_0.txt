@@ -1,0 +1,6 @@
+Skill Name: Steadfast Feelings 
+
+Class: Lifesage
+
+Skill Buff or Effect:  Restores nearby allies' HP on Art execution. AMount healed is equal to 50% of user's Healing.
+

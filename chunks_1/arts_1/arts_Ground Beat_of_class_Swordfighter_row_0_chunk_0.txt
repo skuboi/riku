@@ -1,0 +1,6 @@
+Art Name: Ground Beat
+
+Class: Swordfighter
+
+Effect: AOE
+

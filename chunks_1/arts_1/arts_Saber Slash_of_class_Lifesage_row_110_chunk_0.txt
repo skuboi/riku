@@ -1,0 +1,6 @@
+Art Name: Saber Slash
+
+Class: Lifesage
+
+Effect: AOE/Area heal on hit
+
